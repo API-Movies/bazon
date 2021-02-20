@@ -1,0 +1,21 @@
+[
+  {
+    "date": 1613779200,
+    "movies": {
+      "all": 22036,
+      "kinopoisk": 22036,
+      "imdb": 0,
+      "tmdb": 0,
+      "world-art": 0,
+      "none": 0
+    },
+    "tv": {
+      "all": 2214,
+      "kinopoisk": 2214,
+      "imdb": 0,
+      "tmdb": 0,
+      "world-art": 0,
+      "none": 0
+    }
+  }
+]
