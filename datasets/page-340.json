@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "9887",
+      "date": "1581591168",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Ночной беглец",
+        "orig": "Night of the Running Man",
+        "alter": "",
+        "year": "1995",
+        "country": "США",
+        "director": "Марк Л. Лестер",
+        "genre": "боевик,триллер,криминал",
+        "actors": "Эндрю МакКарти, Алекс Зонн, Мэттью Лоранс, Карл Киарфалио, Энтони Пондзини, Джинна Майклс, Скотт Гленн, Катрин Лотнер, Питер Яканджело, Майф Наттер",
+        "description": "Джерри Логан работал таксистом в Лас-Вегас до тех пор, пока однажды не обнаружил сумку с миллионом долларов на заднем сидении своего автомобиля.\r\n\r\nНеудачник-пассажир, оставивший деньги, бежал от мафии. И, когда Джерри пытается покинуть страну с этими деньгами, он обнаруживает, что за ним по пятам следует безжалостный профессиональный убийца Дэвид Экхард.",
+        "slogan": "The chase has begun",
+        "premiere": "19 января 1995",
+        "age": "18",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9887.jpg",
+        "rating": {
+          "rating_kp": "6.212",
+          "vote_num_kp": "375",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "1430"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "9768",
+      "date": "1581591163",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Кровавое посвящение",
+        "orig": "The Initiation",
+        "alter": "",
+        "year": "1983",
+        "country": "США",
+        "director": "Ларри Стюарт, Питер Крэйн",
+        "genre": "ужасы,триллер,детектив",
+        "actors": "Вера Майлз, Клу Гулагер, Дафна Зунига, Джеймс Рид, Мэрлин Каган, Роберт Дауделл, Patti Heider, Фрэнсис Петерсон, Хантер Тайло, Паула Ноулз",
+        "description": "Привлекательную молодую девушку Келли Фэйрчайлд преследует один и тот же сон. Не случайно темой ее курсовой работы стали «Ночные кошмары». Молодой преподаватель психологии Питер Адамс хочет помочь девушке: он погружает Келли в состояние гипноза, и тут выясняется такое...",
+        "slogan": ". . the night new blood is pledged",
+        "premiere": "28 апреля 1984",
+        "age": "18",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9768.jpg",
+        "rating": {
+          "rating_kp": "5.95",
+          "vote_num_kp": "278",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "2992"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "9711",
+      "date": "1581591153",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "С унынием в лице",
+        "orig": "Blue in the Face",
+        "alter": "",
+        "year": "1995",
+        "country": "США",
+        "director": "Пол Остер, Уэйн Ван, Харви Ванг",
+        "genre": "комедия",
+        "actors": "Харви Кейтель, Лу Рид, Майкл Дж. Фокс, Розанна Барр, Мэл Горхэм, Джим Джармуш, Лили Томлин, Джаред Харрис, Джанкарло Эспозито, Мэлик Йоба",
+        "description": "Мы видим Огги, философа по мироощушению, торгующего табаком. Он все там же и, наверняка все также снимает угол улиц, где находится его магазинчик. На этот раз вереница персонажей, проходящих через это место, многочисленней и разнообразней. Многие из них говорят о себе и о Бруклине прямо в камеру. Других мы узнаем по их диалогам, поступкам, рассказам, снятым достаточно документально. Нужно очень любить этот город, чтобы снять такое кино, не связанное сюжетом. Это картинки, сценки, кусочки из жизни - маленькие осколки мозаики, из которых наше воображение складывает общую картину, а память позволяет как будто увидеть эту картину издалека.",
+        "slogan": "Welcome to the planet Brooklyn",
+        "premiere": "12 февраля 1995",
+        "age": "0",
+        "time": "4980",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9711.jpg",
+        "rating": {
+          "rating_kp": "6.927",
+          "vote_num_kp": "705",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "9062"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "9684",
+      "date": "1581591146",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "О мышах и людях",
+        "orig": "Of Mice and Men",
+        "alter": "",
+        "year": "1992",
+        "country": "США",
+        "director": "Гэри Синиз",
+        "genre": "драма",
+        "actors": "Джон Малкович, Гэри Синиз, Рей Уолстон, Кейси Семашко, Шерилин Фенн, Джон Терри, Ричард Рили, Алексис Аркетт, Джо Мортон, Ноубл Уиллингэм",
+        "description": "Экранизация одноимённой повести Джона Стейнбека о двух приятелях, которые в годы Великой депрессии бродили по Америке в поисках работы. Неглупый крепкий парень Джордж и слабоумный Ленни - удача редко улыбалась им, но Джордж не мог бросить Ленни, который наверняка бы моментально попал в какую-нибудь передрягу. И всё-таки трагический день в жизни обоих наступил. Через некоторое время после начала работы на ранчо Тайлера...",
+        "slogan": "We have a dream.  Someday, we'll have a little house and a couple of acres.  A place to call home",
+        "premiere": "16 сентября 1992",
+        "age": "12",
+        "time": "6900",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9684.jpg",
+        "rating": {
+          "rating_kp": "7.774",
+          "vote_num_kp": "5547",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "40584"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "9630",
       "date": "1581591144",
       "camrip": "0",
@@ -134,7 +274,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9579.jpg",
         "rating": {
           "rating_kp": "7.833",
-          "vote_num_kp": "15079",
+          "vote_num_kp": "15078",
           "rating_imdb": "7.6",
           "vote_num_imdb": "48371"
         }
@@ -274,9 +414,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9503.jpg",
         "rating": {
           "rating_kp": "7.77",
-          "vote_num_kp": "19031",
+          "vote_num_kp": "19037",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "79628"
+          "vote_num_imdb": "79636"
         }
       }
     },
@@ -379,7 +519,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9387.jpg",
         "rating": {
           "rating_kp": "7.263",
-          "vote_num_kp": "6222",
+          "vote_num_kp": "6223",
           "rating_imdb": "5.9",
           "vote_num_imdb": "8048"
         }
@@ -519,7 +659,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9299.jpg",
         "rating": {
           "rating_kp": "7.352",
-          "vote_num_kp": "6333",
+          "vote_num_kp": "6334",
           "rating_imdb": "7.3",
           "vote_num_imdb": "33905"
         }
@@ -624,7 +764,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9269.jpg",
         "rating": {
           "rating_kp": "7.538",
-          "vote_num_kp": "1758",
+          "vote_num_kp": "1757",
           "rating_imdb": "6.6",
           "vote_num_imdb": "14742"
         }
@@ -834,7 +974,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9058.jpg",
         "rating": {
           "rating_kp": "7.23",
-          "vote_num_kp": "2363",
+          "vote_num_kp": "2367",
           "rating_imdb": "7",
           "vote_num_imdb": "13317"
         }
@@ -1219,7 +1359,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8671.jpg",
         "rating": {
           "rating_kp": "6.269",
-          "vote_num_kp": "6771",
+          "vote_num_kp": "6773",
           "rating_imdb": "5",
           "vote_num_imdb": "4795"
         }
@@ -1253,7 +1393,7 @@
         "time": "6960",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8535.jpg",
         "rating": {
-          "rating_kp": "7.337",
+          "rating_kp": "7.338",
           "vote_num_kp": "2621",
           "rating_imdb": "7.1",
           "vote_num_imdb": "13028"
@@ -1429,9 +1569,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8418.jpg",
         "rating": {
           "rating_kp": "7.812",
-          "vote_num_kp": "9579",
+          "vote_num_kp": "9581",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "57621"
+          "vote_num_imdb": "57626"
         }
       }
     },
@@ -1463,7 +1603,7 @@
         "time": "6000",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8393.jpg",
         "rating": {
-          "rating_kp": "5.894",
+          "rating_kp": "5.896",
           "vote_num_kp": "1254",
           "rating_imdb": "4.3",
           "vote_num_imdb": "16104"
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "2703",
           "rating_imdb": "7.7",
           "vote_num_imdb": "28059"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8276",
-      "date": "1581590895",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Вилли Вонка и шоколадная фабрика",
-        "orig": "Willy Wonka & the Chocolate Factory",
-        "alter": "",
-        "year": "1971",
-        "country": "США",
-        "director": "Мэл Стюарт",
-        "genre": "фэнтези,мюзикл,семейный",
-        "actors": "Джин Уайлдер, Джек Альбертсон, Питер Острум, Рой Киннер, Джули Доун Коул, Леонард Стоун, Денис Никерсон, Нора Денни, Пэрис Теммен, Урсула Райт",
-        "description": "Эксцентричный кондитер Вилли Вонка способен осуществить мечты любого ребенка. В качестве коммерческого приема он спрятал пять золотых билетов в шоколадные батончики и решил испытать честность победителей. Но во время тура по стране лакомств необходимо соблюдать твердые правила, иначе не будет самой главной награды - пожизненного обеспечения шоколадом Вилли Вонка.",
-        "slogan": "Enter a world of pure imagination",
-        "premiere": "28 июня 1971",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8276.jpg",
-        "rating": {
-          "rating_kp": "7.482",
-          "vote_num_kp": "6976",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "179140"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8237",
-      "date": "1581590882",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Истинная грусть",
-        "orig": "Pafekuto Buru",
-        "alter": "",
-        "year": "1998",
-        "country": "Япония",
-        "director": "Сатоси Кон",
-        "genre": "аниме,мультфильм,ужасы,триллер,драма",
-        "actors": "Дзюнко Ивао, Рика Мацумото, Синпати Цудзи, Масааки Окура, Ёсукэ Акимото, Ёку Сиоя, Хидэюки Хори, Эми Синохара, Масаси Эбара, Киёюки Янада",
-        "description": "Молодая поп-певица Мима Киригоэ пытается перейти из мира музыки в индустрию ТВ-сериалов и прославиться как актриса, но, похоже, что не всем её поклонникам понравилось такое решение, и началось: странный телефонный звонок, факс, конверт со взрывчаткой... К тому же в интернете обнаружилась страничка с якобы её дневником.",
-        "slogan": "The color of illusion is Perfect Blue",
-        "premiere": "16 февраля 1998",
-        "age": "0",
-        "time": "4860",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8237.jpg",
-        "rating": {
-          "rating_kp": "7.623",
-          "vote_num_kp": "14363",
-          "rating_imdb": "8",
-          "vote_num_imdb": "58747"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8225",
-      "date": "1581590874",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "720",
-      "info": {
-        "rus": "Дамбо",
-        "orig": "Dumbo",
-        "alter": "",
-        "year": "1941",
-        "country": "США",
-        "director": "Сэмюэл Армстронг, Норман Фергюсон, Уилфред Джексон",
-        "genre": "мультфильм,драма,мюзикл,семейный",
-        "actors": "Джеймс Бескетт, Херман Бинг, Мэл Бланк, Билли Блэтчер, Эдвард Брофи, Джим Кармайкл, Вэнс Колвиг мл., Клифф Эдвардс, Верна Фелтон, Норин Гэммилл",
-        "description": "История о маленьком слоненке из цирка, родившемся с очень большими ушами, что было рассмотрено как позорное явление среди цирковых слонов. Но зато он научился летать.",
-        "slogan": "Walt Disney's Latest . . . Most Lovable . . . Funable Characters !",
-        "premiere": "23 октября 1941",
-        "age": "0",
-        "time": "3840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8225.jpg",
-        "rating": {
-          "rating_kp": "7.798",
-          "vote_num_kp": "23688",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "120064"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8206",
-      "date": "1581590868",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Агирре, гнев божий",
-        "orig": "Aguirre, der Zorn Gottes",
-        "alter": "",
-        "year": "1972",
-        "country": "Германия (ФРГ), Перу, Мексика",
-        "director": "Вернер Херцог",
-        "genre": "история,драма,приключения",
-        "actors": "Клаус Кински, Елена Рохо, Дель Негро, Руй Гуерра, Петер Берлинг, Сесилия Ривера, Даниэль Адес, Эдвард Роланд, Алехандро Чавез, Армандо Полана",
-        "description": "После завоевания и разграбления испанцами государства Инков возникла легенда о сказочно богатой стране Эльдорадо, которая затерялась в бесчисленных болотах бассейна Амазонки.",
-        "slogan": "On this river, God never finished his creation",
-        "premiere": "29 декабря 1972",
-        "age": "12",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8206.jpg",
-        "rating": {
-          "rating_kp": "7.701",
-          "vote_num_kp": "10316",
-          "rating_imdb": "7.9",
-          "vote_num_imdb": "52539"
         }
       }
     }

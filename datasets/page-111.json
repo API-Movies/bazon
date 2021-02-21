@@ -2,6 +2,286 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "577532",
+      "date": "1599840155",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Финес и Ферб: Кэндис против Вселенной",
+        "orig": "Phineas and Ferb the Movie: Candace Against the Universe",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Боб Бауэн",
+        "genre": "мультфильм,мюзикл,фантастика,комедия,приключения,семейный",
+        "actors": "Винсент Мартелла,Эшли Тисдейл,Давид Эрриго мл.,Дэн Повенмайр,Элисон Стоунер,Молик Панчоли,Роберт Гейлор,Ди Брэдли Бейкер,Оливия Олсон,Али Вонг",
+        "description": "Знаменитые сводные братья-изобретатели знают, что они будуь делать сегодня. Они вызволят свою сестру из рук инопланетян.",
+        "slogan": "",
+        "premiere": "28 августа 2020",
+        "age": "6",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_577532.jpg",
+        "rating": {
+          "rating_kp": "6.922",
+          "vote_num_kp": "647",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "2899"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1236369",
+      "date": "1599840003",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Супер пожарные",
+        "orig": "Super Bomberos",
+        "alter": "",
+        "year": "2019",
+        "country": "Доминикана",
+        "director": "Francis &quot;Indio&quot; Disla Ferreira",
+        "genre": "комедия",
+        "actors": "Valentina Chacín,Chimbala,Акулис Корреа,Эндрю Даш,Стивен Дасс,Сусана Досамантес,Сиомара Фортуна,Nidsbelle Guzman,Карла Хаттон,Josell Hernández",
+        "description": "Разношёрстную кучку парней без навыков отбирают в элитную пожарно-спасательную бригаду. Остаётся лишь пройти курс подготовки.",
+        "slogan": "No matter what happens, don&#x27;t call them",
+        "premiere": "24 октября 2019",
+        "age": "0",
+        "time": "6600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1236369.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "4",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "18"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "860678",
+      "date": "1599839929",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Долина чудес",
+        "orig": "Wonder Valley",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Heidi Hartwig",
+        "genre": "ужасы,триллер",
+        "actors": "Джейд Фуско,Kella Birch,Люси Энгелман,Малия Шарф",
+        "description": "Четыре подруги отправляются отдохнуть в живописный уголок пустыни, но переборщив с галлюциногенами, устраивают друг для друга настоящий ад.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "4320",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_860678.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "6",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1331523",
+      "date": "1599836404",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Тёмные болота",
+        "orig": "Schattenmoor",
+        "alter": "",
+        "year": "2019",
+        "country": "Германия",
+        "director": "Marc Schießer",
+        "genre": "триллер,детектив",
+        "actors": "Caroline Hartig,Фарина Флеббе,Тимур Бартельс,Emre Aksizoglu,Макс фон Тун,Samuel Girardi,Nathalie Nailly",
+        "description": "Девушку преследуют странные и пугающие видения. Это реальность или просто чья-то плохая шутка? Поймёт ли она, что происходит, или уже слишком поздно?",
+        "slogan": "",
+        "premiere": "11 декабря 2019",
+        "age": "0",
+        "time": "6120",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTM1NDhlNjgtY2ViYi00ZmM1LWFlYTYtOTc3N2U3YWE0ZjhlXkEyXkFqcGdeQXVyNzkwMTYyMTI@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": "4.2",
+          "vote_num_imdb": "80"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1264031",
+      "date": "1599835503",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Пуффы",
+        "orig": "Puffs: Filmed Live Off Broadway",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Kristin McCarthy Parker",
+        "genre": "комедия,приключения",
+        "actors": "Langston Belton,Madeleine Bundy,Джесси Канниццаро,Nick Carrillo,Anna Dart,A.J. Ditty,Джули Энн Ирлз,James Fouhey,Jake Keefe,Andy Miller",
+        "description": "Семь лет один мальчик-волшебник ходил в школу волшебников и победил зло. Однако это не его история. Это история Пуффов, которые тоже случайно оказались там. Сказка для всех, кому никогда не суждено спасти мир.",
+        "slogan": "A tale for anyone who has never been destined to save the world",
+        "premiere": "9 мая 2018",
+        "age": "0",
+        "time": "7080",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGIwOGNjN2YtZjdjNi00MTVkLWI2MDYtNDJjZjlhMmY5NmU5XkEyXkFqcGdeQXVyOTk0ODI0OTA@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "66"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1322197",
+      "date": "1599831074",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Барбара",
+        "orig": "Barbara Reimagined",
+        "alter": "",
+        "year": "2019",
+        "country": "Филиппины",
+        "director": "Кристофер Ад. Кастильо,Benedict Mique",
+        "genre": "ужасы",
+        "actors": "Дж.С. Де Вера,Натали Харт,Mariel De Leon,Xia Vigor,Шанель Латорре,Pau Benitez,Krisha Doroy,Mariel Lyka Policarpio,Diana Alferez,Vince Tañada",
+        "description": "Вернувшись в родные места на похороны младшей сестры, Барбара вскоре понимает, что разгневанный дух покойной просто так не уйдет.",
+        "slogan": "",
+        "premiere": "8 ноября 2019",
+        "age": "0",
+        "time": "3900",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTIxMzc1NzEtZjU1Ny00MmUwLWFkNmEtYTYzNWZkODYyNTdhXkEyXkFqcGdeQXVyNTI5NjIyMw@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": "3.6",
+          "vote_num_imdb": "9"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1221427",
+      "date": "1599831060",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Счастливой пенсии!",
+        "orig": "Joyeuse retraite!",
+        "alter": "",
+        "year": "2019",
+        "country": "Франция",
+        "director": "Фабрис Брак",
+        "genre": "комедия",
+        "actors": "Мишель Ларок,Тьерри Лермитт,Жюдит Магр,Николь Феррони,Омар Мебрук,Ариель Семенофф,Ален Дуте,Мишель Саймс,Констанс Лаббе,Николас Мартинес",
+        "description": "Несмотря на горячую любовь к внукам, Марилу и Филипп Бланшо мечтают уехать на пенсию в Португалию. Но их планы расстраиваются, когда дочь расстаётся с мужем, а у мамы Филиппа обнаруживаются серьёзные проблемы со здоровьем.",
+        "slogan": "",
+        "premiere": "20 ноября 2019",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1221427.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "27",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "359"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1355082",
+      "date": "1599831046",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Полные карманы",
+        "orig": "Pocket Full of Game",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Deborah Cardona",
+        "genre": "боевик",
+        "actors": "Thomas Logan Crown,Carlos Garcia,David Holley,Заб Джуда,Linda Llanos,Katherine Nunez,Joey Ortiz",
+        "description": "Порша - уважаемая личность в криминальном мире Нью-Йорка. У нее есть всё: красота, деньги, связи. Но случайная встреча со вздорным Фрешем раз и навсегда переворачивает ее мир с ног на голову.",
+        "slogan": "",
+        "premiere": "1 марта 2020",
+        "age": "0",
+        "time": "7560",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGQzZDE2MDctNTUwNy00MDY1LThlOTItMzE5MWViNTFjMDBiXkEyXkFqcGdeQXVyODkxNzcyODc@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "48"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1190261",
       "date": "1599831013",
       "camrip": "0",
@@ -63,8 +343,8 @@
         "time": "5400",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1338272.jpg",
         "rating": {
-          "rating_kp": "5.603",
-          "vote_num_kp": "5112",
+          "rating_kp": "5.604",
+          "vote_num_kp": "5138",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -171,7 +451,7 @@
           "rating_kp": "7.918",
           "vote_num_kp": "198230",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "306479"
+          "vote_num_imdb": "306556"
         }
       }
     },
@@ -204,7 +484,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_744987.jpg",
         "rating": {
           "rating_kp": "6.713",
-          "vote_num_kp": "123099",
+          "vote_num_kp": "123153",
           "rating_imdb": "7.1",
           "vote_num_imdb": "275586"
         }
@@ -359,7 +639,7 @@
           "rating_kp": "7.097",
           "vote_num_kp": "46689",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "102546"
+          "vote_num_imdb": "102587"
         }
       }
     },
@@ -394,7 +674,7 @@
           "rating_kp": "7.114",
           "vote_num_kp": "88919",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "77162"
+          "vote_num_imdb": "77231"
         }
       }
     },
@@ -464,7 +744,7 @@
           "rating_kp": "7.9",
           "vote_num_kp": "74004",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "51430"
+          "vote_num_imdb": "51457"
         }
       }
     },
@@ -499,7 +779,7 @@
           "rating_kp": "8.287",
           "vote_num_kp": "484715",
           "rating_imdb": "8",
-          "vote_num_imdb": "435737"
+          "vote_num_imdb": "435876"
         }
       }
     },
@@ -532,9 +812,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1118427.jpg",
         "rating": {
           "rating_kp": "6.907",
-          "vote_num_kp": "10813",
+          "vote_num_kp": "10822",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "22118"
+          "vote_num_imdb": "22137"
         }
       }
     },
@@ -637,7 +917,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258328.jpg",
         "rating": {
           "rating_kp": "7.813",
-          "vote_num_kp": "172761",
+          "vote_num_kp": "172836",
           "rating_imdb": "8.2",
           "vote_num_imdb": "759395"
         }
@@ -917,7 +1197,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_565224.jpg",
         "rating": {
           "rating_kp": "2.969",
-          "vote_num_kp": "2376",
+          "vote_num_kp": "2380",
           "rating_imdb": "2.7",
           "vote_num_imdb": "7099"
         }
@@ -1113,7 +1393,7 @@
           "rating_kp": "7.589",
           "vote_num_kp": "90640",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "233240"
+          "vote_num_imdb": "233371"
         }
       }
     },
@@ -1183,7 +1463,7 @@
           "rating_kp": "7.469",
           "vote_num_kp": "302500",
           "rating_imdb": "7",
-          "vote_num_imdb": "724969"
+          "vote_num_imdb": "725229"
         }
       }
     },
@@ -1215,10 +1495,10 @@
         "time": "5160",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_957805.jpg",
         "rating": {
-          "rating_kp": "5.425",
-          "vote_num_kp": "43264",
+          "rating_kp": "5.424",
+          "vote_num_kp": "43303",
           "rating_imdb": "3.3",
-          "vote_num_imdb": "56340"
+          "vote_num_imdb": "56363"
         }
       }
     },
@@ -1251,7 +1531,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047168.jpg",
         "rating": {
           "rating_kp": "6.477",
-          "vote_num_kp": "4488",
+          "vote_num_kp": "4489",
           "rating_imdb": "6.7",
           "vote_num_imdb": "13527"
         }
@@ -1391,7 +1671,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1055319.jpg",
         "rating": {
           "rating_kp": "6.474",
-          "vote_num_kp": "24550",
+          "vote_num_kp": "24610",
           "rating_imdb": "6.3",
           "vote_num_imdb": "12147"
         }
@@ -1496,7 +1776,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_656627.jpg",
         "rating": {
           "rating_kp": "5.038",
-          "vote_num_kp": "2001",
+          "vote_num_kp": "2000",
           "rating_imdb": "6.1",
           "vote_num_imdb": "2436"
         }
@@ -1533,7 +1813,7 @@
           "rating_kp": "6.304",
           "vote_num_kp": "56412",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "28908"
+          "vote_num_imdb": "28936"
         }
       }
     },
@@ -1566,7 +1846,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1219417.jpg",
         "rating": {
           "rating_kp": "7.886",
-          "vote_num_kp": "45528",
+          "vote_num_kp": "45592",
           "rating_imdb": "7.5",
           "vote_num_imdb": "23080"
         }
@@ -1604,286 +1884,6 @@
           "vote_num_kp": "9584",
           "rating_imdb": "7.8",
           "vote_num_imdb": "8382"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1187971",
-      "date": "1599660011",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Шафрановое сердце",
-        "orig": "Шафрановое сердце",
-        "alter": "",
-        "year": "2018",
-        "country": "Россия,Индия",
-        "director": "Павел Маклай",
-        "genre": "семейный,приключения",
-        "actors": "Вадим Демчог",
-        "description": "История маленького тибетского мальчика Лобсанга. Родители отправляют его в буддийский монастырь. Вначале он держится особняком и даже совершает несколько попыток побега. Чтобы заинтересовать мальчика, его учитель придумывает игру: карту-квест, состоящую из восьми загадок. На карте изображен монастырь, каждому значимому месту в нем соответствует символ и загадка. Распутывая нити головоломки, Лобсанг находит путь домой, обретает новых друзей, а также принимает свое первое взрослое решение.",
-        "slogan": "Journey begins!",
-        "premiere": "",
-        "age": "6",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1187971.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "112",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "99944",
-      "date": "1599659122",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Осень в семействе Кохаягава",
-        "orig": "Kohayagawa-ke no aki",
-        "alter": "",
-        "year": "1961",
-        "country": "Япония",
-        "director": "Ясудзиро Одзу",
-        "genre": "драма,мелодрама",
-        "actors": "Гандзиро Накамура,Сэцуко Хара,Ёко Цукаса,Митиё Аратама,Кэйдзю Кобаяси,Масахико Симадзу,Хисая Морисигэ,Тиэко Нанива,Рэйко Дан,Харуко Сугимура",
-        "description": "У старика три дочери от его жены и одна от прежней хозяйки. Самая старшая дочь - вдова, и готовится вступить в повторный брак; вторая замужем, и ее муж управляет семейным бизнесом, производством сакэ; третьей семья уже выбрала будущего мужа. Когда отец решает вернуться к своей бывшей жене, все дочери огорчены и расстроены этим фактом.",
-        "slogan": "",
-        "premiere": "29 октября 1961",
-        "age": "0",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_99944.jpg",
-        "rating": {
-          "rating_kp": "7.399",
-          "vote_num_kp": "349",
-          "rating_imdb": "7.9",
-          "vote_num_imdb": "3523"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "18759",
-      "date": "1599659119",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Плутовка",
-        "orig": "Chaalbaaz",
-        "alter": "",
-        "year": "1989",
-        "country": "Индия",
-        "director": "Панкадж Парашар",
-        "genre": "мюзикл,боевик,триллер,драма,комедия,семейный",
-        "actors": "Шридеви,Санни Деол,Раджиникант,Анупам Кхер,Шакти Капур,Анну Капур,Саид Джаффри,Аруна Ирани,Рохини Хаттангди,Афтаб Шивдасани",
-        "description": "Это история о сестрах-близняшках Анжу и Манжу. Когда Анжу и Манжу было шесть месяцев, горничная  похитила Манжу и исчезла навсегда. Из деревни был вызван дядя близняшек - Трибхуван. Увидев огромные богатства своего брата, в нем родилась зависть и желание, что в один день все это станет его.\r\n\r\nЕго желание исполняется, когда его брат вместе с женой погибают в автомобильной катастрофе. Он становится главой семьи, насылая гнев и террор на домочадцев, и ни его племянница, ни старый слуга семьи Дайял не могут противостоять ему.\r\n\r\nТем временем, в далекой деревушке, Манжу выросла красивой девушкой. Тяжелая жизнь научила ее встречать опасности во всеоружии. Она зарабатывала на жизнь танцами на сцене. С юных лет она определила для себя, что на жизнь можно заработать только обманом и воровством.\r\n\r\nМанжу и Сурай встречаются в пивном баре и влюбляются друг в друга с первого взгляда. Отец Сурая, Вишвант, просит руки Анжу для сына у Трабхувана.",
-        "slogan": "",
-        "premiere": "8 декабря 1989",
-        "age": "12",
-        "time": "9120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_18759.jpg",
-        "rating": {
-          "rating_kp": "6.866",
-          "vote_num_kp": "168",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "1444"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "7431",
-      "date": "1599659114",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Трансеры",
-        "orig": "Trancers",
-        "alter": "",
-        "year": "1984",
-        "country": "США",
-        "director": "Чарльз Бэнд",
-        "genre": "фантастика,боевик",
-        "actors": "Тим Томерсон,Хелен Хант,Майкл Стефани,Арт ЛаФлёр,Тельма Хопкинс,Ричард Херд,Энн Сеймур,Мигель Фернандес,Бифф Мэнард,Питер Шрум",
-        "description": "Из далекого будущего в наши дни в Лос-Анджелес направляют полицейского по имени Джек Дес, который должен отыскать преступника Мартина Уистлера и доставить его «обратно» в будущее. Ему предстоит сражаться с трансерами - людьми-зомби, которых лишает воли преступник, и встретить свою любовь. В конце концов Джека будет преследовать вся полиция Лос-Анджелеса во главе с Уистлером. От исхода их схватки зависит судьба человечества....",
-        "slogan": "2247 collides with 1985 . . . when a 23rd century crime fighter heats it up in L.A., today",
-        "premiere": "7 ноября 1984",
-        "age": "0",
-        "time": "4560",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7431.jpg",
-        "rating": {
-          "rating_kp": "5.741",
-          "vote_num_kp": "607",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "5567"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2879",
-      "date": "1599659107",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Допинг",
-        "orig": "The Boost",
-        "alter": "",
-        "year": "1988",
-        "country": "США",
-        "director": "Харольд Беккер",
-        "genre": "драма,мелодрама",
-        "actors": "Джеймс Вудс,Шон Янг,Джон Капелос,Стивен Хилл,Келли Керр,Джон Ротмен,Аманда Блейк,Грейс Забриски,Марк Поппел,Фред МакКэррен",
-        "description": "Биржевой маклер Ленни Браун совершает головокружительную карьеру: проникает в высшие сферы делового мира Америки, знакомится с аристократами и богемной публикой в Калифорнии. Успех действительно смог вскружить ему голову — в погоне за преуспеванием Ленни уже трудно остановиться, и он вступает в нечестные сделки, не брезгует различными махинациями. Точно так же «ради вдохновения» в бизнесе Браун не считает зазорным воспользоваться кокаином. Но цена этого допинга всё возрастает...",
-        "slogan": "Imagine having all the power, passion and pleasure money can buy. Now imagine losing them",
-        "premiere": "23 декабря 1988",
-        "age": "16",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2879.jpg",
-        "rating": {
-          "rating_kp": "6.115",
-          "vote_num_kp": "158",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "1944"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "295626",
-      "date": "1599657307",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Внутренний враг",
-        "orig": "The Enemy Within",
-        "alter": "",
-        "year": "1994",
-        "country": "США",
-        "director": "Джонатан Дэрби",
-        "genre": "триллер,драма",
-        "actors": "Форест Уитакер,Сэм Уотерстон,Дана Дилэйни,Джейсон Робардс,Йозеф Зоммер,Джордж Дзундза,Изабель Глэссер,Дэкин Мэтьюз,Уильям О’Лири,Лиза Саммерур",
-        "description": "Популярность президента Уильяма Фостера упала до рекордно низкого уровня. Некоторые чиновники из его окружения, недовольные незначительным сокращением ассигнований на оборону, замышляют государственный переворот.",
-        "slogan": "You never know who your enemies really are...",
-        "premiere": "20 августа 1994",
-        "age": "0",
-        "time": "5160",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTIyOTU2ODM0M15BMl5BanBnXkFtZTcwMTM5NzQzMQ@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "57",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "1121"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "922507",
-      "date": "1599656405",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Герой",
-        "orig": "Hero",
-        "alter": "",
-        "year": "2015",
-        "country": "Индия",
-        "director": "Никхил Адвани",
-        "genre": "боевик,мелодрама,драма",
-        "actors": "Сурадж Панчоли, Атья Шетти, Тигманшу Дхулиа, Адитья Панчоли, Виван Бхатена, Анил Чаранджитт, Четан Хансрадж, Randeep Jha, Кишор Кадам, Шарад Келкар",
-        "description": "Сурадж - уличный гангстер, которому однажды пришлось похитить девушку по приказу своего отца, криминального авторитета, мотающего срок в тюрьме, и очень жаждущего отомстить своему обидчику. Радха - дочь главы полиции, гламурная девочка с амбициями, которые быстро развеялись, стоило ей оказаться в руках симпатичного незнакомца. Впрочем, о том, что ее похитили она даже не догадывается, а спокойно наслаждается жизнью в компании веселых ребят и того самого красавчика. Сердца молодых людей замирают при виде друг друга, и, кажется, вот-вот настанет момент, когда будут произнесены заветные три слова «я люблю тебя», но тут им вдруг напоминают истинную цель их странного уединения. Реальная жизнь вклинивается между влюбленными, пытаясь разлучить и заставляя сделать трудный выбор между чувствами и семейным долгом.",
-        "slogan": "",
-        "premiere": "10 сентября 2015",
-        "age": "0",
-        "time": "8700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_922507.jpg",
-        "rating": {
-          "rating_kp": "7.093",
-          "vote_num_kp": "231",
-          "rating_imdb": "3.5",
-          "vote_num_imdb": "2297"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "432790",
-      "date": "1599656403",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "K-11",
-        "orig": "K-11",
-        "alter": "",
-        "year": "2012",
-        "country": "США",
-        "director": "Джулс Мэнн-Стюарт",
-        "genre": "драма",
-        "actors": "Горан Вишнич, Кейт дель Кастильо, Д.Б. Суини, Портия Даблдэй, Джейсон Мьюз, Соня Эдди, Луис Монкада, Крэйг Оуэнс, Тиффани Малхерон, П.Дж. Бирн",
-        "description": "Известный музыкальный продюсер Реймонд Сакс очнулся от алкогольно-наркотического угара в тюрьме Лос-Анджелеса в разделе под названием K-11, куда сажают только гомосексуалистов, транссексуалов и ВИЧ-положительных заключенных. С этого момента он погрузился в страшный мир, которым правит транссексуал Моузи. Проблем прибавляют траннссексуал Баттрефлай и надзиратель гей лейтенант Джонсон. Борьба Рэя, за связь с внешним миром и возвращение свободы, кажется невозможной, но он должен научиться управлять этой новой структурой власти, если он хочет выжить и взять контроль над своей жизнью.",
-        "slogan": "",
-        "premiere": "26 ноября 2012",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_432790.jpg",
-        "rating": {
-          "rating_kp": "5.867",
-          "vote_num_kp": "598",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "1559"
         }
       }
     }

@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1078985",
+      "date": "1572565224",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мэнди",
+        "orig": "Mandy",
+        "alter": "",
+        "year": "2017",
+        "country": "США, Бельгия, Великобритания",
+        "director": "Панос Косматос",
+        "genre": "боевик,ужасы,триллер,фэнтези,детектив",
+        "actors": "Николас Кейдж, Андреа Райзборо, Лайнас Роуч, Нед Деннехи, Олуэн Фуэре, Ричард Брэйк, Билл Дьюк, Лайн Пийе, Клеман Баронне, Алексис Жюльмон",
+        "description": "1983 год. Дровосек Ред с подругой Мэнди мирно живёт в живописном лесу рядом с озером. Ничего удивительного, но в лесу поселилось зло - религиозный культ в компании с адской байкерской бандой. Как не вовремя пошла Мэнди прогуляться в лесу, где и приглянулась зловещему лидеру культа Иеремие. Тот приказывает байкерам похитить девушку, накачивает её наркотиками и предаёт ритуальному сожжению. И не оставляет выбора дровосеку Реду, кроме как встать на тропу мести.",
+        "slogan": "",
+        "premiere": "19 января 2018",
+        "age": "18",
+        "time": "7260",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1078985.jpg",
+        "rating": {
+          "rating_kp": "6.322",
+          "vote_num_kp": "21627",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "64607"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "929027",
+      "date": "1572565177",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Курск",
+        "orig": "Kursk",
+        "alter": "",
+        "year": "2018",
+        "country": "Бельгия, Люксембург",
+        "director": "Томас Винтерберг",
+        "genre": "боевик,триллер,история,драма",
+        "actors": "Маттиас Шонартс, Леа Сейду, Петер Симонишек, Аугуст Диль, Макс фон Сюдов, Колин Фёрт, Бьярне Хенриксен, Маунус Миллан, Артемий Спиридонов, Йоэль Басман",
+        "description": "Фильм о событиях 2000 года, связанных с подлодкой «Курск». Вся правда о мужестве и стойкости российских подводников, о разногласиях и взаимопомощи, конфликтах и единении, о преданности и любви.",
+        "slogan": "История, потрясшая мир. Правда, объединившая мир",
+        "premiere": "6 сентября 2018",
+        "age": "16",
+        "time": "7020",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_929027.jpg",
+        "rating": {
+          "rating_kp": "6.358",
+          "vote_num_kp": "29190",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "15573"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1063019",
+      "date": "1572565008",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Видок: Охотник на призраков",
+        "orig": "L'Empereur de Paris",
+        "alter": "Видок: Император Парижа",
+        "year": "2018",
+        "country": "Франция",
+        "director": "Жан-Франсуа Рише",
+        "genre": "триллер,история,криминал,приключения",
+        "actors": "Ольга Куриленко, Венсан Кассель, Фрейя Мавор, Аугуст Диль, Дени Меноше, Дени Лаван, Фабрис Лукини, Патрик Шене, Джеймс Тьерре, Джон Сехил",
+        "description": "Реальная история легендарного французского сыщика XIX века Эжена Франсуа Видока. Ловкий преступник и мастер по части побегов из тюрем Видок менял города и профессии, пока не был нанят наполеоновским правительством очистить улицы Парижа от криминала. Зная преступный мир изнутри, Видок стал самым успешным детективом своей эпохи и настоящим Императором Парижа.",
+        "slogan": "Легендарный сыщик или гениальный преступник?",
+        "premiere": "3 ноября 2018",
+        "age": "18",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1063019.jpg",
+        "rating": {
+          "rating_kp": "6.18",
+          "vote_num_kp": "26380",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "4425"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1157488",
+      "date": "1572564906",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "По воле божьей",
+        "orig": "Grâce à Dieu",
+        "alter": "",
+        "year": "2018",
+        "country": "Франция, Бельгия",
+        "director": "Франсуа Озон",
+        "genre": "драма",
+        "actors": "Мельвиль Пупо, Дени Меноше, Сванн Арло, Эрик Каравака, Франсуа Марторе, Бернар Верле, Жозиан Баласко, Мартина Эрель, Элен Венсан, Франсуа Шатто",
+        "description": "Александр, Франсуа и Жиль, взрослые состоявшиеся мужчины, объединяются в борьбе против почтенного священника, некогда поломавшего жизнь им и еще десяткам мальчиков. В этой праведной битве - с собственной уязвимостью и чужими предрассудками, с косными институтами и молчаливыми свидетелями - каждому из мужчин предстоит выбрать, во что верить, над чем смеяться, и кого прощать.",
+        "slogan": "",
+        "premiere": "10 декабря 2018",
+        "age": "18",
+        "time": "8220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1157488.jpg",
+        "rating": {
+          "rating_kp": "6.723",
+          "vote_num_kp": "4681",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "5447"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1030828",
       "date": "1572564850",
       "camrip": "0",
@@ -64,7 +204,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1026748.jpg",
         "rating": {
           "rating_kp": "6.267",
-          "vote_num_kp": "3485",
+          "vote_num_kp": "3497",
           "rating_imdb": "6.3",
           "vote_num_imdb": "2032"
         }
@@ -99,9 +239,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1108571.jpg",
         "rating": {
           "rating_kp": "7.689",
-          "vote_num_kp": "17761",
+          "vote_num_kp": "17774",
           "rating_imdb": "7",
-          "vote_num_imdb": "1724"
+          "vote_num_imdb": "1725"
         }
       }
     },
@@ -169,7 +309,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1007477.jpg",
         "rating": {
           "rating_kp": "6.517",
-          "vote_num_kp": "40753",
+          "vote_num_kp": "40761",
           "rating_imdb": "6.4",
           "vote_num_imdb": "24897"
         }
@@ -203,7 +343,7 @@
         "time": "6900",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_850698.jpg",
         "rating": {
-          "rating_kp": "5.277",
+          "rating_kp": "5.278",
           "vote_num_kp": "5274",
           "rating_imdb": "6",
           "vote_num_imdb": "2139"
@@ -309,7 +449,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_805632.jpg",
         "rating": {
           "rating_kp": "6.953",
-          "vote_num_kp": "1415",
+          "vote_num_kp": "1416",
           "rating_imdb": "6.9",
           "vote_num_imdb": "3688"
         }
@@ -379,7 +519,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_974902.jpg",
         "rating": {
           "rating_kp": "4.339",
-          "vote_num_kp": "1970",
+          "vote_num_kp": "1971",
           "rating_imdb": "3.8",
           "vote_num_imdb": "3313"
         }
@@ -484,9 +624,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1041862.jpg",
         "rating": {
           "rating_kp": "5.344",
-          "vote_num_kp": "7671",
+          "vote_num_kp": "7675",
           "rating_imdb": "5.6",
-          "vote_num_imdb": "9679"
+          "vote_num_imdb": "9684"
         }
       }
     },
@@ -521,7 +661,7 @@
           "rating_kp": "7.206",
           "vote_num_kp": "38769",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "15063"
+          "vote_num_imdb": "15072"
         }
       }
     },
@@ -833,8 +973,8 @@
         "time": "7500",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1022484.jpg",
         "rating": {
-          "rating_kp": "6.221",
-          "vote_num_kp": "4762",
+          "rating_kp": "6.218",
+          "vote_num_kp": "4773",
           "rating_imdb": "6.2",
           "vote_num_imdb": "2925"
         }
@@ -868,8 +1008,8 @@
         "time": "5160",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_716021.jpg",
         "rating": {
-          "rating_kp": "5.769",
-          "vote_num_kp": "2358",
+          "rating_kp": "5.768",
+          "vote_num_kp": "2363",
           "rating_imdb": "5.7",
           "vote_num_imdb": "11922"
         }
@@ -939,7 +1079,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1228403.jpg",
         "rating": {
           "rating_kp": "4.592",
-          "vote_num_kp": "2555",
+          "vote_num_kp": "2556",
           "rating_imdb": "3.7",
           "vote_num_imdb": "1164"
         }
@@ -973,8 +1113,8 @@
         "time": "6540",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1165249.jpg",
         "rating": {
-          "rating_kp": "6.157",
-          "vote_num_kp": "2364",
+          "rating_kp": "6.158",
+          "vote_num_kp": "2368",
           "rating_imdb": "5.9",
           "vote_num_imdb": "1122"
         }
@@ -1219,7 +1359,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1152350.jpg",
         "rating": {
           "rating_kp": "4.214",
-          "vote_num_kp": "3137",
+          "vote_num_kp": "3139",
           "rating_imdb": "4.8",
           "vote_num_imdb": "6000"
         }
@@ -1289,7 +1429,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1044281.jpg",
         "rating": {
           "rating_kp": "4.296",
-          "vote_num_kp": "7132",
+          "vote_num_kp": "7135",
           "rating_imdb": "4.4",
           "vote_num_imdb": "11599"
         }
@@ -1358,8 +1498,8 @@
         "time": "7140",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2FmMGNiODgtNTAyMy00N2VlLWEyODEtNDViMmRkZDA5Nzc3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg",
         "rating": {
-          "rating_kp": "6.422",
-          "vote_num_kp": "6179",
+          "rating_kp": "6.423",
+          "vote_num_kp": "6182",
           "rating_imdb": "6.6",
           "vote_num_imdb": "10813"
         }
@@ -1498,8 +1638,8 @@
         "time": "5880",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112619.jpg",
         "rating": {
-          "rating_kp": "6.18",
-          "vote_num_kp": "4020",
+          "rating_kp": "6.181",
+          "vote_num_kp": "4024",
           "rating_imdb": "6.4",
           "vote_num_imdb": "8341"
         }
@@ -1568,8 +1708,8 @@
         "time": "5760",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_591535.jpg",
         "rating": {
-          "rating_kp": "5.768",
-          "vote_num_kp": "5418",
+          "rating_kp": "5.769",
+          "vote_num_kp": "5422",
           "rating_imdb": "4.6",
           "vote_num_imdb": "1786"
         }
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "11124",
           "rating_imdb": "5",
           "vote_num_imdb": "21063"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1085318",
-      "date": "1572548606",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Зов волка",
-        "orig": "Le chant du loup",
-        "alter": "",
-        "year": "2019",
-        "country": "Франция",
-        "director": "Абель Ланзак",
-        "genre": "боевик,триллер",
-        "actors": "Франсуа Сивиль, Омар Си, Матьё Кассовиц, Реда Катеб, Паула Бир, Алексис Михалик, Жан-Ив Бертело, Дамиен Боннар, Pierre Cevaer, Себастьен Либессар",
-        "description": "Молодой подводник обладает редким даром распознавать каждый звук, который он слышит. От его «Золотого уха» зависят судьбы людей, а ошибка ставит под угрозу жизнь всего экипажа подводной лодки. Желая вернуть доверие своих товарищей, он проводит собственное расследование военной провокации, в результате которой весь мир оказывается в шаге от ядерного апокалипсиса. Чтобы предотвратить мировую войну, элитной боевой команде подлодки необходимо совершить невозможное, ведь главный приказ отмене не подлежит.",
-        "slogan": "Когда нет места страху, нет права на ошибку и нет времени на раздумья...",
-        "premiere": "17 января 2019",
-        "age": "16",
-        "time": "6900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1085318.jpg",
-        "rating": {
-          "rating_kp": "6.155",
-          "vote_num_kp": "8117",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "13392"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1144300",
-      "date": "1572547361",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Yesterday",
-        "orig": "Yesterday",
-        "alter": "",
-        "year": "2019",
-        "country": "Великобритания, США",
-        "director": "Дэнни Бойл",
-        "genre": "комедия,фэнтези,мелодрама,мюзикл",
-        "actors": "Химеш Патель, Лили Джеймс, Софи Ди Мартино, Эллиз Шаппелль, Мира Сайал, Гарри Мишель, Винсент Франклин, Джоэль Фрай, Michael Kiwanuka, Karma Sood",
-        "description": "Еще месяц назад Джек был обычным неудачником. Теперь он суперзвезда, миллионы людей слушают его песни, билеты на концерты раскупаются за секунду. В чем секрет? Все просто. Джек - единственный человек в мире, кто помнит о существовании The Beatles.",
-        "slogan": "Мир забыл про The Beatles. Но только не Джек...",
-        "premiere": "4 мая 2019",
-        "age": "12",
-        "time": "6960",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1144300.jpg",
-        "rating": {
-          "rating_kp": "6.882",
-          "vote_num_kp": "30307",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "114668"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "652758",
-      "date": "1572539277",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Начни сначала",
-        "orig": "Second Act",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Питер Сигал",
-        "genre": "комедия,мелодрама,драма",
-        "actors": "Дженнифер Лопез, Ванесса Энн Хадженс, Леа Ремини, Трит Уильямс, Майло Вентимилья, Аннали Эшфорд, Шарлин Йи, Алан Айсинберг, Фредди Строма, Дэйв Фоли",
-        "description": "Когда Майя уже перестала надеяться, что ее мечты осуществятся, она случайно получает работу в большой корпорации. Теперь у нее есть шанс доказать снобам с Мэдисон Авеню, что врожденный талант и блестящий креатив так же важны, как и диплом престижного университета. И не имеет значения, что у тебя за спиной, - ведь никогда не поздно начать сначала!",
-        "slogan": "Ее таланты - настоящие. А резюме - нет",
-        "premiere": "6 декабря 2018",
-        "age": "16",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_652758.jpg",
-        "rating": {
-          "rating_kp": "6.227",
-          "vote_num_kp": "28579",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "22819"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1162957",
-      "date": "1572013475",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Улетные букашки",
-        "orig": "Ying huo qi bing",
-        "alter": "",
-        "year": "2016",
-        "country": "Китай",
-        "director": "Дэн Вэйфэн",
-        "genre": "мультфильм,комедия,фэнтези,детский,приключения",
-        "actors": "Шань Синь, Баому Чжунъян, Дэн Вэйфэн",
-        "description": "Светлячок Диндин всегда был самой яркой звездой в своей деревне, пока не появился инопланетный робот Аврора, тут же ставший куда популярнее. Обиженный на всю деревню и ослепленный завистью к ее новому обитателю, Диндин попадает в ловушку коварного Хитрого Мыша, который мечтает уничтожить поселение букашек. Авроре и Диндин придется забыть свои обиды, им нужно стать одной командой, чтобы спасти родной дом от банды саранчи.",
-        "slogan": "",
-        "premiere": "5 февраля 2017",
-        "age": "6",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1162957.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "188",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "16"
         }
       }
     }

@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1095426",
+      "date": "1579395511",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Клуб 27",
+        "orig": "The 27 Club",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Кит",
+        "genre": "ужасы",
+        "actors": "Джинни Глейсер, Hailey Allen, Bryan Angel, Kevin Angel, Zach Paul Brown, Адам Челентано, Обри Чантелл, Трэвис Коулз, Кали Кук, Emily Dalquist",
+        "description": "Жаждущая славы певица и студент журналистики оказываются вовлечены в зловещие события, попытавшись открыть правду, стоящую за проклятьем &quot;Клуба 27&quot;.",
+        "slogan": "",
+        "premiere": "5 апреля 2019",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1095426.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "38",
+          "rating_imdb": "3.3",
+          "vote_num_imdb": "140"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1085406",
+      "date": "1579395506",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Пластик с клубничным вкусом",
+        "orig": "Strawberry Flavored Plastic",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Колин Бемис",
+        "genre": "ужасы,триллер,драма,криминал",
+        "actors": "Эйдан Бристоу, Николас Урда, Andres Montejo, Бьянка Сото, Raelynn Zofia Stueber, Лурдес Ромеро, Phillip Richards, Kitty Robertson, Steve Boghossian, Margeaux Caroline",
+        "description": "Сенсационный, искренний и философский хоррор, в центре событий которого находится серийный убийца Ноэл. И с первого взгляда он кажется очаровательным человеком.",
+        "slogan": "",
+        "premiere": "7 мая 2019",
+        "age": "0",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1085406.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1084312",
+      "date": "1579395502",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Молливуд",
+        "orig": "Mollywood",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Морокко Вон",
+        "genre": "триллер",
+        "actors": "Michael Braxton, Jennifer L. Day, Билли Дек, Харольд Дэннис, Teresa Esquivias, Ли Фармер, Мика Фицджералд, Вака Флока Флейм, Рианнон Уэллс, Рон Хаукинг",
+        "description": "Серийный убийца продаёт молодёжи наркотики.",
+        "slogan": "",
+        "premiere": "30 мая 2019",
+        "age": "0",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1084312.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "26",
+          "rating_imdb": "2.5",
+          "vote_num_imdb": "104"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1074313",
+      "date": "1579395479",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Маникарника: Королева Джханси",
+        "orig": "Manikarnika: The Queen of Jhansi",
+        "alter": "",
+        "year": "2019",
+        "country": "Индия",
+        "director": "Радха Кришна Джагарламуди, Кангана Ранаут",
+        "genre": "боевик,история,драма,биография,военный",
+        "actors": "Кангана Ранаут, Рими Сен, Дэнни Дензонгпа, Суреш Оберой, Атул Кулкарни, Кулбхушан Харбанда, Анил Джордж, Джишу Сенгупта, Мохаммед Зишан Айюб, Эдвард Зонненблик",
+        "description": "История об индийской национальной героине, символе сопротивления деспотизму британских колонизаторов, лидера княжества Джханси - Лакшми Баи (имя при рождении - Маникарника). В 1857 году женщина принимала активное участие в Сипайском восстании против жестокой политики англичан: возглавляла оборону Джханси от армии генерала Роуза и воевала во главе кавалерийского отряда.",
+        "slogan": "",
+        "premiere": "24 января 2019",
+        "age": "0",
+        "time": "8880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1074313.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "410",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "9674"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1070363",
       "date": "1579395469",
       "camrip": "0",
@@ -912,7 +1052,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1097391.jpg",
         "rating": {
           "rating_kp": "5.571",
-          "vote_num_kp": "8358",
+          "vote_num_kp": "8368",
           "rating_imdb": "5.5",
           "vote_num_imdb": "10897"
         }
@@ -1637,10 +1777,10 @@
         "time": "2580",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_664424.jpg",
         "rating": {
-          "rating_kp": "8.19",
-          "vote_num_kp": "6396",
+          "rating_kp": "8.191",
+          "vote_num_kp": "6407",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "20248"
+          "vote_num_imdb": "20254"
         }
       }
     },
@@ -1778,149 +1918,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_984968.jpg",
         "rating": {
           "rating_kp": "4.209",
-          "vote_num_kp": "1531",
+          "vote_num_kp": "1534",
           "rating_imdb": "3.2",
           "vote_num_imdb": "1593"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "981222",
-      "date": "1579259515",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Капитал в XXI веке",
-        "orig": "Capital in the Twenty-First Century",
-        "alter": "",
-        "year": "2019",
-        "country": "Франция,Новая Зеландия",
-        "director": "Джастин Пембертон",
-        "genre": "документальный",
-        "actors": "",
-        "description": "Главный персонаж фильма &#151; капитализм. В мире капитала Симпсоны соседствуют с героями Джейн Остин, Уолл-стрит влияет на цены в Окленде, а причины сегодняшней инфляции берут свое начало аж в Первой мировой войне.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_981222.jpg",
-        "rating": {
-          "rating_kp": "7.329",
-          "vote_num_kp": "2302",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "1696"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1203112",
-      "date": "1579174418",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "720",
-      "info": {
-        "rus": "Царь зверей",
-        "orig": "The Donkey King",
-        "alter": "",
-        "year": "2018",
-        "country": "Пакистан",
-        "director": "Азиз Джиндани",
-        "genre": "мультфильм,комедия,семейный",
-        "actors": "Афзал Кхан,Хина Дильпазир,Гулам Мохиуддин,Адиль Хашми,Файзал Куреши,Джавед Шейх,Шафат Али,Васай Чодри,Шаббир Ян,Ахсан Рахим",
-        "description": "&laquo;Если ты родился ослом, то не обязательно всю жизнь жить как осел. Мечтай, и твои мечты осуществятся&raquo;. Получив такое напутствие от отца, осел по имени Мангу с оптимизмом смотрит на жизнь. И однажды ему действительно улыбается удача. В стране грядут выборы нового правителя. По невероятному стечению обстоятельств, претендентов на трон всего двое: он и избалованный принц, которого народ терпеть не может. Казалось бы, дело в шляпе, а корона на голове у ослика! Но сможет ли простой осел из бедной семьи стать царем зверей? Ведь речи произносить его никто не учил, а всё, чем он управлял &#151; это утюг и доска для стирки белья!",
-        "slogan": "За осла ответишь!",
-        "premiere": "12 октября 2018",
-        "age": "6",
-        "time": "5100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1203112.jpg",
-        "rating": {
-          "rating_kp": "6.044",
-          "vote_num_kp": "6956",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "542"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "843849",
-      "date": "1579174291",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Жизнь на грани",
-        "orig": "Life on the Line",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Дэвид Хэкл",
-        "genre": "боевик,драма",
-        "actors": "Джон Траволта, Кейт Босворт, Девон Сава, Джил Беллоуз, Джули Бенц, Райан Роббинс, Тай Олссон, Шэрон Стоун, Риз Александр, Эмили Уллерап",
-        "description": "Команда электромонтажников, занятых на опасной работе, борется за то, чтобы удержать любимых женщин, пока не вступают в новую борьбу - уже за собственную жизнь - с неистовыми силами природы.",
-        "slogan": "Courage. Risk. Sacrifice",
-        "premiere": "5 ноября 2015",
-        "age": "0",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843849.jpg",
-        "rating": {
-          "rating_kp": "5.59",
-          "vote_num_kp": "1393",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "4781"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1169370",
-      "date": "1579174164",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Портрет девушки в огне",
-        "orig": "Portrait de la jeune fille en feu",
-        "alter": "",
-        "year": "2019",
-        "country": "Франция",
-        "director": "Селин Сьямма",
-        "genre": "драма",
-        "actors": "Ноэми Мерлан,Адель Энель,Луана Байрами,Валерия Голино,Кристель Барас,Арман Буланжер,Ги Деламарш,Клеман Буассу,Мишель Клеман,Сесиль Морел",
-        "description": "Бретань, 1770. Марианна, художница, приезжает в имение на побережье, чтобы написать портрет дочери его владелицы &#151; Элоизы. Картина нужна, чтобы отправить жениху Элоизы в Милан. В знак протеста против замужества девушка отказывается позировать, и гостью представляют как компаньонку для прогулок. Проводя все больше времени вместе, девушки начинают чувствовать взаимное притяжение.",
-        "slogan": "",
-        "premiere": "19 мая 2019",
-        "age": "18",
-        "time": "7260",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1169370.jpg",
-        "rating": {
-          "rating_kp": "7.264",
-          "vote_num_kp": "14105",
-          "rating_imdb": "8.1",
-          "vote_num_imdb": "64584"
         }
       }
     }

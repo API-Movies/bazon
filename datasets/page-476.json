@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1108925",
+      "date": "1573308700",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Битва при Сарагахри",
+        "orig": "Kesari",
+        "alter": "",
+        "year": "2019",
+        "country": "Индия",
+        "director": "Анураг Сингх",
+        "genre": "боевик,история,драма,военный",
+        "actors": "Акшай Кумар, Паринити Чопра, Suvinder Vicky, Ванш Бхардвай, Sumeet Basran, Ajit Singh, Sandeep Nahar, Harwinder Singh Aujla, Rakesh Sharma, Adhrit Sharma",
+        "description": "Британская Индия, 12 сентября 1897 года. Отряд сикхов Британской Индийской армии на армейском посту в составе 21-го человека подвергается нападению десятитысячного войска пуштунов.",
+        "slogan": "",
+        "premiere": "21 марта 2019",
+        "age": "0",
+        "time": "9000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1108925.jpg",
+        "rating": {
+          "rating_kp": "6.179",
+          "vote_num_kp": "556",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "14679"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1053352",
+      "date": "1573308614",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мальчик, который обуздал ветер",
+        "orig": "The Boy Who Harnessed the Wind",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания, Малави",
+        "director": "Чиветель Эджиофор",
+        "genre": "драма",
+        "actors": "Чиветель Эджиофор, Максвелл Симба, Felix Lemburo, Robert Agengo, Fiskan Makawa, Лили Банда, Айса Майга, Fredrick Lukhere, Hestingzi Phiri, Rophium Banda",
+        "description": "Мальчик, живущий в бедной африканской деревушке в Малави, помогает взрослым строить ветряную мельницу, черпая знания из библиотечной книги.",
+        "slogan": "Based on the Incredible True Story",
+        "premiere": "25 января 2019",
+        "age": "0",
+        "time": "6780",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1053352.jpg",
+        "rating": {
+          "rating_kp": "7.203",
+          "vote_num_kp": "2394",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "28921"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1241384",
+      "date": "1573308535",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Трудный путь",
+        "orig": "The Hard Way",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Киони Ваксман",
+        "genre": "боевик",
+        "actors": "Майкл Джей Уайт, Люк Госс, Рэнди Кутюр, Мадалина Анеа, Грант Кэмпбелл, Джордж Ремис, Овидиу Никулеску, Andreea Diac, Michaela Holla, Богдан Фаркас",
+        "description": "После гибели брата, который выполнял миссию в Румынии, бывший солдат набирает команду, для того чтобы выследить загадочного врага и отомстить ему за содеянное.",
+        "slogan": "",
+        "premiere": "5 марта 2019",
+        "age": "0",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1241384.jpg",
+        "rating": {
+          "rating_kp": "4.6",
+          "vote_num_kp": "230",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "2621"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1066106",
+      "date": "1573308430",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Первый король",
+        "orig": "Il primo re",
+        "alter": "",
+        "year": "2019",
+        "country": "Италия, Бельгия",
+        "director": "Маттео Ровере",
+        "genre": "история,драма",
+        "actors": "Алессандро Борги, Алессио Лапиче, Фабрицио Ронджоне, Массимилиано Росси, Tania Garribba, Майкл Скерми, Макс Малатеста, Vincenzo Pirrotta, Винченцо Креа, Lorenzo Gleijeses",
+        "description": "Ромул и Рем, два брата-пастуха, отправляются в путешествие, после которого один из них станет основателем самой великой нации, а другой погибнет от рук родного брата.",
+        "slogan": "",
+        "premiere": "31 января 2019",
+        "age": "0",
+        "time": "7380",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1066106.jpg",
+        "rating": {
+          "rating_kp": "5.826",
+          "vote_num_kp": "1001",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "4574"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1260303",
       "date": "1573308320",
       "camrip": "0",
@@ -29,7 +169,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1260303.jpg",
         "rating": {
           "rating_kp": "7.425",
-          "vote_num_kp": "3520",
+          "vote_num_kp": "3521",
           "rating_imdb": "7.2",
           "vote_num_imdb": "5662"
         }
@@ -64,7 +204,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_471586.jpg",
         "rating": {
           "rating_kp": "6.513",
-          "vote_num_kp": "6481",
+          "vote_num_kp": "6489",
           "rating_imdb": "7.2",
           "vote_num_imdb": "93885"
         }
@@ -169,7 +309,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1200159.jpg",
         "rating": {
           "rating_kp": "4.804",
-          "vote_num_kp": "552",
+          "vote_num_kp": "554",
           "rating_imdb": "4.9",
           "vote_num_imdb": "381"
         }
@@ -344,7 +484,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115830.jpg",
         "rating": {
           "rating_kp": "6.045",
-          "vote_num_kp": "614",
+          "vote_num_kp": "617",
           "rating_imdb": "5.9",
           "vote_num_imdb": "677"
         }
@@ -624,7 +764,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_496849.jpg",
         "rating": {
           "rating_kp": "7.233",
-          "vote_num_kp": "283822",
+          "vote_num_kp": "283909",
           "rating_imdb": "7",
           "vote_num_imdb": "345306"
         }
@@ -694,7 +834,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_606826.jpg",
         "rating": {
           "rating_kp": "7.179",
-          "vote_num_kp": "94384",
+          "vote_num_kp": "94408",
           "rating_imdb": "6.9",
           "vote_num_imdb": "250585"
         }
@@ -731,7 +871,7 @@
           "rating_kp": "7.936",
           "vote_num_kp": "115294",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "230772"
+          "vote_num_imdb": "230817"
         }
       }
     },
@@ -799,7 +939,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1762.jpg",
         "rating": {
           "rating_kp": "6.14",
-          "vote_num_kp": "43845",
+          "vote_num_kp": "43853",
           "rating_imdb": "5.6",
           "vote_num_imdb": "89011"
         }
@@ -903,8 +1043,8 @@
         "time": "6300",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_102136.jpg",
         "rating": {
-          "rating_kp": "7.089",
-          "vote_num_kp": "84462",
+          "rating_kp": "7.088",
+          "vote_num_kp": "84471",
           "rating_imdb": "6.4",
           "vote_num_imdb": "198107"
         }
@@ -1081,7 +1221,7 @@
           "rating_kp": "7.423",
           "vote_num_kp": "100223",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "223817"
+          "vote_num_imdb": "223862"
         }
       }
     },
@@ -1114,9 +1254,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_195223.jpg",
         "rating": {
           "rating_kp": "6.698",
-          "vote_num_kp": "75178",
+          "vote_num_kp": "75186",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "134436"
+          "vote_num_imdb": "134463"
         }
       }
     },
@@ -1184,7 +1324,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_267621.jpg",
         "rating": {
           "rating_kp": "6.067",
-          "vote_num_kp": "29480",
+          "vote_num_kp": "29525",
           "rating_imdb": "5",
           "vote_num_imdb": "38595"
         }
@@ -1396,7 +1536,7 @@
           "rating_kp": "7.002",
           "vote_num_kp": "64860",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "125717"
+          "vote_num_imdb": "125753"
         }
       }
     },
@@ -1431,7 +1571,7 @@
           "rating_kp": "5.833",
           "vote_num_kp": "63242",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "161027"
+          "vote_num_imdb": "161047"
         }
       }
     },
@@ -1606,147 +1746,7 @@
           "rating_kp": "7.99",
           "vote_num_kp": "107176",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "110605"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "404366",
-      "date": "1573252637",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Паранормальное явление",
-        "orig": "Paranormal Activity",
-        "alter": "",
-        "year": "2007",
-        "country": "США",
-        "director": "Орен Пели",
-        "genre": "ужасы",
-        "actors": "Кэти Физерстон, Мика Слот, Марк Фредерикс, Эмбер Армстронг, Эшли Палмер, Кристал Картрайт, Spencer Marks, Рэнди Макдауэлл, Тим Пайпер",
-        "description": "Молодая пара проживает в доме, который, как они подозревают, посещается некой злой силой. Чтобы зафиксировать паранормальную активность, они настраивают видеокамеру, чтобы записать свидетельство существования этой силы, появляющейся исключительно ночью, когда они спят. Тут-то и начинается самое интересное... и страшное!",
-        "slogan": "Что происходит, пока вы спите?",
-        "premiere": "14 октября 2007",
-        "age": "16",
-        "time": "5160",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_404366.jpg",
-        "rating": {
-          "rating_kp": "6.547",
-          "vote_num_kp": "92361",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "221079"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4473",
-      "date": "1573252599",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "И грянул гром",
-        "orig": "A Sound of Thunder",
-        "alter": "",
-        "year": "2004",
-        "country": "Чехия, Великобритания, Германия, США",
-        "director": "Питер Хайамс",
-        "genre": "боевик,ужасы,фантастика,триллер,приключения",
-        "actors": "Эдвард Бёрнс, Катрин МакКормак, Бен Кингсли, Джемайма Рупер, Дэвид Ойелоуо, Армин Роде, Хайке Макач, Вильфрид Хохгольдингер, Август Цирнер, Элвин Ван Дер Куеч",
-        "description": "В недалеком будущем, путешествия во времени станут удивительной, непредсказуемой реальностью. За деньги, богатые путешественники могут пробудить свои дремлющие инстинкты охотников, заказывая доисторические сафари, чтобы охотиться на настоящих живых динозавров.\r\n\r\nЕсть только три важных правила, которые нельзя нарушать: не менять ничего в прошлом; не оставлять ничего там; и самое важное - ничего не брать с собой назад. Малейшее изменение могло бы привести к глобальному изменению эволюции способами, которые даже трудно представить.",
-        "slogan": "Некоторые правила нельзя нарушать",
-        "premiere": "26 августа 2005",
-        "age": "16",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4473.jpg",
-        "rating": {
-          "rating_kp": "5.597",
-          "vote_num_kp": "24068",
-          "rating_imdb": "4.3",
-          "vote_num_imdb": "18869"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "84140",
-      "date": "1573252548",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Doom",
-        "orig": "Doom",
-        "alter": "",
-        "year": "2005",
-        "country": "Великобритания, Чехия, Германия, США",
-        "director": "Анджей Бартковяк",
-        "genre": "боевик,ужасы,фантастика,приключения",
-        "actors": "Карл Урбан, Розамунд Пайк, Деобиа Опарей, Бен Дэниелс, Разаак Адоти, Ричард Брэйк, Аль Уивер, Декстер Флетчер, Брайан Стил, Дуэйн Джонсон",
-        "description": "Действие фильма разворачивается приблизительно в 2045 году. После того, как из далёкой научной лаборатории Олдуай был получен сигнал о помощи, на место ― планету Марс ― прибывает отряд космического спецназа и обнаруживает разгромленную станцию. Вскоре выясняется, что на людей здесь охотятся полчища ужасных существ-мутантов...",
-        "slogan": "Никто не выйдет живым",
-        "premiere": "20 октября 2005",
-        "age": "16",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_84140.jpg",
-        "rating": {
-          "rating_kp": "5.862",
-          "vote_num_kp": "55798",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "107751"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "61439",
-      "date": "1573252496",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Знакомство с Факерами",
-        "orig": "Meet the Fockers",
-        "alter": "",
-        "year": "2004",
-        "country": "США",
-        "director": "Джей Роуч",
-        "genre": "комедия,мелодрама",
-        "actors": "Роберт Де Ниро, Бен Стиллер, Дастин Хоффман, Барбра Стрейзанд, Блайт Даннер, Тери Поло, Аланна Юбак, Рэй Сантьяго, Шелли Берман, Оуэн Уилсон",
-        "description": "Дав разрешение санитару Грэгу Факеру на свадьбу с их дочерью, бывший ЦэРэУшник Джек Бернс и его жена отправляются в Майами к родителям жениха. У них в голове много вопросов. Что это за семейка такая - Факеры? И что это вообще за родители, которые назвали сына Гей (Гейлард) М. Факер?",
-        "slogan": "Семья не приходит одна",
-        "premiere": "16 декабря 2004",
-        "age": "12",
-        "time": "6900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_61439.jpg",
-        "rating": {
-          "rating_kp": "7.096",
-          "vote_num_kp": "101003",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "253436"
+          "vote_num_imdb": "110630"
         }
       }
     }

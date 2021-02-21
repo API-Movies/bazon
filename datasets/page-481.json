@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1141782",
+      "date": "1572980506",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Doom: Аннигиляция",
+        "orig": "Doom: Annihilation",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Тони Гиглио",
+        "genre": "боевик,ужасы,фантастика",
+        "actors": "Эми Мэнсон, Луис Мэндилор, Нина Бергман, Kate Nichols, Лорина Камбурова, Доминик Мафэм, Люк Аллен-Гейл, Хари Диллон, Амер Чадха-Патель, Джемма Мур",
+        "description": "Отряд морпехов прибывает на научную базу на одной из марсианских лун, где обнаруживают, что местные учёные открыли портал в ад, а по коридорам бродят разнообразные монстры.",
+        "slogan": "Your Mission: Don't Die",
+        "premiere": "1 октября 2019",
+        "age": "0",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1141782.jpg",
+        "rating": {
+          "rating_kp": "4.205",
+          "vote_num_kp": "4665",
+          "rating_imdb": "3.6",
+          "vote_num_imdb": "7848"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1051511",
+      "date": "1572980318",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Незваный гость",
+        "orig": "The Intruder",
+        "alter": "",
+        "year": "2019",
+        "country": "-",
+        "director": "-",
+        "genre": "драма",
+        "actors": "-",
+        "description": "Скотт и Рассел — семейная пара, которая мечтает о детях и просторном доме, расположенном на лоне природы. Им удается найти подходящее строение, хозяином которого оказывается дружелюбный пожилой мужчина по имени Чарли. Этот человек с радостью передает дом в руки новых хозяев. Однако на следующий день пара обнаруживает, что он как ни в чем не бывало косит траву у них во дворе. К тому же по ночам они слышат скрип пола. Это говорит о том, что к ним заходит незваный гость. Им оказывается Чарли, который просто не может расстаться с домом, где погибла его жена и осталось множество самых разных воспоминаний...",
+        "slogan": "Your House. His Home",
+        "premiere": "2 мая 2019",
+        "age": "0",
+        "time": "6120",
+        "poster": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/140x209/film-4001654135._CB470041848_.png",
+        "rating": {
+          "rating_kp": "5.728",
+          "vote_num_kp": "3078",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "13342"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1114089",
+      "date": "1572979534",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Раны",
+        "orig": "Wounds",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания",
+        "director": "Бабак Анвари",
+        "genre": "ужасы,триллер,драма",
+        "actors": "Арми Хаммер,Зази Битц,Дакота Джонсон,Карл Глусман,Кристин Ранкинс,Брэд Уильям Хенке,Бен Сандерс,Алекс Биглейн,Мэттью Андервуд,Орен Хоксхерт",
+        "description": "После драки в заведении бармен находит потерянный посетителем телефон и зачем-то решает посмотреть, что в нём. С этого момента жизнь мужчины круто меняется не в лучшую сторону: повсюду носятся толпы тараканов, он получает страшные фотографии и леденящие душу звонки, на теле образовывается страшная рана, и, кажется, что парень оказался в центре какого-то жуткого заговора или чьей-то извращённой игры.",
+        "slogan": "Don't call it in",
+        "premiere": "26 января 2019",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1114089.jpg",
+        "rating": {
+          "rating_kp": "5.11",
+          "vote_num_kp": "3503",
+          "rating_imdb": "4",
+          "vote_num_imdb": "16116"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "992506",
+      "date": "1572979440",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Прачечная",
+        "orig": "The Laundromat",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Стивен Содерберг",
+        "genre": "биография,драма,комедия,история",
+        "actors": "Гари Олдман,Антонио Бандерас,Мэрил Стрип,Альберт Мейер,Arsenio Castellanos,Люси Морнингстар,Джеймс Кромуэлл,Джефф Михальски,Джейн Моррис,Роберт Патрик",
+        "description": "Пожилая супружеская пара отправляется на водную экскурсию, но в процессе происходит несчастный случай &amp;#151; судно переворачивается, многие пассажиры гибнут, в том числе и муж Эллен. Пытаясь получить полагающуюся по такому случаю страховую выплату, настырная пенсионерка узнаёт о цепочке подставных фирм, которые созданы в офшорных зонах для укрывания от налогов и отмывания незаконно нажитых средств.",
+        "slogan": "Based on actual secrets",
+        "premiere": "1 сентября 2019",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_992506.jpg",
+        "rating": {
+          "rating_kp": "6.386",
+          "vote_num_kp": "5553",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "44286"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1043877",
       "date": "1572979116",
       "camrip": "0",
@@ -28,8 +168,8 @@
         "time": "5880",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1043877.jpg",
         "rating": {
-          "rating_kp": "5.912",
-          "vote_num_kp": "4211",
+          "rating_kp": "5.913",
+          "vote_num_kp": "4217",
           "rating_imdb": "5.7",
           "vote_num_imdb": "29315"
         }
@@ -64,9 +204,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1164937.jpg",
         "rating": {
           "rating_kp": "6.938",
-          "vote_num_kp": "5473",
+          "vote_num_kp": "5482",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "53382"
+          "vote_num_imdb": "53413"
         }
       }
     },
@@ -101,7 +241,7 @@
           "rating_kp": "5.874",
           "vote_num_kp": "23010",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "95825"
+          "vote_num_imdb": "95858"
         }
       }
     },
@@ -134,7 +274,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_517433.jpg",
         "rating": {
           "rating_kp": "6.536",
-          "vote_num_kp": "68884",
+          "vote_num_kp": "68889",
           "rating_imdb": "7",
           "vote_num_imdb": "338959"
         }
@@ -206,7 +346,7 @@
           "rating_kp": "8.17",
           "vote_num_kp": "252329",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "913741"
+          "vote_num_imdb": "913942"
         }
       }
     },
@@ -239,7 +379,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_273302.jpg",
         "rating": {
           "rating_kp": "7.575",
-          "vote_num_kp": "160844",
+          "vote_num_kp": "160881",
           "rating_imdb": "7.1",
           "vote_num_imdb": "281773"
         }
@@ -274,7 +414,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_279600.jpg",
         "rating": {
           "rating_kp": "6.3",
-          "vote_num_kp": "76777",
+          "vote_num_kp": "76816",
           "rating_imdb": "5",
           "vote_num_imdb": "195932"
         }
@@ -311,7 +451,7 @@
           "rating_kp": "6.14",
           "vote_num_kp": "24972",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "71202"
+          "vote_num_imdb": "71216"
         }
       }
     },
@@ -344,7 +484,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_102510.jpg",
         "rating": {
           "rating_kp": "6.865",
-          "vote_num_kp": "129950",
+          "vote_num_kp": "129982",
           "rating_imdb": "6.2",
           "vote_num_imdb": "221052"
         }
@@ -414,7 +554,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_280176.jpg",
         "rating": {
           "rating_kp": "6.259",
-          "vote_num_kp": "93317",
+          "vote_num_kp": "93357",
           "rating_imdb": "5.5",
           "vote_num_imdb": "163676"
         }
@@ -449,7 +589,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_909550.jpg",
         "rating": {
           "rating_kp": "5.555",
-          "vote_num_kp": "28031",
+          "vote_num_kp": "28033",
           "rating_imdb": "5.3",
           "vote_num_imdb": "84872"
         }
@@ -484,7 +624,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4003.jpg",
         "rating": {
           "rating_kp": "6.897",
-          "vote_num_kp": "23571",
+          "vote_num_kp": "23575",
           "rating_imdb": "6.1",
           "vote_num_imdb": "99494"
         }
@@ -521,7 +661,7 @@
           "rating_kp": "8.014",
           "vote_num_kp": "163690",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "175325"
+          "vote_num_imdb": "175344"
         }
       }
     },
@@ -591,7 +731,7 @@
           "rating_kp": "6.207",
           "vote_num_kp": "9621",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "55456"
+          "vote_num_imdb": "55475"
         }
       }
     },
@@ -696,7 +836,7 @@
           "rating_kp": "7.057",
           "vote_num_kp": "87342",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "143782"
+          "vote_num_imdb": "143803"
         }
       }
     },
@@ -766,7 +906,7 @@
           "rating_kp": "7.297",
           "vote_num_kp": "92967",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "233919"
+          "vote_num_imdb": "233962"
         }
       }
     },
@@ -799,7 +939,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_468466.jpg",
         "rating": {
           "rating_kp": "7.467",
-          "vote_num_kp": "225454",
+          "vote_num_kp": "225491",
           "rating_imdb": "7.7",
           "vote_num_imdb": "770810"
         }
@@ -1011,7 +1151,7 @@
           "rating_kp": "7.445",
           "vote_num_kp": "69439",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "72801"
+          "vote_num_imdb": "72813"
         }
       }
     },
@@ -1044,7 +1184,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_494.jpg",
         "rating": {
           "rating_kp": "7.932",
-          "vote_num_kp": "157061",
+          "vote_num_kp": "157084",
           "rating_imdb": "7.6",
           "vote_num_imdb": "338537"
         }
@@ -1114,7 +1254,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2342.jpg",
         "rating": {
           "rating_kp": "7.855",
-          "vote_num_kp": "42016",
+          "vote_num_kp": "42022",
           "rating_imdb": "7.5",
           "vote_num_imdb": "163032"
         }
@@ -1324,7 +1464,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047996.jpg",
         "rating": {
           "rating_kp": "5.75",
-          "vote_num_kp": "52265",
+          "vote_num_kp": "52314",
           "rating_imdb": "4.8",
           "vote_num_imdb": "5548"
         }
@@ -1359,7 +1499,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_504668.jpg",
         "rating": {
           "rating_kp": "6.267",
-          "vote_num_kp": "17666",
+          "vote_num_kp": "17667",
           "rating_imdb": "5.8",
           "vote_num_imdb": "22569"
         }
@@ -1464,7 +1604,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_596481.jpg",
         "rating": {
           "rating_kp": "6.44",
-          "vote_num_kp": "34723",
+          "vote_num_kp": "34747",
           "rating_imdb": "6.4",
           "vote_num_imdb": "91186"
         }
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "23995",
           "rating_imdb": "5.6",
           "vote_num_imdb": "21941"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "518041",
-      "date": "1572901627",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Сезон охоты 3",
-        "orig": "Open Season 3",
-        "alter": "",
-        "year": "2010",
-        "country": "США",
-        "director": "Коуди Кэмерон",
-        "genre": "мультфильм,комедия,приключения,семейный",
-        "actors": "Мэттью Дж. Мунн, Мэттью В. Тейлор, Мелисса Штурм, Карли Скотт Коллинз, Сиэра Браво, Харрисон Фан, Дэна Снайдер, Андре Соглиуззо, Коуди Кэмерон, Дэнни Манн",
-        "description": "Продолжение сумасшедших приключений медведя-гризли Буга и его верного друга, оленя Элиота. На этот раз Буг пускается на поиски личного счастья и попадает... в бродячий цирк, где знакомится с очаровательной русской медведицей.",
-        "slogan": "Это просто цирк какой-то!",
-        "premiere": "21 октября 2010",
-        "age": "12",
-        "time": "4500",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_518041.jpg",
-        "rating": {
-          "rating_kp": "5.699",
-          "vote_num_kp": "15607",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "10179"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "103734",
-      "date": "1572901362",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Кунг-фу Панда",
-        "orig": "Kung Fu Panda",
-        "alter": "",
-        "year": "2008",
-        "country": "США",
-        "director": "Марк Осборн, Джон Стивенсон",
-        "genre": "мультфильм,комедия,боевик,приключения,семейный",
-        "actors": "Джек Блэк, Дастин Хоффман, Анджелина Джоли, Иэн Макшейн, Джеки Чан, Сет Роген, Люси Лью, Дэвид Кросс, Рэндолл Дак Ким, Джеймс Хонг",
-        "description": "Спасение Долины Мира и всех ее обитателей от непобедимого и безжалостного мастера Тай Лунга должно лечь на плечи Воина Дракона, Избранного среди лучших из лучших, коим становится... неуклюжий, ленивый и вечно голодный панда По.\r\n\r\nЕму предстоит долгий и трудный путь к вершинам мастерства кунг-фу бок о бок с легендарными воинами: Тигрой, Обезьяной, Богомолом, Гадюкой и Журавлем. По постигнет тайну древнего Свитка и станет Воином Дракона только в том случае, если сможет поверить в себя...",
-        "slogan": "Не будите во мне зверя, пожалуйста",
-        "premiere": "15 мая 2008",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_103734.jpg",
-        "rating": {
-          "rating_kp": "7.771",
-          "vote_num_kp": "210238",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "421085"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "692865",
-      "date": "1572901225",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Кунг-фу Панда 3",
-        "orig": "Kung Fu Panda 3",
-        "alter": "",
-        "year": "2016",
-        "country": "Китай, США",
-        "director": "Алессандро Карлони, Дженнифер Ю",
-        "genre": "мультфильм,комедия,боевик,фэнтези,приключения,семейный",
-        "actors": "Джек Блэк, Брайан Крэнстон, Дастин Хоффман, Анджелина Джоли, Дж.К. Симмонс, Джеки Чан, Сет Роген, Люси Лью, Дэвид Кросс, Кейт Хадсон",
-        "description": "Воссоединившись со своим давно потерянным отцом, По отправляется в тайный рай для панд, где его ожидает встреча с множеством веселых сородичей. Однако вскоре злодей Кай начинает зачистку - он уничтожает кунг-фу мастеров по всему Китаю.\r\n\r\nПо предстоит сделать невозможное - обучить боевому искусству деревню, полную его веселых, неуклюжих собратьев, и тем самым превратить их в отряд кунг-фу панд.",
-        "slogan": "Притяженья больше нет",
-        "premiere": "16 января 2016",
-        "age": "6",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_692865.jpg",
-        "rating": {
-          "rating_kp": "7.253",
-          "vote_num_kp": "89976",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "135196"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "279685",
-      "date": "1572901161",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Монстр в Париже",
-        "orig": "Un monstre à Paris",
-        "alter": "",
-        "year": "2010",
-        "country": "Франция",
-        "director": "Бибо Бержерон",
-        "genre": "мультфильм,комедия,фэнтези,мелодрама,приключения",
-        "actors": "Ванесса Паради, Матьё Шедид, Гад Эльмалех, Франсуа Клюзе, Людивин Санье, Жюли Ферье, Бруно Саломон, Себастьян Дежу, Филип Петью, Боб Бэлабан",
-        "description": "Париж. 1910 год. Ужасный монстр, напоминающий гигантское насекомое, нагоняет страх на всю Францию. Застенчивый киномеханик и неутомимый изобретатель начинают охоту на него. В этой погоне они знакомятся со звездой кабаре, сумасшедшим ученым и его умной обезьянкой и, наконец, самим монстром, который оказывается совсем не страшным. Теперь безобидное, как блоха, чудовище ищет у своих новых друзей защиты от вредного начальника городской полиции.",
-        "slogan": "",
-        "premiere": "28 августа 2011",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_279685.jpg",
-        "rating": {
-          "rating_kp": "7.405",
-          "vote_num_kp": "37788",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "19490"
         }
       }
     }

@@ -2,6 +2,216 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1256155",
+      "date": "1586730950",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Лето в Чанша",
+        "orig": "Liu yu tian",
+        "alter": "",
+        "year": "2019",
+        "country": "Китай",
+        "director": "Цзу Фэн",
+        "genre": "драма,криминал,детектив",
+        "actors": "Цзу Фэн,Хуан Лу,Чэнь Минхао,Qianru Zhang,Лю Тяньчи,Тянь Юй,Qiuhai Hou,Yueling Shi",
+        "description": "Во время расследования жестокого убийства детектив Бинь знакомится с хирургом Ли Сюэ. И чем больше эти двое узнают друг друга, тем сильнее влюбляются.",
+        "slogan": "",
+        "premiere": "22 мая 2019",
+        "age": "0",
+        "time": "6960",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1256155.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "26",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "156"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1346215",
+      "date": "1586730803",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Сделано в Освенциме: Нерассказанная история блока номер десять",
+        "orig": "Made in Auschwitz: The Untold Story of Block 10",
+        "alter": "",
+        "year": "2019",
+        "country": "Израиль,Германия",
+        "director": "Sylvia Nagel,Sonya Winterberg",
+        "genre": "документальный",
+        "actors": "Sylvia Nagel, Sonya Winterberg",
+        "description": "В этом леденящем душу фильмы представлены показания женщин, переживших опыты доктора Карла Клауберга, эксперименты которого должны были позволить внедрить массовую стерилизацию женщин неугодных народов во благо нацистской Германии.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "4320",
+        "poster": "https://image.tmdb.org/t/p/w500/y9Qa2kbd2HrFfrDJOykEHiEFjcz.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "8",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "50"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1264122",
+      "date": "1586730558",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Секта",
+        "orig": "Il nido",
+        "alter": "",
+        "year": "2019",
+        "country": "Италия",
+        "director": "Роберто Де Фео",
+        "genre": "ужасы,детектив",
+        "actors": "Франческа Каваллин,Джастин Коровкин,Джиневра Франческони,Маурицио Ломбарди,Габриэль Фальсетта,Карло Валли,Массимо Риго,Элизабетта Де Вито,Валентина Бартоло,Кристина Голотта",
+        "description": "Самуэль прикован к инвалидной коляске и живёт в обособленном поместье со своей матерью Еленой и другими странными домочадцами. Когда в доме появляется молодая и красивая Денис, Самуэль находит в себе силы открыть для себя мир. Елена не хочет отпускать от себя сына и сделает всё, чтобы оставить его у себя.",
+        "slogan": "",
+        "premiere": "15 августа 2019",
+        "age": "18",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1264122.jpg",
+        "rating": {
+          "rating_kp": "5.44",
+          "vote_num_kp": "1203",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "1016"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "693169",
+      "date": "1586730429",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Линия родства",
+        "orig": "Line of Descent",
+        "alter": "Поле",
+        "year": "2019",
+        "country": "США",
+        "director": "Рохит Карн Батра",
+        "genre": "драма,криминал",
+        "actors": "Брендан Фрейзер,Прем Чопра,Абхай Деол,Ронит Рой,Нирадж Каби,Али Хажи,Anisha Victor,Шарлотта Потрель,Priyanka Setia,Ekavali Khanna",
+        "description": "Действие происходит на окраине Дели и объединяет противоборствующие мафиозные семьи и тайного офицера, который борется со своими демонами и принимает участие в свержении мафии.",
+        "slogan": "",
+        "premiere": "15 ноября 2019",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_693169.jpg",
+        "rating": {
+          "rating_kp": "5.096",
+          "vote_num_kp": "137",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "432"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1342902",
+      "date": "1586730279",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Мы мечта: Дети на фестивале Мартина Лютера Кинга",
+        "orig": "We Are the Dream: The Kids of the Oakland MLK Oratorical Fest",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Эми Шатц",
+        "genre": "документальный",
+        "actors": "Дайан Кольер, Нэнси Абрахам, Аматус Карим Али",
+        "description": "Дети читают стихи и речи, вдохновленные жизнью и наследием Мартина Лютера Кинга.",
+        "slogan": "",
+        "premiere": "18 февраля 2020",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1342902.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "8",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "41"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "15651",
+      "date": "1586716298",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Серая сова",
+        "orig": "Grey Owl",
+        "alter": "",
+        "year": "1998",
+        "country": "Великобритания,Канада",
+        "director": "Ричард Аттенборо",
+        "genre": "драма,вестерн,биография",
+        "actors": "Пирс Броснан,Стюарт Бик,Власта Врана,Анни Галипо,Нил Кроетч,Серж Уд,Питер Колвер,Натаниель Арканд,Жак Люссье,Ли-Рой Джейкобс",
+        "description": "Британец Арчи Белани считал своим домом дикие леса Канады. Известный среди местных индейцев и охотников под именем Серая Сова, Арчи был одиночкой, и сам избрал этот путь, опасный и непредсказуемый. Здесь он был хозяином, способным постоять за себя и прийти на помощь попавшим в беду.",
+        "slogan": "He Fought To Change The World",
+        "premiere": "10 сентября 1999",
+        "age": "12",
+        "time": "7080",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_15651.jpg",
+        "rating": {
+          "rating_kp": "6.743",
+          "vote_num_kp": "532",
+          "rating_imdb": "6",
+          "vote_num_imdb": "3396"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "671170",
       "date": "1586710146",
       "camrip": "0",
@@ -29,7 +239,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_671170.jpg",
         "rating": {
           "rating_kp": "6.123",
-          "vote_num_kp": "7621",
+          "vote_num_kp": "7622",
           "rating_imdb": "5.5",
           "vote_num_imdb": "13471"
         }
@@ -169,7 +379,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_88692.jpg",
         "rating": {
           "rating_kp": "5.027",
-          "vote_num_kp": "6689",
+          "vote_num_kp": "6691",
           "rating_imdb": "5.3",
           "vote_num_imdb": "11912"
         }
@@ -204,7 +414,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_418984.jpg",
         "rating": {
           "rating_kp": "5.382",
-          "vote_num_kp": "885",
+          "vote_num_kp": "886",
           "rating_imdb": "5.1",
           "vote_num_imdb": "3405"
         }
@@ -483,8 +693,8 @@
         "time": "5820",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_689587.jpg",
         "rating": {
-          "rating_kp": "5.123",
-          "vote_num_kp": "8395",
+          "rating_kp": "5.124",
+          "vote_num_kp": "8401",
           "rating_imdb": "5.6",
           "vote_num_imdb": "34638"
         }
@@ -589,7 +799,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_426002.jpg",
         "rating": {
           "rating_kp": "5.523",
-          "vote_num_kp": "68100",
+          "vote_num_kp": "68118",
           "rating_imdb": "5.3",
           "vote_num_imdb": "99792"
         }
@@ -1081,7 +1291,7 @@
           "rating_kp": "6.046",
           "vote_num_kp": "62704",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "384781"
+          "vote_num_imdb": "384845"
         }
       }
     },
@@ -1148,8 +1358,8 @@
         "time": "6120",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_64175.jpg",
         "rating": {
-          "rating_kp": "5.781",
-          "vote_num_kp": "914",
+          "rating_kp": "5.783",
+          "vote_num_kp": "913",
           "rating_imdb": "5.9",
           "vote_num_imdb": "7036"
         }
@@ -1533,220 +1743,10 @@
         "time": "1320",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_255140.jpg",
         "rating": {
-          "rating_kp": "7.431",
-          "vote_num_kp": "386",
+          "rating_kp": "7.44",
+          "vote_num_kp": "385",
           "rating_imdb": "6.7",
           "vote_num_imdb": "52959"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "68242",
-      "date": "1586703477",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Все в жизни бывает",
-        "orig": "Kuch Kuch Hota Hai",
-        "alter": "",
-        "year": "1998",
-        "country": "Индия",
-        "director": "Каран Джохар",
-        "genre": "комедия,мелодрама,драма,мюзикл",
-        "actors": "Шах Рукх Кхан, Каджол, Рани Мукхерджи, Фарида Джалал, Рима Лагу, Арчана Пуран Сингх, Химани Шивпури, Джонни Левер, Анупам Кхер, Сана Саид",
-        "description": "Красавица Тина умирает при родах, но перед смертью успевает написать своей новорожденной дочери Анджали восемь писем. В последнем, которое девочка читает, когда ей исполняется восемь лет, мама завещает ей помочь папе воссоединиться с другой Анджали, некогда пожертвовавшей своей любовью ради его счастья с Тиной. Сегодня Анджали как раз выходит замуж, и девочке потребуется преодолеть немало препятствий, чтобы все было хорошо и все запели жизнеутверждающую финальную песню.",
-        "slogan": "Love is Friendship",
-        "premiere": "16 октября 1998",
-        "age": "12",
-        "time": "10620",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_68242.jpg",
-        "rating": {
-          "rating_kp": "8.391",
-          "vote_num_kp": "6345",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "48154"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "737548",
-      "date": "1586703475",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Приключение в пространстве и времени",
-        "orig": "An Adventure in Space and Time",
-        "alter": "",
-        "year": "2013",
-        "country": "Великобритания",
-        "director": "Терри МакДонаф",
-        "genre": "история,драма",
-        "actors": "Дэвид Брэдли, Росс Герни-Рэндалл, Роджер Май, Сэм Хоар, Чарли Кемп, Брайан Кокс, Уильям Расселл, Джефф Роул, Эндрю Вудалл, Джессика Рэйн",
-        "description": "Фильм расскажет о ранней истории создания сериала «Доктор Кто». История о становлении Доктора в зависимости от таланта актера Уильяма Хартнела и о невероятных стечениях обстоятельств, которые преследуют сериал.",
-        "slogan": "",
-        "premiere": "12 ноября 2013",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_737548.jpg",
-        "rating": {
-          "rating_kp": "8.51",
-          "vote_num_kp": "1920",
-          "rating_imdb": "8.3",
-          "vote_num_imdb": "6458"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "17656",
-      "date": "1586703470",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ночь кометы",
-        "orig": "Night of the Comet",
-        "alter": "",
-        "year": "1984",
-        "country": "США",
-        "director": "Том Эберхардт",
-        "genre": "фантастика,комедия,ужасы",
-        "actors": "Роберт Бельтран,Катрин Мэри Стюарт,Келли Маруни,Шэрон Фаррелл,Мэри Воронов,Джеффри Льюис,Питер Фокс,Джон Ачорн,Майкл Боуэн,Девон Эриксон",
-        "description": "Мир сошел с ума. К Земле приближается комета. Приходит конец света, в который никто не верил. Ночью &#151; пир во время чумы. А утром наступает отрезвление. Сколько человек осталось на всей планете?\r\n\r\n18-летняя Рэгги, мастерица ставить рекорды на игральных автоматах, ее младшая сестренка Кэти, парень &#151; полицейский, несколько преступников, дорвавшихся до свободы, которая им не очень-то и нужна. И зомби, там и сям выползающие на свет, словно отравленные химикатами крысы. А от всего прочего человечества &#151; одна лишь пыль.\r\n\r\nГоры пыли на улицах, по которым блуждает только ветер. Впрочем, есть еще где-то далеко военно-исследовательская станция, также подающая признаки жизни. Но смогут ли все те, кто уцелел после нашествия апокалиптической кометы объяснить, что же все-таки произошло на Земле и почему кому-то удалось выжить?",
-        "slogan": "It was the last thing on earth they ever expected",
-        "premiere": "16 ноября 1984",
-        "age": "12",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_17656.jpg",
-        "rating": {
-          "rating_kp": "5.813",
-          "vote_num_kp": "1193",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "18598"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1350",
-      "date": "1586703467",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Война на Диком Западе",
-        "orig": "How the West Was Won",
-        "alter": "",
-        "year": "1962",
-        "country": "США",
-        "director": "Джон Форд,Генри Хэтэуэй,Джордж Маршалл",
-        "genre": "вестерн,боевик,приключения,драма",
-        "actors": "Кэррол Бейкер,Ли Дж. Кобб,Генри Фонда,Кэролин Джонс,Карл Молден,Грегори Пек,Джордж Пеппард,Роберт Престон,Дебби Рейнолдс,Джеймс Стюарт",
-        "description": "Повествование этой кинокартины начинается с 1830-го года, с момента прибытия семьи переселенцев из Европы в Америку. Перед зрителями проходит жизнь первых поколений переселенцев, на плечи которых легло нелегкое бремя освоения Дикого запада. Под руководством четырех ведущих режиссеров США целое созвездие актеров воплотили на экране пятьдесят трудных и интересных лет жизни одной семьи переселенцев.",
-        "slogan": "A FABULOUS ROMANTIC ADVENTURE",
-        "premiere": "1 ноября 1962",
-        "age": "12",
-        "time": "9840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1350.jpg",
-        "rating": {
-          "rating_kp": "6.876",
-          "vote_num_kp": "815",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "18741"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4408",
-      "date": "1586703446",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Прямой репортаж о смерти",
-        "orig": "La Mort en direct",
-        "alter": "",
-        "year": "1979",
-        "country": "Франция,Германия (ФРГ)",
-        "director": "Бертран Тавернье",
-        "genre": "фантастика,драма",
-        "actors": "Роми Шнайдер,Харви Кейтель,Гарри Дин Стэнтон,Тереза Лиотар,Макс фон Сюдов,Кэролайн Лэнгриш,Уильям Расселл,Вадим Гловна,Ева Мария Майнеке,Бернхард Викки",
-        "description": "В недалеком будущем происходит действие этого известного фильма. Некий телебосс решает показать зрителям сенсационный репортаж о последних часах жизни человека. Выбор падает на писательницу Катрин. А репортеру Родди, взявшемуся за это грязное дело, в мозг вмонтировали минипередатчик, а глаза служат объективами. Но Родди увлекается жертвой и, чтобы спасти ее, ослепляет себя&#133;",
-        "slogan": "She's the target of every eye...including eyes only science could create",
-        "premiere": "23 января 1980",
-        "age": "0",
-        "time": "7800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4408.jpg",
-        "rating": {
-          "rating_kp": "6.797",
-          "vote_num_kp": "458",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "2609"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "841799",
-      "date": "1586703436",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Особое меню от Беара Гриллса",
-        "orig": "Fine Dining with Bear Grylls",
-        "alter": "",
-        "year": "2012",
-        "country": "Великобритания",
-        "director": "-",
-        "genre": "документальный",
-        "actors": "Беар Гриллс",
-        "description": "Для выживания мало быть сильным, умным и смелым. Ведь тот, кто не ест &#151; не выживет в экстремальных условиях дикой природы. Поэтому, мы радушно приглашаем вас получить истинное кулинарное удовольствие, ознакомившись с особым меню от известного британского эксперта по выживанию Беара Гриллса.",
-        "slogan": "",
-        "premiere": "31 декабря 2012",
-        "age": "0",
-        "time": "3600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_841799.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "25",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
         }
       }
     }

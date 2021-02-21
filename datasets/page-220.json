@@ -2,6 +2,216 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "602750",
+      "date": "1586474246",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Поверь",
+        "orig": "Believe",
+        "alter": "",
+        "year": "2013",
+        "country": "Великобритания",
+        "director": "Дэвид Шайнманн",
+        "genre": "драма,спорт",
+        "actors": "Джек Смит,Брайан Кокс,Наташа МакЭлхоун,Энн Рейд,Филип Джексон,Кейт Эшфилд,Джеймс Кэллис,Тоби Стивенс,Джошуа Данн,Финлэй Престон",
+        "description": "Молодой талантливый футболист попадает в неприятности из-за мелких преступлений. Бывший тренер &laquo;Манчестер Юнайтед&raquo; Мэтт Басби обращает на него внимание и выходит с пенсии, чтобы помочь парню и его товарищам по команде.",
+        "slogan": "'If you believe, you can score with your eyes shut.' - Sir Matt Busby",
+        "premiere": "28 сентября 2013",
+        "age": "16",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_602750.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "99",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "739"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "884188",
+      "date": "1586474243",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Масиламани по прозвищу Масс",
+        "orig": "Masss",
+        "alter": "",
+        "year": "2015",
+        "country": "Индия",
+        "director": "Венкат Прабху",
+        "genre": "ужасы,боевик,комедия",
+        "actors": "Сурья Шивакумар,Наянтара,Партхибан,Самудира Кани,Пранитха,Премги Амарен,Карунас,Сриман,В. Джаяпракаш,Раджендран",
+        "description": "Сирота Масс и его закадычный друг Джет зарабатывают на жизнь жульничеством, которое однажды едва не отправляет их на тот свет. Попав в аварию, Масс обнаруживает у себя неожиданный дар. Находчивый парень придумывает ему практическое применение. Но вместе с даром приходит большая ответственность и новые проблемы. Как все уладить, не потерять любовь и остаться самим собой? Может, кому-то это и не по зубам, но Масс покажет класс.",
+        "slogan": "",
+        "premiere": "29 мая 2015",
+        "age": "0",
+        "time": "9060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_884188.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "57",
+          "rating_imdb": "6",
+          "vote_num_imdb": "3678"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "77566",
+      "date": "1586474239",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Двойная игра",
+        "orig": "Getting Played",
+        "alter": "",
+        "year": "2006",
+        "country": "США",
+        "director": "Дэвид Сильберг",
+        "genre": "мелодрама,комедия",
+        "actors": "Вивика А. Фокс,Билл Беллами,Кармен Электра,Стейси Дэш,Кэти Нэджими,Джо Торри,Дориан Грегори,Минди Стерлинг,Джозеф С. Филлипс,Лэрри Б. Скотт",
+        "description": "Представьте, что вам довелось встретить трех красоток, с которыми у вас есть шанс провести приятно время&#133;. Как вы поступите? Сможете ли вы отказаться от соблазна и быть стойким?",
+        "slogan": "",
+        "premiere": "13 июня 2006",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77566.jpg",
+        "rating": {
+          "rating_kp": "5.186",
+          "vote_num_kp": "133",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "1608"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "790110",
+      "date": "1586474237",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Лиззи Борден взяла топор",
+        "orig": "Lizzie Borden Took an Ax",
+        "alter": "",
+        "year": "2014",
+        "country": "США",
+        "director": "Ник Гомез",
+        "genre": "триллер,детектив,драма,криминал",
+        "actors": "Кристина Риччи, Клеа ДюВалл, Грегг Генри, Стивен МакХэтти, Шон Дойл, Сара Ботсфорд, Ханна Эмили Андерсон, Андреа Рунге, Билл Кэмпбелл, Бретт Донахью",
+        "description": "Подлинная история Лиззи Борден, молодой женщины, осуждённой и оправданной в 1892 году за убийства отца и мачехи.",
+        "slogan": "It's time to bury the hatchet",
+        "premiere": "25 января 2014",
+        "age": "18",
+        "time": "5220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_790110.jpg",
+        "rating": {
+          "rating_kp": "5.741",
+          "vote_num_kp": "1223",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "5082"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "988415",
+      "date": "1586474227",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Насекомые",
+        "orig": "Hmyz",
+        "alter": "",
+        "year": "2018",
+        "country": "Чехия,Словакия",
+        "director": "Ян Шванкмайер",
+        "genre": "драма,комедия",
+        "actors": "Иржи Лабус,Павел Новы,Ян Бударж,Камила Магалова,Яромир Дулава,Норберт Лихий,Ивана Углиржова,Kl&aacute;ra Silcov&aacute;,Nada Maleckov&aacute;,Tom&aacute;s Kraus",
+        "description": "Труппа начинающих актеров репетирует пьесу &laquo;Из жизни насекомых&raquo;, постепенно превращаясь в ее персонажей.",
+        "slogan": "",
+        "premiere": "27 января 2018",
+        "age": "16",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_988415.jpg",
+        "rating": {
+          "rating_kp": "6.202",
+          "vote_num_kp": "374",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "403"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "965611",
+      "date": "1586474223",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Истории призраков",
+        "orig": "Ghost Stories",
+        "alter": "",
+        "year": "2017",
+        "country": "Великобритания",
+        "director": "Джереми Дайсон, Энди Найман",
+        "genre": "ужасы,драма",
+        "actors": "Энди Найман, Мартин Фриман, Пол Уайтхаус, Алекс Лоутер, Пол Уоррен, Кобна Холдбрук-Смит, Николас Барнс, Луиз Аткинс, Лесли Харкорт, Эми Дойл",
+        "description": "Профессор психологии Гудман изучает историю трех человек, которые якобы столкнулись со сверхъестественным: ночного сторожа, подростка и бизнесмена. Скептически настроенный профессор превращается из наблюдателя в активного участника, когда получает послание с того света.",
+        "slogan": "Be careful what you believe in",
+        "premiere": "5 октября 2017",
+        "age": "16",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_965611.jpg",
+        "rating": {
+          "rating_kp": "6.278",
+          "vote_num_kp": "20416",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "31468"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "874210",
       "date": "1586474188",
       "camrip": "0",
@@ -939,7 +1149,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_586417.jpg",
         "rating": {
           "rating_kp": "5.95",
-          "vote_num_kp": "18560",
+          "vote_num_kp": "18568",
           "rating_imdb": "5.8",
           "vote_num_imdb": "20164"
         }
@@ -1219,7 +1429,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_230886.jpg",
         "rating": {
           "rating_kp": "7.657",
-          "vote_num_kp": "735",
+          "vote_num_kp": "734",
           "rating_imdb": "7.8",
           "vote_num_imdb": "1834"
         }
@@ -1289,9 +1499,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_996062.jpg",
         "rating": {
           "rating_kp": "6.538",
-          "vote_num_kp": "9937",
+          "vote_num_kp": "9947",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "10754"
+          "vote_num_imdb": "10763"
         }
       }
     },
@@ -1498,7 +1708,7 @@
         "time": "6120",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_404556.jpg",
         "rating": {
-          "rating_kp": "7.015",
+          "rating_kp": "7.017",
           "vote_num_kp": "748",
           "rating_imdb": "7.3",
           "vote_num_imdb": "1709"
@@ -1537,216 +1747,6 @@
           "vote_num_kp": "160",
           "rating_imdb": "6.2",
           "vote_num_imdb": "9710"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "843652",
-      "date": "1586473698",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Живот",
-        "orig": "Le ventre, notre deuxième cerveau",
-        "alter": "",
-        "year": "2013",
-        "country": "Франция",
-        "director": "Сесиль Данжан",
-        "genre": "документальный",
-        "actors": "Винсент Лондез",
-        "description": "В брюшной полости человека скрыты миллионы нейронов и сотни миллиардов бактерий, подспудно влияющих на личностные особенности и поведение. Авторы фильма приглашают совершить путешествие в недра тела, к разгадке тайн нашего второго мозга.",
-        "slogan": "",
-        "premiere": "31 января 2013",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843652.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "7",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "98"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "910848",
-      "date": "1586473686",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Рестарт",
-        "orig": "Restart",
-        "alter": "",
-        "year": "2015",
-        "country": "Испания",
-        "director": "Ольга Осорио",
-        "genre": "короткометражка,фантастика",
-        "actors": "Марта Ларральде",
-        "description": "В 2015 компания reStart провела первые тестовые путешествия во времени с участием людей. Через 4 года правительство наложило на эти эксперименты запрет, что не остановило дельцов, продолживших работу нелегально. И не брезгуя никакими методами, включая похищение подопытных экземпляров. Одной из жертв стала Андреа, заточенная в смахивающий на тюремный каземат бункер. Сможет ли она вырваться на свободу &#151; и из туго затянутой временной петли тоже?",
-        "slogan": "",
-        "premiere": "20 июля 2015",
-        "age": "0",
-        "time": "900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_910848.jpg",
-        "rating": {
-          "rating_kp": "5.538",
-          "vote_num_kp": "94",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "77"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "588065",
-      "date": "1586473675",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Одиннадцатое сентября 1683 года",
-        "orig": "11 settembre 1683",
-        "alter": "",
-        "year": "2012",
-        "country": "Италия, Польша",
-        "director": "Ренцо Мартинелли",
-        "genre": "история,драма,приключения",
-        "actors": "Ф. Мюррэй Абрахам, Энрико Ло Версо, Ежи Сколимовский, Алиция Бахледа, Петр Адамчик, Андреа Яия, Клэр Блум, Matteo Branciamore, Марьюс Киву, Антонио Цупо",
-        "description": "Фильм повествует о Ве́нской би́тве, которая произошла 11 сентября 1683 года, после того, как Османская империя два месяца осаждала Вену, столицу Австрии.",
-        "slogan": "",
-        "premiere": "12 октября 2012",
-        "age": "16",
-        "time": "6600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_588065.jpg",
-        "rating": {
-          "rating_kp": "4.478",
-          "vote_num_kp": "238",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "1880"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "507721",
-      "date": "1586473673",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Бам-бам-боле",
-        "orig": "Bumm Bumm Bole",
-        "alter": "",
-        "year": "2010",
-        "country": "Индия",
-        "director": "Приядаршан",
-        "genre": "триллер,драма,семейный",
-        "actors": "Атул Кулкарни,Ритупарна Сенгупта,Даршил Сафари,Зия Вастани,Ада,Amitha,Чару,Kuhu Datar,Дипали,Сулабха Дешпанде",
-        "description": "Маленький Пину потерял сандалии своей сестры Римзим, и дети решили по очереди ходить в школу в одной обуви &#151; до тех пор, пока папа не сможет купить Римзим новую обувку.",
-        "slogan": "Two little feet. One long journey",
-        "premiere": "14 мая 2010",
-        "age": "0",
-        "time": "7500",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_507721.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "77",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "560"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1009137",
-      "date": "1586473669",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Опасное задание",
-        "orig": "Beast of Burden",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Йеспер Гансландт",
-        "genre": "боевик,триллер,драма,криминал",
-        "actors": "Дэниэл Рэдклифф, Грэйс Гаммер, Пабло Шрайбер, Роберт Уиздом, Сезар Перес, Дэвид Джозеф Мартинес, Марк Смит, Рене Уиллетт, Эштон Татум, Шон Гловер",
-        "description": "У пилота Шона Хаггерти есть всего час, чтобы доставить незаконный груз наркокартеля, убедить киллера и агента из Управления по борьбе с наркотиками, что всё идёт по плану, и убедиться, что его жена выживет.",
-        "slogan": "Lines are meant to be crossed",
-        "premiere": "23 февраля 2018",
-        "age": "18",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1009137.jpg",
-        "rating": {
-          "rating_kp": "4.418",
-          "vote_num_kp": "1804",
-          "rating_imdb": "3.6",
-          "vote_num_imdb": "2616"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "36000",
-      "date": "1586473668",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Превращения",
-        "orig": "Transformations",
-        "alter": "",
-        "year": "1988",
-        "country": "Италия",
-        "director": "Джей Кеймен",
-        "genre": "ужасы,фантастика",
-        "actors": "Рекс Смит,Лиза Ланглуа,Патрик Макни,Кристофер Ним,Майкл Хеннесси,Чек Веррелл,Бенито Стефанелли,Дональд Ходсон,Памела Прати,Энн Маргарет Хьюз",
-        "description": "Далёкое будущее. Вольфганг Шаддак летел на своём личном звездолёте, когда во время сна, в его покоях появилась очень аппетитная девушка, которая склонила его к сексу. Причём во время любовных утех она стала трансформироваться в монстра. Очнулся он уже тогда, когда на корабле начались всякие неполадки. Аварийная система забросила космическое судно на ближайшую планету, служащую тюрьмой для преступников, где они, пока не откинутся, должны 10 лет добывать уголь&#133;",
-        "slogan": "Lust in space",
-        "premiere": "2 сентября 1988",
-        "age": "16",
-        "time": "5040",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_36000.jpg",
-        "rating": {
-          "rating_kp": "3.801",
-          "vote_num_kp": "141",
-          "rating_imdb": "3.9",
-          "vote_num_imdb": "346"
         }
       }
     }

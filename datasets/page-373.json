@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1047811",
+      "date": "1578328784",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Тайна семьи монстров",
+        "orig": "Monster Island",
+        "alter": "",
+        "year": "2017",
+        "country": "Индия, Мексика",
+        "director": "Леопольдо Агилар",
+        "genre": "мультфильм,комедия,фэнтези,приключения,семейный",
+        "actors": "Джонни Роуз, Кэти Ли, Фиона Хардингэм, Дженифер Бет Каплан, Майкл Роблз, Джои Камен, Уолли Вингерт, Чак Куруклис, Луис Дэниэл Рамирес Сантьяго, Нэнси Салливан",
+        "description": "Однажды юный Лукас узнает, что он не совсем человек, а необычное создание. Да что там приукрашивать: оказывается, что Лукас - огромный Монстр. Эта новость кардинально меняет его жизнь. Особенно обидно выходит, когда он превращается в монстра прямо на вечеринке, куда пришла половина школы. \r\n\r\nВ поисках своих корней мальчик отправляется в увлекательное и жуткое путешествие на Остров монстров. Приключения помогают Лукасу осознать, что отличаться от других совсем не страшно. И обрести новую, необыкновенную семью.",
+        "slogan": "",
+        "premiere": "21 июля 2017",
+        "age": "6",
+        "time": "4800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047811.jpg",
+        "rating": {
+          "rating_kp": "5.03",
+          "vote_num_kp": "597",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "633"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1047505",
+      "date": "1578328766",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Джо Кокер: Бешеный пес с душой",
+        "orig": "Joe Cocker: Mad Dog with Soul",
+        "alter": "",
+        "year": "2017",
+        "country": "Великобритания",
+        "director": "Джон Эдгинтон",
+        "genre": "документальный",
+        "actors": "Джо Кокер, Pam Cocker, Vic Cocker, Рита Кулидж, Phil Crookes, Deric Dyer, Клифф Гудвин, Билли Джоэл, Глин Джонс, Майкл Лэнг",
+        "description": "О бурной жизни и необыкновенном таланте Джо Кокера.",
+        "slogan": "",
+        "premiere": "17 марта 2017",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047505.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "84",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "749"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1047402",
+      "date": "1578328758",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Болотная икра",
+        "orig": "Bayou Caviar",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Кьюба Гудинг мл.",
+        "genre": "триллер,детектив,драма,криминал",
+        "actors": "Кьюба Гудинг мл., Фамке Янссен, Ричард Дрейфусс, Лия Мари Джонсон, Грегг Белло, Кэтрин МакФи, Кен Лернер, Сэм Такур, Джеймс Моусес Блэк, Алекс Ковалев",
+        "description": "Русский гангстер предлагает бывшему боксёру Родни помочь ему разобраться с приёмным сыном сообщника. Родни всего лишь требуется использовать видео, сделанное фотографом Ником. Но всё идет наперекосяк, и Родни оказывается в опасном мире секса, насилия и мести.",
+        "slogan": "A Man's Desires Never Tasted So Sweet...",
+        "premiere": "5 октября 2018",
+        "age": "0",
+        "time": "6660",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047402.jpg",
+        "rating": {
+          "rating_kp": "4.781",
+          "vote_num_kp": "194",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "1040"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1047309",
+      "date": "1578328748",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Фокстрот",
+        "orig": "Foxtrot",
+        "alter": "",
+        "year": "2017",
+        "country": "Израиль, Швейцария, Германия, Франция",
+        "director": "Самуэль Маоз",
+        "genre": "драма",
+        "actors": "Лиор Ашкенази, Сара Адлер, Йонатан Ширай, Шира Хаас, Eden Gamliel, Декел Эйден, Йехуда Альмагор, Шол Амир, Гефен Баркай, Ran Buxenbaum",
+        "description": "На пороге фешенебельной квартиры Михаэля и Дафны появляется военный эскорт с трагическим известием - их сын погиб, исполняя свой воинский долг. Супруги опустошены ужасной вестью. Михаэль пытается совладать с приступами ярости, боли, отчаяния и дурноты, жена находится под воздействием снотворного. А в это время на отдаленном КПП юные солдаты борются со скукой армейской жизни и переживают редкие мгновения смертельной опасности.",
+        "slogan": "",
+        "premiere": "28 августа 2017",
+        "age": "18",
+        "time": "6720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047309.jpg",
+        "rating": {
+          "rating_kp": "6.982",
+          "vote_num_kp": "3074",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "6660"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1046792",
       "date": "1578328707",
       "camrip": "0",
@@ -134,7 +274,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1046276.jpg",
         "rating": {
           "rating_kp": "5.514",
-          "vote_num_kp": "1614",
+          "vote_num_kp": "1613",
           "rating_imdb": "5.5",
           "vote_num_imdb": "8545"
         }
@@ -309,9 +449,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045331.jpg",
         "rating": {
           "rating_kp": "7.102",
-          "vote_num_kp": "13205",
+          "vote_num_kp": "13230",
           "rating_imdb": "7",
-          "vote_num_imdb": "12601"
+          "vote_num_imdb": "12615"
         }
       }
     },
@@ -624,7 +764,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1044134.jpg",
         "rating": {
           "rating_kp": "5.815",
-          "vote_num_kp": "5402",
+          "vote_num_kp": "5403",
           "rating_imdb": "5.6",
           "vote_num_imdb": "188"
         }
@@ -799,7 +939,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1043601.jpg",
         "rating": {
           "rating_kp": "7.145",
-          "vote_num_kp": "1330",
+          "vote_num_kp": "1331",
           "rating_imdb": "6.7",
           "vote_num_imdb": "14105"
         }
@@ -903,8 +1043,8 @@
         "time": "7620",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1041246.jpg",
         "rating": {
-          "rating_kp": "6.557",
-          "vote_num_kp": "538",
+          "rating_kp": "6.564",
+          "vote_num_kp": "537",
           "rating_imdb": "6.6",
           "vote_num_imdb": "1769"
         }
@@ -976,7 +1116,7 @@
           "rating_kp": "7.314",
           "vote_num_kp": "38257",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "49826"
+          "vote_num_imdb": "49885"
         }
       }
     },
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "150",
           "rating_imdb": "5.2",
           "vote_num_imdb": "692"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1029208",
-      "date": "1578328179",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Углерод",
-        "orig": "Carbone",
-        "alter": "",
-        "year": "2017",
-        "country": "Франция, Бельгия",
-        "director": "Оливье  Маршаль",
-        "genre": "триллер,криминал",
-        "actors": "Бенуа Мажимель, Гринж, Идир Чендер, Лаура Смет, Микаэль Юн, Дани, Патрик Каталифо, Жерар Депардье, Мусса Мааскри, Фридерик Эпо",
-        "description": "Пытаясь спасти свою компанию от разорения, французский бизнесмен Антуан Рока решается на аферу, которая будет названа «мошенничеством века». Ступив на преступную дорожку, Антуан сталкивается с бандитизмом, насилием и предательством.",
-        "slogan": "",
-        "premiere": "13 октября 2017",
-        "age": "0",
-        "time": "6240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1029208.jpg",
-        "rating": {
-          "rating_kp": "6.252",
-          "vote_num_kp": "898",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "2109"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1026992",
-      "date": "1578328139",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Клятва",
-        "orig": "Pledge",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Дэниэл Роббинс",
-        "genre": "ужасы,триллер",
-        "actors": "Закари Бёрд, Филлип Андре Ботельо, Зак Уэйнер, Аарон Далла Вилла, Камерон Копертуэйт, Джесси Пиментел, Джо Галлахер, Jean-Louis Droulers, Эрика Бузер, Мелани Ротман",
-        "description": "Чтобы стать членами элитного клуба, трое первокурсников должны пройти садистские испытания.",
-        "slogan": "Few get in. None get out",
-        "premiere": "24 июля 2018",
-        "age": "0",
-        "time": "4680",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1026992.jpg",
-        "rating": {
-          "rating_kp": "5.04",
-          "vote_num_kp": "351",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "2847"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1026649",
-      "date": "1578328130",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Последний свидетель",
-        "orig": "The Last Witness",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания, Польша",
-        "director": "Пётр Шкопяк",
-        "genre": "триллер,история",
-        "actors": "Алекс Петтифер, Роберт Венцкевич, Талула Райли, Майкл Гэмбон, Чарльз Де’Ат, Холли Августин, Анита Кэри, Петр Страмовски, Уилл Торп, Пэдди Уоллес",
-        "description": "Молодой амбициозный журналист расследует гибель более 20 000 польских военнопленных в Катыни, на территории Смоленской области.",
-        "slogan": "",
-        "premiere": "11 мая 2018",
-        "age": "0",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1026649.jpg",
-        "rating": {
-          "rating_kp": "4.831",
-          "vote_num_kp": "272",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "1567"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1026645",
-      "date": "1578328129",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Гадюшник",
-        "orig": "Viper Club",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Марьям Кешаварц",
-        "genre": "драма",
-        "actors": "Сьюзен Сарандон, Мэтт Бомер, Лола Кёрк, Джулиан Моррис, Шейла Ванд, Эдеперо Одуйе, Иди Фалько, Амир Малаклу, Дэмиэн Янг, Кристин Вильянуэва",
-        "description": "Американский военный корреспондент попадает в заложники в горячей точке. Его мать пытается добиться от правительства каких-то активных действий по вызволению ее сына, но в итоге берет операцию по спасению в свои руки.",
-        "slogan": "When the government wouldn't help her son, she turned to those who could",
-        "premiere": "10 сентября 2018",
-        "age": "0",
-        "time": "6540",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1026645.jpg",
-        "rating": {
-          "rating_kp": "5.474",
-          "vote_num_kp": "131",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "517"
         }
       }
     }

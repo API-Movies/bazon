@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "975411",
+      "date": "1578321589",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Сердце дракона 4",
+        "orig": "Dragonheart: Battle for the Heartfire",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Патрик Сиверсен",
+        "genre": "фэнтези",
+        "actors": "Патрик Стюарт, Том Рис Харрис, Джессамин-Блисс Белл, Тэмзин Мёрчант, Андре Эриксен, Ричард Кордери, Мартин Хатсон, Делрой Браун, Тёрло Конвери, Льюис Маккиннон",
+        "description": "Король Гарет умирает, что теперь будет с драконом, отдавшим ему часть своего сердца? Станут ли потомки короля достойными продолжателями его славных дел, и какой дар будет у каждого из них?",
+        "slogan": "",
+        "premiere": "13 июня 2017",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_975411.jpg",
+        "rating": {
+          "rating_kp": "5.388",
+          "vote_num_kp": "885",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "2157"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "975286",
+      "date": "1578321585",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Молодой Годар",
+        "orig": "Le Redoutable",
+        "alter": "",
+        "year": "2017",
+        "country": "Франция",
+        "director": "Мишель Хазанавичус",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Луи Гаррель, Стэйси Мартин, Беренис Бежо, Миша Лекот, Грегори Гадебуа, Félix Kysyl, Артур Орсье, Marc Fraize, Ромен Гупиль, Жан-Пьер Моки",
+        "description": "Париж, 1967 год. Жан-Люк Годар - лидер «новой волны», режиссёр, изменивший язык кино, снимает «Китаянку». Он безумно влюблён в исполнительницу главной роли, актрису Анн Вяземски, которая моложе его на 20 лет. Они счастливы и сочетаются законным браком. Последовавший за этим скандальный приём фильма и вспыхнувший в мае 68 года молодёжный бунт увлекают бескомпромиссного гения в пучину революции...",
+        "slogan": "",
+        "premiere": "21 мая 2017",
+        "age": "18",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_975286.jpg",
+        "rating": {
+          "rating_kp": "6.72",
+          "vote_num_kp": "3710",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "4594"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "975263",
+      "date": "1578321584",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Харизматы",
+        "orig": "Charismata",
+        "alter": "",
+        "year": "2017",
+        "country": "",
+        "director": "Andy Collier, Тур Миан",
+        "genre": "ужасы,триллер,детектив,криминал",
+        "actors": "Сара Бек Мэтер, Jamie Satterthwaite, Андонис Энтони, Джонни Виваш, Росс Маллен, Дэвид Дж. Пил, Ethan Chapples, Николь О’Нилл, Anthony Taylor, Шон Нопп",
+        "description": "Детектив расследует серию ритуальных убийств. Пытаясь разобраться в обилии фактов и показаний, а также в недостаточном количестве улик, героиня начинает постепенно сходить с ума.",
+        "slogan": "Face your demons",
+        "premiere": "16 сентября 2017",
+        "age": "0",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_975263.jpg",
+        "rating": {
+          "rating_kp": "4.767",
+          "vote_num_kp": "168",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "571"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "974901",
+      "date": "1578321579",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Плохой день, чтобы свести счеты",
+        "orig": "Bad Day for the Cut",
+        "alter": "",
+        "year": "2017",
+        "country": "Великобритания",
+        "director": "Крис Боф",
+        "genre": "триллер,драма,криминал",
+        "actors": "Найджел О’Нилл, Сьюзэн Линч, Юзеф Павловский, Стюарт Грэхэм, Дэвид Пирс, Брайан Миллиган, Анна Прухняк, Стелла МакКаскер, Йен МакЭлхинни, Лалор Родди",
+        "description": "Когда убивают мать простого ирландского фермера, он отправляется мстить. На своём пути герою предстоит встретить преступную организацию и неприятную правду о прошлом.",
+        "slogan": "",
+        "premiere": "22 января 2017",
+        "age": "18",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_974901.jpg",
+        "rating": {
+          "rating_kp": "5.744",
+          "vote_num_kp": "186",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "6283"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "974740",
       "date": "1578321574",
       "camrip": "0",
@@ -309,9 +449,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_970882.jpg",
         "rating": {
           "rating_kp": "8.188",
-          "vote_num_kp": "12457",
+          "vote_num_kp": "12462",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "157481"
+          "vote_num_imdb": "157572"
         }
       }
     },
@@ -518,8 +658,8 @@
         "time": "6480",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_968403.jpg",
         "rating": {
-          "rating_kp": "6.09",
-          "vote_num_kp": "1301",
+          "rating_kp": "6.088",
+          "vote_num_kp": "1300",
           "rating_imdb": "6.5",
           "vote_num_imdb": "10460"
         }
@@ -554,7 +694,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_968299.jpg",
         "rating": {
           "rating_kp": "5.122",
-          "vote_num_kp": "700",
+          "vote_num_kp": "701",
           "rating_imdb": "5.8",
           "vote_num_imdb": "2594"
         }
@@ -871,7 +1011,7 @@
           "rating_kp": "7.47",
           "vote_num_kp": "73267",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "29900"
+          "vote_num_imdb": "29915"
         }
       }
     },
@@ -1464,7 +1604,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_958293.jpg",
         "rating": {
           "rating_kp": "7.019",
-          "vote_num_kp": "60277",
+          "vote_num_kp": "60291",
           "rating_imdb": "7.4",
           "vote_num_imdb": "243146"
         }
@@ -1604,149 +1744,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_955630.jpg",
         "rating": {
           "rating_kp": "5.84",
-          "vote_num_kp": "827",
+          "vote_num_kp": "828",
           "rating_imdb": "5.4",
           "vote_num_imdb": "2693"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "955491",
-      "date": "1578320972",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Отголоски войны",
-        "orig": "Aux",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания",
-        "director": "Джон Адамс",
-        "genre": "боевик,ужасы,триллер",
-        "actors": "Джон Рис-Дэвис, Таня Фрэнкс, Генри Даутуэйт, Рози Феллнер, Джек Дерджс, Тео Девани, Пол Рейнольдс, Грег Барридж, Крис Уилсон, Гари Маверс",
-        "description": "Двое молодых парней, охотящихся в лесу, случайно обнаруживают старый военный бункер и непреднамеренно выпускают призрак солдата Второй мировой войны, который ошибочно полагает, что нацисты вторглись на его родную землю.",
-        "slogan": "How do you fight the undead?",
-        "premiere": "2 марта 2018",
-        "age": "0",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_955491.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "66",
-          "rating_imdb": "4.3",
-          "vote_num_imdb": "300"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "954725",
-      "date": "1578320960",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Падение Берлина",
-        "orig": "Berlin Falling",
-        "alter": "",
-        "year": "2017",
-        "country": "Германия",
-        "director": "Кен Дукен",
-        "genre": "триллер",
-        "actors": "Том Влашиха, Мариса Леони Бах, Кен Дукен, Рикардо Юэрт, Амелия Плаас-Линк, Кида Рамадан, Тим Вильде",
-        "description": "Когда Франк из вежливости согласился подвезти до Берлина Андрэаса, он, конечно, даже представить себе не мог, что эта поездка станет настоящим кошмаром, и что он окажется между жизнью и смертью.",
-        "slogan": "",
-        "premiere": "28 июня 2017",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_954725.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "76",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "1307"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "954223",
-      "date": "1578320948",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ангелы Карли",
-        "orig": "Kiss and Cry",
-        "alter": "",
-        "year": "2017",
-        "country": "Канада",
-        "director": "Шон Цистерна",
-        "genre": "мелодрама,драма,спорт",
-        "actors": "Сара Фишер, Люк Билык, Шанталь Кревьязук, Серджо Ди Зио, Бриттани Бристоу, Julia Tomasone, Брайан Пол, Наоми Сникус, Деннис Акаяма, Питер Снайдер",
-        "description": "История 18-летней фигуристки и певицы Карли Аллисон, вошедшей в историю благодаря своей борьбе с редчайшим видом саркомы.",
-        "slogan": "A 1 in 3.5 Billion Kind of Love",
-        "premiere": "10 февраля 2017",
-        "age": "16",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_954223.jpg",
-        "rating": {
-          "rating_kp": "7.104",
-          "vote_num_kp": "476",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "2599"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "954059",
-      "date": "1578320941",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Патерсон",
-        "orig": "Paterson",
-        "alter": "",
-        "year": "2016",
-        "country": "Франция, Германия, США",
-        "director": "Джим Джармуш",
-        "genre": "комедия,мелодрама,драма",
-        "actors": "Адам Драйвер, Голшифте Фарахани, Нелли, Ризван Манжи, Доминик Лириано, Джейден Майкл, Бэрри Шебака Хенли, Тревор Пархэм, Трой Пархэм, Брайан МакКарти",
-        "description": "Жизнь Патерсона - сплошная романтика: он работает водителем автобуса в городе Патерсон, штат Нью-Джерси, а в свободное время пишет стихи для любимой жены Лоры. Патерсон облачает красоту повседневности в стихи и встречает поэтов повсюду - такова магия города - родины поэтов Аллена Гинзберга и Уильяма Карлоса Уильямса. Патерсон пишет в стол и даже не мечтает публиковаться, однако одно маленькое событие меняет его планы.",
-        "slogan": "Если ты вдруг меня оставишь, я вырву сердце из груди и навсегда останусь без него",
-        "premiere": "16 мая 2016",
-        "age": "18",
-        "time": "7080",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_954059.jpg",
-        "rating": {
-          "rating_kp": "7.263",
-          "vote_num_kp": "37011",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "70853"
         }
       }
     }

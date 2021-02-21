@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "518041",
+      "date": "1572901627",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Сезон охоты 3",
+        "orig": "Open Season 3",
+        "alter": "",
+        "year": "2010",
+        "country": "США",
+        "director": "Коуди Кэмерон",
+        "genre": "мультфильм,комедия,приключения,семейный",
+        "actors": "Мэттью Дж. Мунн, Мэттью В. Тейлор, Мелисса Штурм, Карли Скотт Коллинз, Сиэра Браво, Харрисон Фан, Дэна Снайдер, Андре Соглиуззо, Коуди Кэмерон, Дэнни Манн",
+        "description": "Продолжение сумасшедших приключений медведя-гризли Буга и его верного друга, оленя Элиота. На этот раз Буг пускается на поиски личного счастья и попадает... в бродячий цирк, где знакомится с очаровательной русской медведицей.",
+        "slogan": "Это просто цирк какой-то!",
+        "premiere": "21 октября 2010",
+        "age": "12",
+        "time": "4500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_518041.jpg",
+        "rating": {
+          "rating_kp": "5.699",
+          "vote_num_kp": "15607",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "10179"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "103734",
+      "date": "1572901362",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кунг-фу Панда",
+        "orig": "Kung Fu Panda",
+        "alter": "",
+        "year": "2008",
+        "country": "США",
+        "director": "Марк Осборн, Джон Стивенсон",
+        "genre": "мультфильм,комедия,боевик,приключения,семейный",
+        "actors": "Джек Блэк, Дастин Хоффман, Анджелина Джоли, Иэн Макшейн, Джеки Чан, Сет Роген, Люси Лью, Дэвид Кросс, Рэндолл Дак Ким, Джеймс Хонг",
+        "description": "Спасение Долины Мира и всех ее обитателей от непобедимого и безжалостного мастера Тай Лунга должно лечь на плечи Воина Дракона, Избранного среди лучших из лучших, коим становится... неуклюжий, ленивый и вечно голодный панда По.\r\n\r\nЕму предстоит долгий и трудный путь к вершинам мастерства кунг-фу бок о бок с легендарными воинами: Тигрой, Обезьяной, Богомолом, Гадюкой и Журавлем. По постигнет тайну древнего Свитка и станет Воином Дракона только в том случае, если сможет поверить в себя...",
+        "slogan": "Не будите во мне зверя, пожалуйста",
+        "premiere": "15 мая 2008",
+        "age": "0",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_103734.jpg",
+        "rating": {
+          "rating_kp": "7.771",
+          "vote_num_kp": "210238",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "421216"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "692865",
+      "date": "1572901225",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кунг-фу Панда 3",
+        "orig": "Kung Fu Panda 3",
+        "alter": "",
+        "year": "2016",
+        "country": "Китай, США",
+        "director": "Алессандро Карлони, Дженнифер Ю",
+        "genre": "мультфильм,комедия,боевик,фэнтези,приключения,семейный",
+        "actors": "Джек Блэк, Брайан Крэнстон, Дастин Хоффман, Анджелина Джоли, Дж.К. Симмонс, Джеки Чан, Сет Роген, Люси Лью, Дэвид Кросс, Кейт Хадсон",
+        "description": "Воссоединившись со своим давно потерянным отцом, По отправляется в тайный рай для панд, где его ожидает встреча с множеством веселых сородичей. Однако вскоре злодей Кай начинает зачистку - он уничтожает кунг-фу мастеров по всему Китаю.\r\n\r\nПо предстоит сделать невозможное - обучить боевому искусству деревню, полную его веселых, неуклюжих собратьев, и тем самым превратить их в отряд кунг-фу панд.",
+        "slogan": "Притяженья больше нет",
+        "premiere": "16 января 2016",
+        "age": "6",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_692865.jpg",
+        "rating": {
+          "rating_kp": "7.253",
+          "vote_num_kp": "89976",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "135196"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "279685",
+      "date": "1572901161",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Монстр в Париже",
+        "orig": "Un monstre à Paris",
+        "alter": "",
+        "year": "2010",
+        "country": "Франция",
+        "director": "Бибо Бержерон",
+        "genre": "мультфильм,комедия,фэнтези,мелодрама,приключения",
+        "actors": "Ванесса Паради, Матьё Шедид, Гад Эльмалех, Франсуа Клюзе, Людивин Санье, Жюли Ферье, Бруно Саломон, Себастьян Дежу, Филип Петью, Боб Бэлабан",
+        "description": "Париж. 1910 год. Ужасный монстр, напоминающий гигантское насекомое, нагоняет страх на всю Францию. Застенчивый киномеханик и неутомимый изобретатель начинают охоту на него. В этой погоне они знакомятся со звездой кабаре, сумасшедшим ученым и его умной обезьянкой и, наконец, самим монстром, который оказывается совсем не страшным. Теперь безобидное, как блоха, чудовище ищет у своих новых друзей защиты от вредного начальника городской полиции.",
+        "slogan": "",
+        "premiere": "28 августа 2011",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_279685.jpg",
+        "rating": {
+          "rating_kp": "7.405",
+          "vote_num_kp": "37801",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "19490"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "463868",
       "date": "1572895293",
       "camrip": "0",
@@ -99,7 +239,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072038.jpg",
         "rating": {
           "rating_kp": "6.803",
-          "vote_num_kp": "7834",
+          "vote_num_kp": "7858",
           "rating_imdb": "6.6",
           "vote_num_imdb": "14209"
         }
@@ -169,7 +309,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1033352.jpg",
         "rating": {
           "rating_kp": "7.378",
-          "vote_num_kp": "67327",
+          "vote_num_kp": "67346",
           "rating_imdb": "7.3",
           "vote_num_imdb": "69214"
         }
@@ -206,7 +346,7 @@
           "rating_kp": "6.694",
           "vote_num_kp": "42852",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "80454"
+          "vote_num_imdb": "80597"
         }
       }
     },
@@ -239,7 +379,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_261819.jpg",
         "rating": {
           "rating_kp": "6.065",
-          "vote_num_kp": "19449",
+          "vote_num_kp": "19456",
           "rating_imdb": "5.9",
           "vote_num_imdb": "52423"
         }
@@ -274,7 +414,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_441432.jpg",
         "rating": {
           "rating_kp": "6.126",
-          "vote_num_kp": "15386",
+          "vote_num_kp": "15391",
           "rating_imdb": "5.4",
           "vote_num_imdb": "21151"
         }
@@ -311,7 +451,7 @@
           "rating_kp": "7.177",
           "vote_num_kp": "99788",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "108153"
+          "vote_num_imdb": "108209"
         }
       }
     },
@@ -344,7 +484,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_454962.jpg",
         "rating": {
           "rating_kp": "6.102",
-          "vote_num_kp": "15968",
+          "vote_num_kp": "15971",
           "rating_imdb": "5.4",
           "vote_num_imdb": "31335"
         }
@@ -379,7 +519,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_470036.jpg",
         "rating": {
           "rating_kp": "6.695",
-          "vote_num_kp": "44371",
+          "vote_num_kp": "44380",
           "rating_imdb": "6.4",
           "vote_num_imdb": "99053"
         }
@@ -414,7 +554,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_406186.jpg",
         "rating": {
           "rating_kp": "7.395",
-          "vote_num_kp": "56444",
+          "vote_num_kp": "56460",
           "rating_imdb": "7.3",
           "vote_num_imdb": "217017"
         }
@@ -449,7 +589,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_409776.jpg",
         "rating": {
           "rating_kp": "7.523",
-          "vote_num_kp": "62672",
+          "vote_num_kp": "62683",
           "rating_imdb": "6.9",
           "vote_num_imdb": "77982"
         }
@@ -486,7 +626,7 @@
           "rating_kp": "7.482",
           "vote_num_kp": "103161",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "206960"
+          "vote_num_imdb": "207031"
         }
       }
     },
@@ -521,7 +661,7 @@
           "rating_kp": "6.588",
           "vote_num_kp": "38259",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "12499"
+          "vote_num_imdb": "12500"
         }
       }
     },
@@ -554,7 +694,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_280174.jpg",
         "rating": {
           "rating_kp": "7.603",
-          "vote_num_kp": "145918",
+          "vote_num_kp": "145963",
           "rating_imdb": "7.1",
           "vote_num_imdb": "225281"
         }
@@ -589,7 +729,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_102146.jpg",
         "rating": {
           "rating_kp": "7.11",
-          "vote_num_kp": "113631",
+          "vote_num_kp": "113656",
           "rating_imdb": "6.6",
           "vote_num_imdb": "144809"
         }
@@ -624,7 +764,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1137716.jpg",
         "rating": {
           "rating_kp": "6.428",
-          "vote_num_kp": "12204",
+          "vote_num_kp": "12217",
           "rating_imdb": "6.4",
           "vote_num_imdb": "55481"
         }
@@ -659,7 +799,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1046033.jpg",
         "rating": {
           "rating_kp": "6.52",
-          "vote_num_kp": "49059",
+          "vote_num_kp": "49077",
           "rating_imdb": "6.4",
           "vote_num_imdb": "1283"
         }
@@ -801,7 +941,7 @@
           "rating_kp": "7.364",
           "vote_num_kp": "96266",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "389972"
+          "vote_num_imdb": "390002"
         }
       }
     },
@@ -868,8 +1008,8 @@
         "time": "7440",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7374.jpg",
         "rating": {
-          "rating_kp": "7.757",
-          "vote_num_kp": "90848",
+          "rating_kp": "7.758",
+          "vote_num_kp": "90869",
           "rating_imdb": "7.2",
           "vote_num_imdb": "338922"
         }
@@ -906,7 +1046,7 @@
           "rating_kp": "8.021",
           "vote_num_kp": "203659",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "795087"
+          "vote_num_imdb": "795257"
         }
       }
     },
@@ -939,7 +1079,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5492.jpg",
         "rating": {
           "rating_kp": "8.028",
-          "vote_num_kp": "339341",
+          "vote_num_kp": "339424",
           "rating_imdb": "8.3",
           "vote_num_imdb": "914552"
         }
@@ -976,7 +1116,7 @@
           "rating_kp": "8.174",
           "vote_num_kp": "161635",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "743698"
+          "vote_num_imdb": "744007"
         }
       }
     },
@@ -1009,7 +1149,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9691.jpg",
         "rating": {
           "rating_kp": "7.899",
-          "vote_num_kp": "320827",
+          "vote_num_kp": "320947",
           "rating_imdb": "8.3",
           "vote_num_imdb": "1273335"
         }
@@ -1114,7 +1254,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_335.jpg",
         "rating": {
           "rating_kp": "7.874",
-          "vote_num_kp": "189628",
+          "vote_num_kp": "189671",
           "rating_imdb": "8.4",
           "vote_num_imdb": "1129109"
         }
@@ -1151,7 +1291,7 @@
           "rating_kp": "6.602",
           "vote_num_kp": "66374",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "94758"
+          "vote_num_imdb": "94769"
         }
       }
     },
@@ -1221,7 +1361,7 @@
           "rating_kp": "6.809",
           "vote_num_kp": "85057",
           "rating_imdb": "6",
-          "vote_num_imdb": "88608"
+          "vote_num_imdb": "88629"
         }
       }
     },
@@ -1254,7 +1394,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258759.jpg",
         "rating": {
           "rating_kp": "5.967",
-          "vote_num_kp": "76756",
+          "vote_num_kp": "76766",
           "rating_imdb": "5.7",
           "vote_num_imdb": "115312"
         }
@@ -1289,7 +1429,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_252903.jpg",
         "rating": {
           "rating_kp": "6.703",
-          "vote_num_kp": "55522",
+          "vote_num_kp": "55531",
           "rating_imdb": "5.8",
           "vote_num_imdb": "113830"
         }
@@ -1326,7 +1466,7 @@
           "rating_kp": "6.334",
           "vote_num_kp": "46613",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "93831"
+          "vote_num_imdb": "93878"
         }
       }
     },
@@ -1463,8 +1603,8 @@
         "time": "5640",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1190636.jpg",
         "rating": {
-          "rating_kp": "6.202",
-          "vote_num_kp": "7210",
+          "rating_kp": "6.203",
+          "vote_num_kp": "7224",
           "rating_imdb": "5.4",
           "vote_num_imdb": "730"
         }
@@ -1499,7 +1639,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_889431.jpg",
         "rating": {
           "rating_kp": "5.705",
-          "vote_num_kp": "2637",
+          "vote_num_kp": "2638",
           "rating_imdb": "5.4",
           "vote_num_imdb": "805"
         }
@@ -1536,7 +1676,7 @@
           "rating_kp": "8.19",
           "vote_num_kp": "452448",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "1363466"
+          "vote_num_imdb": "1363983"
         }
       }
     },
@@ -1606,147 +1746,7 @@
           "rating_kp": "8.251",
           "vote_num_kp": "287896",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "526142"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "12198",
-      "date": "1572740142",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Игра",
-        "orig": "The Game",
-        "alter": "",
-        "year": "1997",
-        "country": "США",
-        "director": "Дэвид Финчер",
-        "genre": "триллер,детектив,драма,приключения",
-        "actors": "Майкл Дуглас, Шон Пенн, Дебора Кара Ангер, Джеймс Ребхорн, Питер Донат, Кэррол Бейкер, Анна Катарина, Армин Мюллер-Шталь, Чарльз Мартине, Скотт Хантер МакГуайр",
-        "description": "Николас Ван Ортон - само воплощение успеха. Он преуспевает, он невозмутим и спокоен, привык держать любую ситуацию под контролем. На день рождения Николас получает необычный подарок - билет для участия в «Игре».\r\n\r\nЕму обещают, что игра вернет яркие чувства, позволит ощутить вкус и остроту жизни. Вступив в игру, Николас начинает осознавать, что это игра всерьез, игра не на жизнь, а на смерть.",
-        "slogan": "Вы готовы играть?",
-        "premiere": "3 сентября 1997",
-        "age": "16",
-        "time": "7740",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_12198.jpg",
-        "rating": {
-          "rating_kp": "8.251",
-          "vote_num_kp": "279785",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "346228"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "387556",
-      "date": "1572739514",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Хатико: Самый верный друг",
-        "orig": "Hachi: A Dog's Tale",
-        "alter": "",
-        "year": "2008",
-        "country": "Великобритания, США",
-        "director": "Лассе Халльстрём",
-        "genre": "драма,семейный",
-        "actors": "Ричард Гир, Джоан Аллен, Кэри-Хироюки Тагава, Сара Ремер, Джейсон Александер, Эрик Авари, Давиния МакФэдден, Робби Саблетт, Кевин ДеКосте, Роб Деньян",
-        "description": "В основе сюжета - реальная история, случившаяся в Японии и потрясшая весь мир. Однажды, возвращаясь с работы, профессор колледжа нашел на вокзале симпатичного щенка породы акита-ину. Профессор и Хатико стали верными друзьями. Каждый день пес провожал и встречал Профессора на вокзале. И даже потеря хозяина не остановила пса в его надежде, что друг вернется.",
-        "slogan": "Подлинная история веры, преданности и вечной любви",
-        "premiere": "13 июня 2009",
-        "age": "0",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_387556.jpg",
-        "rating": {
-          "rating_kp": "8.335",
-          "vote_num_kp": "381903",
-          "rating_imdb": "8.1",
-          "vote_num_imdb": "254603"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "324",
-      "date": "1572738576",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Поймай меня, если сможешь",
-        "orig": "Catch Me If You Can",
-        "alter": "",
-        "year": "2002",
-        "country": "США, Канада",
-        "director": "Стивен Спилберг",
-        "genre": "драма,криминал",
-        "actors": "Леонардо ДиКаприо, Том Хэнкс, Кристофер Уокен, Мартин Шин, Натали Бай, Эми Адамс, Джеймс Бролин, Брайан Хау, Фрэнк Джон Хьюз, Стив Истин",
-        "description": "Фрэнк Эбегнейл успел поработать врачом, адвокатом и пилотом на пассажирской авиалинии - и все это до достижения полного совершеннолетия в 21 год. Мастер в обмане и жульничестве, он также обладал искусством подделки документов, что в конечном счете принесло ему миллионы долларов, которые он получил по фальшивым чекам.\r\n\r\nАгент ФБР Карл Хэнрэтти отдал бы все, чтобы схватить Фрэнка и привлечь к ответственности за свои деяния, но Фрэнк всегда опережает его на шаг, заставляя продолжать погоню.",
-        "slogan": "Правдивая история о реальном преступнике",
-        "premiere": "16 декабря 2002",
-        "age": "12",
-        "time": "8460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_324.jpg",
-        "rating": {
-          "rating_kp": "8.511",
-          "vote_num_kp": "415388",
-          "rating_imdb": "8.1",
-          "vote_num_imdb": "837395"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "530",
-      "date": "1572738481",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Игры разума",
-        "orig": "A Beautiful Mind",
-        "alter": "",
-        "year": "2001",
-        "country": "США",
-        "director": "Рон Ховард",
-        "genre": "мелодрама,драма",
-        "actors": "Рассел Кроу, Эд Харрис, Дженнифер Коннелли, Кристофер Пламмер, Пол Беттани, Адам Голдберг, Джош Лукас, Энтони Рэпп, Джейсон Грей-Стенфорд, Джадд Хёрш",
-        "description": "От всемирной известности до греховных глубин - все это познал на своей шкуре Джон Форбс Нэш-младший. Математический гений, он на заре своей карьеры сделал титаническую работу в области теории игр, которая перевернула этот раздел математики и практически принесла ему международную известность.\r\n\r\nОднако буквально в то же время заносчивый и пользующийся успехом у женщин Нэш получает удар судьбы, который переворачивает уже его собственную жизнь.",
-        "slogan": "If reality has ganged up on you, nothing is safe anymore...",
-        "premiere": "13 декабря 2001",
-        "age": "12",
-        "time": "8100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_530.jpg",
-        "rating": {
-          "rating_kp": "8.553",
-          "vote_num_kp": "410885",
-          "rating_imdb": "8.2",
-          "vote_num_imdb": "851986"
+          "vote_num_imdb": "526324"
         }
       }
     }

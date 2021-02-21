@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "880009",
+      "date": "1581973411",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Хэнк Бойд мертв",
+        "orig": "Hank Boyd Is Dead",
+        "alter": "",
+        "year": "2015",
+        "country": "США",
+        "director": "Шон Мелиа",
+        "genre": "комедия,ужасы,триллер",
+        "actors": "Стефани Е. Фрейм, Дэвид Кристофер Уэллс, Лив Рут, Майкл Хоган, Carole Monferdini, Артур Олиси, Джо Янг, Рон Ривера, Энни Чадвик, Кэйси Николь Райт",
+        "description": "Молодая двушка была нанята для облуживания поминок обвинненого в убийстве Хэнка Бойда. В результате она узнает, что обстоятельства его преступлений и смерти не такие, какими казались на первый взгляд.",
+        "slogan": "It's a Little Funny",
+        "premiere": "29 октября 2015",
+        "age": "0",
+        "time": "4560",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_880009.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "32",
+          "rating_imdb": "4.6",
+          "vote_num_imdb": "108"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "879864",
+      "date": "1581973410",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Медовый месяц перед родами",
+        "orig": "The Babymoon",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Бэйли Коби",
+        "genre": "комедия,боевик,мелодрама,драма,приключения",
+        "actors": "Джули МакНивен, Шон Сайпос, Джессика Камачо, Майкл Стегер, Майкл ДеЛоренцо, Марк ДеКарло, Келли Перин, Филлип Гарсиа, Georgie Guinane, Нора Киркпатрик",
+        "description": "Имея проблемы в отношениях, муж пытается произвести впечатление на свою беременную жену, устроив «медовый месяц» перед родами в самой экзотической стране на свете. Но ему не было известно, что там происходит политическая революция.",
+        "slogan": "",
+        "premiere": "14 февраля 2017",
+        "age": "0",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_879864.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "13",
+          "rating_imdb": "4.2",
+          "vote_num_imdb": "217"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "879646",
+      "date": "1581973405",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Бабушка",
+        "orig": "Grandma",
+        "alter": "",
+        "year": "2015",
+        "country": "США",
+        "director": "Пол Вайц",
+        "genre": "комедия,драма",
+        "actors": "Лили Томлин, Джуди Грир, Джулия Гарнер, Карлос Миранда, Джон Чо, Нат Вулф, Лаверн Кокс, Аарон Билию, Элизабет Пенья, Коллин Кэмп",
+        "description": "Девушка-подросток сталкивается с незапланированной беременностью и отправляется за помощью к своей бабушке, которая давно отдалилась от своей дочери...",
+        "slogan": "",
+        "premiere": "30 января 2015",
+        "age": "18",
+        "time": "4920",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_879646.jpg",
+        "rating": {
+          "rating_kp": "6.237",
+          "vote_num_kp": "1365",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "14668"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "879080",
+      "date": "1581973395",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Девятый район",
+        "orig": "The Nth Ward",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Камилль Браун",
+        "genre": "триллер,драма",
+        "actors": "Джульетт Беннетт, Джеймс Уорд, Чарльз Блэк, Кристин Хамид, Гленн Маджи, Грегори Альбрехт, Len Cassamas, Моника Лосон, Питер Джейсон, Хэтти М. Лемон",
+        "description": "Сотрудницу Инженерных войск США отправляют в Новый Орлеан после урагана для оценки повреждений. Непонятные происшествия и исчезновения выводят ее на след, связанный с политическим обманом и магией вуду.",
+        "slogan": "",
+        "premiere": "29 августа 2017",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_879080.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": "3.4",
+          "vote_num_imdb": "186"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "878961",
       "date": "1581973393",
       "camrip": "0",
@@ -413,10 +553,10 @@
         "time": "4860",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_876233.jpg",
         "rating": {
-          "rating_kp": "5.596",
-          "vote_num_kp": "252",
+          "rating_kp": "5.591",
+          "vote_num_kp": "257",
           "rating_imdb": "5.2",
-          "vote_num_imdb": "1886"
+          "vote_num_imdb": "1887"
         }
       }
     },
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "15",
           "rating_imdb": "5.1",
           "vote_num_imdb": "112"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "869355",
-      "date": "1581973246",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Упавшие звезды",
-        "orig": "Fallen Stars",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Брайан Джетт",
-        "genre": "комедия,драма",
-        "actors": "Райан О’Нан, Мишель Энг, Лесли Дэвид Бэйкер, Дженнифер Ирвин, Элизабет Санг, Джиовонни Семуэлс, Вероника Сикстос, Элизабет Хауэр, Эрик Эдельштейн, Таннер Новлан",
-        "description": "История неожиданной дружбы между барменом Купером, который не совсем понимает, что ему делать со своей жизнью, и молодой и умной, но в то же время очень проблемной девушкой по имени Дэйзи.",
-        "slogan": "",
-        "premiere": "14 марта 2017",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_869355.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "94",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "316"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "869265",
-      "date": "1581973245",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Необычное свидание",
-        "orig": "A Sunday Kind of Love",
-        "alter": "",
-        "year": "2015",
-        "country": "Канада",
-        "director": "Джорди Саббаг",
-        "genre": "фэнтези,мелодрама,драма",
-        "actors": "Дилан Тейлор, Мелани Скрофано, Меган Хефферн, Бенджамин Эйрс, Анджела Бешара, Ардон Бесс, Эшли Рэйнс, Джесс Салгейру, Дэнни Смит, Steve Stransman",
-        "description": "Писателю‑неудачнику выпадает редкая возможность поговорить с собственной смертью. В течение дня он должен решить, готов ли он умереть ради исполнения заветной мечты или на свете есть ещё что‑то, ради чего стоит жить.",
-        "slogan": "",
-        "premiere": "18 ноября 2016",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_869265.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "24",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "136"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "869148",
-      "date": "1581973240",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Чудо Коквилла",
-        "orig": "The Cokeville Miracle",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Т.С. Кристенсен",
-        "genre": "триллер,детектив,история,драма,семейный",
-        "actors": "Джасен Вэйд, Сара Кент, Kimball Stinger, Alexa Rae, Нэйтан Стивенс, Кимберли Меллен, Кэйтлин Э.Дж. Мейер, Caddis Adams, Грэйс Хэллоус, Эмили Уодли",
-        "description": "16 мая 1986 в небольшом городке Коквилл необычный террорист Дорис Янг взял в заложники единственный класс с учителем начальной школы прежде, чем взорвать бомбу...",
-        "slogan": "Based on actual events",
-        "premiere": "5 июня 2015",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_869148.jpg",
-        "rating": {
-          "rating_kp": "4.903",
-          "vote_num_kp": "131",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "2170"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "868678",
-      "date": "1581973230",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Объединившись, мы падем",
-        "orig": "United We Fall",
-        "alter": "",
-        "year": "2014",
-        "country": "Великобритания",
-        "director": "Гари Синьор",
-        "genre": "комедия",
-        "actors": "Мэттью Эйвери, Грэйс Бишоп, Джонатан Брок, Сушил Чудасама, Джек Доннелли, James Hamer-Morton, Дана Хаквджу, Эми Бет Хэйес, Арина Ии, Джоэль Меллингер",
-        "description": "Псевдодокументальный фильм о пяти высокомерных бывших игроках Манчестер Юнайтед, которые получали чрезмерно высокую заработную плату и более того являются расистами и гомофобами. У этих футболистов появляется шанс стать героями в 2010 году...",
-        "slogan": "Five Manchester United players. May 2010. The world was their lobster...",
-        "premiere": "17 октября 2014",
-        "age": "0",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_868678.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "20",
-          "rating_imdb": "4",
-          "vote_num_imdb": "150"
         }
       }
     }

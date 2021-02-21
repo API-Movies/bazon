@@ -2,6 +2,321 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1316735",
+      "date": "1608493504",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Талант",
+        "orig": "Polot",
+        "alter": "",
+        "year": "2020",
+        "country": "Польша",
+        "director": "Михал Внук",
+        "genre": "драма",
+        "actors": "Maciej Musialowski,Эрик Кульм,Томаш Влосок,Анджей Конопка,Pola Blasik,Изабела Куна,Мальвина Бусс,Zofia Domalik,Mariusz Stajewski,Tomasz Miedzik",
+        "description": "Кароль, талантливый и предприимчивый 25-летний парень помогает отцу с семейным бизнесом. Когда его отец, лётный инструктор, погибает в результате несчастного случая, Кароль становится главным в доме и содержит мать. Вместе с двумя лучшими друзьями он решает рискнуть и построить инновационный дирижабль. Когда на горизонте появляются большие деньги, парень быстро понимает, на какие жертвы ему придётся пойти ради нового дела. Ему нужно тщательно выбирать как друзей, так и партнеров по бизнесу. Сможет ли он добиться успеха на своих условиях?",
+        "slogan": "",
+        "premiere": "3 сентября 2020",
+        "age": "0",
+        "time": "5520",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGNjYTBlNjYtNWVjZC00MTlmLTg3NzQtMzlhMWViYmU0ZGQ3XkEyXkFqcGdeQXVyMTEwMTY3NDI@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "6",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "80"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "392",
+      "date": "1608493084",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Большой побег",
+        "orig": "The Great Escape",
+        "alter": "Великий побег / Criterion Collection",
+        "year": "1963",
+        "country": "США",
+        "director": "Джон Стёрджес",
+        "genre": "триллер,история,драма,военный,приключения",
+        "actors": "Стив МакКуин, Джеймс Гарнер, Ричард Аттенборо, Джеймс Дональд, Чарльз Бронсон, Дональд Плезенс, Джеймс Коберн, Ханнес Мессемер, Дэвид МакКаллум, Гордон Джексон",
+        "description": "Фильм основан на реальных событиях. Американские, британские и канадские военнопленные осуществляют массовый побег из немецкого лагеря во время Второй мировой войны.",
+        "slogan": "Hours ago... Minutes ago.... These men were behind barbed wire",
+        "premiere": "20 июня 1963",
+        "age": "12",
+        "time": "10320",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_392.jpg",
+        "rating": {
+          "rating_kp": "7.377",
+          "vote_num_kp": "5043",
+          "rating_imdb": "8.2",
+          "vote_num_imdb": "225270"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1103456",
+      "date": "1608488109",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Плохой импульс",
+        "orig": "Bad Impulse",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Мишель Дэннер",
+        "genre": "триллер,драма",
+        "actors": "Соня Уолгер,Стефани Кайо,Пол Сорвино,Рене Росадо,Дэн Лория,Грант Боулер,Кристин Данфорд,Джеймс Хеберт,Дэвид Казинс,Трэйси Мельхиор",
+        "description": "После травмирующего события муж и отец семейства из пригорода покупает передовую охранную систему, но вскоре понимает, что она постепенно разрушает то, что он сильнее всего хочет защитить.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1103456.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "3",
+          "rating_imdb": "5",
+          "vote_num_imdb": "57"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "77583",
+      "date": "1608486558",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Набережная Орфевр, 36",
+        "orig": "36 Quai des Orfèvres",
+        "alter": "",
+        "year": "2004",
+        "country": "Франция",
+        "director": "Оливье  Маршаль",
+        "genre": "боевик,триллер,драма,криминал",
+        "actors": "Даниель Отой, Жерар Депардье, Андре Дюссолье, Рошди Зем, Валерия Голино, Даниэль Дюваль, Франсис Рено, Катрин Маршаль, Ги Леклюиз, Ален Фиглаж",
+        "description": "Хорошо вооружённая банда матёрых преступников безнаказанно совершает дерзкие налёты на отделения столичных банков, жестоко расстреливая охрану. За расследование этих преступлений возьмутся сразу два департамента полиции, во главе которых стоят бывшие друзья Денис Клейн и Лео Вринкс. У них совершенно разные методы работы и цели. Два полисмена начинают совместное расследование, и когда Вринкс максимально близко приближается к разгадке, попадая в тяжелую ситуацию, Клейн подло подставляет его, до конца не осознавая, чем это может закончиться...",
+        "slogan": "",
+        "premiere": "24 ноября 2004",
+        "age": "16",
+        "time": "6660",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77583.jpg",
+        "rating": {
+          "rating_kp": "7.533",
+          "vote_num_kp": "9160",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "16418"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "647802",
+      "date": "1608476173",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Император",
+        "orig": "Emperor",
+        "alter": "",
+        "year": "2012",
+        "country": "Япония, США",
+        "director": "Питер Веббер",
+        "genre": "история,драма,военный",
+        "actors": "Мэттью Фокс, Томми Ли Джонс, Эрико Хацунэ, Тосиюки Нисида, Масаёси Ханэда, Каори Момои, Колин Мой, Масатоси Накамура, Масато Ибу, Исао Нацуяги",
+        "description": "Фильм рассказывает о днях, последовавших за капитуляцией Японии во Второй мировой войне, когда правителем Страны Восходящего солнца де-факто являлся генерал Даглас МакАртур. Одному из экспертов-японистов, генералу Боннеру Феллерсу, поручено найти ответ на непростой вопрос: следует ли признать японского императора Хирохито военным преступником и повесить?",
+        "slogan": "Japan 1945: General Douglas MacArthur was given a mission to decide the fate of a nation, the guilt of a leader, and the true price of peace",
+        "premiere": "14 сентября 2012",
+        "age": "12",
+        "time": "6300",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_647802.jpg",
+        "rating": {
+          "rating_kp": "6.353",
+          "vote_num_kp": "1586",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "13232"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "662127",
+      "date": "1608475905",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Незнакомец внутри",
+        "orig": "The Stranger Within",
+        "alter": "",
+        "year": "2013",
+        "country": "Дания",
+        "director": "Адам Нёцски-Вульфф",
+        "genre": "триллер,детектив",
+        "actors": "Уильям Болдуин, Эстелла Уоррен, Сара Батлер, Джеффри Пирс, Катя Винтер, Ким Бодния, Вивьенн МакКи, Клер Росс-Браун, Jon Pihl, Torben Sloth Thomsen",
+        "description": "Известная актриса Эмили Мур и ее муж психиатр по имени Роберт, решают отдохнуть на удаленном средиземноморском острове. Но в первую же ночь в их дом приходит молодая женщина в истерике от смерти ее парня...",
+        "slogan": "",
+        "premiere": "3 сентября 2013",
+        "age": "16",
+        "time": "5220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_662127.jpg",
+        "rating": {
+          "rating_kp": "3.96",
+          "vote_num_kp": "680",
+          "rating_imdb": "3.7",
+          "vote_num_imdb": "2057"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "415628",
+      "date": "1608474941",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Огонь и лед: Хроники драконов",
+        "orig": "Fire & Ice",
+        "alter": "",
+        "year": "2008",
+        "country": "Румыния",
+        "director": "Питоф",
+        "genre": "фэнтези,драма,приключения",
+        "actors": "Эми Акер, Том Уисдом, Джон Рис-Дэвис, Арнольд Вослу, Рэзван Василеску, Оана Пелля, Кебрал Ибака, Овидиу Никулеску, Лоредана Гроза, Кристиан Мотиу",
+        "description": "Карпия - чудесное королевство в мире драконов, рыцарей и магии. Ею управляет король Августин и королева Ремени. На их спокойную некогда страну обрушивается Огненный Дракон. Он сеет панику и смерть везде, где появляется. Единственная возможность спастись - освободить другого дракона, Ледяного. На его поиски отправлется принцесса Луиза и несколько ее верных друзей. От режиссера фильмов «Женщина-Кошка» и «Видок».",
+        "slogan": "When danger strikes from above, either burns your soul or freeze you to death",
+        "premiere": "18 сентября 2008",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_415628.jpg",
+        "rating": {
+          "rating_kp": "4.619",
+          "vote_num_kp": "1592",
+          "rating_imdb": "4.3",
+          "vote_num_imdb": "2523"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "452857",
+      "date": "1608474864",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Супруги Морган в бегах",
+        "orig": "Did You Hear About the Morgans?",
+        "alter": "",
+        "year": "2009",
+        "country": "США",
+        "director": "Марк Лоуренс",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Хью Грант, Сара Джессика Паркер, Наталия Климас, Винченцо Амато, Джесси Либман, Элизабет Мосс, Майкл Келли, Сет Гиллиам, Шандор Течи, Кевин Браун",
+        "description": "Морганы - типичная современная Нью-Йоркская чета с Манхеттена. Они богаты, успешны, циничны, избалованы комфортом большого города и ещё... они на грани развода. Как нельзя более вовремя они становятся случайными очевидцами убийства и теперь вынуждены уехать в небольшой провинциальный городок, по программе защиты свидетелей. Но вместе с потерей привычных городских прелестей жизни они вновь обретают интерес друг к другу...",
+        "slogan": "We're not in Manhattan anymore",
+        "premiere": "18 декабря 2009",
+        "age": "16",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_452857.jpg",
+        "rating": {
+          "rating_kp": "5.597",
+          "vote_num_kp": "18493",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "38166"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "38082",
+      "date": "1608474747",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDRip",
+      "translation": "Дубляж",
+      "max_qual": "480",
+      "info": {
+        "rus": "Адский небоскреб",
+        "orig": "La tour Montparnasse infernale",
+        "alter": "",
+        "year": "2001",
+        "country": "Франция",
+        "director": "Шарль Немес",
+        "genre": "комедия",
+        "actors": "Эрик Жюдор, Рамзи Бедиа, Марина Фоис, Серж Рябукин, Жан-Клод Дофен, Джои Старр, Омар Си, Фред Тесто, Лоуренс Поле-Виллар, Пьер-Франсуа Мартен-Лаваль",
+        "description": "Два мойщика окон случайно оказываются у самой вершины небоскреба в тот момент, когда здание захватывает группа террористов. Незадачливые герои решают во что бы то ни стало спасти девушку, которую видели в окне. Им и в голову не приходит, что именно она возглавляет банду и готова на все, чтобы избавиться от лишних свидетелей.",
+        "slogan": "",
+        "premiere": "28 марта 2001",
+        "age": "12",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_38082.jpg",
+        "rating": {
+          "rating_kp": "6.249",
+          "vote_num_kp": "4282",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "4589"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1008439",
       "date": "1608474642",
       "camrip": "0",
@@ -121,7 +436,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_661013.jpg",
         "rating": {
           "rating_kp": "7.821",
-          "vote_num_kp": "778",
+          "vote_num_kp": "777",
           "rating_imdb": "7.4",
           "vote_num_imdb": "3649"
         }
@@ -376,10 +691,10 @@
         "time": "7200",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843685.jpg",
         "rating": {
-          "rating_kp": "6.651",
-          "vote_num_kp": "576",
+          "rating_kp": "6.654",
+          "vote_num_kp": "582",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "1937"
+          "vote_num_imdb": "1943"
         }
       }
     },
@@ -540,8 +855,8 @@
         "time": "2880",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1331919.jpg",
         "rating": {
-          "rating_kp": "7.605",
-          "vote_num_kp": "20454",
+          "rating_kp": "7.604",
+          "vote_num_kp": "20477",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -970,7 +1285,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1268419.jpg",
         "rating": {
           "rating_kp": "6.324",
-          "vote_num_kp": "654",
+          "vote_num_kp": "655",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1127,9 +1442,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1331277.jpg",
         "rating": {
           "rating_kp": "7.08",
-          "vote_num_kp": "1499",
+          "vote_num_kp": "1508",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "8760"
+          "vote_num_imdb": "8820"
         }
       }
     },
@@ -1332,8 +1647,8 @@
         "time": "7440",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_756940.jpg",
         "rating": {
-          "rating_kp": "7.378",
-          "vote_num_kp": "2112",
+          "rating_kp": "7.38",
+          "vote_num_kp": "2114",
           "rating_imdb": "6.9",
           "vote_num_imdb": "3696"
         }
@@ -1368,7 +1683,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1371715.jpg",
         "rating": {
           "rating_kp": "6.192",
-          "vote_num_kp": "5126",
+          "vote_num_kp": "5172",
           "rating_imdb": "6",
           "vote_num_imdb": "766"
         }
@@ -1533,7 +1848,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1266351.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "67",
+          "vote_num_kp": "68",
           "rating_imdb": "7",
           "vote_num_imdb": "3602"
         }
@@ -1688,325 +2003,10 @@
         "time": "5640",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1281709.jpg",
         "rating": {
-          "rating_kp": "6.659",
-          "vote_num_kp": "672",
+          "rating_kp": "6.664",
+          "vote_num_kp": "676",
           "rating_imdb": "7.1",
           "vote_num_imdb": "23303"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "821954",
-      "date": "1608317103",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Безжалостный",
-        "orig": "Relentless",
-        "alter": "",
-        "year": "2018",
-        "country": "США, Сальвадор",
-        "director": "Лэнс Трэйси",
-        "genre": "триллер",
-        "actors": "Сидни Свини, Эльпидия Каррильо, Кортни Тейлор, Лорен Шоу, Дондре Уитфилд, Мариана Новак, Джэйк Ла Ботц, Питер  Эсли Холден, Дэвид Кастро, Питер Паско",
-        "description": "Мать американской девочки отправляется на поиски своей дочери, которая была похищена торговцами людьми в Центральной Америке.",
-        "slogan": "",
-        "premiere": "6 февраля 2018",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_821954.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "91",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "337"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "44467",
-      "date": "1608310918",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Гараж",
-        "orig": "Гараж",
-        "alter": "",
-        "year": "1979",
-        "country": "СССР",
-        "director": "Эльдар Рязанов",
-        "genre": "комедия,драма",
-        "actors": "Валентин Гафт, Ия Саввина, Лия Ахеджакова, Андрей Мягков, Георгий Бурков, Светлана Немоляева, Леонид Марков, Вячеслав Невинный, Анастасия Вознесенская, Глеб Стриженов",
-        "description": "На заседании гаражного кооператива предстоит выбрать четырех «крайних», которые должны сами отказаться от будущего собственного гаража. Что чувствуешь, голосуя за список отверженных, в котором нет твоей фамилии? Неловкость и облегчение. А если фамилия есть? Смирись, ведь все уже согласовано. Но произошел бунт...",
-        "slogan": "",
-        "premiere": "10 марта 1980",
-        "age": "12",
-        "time": "5760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44467.jpg",
-        "rating": {
-          "rating_kp": "8.019",
-          "vote_num_kp": "76648",
-          "rating_imdb": "8.1",
-          "vote_num_imdb": "3419"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1328344",
-      "date": "1608309017",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "25 лет невиновности. Дело Томка Коменды",
-        "orig": "25 lat niewinnosci. Sprawa Tomka Komendy",
-        "alter": "",
-        "year": "2020",
-        "country": "Польша",
-        "director": "Жан Холобек",
-        "genre": "драма",
-        "actors": "Петр Троян,Агата Кулеша,Дариуш Хойнацкий,Ян Фрыч,Лукаш Левандовски,Миколай Хробочек,Анджей Конопка,Юлиян Свежевски,Магдалена Ружчка,Адам Навойчик",
-        "description": "Обычная жизнь Томаша Коменды переворачивается с ног на голову, когда его ошибочно обвиняют в жестоком убийстве и приговаривают к 25 годам лишения свободы.",
-        "slogan": "",
-        "premiere": "4 сентября 2020",
-        "age": "0",
-        "time": "6720",
-        "poster": "https://m.media-amazon.com/images/M/MV5BM2E3YWNhMTgtMzRiZS00N2UxLWJkYzEtOGYyMWFhNDhlZmExXkEyXkFqcGdeQXVyMTEwMTY3NDI@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "27",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "540"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1351504",
-      "date": "1608308108",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Слоновье кладбище",
-        "orig": "Cemetery",
-        "alter": "",
-        "year": "2019",
-        "country": "Франция,Великобритания,Польша,Узбекистан",
-        "director": "Карлос Касас",
-        "genre": "приключения",
-        "actors": "Wayne Bamford,Tony Lourds,Warna Sandeeya,S.A. Senevirathne,Sinharaja,Yashodha Suriyapperuma",
-        "description": "Группа браконьеров следует за двумя слонами в поисках мифического слоновьего кладбища, которое ведёт в таинственные земли, связанные со смертью и перерождением.",
-        "slogan": "",
-        "premiere": "11 июля 2019",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOGUxMDU2M2MtYjZhNy00OTllLTlmZGUtNjVmMTU2NzEwNjgwXkEyXkFqcGdeQXVyMTQ5Mzc5MDU@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "7",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "163"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1309926",
-      "date": "1608304516",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Угнать и продать",
-        "orig": "Rev",
-        "alter": "",
-        "year": "2020",
-        "country": "Канада",
-        "director": "Ант Хорасанли",
-        "genre": "боевик,драма",
-        "actors": "Сэм Асанте,Sebastian Deery,Франциска Дэннис,Франческо Филиче,Вивика А. Фокс,Ханна Гордон,Yun Liu,Дэннис Нимо,Рис Пресли,Шон Рей",
-        "description": "Молодой угонщик дорогих автомобилей после неудачного дела вынужден согласиться на сотрудничество с полицией. Он должен внедриться в банду и помочь стражам порядка раскрыть крупное предприятие по контрабанде сотен экзотических суперкаров.",
-        "slogan": "Live Fast. Drive Faster",
-        "premiere": "12 мая 2020",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1309926.jpg",
-        "rating": {
-          "rating_kp": "5.3",
-          "vote_num_kp": "1645",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "1059"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1393115",
-      "date": "1608304516",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Доставить к Рождеству",
-        "orig": "Deliver by Christmas",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Терри Ингрэм",
-        "genre": "комедия",
-        "actors": "Эйон Бэйли,Альвина Аугуст,Джим Торберн,Надин Лайтбади,Далиас Блейк,Ambika Vas,Kesler Talbot,Эрин Маршалл",
-        "description": "На ёлочном базаре Молли случайно сталкивается с незнакомцем по имени Джош, отцом-одиночкой, который после смерти жены переехал с сыном в небольшой городок, где живут его мама и брат. Спустя пару дней в пекарне Молли раздаётся звонок, между ней и таинственным собеседником возникает симпатия. Суждено ли Молли обрести свою любовь в это Рождество или у судьбы на неё другие планы?",
-        "slogan": "",
-        "premiere": "25 октября 2020",
-        "age": "0",
-        "time": "5040",
-        "poster": "https://m.media-amazon.com/images/M/MV5BODk4OWM4ZjQtOWQ0Zi00OThkLTlkOWUtY2M5MmViMGZjOGVhXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@.jpg",
-        "rating": {
-          "rating_kp": "5.592",
-          "vote_num_kp": "289",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "722"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1356841",
-      "date": "1608304515",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ты заберёшь моё сердце с собой",
-        "orig": "Me llevarás en ti",
-        "alter": "",
-        "year": "2019",
-        "country": "Колумбия",
-        "director": "Iván Obando",
-        "genre": "мелодрама",
-        "actors": "Альдемар Корреа,Adrián Diaz,Carlos Fernandez,Mariana Fernandez,Carlos Fernández,Мария Гавирия,Себастьян Джиральдо,Marcela Gutierrez,Sebastián Gómez,Alex Praute",
-        "description": "История любви, основанная на жизни латиноамериканского бизнесмена Гонсало Мехии и его романе с польской графиней Исольдой Прусински. Они встретились в Риме в 1906 году. Судьба сводит их вместе и разводит в разные стороны в самые неожиданные моменты.",
-        "slogan": "",
-        "premiere": "24 октября 2019",
-        "age": "0",
-        "time": "7500",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMzJjMTE1YjctZDU5ZS00NGU1LTljNzAtZmMzM2MxOTZlYWVhXkEyXkFqcGdeQXVyMzg2MDc2Nzk@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "41"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "9744",
-      "date": "1608304509",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Психо 3",
-        "orig": "Psycho III",
-        "alter": "Психоз 3 / Психо III",
-        "year": "1986",
-        "country": "США",
-        "director": "Энтони Перкинс",
-        "genre": "ужасы,триллер,детектив",
-        "actors": "Энтони Перкинс, Дайана Скаруид, Джефф Фэйи, Роберта Максвелл, Хью Гиллам, Ли Гарлингтон, Роберт Алан Браун, Гари Байер, Пейшнс Кливлэнд, Джульетт Камминс",
-        "description": "Несчастного Нормана снова посещает его покойная матушка. А в это время в мотель как назло нагрянули постояльцы...",
-        "slogan": "Unlock the terror. Unlock the fear. And enter into the all new nightmare of...",
-        "premiere": "27 июня 1986",
-        "age": "18",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9744.jpg",
-        "rating": {
-          "rating_kp": "5.404",
-          "vote_num_kp": "1585",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "13176"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1331797",
-      "date": "1608304509",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Передряги 2",
-        "orig": "Tarapaty 2",
-        "alter": "",
-        "year": "2020",
-        "country": "Польша",
-        "director": "Maria Anna Karwowska",
-        "genre": "комедия,семейный",
-        "actors": "Pola Król,Jakub Janota-Bzowski,Mia Goti,Иоанна Щепковска,Marta Malikowska,Томаш Зитек,Збигнев Замаховский,Sandra Korzeniak,Марчин Пемпус,Джустина Василевска",
-        "description": "Когда из Национального музея Польши исчезает жемчужина коллекции «Пляж в Пурвиле» Клода Моне, а тетю Юльки обвиняют в краже, дети начинают собственное расследование, чтобы найти картину и установить личность настоящего вора.",
-        "slogan": "",
-        "premiere": "25 сентября 2020",
-        "age": "0",
-        "time": "4980",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNWY5OGQ5YTctMzMwNC00ZWE0LWIzYTAtZGE1ZjlkMzAyM2Y0XkEyXkFqcGdeQXVyMTEwMTY3NDI@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "6",
-          "rating_imdb": "4.1",
-          "vote_num_imdb": "39"
         }
       }
     }

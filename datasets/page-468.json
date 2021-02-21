@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "922547",
+      "date": "1574160102",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "По долгу службы",
+        "orig": "Line of Duty",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания,США",
+        "director": "Стивен С. Миллер",
+        "genre": "боевик,триллер",
+        "actors": "Дина Мейер,Аарон Экхарт,Джанкарло Эспозито,Кортни Итон,Бен Маккензи,Джессика Лу,Дэвид Моретти,Никола Шкрели,Линдси Гаррет,MWW Michael Wilkerson",
+        "description": "Полицейскому наперегонки со временем предстоит найти похищенную девочку.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "0",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTYzMTgyMWItMDA5Mi00OTczLTg2NzUtOTBlZDdiNDhhZWU4XkEyXkFqcGdeQXVyMjA0ODQxMQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "132",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "5642"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1100005",
+      "date": "1574158463",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дельфин Берни",
+        "orig": "Bernie The Dolphin",
+        "alter": "",
+        "year": "2018",
+        "country": "Канада",
+        "director": "Кирк Харрис",
+        "genre": "комедия,боевик,семейный",
+        "actors": "Лола Султан, Логан Аллен, Кевин Сорбо, Стелио Саванте, Jimel Atkins, Шон Майкл Глория, Патрик Малдун, Дахлия Леголт, Сэм Сорбо, Shane Sorbo",
+        "description": "Брат и сестра подружились с дельфином, получившим ожог и разлучившимся со своей семьёй. Однажды ребята случайно раскрывают секретный и опасный план, который может навредить пляжу и океану, дому их нового друга.",
+        "slogan": "Protect the cove. Rescue the dolphin. Save the day",
+        "premiere": "6 декабря 2018",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1100005.jpg",
+        "rating": {
+          "rating_kp": "5.824",
+          "vote_num_kp": "683",
+          "rating_imdb": "5",
+          "vote_num_imdb": "426"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "245856",
+      "date": "1574108796",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Игорь",
+        "orig": "Igor",
+        "alter": "",
+        "year": "2008",
+        "country": "США, Франция",
+        "director": "Энтони Леондис",
+        "genre": "мультфильм,комедия,фэнтези,семейный",
+        "actors": "Джон Кьюсак, Стив Бушеми, Шон Хейс, Молли Шеннон, Майлин Класс, Robin Howard, Мэтт МакКенна, Джон Клиз, Джесс Харнелл, Эдди Иззард",
+        "description": "В мире, населенном Безумными Учеными и Злыми Изобретателями, один талантливый помощник злого ученого мечтает сам стать ученым и выиграть ежегодную Злую Ярмарку Науки.",
+        "slogan": "All men aren't created Evil",
+        "premiere": "19 сентября 2008",
+        "age": "0",
+        "time": "5220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_245856.jpg",
+        "rating": {
+          "rating_kp": "5.943",
+          "vote_num_kp": "8374",
+          "rating_imdb": "6",
+          "vote_num_imdb": "22394"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "81621",
+      "date": "1574108726",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Рога и копыта",
+        "orig": "Barnyard",
+        "alter": "",
+        "year": "2006",
+        "country": "Германия, США, Нидерланды",
+        "director": "Стив Одекерк",
+        "genre": "мультфильм,комедия,драма,приключения,семейный",
+        "actors": "Кевин Джеймс, Кортни Кокс, Сэм Эллиотт, Дэнни Гловер, Ванда Сайкс, Энди МакДауэлл, Дэвид Кокнер, Джеффри Гарсиа, Кэм Кларк, Роб Полсен",
+        "description": "Отвязный бычок Отис любит петь, танцевать и всячески подшучивать над людьми. В отличие от своего отца Бена, уважаемого патриарха скотного двора, а также старого и мудрого мула Майлса, Отис не заботится о том, чтобы никто не узнал о «человеческих» талантах животных. Но когда легкомысленный Отис ощутил на своих плечах нелегкое бремя ответственности, он сумел собрать все свое мужество, чтобы взять на себя функции лидера...",
+        "slogan": "What happens in the barn stays in the barn",
+        "premiere": "4 августа 2006",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_81621.jpg",
+        "rating": {
+          "rating_kp": "5.592",
+          "vote_num_kp": "17034",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "27996"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "8227",
       "date": "1574108670",
       "camrip": "0",
@@ -64,7 +204,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_821738.jpg",
         "rating": {
           "rating_kp": "5.984",
-          "vote_num_kp": "14554",
+          "vote_num_kp": "14556",
           "rating_imdb": "5.5",
           "vote_num_imdb": "5879"
         }
@@ -136,7 +276,7 @@
           "rating_kp": "7.692",
           "vote_num_kp": "115735",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "198331"
+          "vote_num_imdb": "198389"
         }
       }
     },
@@ -239,7 +379,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_88747.jpg",
         "rating": {
           "rating_kp": "6.038",
-          "vote_num_kp": "7459",
+          "vote_num_kp": "7464",
           "rating_imdb": "5.1",
           "vote_num_imdb": "8240"
         }
@@ -381,7 +521,7 @@
           "rating_kp": "7.048",
           "vote_num_kp": "38469",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "19964"
+          "vote_num_imdb": "19969"
         }
       }
     },
@@ -414,7 +554,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_61323.jpg",
         "rating": {
           "rating_kp": "6.631",
-          "vote_num_kp": "20149",
+          "vote_num_kp": "20157",
           "rating_imdb": "6.3",
           "vote_num_imdb": "33314"
         }
@@ -521,7 +661,7 @@
           "rating_kp": "6.921",
           "vote_num_kp": "60177",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "101909"
+          "vote_num_imdb": "101939"
         }
       }
     },
@@ -589,7 +729,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_751952.jpg",
         "rating": {
           "rating_kp": "6.666",
-          "vote_num_kp": "17703",
+          "vote_num_kp": "17720",
           "rating_imdb": "6.2",
           "vote_num_imdb": "6210"
         }
@@ -693,8 +833,8 @@
         "time": "5400",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1113014.jpg",
         "rating": {
-          "rating_kp": "6.437",
-          "vote_num_kp": "51022",
+          "rating_kp": "6.438",
+          "vote_num_kp": "51060",
           "rating_imdb": "5.6",
           "vote_num_imdb": "234"
         }
@@ -729,7 +869,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1038154.jpg",
         "rating": {
           "rating_kp": "5.401",
-          "vote_num_kp": "91481",
+          "vote_num_kp": "91503",
           "rating_imdb": "4.4",
           "vote_num_imdb": "328"
         }
@@ -869,7 +1009,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_432650.jpg",
         "rating": {
           "rating_kp": "6.916",
-          "vote_num_kp": "123695",
+          "vote_num_kp": "123774",
           "rating_imdb": "6.4",
           "vote_num_imdb": "1370"
         }
@@ -904,7 +1044,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_252022.jpg",
         "rating": {
           "rating_kp": "7.241",
-          "vote_num_kp": "84463",
+          "vote_num_kp": "84524",
           "rating_imdb": "6.9",
           "vote_num_imdb": "1371"
         }
@@ -1046,7 +1186,7 @@
           "rating_kp": "7.822",
           "vote_num_kp": "85354",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "182398"
+          "vote_num_imdb": "182437"
         }
       }
     },
@@ -1079,7 +1219,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_882290.jpg",
         "rating": {
           "rating_kp": "7.474",
-          "vote_num_kp": "32816",
+          "vote_num_kp": "32819",
           "rating_imdb": "7.8",
           "vote_num_imdb": "118379"
         }
@@ -1114,7 +1254,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_376448.jpg",
         "rating": {
           "rating_kp": "7.323",
-          "vote_num_kp": "10322",
+          "vote_num_kp": "10321",
           "rating_imdb": "7.3",
           "vote_num_imdb": "17581"
         }
@@ -1184,7 +1324,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_376447.jpg",
         "rating": {
           "rating_kp": "7.405",
-          "vote_num_kp": "11530",
+          "vote_num_kp": "11532",
           "rating_imdb": "7.3",
           "vote_num_imdb": "19851"
         }
@@ -1291,7 +1431,7 @@
           "rating_kp": "7.418",
           "vote_num_kp": "71867",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "309333"
+          "vote_num_imdb": "309371"
         }
       }
     },
@@ -1324,7 +1464,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_279221.jpg",
         "rating": {
           "rating_kp": "6.536",
-          "vote_num_kp": "33998",
+          "vote_num_kp": "34001",
           "rating_imdb": "6",
           "vote_num_imdb": "50915"
         }
@@ -1359,7 +1499,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_103224.jpg",
         "rating": {
           "rating_kp": "6.73",
-          "vote_num_kp": "33320",
+          "vote_num_kp": "33329",
           "rating_imdb": "6.2",
           "vote_num_imdb": "61411"
         }
@@ -1394,7 +1534,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_470993.jpg",
         "rating": {
           "rating_kp": "6.258",
-          "vote_num_kp": "10774",
+          "vote_num_kp": "10775",
           "rating_imdb": "5.8",
           "vote_num_imdb": "6688"
         }
@@ -1466,7 +1606,7 @@
           "rating_kp": "8.078",
           "vote_num_kp": "79928",
           "rating_imdb": "8",
-          "vote_num_imdb": "172573"
+          "vote_num_imdb": "172601"
         }
       }
     },
@@ -1534,7 +1674,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_61359.jpg",
         "rating": {
           "rating_kp": "6.689",
-          "vote_num_kp": "39102",
+          "vote_num_kp": "39108",
           "rating_imdb": "6.4",
           "vote_num_imdb": "170419"
         }
@@ -1604,149 +1744,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_771095.jpg",
         "rating": {
           "rating_kp": "5.778",
-          "vote_num_kp": "19855",
+          "vote_num_kp": "19867",
           "rating_imdb": "5",
           "vote_num_imdb": "17004"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "278361",
-      "date": "1574084406",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Элвин и бурундуки",
-        "orig": "Alvin and the Chipmunks",
-        "alter": "",
-        "year": "2007",
-        "country": "США",
-        "director": "Тим Хилл",
-        "genre": "мультфильм,комедия,фэнтези,семейный",
-        "actors": "Джейсон Ли, Дэвид Кросс, Кэмерон Ричардсон, Джейн Линч, Джастин Лонг, Мэттью Грей Гублер, Джесси МакКартни, Эллисон Карман, Тиара Паркер, Кира Веррастро",
-        "description": "Жизнь композитора была одной черной полосой до тех пор, пока он не встретил трех живых поющих бурундуков: лидера Элвина, гения Саймона и феерического Теодора. Поначалу они плохо уживаются вместе, но в конце концов Дэйв принимает бурундуков и даже становится менеджером их рок-группы, которая собирает стадионы поклонников.",
-        "slogan": "Here comes trouble",
-        "premiere": "13 декабря 2007",
-        "age": "12",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_278361.jpg",
-        "rating": {
-          "rating_kp": "6.216",
-          "vote_num_kp": "68629",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "77098"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "414987",
-      "date": "1574084361",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Элвин и бурундуки 2",
-        "orig": "Alvin and the Chipmunks: The Squeakquel",
-        "alter": "",
-        "year": "2009",
-        "country": "США",
-        "director": "Бетти Томас",
-        "genre": "мультфильм,комедия,фэнтези,семейный",
-        "actors": "Закари Ливай, Дэвид Кросс, Джейсон Ли, Джастин Лонг, Мэттью Грей Гублер, Джесси МакКартни, Эми Полер, Анна Фэрис, Кристина Эпплгейт, Уэнди Мэлик",
-        "description": "Три веселых бурундука Элвин, Саймон и Теодор поступают в школу, где их ждут новые приключения. Им придется столкнуться с множеством преград со стороны одноклассников. Но самое главное - их ожидает соперничество с новой музыкальной командой, состоящей из девочек-бурундуков, которое впоследствии перерастет в большую дружбу.",
-        "slogan": "The Boys are back in town... and they have competition",
-        "premiere": "11 декабря 2009",
-        "age": "6",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_414987.jpg",
-        "rating": {
-          "rating_kp": "5.663",
-          "vote_num_kp": "44549",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "43898"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "502036",
-      "date": "1574084308",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Элвин и бурундуки 3",
-        "orig": "Alvin and the Chipmunks: Chipwrecked",
-        "alter": "",
-        "year": "2011",
-        "country": "США",
-        "director": "Майк Митчелл",
-        "genre": "мультфильм,комедия,фэнтези,приключения,семейный",
-        "actors": "Джейсон Ли, Дэвид Кросс, Дженни Слейт, Джастин Лонг, Мэттью Грей Гублер, Джесси МакКартни, Эми Полер, Анна Фэрис, Кристина Эпплгейт, Алан Тьюдик",
-        "description": "Приключения троицы непоседливых братьев-бурундуков продолжаются! Элвин, Саймон и Теодор, а также их подруги бурундушки, просто не могут оставаться в стороне от различного рода неприятностей, сулящих им новые увлекательные приключения. Что на этот раз уготовила судьба нашим героям, и как они выпутаются из очередной передряги - вот в чём вопрос.",
-        "slogan": "Полундра!",
-        "premiere": "14 декабря 2011",
-        "age": "0",
-        "time": "5040",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_502036.jpg",
-        "rating": {
-          "rating_kp": "5.285",
-          "vote_num_kp": "31058",
-          "rating_imdb": "4.3",
-          "vote_num_imdb": "31576"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "6898",
-      "date": "1574076265",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мышиная охота",
-        "orig": "Mousehunt",
-        "alter": "",
-        "year": "1997",
-        "country": "США",
-        "director": "Гор Вербински",
-        "genre": "комедия,семейный",
-        "actors": "Нэйтан Лейн, Ли Эванс, Викки Льюис, Мори Чайкин, Эрик Кристмас, Майкл Джитер, Кристофер Уокен, Дебра Кристофферсон, Камилла Сёэберг, Йен Эберкромби",
-        "description": "Братья Ларс и Эрни Шмунц не придают особого значения унаследованному ими старому полуразрушенному особняку до тех пор, пока они не узнают, что их ветхая недвижимость стоит миллионы. Но есть одна проблема.\r\n\r\nЧтобы продать дом, братья должны избавиться от его единственного и упрямого обитателя - маленькой, но очень цепкой мыши. То, что поначалу кажется детской игрой, становится настоящей грандиозной битвой.",
-        "slogan": "You don't need to be big to be a hero",
-        "premiere": "19 декабря 1997",
-        "age": "12",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6898.jpg",
-        "rating": {
-          "rating_kp": "7.606",
-          "vote_num_kp": "68622",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "51732"
         }
       }
     }

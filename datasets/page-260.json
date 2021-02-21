@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1088335",
+      "date": "1582100165",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Мальчики все починят",
+        "orig": "The Fix It Boys",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Mike Dornbirer",
+        "genre": "семейный",
+        "actors": "Ethan Schmitz, Brock Baker, Kailey Vaughn, Jonas Risner, Gabriel Inman, Reese Dornbirer",
+        "description": "Бен и Крикет могут отремонтировать почти что угодно, их сумасшедшие выходки - это рассказы о костре. Мальчики в тупике, и пока не узнают, про украденное жемчужное ожерелье которое им нужно. Могут ли они поймать вора и найти жемчужину ?",
+        "slogan": "They're already on the case!",
+        "premiere": "3 апреля 2017",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1088335.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "19",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "41"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1088228",
+      "date": "1582100164",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Спокойной ночи, Шарлин",
+        "orig": "Goodnight, Charlene",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Chris Zuhdi",
+        "genre": "криминал",
+        "actors": "Карл Бэйли, Дэниэл Росс, Ларри Дотсон, Marissa Woolf, Chris Zuhdi, Хьюго Кристиан, Chris Messersmith, Вернон Ривз, Melanie San Millan",
+        "description": "Чарли Поттер - обыкновенный механик из маленького американского городка. Его жизнь шла своим чередом, пока ему не пришлось вступить в схватку с собственной женой и её любовником. Чтобы выжить, ему приходится идти на любые уловки.",
+        "slogan": "the law's a bad enemy to make",
+        "premiere": "19 декабря 2017",
+        "age": "0",
+        "time": "0",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjA0ODVkZjctZDUxYi00OTQ3LTkwMTctZmE4MGE5ZjkwOWFmXkEyXkFqcGdeQXVyMzMwMjI2NA@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1088104",
+      "date": "1582100161",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Горсть свинца",
+        "orig": "A Fistful of Lead",
+        "alter": "",
+        "year": "2018",
+        "country": "Великобритания",
+        "director": "Марк Прайс",
+        "genre": "вестерн",
+        "actors": "Джеймс Грум, Батч Бернард, Дункан Кэйси, Крис Роджерс, Кейтлин Риордан, Эмили Эндрюс, Джордан Каннер, Филипп Дегуара, Маркус Шейкшефф, Кристиан Паттерсон",
+        "description": "Главными героями &quot;Горсти свинца&quot; являются четверо грабителей, которые решили обчистить банк города золотоискателей. Операция прошла успешно, но за ними по пятам идет шериф, который решительно настроен поймать преступников, посадить их за решетку и вернуть украденное на место. Становится очевидным, что грабителей предал  кто-то «своих» …",
+        "slogan": "Time to pay for your sins",
+        "premiere": "4 марта 2019",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmU1YmQzMmItNGRmMS00NzEyLWJjNjctZDgxY2VhNjM2YTQyXkEyXkFqcGdeQXVyNzk0NjM4Njk@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "44",
+          "rating_imdb": "3.7",
+          "vote_num_imdb": "176"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1088097",
+      "date": "1582100159",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "На пуантах",
+        "orig": "On Pointe",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Tati Vogt",
+        "genre": "драма",
+        "actors": "Мишель Й. Аллен, Эшер Энджел, Jack Beckham, Walter Belcher, Кейтлин Блэк, Daniel Blunck, Genevieve Carlson, Alicen Carter, Tiffany Coleman, Juliet Doherty",
+        "description": "Пейдж страстно желает стать балериной, но сталкивается с трудностями при подготовке к важным просмотрам в известных балетных труппах, поскольку ее мать не верит в ее перспективы.",
+        "slogan": "",
+        "premiere": "15 апреля 2018",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1088097.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "20",
+          "rating_imdb": "4.1",
+          "vote_num_imdb": "259"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1087765",
       "date": "1582100157",
       "camrip": "0",
@@ -658,10 +798,10 @@
         "time": "7140",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1083500.jpg",
         "rating": {
-          "rating_kp": "5.73",
-          "vote_num_kp": "447",
+          "rating_kp": "5.735",
+          "vote_num_kp": "448",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "3661"
+          "vote_num_imdb": "3651"
         }
       }
     },
@@ -1045,8 +1185,8 @@
         "rating": {
           "rating_kp": "0",
           "vote_num_kp": "73",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "44"
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "42"
         }
       }
     },
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "8",
           "rating_imdb": "5",
           "vote_num_imdb": "248"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1077970",
-      "date": "1582100053",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Ману",
-        "orig": "Manu",
-        "alter": "",
-        "year": "2018",
-        "country": "Индия",
-        "director": "Phanindra Narsetti",
-        "genre": "триллер,мелодрама,детектив",
-        "actors": "Raja Goutham, Aberaam Varma, Ravi Teja, Чандини Човдари, Mohan Bhagath, Bomma Sridhar, Harikiran Gupta, John Kottoly, Darbha Appaji Ambarisha, Bindu Chandramouli",
-        "description": "Фотограф Нила и художник Ману имеют нечто общее - их отношения являются единственной позитивной вещью в их жизни, дающей им надежду на будущее. Но у судьбы на них есть другие планы.",
-        "slogan": "",
-        "premiere": "6 сентября 2018",
-        "age": "0",
-        "time": "10800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1077970.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "11",
-          "rating_imdb": "7.9",
-          "vote_num_imdb": "972"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1077933",
-      "date": "1582100052",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Знатные времена",
-        "orig": "Herrliche Zeiten",
-        "alter": "",
-        "year": "2018",
-        "country": "Германия",
-        "director": "Оскар Рёлер",
-        "genre": "комедия,драма",
-        "actors": "Оливер Мазуччи, Катя Риман, Самуэль Финци, Лизе Ферин, Аслан Аслан, Kemal Aydin, Александр Байер, Маргарита Бройх, Kazim Demirbas, Yasin El Harrouk",
-        "description": "Богатая семейная пара ищет домохозяйку. В шутку они указывают в объявлении, что им требуется раб. Это приводит к неожиданным последствиям.",
-        "slogan": "",
-        "premiere": "3 мая 2018",
-        "age": "0",
-        "time": "6600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1077933.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "64",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "470"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1077678",
-      "date": "1582100049",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Панк Фу Зомби",
-        "orig": "Punk Fu Zombie",
-        "alter": "",
-        "year": "2017",
-        "country": "Канада",
-        "director": "Gabriel Claveau",
-        "genre": "комедия,ужасы",
-        "actors": "Stéphane Messier, Xavier Dumontier, Tommy Gaudet, Caroline Dansereau-Loiselle, Jonathan Simon, Luke Doucet, Raoul Castonguay, Charles-André Jacques, Christian Charbonneau, Mariève Cazabon",
-        "description": "В тот самый момент, когда мятежный Квебек наконец-то добивается независимости от правительства Канады, на него обрушивается неизвестно откуда взявшийся зомби-апокалипсис. Долгие годы выжившие пытаются справится с этой напастью, и им остается уповать лишь на пророчество, согласно которому появится человек, который сможет побороть дьявольское проклятие и справиться с зомби. Вот только по прихоти судьбы избранным оказывается заядлый игрок в компьютерные игры.",
-        "slogan": "",
-        "premiere": "18 июля 2017",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1077678.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "30",
-          "rating_imdb": "5",
-          "vote_num_imdb": "38"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1077497",
-      "date": "1582100047",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Перекресток: раз, два, три — лови!",
-        "orig": "One Two Jaga",
-        "alter": "",
-        "year": "2018",
-        "country": "Малайзия",
-        "director": "Намрон",
-        "genre": "драма,криминал",
-        "actors": "Zahiril Adzim, Арио Баю, Rosdeen Suboh, Asmara Abigail, Amerul Affendi, Чю Кин Ва, Тимоти Мабалот, Iedil Putra, Алонг Айзенди, Азман Хассан",
-        "description": "В трущобах Малайзии полных нелегальных иммигрантов из Индонезии полно преступлений, коррупции и продажных копов. И расстояние от сумы до тюрьмы - всего в один звонок. Здесь, все должны с самого детства решать, за кого они будут играть, за копов или за бандитов, но в итоге... есть ли между ними разница?",
-        "slogan": "",
-        "premiere": "20 апреля 2018",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1077497.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "12",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "556"
         }
       }
     }

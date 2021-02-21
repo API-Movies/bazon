@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "629863",
+      "date": "1575504472",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Бессонная ночь",
+        "orig": "Sleepless",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Баран бо Одар",
+        "genre": "боевик,триллер",
+        "actors": "Мишель Монахэн, Гэбриэл Юнион, Дермот Малруни, Джейми Фокс, Скут МакНэри, Дэвид Харбор, Ти-Ай, Вероника МакКласки, Октавиус Дж. Джонсон, Тим Коннолли",
+        "description": "Коп со связями в преступном мире устраивает облаву в ночном клубе в поисках своего похищенного сына.",
+        "slogan": "Don't judge a cop by his cover",
+        "premiere": "12 января 2017",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_629863.jpg",
+        "rating": {
+          "rating_kp": "5.606",
+          "vote_num_kp": "2192",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "29982"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "586708",
+      "date": "1575504462",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ужас Амитивилля: Пробуждение",
+        "orig": "Amityville: The Awakening",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Франк Халфун",
+        "genre": "ужасы,триллер",
+        "actors": "Дженнифер Джейсон Ли, Белла Торн, Камерон Монахэн, Томас Манн, Дженнифер Моррисон, Кертвуд Смит, Маккенна Грейс, Тейлор Спрейтлер, Дэн Мартино, Брайан Брейтер",
+        "description": "Мать-одиночка переезжает с тремя детьми в загадочный дом, даже не подозревая о кровавом прошлом их нового жилища. У каждого дома есть история. У этого - страшная тайна.",
+        "slogan": "У каждого дома есть история. У этого – страшная тайна",
+        "premiere": "20 июля 2017",
+        "age": "16",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_586708.jpg",
+        "rating": {
+          "rating_kp": "5.097",
+          "vote_num_kp": "13503",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "12944"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "572230",
+      "date": "1575504445",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Снеговик",
+        "orig": "The Snowman",
+        "alter": "",
+        "year": "2017",
+        "country": "Великобритания, США, Швеция",
+        "director": "Томас Альфредсон",
+        "genre": "триллер,детектив,драма,криминал",
+        "actors": "Майкл Фассбендер, Ребекка Фергюсон, Шарлотта Генсбур, Йонас Карлссон, Майкл Йэтс, Ронан Вайберт, Дж.К. Симмонс, Вэл Килмер, Давид Денсик, Тоби Джонс",
+        "description": "В течение многих лет в день, когда выпадает первый снег, бесследно исчезают замужние женщины. Сложить все части загадочного пазла под силу только знаменитому детективу. Он потерял покой и сон, ведь время следующего снегопада неумолимо приближается.",
+        "slogan": "Скоро выпадет первый снег и начнется опасная игра",
+        "premiere": "7 октября 2017",
+        "age": "18",
+        "time": "7140",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_572230.jpg",
+        "rating": {
+          "rating_kp": "5.609",
+          "vote_num_kp": "46597",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "58794"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "569071",
+      "date": "1575504443",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Жена смотрителя зоопарка",
+        "orig": "The Zookeeper's Wife",
+        "alter": "",
+        "year": "2017",
+        "country": "Чехия, Великобритания, США",
+        "director": "Ники Каро",
+        "genre": "история,драма,военный",
+        "actors": "Джессика Честейн, Йохан Хелденберг, Даниэль Брюль, Тимоти Редфорд, Эфрат Дор, Иддо Голдберг, Шира Хаас, Майкл МакЭлхаттон, Вэл Малоку, Марта Иссова",
+        "description": "Реальная история отважного подвига смотрителей Варшавского зоопарка Яна и Антонины Жабинских, давших убежище и сохранивших жизнь более, чем 300 евреям во время II Мировой войны. Ежедневный риск и опасность осложняются для Жабинских взаимоотношениями с бывшим другом семьи, а ныне высокопоставленным нацистским чиновником Лутцем Хеком, влюбленным в Антонину.",
+        "slogan": "Вместо страха – надежда, вместо отчаяния – жизнь",
+        "premiere": "7 марта 2017",
+        "age": "16",
+        "time": "7620",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_569071.jpg",
+        "rating": {
+          "rating_kp": "7.144",
+          "vote_num_kp": "30982",
+          "rating_imdb": "7",
+          "vote_num_imdb": "38807"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "569055",
       "date": "1575504442",
       "camrip": "0",
@@ -29,7 +169,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_569055.jpg",
         "rating": {
           "rating_kp": "5.212",
-          "vote_num_kp": "16041",
+          "vote_num_kp": "16051",
           "rating_imdb": "5.3",
           "vote_num_imdb": "19120"
         }
@@ -63,8 +203,8 @@
         "time": "5940",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_556944.jpg",
         "rating": {
-          "rating_kp": "6.306",
-          "vote_num_kp": "50855",
+          "rating_kp": "6.307",
+          "vote_num_kp": "50873",
           "rating_imdb": "6.5",
           "vote_num_imdb": "46466"
         }
@@ -99,7 +239,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1199801.jpg",
         "rating": {
           "rating_kp": "4.259",
-          "vote_num_kp": "1958",
+          "vote_num_kp": "1960",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -203,8 +343,8 @@
         "time": "6120",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1140681.jpg",
         "rating": {
-          "rating_kp": "8.449",
-          "vote_num_kp": "1856",
+          "rating_kp": "8.451",
+          "vote_num_kp": "1879",
           "rating_imdb": "8.2",
           "vote_num_imdb": "1030"
         }
@@ -239,7 +379,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1140394.jpg",
         "rating": {
           "rating_kp": "5.122",
-          "vote_num_kp": "11963",
+          "vote_num_kp": "11967",
           "rating_imdb": "5",
           "vote_num_imdb": "469"
         }
@@ -276,7 +416,7 @@
           "rating_kp": "7.14",
           "vote_num_kp": "19652",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "42257"
+          "vote_num_imdb": "42305"
         }
       }
     },
@@ -659,7 +799,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1008357.jpg",
         "rating": {
           "rating_kp": "5.956",
-          "vote_num_kp": "3393",
+          "vote_num_kp": "3394",
           "rating_imdb": "6.2",
           "vote_num_imdb": "7943"
         }
@@ -834,7 +974,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_989837.jpg",
         "rating": {
           "rating_kp": "7.041",
-          "vote_num_kp": "4430",
+          "vote_num_kp": "4432",
           "rating_imdb": "7",
           "vote_num_imdb": "3159"
         }
@@ -939,7 +1079,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_984366.jpg",
         "rating": {
           "rating_kp": "5.865",
-          "vote_num_kp": "3138",
+          "vote_num_kp": "3141",
           "rating_imdb": "4.8",
           "vote_num_imdb": "44"
         }
@@ -1079,7 +1219,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_976520.jpg",
         "rating": {
           "rating_kp": "6.521",
-          "vote_num_kp": "8110",
+          "vote_num_kp": "8115",
           "rating_imdb": "6.5",
           "vote_num_imdb": "43190"
         }
@@ -1359,7 +1499,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_898875.jpg",
         "rating": {
           "rating_kp": "4.857",
-          "vote_num_kp": "2775",
+          "vote_num_kp": "2776",
           "rating_imdb": "5.2",
           "vote_num_imdb": "7374"
         }
@@ -1463,8 +1603,8 @@
         "time": "5700",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_800300.jpg",
         "rating": {
-          "rating_kp": "5.611",
-          "vote_num_kp": "7449",
+          "rating_kp": "5.612",
+          "vote_num_kp": "7450",
           "rating_imdb": "5.8",
           "vote_num_imdb": "47000"
         }
@@ -1498,8 +1638,8 @@
         "time": "7200",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_789174.jpg",
         "rating": {
-          "rating_kp": "6.744",
-          "vote_num_kp": "19865",
+          "rating_kp": "6.745",
+          "vote_num_kp": "19871",
           "rating_imdb": "6.9",
           "vote_num_imdb": "143071"
         }
@@ -1533,8 +1673,8 @@
         "time": "6720",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_743463.jpg",
         "rating": {
-          "rating_kp": "5.899",
-          "vote_num_kp": "2658",
+          "rating_kp": "5.9",
+          "vote_num_kp": "2657",
           "rating_imdb": "6.4",
           "vote_num_imdb": "5809"
         }
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "12743",
           "rating_imdb": "7.1",
           "vote_num_imdb": "1357"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "630222",
-      "date": "1575500324",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Истерия",
-        "orig": "Delirium",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Дэннис Илиадис",
-        "genre": "ужасы,триллер",
-        "actors": "Тофер Грейс, Патриша Кларксон, Дженезис Родригез, Каллэн Мулвей, Робин Томас, Гарри Гронер, Коуди Салливан, Дэйзи Маккрэкин, Хорхе Пальо, Браден Фицджералд",
-        "description": "Бывший пациент клиники для душевнобольных возвращается в роскошный особняк, доставшийся ему после смерти родителей. В этом доме прошло все его детство, и с ним связано много ярких воспоминаний. Но со временем в доме начинают происходить странные и пугающие вещи. Или это все - в его голове?",
-        "slogan": "Всё в твоей голове",
-        "premiere": "10 мая 2018",
-        "age": "18",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_630222.jpg",
-        "rating": {
-          "rating_kp": "5.735",
-          "vote_num_kp": "12276",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "6678"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "542446",
-      "date": "1575499586",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Бегство рогатых викингов",
-        "orig": "Бегство рогатых викингов",
-        "alter": "",
-        "year": "2018",
-        "country": "Россия",
-        "director": "Илья Белостоцкий",
-        "genre": "комедия,детский,приключения,семейный",
-        "actors": "Евгений Олещук, Илья Плясухин, Даша Чистякова, Мирослав Быков, Никита Смирнов, Никита Липунов, Алексей Ломакин, Алина Бабушкина, Артём Кожевников, Андрей Лауфер",
-        "description": "Ещё один день, и Джонни Воробьёву исполнится девять лет. Тогда он наконец-то освободится от своего летнего «рабства» в летнем лагере под присмотром несносной старшей сестры и сможет спокойно проводить каникулы с своими друзьями. Но Джонни даёт благородное обещание остановить зловредного Тольку Самохина и его банду рогатых викингов и прекратить их набеги на ребятишек по всей округе.",
-        "slogan": "Лето зовёт на подвиги!",
-        "premiere": "13 июня 2019",
-        "age": "0",
-        "time": "3900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_542446.jpg",
-        "rating": {
-          "rating_kp": "5.768",
-          "vote_num_kp": "1736",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1151301",
-      "date": "1575499297",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Обратная тяга 2",
-        "orig": "Backdraft 2",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Гонсало Лопес-Гальего",
-        "genre": "боевик,драма,криминал",
-        "actors": "Дональд Сазерленд, Уильям Болдуин, Джо Андерсон, Патрик Уолш МакБрайд, Аластер Маккензи, Emily Barber, Марк Арнольд, Доминик Мафэм, Алиша Бэйли, Росс О’Хеннесси",
-        "description": "Шон, пожарный-следователь из Чикаго, расследует ряд поджогов в которых были жертвы. Он понимает огонь, разговаривает с огнем, он помешан на своей работе, что отражается на отношениях с людьми не в лучшую сторону.",
-        "slogan": "",
-        "premiere": "14 мая 2019",
-        "age": "0",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1151301.jpg",
-        "rating": {
-          "rating_kp": "5.253",
-          "vote_num_kp": "374",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "1753"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1088117",
-      "date": "1575499155",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Рыцарь теней: Между инь и ян",
-        "orig": "Shen tan pu song ling zhi lan re xian zong",
-        "alter": "",
-        "year": "2019",
-        "country": "Китай",
-        "director": "Янь Цзя",
-        "genre": "комедия,боевик,фэнтези",
-        "actors": "Джеки Чан, Элейн Чжун, Этан Жуань, Линь Пэн, Остин Линь, Цяо Шань, Чарльз Луу, Лэнс Луу, Марк Луу, Пань Чанцзян",
-        "description": "Писатель и охотник на демонов Пу Сунлин расследует исчезновение девочки и вторжение злобных монстров из параллельного измерения.",
-        "slogan": "",
-        "premiere": "5 февраля 2019",
-        "age": "0",
-        "time": "6480",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1088117.jpg",
-        "rating": {
-          "rating_kp": "5.783",
-          "vote_num_kp": "1129",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "1251"
         }
       }
     }

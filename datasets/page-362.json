@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "949212",
+      "date": "1579524120",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Глаза моей матери",
+        "orig": "The Eyes of My Mother",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Николас Песке",
+        "genre": "ужасы,драма",
+        "actors": "Кика Магалхэс, Paul Nazak, Дайан Агостини, Оливия Бонд, Уилл Брилл, Joey Curtis-Green, Флора Диаз, Tahir Shah, Клара Вонг",
+        "description": "Маленькая Франциска жила с мамой и папой в уединённом доме в сельской местности. Всё было хорошо и спокойно, пока однажды с их семьёй не произошла трагедия, после чего девушка выросла немного странной.",
+        "slogan": "",
+        "premiere": "22 января 2016",
+        "age": "0",
+        "time": "4560",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_949212.jpg",
+        "rating": {
+          "rating_kp": "5.686",
+          "vote_num_kp": "1290",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "11417"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "948622",
+      "date": "1579524102",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Resolution Song",
+        "orig": "Resolution Song",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Антонио Джеймс",
+        "genre": "драма,семейный",
+        "actors": "Торрей Харт, Элла Джойс, Лестер Спейт, Шон МакНэбб, Кеннеди Лиа Слокам, Джон Дж. Йорк, Седрик Л. Уильямс, Shiah Luna, Brittney Ayona Clemons, Брайан Кэрролл",
+        "description": "В семья парня, которую разорвала трагедия, начинает восстанавливаться доверие, и исцеление приходит к ним через музыку.",
+        "slogan": "",
+        "premiere": "6 февраля 2018",
+        "age": "0",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_948622.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "11",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "118"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "947178",
+      "date": "1579524077",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Водолей",
+        "orig": "Aquarius",
+        "alter": "",
+        "year": "2016",
+        "country": "Бразилия, Франция",
+        "director": "Клебер Мендонса Фильо",
+        "genre": "драма",
+        "actors": "Соня Брага, Маевэ Жинкингз, Ирандир Сантус, Умберто Карран, Zoraide Coleto, Карла Рибаш, Фернандо Тейшейра, Буда Лира, Paula De Renor, Barbara Colen",
+        "description": "Портрет несгибаемой и гордой женщины - стареющей вдовы Клары, чья судьба прочно связана с домом, откуда теперь ее пытаются выдворить. Любезность и щедрость меркантильного скупщика сменяется угрозами и откровенными кознями, но на счету у Клары есть победы и в более безнадежных войнах.",
+        "slogan": "",
+        "premiere": "17 мая 2016",
+        "age": "18",
+        "time": "8760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_947178.jpg",
+        "rating": {
+          "rating_kp": "6.671",
+          "vote_num_kp": "473",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "18294"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "946856",
+      "date": "1579524063",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Чувак",
+        "orig": "Dude",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Оливия Милч",
+        "genre": "комедия,драма",
+        "actors": "Люси Хейл, Кэтрин Прескотт, Александра Шипп, Аквафина, Алекс Вулф, Брук Смит, Джерри МакКиннон, Ронен Рубинштейн, Сатья Баба, Сидни Лукас",
+        "description": "Юные девушки осваиваются во взрослом мире после окончания старших классов.",
+        "slogan": "",
+        "premiere": "20 апреля 2018",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_946856.jpg",
+        "rating": {
+          "rating_kp": "5.149",
+          "vote_num_kp": "608",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "6316"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "945215",
       "date": "1579524047",
       "camrip": "0",
@@ -239,7 +379,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_944232.jpg",
         "rating": {
           "rating_kp": "4.237",
-          "vote_num_kp": "501",
+          "vote_num_kp": "502",
           "rating_imdb": "4",
           "vote_num_imdb": "3103"
         }
@@ -553,8 +693,8 @@
         "time": "4080",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_938742.jpg",
         "rating": {
-          "rating_kp": "7.632",
-          "vote_num_kp": "1482",
+          "rating_kp": "7.642",
+          "vote_num_kp": "1485",
           "rating_imdb": "7.8",
           "vote_num_imdb": "1817"
         }
@@ -868,8 +1008,8 @@
         "time": "5100",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_934220.jpg",
         "rating": {
-          "rating_kp": "6.205",
-          "vote_num_kp": "10521",
+          "rating_kp": "6.207",
+          "vote_num_kp": "10520",
           "rating_imdb": "4.2",
           "vote_num_imdb": "67"
         }
@@ -903,8 +1043,8 @@
         "time": "5460",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_934182.jpg",
         "rating": {
-          "rating_kp": "6.104",
-          "vote_num_kp": "5295",
+          "rating_kp": "6.103",
+          "vote_num_kp": "5298",
           "rating_imdb": "6.4",
           "vote_num_imdb": "1081"
         }
@@ -1464,7 +1604,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_927822.jpg",
         "rating": {
           "rating_kp": "4.867",
-          "vote_num_kp": "5985",
+          "vote_num_kp": "5990",
           "rating_imdb": "5.1",
           "vote_num_imdb": "499"
         }
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "3676",
           "rating_imdb": 0,
           "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "923490",
-      "date": "1579523367",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Лабиринты любви",
-        "orig": "Лабиринты любви",
-        "alter": "",
-        "year": "2015",
-        "country": "Россия, Болгария",
-        "director": "Владимир Штерянов",
-        "genre": "мелодрама",
-        "actors": "Сергей Бадюк, Яна Маринова, Александра Маринова, Ралика Паскалева, Егор Тимцуник, Антони Пенев, Боряна Братоева, Григорий Калинин, Мария Насырова, Ольга Михайлова",
-        "description": "В современном мире нас связывают тысячи компьютеров, миллионы километров проводов, сотни Wi-Fi-устройств и сотовых башен. Мы можем поздравить кого угодно с днем рождения по телефону, отправить фотографию любимого по электронной почте, мгновенно увидеть друг друга в скайпе и пообщаться с сотнями друзей в социальной сети. Кажется, что разнообразные средства связи могут соединить нас моментально - однако они не дают нам возможности посмотреть друг другу в глаза.",
-        "slogan": "",
-        "premiere": "9 февраля 2017",
-        "age": "12",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_923490.jpg",
-        "rating": {
-          "rating_kp": "4.427",
-          "vote_num_kp": "230",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "20"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "922702",
-      "date": "1579523347",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Фестиваль \"Эксоэксо\"",
-        "orig": "XOXO",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Кристофер Луи",
-        "genre": "драма",
-        "actors": "Сара Хайланд, Грэм Филлипс, Бретт ДельБуоно, Хейли Киёко, Колин Вуделл, Крис Д’Елия, Иэн Энтони Дэйл, Райан Хансен, ЛаМоника Гаррет, Брианна Хоуи",
-        "description": "Жизни шестерых людей пересекаются одной романтичной и бешеной ночью.",
-        "slogan": "Eat. Sleep. Rave. Repeat",
-        "premiere": "26 августа 2016",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_922702.jpg",
-        "rating": {
-          "rating_kp": "5.667",
-          "vote_num_kp": "617",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "6626"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "922174",
-      "date": "1579523324",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мертвым повезло",
-        "orig": "Мертвым повезло",
-        "alter": "",
-        "year": "2017",
-        "country": "Россия",
-        "director": "Вадим Валиуллин",
-        "genre": "комедия,ужасы",
-        "actors": "Дмитрий Богдан, Алексей Дербунович, Андрей Поведский, Валерий Гриньков, Александрина Баландина, Антон Болдырев, Полина Шабаева, Тамара Адамова, Владислав Арсланов, Николай Рихтер",
-        "description": "Молодой парень оказывается втянутым в криминальную банду, в которой состоит его старший брат. Парень вынужден пойти на свое первое «настоящее дело» вместе с матерыми уголовниками, чтобы доказать свою профпригодность.\r\n\r\nПеред бандой стоит задача выполнить заказное убийство и обставить все дело, как очередной всплеск активности серийного маньяка, который уже несколько месяцев держит в страхе весь город. \r\n\r\nНо на деле банда уголовников сталкивается с настоящим маньяком, который внимательно наблюдал за убийцами-подражателями, и его не устроило качество их работы. Теперь маньяк открывает охоту на убийц, чтобы показать ценой их жизней, как работает настоящий профи.",
-        "slogan": "На каждого хитрого убийцу всегда есть маньяк с большим и твердым мачете...",
-        "premiere": "6 января 2020",
-        "age": "18",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_922174.jpg",
-        "rating": {
-          "rating_kp": "5.697",
-          "vote_num_kp": "1874",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "84"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "921601",
-      "date": "1579523305",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Средний человек",
-        "orig": "Middle Man",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Нед Краули",
-        "genre": "комедия,триллер,драма,криминал",
-        "actors": "Джим О’Хейр, Эндрю Дж. Уэст, Джош МакДермитт, Энн Дудек, Трейси Уолтер, Роберт Катрини, Barbo K. Adler, Жослин Андерсон, Chairman Barnes, T'Shaun Barrett",
-        "description": "По дороге в Вегас на пробы к легендарному Монте Гаю унылый комик подбирает подозрительного пассажира. Сам того не ведая, комик вовлекается в кровавую резню в маленьком городке посреди пустыни. Однако эта ситуация обернётся для него совершенно неожиданными последствиями.",
-        "slogan": "",
-        "premiere": "10 июня 2016",
-        "age": "0",
-        "time": "6240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_921601.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "120",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "775"
         }
       }
     }

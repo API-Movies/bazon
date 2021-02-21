@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "450725",
+      "date": "1577543611",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Смерть на похоронах",
+        "orig": "Death at a Funeral",
+        "alter": "",
+        "year": "2010",
+        "country": "США",
+        "director": "Нил ЛаБут",
+        "genre": "комедия",
+        "actors": "Крис Рок, Мартин Лоуренс, Трэйси Морган, Коламбус Шорт, Питер Динклэйдж, Рон Гласс, Реджина Холл, Джеймс Марсден, Люк Уилсон, Кит Дэвид",
+        "description": "Похороны патриарха семейства приводят к серии семейных скандалов, скелеты вываливаются из шкафов и возникает подозрение, что дело не обошлось без убийства.",
+        "slogan": "This is one sad family",
+        "premiere": "12 апреля 2010",
+        "age": "16",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_450725.jpg",
+        "rating": {
+          "rating_kp": "5.976",
+          "vote_num_kp": "13264",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "47040"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "450649",
+      "date": "1577543608",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Падение Джека",
+        "orig": "Jack Falls",
+        "alter": "",
+        "year": "2011",
+        "country": "Великобритания",
+        "director": "Пол Тантер, Александр Уильямс",
+        "genre": "криминал",
+        "actors": "Тамер Хассан, Саймон Филлипс, Оливия Холлинен, Алан Форд, Декстер Флетчер, Адам Дикон, Джейсон Флеминг, Нил Мэскелл, Даг Брэдли, Зак Гэллиган",
+        "description": "Бывший полицейский под прикрытием Джек Адлет возвращается в Лондон в поисках тех, кто попытался убить его в Амстердаме.",
+        "slogan": "I know a cop called Jack Adleth. I know someone tried to kill him. I know everyone had a reason to",
+        "premiere": "21 марта 2011",
+        "age": "18",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_450649.jpg",
+        "rating": {
+          "rating_kp": "5.135",
+          "vote_num_kp": "166",
+          "rating_imdb": "4.2",
+          "vote_num_imdb": "1105"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "450612",
+      "date": "1577543605",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Чрево",
+        "orig": "Womb",
+        "alter": "",
+        "year": "2010",
+        "country": "Германия, Венгрия, Франция",
+        "director": "Бенедек Флигауф",
+        "genre": "фантастика,мелодрама,драма",
+        "actors": "Ева Грин, Мэтт Смит, Лесли Мэнвилл, Питер Уайт, Иштван Ленарт, Ханна Мюррэй, Руби О. Фи, Тристан Кристофер, Джесси Хоффманн, Наталия Тена",
+        "description": "Женщина клонирует своего умершего возлюбленного и воспитывает его с младенчества до юношества, постоянно испытывая сомнения в том, верное ли решение она приняла.",
+        "slogan": "Возможна ли вечная любовь в фантастическом мире?",
+        "premiere": "15 июля 2010",
+        "age": "18",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_450612.jpg",
+        "rating": {
+          "rating_kp": "6.663",
+          "vote_num_kp": "22236",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "13467"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "450470",
+      "date": "1577543598",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Страшно красив",
+        "orig": "Beastly",
+        "alter": "",
+        "year": "2011",
+        "country": "США",
+        "director": "Даниел Барнз",
+        "genre": "фэнтези,мелодрама,драма",
+        "actors": "Алекс Петтифер, Ванесса Энн Хадженс, Мэри-Кейт Олсен, Нил Патрик Харрис, Лиза Гэй Хэмилтон, Питер Краузе, Джастин Брэдли, Дакота Джонсон, Эрик Кнудсен, Карл Грабошас",
+        "description": "Современный Манхэттен - мир гламура и роскоши. Кайл - король этого мира. Он красив и богат. Но когда мир вокруг него изменится, у него останется единственный шанс, чтобы вернуться назад...",
+        "slogan": "Кто он на самом деле...",
+        "premiere": "3 марта 2011",
+        "age": "16",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_450470.jpg",
+        "rating": {
+          "rating_kp": "6.144",
+          "vote_num_kp": "63837",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "75527"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "450357",
       "date": "1577543597",
       "camrip": "0",
@@ -29,7 +169,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_450357.jpg",
         "rating": {
           "rating_kp": "6.9",
-          "vote_num_kp": "4363",
+          "vote_num_kp": "4362",
           "rating_imdb": "6.9",
           "vote_num_imdb": "6656"
         }
@@ -273,8 +413,8 @@
         "time": "7140",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_447348.jpg",
         "rating": {
-          "rating_kp": "7.175",
-          "vote_num_kp": "1763",
+          "rating_kp": "7.176",
+          "vote_num_kp": "1764",
           "rating_imdb": "8",
           "vote_num_imdb": "45990"
         }
@@ -623,8 +763,8 @@
         "time": "5640",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_440365.jpg",
         "rating": {
-          "rating_kp": "6.575",
-          "vote_num_kp": "6423",
+          "rating_kp": "6.576",
+          "vote_num_kp": "6422",
           "rating_imdb": "6.2",
           "vote_num_imdb": "43023"
         }
@@ -659,7 +799,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_438890.jpg",
         "rating": {
           "rating_kp": "6.865",
-          "vote_num_kp": "46108",
+          "vote_num_kp": "46113",
           "rating_imdb": "6.3",
           "vote_num_imdb": "69681"
         }
@@ -869,7 +1009,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_437599.jpg",
         "rating": {
           "rating_kp": "6.632",
-          "vote_num_kp": "2759",
+          "vote_num_kp": "2760",
           "rating_imdb": "6.6",
           "vote_num_imdb": "10585"
         }
@@ -1183,8 +1323,8 @@
         "time": "5400",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_432823.jpg",
         "rating": {
-          "rating_kp": "5.918",
-          "vote_num_kp": "2824",
+          "rating_kp": "5.919",
+          "vote_num_kp": "2823",
           "rating_imdb": "5.7",
           "vote_num_imdb": "11822"
         }
@@ -1464,7 +1604,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_431294.jpg",
         "rating": {
           "rating_kp": "5.77",
-          "vote_num_kp": "12350",
+          "vote_num_kp": "12351",
           "rating_imdb": "6.1",
           "vote_num_imdb": "33093"
         }
@@ -1498,8 +1638,8 @@
         "time": "7140",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_431148.jpg",
         "rating": {
-          "rating_kp": "6.922",
-          "vote_num_kp": "58478",
+          "rating_kp": "6.923",
+          "vote_num_kp": "58502",
           "rating_imdb": "7.1",
           "vote_num_imdb": "164329"
         }
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "14763",
           "rating_imdb": "7.3",
           "vote_num_imdb": "36539"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "430556",
-      "date": "1577543234",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Миссионер",
-        "orig": "Le missionnaire",
-        "alter": "",
-        "year": "2009",
-        "country": "Франция",
-        "director": "Роже Делаттр",
-        "genre": "комедия,криминал",
-        "actors": "Жан-Мари Бигар, Давид Страймайстер, Тиам Айссату, Жан Делл, Мишель Шесно, Бенжамин Фейтельсон, Жан-Жиль Барбье, Сидни Вернике, Филипп Фор, Франсуа Сьенер",
-        "description": "Марио Диккара отсидел в тюрьме семь лет и освободился. Не расплатившись по счетам с преступным миром, он просит единственного человека которому доверяет брата Патрика, найти ему тайник...",
-        "slogan": "",
-        "premiere": "29 апреля 2009",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_430556.jpg",
-        "rating": {
-          "rating_kp": "7.087",
-          "vote_num_kp": "1602",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "1421"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "430519",
-      "date": "1577543229",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Немыслимое",
-        "orig": "Unthinkable",
-        "alter": "",
-        "year": "2009",
-        "country": "США",
-        "director": "Грегор Джордан",
-        "genre": "триллер,драма,криминал",
-        "actors": "Сэмюэл Л. Джексон, Кэрри-Энн Мосс, Майкл Шин, Стивен Рут, Лора Койович, Мартин Донован, Джил Беллоуз, Винсент Лареска, Брэндон Рут, Джошуа Харто",
-        "description": "Что будет, если военнослужащий американской армии примет ислам и заложит три ядерных заряда в крупнейших городах Америки? Как заставить его выдать места закладки до подрыва? Что делать, если террорист готов ко всему, что с ним могут сделать по закону?",
-        "slogan": "На войне без правил законов нет",
-        "premiere": "26 мая 2010",
-        "age": "18",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_430519.jpg",
-        "rating": {
-          "rating_kp": "7.327",
-          "vote_num_kp": "40494",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "84005"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "429804",
-      "date": "1577543220",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Любимые",
-        "orig": "The Loved Ones",
-        "alter": "",
-        "year": "2009",
-        "country": "Австралия",
-        "director": "Шон Бирн",
-        "genre": "ужасы,триллер",
-        "actors": "Завьер Сэмюэл, Робин МакЛиви, Джон Брамптон, Ричард Уилсон, Виктория Тейн, Джессика МакНэми, Эндрю С. Гилберт, Сьюзи Догерти, Виктория Иггер, Энн Скотт-Пендлбёри",
-        "description": "Брент Митчелл отказался идти с Лолой на выпускной. Очень зря, ибо она с помощью своего папаши-психопата похищает Брента и устраивает свой собственный выпускной.",
-        "slogan": "You don't have to die to go to hell",
-        "premiere": "13 сентября 2009",
-        "age": "18",
-        "time": "5040",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_429804.jpg",
-        "rating": {
-          "rating_kp": "6.52",
-          "vote_num_kp": "6355",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "37482"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "429040",
-      "date": "1577543204",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Этим утром в Нью-Йорке",
-        "orig": "The Angriest Man in Brooklyn",
-        "alter": "",
-        "year": "2014",
-        "country": "США",
-        "director": "Фил Олден Робинсон",
-        "genre": "комедия,драма",
-        "actors": "Робин Уильямс, Мила Кунис, Питер Динклэйдж, Мелисса Лео, Хамиш Линклэйтер, Саттон Фостер, Джеймс Эрл Джонс, Ричард Кайнд, Дэниэл Рэймонт, Крис Гезерд",
-        "description": "Женщина-врач по ошибке сообщает одному вредному пациенту, что ему осталось жить полтора часа. Стремясь исправить свою адскую оплошность, она устремляется на поиски человека, который решил, пока не поздно, исправить все ошибки, совершенные им в жизни.",
-        "slogan": "Измени жизнь за 90 минут",
-        "premiere": "22 мая 2014",
-        "age": "12",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_429040.jpg",
-        "rating": {
-          "rating_kp": "6.156",
-          "vote_num_kp": "15728",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "21134"
         }
       }
     }

@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "947679",
+      "date": "1581975120",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Одноголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Внутренний демон: Солдат с того света",
+        "orig": "Daemonium: Underworld Soldier",
+        "alter": "",
+        "year": "2015",
+        "country": "Аргентина",
+        "director": "Pablo Parés",
+        "genre": "боевик,фантастика,фэнтези",
+        "actors": "Caro Angus, Dany Casco, Уолтер Корнас, Чучо Фернандес, Rodrigo Guerechit, Аманда Нара, Rocío Rodríguez Presedo, Jotar Tarruella, Хуан Диего Уэст, Майте Сумельсу",
+        "description": "Небольшой отряд решил заключить договор с силами зла, чтобы получить высшую власть над миром. Колдун, сопровождавший отряд, предупредил о правилах, которые необходимо выполнять во время встречи. Но что-то пошло не так: отряд был уничтожен, а вся сила досталась одному солдату. Солдат был проклят и позабыл всю свою прежнюю жизнь, включая свою беременную жену. Время шло, а со временем этот солдат мог потерять всю свою силу, включая собственную жизнь. У него созрел план. Но план означает конец для всего света...",
+        "slogan": "",
+        "premiere": "5 ноября 2015",
+        "age": "0",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_947679.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "34",
+          "rating_imdb": "4.1",
+          "vote_num_imdb": "664"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "947599",
+      "date": "1581975118",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Телохранитель",
+        "orig": "The Bodyguard",
+        "alter": "",
+        "year": "2016",
+        "country": "Китай",
+        "director": "Юэ Сун",
+        "genre": "боевик",
+        "actors": "Юэ Сун, Син Юй, Майкл Чан, Колин Чоу, Ли Юйфэй",
+        "description": "Улинь встаёт на тёмный путь во имя мести. Он - наследник древнего, некогда могущественного китайского клана «железные ноги». После смерти главы клана Улинь покидает деревню и приезжает в город на поиски брата. Волей случая он становится телохранителем Фэйфэй - девушки из богатой семьи, которую хотят похитить. Улиню приходится применить все свои навыки и продемонстрировать всё свое мастерство, чтобы выйти на того, кто стоит во главе заговора против города.",
+        "slogan": "",
+        "premiere": "1 апреля 2016",
+        "age": "0",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_947599.jpg",
+        "rating": {
+          "rating_kp": "5.787",
+          "vote_num_kp": "188",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "621"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "947207",
+      "date": "1581975112",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Стартап",
+        "orig": "The Startup: Accendi il tuo futuro",
+        "alter": "",
+        "year": "2017",
+        "country": "Италия",
+        "director": "Алессандро Д’Алатри",
+        "genre": "драма",
+        "actors": "Андреа Арканджели, Паола Кальяри, Матильда Джоли, Лука Ди Джованни, Matteo Leoni, Matteo Vignati, Паоло Бассегато, Гульельмо Поджи, Федериго Чеки, Лорис Лодди",
+        "description": "Маттео - обычный римский тинейджер, который после несправедливого исключения из команды пловцов решает заняться вопросом эффективного и справедливого подбора персонала и для этого создаёт социальную сеть под названием Эгомниа. Однако, скоро он понимает, что для настоящего успеха одной лишь хорошей идеи недостаточно.",
+        "slogan": "",
+        "premiere": "6 апреля 2017",
+        "age": "0",
+        "time": "0",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjE3NWQ5YmQtYThlZi00OWE1LWE2Y2MtZmFmYmMyNjJjNWMyXkEyXkFqcGdeQXVyMjQ3NzUxOTM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "56",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "173"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "947120",
+      "date": "1581975110",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "X500",
+        "orig": "X500",
+        "alter": "",
+        "year": "2016",
+        "country": "Канада, Колумбия, Мексика",
+        "director": "Хуан Андрес Аранго Гарсия",
+        "genre": "драма",
+        "actors": "Jembie Almazan, Jonathan Diaz Angulo, Bernardo Garnica Cruz",
+        "description": "Их разделяют тысячи километров. Три молодых мигранта. Они разные и непохожие люди. Однако, всем им предстоит пройти непростой путь.",
+        "slogan": "Three Outsiders. Three Countries. One True Self",
+        "premiere": "10 сентября 2016",
+        "age": "0",
+        "time": "6240",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_947120.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "21",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "210"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "947047",
       "date": "1581975105",
       "camrip": "0",
@@ -449,9 +589,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_944958.jpg",
         "rating": {
           "rating_kp": "6.838",
-          "vote_num_kp": "7234",
+          "vote_num_kp": "7236",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "52246"
+          "vote_num_imdb": "52283"
         }
       }
     },
@@ -554,7 +694,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_944810.jpg",
         "rating": {
           "rating_kp": "6.821",
-          "vote_num_kp": "521",
+          "vote_num_kp": "522",
           "rating_imdb": "6.7",
           "vote_num_imdb": "1947"
         }
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "40",
           "rating_imdb": "4.5",
           "vote_num_imdb": "1363"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "941567",
-      "date": "1581974967",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Грязный город",
-        "orig": "Filth City",
-        "alter": "",
-        "year": "2017",
-        "country": "Канада",
-        "director": "Энди Кинг",
-        "genre": "комедия,боевик,драма,криминал",
-        "actors": "Мелинда Шанкар, Пэт Торнтон, Danny Polishchuk, John 'JR', Ross, Carrie Beale, Ленно Бритос, Наташа Бромфилд, Eddie Chau, Хо Чоу, Вивиан Коллинз",
-        "description": "Мэра, который баллотируется на второй срок, ловят за курением крэка и снимают всё это на видео. Теперь городской глава готов пойти на что угодно, лишь бы запись не попала не в те руки.",
-        "slogan": "The crime rate is high. So is the mayor",
-        "premiere": "25 марта 2017",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_941567.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "28",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "520"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "941530",
-      "date": "1581974964",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Осатаневший",
-        "orig": "Bedeviled",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Абель Ван, Burlee Vang",
-        "genre": "ужасы,триллер",
-        "actors": "Саксон Шарбино, Бонни Морган, Митчелл Эдвардс, Брэндон Су Ху, Алексис Дж. Залл, Робин Коэн, Кейт Орсини, Виктори Ван Тейл, Аарон Хэндри, Мэтти Финочио",
-        "description": "Пятеро друзей ошарашены смертью подруги Никки. Девушка была жизнерадостной и никогда не болела, но вдруг умерла от сердечного приступа. На следующий день каждый из ребят получает инвайт с телефона Никки, и все скачивают и устанавливают странное приложение. Вроде бы это личный помощник, который знает ответ на любой вопрос и может даже помогать в быту, а на самом деле - злая сущность, которая хочет только одного - запугать установившего приложение до смерти.",
-        "slogan": "Evil is about to go viral",
-        "premiere": "22 октября 2016",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_941530.jpg",
-        "rating": {
-          "rating_kp": "4.766",
-          "vote_num_kp": "297",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "2962"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "941495",
-      "date": "1581974961",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Золушок",
-        "orig": "Cinderelo",
-        "alter": "",
-        "year": "2017",
-        "country": "Доминикана",
-        "director": "Бето Гомес",
-        "genre": "комедия",
-        "actors": "Уильям Леви, Хоакин Косио, Сольи Дуран, Мигель Родарте, Эва Ариас, Стефани Лириано, Оскар Карраскильо, Alejandra Alemany, Луис Хосе Герман, Hans Martínez",
-        "description": "Что делать, если ты считаешь себя уродом, которому никогда не завоевать внимание красивой девушки? Нужно найти Доброго Фея, он превратит тебя в красавца! Вот только принесёт ли тебе счастье эта красота?..",
-        "slogan": "Being ugly was his curse. Being handsome, his downfall",
-        "premiere": "22 октября 2017",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_941495.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "8",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "39"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "941403",
-      "date": "1581974960",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Красное рождество",
-        "orig": "Red Christmas",
-        "alter": "",
-        "year": "2016",
-        "country": "Австралия",
-        "director": "Крэйг Андерсон",
-        "genre": "ужасы,триллер",
-        "actors": "Ди Уоллес-Стоун, Джофф Морелл, Дэвид Коллинз, Сара Бишоп, Дженис МакГейвин, Gerard Odwyer, Sam Campbell, Bjorn Stewart, Atlas Adams, Deelia Meriel",
-        "description": "Семья собирается отметить рождество, но нежданный гость нарушает все планы и устраивает собственное веселье.",
-        "slogan": "This Christmas, the only thing under the tree is terror",
-        "premiere": "17 июня 2016",
-        "age": "0",
-        "time": "4920",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_941403.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "88",
-          "rating_imdb": "4.3",
-          "vote_num_imdb": "1885"
         }
       }
     }

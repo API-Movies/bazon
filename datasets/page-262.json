@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1071807",
+      "date": "1582099950",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Бостон",
+        "orig": "Boston",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Джон Данэм",
+        "genre": "документальный",
+        "actors": "Мэтт Дэймон, Роберт де Кастелла, Роза Мота, Билл Роджерс, Джоан Бенуа Самуэльсон",
+        "description": "Фильм об истории Бостонского марафона станет откровением даже для тех, кто считает бег странной причудой, а о знаменитом спортивном мероприятии впервые услышал в 2013 году, когда в результате теракта в зрительской зоне погибло три человека и пострадало около трехсот. Захотят ли люди вернуться в Бостон после трагедии и как обеспечить их безопасность - с этих вопросов начинается рассказ о памятных событиях, которых за 120-летнюю историю марафона было немало.",
+        "slogan": "",
+        "premiere": "19 апреля 2017",
+        "age": "16",
+        "time": "6840",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1071807.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "31",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "108"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1071437",
+      "date": "1582099947",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Золотая работа",
+        "orig": "Huang jin xiong di",
+        "alter": "",
+        "year": "2018",
+        "country": "Китай, Гонконг",
+        "director": "Чинь Ка-Лок",
+        "genre": "боевик,криминал",
+        "actors": "Экин Чэн, Джордан Чан, Майкл Тсе, Чинь Ка-Лок, Джерри Ламб, Чармейн Ше, Эрик Цан, Сергей Онопко, Ю Чжан, Чжан Ямэй",
+        "description": "Пятеро профессиональных воров, уже ставших друг другу практически братьями, планируют завязать с преступной деятельностью и уйти на покой. Напоследок они решаются на крупное ограбление, но в процессе оказывается, что их подставили. Теперь у братьев нет выбора - выпутываться из сложившейся ситуации им придется, может быть даже, ценой собственных жизней.",
+        "slogan": "",
+        "premiere": "20 сентября 2018",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1071437.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "271",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "883"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1071436",
+      "date": "1582099946",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Лето мистера Чжу",
+        "orig": "Zhu tai lang de xia tian",
+        "alter": "",
+        "year": "2017",
+        "country": "Китай",
+        "director": "Сун Хаолинь",
+        "genre": "комедия,драма",
+        "actors": "-",
+        "description": "Одинокий учитель долго терпел выходки своих учеников, но однажды сломался и в тот же день день уволился. Два самых надоедливых малолетних тролля, осознав, что сбежавший препод был, в принципе, хорошим и честным малым, решают всеми силами вернуть его в школу.",
+        "slogan": "",
+        "premiere": "22 апреля 2017",
+        "age": "0",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1071436.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "28",
+          "rating_imdb": "6",
+          "vote_num_imdb": "35"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1070766",
+      "date": "1582099941",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "После всего",
+        "orig": "After Everything",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Ханна Маркс, Joey Power",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Мариса Томей, Джина Гершон, Майка Монро, Джо Кири, Дин Уинтерс, Жустина Адорно, Саша Лэйн, Калли Торн, Джереми Аллен Уайт, Ана Изабелль",
+        "description": "Мия и Эллиот - влюблённая пара. Их отношения разгораются с новой силой после того, как одному из них диагностируют опасное заболевание.",
+        "slogan": "Love is Sick",
+        "premiere": "9 марта 2018",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1070766.jpg",
+        "rating": {
+          "rating_kp": "6.405",
+          "vote_num_kp": "217",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "1161"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1070560",
       "date": "1582099939",
       "camrip": "0",
@@ -624,7 +764,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1067593.jpg",
         "rating": {
           "rating_kp": "6.529",
-          "vote_num_kp": "248",
+          "vote_num_kp": "249",
           "rating_imdb": "6.3",
           "vote_num_imdb": "1170"
         }
@@ -938,7 +1078,7 @@
         "time": "5820",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1065007.jpg",
         "rating": {
-          "rating_kp": "5.864",
+          "rating_kp": "5.867",
           "vote_num_kp": "2585",
           "rating_imdb": "6.1",
           "vote_num_imdb": "2004"
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "15",
           "rating_imdb": "4.3",
           "vote_num_imdb": "220"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1062429",
-      "date": "1582099833",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Суини мочит наповал",
-        "orig": "Sweeney Killing Sweeney",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Lisa Aimola",
-        "genre": "комедия",
-        "actors": "Ленни Кларк, Ник Ди Паоло, Simon Dimock, Katie Fields, Элин Халаджян, Джедже Джексон, Джонатан Кац, Christina Kostoulakos, Фрэнк Санторелли, Бобби Слэйтон",
-        "description": "Стареющий местный комик Суини, «Король имперсонаций», получает возможность вести национальное шоу в Лос-Анджелесе. Единственный момент - в том, что Суини должен не должен шутить про местных бостонских жителей, которые стали основой его успеха в родном городе. Суини принимает трудное решение прекратить имперсонизацию. Но, к его ужасу, персонажи «оживают» и ищут мести; они пытаются убить Суини.",
-        "slogan": "",
-        "premiere": "11 сентября 2018",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1062429.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "38"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1062201",
-      "date": "1582099830",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "В клетке",
-        "orig": "Icebox",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Дэниэл Савка",
-        "genre": "драма",
-        "actors": "Дженезис Родригез, Сара Минник, Энтони Гонсалес, Кэрри Лазар, Прийом Хайдер, Жермен Вашингтон, Дилан Кенин, Рене Моран, Луис Бордонада, Джонни Ортиз",
-        "description": "12-летний Оскар из Гондураса ищет убежище в Америке, однако попытка пересечь границу оборачивается для него несколькими кругами ада американской системы. Мальчик оказывается в заточении в Центре содержания детей-мигрантов.",
-        "slogan": "Searching for freedom. Caught in the system",
-        "premiere": "9 сентября 2018",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1062201.jpg",
-        "rating": {
-          "rating_kp": "5.661",
-          "vote_num_kp": "170",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "653"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1062166",
-      "date": "1582099829",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Бог в моем ухе",
-        "orig": "The God Inside My Ear",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Joe Badon",
-        "genre": "комедия,ужасы,триллер,драма",
-        "actors": "Linnea Gregg, Joseph Estrade, Ронда Лайзер, Steve Smith, Уильям Токарски, Коллин Галиэн, Devin Ladner, Лукас Боффин, Jason Edward Johnson, Michele Rossi",
-        "description": "После расставания с парнем Элизию начинают преследовать странные голоса и приводящие в ужас видения.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "5820",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNTlmNzk1YTUtYjk5YS00ZTBkLWI2OTUtOTY3MDRiZmRhYzE2XkEyXkFqcGdeQXVyNDQ4ODU0ODk@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "12",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "164"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1061970",
-      "date": "1582099826",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Хищные",
-        "orig": "Carnivores",
-        "alter": "",
-        "year": "2018",
-        "country": "Франция, Бельгия",
-        "director": "Жереми Ренье, Янник Ренье",
-        "genre": "триллер,драма",
-        "actors": "Лейла Бехти, Зита Анро, Бастьен Буллон, Йохан Хелденберг, Хиам Аббасс, Октав Боссюэ, Кристоф Серме, Марианн Фаббро, Isabelle Kramrick, Dominique Signori",
-        "description": "Сестры Сэмия и Моны - актрисы, Сэмия успешнее Моны, но и у нее есть профессиональные недостатки. И Мона вызвалась ей помочь. Увы, это не тот случай, когда сестры понимают друг друга с полуслова. Отношения Сэмии и Моны напряженные и болезненные. Одному богу известно, к чему это приведет.",
-        "slogan": "",
-        "premiere": "28 марта 2018",
-        "age": "0",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1061970.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "21",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "362"
         }
       }
     }

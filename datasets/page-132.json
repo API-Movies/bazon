@@ -2,6 +2,251 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "462305",
+      "date": "1598104017",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Ирландец",
+        "orig": "The Irishman",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Мартин Скорсезе",
+        "genre": "драма,криминал,биография",
+        "actors": "Роберт Де Ниро,Аль Пачино,Джо Пеши,Харви Кейтель,Рэй Романо,Бобби Каннавале,Анна Пэкуин,Стивен Грэм,Стефани Курцуба,Джесси Племонс",
+        "description": "История о Фрэнке Ширэне по прозвищу Ирландец, которому приписывают убийство 25 гангстеров, включая самого Джимми Хоффу.",
+        "slogan": "His story changed history",
+        "premiere": "27 сентября 2019",
+        "age": "0",
+        "time": "12540",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462305.jpg",
+        "rating": {
+          "rating_kp": "7.46",
+          "vote_num_kp": "75897",
+          "rating_imdb": "7.9",
+          "vote_num_imdb": "327363"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1226369",
+      "date": "1598104017",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Всем парням: P.S. Я люблю тебя",
+        "orig": "To All the Boys: P.S. I Still Love You",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Майкл Фимоньяри",
+        "genre": "драма,мелодрама",
+        "actors": "Лана Кондор,Ной Сентинео,Джордан Фишер,Анна Кэткарт,Джанел Пэрриш,Росс Батлер,Мадлен Артур,Эмилия Баранак,Треццо Махоро,Холланд Тейлор",
+        "description": "Лара Джин и Питер только что превратили свой любовный роман из притворства в реальность, но неожиданно Джон Амброуз, еще один получатель любовных писем Лары, снова входит в ее жизнь. Лара Джин сталкивается со своей первой настоящей дилеммой: может ли девушка влюбиться в двух парней сразу?",
+        "slogan": "First Love. Last Letter",
+        "premiere": "12 февраля 2020",
+        "age": "0",
+        "time": "6060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1226369.jpg",
+        "rating": {
+          "rating_kp": "6.28",
+          "vote_num_kp": "6301",
+          "rating_imdb": "6",
+          "vote_num_imdb": "27550"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "835086",
+      "date": "1598104017",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Ford против Ferrari",
+        "orig": "Ford v. Ferrari",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Джеймс Мэнголд",
+        "genre": "боевик,драма,биография,спорт",
+        "actors": "Кристиан Бэйл, Мэтт Дэймон, Джон Бернтал, Катрина Балф, Рэй МакКиннон, Джош Лукас, Джей Джей Филд, Ноа Джуп, Уайатт Нэш, Иэн Хардинг",
+        "description": "Сюжет повествует о группе американских инженеров и дизайнеров. В 1960-х под руководством конструктора Кэрролла Шелби и при поддержке британского гонщика Кена Майлса они должны были с нуля сделать абсолютно новый спорткар, способный опередить Феррари - непобедимого чемпиона 24-часовой гонки на выносливость Ле-Ман.",
+        "slogan": "They took the American dream for a ride",
+        "premiere": "30 августа 2019",
+        "age": "16",
+        "time": "9120",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_835086.jpg",
+        "rating": {
+          "rating_kp": "8.172",
+          "vote_num_kp": "277732",
+          "rating_imdb": "8.1",
+          "vote_num_imdb": "295233"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "467760",
+      "date": "1598104017",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Клуб любителей книг и пирогов из картофельных очистков",
+        "orig": "The Guernsey Literary and Potato Peel Pie Society",
+        "alter": "",
+        "year": "2018",
+        "country": "Великобритания, Франция, США",
+        "director": "Майк Ньюэлл",
+        "genre": "мелодрама,история,драма",
+        "actors": "Лили Джеймс, Михиль Хаусман, Глен Пауэлл, Джессика Браун-Финдли, Кэтрин Паркинсон, Мэттью Гуд, Том Кортни, Пенелопа Уилтон, Брона Галлахер, Кит Коннор",
+        "description": "В послевоенном Лондоне молодая писательница Джулиет пытается найти сюжет для новой книги, но об ужасах войны писать ей решительно не хочется, прочие темы кажутся либо скучными, либо неуместными. На помощь приходит случай - в виде письма одного свиновода с острова Гернси. Оказывается, даже свинари любят почитать, и неведомый Доуси, к которому в руки попала книга, некогда принадлежавшая Джулиет, просит ее посоветовать хорошую книжную лавку. Дело в том, что на Гернси с книгами сейчас туго, поскольку остров, в годы войны оккупированный немцами, только-только возрождается к жизни. Письмо переворачивает жизнь Джулиет. История книжного клуба, ставшего прикрытием для запрещенных встреч жителей деревни, увлекает и затягивает ее. Так начинается переписка с самыми разными людьми.",
+        "slogan": "Based on the best-selling novel",
+        "premiere": "9 апреля 2018",
+        "age": "12",
+        "time": "7440",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_467760.jpg",
+        "rating": {
+          "rating_kp": "7.287",
+          "vote_num_kp": "25183",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "35855"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "592203",
+      "date": "1598104017",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K WEB-DL",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Экипаж",
+        "orig": "Flight",
+        "alter": "",
+        "year": "2012",
+        "country": "США, ОАЭ",
+        "director": "Роберт Земекис",
+        "genre": "триллер,драма",
+        "actors": "Дензел Вашингтон, Келли Райлли, Брюс Гринвуд, Дон Чидл, Джон Гудман, Тамара Тюни, Брайан Джерати, Мелисса Лео, Надин Веласкес, Майкл Бисли",
+        "description": "Опытный пилот Уип Вайтекер чудом избегает крушения самолета, и, совершив аварийную посадку, сохраняет жизни практически всех пассажиров. Уипа чествуют, как героя, но чем больше появляется подробностей о катастрофе, тем больше вопросов возникает: что же на самом деле произошло на борту самолёта...",
+        "slogan": "",
+        "premiere": "14 октября 2012",
+        "age": "18",
+        "time": "8280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_592203.jpg",
+        "rating": {
+          "rating_kp": "7.431",
+          "vote_num_kp": "73656",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "326854"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4929",
+      "date": "1598104016",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Автокатастрофа",
+        "orig": "Crash",
+        "alter": "",
+        "year": "1996",
+        "country": "Канада, Великобритания",
+        "director": "Дэвид Кроненберг",
+        "genre": "драма",
+        "actors": "Джеймс Спэйдер, Холли Хантер, Элиас Котеас, Дебора Кара Ангер, Розанна Аркетт, Питер Макнил, Иоланда Джулиан, Шерил Свартс, Джуда Кац, Никки Гуаданьи",
+        "description": "Продюсер Джеймс Баллард и его жена Кэтрин - искатели эротических приключений. Есть у обоих и другая страсть - к автомобилям. Однажды Джеймс попадает в страшную аварию. В клинике он знакомится с жертвой этой аварии Хелен и ее приятелем Воэном.\r\n\r\nТак начинается освоение Джеймсом и Кэтрин новых ощущений: сексуального возбуждения от бьющихся машин и травмированных тел.",
+        "slogan": "The most controversial film you will ever see",
+        "premiere": "17 мая 1996",
+        "age": "18",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4929.jpg",
+        "rating": {
+          "rating_kp": "6.542",
+          "vote_num_kp": "6755",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "52386"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "634254",
+      "date": "1598104016",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Ип Ман 4",
+        "orig": "Yip Man 4",
+        "alter": "",
+        "year": "2019",
+        "country": "Гонконг,Китай",
+        "director": "Уилсон Ип",
+        "genre": "боевик,биография",
+        "actors": "Донни Йен,Дэнни Чан,У Юэ,Скотт Эдкинс,Ванесс&nbsp;У,Крис Коллинз,Никола Стюарт-Хилл,Grace Englert,Кент Чэн,Дэвид Джонсон Вуд",
+        "description": "Америка, 1960-е годы. Ип Ман прибывает в Сиэтл, где один из его учеников решил открыть школу вин-чун.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "0",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_634254.jpg",
+        "rating": {
+          "rating_kp": "7.08",
+          "vote_num_kp": "10061",
+          "rating_imdb": "7",
+          "vote_num_imdb": "24832"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1143242",
       "date": "1598104016",
       "camrip": "0",
@@ -66,7 +311,7 @@
           "rating_kp": "6.419",
           "vote_num_kp": "69574",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "169021"
+          "vote_num_imdb": "169295"
         }
       }
     },
@@ -171,7 +416,7 @@
           "rating_kp": "6.739",
           "vote_num_kp": "105339",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "146140"
+          "vote_num_imdb": "146171"
         }
       }
     },
@@ -204,7 +449,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_89515.jpg",
         "rating": {
           "rating_kp": "7.726",
-          "vote_num_kp": "321205",
+          "vote_num_kp": "321309",
           "rating_imdb": "7.6",
           "vote_num_imdb": "476696"
         }
@@ -241,7 +486,7 @@
           "rating_kp": "6.241",
           "vote_num_kp": "27424",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "127664"
+          "vote_num_imdb": "127814"
         }
       }
     },
@@ -274,9 +519,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1338102.jpg",
         "rating": {
           "rating_kp": "6.784",
-          "vote_num_kp": "11024",
+          "vote_num_kp": "11028",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "73463"
+          "vote_num_imdb": "73528"
         }
       }
     },
@@ -309,9 +554,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1146252.jpg",
         "rating": {
           "rating_kp": "6.422",
-          "vote_num_kp": "9531",
+          "vote_num_kp": "9535",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "7004"
+          "vote_num_imdb": "7018"
         }
       }
     },
@@ -451,7 +696,7 @@
           "rating_kp": "7.238",
           "vote_num_kp": "55839",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "38849"
+          "vote_num_imdb": "38903"
         }
       }
     },
@@ -483,7 +728,7 @@
         "time": "4260",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_69678.jpg",
         "rating": {
-          "rating_kp": "7.248",
+          "rating_kp": "7.253",
           "vote_num_kp": "602",
           "rating_imdb": "7.5",
           "vote_num_imdb": "8806"
@@ -589,7 +834,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BYTVkNjQ3YTYtNmQxYi00ZWMwLTgyMjQtMzkxMWQ0NTNhMDY4XkEyXkFqcGdeQXVyNjEwNTM2Mzc@.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "13",
+          "vote_num_kp": "14",
           "rating_imdb": "2.5",
           "vote_num_imdb": "428"
         }
@@ -659,9 +904,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1204003.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "1154",
+          "vote_num_kp": "1159",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "794"
+          "vote_num_imdb": "801"
         }
       }
     },
@@ -799,7 +1044,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BZGRhNTdmMjUtZmQyMy00NWQzLThiYTMtOGFlZGM2YTgwOWU5XkEyXkFqcGdeQXVyMzIxMzU3NDk@.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "89",
+          "vote_num_kp": "92",
           "rating_imdb": "5.6",
           "vote_num_imdb": "1522"
         }
@@ -1009,7 +1254,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_85043.jpg",
         "rating": {
           "rating_kp": "6.763",
-          "vote_num_kp": "4845",
+          "vote_num_kp": "4846",
           "rating_imdb": "6.6",
           "vote_num_imdb": "18508"
         }
@@ -1079,7 +1324,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_662996.jpg",
         "rating": {
           "rating_kp": "5.915",
-          "vote_num_kp": "34837",
+          "vote_num_kp": "34838",
           "rating_imdb": "5.9",
           "vote_num_imdb": "132913"
         }
@@ -1212,7 +1457,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1371997.jpg",
         "rating": {
           "rating_kp": "5.953",
-          "vote_num_kp": "3393",
+          "vote_num_kp": "3395",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1247,7 +1492,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1238802.jpg",
         "rating": {
           "rating_kp": "6.334",
-          "vote_num_kp": "5214",
+          "vote_num_kp": "5221",
           "rating_imdb": "5.7",
           "vote_num_imdb": "6367"
         }
@@ -1282,7 +1527,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1301982.jpg",
         "rating": {
           "rating_kp": "5.745",
-          "vote_num_kp": "883",
+          "vote_num_kp": "884",
           "rating_imdb": "5.6",
           "vote_num_imdb": "7831"
         }
@@ -1352,7 +1597,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_48697.jpg",
         "rating": {
           "rating_kp": "7.241",
-          "vote_num_kp": "2301",
+          "vote_num_kp": "2302",
           "rating_imdb": "6.8",
           "vote_num_imdb": "8276"
         }
@@ -1422,7 +1667,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_78320.jpg",
         "rating": {
           "rating_kp": "6.953",
-          "vote_num_kp": "26182",
+          "vote_num_kp": "26186",
           "rating_imdb": "7.4",
           "vote_num_imdb": "224219"
         }
@@ -1530,251 +1775,6 @@
           "vote_num_kp": "162",
           "rating_imdb": "5.1",
           "vote_num_imdb": "113"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1050648",
-      "date": "1597965301",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ход вещей",
-        "orig": "The Swing of Things",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Мэтт Шапира",
-        "genre": "комедия",
-        "actors": "Люк Уилсон,Аделаида Кейн,Мэтт МакКой,Джон Ловиц,Линда Перл,Корд Оверстрит,Дот-Мари Джонс,Natalia Janoszek,Оливер Купер,Оливия Калпо",
-        "description": "Том и Лора собираются пожениться на Ямайке. По недосмотру парень заказывает проведение торжеств в одном из отелей, где обычно собираются свингеры... Но отступать некуда, ведь все приглашенные на свадьбу гости уже собрались в отеле.",
-        "slogan": "",
-        "premiere": "2 июля 2020",
-        "age": "16",
-        "time": "5580",
-        "poster": "https://m.media-amazon.com/images/M/MV5BN2I1NDk0OGEtMDhkYS00MTM5LWJkOTMtYjJkMmY3YTFhMmFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX300_.jpg",
-        "rating": {
-          "rating_kp": "4.143",
-          "vote_num_kp": "187",
-          "rating_imdb": "2.9",
-          "vote_num_imdb": "1066"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1259312",
-      "date": "1597963505",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Жилище в горах Фучунь",
-        "orig": "Chun jiang shui nuan",
-        "alter": "",
-        "year": "2019",
-        "country": "Китай",
-        "director": "Гу Сяоган",
-        "genre": "драма",
-        "actors": "",
-        "description": "Жизнь одной семьи, на которую влияют природа, смена времён года и река.",
-        "slogan": "",
-        "premiere": "22 мая 2019",
-        "age": "0",
-        "time": "9000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1259312.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "31",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "502"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1055379",
-      "date": "1597961713",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Селеста",
-        "orig": "Celeste",
-        "alter": "",
-        "year": "2018",
-        "country": "Австралия",
-        "director": "Бен Хэкуорт",
-        "genre": "драма,музыка",
-        "actors": "Рада Митчелл,Томас Кокерел,Надин Гарнер,Одесса Янг,Эмм Вайсман,Danielle Aquilina,Фернандо Камарго,Аарон Дэвисон,Рон Келли,Jason Klarwein",
-        "description": "Селеста - известная оперная дива, которая рано ушла на пенсию ради любимого мужчины и переехала в  полуразрушенное прекрасное поместье в самом сердце тропического леса в северном Квинсленде.  Через десять лет после трагической гибели её мужа Селеста решает вернуться на сцену для своего последнего выступления.",
-        "slogan": "",
-        "premiere": "3 августа 2018",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1055379.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "18",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "153"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1032472",
-      "date": "1597961709",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Лучшие Комптона",
-        "orig": "Compton's Finest",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Дэйл Стелли",
-        "genre": "боевик",
-        "actors": "Сиско Рейес,Эрик Нэйтан,Роберто «Санс» Санчес,Вида Гуерра,Прийом Хайдер,Dairold Potts,Chop Black,Лавелл Кроуфорд,Lionell Dalton,Натали Дэниелс",
-        "description": "Два лучших детектива из города Комптон охотятся за колумбийским наркобароном Шёлком Дельгадо, который наводняет улицы города самым опасным наркотиком в мире, который называют «Дыхание дьявола».",
-        "slogan": "",
-        "premiere": "7 декабря 2018",
-        "age": "0",
-        "time": "5940",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMGM4YWMwZjMtYjg0ZC00MDE3LTlkMzUtY2FhN2JmZjY4NTQxXkEyXkFqcGdeQXVyNzQ3MjQzNzk@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "3",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "8"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1243573",
-      "date": "1597959011",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Португалка",
-        "orig": "A Portuguesa",
-        "alter": "",
-        "year": "2018",
-        "country": "Португалия",
-        "director": "Рита Азеведу Гомеш",
-        "genre": "драма,история",
-        "actors": "Клара Риденстайн,Марселу Уржеги,Ингрид Кавен,Рита Дурао,Пьер Леон,Жоау Висенте,Луна Пиколи-Трюффо,Мануэла де Фрейташ,Александр Алвес Коста,Аделаида Тейшейра",
-        "description": "Его дом - война. Ее дом - Португалия. И все же молодая жена лорда фон Кеттена намерена сделать жилище своего мужа, негостеприимный замок на скале в северной Италии, своим домом. В течение одиннадцати долгих лет, пока он отсутствует, она строит здесь свою жизнь.",
-        "slogan": "",
-        "premiere": "10 марта 2019",
-        "age": "18",
-        "time": "8160",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1243573.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "45",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "331"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "847473",
-      "date": "1597956306",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Талант на неприятности",
-        "orig": "A Talent for Trouble",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Марвис Джонсон",
-        "genre": "комедия",
-        "actors": "Хассан Джонсон,Роман Ривера,Мекхай Файфер,Тони Даль,Брэндон Т. Джексон,Мадина Ашимова,Бон Крашер,Мэри Кристина Браун,Джон Будинофф,Дэн Буркарт",
-        "description": "Молодому мечтающему стать кинорежиссёром парню по имени Шон выпадает шанс снять свою первую серьёзную ленту для известного рэпера. Сможет ли он совершить прорыв в киноиндустрии, или его мечта об успешной карьере в этой сфере так и останется мечтой?",
-        "slogan": "",
-        "premiere": "3 апреля 2018",
-        "age": "0",
-        "time": "7200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_847473.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "16",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "12"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1243153",
-      "date": "1597938306",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Двухголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Роман",
-        "orig": "Romang",
-        "alter": "",
-        "year": "2019",
-        "country": "Корея Южная",
-        "director": "Ли Чхан-гын",
-        "genre": "мелодрама,драма",
-        "actors": "Ли Сун-джэ,Чон Ён-сук,Чо Хан-чхоль,Пэ Хэ-сон,Ли Е-вон,Чин Сон-гю,Пак По-гён,Ли Гю-хён,Ким Ги-чхон,Ко Гю-пхиль",
-        "description": "75-летний Нам-бон и 71-летняя Мэ-джа женаты уже 45 лет. За эти годы они во многом стали похожи друг на друга, и теперь у обоих развивается деменция. С каждым днём воспоминания для супругов становятся всё более расплывчатыми, но роман, который они забыли когда-то давно, наоборот, возвращается и начинает играть новыми красками.",
-        "slogan": "",
-        "premiere": "3 апреля 2019",
-        "age": "0",
-        "time": "6720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1243153.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "19",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "117"
         }
       }
     }

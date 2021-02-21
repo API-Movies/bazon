@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1047375",
+      "date": "1582099474",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Плывущие по течению",
+        "orig": "We Are Boats",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Джеймс Бёрд",
+        "genre": "фэнтези",
+        "actors": "Люк Хемсворт, Анджела Сарафян, Узо Адуба, Аманда Пламмер, Грэм Грин, Бу Бу Стюарт, Джек Фалахи, Марианна Пока, Гайя Уайсс, Джастин Корнвэлл",
+        "description": "Смерть и жизнь всегда перекликаются между собой: кто-то умирает - кто-то приходит в эту жизнь. В центре сюжета - несколько историй, перекликающихся между собой и рассказывающих об изменах, любви, отношениях между родителями и детьми и смерти.",
+        "slogan": "New beginnings. Unstoppable endings",
+        "premiere": "13 мая 2018",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjk0MzEwMWItMjJhOS00M2Q2LWIzODQtMDM2YjE0YjRmNGM0XkEyXkFqcGdeQXVyNjg0ODE1ODE@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "39",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "584"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1047372",
+      "date": "1582099472",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Район",
+        "orig": "The Neighborhood",
+        "alter": "",
+        "year": "2017",
+        "country": "Канада",
+        "director": "Фрэнк Д’Анджело",
+        "genre": "драма",
+        "actors": "Дэнни Айелло, Франческо Антонио, Джон Эштон, Арманд Ассанте, Keisha Augustin, Шерман Огастас, Дэниэл Болдуин, Robin Baldwin, Bianca Bykhovsky, Джэдон Клюс",
+        "description": "Нахальная группа бандитов терроризировала свой район еще с юношеских лет - до тех пор, пока не перешла дорогу не тем людям. Теперь их ждет заварушка с главарем мафии, поэтому их жизнь превратится в сущий ад на земле...",
+        "slogan": "Tell me who you hang around with and I'll tell you who you are",
+        "premiere": "18 августа 2017",
+        "age": "0",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047372.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "14",
+          "rating_imdb": "7",
+          "vote_num_imdb": "2447"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1047371",
+      "date": "1582099471",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Большой медведь",
+        "orig": "Big Bear",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Джои Керн",
+        "genre": "комедия",
+        "actors": "Джои Керн, Тайлер Лабин, Адам Броди, Захари Найтон, Пабло Шрайбер, Тоби Хасс, Ана О’Райли, Патриша Рэй, Хайди Хизлет",
+        "description": "Джо собирается жениться и устраивает холостяцкую вечеринку в домике в лесу с тремя лучшими друзьями, с которыми давно не виделся. Но в этот же день невеста бросает незадачливого жениха. В расстроенных чувствах парень напивается с друзьями и с утра обнаруживает с подвале связанного незнакомца - того, ради которого его бросили. Это один из безумных друзей решил, что так Джо будет проще разобраться со своими проблемами.",
+        "slogan": "What happens in Big Bear, stays in Big Bear",
+        "premiere": "22 сентября 2017",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047371.jpg",
+        "rating": {
+          "rating_kp": "5.469",
+          "vote_num_kp": "169",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "1219"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1047245",
+      "date": "1582099467",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Демон Лапласа",
+        "orig": "The Laplace's Demon",
+        "alter": "",
+        "year": "2017",
+        "country": "Италия",
+        "director": "Giordano Giulivi",
+        "genre": "ужасы,фантастика,триллер,детектив",
+        "actors": "Silvano Bertolin, Фердинандо Д’Урбано, Duccio Giulivi, Carlotta Mazzoncini, Simone Moscato, Walter Smorti, Simone Valeri, Alessandro Zonfrilli",
+        "description": "Команда исследователей разработала систему для расчета, казалось бы, случайных событий. Загадочный профессор приглашает их в свой дом на скале посреди океана. Все, что им нужно сделать - пережить ночь.",
+        "slogan": "",
+        "premiere": "21 июля 2017",
+        "age": "0",
+        "time": "6300",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047245.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "102",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "259"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1047187",
       "date": "1582099466",
       "camrip": "0",
@@ -448,7 +588,7 @@
         "time": "7200",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1046590.jpg",
         "rating": {
-          "rating_kp": "6.631",
+          "rating_kp": "6.651",
           "vote_num_kp": "246",
           "rating_imdb": "6.1",
           "vote_num_imdb": "394"
@@ -1009,7 +1149,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045945.jpg",
         "rating": {
           "rating_kp": "6.764",
-          "vote_num_kp": "535",
+          "vote_num_kp": "536",
           "rating_imdb": "6.6",
           "vote_num_imdb": "809"
         }
@@ -1113,8 +1253,8 @@
         "time": "7260",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045942.jpg",
         "rating": {
-          "rating_kp": "7.09",
-          "vote_num_kp": "1889",
+          "rating_kp": "7.089",
+          "vote_num_kp": "1892",
           "rating_imdb": "7.2",
           "vote_num_imdb": "4466"
         }
@@ -1186,7 +1326,7 @@
           "rating_kp": "0",
           "vote_num_kp": "26",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "131"
+          "vote_num_imdb": "134"
         }
       }
     },
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "90",
           "rating_imdb": "7.1",
           "vote_num_imdb": "1314"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1045222",
-      "date": "1582099344",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Чьямбра",
-        "orig": "A Ciambra",
-        "alter": "",
-        "year": "2017",
-        "country": "Италия, Бразилия, Германия, Франция, Швеция, США",
-        "director": "Йонас Карпиньяно",
-        "genre": "драма,криминал",
-        "actors": "Пио Амато, Iolanda Amato, Koudous Seihon, Damiano Amato, Patrizia Amato, Susanna Amato, Rocco Amato, Francesco Pio Amato, Damiano Nicolas Amato, Pasquale Alampi",
-        "description": "Пио Амато живёт в маленькой цыганской общине в Калабрии и отчаянно пытается казаться взрослым. В свои 14 мальчишка пьёт, курит и является одним из немногих, кто безболезненно лавирует между общинами района: итальянской, африканских беженцев и своей, румынской. Он повсюду следует за своим старшим братом Козимо, попутно перенимая у того навыки выживания на улицах родного города. Но однажды Козимо исчезает, и всё для Пио меняется. В попытке доказать, что он готов занять место старшего брата, мальчик окажется перед выбором, который поставит под сомнение его готовность стать мужчиной.",
-        "slogan": "",
-        "premiere": "19 мая 2017",
-        "age": "0",
-        "time": "7080",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045222.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "102",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "2127"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1045215",
-      "date": "1582099343",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Переговоры",
-        "orig": "Hyeopsang",
-        "alter": "",
-        "year": "2018",
-        "country": "Корея Южная",
-        "director": "Ли Джон-сок",
-        "genre": "триллер,криминал",
-        "actors": "Сон Е-джин, Хён Бин, Ким Сан-хо, Чан Ён-нам, Чан Гван, Чо Ён-джин, Ли Джу-ён, Ли Хак-чу, Чхве Бён-мо, Ли Мун-щик",
-        "description": "После неудачной попытки освобождения, повлекшей смерть заложников, переговорщица сеульской полиции Ха Чхэ-юн решает уволиться, но её срочно вызывают на очередное задание. Международный торговец оружием держит под дулом пистолета её начальника и корейского репортёра, захваченного в Таиланде, но требований не выдвигает. У Чхэ-юн есть несколько часов, чтобы разобраться в ситуации, пока команда спецназа летит штурмовать базу террористов.",
-        "slogan": "Hostage crisis at a dead end. One last call to save lives",
-        "premiere": "19 сентября 2018",
-        "age": "0",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045215.jpg",
-        "rating": {
-          "rating_kp": "7.028",
-          "vote_num_kp": "409",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "2336"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1045094",
-      "date": "1582099339",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Подвал",
-        "orig": "Подвал",
-        "alter": "",
-        "year": "2017",
-        "country": "Россия, Словакия, Чехия",
-        "director": "Игорь Волошин",
-        "genre": "драма",
-        "actors": "Жан-Марк Барр, Ольга Симонова, Далиб, Симонетта Гладка, Ян Мистрик, Чонгор Кассаи, Роман Скамене, Джон Робинсон, Милан Ондрик, Аурелия Фрицова",
-        "description": "Семейная пара Таня и Милан Лабатовы испытывают глубокий кризис. Они постоянно ссорятся, а их 16-летняя дочь уходит на вечеринку и пропадает без вести. В поисках дочери супруги открываются друг для друга с непредсказуемой стороны.",
-        "slogan": "",
-        "premiere": "27 сентября 2018",
-        "age": "18",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045094.jpg",
-        "rating": {
-          "rating_kp": "5.303",
-          "vote_num_kp": "479",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "46"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1045079",
-      "date": "1582099336",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Небесный охотник",
-        "orig": "Kong tian lie",
-        "alter": "",
-        "year": "2017",
-        "country": "Китай",
-        "director": "Ли Чэнь",
-        "genre": "боевик,драма",
-        "actors": "Ли Чэнь, Фань Бинбин, Ван Цяньюань, Томер Оз, Пол Аллисия, David Blazejko, Эндрю Лэйн Коутон, Джордж Кристофер, A.J. Donnelly, Isaac Fernandez",
-        "description": "Элитный отряд пилотов, состоящий только из асов, противостоит террористам.",
-        "slogan": "",
-        "premiere": "28 сентября 2017",
-        "age": "0",
-        "time": "7200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045079.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "133",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "936"
         }
       }
     }

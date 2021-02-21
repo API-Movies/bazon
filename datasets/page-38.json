@@ -2,6 +2,321 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1433422",
+      "date": "1609807507",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Все внимание на Рождество",
+        "orig": "Spotlight on Christmas",
+        "alter": "",
+        "year": "2020",
+        "country": "Канада",
+        "director": "Эли Либерт",
+        "genre": "мелодрама",
+        "actors": "Виктория Андерсон,Виктор Зинк,Лия Франклэнд,Джанет Киддер,Эндрю МакИлрой,Мэттью Дж Доуден,Патти Аллан,Майкл Ст. Джон Смит,Джулиана Уимблс,Мэттью Нельсон-Махуд",
+        "description": "Брошенная своим парнем перед Рождеством голливудская актриса втайне едет в родной город, чтобы поесть маминых угощений и убежать от внимания прессы. В итоге там она находит роль всей своей жизни и понимает, что именно там может обрести себя.",
+        "slogan": "",
+        "premiere": "4 декабря 2020",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTBjZTZhZWQtZTNkYy00Yjc0LTk1N2ItYzEzYzI0NmY5MjIzXkEyXkFqcGdeQXVyMTQyNDk2NzE@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "319"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1255713",
+      "date": "1609800302",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ломая поверхность",
+        "orig": "Breaking Surface",
+        "alter": "",
+        "year": "2020",
+        "country": "Швеция,Норвегия,Бельгия",
+        "director": "Йоахим Хеден",
+        "genre": "боевик,триллер,драма",
+        "actors": "Муа Гаммель,Мадлен Мартин,Трине Вигген,Jitse Jonathan Buitnik,Remi Alashkar,Alessio Barreto,Ima Jenny Hallberg,Лена Хоуп,Thomas Hoy,Elle Kohrs",
+        "description": "Зимний дайвинг в Норвегии превращается в отчаянную гонку на время для двух сестер, когда одна из них попадает в ловушку на дне океана из-за упавшего на неё камня.",
+        "slogan": "",
+        "premiere": "14 февраля 2020",
+        "age": "0",
+        "time": "4860",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1255713.jpg",
+        "rating": {
+          "rating_kp": "5.842",
+          "vote_num_kp": "2193",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "2450"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1138777",
+      "date": "1609797606",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Прощальный тур",
+        "orig": "The Last Hot Lick",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Махалия Коэн",
+        "genre": "драма,музыка",
+        "actors": "Джейм Леопольд,Дженнифер Смея,Ориана Льютон-Леопольд,Гатри Стэффорд,Алисса Фитчи,Лори Понд,Эмили Кидни,Джон Вульф,Джуди Вульф,Фред Ингрэм",
+        "description": "Джек - потерявший популярность кантри музыкант, который пытается вернуть карьеру на рельсы. Он уверен, что прекрасный голос таинственной незнакомки, которую он случайно встречает на пути - ключ к его успеху. Ну а пока они вместе колесят южные штаты в поисках вдохновения и временного заработка в разных заведениях.",
+        "slogan": "",
+        "premiere": "11 ноября 2017",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1138777.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "33"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "340346",
+      "date": "1609792262",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Оригинал",
+      "max_qual": "480",
+      "info": {
+        "rus": "Дом Дайеса Дрира",
+        "orig": "The House of Dies Drear",
+        "alter": "",
+        "year": "1984",
+        "country": "США",
+        "director": "Аллан А. Голдштейн",
+        "genre": "фэнтези,триллер,драма,криминал,детектив",
+        "actors": "Ховард Э. Роллинз мл.,Шавар Росс,Глория Фостер,Моузес Ганн,Кларенс Уильямс III,Джо Сенека,Фрэнсис Фостер,Гарди Т. Лайнем,Тичина Арнольд,Кадим Хардисон",
+        "description": "Молодой темнокожий мужчина и его семья переезжают в дом в сельской местности Огайо и обнаруживают, что во время Гражданской войны он использовался голландским иммигрантом для контрабанды беглых рабов на свободу. Вскоре они начинают подозревать, что призраки рабов, которые проходили через этот дом, преследуют их...",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "6960",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI2MjQ4NTEyNF5BMl5BanBnXkFtZTcwNzM1MTUyMQ@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "11",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "179"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "328074",
+      "date": "1609791014",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Оригинал",
+      "max_qual": "480",
+      "info": {
+        "rus": "Коджак: цена справедливости",
+        "orig": "Kojak: The Price of Justice",
+        "alter": "Кожак: Цена правосудия",
+        "year": "1987",
+        "country": "США",
+        "director": "Алан Мецгер",
+        "genre": "триллер,драма",
+        "actors": "Телли Савалас,Кейт Неллиган,Пэт Хингл,Джек Томпсон,Брайан Мюррей,Джон Бедфорд Ллойд,Джеффри ДеМанн,Тони ДиБенедетто,Рон Фрэзиер,Стивен Джойс",
+        "description": "Ведущий следствие нью-йоркский детектив Тео Коджак оказывается в запутанной паутине ложных испытаний, ревности и кровавых интриг, расследуя смерть двух мальчиков. Их тела обнаружены в реке Гарлем, главным подозреваемым является мать мальчиков. Но то, что кажется открытым закрытым делом, вскоре становится чем-то гораздо более зловещим.",
+        "slogan": "",
+        "premiere": "21 февраля 1987",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_328074.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "18",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "159"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "157175",
+      "date": "1609789929",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Одноголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Мумия и проклятие шакалов",
+        "orig": "The Mummy and the Curse of the Jackals",
+        "alter": "Мумия и проклятье шакалов",
+        "year": "1969",
+        "country": "США",
+        "director": "Оливер Дрэйк",
+        "genre": "ужасы",
+        "actors": "Энтони Айсли,Джон Кэрредин,Роберт Алан Браун,Морин Доусон,Marliza Pons,Сауль Голдсмит,Уильям Уиттон,Дрэйк Майклс,Ребекка Ротчилд,Фрэнки Ди",
+        "description": "Древняя египетская принцесса возвращается из мертвых в 1960-х годах и налагает проклятие на археолога, чтобы он мог превратиться в человека-шакала и защитить ее, но ее ревнивый муж возвращается в виде чудовищной мумии, чтобы забрать ее обратно и убить любого, кто встанет у него на пути.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWQxNzVhZGQtMmIwOS00MzBhLTk0MzAtMTg3Yzk3NGQ4ZDFhXkEyXkFqcGdeQXVyMTQ2MjQyNDc@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "3",
+          "rating_imdb": "3.3",
+          "vote_num_imdb": "68"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "54115",
+      "date": "1609788762",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Одноголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Девушки для любви",
+        "orig": "Girls Are for Loving",
+        "alter": "",
+        "year": "1973",
+        "country": "США",
+        "director": "Дон Шэйн",
+        "genre": "драма,криминал",
+        "actors": "Шери Каффаро,Тимоти Браун,Шила Лейтон,Скотт Эллсворт,Фред Винсент,Роберт С. Джеффресон,Род Лумис,Ларри Дуглас,Энтони С. Кэннон,Уильям Греннел",
+        "description": "США собираются подписать деловое соглашение с одной из азиатских стран. В обмен на партнерские отношения американцы начинают вливать свои финансы в бизнес этой страны. Когда исполнение соглашения оказывается под угрозой на помощь американским властям приходит сексапильная девушка-агент по имени Джинджер.",
+        "slogan": "Thrill to the Passions of Ginger, the Wildest, Sexiest Super-Spy!",
+        "premiere": "25 мая 1973",
+        "age": "18",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_54115.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "194"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "416406",
+      "date": "1609788626",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Как заняться любовью с женщиной",
+        "orig": "How to Make Love to a Woman",
+        "alter": "",
+        "year": "2010",
+        "country": "США",
+        "director": "Скотт Калвер",
+        "genre": "комедия",
+        "actors": "Джош Мейерс, Кристен Риттер, Юджин Бирд, Иэн Сомерхолдер, Линдси Ричардс, Катрин Рейтман, Нора Киркпатрик, Кен Жонг, Джеймс Кайсон Ли, Айк Баринхолц",
+        "description": "Энди и Лоурен встречаются уже не первый день, а юноша не имеет ни малейшего представления о том, как удовлетворить свою подружку. Он обращается за ценным советом к друзьям-музыкантам, к известной порноактрисе и еще ко многим знакомым. У каждого есть свой «фирменный рецепт» сексуального успеха!\r\n\r\nНо сможет ли Энди вовремя узнать - чего же по-настоящему хочет женщина? Ведь на горизонте появляется прекрасно осведомленный в приемах обольщения женщин красавчик Даниэль...",
+        "slogan": "A comedy about miscommunication between the sheets",
+        "premiere": "30 июня 2010",
+        "age": "18",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_416406.jpg",
+        "rating": {
+          "rating_kp": "5.079",
+          "vote_num_kp": "2375",
+          "rating_imdb": "4.1",
+          "vote_num_imdb": "2955"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1284016",
+      "date": "1609786805",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Рождество на высокой ноте",
+        "orig": "The Christmas High Note",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Брайан Скиба",
+        "genre": "мелодрама",
+        "actors": "Джейми Лунер,Джонни Месснер,Кассандра Клементи,Уильям МакНамара,Мария Бриз,Марси Баркин,Мел Фэйр,Madeline Grace,Джек Гриффо,Бетси Хьюм",
+        "description": "Незадолго до Рождества главная героиня Рэйчел знакомится с Майклом и его дочерью Софией. Во время репетиций перед рождественским концертом София понимает, что не может взять высокую ноту. Рэйчел вызывается помочь девочке, и внезапно для себя обнаруживает, что Майкл стал ей интересен.",
+        "slogan": "",
+        "premiere": "8 декабря 2020",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2JiYWQ2OWItNWEwNC00NzQxLWE1MjktMTQzZmMzZWRhYjhiXkEyXkFqcGdeQXVyNjU0NTI0Nw@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1307667",
       "date": "1609785920",
       "camrip": "0",
@@ -169,7 +484,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_220046.jpg",
         "rating": {
           "rating_kp": "4.337",
-          "vote_num_kp": "169",
+          "vote_num_kp": "170",
           "rating_imdb": "3.3",
           "vote_num_imdb": "861"
         }
@@ -204,7 +519,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1249172.jpg",
         "rating": {
           "rating_kp": "6.821",
-          "vote_num_kp": "28755",
+          "vote_num_kp": "28924",
           "rating_imdb": "6.4",
           "vote_num_imdb": "83"
         }
@@ -764,7 +1079,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_470173.jpg",
         "rating": {
           "rating_kp": "7.523",
-          "vote_num_kp": "96153",
+          "vote_num_kp": "96177",
           "rating_imdb": "7.6",
           "vote_num_imdb": "240626"
         }
@@ -920,7 +1235,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_975292.jpg",
         "rating": {
           "rating_kp": "5.742",
-          "vote_num_kp": "48240",
+          "vote_num_kp": "48255",
           "rating_imdb": "5.5",
           "vote_num_imdb": "29568"
         }
@@ -1183,7 +1498,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_257386.jpg",
         "rating": {
           "rating_kp": "8.266",
-          "vote_num_kp": "36779",
+          "vote_num_kp": "36791",
           "rating_imdb": "8.7",
           "vote_num_imdb": "155179"
         }
@@ -1217,8 +1532,8 @@
         "time": "6660",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1117969.jpg",
         "rating": {
-          "rating_kp": "8.186",
-          "vote_num_kp": "4246",
+          "rating_kp": "8.19",
+          "vote_num_kp": "4248",
           "rating_imdb": "7.8",
           "vote_num_imdb": "6381"
         }
@@ -1323,7 +1638,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_978106.jpg",
         "rating": {
           "rating_kp": "2.961",
-          "vote_num_kp": "5934",
+          "vote_num_kp": "5942",
           "rating_imdb": "5.9",
           "vote_num_imdb": "2546"
         }
@@ -1463,9 +1778,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1412025.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "65",
+          "vote_num_kp": "68",
           "rating_imdb": "1.6",
-          "vote_num_imdb": "146"
+          "vote_num_imdb": "153"
         }
       }
     },
@@ -1532,8 +1847,8 @@
         "time": "5580",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1245849.jpg",
         "rating": {
-          "rating_kp": "4.36",
-          "vote_num_kp": "143",
+          "rating_kp": "4.373",
+          "vote_num_kp": "144",
           "rating_imdb": "5.4",
           "vote_num_imdb": "114"
         }
@@ -1571,321 +1886,6 @@
           "vote_num_kp": "5583",
           "rating_imdb": 0,
           "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "430686",
-      "date": "1609676107",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ущерб",
-        "orig": "Damage",
-        "alter": "",
-        "year": "2009",
-        "country": "США, Канада",
-        "director": "Джефф Кинг",
-        "genre": "боевик,драма",
-        "actors": "Стив Остин, Уолтон Гоггинс, Лора Вандервурт, Доннелли Роудс, Джо Коста, Линда Бойд, Скотт МакНил, Клифтон Маккейб Мюррэй, Джиллз Пэнтон, Пол Джарретт",
-        "description": "История Джона Брикнера о человеке, который недавно освободился условно из тюрьмы и пытается встать на правильный путь. Но ему это не удается... и он попадает в мир незаконных боев без правил.",
-        "slogan": "Fight hard to survive",
-        "premiere": "5 октября 2009",
-        "age": "16",
-        "time": "6360",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_430686.jpg",
-        "rating": {
-          "rating_kp": "6.328",
-          "vote_num_kp": "1080",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "6828"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1084324",
-      "date": "1609674310",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Не беги",
-        "orig": "Don't Run",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Ben Rood",
-        "genre": "ужасы",
-        "actors": "Danny Irizarry,Венди Килинг,Шарлотта Арнольд,Grant Brooks,Dan Foley,Джон Ньюкирк,Jodie Dunn,Barb Rood,Holly Arnold,Cody Cheatwood",
-        "description": "Дома у робкого 15-летнего паренька по имени Пит поселился монстр, который съест его, если он не будет ложиться спать до захода солнца каждый день.",
-        "slogan": "",
-        "premiere": "18 октября 2019",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNDkxMzkwMjMtNTA4Yy00ZTliLWE2MTktMWUxYmM0ZjFjOTQ1XkEyXkFqcGdeQXVyNzYwMzE4MjE@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "5",
-          "vote_num_imdb": "162"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1287106",
-      "date": "1609673409",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Что делать родителям, когда дети выросли",
-        "orig": "Empty Nester's Handbook",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "David N. Reyes",
-        "genre": "комедия",
-        "actors": "Jake Bardin,Kathleen Brown,Laura Frances,Robert Harrison,Darin Murphy,Stephanie Slayton",
-        "description": "Бен и Сара большую часть жизни посвятили воспитанию детей, но когда их младший сын наконец покидает родительский дом, им приходится учиться жить только вдвоём.",
-        "slogan": "They&#x27;ve been waiting twenty years to act like twenty year olds",
-        "premiere": "5 сентября 2019",
-        "age": "0",
-        "time": "5160",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYWE0ZjBiYWUtZmJkMC00NGQ4LThmOGEtMzM5MmZhZTQzZTlkXkEyXkFqcGdeQXVyNTkzMTkyNzI@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "1",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1446666",
-      "date": "1609668914",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Рождество на колёсах",
-        "orig": "Christmas on Wheels",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Марита Грабяк",
-        "genre": "мелодрама",
-        "actors": "Тия Сиркар,Лара Эмерси,Jennifer Ann Austin,Кейт Хармэн,Кристен Керник,Kate MacLellan,Рэнди Томас,Крис Вайолетт,Майкл Ксавьер",
-        "description": "Узнав, что дядюшка продал винтажный кабриолет её мамы, Эшли обращается за помощью к юристу, Дункану, чтобы вернуть машину.",
-        "slogan": "",
-        "premiere": "14 ноября 2020",
-        "age": "0",
-        "time": "5160",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMDg3Y2RkYjUtZGY2OS00MzMzLWFkNWItMTI1NGYxMjc4NTI4XkEyXkFqcGdeQXVyNTQ2NjI3NDQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "277"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "263867",
-      "date": "1609659912",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Эхо",
-        "orig": "Ekko",
-        "alter": "",
-        "year": "2007",
-        "country": "Дания",
-        "director": "Андерс Моргенталер",
-        "genre": "ужасы,триллер,драма",
-        "actors": "Ким Бодния,Вилладс Милтхерс Фриче,Стине Фишер Кристенсен,Петер Стормаре,Лукас Мунк Биллинг,Миккель Эмиль Бёйе,Мортен Кристенсен,Лаура Драсбек,Сара Готтлиб,Сёрен Хаух-Фаусбёлль",
-        "description": "После развода полицейский остается без сына и, чтобы вернуть его себе, похищает мальчика. Вместе с ребенком он укрывается в заброшенном доме в сельской местности. Но ситуация неожиданно выходит из-под контроля и превращается в настоящий кошмар…",
-        "slogan": "",
-        "premiere": "27 сентября 2007",
-        "age": "0",
-        "time": "4800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_263867.jpg",
-        "rating": {
-          "rating_kp": "5.616",
-          "vote_num_kp": "97",
-          "rating_imdb": "6",
-          "vote_num_imdb": "421"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1434424",
-      "date": "1609634702",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Проклятье верёвки 2",
-        "orig": "Kui jiang: Zong xie 2",
-        "alter": "",
-        "year": "2020",
-        "country": "Тайвань",
-        "director": "Ляо Шихань",
-        "genre": "ужасы",
-        "actors": "Ли Каншэн,Уилсон,Вера Чэнь,Чэнь Бочжэн,Wan-Hao Chen,Кими Ся,Fox Lee,Хонг Ли,Kuo-Shao Liu,Пэнг Сунь",
-        "description": "Чиа-мин, девушка с даром ясновидения, вместе с двумя блогерами пытается призвать дух в прямом эфире. Когда ситуация выходит из-под контроля, её едва спасает Хуо-гэ, также обладающий сверхспособностями, но давно потерявший волю продолжать борьбу с Тайским Демоном. В это время продолжается волна ужасающих самоубийств, и прервать её получится только в том случае, если медиумы будут действовать сообща.",
-        "slogan": "",
-        "premiere": "2 сентября 2020",
-        "age": "0",
-        "time": "6240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1434424.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "7",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "200"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1014971",
-      "date": "1609628409",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Зависим от тебя",
-        "orig": "Addicted to You",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Mike Cochnar",
-        "genre": "комедия",
-        "actors": "Шэйн Хартлайн,Мелисса Паоло,Кэт Альтер,Choni Francis,Гаррет Мендез,Warren Burke,Тара Молика Эриксон,Брэд Гейдж,Тори Смит,Алекс Уолтерс",
-        "description": "Люк Питерс любой ценой избегает любви, следуя дядиному завету. Пытаясь отделаться от назойливой девушки, он притворяется сексоголиком.",
-        "slogan": "",
-        "premiere": "30 марта 2019",
-        "age": "18",
-        "time": "6000",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYzM5OTc0YzktYzY1OS00MjExLTg1NDQtYjFmOTM2NGVhZmNhXkEyXkFqcGdeQXVyMTgyMzU1NDE@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "6",
-          "vote_num_imdb": "26"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1247258",
-      "date": "1609628405",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ялда — ночь прощения",
-        "orig": "Yalda",
-        "alter": "",
-        "year": "2019",
-        "country": "Иран,Франция,Германия,Швейцария,Люксембург,Ливан",
-        "director": "Масуд Бахши",
-        "genre": "драма",
-        "actors": "Садаф Асгари,Бехназ Джафари,Бабак Карими,Ферештех Садре Орафай,Фору Гаджабагли,Арман Дарвиш,Ферештех Хоссейни,Закие Бехбахани,Рамона Шах,Фагие Солтани",
-        "description": "Марьям случайно убила своего мужа Насера и приговорена к смертной казни. Единственный человек, который может ее спасти  - это Мона, дочь Насера. Все, что Мона должна сделать, это прийти на телешоу и в прямом эфире простить Марьям. Но прощение становится практически невозможным, когда обиды прошлого затмевают настоящее.",
-        "slogan": "",
-        "premiere": "1 февраля 2019",
-        "age": "16",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1247258.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "90",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "348"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1226791",
-      "date": "1609624844",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ускорение",
-        "orig": "Acceleration",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Майкл Мерино,Дэниэл Дзирилли",
-        "genre": "боевик,триллер,криминал",
-        "actors": "Шон Патрик Флэнери,Дольф Лундгрен,Чак Лиделл,Наталия Берн,Куинтон Джексон,Дэнни Трехо,Ал Сапиенца,Olya Banar,Riccardo Berdini,Райан Карнес",
-        "description": "Владик Зорич (Дольф Лундгрен), преступный гений, чьи щупальца дотянулись до каждого аспекта преступной жизни Лос-Анджелеса, будь то оружие, азартные игры, наркотики или торговля людьми, выясняет, что его пути пересеклись с самой ловкой оперативницей Роной Зёкки. Похитив сына Роны, Владик заставляет Рону устранить своих конкурентов и вернуть важную информацию и всё это в одну ночь.",
-        "slogan": "Action Has Never Been This Fast",
-        "premiere": "5 ноября 2019",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1226791.jpg",
-        "rating": {
-          "rating_kp": "3.818",
-          "vote_num_kp": "146",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "1095"
         }
       }
     }

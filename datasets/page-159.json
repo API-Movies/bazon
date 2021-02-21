@@ -2,6 +2,216 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "4475",
+      "date": "1592546402",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Жизнь, или Что-то вроде того",
+        "orig": "Life or Something Like It",
+        "alter": "",
+        "year": "2002",
+        "country": "США",
+        "director": "Стивен Херек",
+        "genre": "комедия,мелодрама",
+        "actors": "Анджелина Джоли, Эдвард Бёрнс, Тони Шэлуб, Кристиан Кэйн, Джеймс Гэммон, Мелисса Эррико, Стокард Ченнинг, Лиза Торнхилл, Грегори Итцин, Макс Бейкер",
+        "description": "«Ты умрешь в следующий четверг». Конечно, на эту фразу бомжа-предсказателя можно было не обращать никакого внимания. Но он угадал, что утром будет град и с каким счетом закончится футбольный матч. А это значит, что через неделю ты умрешь... наверное.\r\n\r\nРепортеру Лэнни не повезло - именно ей была адресована фраза загадочного бомжа. Она хочет долго жить, у нее есть жених, которого она, наверное, любит. Но если осталось жить всего семь дней, то все это, скорее всего, теперь неважно? Надо что-то сделать, ведь еще можно изменить свою судьбу. Или уже нельзя?",
+        "slogan": "What if you only had 7 days to live?",
+        "premiere": "26 апреля 2002",
+        "age": "16",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4475.jpg",
+        "rating": {
+          "rating_kp": "6.909",
+          "vote_num_kp": "9984",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "23204"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1241524",
+      "date": "1592516711",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Твой ход",
+        "orig": "Kuessipan",
+        "alter": "",
+        "year": "2019",
+        "country": "Канада",
+        "director": "Мириам Верро",
+        "genre": "драма",
+        "actors": "Бриджитт Пупар,&Eacute;tienne Galloy,Douglas Gr&eacute;goire,Mike Innu Papu Mckenzie,Sharon Ishpatao Fontaine,Yamie Gr&eacute;goire,Martin Desgagn&eacute;s,Billy-Jack Jourdain,Anniss Desterres,Mikupishan Poirier",
+        "description": "Две лучшие подруги растут в резервации инну. Они обещали друг другу держаться вместе, несмотря ни на что. Но их дружба пошатнулась, когда Микуан влюбилась в чужака.",
+        "slogan": "",
+        "premiere": "6 сентября 2019",
+        "age": "0",
+        "time": "7020",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1241524.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "29",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "419"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1120384",
+      "date": "1592516705",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Цвингли",
+        "orig": "Zwingli",
+        "alter": "",
+        "year": "2019",
+        "country": "Швейцария,Германия",
+        "director": "Штефан Хаупт",
+        "genre": "драма,биография,история",
+        "actors": "Максимилиан Симонишек,Sarah Sophia Meyer,Анатоль Таубман,Штефан Курт,Шарлотта Шваб,Андреа Цогг,Oscar Bingisser,Рэйчел Брауншвейг,Михаэль Фингер,Аарон Хиц",
+        "description": "О христианском гуманисте и философе Ульрихе Цвингли (1484-1531), лидере швейцарской Реформации.",
+        "slogan": "",
+        "premiere": "17 января 2019",
+        "age": "0",
+        "time": "7680",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1120384.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "27",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "224"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1231823",
+      "date": "1592515820",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Дни моей славы",
+        "orig": "Mes jours de gloire",
+        "alter": "",
+        "year": "2019",
+        "country": "Франция",
+        "director": "Антуан де Бери",
+        "genre": "комедия",
+        "actors": "Венсан Лакост,Эммануэль Дево,Кристофер Ламберт,Ноэ Абита,Дэмиен Шапель,Marc Fraize,Antoine Poulet,Йохен Хаэгеле,Pierre Maillard,Тома Блюменталь",
+        "description": "Комедия об инфантильном тридцатилетнем актере, живущем в ожидании своего триумфа.",
+        "slogan": "",
+        "premiere": "31 августа 2019",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1231823.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "51",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "315"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1057813",
+      "date": "1592515814",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Неоновое сердце",
+        "orig": "Neon Heart",
+        "alter": "",
+        "year": "2018",
+        "country": "Дания",
+        "director": "Laurits Flensted-Jensen",
+        "genre": "драма",
+        "actors": "Виктория Кармен Сонн,Karen Sigrid Arild Albrechtsen,Никлас Свале Андерсен,Christian Andersen Busk,Том Хейл,Nadia Hansen,Niklas Herskind,Joen H&oslash;jerslev,Sebastian Svane Jacobsen,Steffen Meek Jatczak",
+        "description": "Дебютная работа Лорица Фленстед-Йенсена. Фильм рассказывает о трех молодых людей, пытающихся найти жизненные опоры. У каждого за спиной неудачи и испытания. Через главных героев режиссер обращается к темам, которые еще недавно расценивались как полу-или полностью табуированные: работа в порноиндустрии, излечение от наркотической зависимости, футбольное хулиганство.",
+        "slogan": "",
+        "premiere": "26 сентября 2018",
+        "age": "18",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1057813.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "27",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "218"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1340335",
+      "date": "1592511310",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Призрак",
+        "orig": "Affraa Taffri",
+        "alter": "",
+        "year": "2020",
+        "country": "Индия",
+        "director": "Viral Rao",
+        "genre": "драма",
+        "actors": "Прашант Барот,Nilesh Bhrahmbhatt,Chetan Daiya,Sonali Lele Desai,Vipul Desai,Mitra Gadhvi,Jagruti Goswami,Аншу Джоши,Rishil Joshi,Ronak Madgut",
+        "description": "Это история произошла в деревне Вишрампур. Староста деревни Трикамдас лежит на смертном одре и хочет исполнить свое последнее желание - увидеть, как его внучка выходит замуж. Вот только девушка не собирается вступать в брак в ближайшее время.",
+        "slogan": "",
+        "premiere": "14 февраля 2020",
+        "age": "0",
+        "time": "7860",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzU4ZTQ1NTMtMjZhZi00OTIzLWE2ZDItODkyMTA2M2E1Y2VhXkEyXkFqcGdeQXVyMTA4NDk4NDEw.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "46"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1313240",
       "date": "1592509506",
       "camrip": "0",
@@ -29,9 +239,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1313240.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "40",
+          "vote_num_kp": "42",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "196"
+          "vote_num_imdb": "198"
         }
       }
     },
@@ -64,7 +274,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_859919.jpg",
         "rating": {
           "rating_kp": "3.941",
-          "vote_num_kp": "2723",
+          "vote_num_kp": "2726",
           "rating_imdb": "5.7",
           "vote_num_imdb": "4247"
         }
@@ -389,7 +599,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1113649.jpg",
         "rating": {
           "rating_kp": "6.032",
-          "vote_num_kp": "999",
+          "vote_num_kp": "1000",
           "rating_imdb": "6.2",
           "vote_num_imdb": "9050"
         }
@@ -702,8 +912,8 @@
         "time": "5220",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_87387.jpg",
         "rating": {
-          "rating_kp": "5.619",
-          "vote_num_kp": "19068",
+          "rating_kp": "5.62",
+          "vote_num_kp": "19072",
           "rating_imdb": "5.1",
           "vote_num_imdb": "68467"
         }
@@ -1018,7 +1228,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1083297.jpg",
         "rating": {
           "rating_kp": "6.357",
-          "vote_num_kp": "3284",
+          "vote_num_kp": "3291",
           "rating_imdb": "6.7",
           "vote_num_imdb": "28616"
         }
@@ -1605,7 +1815,7 @@
           "rating_kp": "7.688",
           "vote_num_kp": "25902",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "38634"
+          "vote_num_imdb": "38778"
         }
       }
     },
@@ -1792,7 +2002,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047995.jpg",
         "rating": {
           "rating_kp": "7.189",
-          "vote_num_kp": "5591",
+          "vote_num_kp": "5598",
           "rating_imdb": "7.3",
           "vote_num_imdb": "7888"
         }
@@ -2013,7 +2223,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_229263.jpg",
         "rating": {
           "rating_kp": "8.02",
-          "vote_num_kp": "2512",
+          "vote_num_kp": "2511",
           "rating_imdb": "7.8",
           "vote_num_imdb": "59528"
         }
@@ -2220,268 +2430,10 @@
         "time": "26820",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_891388.jpg",
         "rating": {
-          "rating_kp": "7.213",
-          "vote_num_kp": "1657",
+          "rating_kp": "7.217",
+          "vote_num_kp": "1656",
           "rating_imdb": "6.1",
           "vote_num_imdb": "23"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "945388",
-      "date": "1592375862",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "17",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080,
-          "14": 1080,
-          "15": 1080,
-          "16": 1080,
-          "17": 1080
-        }
-      },
-      "info": {
-        "rus": "Бедные люди",
-        "orig": "Бедные люди",
-        "alter": "Бисер",
-        "year": "2016",
-        "country": "Россия",
-        "director": "Жанна Кадникова",
-        "genre": "комедия,сериал",
-        "actors": "Дмитрий Лысенков, Ольга Бузова, Александр Адабашьян, Алиса Гребенщикова, Павел Сборщиков, Ангелина Миримская, Максим Филипьев, Марина Богатова, Александр Мехряков, Екатерина Караченцева",
-        "description": "История интеллигентного неудачника, который живет в коммунальной квартире в Петербурге, работает «литературным негром» у Ольги Бузовой и пишет от ее лица автобиографию.",
-        "slogan": "",
-        "premiere": "11 апреля 2016",
-        "age": "16",
-        "time": "1500",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_945388.jpg",
-        "rating": {
-          "rating_kp": "7.279",
-          "vote_num_kp": "6036",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "65"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "840738",
-      "date": "1592375779",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "8",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080
-        }
-      },
-      "info": {
-        "rus": "Дружина",
-        "orig": "Дружина",
-        "alter": "",
-        "year": "2015",
-        "country": "Россия",
-        "director": "Михаил Колпахчиев",
-        "genre": "боевик,история,сериал",
-        "actors": "Сергей Воробьёв, Михаил Богданов, Александр Эрлих, Геннадий Казачков, Алексей Парасевич, Андрей Погребинский, Павел Бадыров, Андрей Шимко, Алан Томаев, Дарья Циберкина",
-        "description": "13-й век. В затерянное в дремучих лесах в небольшое селение прибывает малочисленная дружина - неразговорчивые хмурые воины, про которых говорят, что они понимают язык зверей и умеют заговаривать ветер. Дружине новгородского князя предстоит найти и доставить в Новогород мальчика по имени Александр, которому позже дадут прозвище Невский...",
-        "slogan": "Герои рядом",
-        "premiere": "24 мая 2015",
-        "age": "16",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_840738.jpg",
-        "rating": {
-          "rating_kp": "7.015",
-          "vote_num_kp": "3304",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "37"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1312758",
-      "date": "1592375734",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "HDTVRip",
-      "translation": "Amedia",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "5",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 720,
-          "4": 720,
-          "5": 720
-        }
-      },
-      "info": {
-        "rus": "Исчезновения и убийства в Атланте: Пропавшие дети",
-        "orig": "Atlanta's Missing and Murdered: The Lost Children",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Джошуа Беннетт,Маро Чермайефф,Джефф Дюпре",
-        "genre": "документальный,криминал",
-        "actors": "Tony Axam,Monica Kaufman Pearson,Jim Procopio,Mary Welcome,Danny Agan,Lou Arcangeli,Sheila Baltazar,Tyrone Brooks,Joseph Drolet,Angelo Fuster",
-        "description": "Рассказ о похищениях и убийствах детей в Атланте в период с 1979 по 1981 год. Раскрыто было только два дела, остальные же долго время оставались в тени. Самое время поднять архивы и не только восстановить справедливость для семей пострадавших, но и понять, какое влияние эти жуткие события оказали на страну, и что они могут сказать о состоянии нации.",
-        "slogan": "",
-        "premiere": "6 апреля 2020",
-        "age": "18",
-        "time": "3600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1312758.jpg",
-        "rating": {
-          "rating_kp": "7.278",
-          "vote_num_kp": "316",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "812"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "993612",
-      "date": "1592375208",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Жил-был кот",
-        "orig": "Rudolf The Black Cat",
-        "alter": "Жил был кот",
-        "year": "2016",
-        "country": "Япония, Канада",
-        "director": "Мото Сакакибара, Кунихико Юяма",
-        "genre": "мультфильм,комедия,драма,приключения,семейный",
-        "actors": "Мао Иноуэ, Рёхэй Судзуки, Акио Оцука, Арата Фурута, Нана Мидзуки, Норито Ясима, Рио Сасаки, Сандаю Докумамуси, Юка Тэрасаки",
-        "description": "История маленького чёрного котёнка с гордым именем Рудольф, жившего счастливо и спокойно ровно до тех пор, пока по роковой случайности он не оказался в неизвестном большом городе. Здесь герою придётся выживать без ласки и заботы хозяев, а ведь раньше он был твёрдо убежден, что всегда будет в полной безопасности. \r\n\r\nБлуждая по улицам незнакомого города, Рудо встречает взрослого полосатого кота, нагоняющего ужас на всю округу. Он становится для малыша наставником, учит жизни на улице и помогает обрести новых друзей.",
-        "slogan": "Маленький герой - большие приключения",
-        "premiere": "22 июня 2016",
-        "age": "6",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_993612.jpg",
-        "rating": {
-          "rating_kp": "6.813",
-          "vote_num_kp": "22451",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "662"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1185770",
-      "date": "1592374961",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Восточный фронт: Точка невозврата",
-        "orig": "The Point of No Return",
-        "alter": "",
-        "year": "2020",
-        "country": "Великобритания",
-        "director": "Рик Робертс",
-        "genre": "военный",
-        "actors": "Мхэйри Калви,Крис Уилсон,Laura Jean Marsh,Джастин Хейуорд,Дженнифер Мартин,Megan Tremethick,Нил Уорд,Luke Junior,Bethany Slater,Josh Harper",
-        "description": "Небольшая группа немецких солдат, оказавшихся в тылу Красной Армии на восточном фронте, пытается вернуться на позиции своих войск.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "6600",
-        "poster": "https://m.media-amazon.com/images/M/MV5BM2U3NzUwNmUtMjZiMi00NDQ0LWEyOTMtYWM5YjA5MTgxZjk3XkEyXkFqcGdeQXVyNjE2MjkzMjk@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "21",
-          "rating_imdb": "3.2",
-          "vote_num_imdb": "195"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1324202",
-      "date": "1592374808",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Тайны Хидден Орчеда. Ограбление Эйрбиэнби",
-        "orig": "Hidden Orchard Mysteries: The Case of the Air B and B Robbery",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Брайан Шакелфорд",
-        "genre": "семейный",
-        "actors": "Diane D Carter,Davey Moore,Ванесса Падла,Гэбриэлль Пасторе,Kim Akia,Donovan Williams,Corey J. Grant,Kevin Robinson,Hunter Bills,Candice Richardson",
-        "description": "Две девочки-подростка, Габби и Лулу, берут на себя роль детективов, чтобы расследовать ограбление в своем маленьком городе Хидден Орчед. Все здесь становятся подозреваемыми, и юные детективы намерены узнать, кто действительно виновен.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNjRlN2M3MmUtZTdjOC00YzE1LThkNTgtZTQ4YzVhMWYzZmFjXkEyXkFqcGdeQXVyMjY5MDgxOA@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "0",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
         }
       }
     }

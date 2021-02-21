@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "981222",
+      "date": "1579259515",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Капитал в XXI веке",
+        "orig": "Capital in the Twenty-First Century",
+        "alter": "",
+        "year": "2019",
+        "country": "Франция,Новая Зеландия",
+        "director": "Джастин Пембертон",
+        "genre": "документальный",
+        "actors": "",
+        "description": "Главный персонаж фильма &#151; капитализм. В мире капитала Симпсоны соседствуют с героями Джейн Остин, Уолл-стрит влияет на цены в Окленде, а причины сегодняшней инфляции берут свое начало аж в Первой мировой войне.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "0",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_981222.jpg",
+        "rating": {
+          "rating_kp": "7.329",
+          "vote_num_kp": "2302",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "1696"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1203112",
+      "date": "1579174418",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "720",
+      "info": {
+        "rus": "Царь зверей",
+        "orig": "The Donkey King",
+        "alter": "",
+        "year": "2018",
+        "country": "Пакистан",
+        "director": "Азиз Джиндани",
+        "genre": "мультфильм,комедия,семейный",
+        "actors": "Афзал Кхан,Хина Дильпазир,Гулам Мохиуддин,Адиль Хашми,Файзал Куреши,Джавед Шейх,Шафат Али,Васай Чодри,Шаббир Ян,Ахсан Рахим",
+        "description": "&laquo;Если ты родился ослом, то не обязательно всю жизнь жить как осел. Мечтай, и твои мечты осуществятся&raquo;. Получив такое напутствие от отца, осел по имени Мангу с оптимизмом смотрит на жизнь. И однажды ему действительно улыбается удача. В стране грядут выборы нового правителя. По невероятному стечению обстоятельств, претендентов на трон всего двое: он и избалованный принц, которого народ терпеть не может. Казалось бы, дело в шляпе, а корона на голове у ослика! Но сможет ли простой осел из бедной семьи стать царем зверей? Ведь речи произносить его никто не учил, а всё, чем он управлял &#151; это утюг и доска для стирки белья!",
+        "slogan": "За осла ответишь!",
+        "premiere": "12 октября 2018",
+        "age": "6",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1203112.jpg",
+        "rating": {
+          "rating_kp": "6.044",
+          "vote_num_kp": "6956",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "542"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "843849",
+      "date": "1579174291",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Жизнь на грани",
+        "orig": "Life on the Line",
+        "alter": "",
+        "year": "2015",
+        "country": "США",
+        "director": "Дэвид Хэкл",
+        "genre": "боевик,драма",
+        "actors": "Джон Траволта, Кейт Босворт, Девон Сава, Джил Беллоуз, Джули Бенц, Райан Роббинс, Тай Олссон, Шэрон Стоун, Риз Александр, Эмили Уллерап",
+        "description": "Команда электромонтажников, занятых на опасной работе, борется за то, чтобы удержать любимых женщин, пока не вступают в новую борьбу - уже за собственную жизнь - с неистовыми силами природы.",
+        "slogan": "Courage. Risk. Sacrifice",
+        "premiere": "5 ноября 2015",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843849.jpg",
+        "rating": {
+          "rating_kp": "5.59",
+          "vote_num_kp": "1393",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "4781"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1169370",
+      "date": "1579174164",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Портрет девушки в огне",
+        "orig": "Portrait de la jeune fille en feu",
+        "alter": "",
+        "year": "2019",
+        "country": "Франция",
+        "director": "Селин Сьямма",
+        "genre": "драма",
+        "actors": "Ноэми Мерлан,Адель Энель,Луана Байрами,Валерия Голино,Кристель Барас,Арман Буланжер,Ги Деламарш,Клеман Буассу,Мишель Клеман,Сесиль Морел",
+        "description": "Бретань, 1770. Марианна, художница, приезжает в имение на побережье, чтобы написать портрет дочери его владелицы &#151; Элоизы. Картина нужна, чтобы отправить жениху Элоизы в Милан. В знак протеста против замужества девушка отказывается позировать, и гостью представляют как компаньонку для прогулок. Проводя все больше времени вместе, девушки начинают чувствовать взаимное притяжение.",
+        "slogan": "",
+        "premiere": "19 мая 2019",
+        "age": "18",
+        "time": "7260",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1169370.jpg",
+        "rating": {
+          "rating_kp": "7.264",
+          "vote_num_kp": "14105",
+          "rating_imdb": "8.1",
+          "vote_num_imdb": "64584"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1085625",
       "date": "1579174007",
       "camrip": "0",
@@ -178,7 +318,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_412342.jpg",
         "rating": {
           "rating_kp": "7.994",
-          "vote_num_kp": "53636",
+          "vote_num_kp": "53676",
           "rating_imdb": "8.4",
           "vote_num_imdb": "220408"
         }
@@ -407,7 +547,7 @@
           "rating_kp": "7.93",
           "vote_num_kp": "148452",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "283323"
+          "vote_num_imdb": "283457"
         }
       }
     },
@@ -755,7 +895,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_566283.jpg",
         "rating": {
           "rating_kp": "6.793",
-          "vote_num_kp": "81301",
+          "vote_num_kp": "81348",
           "rating_imdb": "7.1",
           "vote_num_imdb": "322921"
         }
@@ -895,7 +1035,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1128984.jpg",
         "rating": {
           "rating_kp": "6.671",
-          "vote_num_kp": "12205",
+          "vote_num_kp": "12213",
           "rating_imdb": "6.7",
           "vote_num_imdb": "60673"
         }
@@ -930,7 +1070,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_15931.jpg",
         "rating": {
           "rating_kp": "6.502",
-          "vote_num_kp": "1022",
+          "vote_num_kp": "1021",
           "rating_imdb": "7",
           "vote_num_imdb": "9402"
         }
@@ -1074,8 +1214,8 @@
         "time": "2700",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1140088.jpg",
         "rating": {
-          "rating_kp": "6.662",
-          "vote_num_kp": "1183",
+          "rating_kp": "6.663",
+          "vote_num_kp": "1182",
           "rating_imdb": "7.1",
           "vote_num_imdb": "5953"
         }
@@ -1468,7 +1608,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_623379.jpg",
         "rating": {
           "rating_kp": "6.348",
-          "vote_num_kp": "19188",
+          "vote_num_kp": "19192",
           "rating_imdb": "6.4",
           "vote_num_imdb": "67453"
         }
@@ -1923,7 +2063,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_405776.jpg",
         "rating": {
           "rating_kp": "6.209",
-          "vote_num_kp": "3061",
+          "vote_num_kp": "3060",
           "rating_imdb": "6.2",
           "vote_num_imdb": "8649"
         }
@@ -1992,150 +2132,10 @@
         "time": "0",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_60498.jpg",
         "rating": {
-          "rating_kp": "7.206",
+          "rating_kp": "7.207",
           "vote_num_kp": "1626",
           "rating_imdb": "5.4",
           "vote_num_imdb": "507"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "146354",
-      "date": "1578918043",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Четверо против кардинала",
-        "orig": "Les Charlots en folie: À nous quatre Cardinal!",
-        "alter": "",
-        "year": "1974",
-        "country": "Франция",
-        "director": "Андре Юнебель",
-        "genre": "комедия,приключения",
-        "actors": "Жерар Ринальди,Жерар Филипелли,Жан Саррю,Жан-Ги Фешнер,Жан Вальмонт,Иван Танги,Жиб Гроссак,Жорж Мансар,Бернард Хэллер,Даниэль Секкальди",
-        "description": "Слуги помогают своим хозяевам вернуть королеве алмазные подвески и посрамить кардинала Ришелье",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_146354.jpg",
-        "rating": {
-          "rating_kp": "7.3",
-          "vote_num_kp": "1155",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "289"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "109716",
-      "date": "1578917939",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Все оттенки тьмы",
-        "orig": "Tutti i colori del buio",
-        "alter": "",
-        "year": "1972",
-        "country": "Италия,Испания,Великобритания",
-        "director": "Серджо Мартино",
-        "genre": "ужасы,триллер",
-        "actors": "Джордж Хилтон,Эдвиж Фенек,Иван Рассимов,Хулиан Угарте,Жорж Риго,Клементина Кумани,Ниевес Наварро,Марина Малфатти,Лучано Пигоцци,Доминик Бошеро",
-        "description": "Ночами Джоан страдает от страшных снов, а днем ее преследует человек из кошмаров. Новая соседка обещает помочь и приводит женщину в секту, культивирующую колдовские кровавые ритуалы и свальный грех.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_109716.jpg",
-        "rating": {
-          "rating_kp": "6.179",
-          "vote_num_kp": "422",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "3367"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "980",
-      "date": "1578917895",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Этот мех норки",
-        "orig": "That Touch of Mink",
-        "alter": "",
-        "year": "1962",
-        "country": "США",
-        "director": "Делберт Манн",
-        "genre": "мелодрама,комедия",
-        "actors": "Кэри Грант,Дорис Дэй,Гиг Янг,Одри Медоуз,Алан Хьюит,Джон Эстин,Дик Сарджент,Джои Фэй,Лори Митчелл,Джон Фидлер",
-        "description": "Он работает финансистом, &laquo;пожирающим&raquo; компании, она &#151; аккуратная девочка, бегающая своими длинными ножками по Манхэттэну в поисках работы. Всё начинается с того, что его лимузин обрызгал её грязной водой из лужи&#133;",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_980.jpg",
-        "rating": {
-          "rating_kp": "6.467",
-          "vote_num_kp": "336",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "8737"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1718",
-      "date": "1578917837",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Волшебный меч: Спасение Камелота",
-        "orig": "Quest for Camelot",
-        "alter": "",
-        "year": "1998",
-        "country": "США",
-        "director": "Фредерик Ду Чау",
-        "genre": "мультфильм,комедия,фэнтези,драма,мюзикл,приключения,семейный",
-        "actors": "Джессалин Гилсиг, Андреа Корр, Кэри Элвес, Брайан Уайт, Гари Олдман, Эрик Айдл, Дон Риклз, Джейн Сеймур, Селин Дион, Пирс Броснан",
-        "description": "Все то же царство Камелот, все тот же король Артур, все тот же легендарный меч Экскалибур, который похищает злой рыцарь Рубер. Храбрая девушка по имени Кейли отправляется на поиски меча, ведомая ослепшим юношей по имени Гаррет.\r\n\r\nОни встречаются с забавным созданием - двухголовым драконом по имени Девон и Корнуол. Во время их волшебного и музыкального путешествия Кейли и Гаррет открывают для себя нескончаемую силу дружбы и отваги.",
-        "slogan": "Devon &amp; Cornwall: A two-headed dragon with an identity crisis",
-        "premiere": "15 мая 1998",
-        "age": "0",
-        "time": "5160",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1718.jpg",
-        "rating": {
-          "rating_kp": "7.532",
-          "vote_num_kp": "4781",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "15128"
         }
       }
     }

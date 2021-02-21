@@ -2,6 +2,216 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1204245",
+      "date": "1587947253",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Отель для самоубийц",
+        "orig": "Selvmordsturisten",
+        "alter": "",
+        "year": "2019",
+        "country": "Дания,Норвегия,Германия",
+        "director": "Йонас Александр Арнбю",
+        "genre": "драма,детектив",
+        "actors": "Николай Костер-Вальдау,Кейт Эшфилд,Тува Новотны,Роберт Арамайо,Ян Бейвут,Соня Рихтер,Кая Уилкинс,Йоханна Вокалек,Андерс Мосслинг,Педер Томас Педерсен",
+        "description": "Страховой агент Макс расследует исчезновение Артура. Задание приводит его в странную гостиницу, предназначенную специально для самоубийц.",
+        "slogan": "",
+        "premiere": "3 октября 2019",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1204245.jpg",
+        "rating": {
+          "rating_kp": "5.382",
+          "vote_num_kp": "2697",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "973"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1357184",
+      "date": "1587946782",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Коронавирус, объяснение",
+        "orig": "Coronavirus, Explained",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Грэйс Ван",
+        "genre": "документальный",
+        "actors": "Дж.К. Симмонс",
+        "description": "В 2020 году мир изменился. \"Коронавирус, объяснение\" — спецпроект Netflix, в котором расскажут о пандемии коронавируса, борьба с ним и как избежать психических расстройств в текущей ситуации. Как коронавирус стал глобальной пандемией, кардинально изменив жизнь всего человечества? Зрителей ожидает детальный и подробный разбор COVID-19.",
+        "slogan": "",
+        "premiere": "26 апреля 2020",
+        "age": "0",
+        "time": "1560",
+        "poster": "https://media.myshows.me/shows/normal/e/e7/e7c94c5aa90db5db6e18985bfb810440.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "19",
+          "rating_imdb": "7.7",
+          "vote_num_imdb": "1673"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1112909",
+      "date": "1587945501",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ма",
+        "orig": "Ma",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Тейт Тейлор",
+        "genre": "ужасы,триллер",
+        "actors": "Октавия Спенсер, Диана Сильверс, Джульетт Льюис, МакКэйли Миллер, Кори Фогельманис, Джанни Паоло, Данте Браун, Тэниэлл Уэйверс, Доминик Бёрджесс, Хезер Мари Пэйт",
+        "description": "Все знают, что у МА самые крутые вечеринки в городе. Здесь всегда громкая музыка, и алкоголь льется рекой. В этом доме нет никаких ограничений, кроме одного: никогда не заходи в ее комнату.\r\n\r\n Добро пожаловать к МА.",
+        "slogan": "Осторожно, детки, берегитесь",
+        "premiere": "30 мая 2019",
+        "age": "18",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112909.jpg",
+        "rating": {
+          "rating_kp": "5.459",
+          "vote_num_kp": "23669",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "40545"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1313568",
+      "date": "1587889188",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "720",
+      "info": {
+        "rus": "Прощание со Сталиным",
+        "orig": "State Funeral",
+        "alter": "",
+        "year": "2019",
+        "country": "Нидерланды,Литва",
+        "director": "Сергей Лозница",
+        "genre": "документальный,история",
+        "actors": "Сергей Лозница, Мария Шустова, Сергей Лозница",
+        "description": "Фильм основан на уникальных архивных материалах, снятых в СССР 5-9 марта 1953 года.",
+        "slogan": "",
+        "premiere": "6 сентября 2019",
+        "age": "16",
+        "time": "8100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1313568.jpg",
+        "rating": {
+          "rating_kp": "7.302",
+          "vote_num_kp": "1914",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "377"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1194477",
+      "date": "1587889133",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Рустум",
+        "orig": "Rustum",
+        "alter": "",
+        "year": "2019",
+        "country": "Индия",
+        "director": "Ravi Varma",
+        "genre": "боевик",
+        "actors": "Шива Раджкумар,Шраддха Шринатх,Сакши Чаудхари,Sonu Acharya,Anil,Bheesma,Chetan,Chinnayya,Devrajappa,Дхенрадж",
+        "description": "В штате Бихар высокий уровень криминала и коррупции, но всякое противодействие им блокируется министром внутренних дел штата. Все вокруг знают, что &laquo;теневой&raquo; бизнес по продаже человеческих органов курирует семья министра, которая содержит целую армию бандитов. Полиция и пресса обходят стороной эту неудобную тему, особенно после показательных казней честных полицейских. У полицейского Абишека, по прозвищу Лев Бихара, убивают двух друзей-офицеров при попытке расследовать многочисленные похищения детей. Абишек, при поддержке министра внутренних дел страны, клянется довести до конца запутанное дело и отомстить за погибших друзей. Не зря коллеги зовут его Рустум &#151; звезда века.",
+        "slogan": "",
+        "premiere": "28 июня 2019",
+        "age": "0",
+        "time": "7680",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1194477.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "17",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "143"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1158429",
+      "date": "1587888939",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Сквозь горизонт",
+        "orig": "Le milieu de l'horizon",
+        "alter": "",
+        "year": "2020",
+        "country": "Канада",
+        "director": "Леерисе Дэльфин",
+        "genre": "драма",
+        "actors": "Клеманс Поэзи,Летиция Каста,Тибо Эврар,Фред Отье,Патрик Декамп,Lisa Harder,Гийом Лемарр,Luc Bruchez",
+        "description": "Гас проводит свои каникулы, читая комиксы, помогая отцу, который вложил все силы курятник. Зазуха осложняет жизнь.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1158429.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "27",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "146"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "522900",
       "date": "1587888598",
       "camrip": "0",
@@ -252,7 +462,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BMDlmMjBjZTgtYzdmNS00OTFmLWI0YjktMTM0ZWJlOWFmN2UwXkEyXkFqcGdeQXVyNjM0MTMyNjc@._V1_SY1000_CR0,0,762,1000_AL_.jpg",
         "rating": {
           "rating_kp": "4.932",
-          "vote_num_kp": "336",
+          "vote_num_kp": "337",
           "rating_imdb": "4.9",
           "vote_num_imdb": "2126"
         }
@@ -357,9 +567,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1108664.jpg",
         "rating": {
           "rating_kp": "6.26",
-          "vote_num_kp": "1112",
+          "vote_num_kp": "1113",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "3675"
+          "vote_num_imdb": "3708"
         }
       }
     },
@@ -392,7 +602,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_36544.jpg",
         "rating": {
           "rating_kp": "7.283",
-          "vote_num_kp": "71787",
+          "vote_num_kp": "71799",
           "rating_imdb": "7.3",
           "vote_num_imdb": "234360"
         }
@@ -812,7 +1022,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_611813.jpg",
         "rating": {
           "rating_kp": "3.945",
-          "vote_num_kp": "5098",
+          "vote_num_kp": "5100",
           "rating_imdb": "4",
           "vote_num_imdb": "15735"
         }
@@ -882,7 +1092,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BMTlkZjM1MDctZTZlOC00NDQwLTg3ZGEtNTJhMWQ2YWIxNGViXkEyXkFqcGdeQXVyMjQ5MjYwNDE@._V1_SY1000_CR0,0,664,1000_AL_.jpg",
         "rating": {
           "rating_kp": "7.531",
-          "vote_num_kp": "15086",
+          "vote_num_kp": "15209",
           "rating_imdb": "7.3",
           "vote_num_imdb": "2106"
         }
@@ -989,7 +1199,7 @@
           "rating_kp": "7.903",
           "vote_num_kp": "144016",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "405840"
+          "vote_num_imdb": "405999"
         }
       }
     },
@@ -1022,7 +1232,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1103852.jpg",
         "rating": {
           "rating_kp": "7.872",
-          "vote_num_kp": "33815",
+          "vote_num_kp": "33846",
           "rating_imdb": "7.5",
           "vote_num_imdb": "4392"
         }
@@ -1057,7 +1267,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_78871.jpg",
         "rating": {
           "rating_kp": "7.192",
-          "vote_num_kp": "135570",
+          "vote_num_kp": "135606",
           "rating_imdb": "6.5",
           "vote_num_imdb": "214169"
         }
@@ -1197,7 +1407,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_279770.jpg",
         "rating": {
           "rating_kp": "6.877",
-          "vote_num_kp": "54154",
+          "vote_num_kp": "54157",
           "rating_imdb": "6",
           "vote_num_imdb": "88422"
         }
@@ -1234,7 +1444,7 @@
           "rating_kp": "6.055",
           "vote_num_kp": "107159",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "128021"
+          "vote_num_imdb": "128042"
         }
       }
     },
@@ -1302,7 +1512,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1048853.jpg",
         "rating": {
           "rating_kp": "6.367",
-          "vote_num_kp": "12213",
+          "vote_num_kp": "12221",
           "rating_imdb": "6.2",
           "vote_num_imdb": "12014"
         }
@@ -1514,7 +1724,7 @@
           "rating_kp": "7.818",
           "vote_num_kp": "143770",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "379920"
+          "vote_num_imdb": "379994"
         }
       }
     },
@@ -1547,219 +1757,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_808062.jpg",
         "rating": {
           "rating_kp": "5.747",
-          "vote_num_kp": "56457",
+          "vote_num_kp": "56462",
           "rating_imdb": "5.4",
           "vote_num_imdb": "141578"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1027785",
-      "date": "1587656043",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Темное зеркало",
-        "orig": "Look Away",
-        "alter": "",
-        "year": "2018",
-        "country": "Канада",
-        "director": "Асаф Бернштейн",
-        "genre": "ужасы,триллер",
-        "actors": "Индиа Айсли, Джейсон Айзекс, Мира Сорвино, Пенелопа Митчелл, Джон С. МакДональд, Харрисон Гилбертсон, Кристен Харрис, Кира Джонсон, Михал Бернштейн, Гленн Одеро",
-        "description": "У Марии нет друзей, и даже родители считают ее неудачницей. Свои секреты и обиды она доверяет только своему отражению в зеркале, демону-двойнику, который воплощает темную сторону ее души. Но как изменится жизнь Марии, если она выпустит своих демонов наружу и позволит им осуществить ее тайные желания?",
-        "slogan": "Дай волю своим тайным желаниям",
-        "premiere": "8 октября 2018",
-        "age": "18",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1027785.jpg",
-        "rating": {
-          "rating_kp": "5.394",
-          "vote_num_kp": "44667",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "13651"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "518040",
-      "date": "1587656043",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Диктатор",
-        "orig": "The Dictator",
-        "alter": "",
-        "year": "2012",
-        "country": "США",
-        "director": "Ларри Чарльз",
-        "genre": "комедия",
-        "actors": "Саша Барон Коэн, Анна Фэрис, Бен Кингсли, Джейсон Манцукас, Бобби Ли, Кевин Корригэн, Кэтрин Хан, Сет Моррис, Адиль Ахтар, Джон Си Райли",
-        "description": "Героическая история диктатора, который рискует своей жизнью, чтобы ни в коем случае не допустить демократию в свою столь любовно угнетаемую страну.",
-        "slogan": "",
-        "premiere": "16 мая 2012",
-        "age": "18",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_518040.jpg",
-        "rating": {
-          "rating_kp": "6.479",
-          "vote_num_kp": "97158",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "279199"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "201512",
-      "date": "1587656043",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Monamour: Любовь моя",
-        "orig": "Monamour",
-        "alter": "",
-        "year": "2005",
-        "country": "Италия",
-        "director": "Тинто Брасс",
-        "genre": "драма,для взрослых",
-        "actors": "Анна Жимская, Риккардо Марино, Марио Пароди, Нела Лучич, Лучия Луккесино, Вирджиния Бэррет, Паоло Ланца, Лео Мантовани, Массимо Карадонна, Федерико Чезарео",
-        "description": "Это история любви девушки из Венеции по имени Марта и француза Леона. Всего пять дней длится роман между Мартой и Леоном и их чувства с каждым днем становясь все сильнее. Но у Марты есть муж, который догадывается об увлечении своей жены...",
-        "slogan": "Discover the most hidden secrets in Marta's diary",
-        "premiere": "8 марта 2006",
-        "age": "18",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_201512.jpg",
-        "rating": {
-          "rating_kp": "6.026",
-          "vote_num_kp": "2433",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "4593"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "680499",
-      "date": "1587656043",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Окулус",
-        "orig": "Oculus",
-        "alter": "",
-        "year": "2013",
-        "country": "США",
-        "director": "Майк Флэнеган",
-        "genre": "ужасы,триллер",
-        "actors": "Карен Гиллан, Брентон Туэйтс, Кэти Сакхофф, Рори Кокрейн, Анналиса Бассо, Гаррет Райан, Джеймс Лэфферти, Мигель Сандовал, Кейт Сигел, Скотт Грэхэм",
-        "description": "Смерть родителей сильно повлияла на судьбу двух осиротевших детей. По прошествии времени, в двадцатилетнем возрасте, сестра все еще продолжает так считать и хочет доказать брату, что привидение, вышедшее из зеркала, стало причиной гибели близких людей и всех случившихся последующих бед...",
-        "slogan": "Хочешь жить – закрой глаза",
-        "premiere": "8 сентября 2013",
-        "age": "16",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_680499.jpg",
-        "rating": {
-          "rating_kp": "6.421",
-          "vote_num_kp": "60355",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "117648"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "652531",
-      "date": "1587656043",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Тайна дома с часами",
-        "orig": "The House with a Clock in Its Walls",
-        "alter": "",
-        "year": "2018",
-        "country": "США, Канада, Индия",
-        "director": "Элай Рот",
-        "genre": "комедия,ужасы,фантастика,фэнтези",
-        "actors": "Джек Блэк, Кейт Бланшетт, Оуэн Ваккаро, Кайл МакЛоклен, Рене Голдсберри, Коллин Кэмп, Санни Сулджик, Лоренца Иззо, Брэкстон Бьеркен, Ванесса Энн Уильямс",
-        "description": "Первое, что услышал Льюис, ступив на порог загадочного особняка своего дяди, - это тиканье часов, раздававшееся из древних стен. Он окунается в мир магии и колдовства, о существовании которого даже не подозревал. Здесь оживают картины, обитают невероятные создания, а сердце дома хранит тайну времени.",
-        "slogan": "Откройте дверь в бесконечность",
-        "premiere": "19 сентября 2018",
-        "age": "12",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_652531.jpg",
-        "rating": {
-          "rating_kp": "5.942",
-          "vote_num_kp": "42830",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "45806"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1067645",
-      "date": "1587656043",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дитя робота",
-        "orig": "I Am Mother",
-        "alter": "",
-        "year": "2019",
-        "country": "Австралия",
-        "director": "Грант Спьютор",
-        "genre": "ужасы,фантастика,триллер,драма",
-        "actors": "Клара Ругор, Роуз Бирн, Хилари Суэнк, Люк Хокер, Мэдди Лентон, Саммер Лентон, Хэйзел Сэндери, Тейлия Стурзэйкер, Джейкоб Нолан, Джонни Карсон",
-        "description": "После глобального катаклизма человечество вымирает. В подземном бункере автоматически активизируется аварийная программа, и робот-гуманоид «Мать» выращивает из эмбриона человеческого ребенка. Девушка, воспитанная под бережным присмотром «Матери», никогда не видела ни поверхности Земли, ни других людей. Но однажды её мир переворачивается, когда на пороге убежища появляется женщина с просьбой о помощи.",
-        "slogan": "She'll keep you safe",
-        "premiere": "25 января 2019",
-        "age": "16",
-        "time": "6780",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1067645.jpg",
-        "rating": {
-          "rating_kp": "6.616",
-          "vote_num_kp": "41077",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "76550"
         }
       }
     }

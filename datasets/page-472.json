@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "427202",
+      "date": "1573749888",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Из Парижа с любовью",
+        "orig": "From Paris with Love",
+        "alter": "",
+        "year": "2009",
+        "country": "Франция",
+        "director": "Пьер Морель",
+        "genre": "комедия,боевик,триллер,криминал",
+        "actors": "Джон Траволта, Джонатан Риз Майерс, Касия Смутняк, Ричард Дерден, Йин Бинг, Эмбер Роуз Рева, Эрик Годон, Франсуа Бредон, Чемс-Эддин Дамани, Сами Дарр",
+        "description": "Джеймсу можно позавидовать: должность личного помощника посла США во Франции, красавица-парижанка в качестве подружки, дорогие костюмы и непыльная работёнка оперативника ЦРУ. Но мечтает он совсем о другом - о полной приключений жизни настоящего тайного агента, спасающего мир кулаками, выстрелами и едкими репликами. Судьба иронично улыбается Джеймсу. Он получает настоящее боевое задание в придачу с напарником-сорвиголовой Чарли Уэксом. Но вскоре он понимает, что быть суперагентом не так уж и здорово, как он представлял.",
+        "slogan": "Two agents. One city. No merci",
+        "premiere": "4 февраля 2010",
+        "age": "16",
+        "time": "5340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_427202.jpg",
+        "rating": {
+          "rating_kp": "7.28",
+          "vote_num_kp": "109244",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "112446"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "2738",
+      "date": "1573749798",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Исповедь невидимки",
+        "orig": "Memoirs of an Invisible Man",
+        "alter": "",
+        "year": "1992",
+        "country": "США, Франция",
+        "director": "Джон Карпентер",
+        "genre": "комедия,фантастика,триллер,мелодрама",
+        "actors": "Чеви Чейз, Дэрил Ханна, Сэм Нил, Майкл МакКин, Стивен Тоболовски, Джим Нортон, Пэт Скиппер, Пол Перри, Ричард Эпкар, Стив Барр",
+        "description": "В результате взрыва в научной лаборатории главный герой фильма становится невидимым. Это переворачивает всю его жизнь; циничные сотрудники ЦРУ начинают охоту на него, однако с помощью очаровательной подружки ему удается выйти победителем из схватки с негодяями.",
+        "slogan": "An adventure like you've never seen",
+        "premiere": "28 февраля 1992",
+        "age": "12",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2738.jpg",
+        "rating": {
+          "rating_kp": "7.207",
+          "vote_num_kp": "8767",
+          "rating_imdb": "6",
+          "vote_num_imdb": "22880"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5080",
+      "date": "1573749713",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Невидимка",
+        "orig": "Hollow Man",
+        "alter": "",
+        "year": "2000",
+        "country": "США, Германия",
+        "director": "Пол Верховен",
+        "genre": "фантастика,триллер",
+        "actors": "Кевин Бейкон, Элизабет Шу, Джош Бролин, Ким Диккенс, Грег Гранберг, Джои Злотник, Мэри Рэндл, Уильям Дивэйн, Рона Митра, Пабло Эспиноса",
+        "description": "Профессор Себастьян Кейн ищет формулу невидимости. Он уже научился делать невидимыми животных. Но эксперимент нельзя считать завершенным, пока не будет найдена формула «возврата» - невидимый объект должен снова обрести плоть и кровь. \\n\r\n\\n\r\nПосле долгих поисков Кейн находит искомую формулу и успешно возвращает в мир реальных очертаний гориллу. Остается заключительный аккорд - совершить полный цикл на человеке. Как настоящий ученый, Кейн решает проделать это с самим собой...",
+        "slogan": "What would you do if you were invisible? How far would you go?",
+        "premiere": "2 августа 2000",
+        "age": "16",
+        "time": "6720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5080.jpg",
+        "rating": {
+          "rating_kp": "6.892",
+          "vote_num_kp": "39083",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "123910"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "683516",
+      "date": "1573749521",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "3 дня на убийство",
+        "orig": "3 Days to Kill",
+        "alter": "",
+        "year": "2014",
+        "country": "Франция, США",
+        "director": "МакДжи",
+        "genre": "комедия,боевик,триллер,драма,криминал",
+        "actors": "Кевин Костнер, Эмбер Хёрд, Хейли Стайнфелд, Конни Нильсен, Томас Лемаркус, Рихард Заммель, Марк Андреони, Бруно Риччи, Йонас Блоке, Эрик Эбони",
+        "description": "Итан Реннер один из лучших агентов. Чтоб не потерять свою семью, в течение 10 лет ему пришлось скрывать от них, чем он занимается. Но из-за этих тайн у него портится отношения с супругой. Вскоре он узнает, что смертельно болен. У него рак мозга последней стадии и жить ему остался не больше 6 месяцев. Он собирается уйти в отставку, чтобы провести последние дни со своей семьей, и наладить с ними отношения. Ему кажется, что с дочкой он быстро найдет общий язык, а вот с супругой Кристен будет труднее, но он не теряет надежды. Реннер рассказывает жене о болезни, и она позволяет ему видеться с дочкой. И к тому же ей нужно уехать, а несовершеннолетнюю девочку не с кем оставить.\r\n\r\nВскоре секретная служба вновь находит его, и предлагает сделку. Он должен в кратчайшие сроки найти и убить опасного торговца по кличке Волк, а взамен получает экспериментальный препарат для продления жизни на несколько лет. Итан соглашается, он хочет перебороть опухоль и подольше провести время со своей семьей. Реннер приступает к заданию, хотя знает, что ему может стать хуже в любой момент. На задании ему приходится бороться с галлюцинациями, которые появляются после использования препарата. А ведь параллельно он должен наладить отношение с дочерью.",
+        "slogan": "The question is, kill or die?",
+        "premiere": "12 февраля 2014",
+        "age": "12",
+        "time": "7020",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_683516.jpg",
+        "rating": {
+          "rating_kp": "6.511",
+          "vote_num_kp": "36578",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "88108"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "429827",
       "date": "1573749319",
       "camrip": "0",
@@ -31,7 +171,7 @@
           "rating_kp": "6.538",
           "vote_num_kp": "106021",
           "rating_imdb": "6",
-          "vote_num_imdb": "230289"
+          "vote_num_imdb": "230317"
         }
       }
     },
@@ -64,7 +204,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_403783.jpg",
         "rating": {
           "rating_kp": "6.817",
-          "vote_num_kp": "34765",
+          "vote_num_kp": "34779",
           "rating_imdb": "6.1",
           "vote_num_imdb": "32517"
         }
@@ -99,7 +239,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7975.jpg",
         "rating": {
           "rating_kp": "6.896",
-          "vote_num_kp": "71117",
+          "vote_num_kp": "71124",
           "rating_imdb": "5.8",
           "vote_num_imdb": "168282"
         }
@@ -206,7 +346,7 @@
           "rating_kp": "7.015",
           "vote_num_kp": "15830",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "32418"
+          "vote_num_imdb": "32422"
         }
       }
     },
@@ -241,7 +381,7 @@
           "rating_kp": "7.255",
           "vote_num_kp": "75206",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "23286"
+          "vote_num_imdb": "23297"
         }
       }
     },
@@ -273,8 +413,8 @@
         "time": "6720",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_586297.jpg",
         "rating": {
-          "rating_kp": "6.793",
-          "vote_num_kp": "37965",
+          "rating_kp": "6.792",
+          "vote_num_kp": "37978",
           "rating_imdb": "6.4",
           "vote_num_imdb": "83295"
         }
@@ -311,7 +451,7 @@
           "rating_kp": "6.522",
           "vote_num_kp": "25307",
           "rating_imdb": "6",
-          "vote_num_imdb": "91058"
+          "vote_num_imdb": "91066"
         }
       }
     },
@@ -346,7 +486,7 @@
           "rating_kp": "8.028",
           "vote_num_kp": "236690",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "489902"
+          "vote_num_imdb": "490007"
         }
       }
     },
@@ -451,7 +591,7 @@
           "rating_kp": "8.03",
           "vote_num_kp": "215106",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "215857"
+          "vote_num_imdb": "215915"
         }
       }
     },
@@ -486,7 +626,7 @@
           "rating_kp": "7.586",
           "vote_num_kp": "256016",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "430178"
+          "vote_num_imdb": "430301"
         }
       }
     },
@@ -521,7 +661,7 @@
           "rating_kp": "7.709",
           "vote_num_kp": "202189",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "424673"
+          "vote_num_imdb": "424793"
         }
       }
     },
@@ -624,7 +764,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_675631.jpg",
         "rating": {
           "rating_kp": "5.893",
-          "vote_num_kp": "87241",
+          "vote_num_kp": "87250",
           "rating_imdb": "5.9",
           "vote_num_imdb": "133548"
         }
@@ -694,7 +834,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1048345.jpg",
         "rating": {
           "rating_kp": "5.949",
-          "vote_num_kp": "11525",
+          "vote_num_kp": "11538",
           "rating_imdb": "5.6",
           "vote_num_imdb": "522"
         }
@@ -834,7 +974,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_580679.jpg",
         "rating": {
           "rating_kp": "6.246",
-          "vote_num_kp": "37435",
+          "vote_num_kp": "37444",
           "rating_imdb": "5.9",
           "vote_num_imdb": "42142"
         }
@@ -871,7 +1011,7 @@
           "rating_kp": "7.459",
           "vote_num_kp": "128685",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "228634"
+          "vote_num_imdb": "228667"
         }
       }
     },
@@ -904,7 +1044,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_424266.jpg",
         "rating": {
           "rating_kp": "7.139",
-          "vote_num_kp": "244084",
+          "vote_num_kp": "244211",
           "rating_imdb": "6.9",
           "vote_num_imdb": "294438"
         }
@@ -941,7 +1081,7 @@
           "rating_kp": "6.112",
           "vote_num_kp": "64321",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "188312"
+          "vote_num_imdb": "188342"
         }
       }
     },
@@ -1044,7 +1184,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462669.jpg",
         "rating": {
           "rating_kp": "6.703",
-          "vote_num_kp": "64814",
+          "vote_num_kp": "64824",
           "rating_imdb": "5.9",
           "vote_num_imdb": "53635"
         }
@@ -1079,7 +1219,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_445148.jpg",
         "rating": {
           "rating_kp": "5.903",
-          "vote_num_kp": "23385",
+          "vote_num_kp": "23397",
           "rating_imdb": "5.6",
           "vote_num_imdb": "40445"
         }
@@ -1114,7 +1254,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1957.jpg",
         "rating": {
           "rating_kp": "7.917",
-          "vote_num_kp": "158748",
+          "vote_num_kp": "158770",
           "rating_imdb": "6.2",
           "vote_num_imdb": "312092"
         }
@@ -1149,7 +1289,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_463802.jpg",
         "rating": {
           "rating_kp": "6.661",
-          "vote_num_kp": "29767",
+          "vote_num_kp": "29801",
           "rating_imdb": "6.4",
           "vote_num_imdb": "100993"
         }
@@ -1184,7 +1324,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_518063.jpg",
         "rating": {
           "rating_kp": "6.955",
-          "vote_num_kp": "34152",
+          "vote_num_kp": "34159",
           "rating_imdb": "6.4",
           "vote_num_imdb": "86173"
         }
@@ -1256,7 +1396,7 @@
           "rating_kp": "7.729",
           "vote_num_kp": "253960",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "627486"
+          "vote_num_imdb": "627702"
         }
       }
     },
@@ -1499,7 +1639,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1114965.jpg",
         "rating": {
           "rating_kp": "6.594",
-          "vote_num_kp": "48145",
+          "vote_num_kp": "48155",
           "rating_imdb": "5.8",
           "vote_num_imdb": "904"
         }
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "2023",
           "rating_imdb": "4.6",
           "vote_num_imdb": "36"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1207972",
-      "date": "1573661749",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Спасатели Малибу",
-        "orig": "Malibu Rescue: The Movie",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Сэвидж Стив Холланд",
-        "genre": "комедия,боевик,приключения,семейный",
-        "actors": "Рикардо Уртадо, Бреанна Иде, Джеки Р. Джейкобсон, Эбби Доннелли, Алкоя Брансон, ДжиТи Нил, Кертис Армстронг, Йен Зиринг, Джереми Ховард, Джефф Мичам",
-        "description": "Целеустремленные юные спасатели соревнуются с местными детьми-снобами за право занять спасательную вышку на пляже в Малибу.",
-        "slogan": "",
-        "premiere": "13 мая 2019",
-        "age": "0",
-        "time": "4080",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1207972.jpg",
-        "rating": {
-          "rating_kp": "4.918",
-          "vote_num_kp": "276",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "963"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1204296",
-      "date": "1573661435",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Экскурсия",
-        "orig": "Excursion",
-        "alter": "",
-        "year": "2019",
-        "country": "Великобритания",
-        "director": "Martin Grof",
-        "genre": "фантастика,триллер,детектив",
-        "actors": "Джонни Миндлин, Richard Canal, Sophie Wilson, Джип Тёрнер, Джерил Бёрджесс",
-        "description": "Преданный сторонник чехословацкой коммунистической партии посещает самого себя в Лондоне будущего, чтобы убедиться, что социализм всё ещё процветает.",
-        "slogan": "Don't create a paradox",
-        "premiere": "20 апреля 2019",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1204296.jpg",
-        "rating": {
-          "rating_kp": "4.402",
-          "vote_num_kp": "373",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "2670"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1154641",
-      "date": "1573661365",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Идеальное свидание",
-        "orig": "The Perfect Date",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Кристофер Нельсон",
-        "genre": "комедия,мелодрама",
-        "actors": "Ной Сентинео, Лора Марано, Одисеас Георгиадис, Камила Мендес, Мэтт Уолш, Джо Крест, Кэрри Лазар, Алекс Биглейн, Блейн Керн, Зак Стейнер",
-        "description": "Чтобы накопить на обучение в Йельском университете, Брукс создаёт мобильное приложение, благодаря которому любая девушка сможет арендовать его в качестве бойфренда на один вечер. По мере того, как он встречается с разными девушками, он начинает понимать чего же на самом деле хочет от этой жизни.",
-        "slogan": "He's whoever you want him to be",
-        "premiere": "12 апреля 2019",
-        "age": "0",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1154641.jpg",
-        "rating": {
-          "rating_kp": "6.106",
-          "vote_num_kp": "9062",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "33012"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1126670",
-      "date": "1573659237",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "После свадьбы",
-        "orig": "After the Wedding",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Барт Фрейндлих",
-        "genre": "драма",
-        "actors": "Мишель Уильямс,Билли Крудап,Джулианна Мур,Уилл Чейз,Эбби Куинн,Эжи Робертсон,Дорис Маккарти,Сьюзэн Блэкуэлл,Иса Дэвис,Алекс Исола",
-        "description": "Изабель посвятила свою жизнь помощи другим. Она узнает, что женщина, возглавляющая многомиллионную корпорацию, готова пожертвовать ей огромную сумму. Их встреча в Нью-Йорке проходит успешно, но все меняется, когда Изабель случайно встречает ее мужа. Она еще не знает, что кто-то начал игру чужими судьбами, в которой правда окажется опаснее лжи.",
-        "slogan": "Every family has a secret",
-        "premiere": "24 января 2019",
-        "age": "0",
-        "time": "6720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1126670.jpg",
-        "rating": {
-          "rating_kp": "6.173",
-          "vote_num_kp": "3076",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "5940"
         }
       }
     }

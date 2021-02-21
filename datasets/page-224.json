@@ -2,6 +2,216 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1143671",
+      "date": "1586471998",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Заря",
+        "orig": "Dawn",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Синтия Л. Леон",
+        "genre": "драма",
+        "actors": "Erin Nordseth, Patrick Vann, Michael Sigler, Райан Стэнли, Janeva Sharps, Rowan Titus, Debra Ovall, Kathy Sanders, Tony Claiborne, Christabel Fitzgerald",
+        "description": "Молодая пара, потерявшая сына, должна подготовиться к последнему дню, когда можно будет наслаждаться солнечным светом, перед тем как мир погрузится во тьму. И настанет вечная зима...",
+        "slogan": "How far would you go to save someone's life?",
+        "premiere": "23 февраля 2018",
+        "age": "0",
+        "time": "7140",
+        "poster": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/140x209/film-4001654135._CB470041848_.png",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "32",
+          "rating_imdb": "4.3",
+          "vote_num_imdb": "59"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1112547",
+      "date": "1586471997",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мы и они",
+        "orig": "Hou lai de wo men",
+        "alter": "",
+        "year": "2018",
+        "country": "Китай,Тайвань",
+        "director": "Рене Лю",
+        "genre": "мелодрама,драма",
+        "actors": "Цзин Божань,Чжоу Дунъюй,Тянь Чжуанчжуан,Цюй Чжэмин",
+        "description": "В 2007 году парень и девушка встретились в поезде по пути домой на празднование Нового года. Несмотря на то, что у молодых людей было много общего, их пути все-таки разошлись. Когда через 12 лет судьба сведет бывших влюбленных снова, обоим придется переоценить значение друг друга в собственных жизнях.",
+        "slogan": "",
+        "premiere": "28 апреля 2018",
+        "age": "0",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112547.jpg",
+        "rating": {
+          "rating_kp": "6.899",
+          "vote_num_kp": "120",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "2885"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1064083",
+      "date": "1586471991",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дирижёр",
+        "orig": "De dirigent",
+        "alter": "",
+        "year": "2018",
+        "country": "Нидерланды,Бельгия",
+        "director": "Мария Петерс",
+        "genre": "драма,биография",
+        "actors": "Christanne de Bruijn,Бенжамин Вейнрайт,Скотт Тернер Шофилд,Шеймас Ф. Сарджент,Аннет Мальэрб,Раймонд Тири,Гийс Шолтен ван Ашат,Рихард Заммель,Шан Томас,Тим Ахерн",
+        "description": "Антония Брико мечтает стать дирижёром, но к ней не относятся всерьез, потому что она женщина.",
+        "slogan": "",
+        "premiere": "25 октября 2018",
+        "age": "0",
+        "time": "8220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1064083.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "49",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "2273"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1219476",
+      "date": "1586471983",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Агата и правда об убийстве",
+        "orig": "Agatha and the Truth of Murder",
+        "alter": "",
+        "year": "2018",
+        "country": "Великобритания",
+        "director": "Терри Лоан",
+        "genre": "детектив,драма,криминал",
+        "actors": "Дин Эндрюс, Рут Брэдли, Бебе Кейв, Amelia Dell, Ричард Даблдэй, Дерек Халлиган, Блейк Харрисон, Пиппа Хэйвуд, Сташа Хикс, Ралф Айнесон",
+        "description": "1926 год. У Агаты Кристи кризис как в личной жизни, так и на профессиональном поприще: муж хочет с ней развестись, а новая книга не пишется. Во время попыток найти альтернативный путь развития сюжета для романа и отвлечься от семейных неурядиц, Агата встречается с женщиной, желающей найти убийцу Флорнеции Шор. Писательница решает раскрыть настоящее преступление.",
+        "slogan": "Some people have a taste for murder...",
+        "premiere": "23 декабря 2018",
+        "age": "0",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1219476.jpg",
+        "rating": {
+          "rating_kp": "5.963",
+          "vote_num_kp": "391",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "3832"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1156576",
+      "date": "1586471982",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Виная Видея Рама",
+        "orig": "Vinaya Vidheya Rama",
+        "alter": "",
+        "year": "2019",
+        "country": "Индия",
+        "director": "Бояпати Шрину",
+        "genre": "боевик",
+        "actors": "Рам Чаран Теджа,Киара Адвани,Aadhithya,Aadhya Aarnav,Ajay,Akhil,Akshara,Aravind,Салим Баиг,Bhanu",
+        "description": "Когда счастье его семьи оказывается в руках жесткого вымогателя, Рам отправляется на поиски своего заклятого врага, чтобы отомстить ему и разрушить его подпольную империю.",
+        "slogan": "",
+        "premiere": "10 января 2019",
+        "age": "0",
+        "time": "8760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1156576.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "392",
+          "rating_imdb": "3.3",
+          "vote_num_imdb": "2623"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1140720",
+      "date": "1586471974",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "1991",
+        "orig": "1991",
+        "alter": "",
+        "year": "2018",
+        "country": "Канада",
+        "director": "Ricardo Trogi",
+        "genre": "комедия",
+        "actors": "Сандрин Биссон,Jean-Carl Boucher,Mamoudou Camara,Giuseppe Cantore,Francesca Luce Cardinale,Луиджи Чиардо,Роберто Читран,Клаудио Коланджело,Жюльетт Госслен,David-Emmanuel Jauniaux",
+        "description": "Рикардо Троджи 21 год, он студент сценарного факультета, и в том же Квебекском университете учится его жизнерадостная подружка Мари-Эв. Когда весной 1991 года Мари-Эв записывается на курс итальянского языка в университете Перуджи, движимый самыми романтическими чувствами Рикардо срывается следом за ней. В Италии его ждут приключения, новые знакомства, озарения и разочарования. Опыт, который запомнится на всю жизнь.",
+        "slogan": "",
+        "premiere": "27 июля 2018",
+        "age": "0",
+        "time": "8460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1140720.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "31",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "769"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1040714",
       "date": "1586471970",
       "camrip": "0",
@@ -414,7 +624,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045598.jpg",
         "rating": {
           "rating_kp": "7.225",
-          "vote_num_kp": "17855",
+          "vote_num_kp": "17863",
           "rating_imdb": "7.4",
           "vote_num_imdb": "12840"
         }
@@ -662,7 +872,7 @@
           "rating_kp": "8.304",
           "vote_num_kp": "67744",
           "rating_imdb": "8.9",
-          "vote_num_imdb": "414670"
+          "vote_num_imdb": "415116"
         }
       }
     },
@@ -1407,9 +1617,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1297198.jpg",
         "rating": {
           "rating_kp": "6.867",
-          "vote_num_kp": "3233",
+          "vote_num_kp": "3235",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "11795"
+          "vote_num_imdb": "11808"
         }
       }
     },
@@ -1693,9 +1903,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_818775.jpg",
         "rating": {
           "rating_kp": "7.59",
-          "vote_num_kp": "15701",
+          "vote_num_kp": "15703",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "11085"
+          "vote_num_imdb": "11084"
         }
       }
     },
@@ -1841,8 +2051,8 @@
         "time": "5760",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_38195.jpg",
         "rating": {
-          "rating_kp": "6.794",
-          "vote_num_kp": "2976",
+          "rating_kp": "6.795",
+          "vote_num_kp": "2975",
           "rating_imdb": "6.5",
           "vote_num_imdb": "3898"
         }
@@ -1877,7 +2087,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1320413.jpg",
         "rating": {
           "rating_kp": "6.719",
-          "vote_num_kp": "1690",
+          "vote_num_kp": "1691",
           "rating_imdb": "6.9",
           "vote_num_imdb": "47"
         }
@@ -2055,216 +2265,6 @@
           "vote_num_kp": "1230",
           "rating_imdb": "5",
           "vote_num_imdb": "2960"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "41674",
-      "date": "1586446340",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Цель жизни",
-        "orig": "Lakshya",
-        "alter": "",
-        "year": "2004",
-        "country": "Индия",
-        "director": "Фархан Ахтар",
-        "genre": "боевик,драма,мелодрама,военный",
-        "actors": "Амитабх Баччан,Ритик Рошан,Прити Зинта,Ом Пури,Шарад С. Капур,Радж Зутши,Сушант Сингх,Прашант Чианани,Шакил Кхан,Ранвир Шори",
-        "description": "Каран &#151; прожигатель жизни. Он живет на деньги отца и старшего брата, который ведет семейный бизнес. Каран привык лишь развлекаться с дружками и флиртовать с красавицей Роми. Однажды после просмотра боевика Каран вместе с друзьями решили пойти в армию, но служба оказалась слишком тяжелой, и Каран вернулся домой. Почувствовав, что окончательно потерял уважение своей семьи и Роми, он решает продолжить службу.",
-        "slogan": "Ему понадобилось 24 года и 18000 футов чтобы найти цель жизни",
-        "premiere": "18 июня 2004",
-        "age": "12",
-        "time": "11160",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_41674.jpg",
-        "rating": {
-          "rating_kp": "7.432",
-          "vote_num_kp": "515",
-          "rating_imdb": "7.9",
-          "vote_num_imdb": "20737"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "9540",
-      "date": "1586446281",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Удар по системе",
-        "orig": "A Shock to the System",
-        "alter": "",
-        "year": "1990",
-        "country": "США",
-        "director": "Ян Эглсон",
-        "genre": "триллер,криминал",
-        "actors": "Майкл Кейн,Элизабет Макговерн,Питер Ригерт,Свузи Кёрц,Уилл Пэттон,Дженни Райт,Джон МакМартин,Барбара Бэксли,Хэвиленд Моррис,Филип Мун",
-        "description": "Грэхэм Маршалл окрылен идеей получить заслуженное повышение по службе&#133; Но судьба улыбнулась другому. В погоне за успехом иногда приходится убивать. По плану Маршалла убийство жены &#151; это только начало. То, что произойдет потом, взволнует и удивит Вас. Вы узнаете, на что еще способен человек ради достижения своей цели. Неужели план Маршалла осуществится?",
-        "slogan": "Killing is easy... Getting away with it is murder",
-        "premiere": "23 марта 1990",
-        "age": "16",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9540.jpg",
-        "rating": {
-          "rating_kp": "6.791",
-          "vote_num_kp": "545",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "4243"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "937539",
-      "date": "1586446156",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Сохрани мою душу",
-        "orig": "Soul to Keep",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "David Allensworth, Монире",
-        "genre": "ужасы,триллер",
-        "actors": "Sandra Mae Frank, Aurora Heimbach, Кейт Роуз Рейнольдс, Дерек Лонг, Jordan Theodore, Jessie Jordan, Craig Fogel, Brian Donovon, Tony Spitz, Annabelle Reed",
-        "description": "Группа друзей отправляется отдохнуть в заброшенный дом, доставшийся одному из них в наследство от деда. В подвале дома они случайно находят таинственную книгу на латыни и решают для развлечения прочитать её вслух, но, как учат нас фильмы, с такими вещами лучше не шутить.",
-        "slogan": "Hear No Evil",
-        "premiere": "6 октября 2018",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_937539.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "88",
-          "rating_imdb": "4.3",
-          "vote_num_imdb": "885"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "707389",
-      "date": "1586445980",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "День Д",
-        "orig": "D-Day",
-        "alter": "",
-        "year": "2013",
-        "country": "Индия",
-        "director": "Никхил Адвани",
-        "genre": "боевик,триллер,драма,криминал",
-        "actors": "Риши Капур, Ирфан Кхан, Арджун Рампал, Шрути Хасан, Хума Куреши, Нассер, К.К. Рэйна, Чандан Рой Саньял, Имран Хасни, Нисар Кхан",
-        "description": "Действие криминального боевика разворачиваются в наши дни в пакистанском городе Карачи и индийском городе Мумбаи. Агенты Интерпола занимаются поисками одного из самых опасных индийских преступников Ибгала Сета, который руководит крупной террористической группировкой. 13 взрывов унесли жизни 250 человек, но преступник остается безнаказанным. В Карачи спецагенты проводят операцию «Голдмен», цель которой задержание и возвращение террориста в Индию для дальнейшего суда. Однако выполнить операцию оказывается крайне сложно из-за очередного взрыва, в котором обвиняются четверо индийских офицеров. В это же время молодая женщина Нафиса узнает от властей, что её муж Вали Кхан, простой парикмахер, причастен ко взрыву. Но может ли добропорядочный семьянин быть секретным агентом, или еще хуже - террористом?",
-        "slogan": "",
-        "premiere": "19 июля 2013",
-        "age": "0",
-        "time": "9180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_707389.jpg",
-        "rating": {
-          "rating_kp": "7.199",
-          "vote_num_kp": "140",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "9387"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "3007",
-      "date": "1586445752",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Игорный дом",
-        "orig": "House of Games",
-        "alter": "",
-        "year": "1987",
-        "country": "США",
-        "director": "Дэвид Мэмет",
-        "genre": "триллер,криминал",
-        "actors": "Линдси Краус,Джо Мантенья,Майк Нуссбаум,Лилия Скала,Дж.Т. Уолш,Уилло Хаусман,Карен Колхаас,Стивен Голдстин,Джек Уоллес,Рики Джей",
-        "description": "Маргарет Форд &#151; преуспевающая женщина-психиатр. Она написала книгу, которая хорошо продается, у нее есть деньги, интересная работа, но все чаще стало появляться чувство неудовлетворенности. Случай сводит ее с мошенником Майклом, обаятельным и интересным человеком, склонным к философствованию, и вскоре скука ее рассеивается, так как по ее просьбе он начинает посвящать ее в секреты профессии. На этом материале она намеревается написать книгу и постепенно влюбляется в него.",
-        "slogan": "Nothing is as it seems",
-        "premiere": "4 сентября 1987",
-        "age": "18",
-        "time": "6120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3007.jpg",
-        "rating": {
-          "rating_kp": "6.738",
-          "vote_num_kp": "698",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "20733"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "11299",
-      "date": "1586444462",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дворцы Монтесумы",
-        "orig": "Halls of Montezuma",
-        "alter": "",
-        "year": "1950",
-        "country": "США",
-        "director": "Льюис Майлстоун",
-        "genre": "боевик,драма,приключения,военный",
-        "actors": "Ричард Уидмарк,Джек Пэланс,Реджинальд Гардинер,Роберт Вагнер,Карл Молден,Ричард Хилтон,Ричард Бун,Скип Хомейер,Дон Хикс,Джек Уэбб",
-        "description": "Группа морских пехотинцев, под командованием лейтенанта Андерсона, под шквальным огнем Японской артиллерии и авиации, высаживается на безымянный остров, с целью уничтожения оборонительных укреплений врага. Для обеспечения быстроты операции им необходимо взять в плен и допросить японских солдат, они должны выведать схему запутанных военных коммуникаций острова. Шаг за шагом герои прорываются к своей цели, получая ранения и теряя однополчан&#133;",
-        "slogan": "Action with the Battling Leathernecks!",
-        "premiere": "4 января 1951",
-        "age": "16",
-        "time": "6780",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_11299.jpg",
-        "rating": {
-          "rating_kp": "6.14",
-          "vote_num_kp": "83",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "2472"
         }
       }
     }

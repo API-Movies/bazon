@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "6416",
+      "date": "1577290923",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Прокол",
+        "orig": "Blow Out",
+        "alter": "",
+        "year": "1981",
+        "country": "США",
+        "director": "Брайан Де Пальма",
+        "genre": "триллер,детектив",
+        "actors": "Джон Траволта, Нэнси Аллен, Джон Литгоу, Деннис Франц, Питер Бойден, Курт Мэй, Джон Акино, Джон МакМартин, Дебора Эвертон, Дж. Патрик МакНамара",
+        "description": "Джек - звукорежиссёр на киностудии, снимающей второсортные фильмы ужасов. Однажды, озвучивая очередной фильм, он слышит странные звуки и записывает их. Оказывается, это звук выстрела и пробитой шины автомобиля, попавшего в аварию, в результате которой погиб кандидат в президенты США. У Джека на руках доказательство того, что автокатастрофа не была несчастным случаем, и против него - целая политическая группировка.",
+        "slogan": "Murder has a sound all of its own!",
+        "premiere": "7 июля 1981",
+        "age": "16",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6416.jpg",
+        "rating": {
+          "rating_kp": "7.158",
+          "vote_num_kp": "5505",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "44829"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "6403",
+      "date": "1577290920",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Филадельфия",
+        "orig": "Philadelphia",
+        "alter": "",
+        "year": "1993",
+        "country": "США",
+        "director": "Джонатан Демме",
+        "genre": "драма",
+        "actors": "Том Хэнкс, Дензел Вашингтон, Антонио Бандерас, Джейсон Робардс, Мэри Стинберген, Джоэнн Вудворд, Чарльз Нэпьер, Роберт Риджли, Брэдли Уитфорд, Рон Вотер",
+        "description": "Два главных героя не похожи как белое и черное - их разделяет цвет кожи, общественное положение, сексуальная ориентация, смертельная болезнь. Но каждый - служит закону и готов бороться против любой несправедливости. Том Хэнкс и Дэнзел Вашингтон в драматической истории смертельно больного, но не отчаявшегося человека. Человека, который верил в справедливость.",
+        "slogan": "Никто не хотел браться за его случай... Пока один человек не решил побороть систему",
+        "premiere": "14 декабря 1993",
+        "age": "16",
+        "time": "7500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6403.jpg",
+        "rating": {
+          "rating_kp": "7.847",
+          "vote_num_kp": "39035",
+          "rating_imdb": "7.7",
+          "vote_num_imdb": "224865"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "6400",
+      "date": "1577290919",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Студия 54",
+        "orig": "54",
+        "alter": "",
+        "year": "1998",
+        "country": "США",
+        "director": "Марк Кристофер",
+        "genre": "драма",
+        "actors": "Райан Филипп, Сальма Хайек, Нив Кэмпбелл, Майк Майерс, Села Уорд, Брекин Мейер, Шерри Стрингфилд, Эллен Альбертини Дау, Камерон Мэттисон, Ноам Дженкинс",
+        "description": "«Студия 54» была самым популярным клубом Нью-Йорка. Случайно попасть туда было невозможно. Но оказавшись однажды, ты хотел остаться навсегда. Это история о знаменитом вертепе и его людях. О простом парне, чудом оказавшемся здесь; о наркотиках и беспорядочном сексе; о попытках заставить мечты сбыться любой ценой. Об оборотной стороне славы, о любви и разочарованиях, а также о последствиях всего этого.",
+        "slogan": "Sex. Drugs. Disco. Everything was in excess",
+        "premiere": "24 августа 1998",
+        "age": "18",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6400.jpg",
+        "rating": {
+          "rating_kp": "7.014",
+          "vote_num_kp": "9229",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "31530"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "6399",
+      "date": "1577290918",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Живот",
+        "orig": "Belly",
+        "alter": "",
+        "year": "1998",
+        "country": "Ямайка, США",
+        "director": "Хайп Уильямс",
+        "genre": "драма,криминал",
+        "actors": "DMX, Нас, Хассан Джонсон, Тэрал Хикс, Тионн «T-Boz» Уоткинс, Оливер «Пауэр» Грант, Луи Ранкин, Стэн Дрейтон, Джеймс Паррис, Метод Мэн",
+        "description": "Недавние сорванцы и отвязные хулиганы со временем превратились в самых крутых парней района. Они разучились доверять друг другу. Бандитские связи и шальные деньги развратили их души, сделали каменными сердца. Теперь эти парни живут по особым правилам и соблюдают только свои законы.\r\n\r\nИ когда им, объятым пламенем уличной войны, придется выбирать между жизнью и смертью, чистой совестью и предательством - каждый из них покажет свое истинное лицо.",
+        "slogan": "Money, power, respect... but who's got your back?",
+        "premiere": "4 ноября 1998",
+        "age": "16",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6399.jpg",
+        "rating": {
+          "rating_kp": "6.738",
+          "vote_num_kp": "849",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "9457"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "6384",
       "date": "1577290915",
       "camrip": "0",
@@ -171,7 +311,7 @@
           "rating_kp": "7.723",
           "vote_num_kp": "7709",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "27780"
+          "vote_num_imdb": "27804"
         }
       }
     },
@@ -311,7 +451,7 @@
           "rating_kp": "7.728",
           "vote_num_kp": "16887",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "72004"
+          "vote_num_imdb": "72022"
         }
       }
     },
@@ -486,7 +626,7 @@
           "rating_kp": "7.738",
           "vote_num_kp": "25535",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "35716"
+          "vote_num_imdb": "35727"
         }
       }
     },
@@ -521,7 +661,7 @@
           "rating_kp": "7.091",
           "vote_num_kp": "20735",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "140242"
+          "vote_num_imdb": "140304"
         }
       }
     },
@@ -554,7 +694,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6148.jpg",
         "rating": {
           "rating_kp": "7.892",
-          "vote_num_kp": "26911",
+          "vote_num_kp": "26914",
           "rating_imdb": "7.6",
           "vote_num_imdb": "102990"
         }
@@ -624,7 +764,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6132.jpg",
         "rating": {
           "rating_kp": "7.11",
-          "vote_num_kp": "12322",
+          "vote_num_kp": "12328",
           "rating_imdb": "6",
           "vote_num_imdb": "60908"
         }
@@ -729,7 +869,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6058.jpg",
         "rating": {
           "rating_kp": "7.21",
-          "vote_num_kp": "7882",
+          "vote_num_kp": "7886",
           "rating_imdb": "7",
           "vote_num_imdb": "29002"
         }
@@ -764,9 +904,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6049.jpg",
         "rating": {
           "rating_kp": "6.82",
-          "vote_num_kp": "10197",
+          "vote_num_kp": "10199",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "242108"
+          "vote_num_imdb": "242207"
         }
       }
     },
@@ -939,9 +1079,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5916.jpg",
         "rating": {
           "rating_kp": "7.288",
-          "vote_num_kp": "17915",
+          "vote_num_kp": "17919",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "91506"
+          "vote_num_imdb": "91519"
         }
       }
     },
@@ -1079,7 +1219,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5830.jpg",
         "rating": {
           "rating_kp": "7.314",
-          "vote_num_kp": "5537",
+          "vote_num_kp": "5538",
           "rating_imdb": "7.1",
           "vote_num_imdb": "24821"
         }
@@ -1254,7 +1394,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5624.jpg",
         "rating": {
           "rating_kp": "5.797",
-          "vote_num_kp": "3766",
+          "vote_num_kp": "3767",
           "rating_imdb": "4",
           "vote_num_imdb": "3016"
         }
@@ -1534,7 +1674,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5544.jpg",
         "rating": {
           "rating_kp": "6.31",
-          "vote_num_kp": "6170",
+          "vote_num_kp": "6169",
           "rating_imdb": "5.8",
           "vote_num_imdb": "37347"
         }
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "12898",
           "rating_imdb": "5.9",
           "vote_num_imdb": "66917"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "5496",
-      "date": "1577290662",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Добрый сынок",
-        "orig": "The Good Son",
-        "alter": "",
-        "year": "1993",
-        "country": "США",
-        "director": "Джозеф Рубин",
-        "genre": "триллер,драма",
-        "actors": "Маколей Калкин, Элайджа Вуд, Венди Крюсон, Дэвид Морс, Дэниэл Хью Келли, Жаклин Брукс, Куинн Калкин, Эшли Кроу, Гай Штраусс, Кит Брава",
-        "description": "Генри Эванс - чудный и послушный мальчик. Генри обожает игры. В особенности милы его сердцу игры со смертельным исходом.\r\n\r\nНи его любящие родители, ни верная сестренка понятия не имеют, что за очаровательной, ангельской улыбкой Генри скрывается зловещая, дьявольская сущность. Лишенная жалости, сопереживания и жаждущая крови.\r\n\r\nЕдинственным человеком, который распознал монстра в пай-мальчике, стал его двоюродный брат Марк, приехавший в дом Эвансов погостить. Но это открытие стало для Марка роковым: садиста-братика совсем не устраивало, что кто-то может знать о его тайных развлечениях.\r\n\r\nИ Генри приглашает Марка сыграть в одну из своих смертельных игр.",
-        "slogan": "In a quiet town...In a comfortable home...In a perfect body...Evil can be as close as someone you love",
-        "premiere": "24 сентября 1993",
-        "age": "16",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5496.jpg",
-        "rating": {
-          "rating_kp": "7.481",
-          "vote_num_kp": "15767",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "36598"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "5469",
-      "date": "1577290650",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Сильнейший удар: Бой до смерти",
-        "orig": "Shootfighter: Fight to the Death",
-        "alter": "",
-        "year": "1992",
-        "country": "США",
-        "director": "Патрик Алан",
-        "genre": "боевик",
-        "actors": "Боло Йен, Мэриам д’Або, Уильям Забка, Майкл Бернардо, Сигал Дайэмант, Мартин Коув, Эдвард Альберт, Джеймс Пак, Лэнг Юнг, Сагив Дайамант",
-        "description": "Два друга, ученики мастера Шинго, приехали на подпольный турнир бойцов, поединки которого ведутся до смертельного исхода.\r\n\r\nДраматически складывается не только ход турнира, но и взаимоотношения друзей. Но на ринг выходит мастер Шинго...",
-        "slogan": "For the glory, the money and to the death",
-        "premiere": "5 мая 1993",
-        "age": "18",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5469.jpg",
-        "rating": {
-          "rating_kp": "6.695",
-          "vote_num_kp": "1176",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "1055"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "5462",
-      "date": "1577290644",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Красный угол",
-        "orig": "Red Corner",
-        "alter": "",
-        "year": "1997",
-        "country": "США",
-        "director": "Джон Эвнет",
-        "genre": "триллер,драма,криминал",
-        "actors": "Ричард Гир, Бай Лин, Брэдли Уитфорд, Байрон Манн, Питер Донат, Роберт Стэнтон, Цай Чинь, Джеймс Хонг, Ма Ци, Ульрих Мачосс",
-        "description": "Преуспевающий американец Джек Мур, добившийся небывалого делового контракта в Китае, ощущал себя на вершине мира. Но торжество оказалось недолговечным.\r\n\r\nОн проводит ночь с прекрасной женщиной, после чего обвиняется в ее зверском убийстве. По милости непреклонного китайского правосудия, по которому подозреваемый равен виновному, Джек остается абсолютно одиноким, если не считать назначенной ему женщины-адвоката, преданной законам своего государства.\r\n\r\nНо, в процессе расследования докапываясь до истины, она все больше убеждается в невиновности подзащитного...",
-        "slogan": "Leniency for those who confess",
-        "premiere": "31 октября 1997",
-        "age": "16",
-        "time": "7320",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5462.jpg",
-        "rating": {
-          "rating_kp": "6.823",
-          "vote_num_kp": "1344",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "16195"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "5453",
-      "date": "1577290643",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Элита убийц",
-        "orig": "The Killer Elite",
-        "alter": "",
-        "year": "1975",
-        "country": "США",
-        "director": "Сэм Пекинпа",
-        "genre": "боевик,триллер,криминал",
-        "actors": "Джеймс Каан, Роберт Дювалл, Артур Хилл, Бо Хопкинс, Мако, Берт Янг, Гиг Янг, Том Клэнси, Тиана Александра, Уолтер Келли",
-        "description": "Наемный убийца Джордж Хансен обманывает своего партнера Майка Локена, чем порождает у того неуемную жажду мести со всеми вытекающими из этого последствиями.",
-        "slogan": "MEN WANTED. Private company with C.I.A. contract seeks men willing to risk life. Perfect physical condition. Experience with weaponry, incendiaries, Karate/Judo. No loyalties. No dependents. Long care",
-        "premiere": "17 декабря 1975",
-        "age": "0",
-        "time": "7320",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5453.jpg",
-        "rating": {
-          "rating_kp": "6.008",
-          "vote_num_kp": "429",
-          "rating_imdb": "6",
-          "vote_num_imdb": "5628"
         }
       }
     }

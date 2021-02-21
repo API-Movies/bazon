@@ -2,6 +2,216 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1120842",
+      "date": "1591109576",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Партизаны",
+        "orig": "Guerilla",
+        "alter": "",
+        "year": "2019",
+        "country": "Венгрия",
+        "director": "Дьёрдь Карпати",
+        "genre": "драма,история",
+        "actors": "Гергей Варади,Бланка Месарош,Бенетт Вилмани,Anna Radetzky,Левенте Орбан,Attila Bar&aacute;th,Zolt&aacute;n G&eacute;czi,Тибор Хайду,Erik Konf&aacute;r,Карл Фишер",
+        "description": "1849 год, близится к завершению освободительная война Венгрии против империи Габсбургов. Скрываясь от военного призыва, Барнабаш покидает свой родной город и отправляется в леса, куда с партизанским отрядом ушел его брат.",
+        "slogan": "",
+        "premiere": "26 января 2019",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1120842.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "18",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "201"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1125115",
+      "date": "1591108209",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Убийца миллениалов",
+        "orig": "Millennial Killer",
+        "alter": "",
+        "year": "2020",
+        "country": "Великобритания",
+        "director": "Сэм Мэйсон-Белл",
+        "genre": "ужасы",
+        "actors": "Alice Mulholland,Simon Berry,Rishky Patel,Alexandra Robertshaw,Noah Butt,Сэм Мэйсон-Белл,Rebecca Clears,Аннина Каски,Luna Lily,Chris Mills",
+        "description": "Шаг на порог этого дома становится первым шагом на пути в Ад.",
+        "slogan": "A step on to the housing ladder is a step on the path to hell",
+        "premiere": "",
+        "age": "0",
+        "time": "4320",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWU1NDMwNWItNzE1NS00ZWJkLWFlNDEtY2E3ZWM2NGM0YTA5XkEyXkFqcGdeQXVyMTI4NDU5MTg@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1283597",
+      "date": "1591104616",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Планета кровососов",
+        "orig": "Bloodsucker's Planet",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Mark Beal",
+        "genre": "ужасы,фантастика",
+        "actors": "Cory W. Ahre,Джессика Белл,Эдриэнн Добсон,Бразил Джозеф Грисаффи III,Jeremy Herrera,Israel Koite,Allen Menefee,Лени Мекс,Charles Pitman",
+        "description": "Экипаж космического корабля Агроси отвечает на сообщение с планеты Мара, узнав, что там правит зловещая мать-вампир. По пути туда команда сталкивается с переносчиками болезней - летучими мышами, говорящим космо-тараканом и геноидом Адрианной.",
+        "slogan": "",
+        "premiere": "30 августа 2019",
+        "age": "0",
+        "time": "4020",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzE4MjVhOTUtZDU4Zi00ZThhLWI1ZGQtNDUxMDVkYWI4NTY5XkEyXkFqcGdeQXVyMjEyODE5Njg@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "13",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "71"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1117006",
+      "date": "1591104612",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Стеклянная комната",
+        "orig": "The Glass Room",
+        "alter": "",
+        "year": "2019",
+        "country": "Чехия,Словакия",
+        "director": "Юлиус Шевчик",
+        "genre": "драма",
+        "actors": "Ханна Альстрём,Клас Банг,Александра Борбей,Петра Бучкова,Olga Plojhar Bursikova,Tabitha Campbell,Брайан Каспе,Anouk Christiansen,Кевин Кларк,Evan Cregan",
+        "description": "Лизель Ландауэр и её подругу Хану связывают долгие отношения и необычный дом, построенный архитектором фон Абтом для Лизель и её мужа Виктора в Чехословакии в начале 1930-х годов.",
+        "slogan": "",
+        "premiere": "14 марта 2019",
+        "age": "0",
+        "time": "6240",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1117006.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "119",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "285"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "8975",
+      "date": "1591102573",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мистер Хоббс берет выходной",
+        "orig": "Mr. Hobbs Takes a Vacation",
+        "alter": "Мистер Хоббс уходит в отпуск",
+        "year": "1962",
+        "country": "США",
+        "director": "Генри Костер",
+        "genre": "комедия,семейный",
+        "actors": "Джеймс Стюарт, Морин О’Хара, Фабиан, Лаури Питерс, Лили Джентл, Джон Сэксон, Джон МакГайвер, Мари Уилсон, Реджинальд Гардинер, Валери Варда",
+        "description": "Роджер Хоббс - измотанный городской житель, который жаждет взять свою семью на побережье на каникулы. Он и его жена Пэгги действительно едут с семьей на побережье, но там развиваются новые проблемы, и каникулы оказываются полны приключений.",
+        "slogan": "Rollicking Fun! Sand, Sea and Sun!",
+        "premiere": "15 июня 1962",
+        "age": "0",
+        "time": "6960",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8975.jpg",
+        "rating": {
+          "rating_kp": "6.873",
+          "vote_num_kp": "227",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "4709"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "2119",
+      "date": "1591097677",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Цирк",
+        "orig": "The Circus",
+        "alter": "",
+        "year": "1928",
+        "country": "США",
+        "director": "Чарльз Чаплин",
+        "genre": "комедия,мелодрама",
+        "actors": "Чарльз Чаплин, Мерна Кеннеди, Аль Эрнест Гарсиа, Гарри Крокер, Джордж Дэвис, Генри Бергман, Тайни Сэндфорд, Джон Рэнд, Стив Мерфи, Альберт Остин",
+        "description": "Грустная комедия о приключениях Чарли в составе гастролирующего цирка.",
+        "slogan": "Charlie Chaplin in the Greatest Picture of His Entire Career...",
+        "premiere": "6 января 1928",
+        "age": "0",
+        "time": "4320",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2119.jpg",
+        "rating": {
+          "rating_kp": "8.016",
+          "vote_num_kp": "17126",
+          "rating_imdb": "8.1",
+          "vote_num_imdb": "30346"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "414",
       "date": "1591097675",
       "camrip": "0",
@@ -379,7 +589,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_261713.jpg",
         "rating": {
           "rating_kp": "5.229",
-          "vote_num_kp": "1335",
+          "vote_num_kp": "1336",
           "rating_imdb": "4.8",
           "vote_num_imdb": "4164"
         }
@@ -449,7 +659,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1065036.jpg",
         "rating": {
           "rating_kp": "6.531",
-          "vote_num_kp": "2094",
+          "vote_num_kp": "2095",
           "rating_imdb": "6.1",
           "vote_num_imdb": "6066"
         }
@@ -486,7 +696,7 @@
           "rating_kp": "6.759",
           "vote_num_kp": "19725",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "58824"
+          "vote_num_imdb": "58849"
         }
       }
     },
@@ -519,7 +729,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_64038.jpg",
         "rating": {
           "rating_kp": "5.99",
-          "vote_num_kp": "3834",
+          "vote_num_kp": "3836",
           "rating_imdb": "5.3",
           "vote_num_imdb": "4066"
         }
@@ -588,8 +798,8 @@
         "time": "5760",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8248.jpg",
         "rating": {
-          "rating_kp": "6.672",
-          "vote_num_kp": "3803",
+          "rating_kp": "6.673",
+          "vote_num_kp": "3804",
           "rating_imdb": "6.3",
           "vote_num_imdb": "40034"
         }
@@ -624,7 +834,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_842477.jpg",
         "rating": {
           "rating_kp": "7.278",
-          "vote_num_kp": "21597",
+          "vote_num_kp": "21599",
           "rating_imdb": "6.9",
           "vote_num_imdb": "14435"
         }
@@ -658,8 +868,8 @@
         "time": "5400",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_986922.jpg",
         "rating": {
-          "rating_kp": "6.362",
-          "vote_num_kp": "1402",
+          "rating_kp": "6.37",
+          "vote_num_kp": "1406",
           "rating_imdb": "4.7",
           "vote_num_imdb": "12"
         }
@@ -1008,8 +1218,8 @@
         "time": "5460",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_574110.jpg",
         "rating": {
-          "rating_kp": "6.168",
-          "vote_num_kp": "488",
+          "rating_kp": "6.172",
+          "vote_num_kp": "487",
           "rating_imdb": "6.1",
           "vote_num_imdb": "3520"
         }
@@ -1253,9 +1463,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_231025.jpg",
         "rating": {
           "rating_kp": "8.157",
-          "vote_num_kp": "16388",
+          "vote_num_kp": "16387",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "71956"
+          "vote_num_imdb": "72021"
         }
       }
     },
@@ -1379,7 +1589,7 @@
           "rating_kp": "8.268",
           "vote_num_kp": "8936",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "4312"
+          "vote_num_imdb": "4321"
         }
       }
     },
@@ -1937,7 +2147,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1237977.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "80",
+          "vote_num_kp": "81",
           "rating_imdb": "6.2",
           "vote_num_imdb": "261"
         }
@@ -2080,216 +2290,6 @@
           "vote_num_kp": "4",
           "rating_imdb": "6.2",
           "vote_num_imdb": "702"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "434971",
-      "date": "1591040832",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "18-летняя девственница",
-        "orig": "18-Year-Old Virgin",
-        "alter": "",
-        "year": "2008",
-        "country": "США",
-        "director": "Тамара Олсон",
-        "genre": "комедия",
-        "actors": "Оливия Мэй, Лорен Уолш, Тодд Ли, Дастин Хэрниш, Кармен Моралес, Дэниэл Сайкес, Джонатан Майкл Траутмэнн, Робби Хенке, Сет Кэссел, Коллен Дрю Хендерсон",
-        "description": "Если тебе восемнадцать, а ты еще девственница - это катастрофа! Именно эта мысль не дает покоя юной девушке Кэти, которая вот-вот должна окончить школу. Ведь все ее подружки давно решили для себя эту проблему. Теперь Кэти не остается ничего другого, как начать поиски подходящего кандидата для первых «уроков секса». Ведь до школьного бала остается не так много времени...",
-        "slogan": "She Has One Night to Lose it All. Not as Easy as You'd Think",
-        "premiere": "20 января 2009",
-        "age": "16",
-        "time": "5160",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_434971.jpg",
-        "rating": {
-          "rating_kp": "2.71",
-          "vote_num_kp": "3461",
-          "rating_imdb": "2.9",
-          "vote_num_imdb": "8751"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "841813",
-      "date": "1591040766",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Защитники",
-        "orig": "Защитники",
-        "alter": "",
-        "year": "2017",
-        "country": "Россия",
-        "director": "Сарик Андреасян",
-        "genre": "боевик,фантастика,фэнтези,приключения",
-        "actors": "Антон Пампушный, Санжар Мади, Себастьян Сисак, Алина Ланина, Станислав Ширин, Валерия Шкирандо, Вячеслав Разбегаев, Александр Семенов, Владимир Бутенко, Мила Максимова",
-        "description": "Во времена Холодной войны секретная организация «Патриот» создала отряд супергероев, в который вошли участники из различных советских республик. Долгие годы героям приходилось скрывать свою сущность, однако в тяжелые для страны времена они вновь берутся за дело.",
-        "slogan": "Отряд советских супергероев",
-        "premiere": "23 февраля 2017",
-        "age": "12",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_841813.jpg",
-        "rating": {
-          "rating_kp": "2.978",
-          "vote_num_kp": "76974",
-          "rating_imdb": "4",
-          "vote_num_imdb": "11775"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1068115",
-      "date": "1591040591",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Зомби",
-        "orig": "Z-O-M-B-I-E-S",
-        "alter": "Zombies",
-        "year": "2018",
-        "country": "США",
-        "director": "Пол Хоэн",
-        "genre": "мелодрама,мюзикл,семейный",
-        "actors": "Майло Манхейм, Мэг Доннелли, Тревор Торджман, Кайли Расселл, Карла Джеффри, Кингстон Фостер, Джеймс Годфри, Наоми Сникус, Jonathan Langdon, Пол Хопкинс",
-        "description": "В небольшом городке Сибрук силён дух единства и добрососедства, и жители чтут старинные традиции. Всё это было так, пока в старшую школу не проникли студенты из Зомбитауна, и тогда наступил хаос! И только крепкая дружба между решительной и целеустремленной девушкой-чирлидером Эддисон и футбольной звездой-зомби Зедом может помочь воссоединить их школу и, в конечном итоге, весь город.",
-        "slogan": "At Seabrook High it's zoms vs. poms",
-        "premiere": "16 февраля 2018",
-        "age": "12",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1068115.jpg",
-        "rating": {
-          "rating_kp": "6.127",
-          "vote_num_kp": "2157",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "3827"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "415608",
-      "date": "1591040228",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Кайт-избавительница",
-        "orig": "Kite Liberator",
-        "alter": "",
-        "year": "2007",
-        "country": "Япония, США",
-        "director": "Ясуоми Умэцу",
-        "genre": "аниме,боевик,фантастика,драма,приключения",
-        "actors": "Марина Иноуэ, Акэми Окамура, Масакадзу Морита, Рикия Кояма, Сэцудзи Сато, Кэи Синдо, Кэндзи Номура, Мугихито, Ясухиро, Брайан Брис",
-        "description": "Годы спустя после происшествий в первом фильме, местоположение Савы остается загадкой. В это время слухи о новом убийце распространяются по городу. Они зовут её «Ангелом Смерти»... Бесчувственная наёмница, уничтожающая свои цели с элегантностью и точностью, оставляющая только букет перьев в качестве своей карточки. Что публика не знает, так это то, что этот безжалостный убийца в действительности вежливая молодая леди по имени Монака. Как и её духовный предшественник, Монака потеряла большую часть своей семьи, и отцовская работа астронавта держит её отчужденной от мира. Как бы то ни было несмотря на расстояние отец и дочь очень близки, и Орудо пообещал своей дочке, что он вернётся. До этого времени большую часть дневной жизни робкой и неуклюжей Монаки занимает школа и временная работа официанткой, но её натура абсолютно меняется, когда она получает заказ.",
-        "slogan": "An angel of death appears as demons descend from the heavens",
-        "premiere": "21 марта 2008",
-        "age": "0",
-        "time": "3480",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_415608.jpg",
-        "rating": {
-          "rating_kp": "5.222",
-          "vote_num_kp": "485",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "653"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "826986",
-      "date": "1591040026",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Охранник",
-        "orig": "Security",
-        "alter": "Безопасность",
-        "year": "2016",
-        "country": "США",
-        "director": "Ален Дерошер",
-        "genre": "боевик,триллер,криминал",
-        "actors": "Антонио Бандерас, Бен Кингсли, Лиам Макинтайр, Кунг Ле, Катрин де ла Роча, Чэд Линдберг, Дзиро Ван, Габриэлла Райт, Шари Уотсон, John Strong",
-        "description": "Бывший военный Эдди Дикон уже год не может найти работу, поэтому готов взяться за любую. И Эдди повезло: нашлась должность ночного охранника в торговом центре. И в первую же смену начинаются проблемы.\r\n\r\nВ торговый центр стучится 11-летняя девочка и просит о помощи. Она оказывается важным свидетелем, и должна завтра давать показания в суде. Её преследует банда головорезов, и для них не помеха даже перевозивший девочку бронированный кортеж. Под руководством лидера-психопата преступники действуют без ошибок и не оставляют следов. Эта ночь заставит Эдди вспомнить все то, что он так хотел забыть.",
-        "slogan": "Пришло время вспомнить, на что ты способен",
-        "premiere": "4 марта 2017",
-        "age": "18",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_826986.jpg",
-        "rating": {
-          "rating_kp": "5.5",
-          "vote_num_kp": "13038",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "15836"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "880646",
-      "date": "1591039869",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "720",
-      "info": {
-        "rus": "Бэтмен против Робина",
-        "orig": "Batman vs. Robin",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Джей Олива",
-        "genre": "мультфильм,боевик,триллер,драма,криминал,приключения",
-        "actors": "Стюарт Аллан, Трой Бэйкер, Кевин Конрой, Тревор Дивэлл, Робин Аткин Даунс, Гриффин Глюк, Грэй Гриффин, Шон Маэр, Дэвид МакКаллум, Джейсон О’Мара",
-        "description": "Ещё недавно Брюс Уэйн жил беззаботной жизнью миллионера днём и спасителя города ночью. Но спокойному существованию пришёл конец, когда он узнал о том, что у него есть сын, который всё детство жил в Лиге Теней и служил безжалостному лидеру Рас аль Гулу. Дэмиан - так зовут мальчика, должен был стать наследником Раса и новым лидером Лиги. Но в результате предательства одного из приближённых воинов Рас погиб, а мальчик вынужден был скрыться. Теперь он нашёл своего родного отца, и вмести с ним стоит на страже справедливости. \r\n\r\nОни вместе каждую ночь охраняют порядок в Готэм-сити и следят за тем, чтобы преступники не совершали своих злодеяний. Несмотря на все попытки Бэтмена перевоспитать своего сына, он постоянно ему перечит и делает всё так, как ему хочется, а не как говорят. Однажды Дэмиан знакомится с неким Талоном, который умело начинает манипулировать парнем. Он затуманил его разум и заставил пойти против собственного отца. С этого момента начинается жестокое противостояние между Бэтменом и Робином. Кто выйдет победителем из этой схватки, ведь в ней сражаются два близких человека? Сможет ли тёмный рыцарь убедить сына вновь перейти на его сторону и стать его верным напарником?",
-        "slogan": "The showdown that will define a destiny",
-        "premiere": "3 апреля 2015",
-        "age": "12",
-        "time": "4320",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_880646.jpg",
-        "rating": {
-          "rating_kp": "6.601",
-          "vote_num_kp": "4231",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "19641"
         }
       }
     }

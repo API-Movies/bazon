@@ -2,6 +2,216 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "517",
+      "date": "1589892387",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Все о моей матери",
+        "orig": "Todo sobre mi madre",
+        "alter": "",
+        "year": "1999",
+        "country": "Испания, Франция",
+        "director": "Педро Альмодовар",
+        "genre": "драма",
+        "actors": "Сесилия Рот, Мариса Паредес, Кандела Пенья, Антония Сан Хуан, Пенелопа Крус, Роса Мария Сарда, Фернандо Фернан Гомес, Тони Канто, Элой Асорин, Карлос Лосано",
+        "description": "На мать-одиночку Мануэлу обрушивается самое ужасное из земных несчастий - в автокатастрофе погибает её единственный сын Эстебан. \r\n\r\nПодвергнувшись спонтанному порыву, убитая горем женщина возвращается в город своей бурной юности - Барселону. Там она встречается с призраком Прошлого, чьи уродливые когти безжалостно царапают судьбы людей в Настоящем. Мануэле предстоит встреча с отцом Эстебана и его окружением, от которых она сбежала шестнадцать лет назад.",
+        "slogan": "Part of every woman is a mother/actress/saint/sinner. And part of every man is a woman",
+        "premiere": "8 апреля 1999",
+        "age": "18",
+        "time": "6060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_517.jpg",
+        "rating": {
+          "rating_kp": "7.773",
+          "vote_num_kp": "20551",
+          "rating_imdb": "7.8",
+          "vote_num_imdb": "89315"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "693823",
+      "date": "1589892311",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Заполнить пустоту",
+        "orig": "Lemale et ha'halal",
+        "alter": "",
+        "year": "2012",
+        "country": "Израиль",
+        "director": "Рама Бурштейн",
+        "genre": "драма,мелодрама",
+        "actors": "Хадас Ярон,Иифтах Кляйн,Ирит Шелег,Шайим Шарир,Разия Израэли,Хила Фельдман,Ренана Раз,Яэль Таль,Майкл Вейгель,Идо Сэмюэл",
+        "description": "Главная героиня ленты, 18-летняя Шира, готовится к замужеству &#151; однако смерть ее старшей сестры при родах омрачает грядущее торжество. Впрочем, религиозное семейство живо находит замену скончавшейся молодой женщине, устраивая сватовство ее мужа-вдовца Йохая с вдовицей из Бельгии. Поняв, что Йохай вот-вот увезет из страны ее единственного внука, мама Ширы пытается сосватать младшую дочь мужу покойной сестры.",
+        "slogan": "",
+        "premiere": "2 сентября 2012",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_693823.jpg",
+        "rating": {
+          "rating_kp": "6.808",
+          "vote_num_kp": "386",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "3680"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "13317",
+      "date": "1589892212",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Призрак Черной Бороды",
+        "orig": "Blackbeard's Ghost",
+        "alter": "",
+        "year": "1968",
+        "country": "США",
+        "director": "Роберт Стивенсон",
+        "genre": "фэнтези,комедия,семейный",
+        "actors": "Питер Устинов,Дин Джонс,Сюзанн Плешетт,Эльза Ланчестер,Джоби Бэйкер,Эллиот Рид,Ричард Дикон,Норман Грабовски,Келли Тордсэн,Майкл Конрад",
+        "description": "Однажды страшный и бессердечный пират «Черная борода» материализовался в маленьком городке Новой Англии, он принужден путешествовать внутри времени до тех пор, пока не станет делать добрые дела. Он получает шанс вырваться, когда решает помочь спортивной команде колледжа, у которой нет ни малейшего шанса выиграть матч…",
+        "slogan": "Ghost-to-Ghost Laughs!",
+        "premiere": "15 января 1968",
+        "age": "0",
+        "time": "6360",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzkyNzM3MDIwMl5BMl5BanBnXkFtZTYwMzY4ODc4._V1_.jpg",
+        "rating": {
+          "rating_kp": "6.935",
+          "vote_num_kp": "131",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "5296"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "2790",
+      "date": "1589891927",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Могучий Куинн",
+        "orig": "The Mighty Quinn",
+        "alter": "",
+        "year": "1989",
+        "country": "США",
+        "director": "Карл Шенкель",
+        "genre": "боевик,триллер,детектив,драма,криминал",
+        "actors": "Дензел Вашингтон, Джеймс Фокс, Мими Роджерс, М. Эммет Уолш, Шерил Ли Ральф, Арт Эванс, Эстер Ролли, Норман Битон, Алекс Колон, Роберт Таунзенд",
+        "description": "Один из Карибских островов. Чернокожий полицейский ведет расследование убийства, которое причастные к нему люди из высшего общества хотят скрыть. Будучи хорошим полицейским и стремясь распутать дело, наш герой игнорирует предупреждения местных белых шишек и даже губернатора...",
+        "slogan": "THE CHIEF OF POLICE AND THE CHIEF SUSPECT. They know each other too well to let a little thing like murder get in their way",
+        "premiere": "17 февраля 1989",
+        "age": "16",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2790.jpg",
+        "rating": {
+          "rating_kp": "5.914",
+          "vote_num_kp": "394",
+          "rating_imdb": "6",
+          "vote_num_imdb": "5072"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "146387",
+      "date": "1589870136",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Завтрак на траве",
+        "orig": "Le déjeuner sur l'herbe",
+        "alter": "",
+        "year": "1959",
+        "country": "Франция",
+        "director": "Жан Ренуар",
+        "genre": "мелодрама,комедия",
+        "actors": "Поль Мёрисс,Шарль Блаветт,Андре Бруно,R&eacute;gine Blaess,Маргарит Кассан,Robert Chandeau,Jacques Danoville,Элен Дюк,Полетт Дюбо,Гислена Дюмон",
+        "description": "Пейзажи Прованса как основной фон действия. Профессор-генетик, увлеченный планами искусственного оплодотворения и выведения идеальной человеческой породы. Молоденькая и очень хорошенькая крестьянская девушка, заставляющая профессора забыть преимущества искусственного перед величием естественного.",
+        "slogan": "Here is a Film That Breaks Every Rule and Divides the Audiences Into Joyful Accomplises and Embarassed Prigs...",
+        "premiere": "11 ноября 1959",
+        "age": "0",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_146387.jpg",
+        "rating": {
+          "rating_kp": "6.601",
+          "vote_num_kp": "141",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "988"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1338347",
+      "date": "1589870064",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Великий великий мастер",
+        "orig": "Mat doi zung si",
+        "alter": "",
+        "year": "2020",
+        "country": "Гонконг",
+        "director": "Дайо Вон",
+        "genre": "боевик,комедия",
+        "actors": "Дайо Вон,Энни Лю,Кэтрин Чау,Си Кван,Хуэй Сиу-Хун,Тинь Чи Ло,Alex Pychtin,Chi Kin Tang,Ивана Вон",
+        "description": "Он лишился всего, когда проиграл ей бой и теперь надеется на реванш, но судьба внесла свои коррективы. Сможет ли Фей Лун завоевать не только титул, но и сердце своей соперницы?",
+        "slogan": "",
+        "premiere": "23 января 2020",
+        "age": "0",
+        "time": "7020",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1338347.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "39",
+          "rating_imdb": "4.4",
+          "vote_num_imdb": "172"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1066032",
       "date": "1589869963",
       "camrip": "0",
@@ -63,8 +273,8 @@
         "time": "6720",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1208499.jpg",
         "rating": {
-          "rating_kp": "5.782",
-          "vote_num_kp": "11643",
+          "rating_kp": "5.783",
+          "vote_num_kp": "11667",
           "rating_imdb": "5.5",
           "vote_num_imdb": "8979"
         }
@@ -115,9 +325,9 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BY2U1ZTU4OWItNGU2MC00MTg1LTk4NzUtYTk3ODhjYjI0MzlmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,670,1000_AL_.jpg",
         "rating": {
           "rating_kp": "9.004",
-          "vote_num_kp": "7753",
-          "rating_imdb": "9.2",
-          "vote_num_imdb": "81054"
+          "vote_num_kp": "7759",
+          "rating_imdb": "9.1",
+          "vote_num_imdb": "81206"
         }
       }
     },
@@ -198,7 +408,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_863829.jpg",
         "rating": {
           "rating_kp": "7.808",
-          "vote_num_kp": "18775",
+          "vote_num_kp": "18780",
           "rating_imdb": "8.4",
           "vote_num_imdb": "85545"
         }
@@ -233,7 +443,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1119124.jpg",
         "rating": {
           "rating_kp": "5.913",
-          "vote_num_kp": "6921",
+          "vote_num_kp": "6930",
           "rating_imdb": "6.1",
           "vote_num_imdb": "32727"
         }
@@ -408,9 +618,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_930966.jpg",
         "rating": {
           "rating_kp": "6.044",
-          "vote_num_kp": "11451",
+          "vote_num_kp": "11456",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "22509"
+          "vote_num_imdb": "22516"
         }
       }
     },
@@ -478,7 +688,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_11568.jpg",
         "rating": {
           "rating_kp": "5.709",
-          "vote_num_kp": "1634",
+          "vote_num_kp": "1635",
           "rating_imdb": "4.9",
           "vote_num_imdb": "1957"
         }
@@ -547,10 +757,10 @@
         "time": "6600",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5530.jpg",
         "rating": {
-          "rating_kp": "6.861",
-          "vote_num_kp": "2730",
+          "rating_kp": "6.862",
+          "vote_num_kp": "2735",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "11652"
+          "vote_num_imdb": "11668"
         }
       }
     },
@@ -769,10 +979,10 @@
         "time": "2700",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1046029.jpg",
         "rating": {
-          "rating_kp": "7.403",
-          "vote_num_kp": "7634",
+          "rating_kp": "7.402",
+          "vote_num_kp": "7642",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "12521"
+          "vote_num_imdb": "12534"
         }
       }
     },
@@ -845,7 +1055,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_808400.jpg",
         "rating": {
           "rating_kp": "6.203",
-          "vote_num_kp": "6080",
+          "vote_num_kp": "6081",
           "rating_imdb": "6.9",
           "vote_num_imdb": "19007"
         }
@@ -1061,7 +1271,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_891436.jpg",
         "rating": {
           "rating_kp": "7.264",
-          "vote_num_kp": "2882",
+          "vote_num_kp": "2883",
           "rating_imdb": "7.7",
           "vote_num_imdb": "37101"
         }
@@ -1312,7 +1522,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_584941.jpg",
         "rating": {
           "rating_kp": "7.75",
-          "vote_num_kp": "4981",
+          "vote_num_kp": "4980",
           "rating_imdb": "7.7",
           "vote_num_imdb": "46091"
         }
@@ -1412,7 +1622,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_271510.jpg",
         "rating": {
           "rating_kp": "7.847",
-          "vote_num_kp": "1143",
+          "vote_num_kp": "1142",
           "rating_imdb": "7.3",
           "vote_num_imdb": "10966"
         }
@@ -1559,10 +1769,10 @@
         "time": "0",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_666955.jpg",
         "rating": {
-          "rating_kp": "6.979",
-          "vote_num_kp": "14154",
+          "rating_kp": "6.978",
+          "vote_num_kp": "14171",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "17833"
+          "vote_num_imdb": "17926"
         }
       }
     },
@@ -1735,7 +1945,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_394.jpg",
         "rating": {
           "rating_kp": "8.112",
-          "vote_num_kp": "220793",
+          "vote_num_kp": "220848",
           "rating_imdb": "8.3",
           "vote_num_imdb": "921735"
         }
@@ -1910,7 +2120,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_79850.jpg",
         "rating": {
           "rating_kp": "6.044",
-          "vote_num_kp": "116652",
+          "vote_num_kp": "116687",
           "rating_imdb": "6.4",
           "vote_num_imdb": "52312"
         }
@@ -2053,216 +2263,6 @@
           "vote_num_kp": "3196",
           "rating_imdb": "5.4",
           "vote_num_imdb": "14998"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "7116",
-      "date": "1589758576",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Полтергейст",
-        "orig": "Poltergeist",
-        "alter": "",
-        "year": "1982",
-        "country": "США",
-        "director": "Тоуб Хупер",
-        "genre": "ужасы,триллер",
-        "actors": "Крэйг Т. Нельсон, ДжоБет Уильямс, Беатрис Стрэйт, Доминик Данн, Оливер Робинс, Хезер О’Рурк, Майкл МакМэнус, Вирджиния Кайсер, Мартин Казелла, Ричард Лосон",
-        "description": "Они здесь... Сначала они кажутся призрачными, играя в прятки в загородном доме Фрилингов. Но затем становится по-настоящему страшно! Тучи сгущаются, ожившие деревья нападают, а малютку Кэрол Энн Фрилинг засасывает в спектральную пустоту. И пока ее семья борется с вереницей кошмаров и пытается спасти девочку, по соседству, где-то рядом затаилось нечто...",
-        "slogan": "Он знает, как тебя напугать",
-        "premiere": "4 июня 1982",
-        "age": "16",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7116.jpg",
-        "rating": {
-          "rating_kp": "6.997",
-          "vote_num_kp": "14064",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "144781"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2950",
-      "date": "1589758574",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Пробуждение",
-        "orig": "Awakenings",
-        "alter": "",
-        "year": "1990",
-        "country": "США",
-        "director": "Пенни Маршалл",
-        "genre": "драма",
-        "actors": "Роберт Де Ниро, Робин Уильямс, Джон Хёрд, Джули Кавнер, Пенелопа Энн Миллер, Макс фон Сюдов, Брэдли Уитфорд, Петер Стормаре, Рут Нельсон, Элис Драммонд",
-        "description": "Доктор Малколм Сэйер, застенчивый врач и ученый, использует экспериментальные препараты, чтобы «пробуждать» обездвиженных жертв редкого заболевания. Леонард был первым пациентом, получившим это неопробованное лечение. Его пробуждение, наполненное благоговением, страхом и энтузиазмом, приводят как бы ко второму рождению и самого Сэйера по мере того, как пациент открывает для себя и доктора простые радости жизни. Воодушевленный чудесным выздоровлением Леонарда, Сэйер дает лекарство другим больным.",
-        "slogan": "Открыв глаза на мир одному человеку... он открыл и свои собственные",
-        "premiere": "12 декабря 1990",
-        "age": "12",
-        "time": "7260",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2950.jpg",
-        "rating": {
-          "rating_kp": "8.433",
-          "vote_num_kp": "130020",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "125901"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2912",
-      "date": "1589758572",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Человек тьмы",
-        "orig": "Darkman",
-        "alter": "",
-        "year": "1990",
-        "country": "США",
-        "director": "Сэм Рэйми",
-        "genre": "боевик,фантастика,триллер",
-        "actors": "Лиам Нисон, Фрэнсис МакДорманд, Колин Фрилз, Ларри Дрэйк, Нельсон Масита, Джесси Фергюсон, Рафаэль Х. Робледо, Дэн Хикс, Тед Рэйми, Дэн Белл",
-        "description": "Доктор Пэйтон Уэстлэйк находится на пороге грандиозного открытия: он заканчивает эксперименты по созданию искусственной человеческой кожи. Но банда уголовников во главе с извращенным садистом Робертом Дюраном вторгается в лабораторию Пэйтона и взрывает ее вместе с несчастным доктором.\r\n\r\nЧудом оставшийся в живых и обезображенный до неузнаваемости Пэйтон, решает отомстить подонкам. Но теперь он предстанет перед ними не как доктор Уэстлэйк, а как грозный и жуткий Человек Тьмы.",
-        "slogan": "They destroyed everthing he had, everything he was. Now, crime has a new enemy and justice has a new face",
-        "premiere": "24 августа 1990",
-        "age": "16",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2912.jpg",
-        "rating": {
-          "rating_kp": "6.925",
-          "vote_num_kp": "9580",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "58770"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "34186",
-      "date": "1589758570",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Эльвира: Повелительница тьмы",
-        "orig": "Elvira: Mistress of the Dark",
-        "alter": "",
-        "year": "1988",
-        "country": "США",
-        "director": "Джеймс Синьорелли",
-        "genre": "комедия,ужасы,фэнтези",
-        "actors": "Кассандра Петерсон, Уильям Морган Шеппард, Дэниэл Грин, Сьюзэн Келлерман, Эди Макклёрг, Курт Фуллер, Джефф Конэвей, Уильям Дюэл, Пэт Кроуфорд Браун, Эллен Даннинг",
-        "description": "На телезвезду Эльвиру неожиданно обрушивается наследство в виде тетушкиного поместья в маленьком городишке. Местное население при виде Эльвиры в сногсшибательном платье со сногсшибательным декольте испытывает настоящий шок. Женская половина обитателей города приходит в негодование, мужская - в восторг. Но Эльвира дает отпор не только местным ханжам, но и зловещему Князю Тьмы, оказавшемуся здесь же...",
-        "slogan": "Here comes Elvira... There goes the neighbourhood!",
-        "premiere": "30 сентября 1988",
-        "age": "16",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_34186.jpg",
-        "rating": {
-          "rating_kp": "6.909",
-          "vote_num_kp": "14696",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "13822"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "24691",
-      "date": "1589758568",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мистер Крутой",
-        "orig": "Yat goh ho yan",
-        "alter": "",
-        "year": "1996",
-        "country": "Гонконг",
-        "director": "Саммо Хун",
-        "genre": "комедия,боевик,криминал",
-        "actors": "Джеки Чан, Ричард Нортон, Мики Ли, Карен МакЛаймонт, Гэбриэлль Фицпатрик, Винс Полетто, Бэрри Отто, Саммо Хун, Эмиль Чау, Джойс Годензи",
-        "description": "Ведущий кулинарного телешоу в Мельбурне Джеки случайно становится обладателем видеокассеты с записью кровавой разборки между бандами наркоторговцев. На этом спокойные дни для Джеки закончились и превратились в бесконечную гонку на выживание. Он бы с удовольствием отдал кассету бандитам или полиции, ведь на ней улика. Но те не задавали вопросов, а у Джеки все равно не было ответов. Зато было тренированное тело и молниеносные кулаки.",
-        "slogan": "Бей первым. Извинишься потом",
-        "premiere": "31 января 1997",
-        "age": "12",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_24691.jpg",
-        "rating": {
-          "rating_kp": "7.508",
-          "vote_num_kp": "18838",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "25429"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4917",
-      "date": "1589758567",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Святые из Бундока",
-        "orig": "The Boondock Saints",
-        "alter": "",
-        "year": "1999",
-        "country": "США, Канада",
-        "director": "Трой Даффи",
-        "genre": "комедия,боевик,триллер,драма,криминал",
-        "actors": "Уиллем Дефо, Шон Патрик Флэнери, Норман Ридус, Дэвид Делла Рокко, Билли Коннолли, Дэвид Ферри, Брайан Махони, Боб Марли, Ричард Фицпатрик, Уильям Янг",
-        "description": "Чего только не бывает на свете! Два обычных ирландских парня, братья Коннор и Мерфи, преспокойно жили и работали в своем родном Бостоне, пока в один прекрасный день на них не снизошло озарение: сам Бог послал их на землю с особой миссией, наделив святой силой, чтобы очистить мир от зла. И братья взялись за дело со всей серьезностью, присущей ирландцам...\r\n\r\nВскоре местную мафию охватывает настоящая паника - ведь методы «святых» не отличаются особой гуманностью, зато оказались очень эффективными - кровь полилась рекой!\r\n\r\nМассовый отстрел мафиози не смог не привлечь внимания ФБР. Спецагент Пол Смекер, ведущий расследование, попадает в непростую ситуацию: служебный долг требует пресечь деятельность «святых братьев», однако в душе он не только сочувствует им, но даже готов присоединиться к исполнителям «священной» миссии...",
-        "slogan": "Да придёт царствие твоё, да исполнится воля твоя",
-        "premiere": "4 августа 1999",
-        "age": "18",
-        "time": "6540",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4917.jpg",
-        "rating": {
-          "rating_kp": "7.944",
-          "vote_num_kp": "114178",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "227455"
         }
       }
     }

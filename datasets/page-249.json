@@ -2,6 +2,181 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1246367",
+      "date": "1583137326",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Злодей",
+        "orig": "Villain",
+        "alter": "",
+        "year": "2020",
+        "country": "Великобритания",
+        "director": "Фил Барантини",
+        "genre": "криминал",
+        "actors": "Крэйг Фэйрбрасс,Роберт Гленистер,Николас Аарон,Томи Мэй,Джейд Аша,Идзука Хойл,Элуиз Ловелл Андерсон,Дженнифер Мэттер,Джордж Руссо,Марк Монеро",
+        "description": "После очередной отсидки бывший авторитетный уголовник Эдди Фрэнкс решает завязать с криминальным миром, наладить отношения с дочерью и привести в порядок совместный бизнес с братом. Однако, несмотря на все его усилия, попытки оказываются тщетными, и водоворот преступной жизни снова затягивает его в свою пучину.",
+        "slogan": "Crime runs in the blood",
+        "premiere": "28 февраля 2020",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGU4YTQ1YmItMTQ0NS00ZjllLTk0M2EtYTkxYzliY2M4NDY0XkEyXkFqcGdeQXVyNDgyMjg4Ng@@._V1_SY1000_SX675_AL_.jpg",
+        "rating": {
+          "rating_kp": "5.155",
+          "vote_num_kp": "133",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "1345"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1231136",
+      "date": "1583093054",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Милахи",
+        "orig": "So Pretty",
+        "alter": "",
+        "year": "2019",
+        "country": "США,Франция",
+        "director": "Jeffrey Rovinelli",
+        "genre": "драма",
+        "actors": "Edem Dela-Seshie,Thomas Love,Rachika Samarth,Jeffrey Rovinelli,Phoebe DeGroot,Arlene Gregoire",
+        "description": "Четверо квир- и трансгендерных молодых людей в Нью-Йорке борются за то, чтобы защитить свое сообщество от внешнего мира, и с удивлением для себя обнаруживают, что их жизни пересекаются с немецким романом 1980-х годов, написанным открытым гомосексуалом и коммунистом Рональдом М.",
+        "slogan": "",
+        "premiere": "10 февраля 2019",
+        "age": "0",
+        "time": "4980",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1231136.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "15",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "316"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1184587",
+      "date": "1583092436",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Исчезновение на дороге Клифтон Хилл",
+        "orig": "Disappearance at Clifton Hill",
+        "alter": "",
+        "year": "2019",
+        "country": "Канада",
+        "director": "Альберт Шин",
+        "genre": "триллер,драма,детектив",
+        "actors": "Таппенс Мидлтон,Ханна Гросс,Мари-Жозе Кроз,Эрик Джонсон,Дэвид Кроненберг,Энди МакКуин,Ной Рейд,Дэн Летт,Аарон Пул,Тим Бересфорд",
+        "description": "Обеспокоенная девушка Эбби возвращается в свой родной город Ниагара-Фолс, где воспоминания о давнем похищении заманивают её в ловушку.",
+        "slogan": "The Truth Can Be Deceiving",
+        "premiere": "5 сентября 2019",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1184587.jpg",
+        "rating": {
+          "rating_kp": "5.75",
+          "vote_num_kp": "205",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "1833"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1092976",
+      "date": "1583092255",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Миллион мелких осколков",
+        "orig": "A Million Little Pieces",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Сэм Тейлор-Джонсон",
+        "genre": "драма",
+        "actors": "Аарон Тейлор-Джонсон,Билли Боб Торнтон,Одесса Янг,Джованни Рибизи,Джульетт Льюис,Дэш Майок,Чарльз Парнелл,Райан Херст,Давид Дастмалчян,Том Амандес",
+        "description": "Молодой писатель Джеймс просыпается в разбитом состоянии на борту самолета в Чикаго, ничего не помня о предыдущих событиях. Вскоре выясняется, что Джеймс направлен в реабилитационный центр. Испытания, выпавшие на долю героя, должны исцелить его от душевных страданий. В процессе терапии он сближается с другими пациентами &#151; харизматичным боссом мафии и молодой девушкой, в которую по правилам клиники ему запрещено влюбляться.",
+        "slogan": "Я в порядке",
+        "premiere": "10 сентября 2018",
+        "age": "18",
+        "time": "6780",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1092976.jpg",
+        "rating": {
+          "rating_kp": "6.099",
+          "vote_num_kp": "1292",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "1917"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1170018",
+      "date": "1583091966",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Рождество на двоих",
+        "orig": "Last Christmas",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания,США",
+        "director": "Пол Фиг",
+        "genre": "драма,мелодрама,комедия",
+        "actors": "Madison Ingoldsby,Эмма Томпсон,Борис Исакович,Lucy Miller,Эмилия Кларк,Макс Болдри,Маргарет Клуни,John-Luke Roberts,Мишель Йео,Bilal Zafar",
+        "description": "Кейт, которая работает в магазине рождественских товаров, злоупотребляет выпивкой и давно бросила переживать из-за собственной жизни. Но всё меняется после знакомства с милым и очаровательным Томом.",
+        "slogan": "Иногда любовь творит чудеса",
+        "premiere": "7 ноября 2019",
+        "age": "16",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1170018.jpg",
+        "rating": {
+          "rating_kp": "6.836",
+          "vote_num_kp": "72515",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "55737"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1170315",
       "date": "1582984118",
       "camrip": "0",
@@ -29,7 +204,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1170315.jpg",
         "rating": {
           "rating_kp": "7.438",
-          "vote_num_kp": "12913",
+          "vote_num_kp": "12933",
           "rating_imdb": "7.4",
           "vote_num_imdb": "6550"
         }
@@ -169,7 +344,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1253425.jpg",
         "rating": {
           "rating_kp": "5.956",
-          "vote_num_kp": "1819",
+          "vote_num_kp": "1820",
           "rating_imdb": "6",
           "vote_num_imdb": "1537"
         }
@@ -273,10 +448,10 @@
         "time": "7080",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4873.jpg",
         "rating": {
-          "rating_kp": "7.549",
-          "vote_num_kp": "7021",
+          "rating_kp": "7.548",
+          "vote_num_kp": "7030",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "29110"
+          "vote_num_imdb": "29165"
         }
       }
     },
@@ -343,10 +518,10 @@
         "time": "0",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_962338.jpg",
         "rating": {
-          "rating_kp": "5.363",
+          "rating_kp": "5.37",
           "vote_num_kp": "238",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "1911"
+          "vote_num_imdb": "1929"
         }
       }
     },
@@ -917,7 +1092,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_295060.jpg",
         "rating": {
           "rating_kp": "5.314",
-          "vote_num_kp": "13292",
+          "vote_num_kp": "13293",
           "rating_imdb": "5.3",
           "vote_num_imdb": "61446"
         }
@@ -1057,7 +1232,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BZWQyYmQ1NDktYTg2Ni00OWNmLTk3OTEtNzE1MjcwZjgxNWMzXkEyXkFqcGdeQXVyMjM5NjM5NzU@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "38",
+          "vote_num_kp": "39",
           "rating_imdb": "3.1",
           "vote_num_imdb": "155"
         }
@@ -1528,8 +1703,8 @@
         "time": "3000",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1002656.jpg",
         "rating": {
-          "rating_kp": "7.015",
-          "vote_num_kp": "585",
+          "rating_kp": "7.025",
+          "vote_num_kp": "584",
           "rating_imdb": "7.9",
           "vote_num_imdb": "2055"
         }
@@ -1672,181 +1847,6 @@
           "vote_num_kp": "36",
           "rating_imdb": "6.2",
           "vote_num_imdb": "238"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "11659",
-      "date": "1582625846",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Нет такого бизнеса, как шоу-бизнес",
-        "orig": "There's No Business Like Show Business",
-        "alter": "",
-        "year": "1954",
-        "country": "США",
-        "director": "Уолтер Лэнг",
-        "genre": "мюзикл,драма,мелодрама,комедия",
-        "actors": "Этель Мерман,Дональд О’Коннор,Мэрилин Монро,Дэн Дейли,Джонни Рэй,Митци Гейнор,Ричард Истхэм,Хью О’Брайан,Фрэнк МакХью,Риз Уильямс",
-        "description": "Супружеская чета Терри и Молли Донахью с успехом выступала в мюзикле и воспитывала сыновей Стива, Тима и очаровательную дочку Кэтти. И все шло гладко, пока любимые чада не «подкинули» родителям неожиданные сюрпризы! Стив засобирался в священники, Кэтти заболела мечтами о замужестве, а Тим встретил настоящую любовь — Викторию — начинающую певицу, мечтающую о профессиональной сцене. Однако сердца Виктории оказалось не так-то легко добиться. Но не было бы счастья, да несчастье помогло…",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_11659.jpg",
-        "rating": {
-          "rating_kp": "6.604",
-          "vote_num_kp": "850",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "5464"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1604",
-      "date": "1582625772",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мои воспоминания",
-        "orig": "Memories of Me",
-        "alter": "",
-        "year": "1988",
-        "country": "США",
-        "director": "Генри Уинклер",
-        "genre": "драма,комедия",
-        "actors": "Билли Кристал,Алан Кинг,ДжоБет Уильямс,Джанет Кэрролл,Дэвид Экройд,Фил Фондакаро,Роберт Пасторелли,Марк Л. Тейлор,Питер Элблинг,Ларри Седар",
-        "description": "Мужчина бросил семью, чтобы сделать карьеру в Голливуде. Проходит время, и его сын Эйби едет в Голливуд, чтобы увидеть своего отца впервые за 10 лет. Он узнает, что у его родителя была даже роль в кино, в &laquo;Спартаке&raquo;, но больших успехов тот не достиг. Эйби решает помочь своему отцу в его самом большом желании: получить сцену в фильме со словами.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1604.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "53",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "976"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "5456",
-      "date": "1582625697",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Гавайцы",
-        "orig": "The Hawaiians",
-        "alter": "",
-        "year": "1970",
-        "country": "США",
-        "director": "Том Грайз",
-        "genre": "драма",
-        "actors": "Чарлтон Хестон,Тина Чен,Джеральдин Чаплин,Мако,Джон Филлип Ло,Алек МакКоуэн,Дон Найт,Мико Маяма,Вирджиния Энн Ли,Крис Робинсон",
-        "description": "Фильм посвящен росту Гавайев в 20-м веке и огромный приток других людей с Востока, больше из Китая и Японии в качестве дешевой рабочей силы на островах. Чарлтон Хестон, как человек американского происхождения из ранних сеттлеров и единственный, кто видит будущее островов в райских садах для туристов всего мира. Сам он выглядит выше своего роста и похож на стереотипного островитянина.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5456.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "51",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "991"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "15186",
-      "date": "1582625573",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Сквозь темное стекло",
-        "orig": "Såsom i en spegel",
-        "alter": "",
-        "year": "1961",
-        "country": "Швеция",
-        "director": "Ингмар Бергман",
-        "genre": "драма",
-        "actors": "Харриет Андерссон, Гуннар Бьёрнстранд, Макс фон Сюдов, Ларс Пассгорд",
-        "description": "Только что вышедшая из психиатрической лечебницы девушка Карин отдыхает вместе со своим мужем Мартином врачом, отцом Дэвидом - известным писателем, и младшим братом Фредериком, по прозвищу Минус, на небольшом островке. Карин страдает галлюцинациями и истерическими припадками - ей кажется, что ее посещает Господь Бог...",
-        "slogan": "'For now we see though a glass darkly; but then face to face; now I know in part; but then I shall know even as also I am known' I Corinthians 13:12",
-        "premiere": "16 октября 1961",
-        "age": "16",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_15186.jpg",
-        "rating": {
-          "rating_kp": "7.903",
-          "vote_num_kp": "4212",
-          "rating_imdb": "8",
-          "vote_num_imdb": "22980"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1228550",
-      "date": "1582625364",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Прощай, сын мой",
-        "orig": "Dijiutianchang",
-        "alter": "",
-        "year": "2019",
-        "country": "Китай",
-        "director": "Ван Сяошуай",
-        "genre": "драма",
-        "actors": "Ван Цзинчунь,Юн Мэй,Ай Лия,Ду Цзян,Чжаоянь Гочжан,Ли Цзинцзин,Ци Си,Рой Ван,Сюй Чэн",
-        "description": "Китай, начало 1990-х. Правительство с особой строгостью следит за выполнением правила &laquo;одна семья &#151; один ребенок&raquo;. Семья рабочих металлургического завода скрывает вторую беременность жены, но вскоре об этом узнают в профкоме, и глава комитета по рождаемости уговаривает женщину на аборт на третьем месяце. Операция проходит с осложнениями, не позволяющими героине больше иметь детей. Через некоторое время, играя на реке, тонет единственный сын пары. Чтобы забыть прошлое и двигаться вперед, супруги переезжают к морю в провинцию Фуцзянь, в городок с чужим диалектом и укладом жизни, и усыновляют мальчика. Став подростком, он бунтует и сбегает из дома.",
-        "slogan": "",
-        "premiere": "14 февраля 2019",
-        "age": "0",
-        "time": "10500",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1228550.jpg",
-        "rating": {
-          "rating_kp": "7.198",
-          "vote_num_kp": "189",
-          "rating_imdb": "7.7",
-          "vote_num_imdb": "3113"
         }
       }
     }

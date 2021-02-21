@@ -2,6 +2,191 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1115221",
+      "date": "1576004288",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "TVShows",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Крестный отец Гарлема",
+        "orig": "Godfather of Harlem",
+        "alter": "",
+        "year": "2019",
+        "country": "-",
+        "director": "-",
+        "genre": "сериал,драма",
+        "actors": "-",
+        "description": "Криминальный босс Бампи Джонсон руководит торговлей наркотиками, подпольными казино и проституцией в Гарлеме.",
+        "slogan": "",
+        "premiere": "29 сентября 2019",
+        "age": "0",
+        "time": "3300",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDM0ZTNlODItOTY1MS00ODZjLWI1ZmEtZTdmN2YxYTFkYTU0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg",
+        "rating": {
+          "rating_kp": "7.849",
+          "vote_num_kp": "9752",
+          "rating_imdb": "8",
+          "vote_num_imdb": "6257"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1138780",
+      "date": "1576004047",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "SDI Media",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Болотная тварь",
+        "orig": "Swamp Thing",
+        "alter": "",
+        "year": "2019",
+        "country": "-",
+        "director": "-",
+        "genre": "сериал,драма",
+        "actors": "-",
+        "description": "Микробиолог Эбби Аркейн возвращается в родной город — здесь разбушевался смертельный вирус, который необходимо изучить и нейтрализовать. Она знакомится с коллегой Алеком Холландом, их совместная работа стремительно перерастает в романтические отношения, но на всем этом ставит точку несчастный случай на болоте, в результате которого Алек погибает. 8битая горем Эбби еще не знает, что ее ждет новая встреча с возлюбленным, который теперь превратился в человекообразное растение с супергеройскими способностями.",
+        "slogan": "Go green, or else",
+        "premiere": "1 июня 2019",
+        "age": "18",
+        "time": "3600",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWRiZTMxZTUtYzI2NS00YTk1LWJhM2MtYzU2NGQ4YzA1MmNiXkEyXkFqcGdeQXVyMjYwNDA2MDE@.jpg",
+        "rating": {
+          "rating_kp": "6.659",
+          "vote_num_kp": "17967",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "20152"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1125422",
+      "date": "1576003751",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "TVShows",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "7",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080
+        }
+      },
+      "info": {
+        "rus": "Тредстоун",
+        "orig": "Treadstone",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Брэд Андерсон,Алекс Грейвз,Уэйн Йип",
+        "genre": "боевик",
+        "actors": "Джереми Ирвин,Хан Хё-джу,Габриэль Шарницки,Трэйси Айфичор,Эмилия Шуле,Омар Метуолли,Брайан Дж. Смит,Мишель Форбс,Майкл Гэстон,Тесс Хобрич",
+        "description": "Секретная программа ЦРУ &laquo;Тредстоун&raquo; превращает оперативников в смертоносных убийц с помощью модификаций поведения. Несколько подобных &laquo;спящих&raquo; агентов в разных уголках мира неожиданно активируются для выполнения тайной миссии.",
+        "slogan": "From the World of Jason Bourne",
+        "premiere": "24 сентября 2019",
+        "age": "0",
+        "time": "2640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1125422.jpg",
+        "rating": {
+          "rating_kp": "5.896",
+          "vote_num_kp": "647",
+          "rating_imdb": "7",
+          "vote_num_imdb": "8049"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "88190",
+      "date": "1576002725",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кэнди",
+        "orig": "Candy",
+        "alter": "",
+        "year": "2005",
+        "country": "Австралия",
+        "director": "Нил Армфилд",
+        "genre": "мелодрама,драма",
+        "actors": "Хит Леджер, Эбби Корниш, Джеффри Раш, Том Бадж, Роберто Меса-Монт, Тони Мартин, Нони Хазлхерст, Холли Остин, Крэйг Морахэн, Джон Ли",
+        "description": "Кэнди, красивая юная художница, влюбляется в Дэна, поэта от случая к случаю. Их любовь опьяняет: они стремятся к бесконечному наслаждению. Раздвинуть границы возможного им помогает героин. Когда они вместе, они не боятся будущего. Но вскоре у любовников кончаются деньги на наркотики. Кэнди идёт на панель. Дэн ей не мешает, и незаметно для себя они покидают пределы своего Рая.\r\n\r\nЗависимость от героина становится всё сильнее, и в это время Кэнди и Дэн решают скрепить себя узами брака. Свадьба пролетает в наркотическом дурмане. Родители Кэнди в ужасе. На их глазах дочь летит в пропасть, навстречу чему-то, чего они страшно боятся, но не могут понять. Проходят дни и ночи. Для Кэнди и Дэна любовь неразрывно связана с наркотиками...",
+        "slogan": "Любовь - это высота, с которой вы никогда не захотите спуститься",
+        "premiere": "15 февраля 2006",
+        "age": "18",
+        "time": "6240",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_88190.jpg",
+        "rating": {
+          "rating_kp": "7.592",
+          "vote_num_kp": "32905",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "43546"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1238700",
       "date": "1576000493",
       "camrip": "0",
@@ -135,10 +320,10 @@
         "time": "3600",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1009510.jpg",
         "rating": {
-          "rating_kp": "8.538",
-          "vote_num_kp": "16130",
+          "rating_kp": "8.539",
+          "vote_num_kp": "16148",
           "rating_imdb": "8.7",
-          "vote_num_imdb": "37884"
+          "vote_num_imdb": "37960"
         }
       }
     },
@@ -276,7 +461,7 @@
           "rating_kp": "8.105",
           "vote_num_kp": "81357",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "156912"
+          "vote_num_imdb": "157068"
         }
       }
     },
@@ -598,7 +783,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1006726.jpg",
         "rating": {
           "rating_kp": "7.301",
-          "vote_num_kp": "8435",
+          "vote_num_kp": "8436",
           "rating_imdb": "8",
           "vote_num_imdb": "59148"
         }
@@ -669,7 +854,7 @@
           "rating_kp": "7.823",
           "vote_num_kp": "27350",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "184603"
+          "vote_num_imdb": "184709"
         }
       }
     },
@@ -819,7 +1004,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_582359.jpg",
         "rating": {
           "rating_kp": "7.973",
-          "vote_num_kp": "19394",
+          "vote_num_kp": "19397",
           "rating_imdb": "8.4",
           "vote_num_imdb": "163320"
         }
@@ -938,9 +1123,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1171911.jpg",
         "rating": {
           "rating_kp": "6.965",
-          "vote_num_kp": "10718",
+          "vote_num_kp": "10724",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "41965"
+          "vote_num_imdb": "42027"
         }
       }
     },
@@ -1100,7 +1285,7 @@
           "rating_kp": "7.49",
           "vote_num_kp": "34623",
           "rating_imdb": "8",
-          "vote_num_imdb": "67944"
+          "vote_num_imdb": "67967"
         }
       }
     },
@@ -1352,8 +1537,8 @@
         "time": "6240",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1074242.jpg",
         "rating": {
-          "rating_kp": "6.671",
-          "vote_num_kp": "12583",
+          "rating_kp": "6.67",
+          "vote_num_kp": "12587",
           "rating_imdb": "6.7",
           "vote_num_imdb": "27612"
         }
@@ -1493,7 +1678,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_512669.jpg",
         "rating": {
           "rating_kp": "5.444",
-          "vote_num_kp": "7259",
+          "vote_num_kp": "7261",
           "rating_imdb": "5.8",
           "vote_num_imdb": "11592"
         }
@@ -1670,7 +1855,7 @@
           "rating_kp": "7.744",
           "vote_num_kp": "124564",
           "rating_imdb": "7",
-          "vote_num_imdb": "139662"
+          "vote_num_imdb": "139709"
         }
       }
     },
@@ -1773,7 +1958,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_493214.jpg",
         "rating": {
           "rating_kp": "7.693",
-          "vote_num_kp": "12349",
+          "vote_num_kp": "12351",
           "rating_imdb": "6.9",
           "vote_num_imdb": "22455"
         }
@@ -1808,7 +1993,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_493194.jpg",
         "rating": {
           "rating_kp": "6.58",
-          "vote_num_kp": "46574",
+          "vote_num_kp": "46579",
           "rating_imdb": "6.4",
           "vote_num_imdb": "98949"
         }
@@ -1913,7 +2098,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_484621.jpg",
         "rating": {
           "rating_kp": "7.167",
-          "vote_num_kp": "34421",
+          "vote_num_kp": "34454",
           "rating_imdb": "6.5",
           "vote_num_imdb": "18747"
         }
@@ -1948,7 +2133,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_484470.jpg",
         "rating": {
           "rating_kp": "6.92",
-          "vote_num_kp": "31404",
+          "vote_num_kp": "31410",
           "rating_imdb": "6.4",
           "vote_num_imdb": "31754"
         }
@@ -2018,7 +2203,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_482078.jpg",
         "rating": {
           "rating_kp": "6.353",
-          "vote_num_kp": "21355",
+          "vote_num_kp": "21362",
           "rating_imdb": "5.8",
           "vote_num_imdb": "35452"
         }
@@ -2088,9 +2273,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_470553.jpg",
         "rating": {
           "rating_kp": "8.166",
-          "vote_num_kp": "198401",
+          "vote_num_kp": "198447",
           "rating_imdb": "8",
-          "vote_num_imdb": "429854"
+          "vote_num_imdb": "429978"
         }
       }
     },
@@ -2301,146 +2486,6 @@
           "vote_num_kp": "7991",
           "rating_imdb": "6.1",
           "vote_num_imdb": "16621"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "467085",
-      "date": "1575757198",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Цунами 3D",
-        "orig": "Bait",
-        "alter": "",
-        "year": "2011",
-        "country": "Австралия, Сингапур",
-        "director": "Кимбл Рендалл",
-        "genre": "боевик,ужасы,триллер,драма,приключения",
-        "actors": "Завьер Сэмюэл, Шарни Винсон, Адриан Пэнг, Ци Юу, Алекс Расселл, Фиби Тонкин, Мартин Сакс, Элис Паркинсон, Джулиан МакМэхон, Дэниэл Уилли",
-        "description": "Чудовищное цунами обрушивается на курортный город. Из морских глубин на затопленные улицы вырываются голодные и жаждущие крови акулы. Начинается охота. Оказавшись в ловушке стихии, чудом уцелевшие люди пытаются выжить. Сможет ли Джош спасти жизнь девушки, которую он всегда любил, но однажды уже потерял?",
-        "slogan": "Охота началась",
-        "premiere": "5 сентября 2012",
-        "age": "18",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_467085.jpg",
-        "rating": {
-          "rating_kp": "5.3",
-          "vote_num_kp": "13218",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "16469"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "464413",
-      "date": "1575757187",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мы купили зоопарк",
-        "orig": "We Bought a Zoo",
-        "alter": "",
-        "year": "2011",
-        "country": "США",
-        "director": "Кэмерон Кроу",
-        "genre": "комедия,драма,семейный",
-        "actors": "Мэтт Дэймон, Скарлетт Йоханссон, Томас Хейден Чёрч, Колин Форд, Мэгги Элизабет Джонс, Энгус Макфадьен, Эль Фаннинг, Патрик Фьюджит, Джон Майкл Хиггинс, Карла Галло",
-        "description": "Лента рассказывает о том, как семейство Ми потратило все сбережения, чтобы спасти заброшенный сельский зверинец с двумя сотнями экзотических животных, которым грозила гибель.",
-        "slogan": "A true zoo story",
-        "premiere": "26 ноября 2011",
-        "age": "12",
-        "time": "7440",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_464413.jpg",
-        "rating": {
-          "rating_kp": "7.593",
-          "vote_num_kp": "79499",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "135281"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "464376",
-      "date": "1575757184",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Маппеты",
-        "orig": "The Muppets",
-        "alter": "",
-        "year": "2011",
-        "country": "США",
-        "director": "Джеймс Бобин",
-        "genre": "комедия,мюзикл,приключения,семейный",
-        "actors": "Джейсон Сигел, Эми Адамс, Крис Купер, Рашида Джонс, Зак Галифианакис, Алан Аркин, Кен Жонг, Эмили Блант, Стив Уитмир, Эрик Джейкобсон",
-        "description": "Сюжет объединяет потрепанных кукол для финального шоу, которое призвано спасти киностудию от разорения.",
-        "slogan": "Они ближе, чем ты думаешь",
-        "premiere": "4 ноября 2011",
-        "age": "0",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_464376.jpg",
-        "rating": {
-          "rating_kp": "6.201",
-          "vote_num_kp": "6359",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "87631"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "463437",
-      "date": "1575757168",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Джейн Эйр",
-        "orig": "Jane Eyre",
-        "alter": "",
-        "year": "2011",
-        "country": "Великобритания, США",
-        "director": "Кэри Фукунага",
-        "genre": "мелодрама,драма",
-        "actors": "Миа Васиковска, Майкл Фассбендер, Джуди Денч, Джейми Белл, Салли Хокинс, Саймон МакБерни, Валентина Черви, Роми Сеттбон Мур, Имоджен Путс, Амелия Кларксон",
-        "description": "Викторианская Англия. После восьми лет, проведенных в пансионе для бедных девочек, сирота Джейн Эйр получает место гувернантки в Торнфилде - вотчине Эдварда Ферфакса Рочестера. Хозяин поместья редко наведывается в родные края, а в его отсутствие Джейн должна присматривать за восьмилетней Адель Варанс - воспитанницей аристократа. И вот однажды Рочестер возвращается. Так начинается одна из самых известных романтических историй в европейской литературе и мировом кино...",
-        "slogan": "Книга, которую знают все. Фильм, который нельзя пропустить",
-        "premiere": "31 декабря 2010",
-        "age": "12",
-        "time": "7200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_463437.jpg",
-        "rating": {
-          "rating_kp": "7.424",
-          "vote_num_kp": "56259",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "81864"
         }
       }
     }

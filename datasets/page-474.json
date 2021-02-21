@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "970873",
+      "date": "1573511745",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Роковое искушение",
+        "orig": "The Beguiled",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "София Коппола",
+        "genre": "триллер,драма",
+        "actors": "Колин Фаррелл, Николь Кидман, Кирстен Данст, Эль Фаннинг, Уна Лоуренс, Энгаури Райс, Эддисон Рики, Эмма Ховард, Уэйн Пер, Мэтт Стори",
+        "description": "Закрытый пансион для девушек был надежно спрятан от внешнего мира до того дня, пока искавший помощи и укрытия молодой человек не ступил за его ворота. С этого мгновения таинственный особняк оказался в плену рокового искушения...",
+        "slogan": "Innocent, until betrayed",
+        "premiere": "24 мая 2017",
+        "age": "18",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_970873.jpg",
+        "rating": {
+          "rating_kp": "6.059",
+          "vote_num_kp": "20120",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "52370"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1047310",
+      "date": "1573510965",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Сладостный край",
+        "orig": "Sweet Country",
+        "alter": "",
+        "year": "2017",
+        "country": "Австралия",
+        "director": "Уорвик Торнтон",
+        "genre": "триллер,история,драма,вестерн,криминал,приключения",
+        "actors": "Брайан Браун, Luka Magdeline Cole, Shanika Cole, Мэтт Дэй, Тремейн Дулан, Trevon Doolan, Анни Финстерер, Натасия Гори Фурбер, Гибсон Джон, Ивен Лесли",
+        "description": "Австралия, 1920-е годы. Защищаясь от пьяного разъяренного землевладельца, абориген Сэм убивает его и вместе с женой пускается в бега. Так как местный служитель закона сержант Флетчер уверен, что белый землевладелец был хорошим человеком, то решает любой ценой изловить беглеца и доставить его к виселице.",
+        "slogan": "Justice seen to be done just isn't enough",
+        "premiere": "6 сентября 2017",
+        "age": "0",
+        "time": "6780",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047310.jpg",
+        "rating": {
+          "rating_kp": "6.292",
+          "vote_num_kp": "608",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "7462"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1059373",
+      "date": "1573510885",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Побег заключенного 614",
+        "orig": "The Escape of Prisoner 614",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Zach Golden",
+        "genre": "комедия,боевик,криминал,приключения",
+        "actors": "Рон Перлман, Мартин Старр, Джейк Макдорман, Джордж Сэмпл, Энди Энимал, Ральф Кашен, Джон Д. Хикман, Сондра Джеймс, Дэйв Кениг, Уэйн Пайл",
+        "description": "В тихом захолустном американском городишке без дела скучают двое помощников шерифа. Вот уже много лет в городе не происходило ничего криминального. Шериф готовится сократить штат за ненадобностью, но вдруг из тюрьмы другого города сбегает очень неудобный заключённый...",
+        "slogan": "Tail 'em. Nail 'em. Jail 'em",
+        "premiere": "27 апреля 2018",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1059373.jpg",
+        "rating": {
+          "rating_kp": "5.19",
+          "vote_num_kp": "351",
+          "rating_imdb": "4.6",
+          "vote_num_imdb": "724"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "2037",
+      "date": "1573510839",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Танцующий с волками",
+        "orig": "Dances with Wolves",
+        "alter": "",
+        "year": "1990",
+        "country": "США, Великобритания",
+        "director": "Кевин Костнер",
+        "genre": "драма,вестерн,приключения",
+        "actors": "Кевин Костнер, Мэри МакДоннелл, Грэм Грин, Родни А. Грант, Флойд «Ред Кроу» Уэстермен, Танту Кардинал, Роберт Пасторелли, Чарльз Роккет, Мори Чайкин, Джимми Херман",
+        "description": "Действие фильма происходит в США во времена Гражданской войны. Лейтенант американской армии Джон Данбар после ранения в бою просит перевести его на новое место службы ближе к западной границе США. Место его службы отдалённый маленький форт. Непосредственный его командир покончил жизнь самоубийством, а попутчик Данбара погиб в стычке с индейцами после того, как довез героя до места назначения. Людей, знающих, что Данбар остался один в форте и должен выжить в условиях суровой природы, и в соседстве с кажущимися негостеприимными коренными обитателями Северной Америки, просто не осталось. Казалось, он покинут всеми. Постепенно лейтенант осваивается, он ведет записи в дневнике...",
+        "slogan": "Lt. John Dunbar is about to discover the frontier...within himself",
+        "premiere": "19 октября 1990",
+        "age": "16",
+        "time": "10860",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2037.jpg",
+        "rating": {
+          "rating_kp": "8.111",
+          "vote_num_kp": "55121",
+          "rating_imdb": "8",
+          "vote_num_imdb": "240966"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "8190",
       "date": "1573510791",
       "camrip": "0",
@@ -29,7 +169,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8190.jpg",
         "rating": {
           "rating_kp": "8.161",
-          "vote_num_kp": "50066",
+          "vote_num_kp": "50074",
           "rating_imdb": "8.2",
           "vote_num_imdb": "233605"
         }
@@ -101,7 +241,7 @@
           "rating_kp": "8.516",
           "vote_num_kp": "127177",
           "rating_imdb": "8.8",
-          "vote_num_imdb": "690689"
+          "vote_num_imdb": "690881"
         }
       }
     },
@@ -346,7 +486,7 @@
           "rating_kp": "6.706",
           "vote_num_kp": "44912",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "63386"
+          "vote_num_imdb": "63393"
         }
       }
     },
@@ -379,7 +519,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_22355.jpg",
         "rating": {
           "rating_kp": "7.557",
-          "vote_num_kp": "82583",
+          "vote_num_kp": "82650",
           "rating_imdb": "5.8",
           "vote_num_imdb": "102887"
         }
@@ -449,7 +589,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8163.jpg",
         "rating": {
           "rating_kp": "7.288",
-          "vote_num_kp": "35862",
+          "vote_num_kp": "35871",
           "rating_imdb": "6.5",
           "vote_num_imdb": "97983"
         }
@@ -486,7 +626,7 @@
           "rating_kp": "6.666",
           "vote_num_kp": "38129",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "148928"
+          "vote_num_imdb": "148962"
         }
       }
     },
@@ -519,7 +659,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_507676.jpg",
         "rating": {
           "rating_kp": "6.559",
-          "vote_num_kp": "36266",
+          "vote_num_kp": "36268",
           "rating_imdb": "6.3",
           "vote_num_imdb": "121096"
         }
@@ -694,7 +834,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_464168.jpg",
         "rating": {
           "rating_kp": "6.7",
-          "vote_num_kp": "53402",
+          "vote_num_kp": "53406",
           "rating_imdb": "6.2",
           "vote_num_imdb": "134273"
         }
@@ -728,8 +868,8 @@
         "time": "6240",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_611822.jpg",
         "rating": {
-          "rating_kp": "6.067",
-          "vote_num_kp": "71459",
+          "rating_kp": "6.068",
+          "vote_num_kp": "71530",
           "rating_imdb": "5.9",
           "vote_num_imdb": "125682"
         }
@@ -834,7 +974,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_526812.jpg",
         "rating": {
           "rating_kp": "7.539",
-          "vote_num_kp": "64708",
+          "vote_num_kp": "64738",
           "rating_imdb": "7.5",
           "vote_num_imdb": "97156"
         }
@@ -869,7 +1009,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_481523.jpg",
         "rating": {
           "rating_kp": "5.672",
-          "vote_num_kp": "32767",
+          "vote_num_kp": "32771",
           "rating_imdb": "5.4",
           "vote_num_imdb": "94477"
         }
@@ -941,7 +1081,7 @@
           "rating_kp": "7.38",
           "vote_num_kp": "142364",
           "rating_imdb": "7",
-          "vote_num_imdb": "244515"
+          "vote_num_imdb": "244545"
         }
       }
     },
@@ -1009,7 +1149,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_485261.jpg",
         "rating": {
           "rating_kp": "7.595",
-          "vote_num_kp": "147349",
+          "vote_num_kp": "147385",
           "rating_imdb": "7.5",
           "vote_num_imdb": "165623"
         }
@@ -1043,8 +1183,8 @@
         "time": "6780",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_618287.jpg",
         "rating": {
-          "rating_kp": "7.13",
-          "vote_num_kp": "80982",
+          "rating_kp": "7.131",
+          "vote_num_kp": "81001",
           "rating_imdb": "7",
           "vote_num_imdb": "102701"
         }
@@ -1079,7 +1219,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_492174.jpg",
         "rating": {
           "rating_kp": "7.737",
-          "vote_num_kp": "54817",
+          "vote_num_kp": "54825",
           "rating_imdb": "7.2",
           "vote_num_imdb": "147445"
         }
@@ -1151,7 +1291,7 @@
           "rating_kp": "7.701",
           "vote_num_kp": "170953",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "255893"
+          "vote_num_imdb": "255927"
         }
       }
     },
@@ -1219,7 +1359,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_395787.jpg",
         "rating": {
           "rating_kp": "8.18",
-          "vote_num_kp": "258170",
+          "vote_num_kp": "258280",
           "rating_imdb": "7.6",
           "vote_num_imdb": "287300"
         }
@@ -1254,7 +1394,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_416107.jpg",
         "rating": {
           "rating_kp": "6.509",
-          "vote_num_kp": "29939",
+          "vote_num_kp": "29952",
           "rating_imdb": "5.8",
           "vote_num_imdb": "41338"
         }
@@ -1324,7 +1464,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_471158.jpg",
         "rating": {
           "rating_kp": "6.306",
-          "vote_num_kp": "65776",
+          "vote_num_kp": "65793",
           "rating_imdb": "6",
           "vote_num_imdb": "2859"
         }
@@ -1466,7 +1606,7 @@
           "rating_kp": "6.916",
           "vote_num_kp": "35563",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "117039"
+          "vote_num_imdb": "117184"
         }
       }
     },
@@ -1499,7 +1639,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462495.jpg",
         "rating": {
           "rating_kp": "6.664",
-          "vote_num_kp": "55634",
+          "vote_num_kp": "55673",
           "rating_imdb": "6.1",
           "vote_num_imdb": "72735"
         }
@@ -1569,7 +1709,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5012.jpg",
         "rating": {
           "rating_kp": "7.95",
-          "vote_num_kp": "131347",
+          "vote_num_kp": "131385",
           "rating_imdb": "7.8",
           "vote_num_imdb": "281462"
         }
@@ -1606,147 +1746,7 @@
           "rating_kp": "7.051",
           "vote_num_kp": "143964",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "286968"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "3948",
-      "date": "1573407662",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Призрачный гонщик",
-        "orig": "Ghost Rider",
-        "alter": "",
-        "year": "2007",
-        "country": "США, Австралия",
-        "director": "Марк Стивен Джонсон",
-        "genre": "боевик,триллер,фэнтези",
-        "actors": "Николас Кейдж, Ева Мендес, Уэс Бентли, Питер Фонда, Сэм Эллиотт, Мэтт Лонг, Ракель Алесси, Бретт Каллен, Донал Лог, Тони Гоустхок",
-        "description": "Чтобы спасти своего отца от верной гибели, байкер-экстремал Джонни Блэйз заключает сделку с дьяволом, объектом которой является его бессмертная душа. Проходят годы, и дьявол предъявляет свои права по контракту. Он превращает Джонни в Призрачного Гонщика, агента потусторонних сил, обладающего сверхчеловеческими способностями.",
-        "slogan": "Когда-то он заключил сделку во имя любви",
-        "premiere": "15 января 2007",
-        "age": "12",
-        "time": "6600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3948.jpg",
-        "rating": {
-          "rating_kp": "6.322",
-          "vote_num_kp": "101068",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "223931"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "490323",
-      "date": "1573407603",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Притворись моей женой",
-        "orig": "Just Go with It",
-        "alter": "",
-        "year": "2011",
-        "country": "США",
-        "director": "Деннис Дуган",
-        "genre": "комедия,мелодрама",
-        "actors": "Адам Сэндлер, Дженнифер Энистон, Николь Кидман, Ник Свардсон, Бруклин Декер, Бэйли Мэдисон, Гриффин Глюк, Дэйв Мэтьюз, Кевин Нилон, Рэйчел Дрэч",
-        "description": "Главный герой Дэнни встретил Палмер, и, чтобы произвести впечатление, рассказал о своей несуществующей жене и тяготах семейной жизни. Вместо ожидаемого сочувствия, Палмер хочет познакомиться с его женой, и Дэнни необходимо срочно придумать, как выпутаться из столь интересного положения. К счастью, у него есть знакомая коллега Кэтрин, обаятельная и с детьми, которые и сыграют на время роль его семьи.",
-        "slogan": "Иногда, чтобы влюбиться, нужно... жениться",
-        "premiere": "8 февраля 2011",
-        "age": "12",
-        "time": "7020",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_490323.jpg",
-        "rating": {
-          "rating_kp": "7.277",
-          "vote_num_kp": "148046",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "222250"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "197243",
-      "date": "1573407548",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Время ведьм",
-        "orig": "Season of the Witch",
-        "alter": "",
-        "year": "2010",
-        "country": "США",
-        "director": "Доминик Сена",
-        "genre": "боевик,фэнтези,приключения",
-        "actors": "Николас Кейдж, Рон Перлман, Стивен Кэмпбелл Мур, Стивен Грэм, Ульрих Томсен, Клер Фой, Роберт Шиэн, Кристофер Ли, Кевин Риис, Эндрю Хефлер",
-        "description": "XIV столетие. В Европе свирепствует чума. Виновницей смертоносной беды признают беззащитную девушку, подозревая её в колдовстве. Умирающий кардинал просит рыцаря Бэймена доставить ведьму в далёкое аббатство, где её чары должны быть разрушены.\r\n\r\nШестеро верховых и повозка с железной клеткой, в которой заточена обвиняемая, отправляются в опасное путешествие.",
-        "slogan": "Not all souls can be saved",
-        "premiere": "4 января 2011",
-        "age": "16",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_197243.jpg",
-        "rating": {
-          "rating_kp": "6.153",
-          "vote_num_kp": "114142",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "90526"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "311268",
-      "date": "1573407469",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Никогда не сдавайся",
-        "orig": "Never Back Down",
-        "alter": "",
-        "year": "2008",
-        "country": "США",
-        "director": "Джефф Уодлоу",
-        "genre": "боевик,драма,спорт",
-        "actors": "Шон Фэрис, Эмбер Хёрд, Кэм Жиганде, Джимон Хонсу, Эван Питерс, Лесли Хоуп, Уайатт Смит, Эффион Крокетт, Нил Браун мл., Лорен Лич",
-        "description": "Джейк Тайлер вместе со всей своей семьей переезжает в Орландо, чтобы поддержать стремление младшего брата добиться успехов в профессиональной теннисной карьере. Джейк, который в родном городе был звездой футбольной команды, на новом месте превращается в изгоя. Пытаясь как-то адаптироваться в новом обществе, Джейк принимает приглашение очаровательной одноклассницы Байи на вечеринку. Там он вопреки своим желаниям ввязывается в драку с местным задирой Райаном, в результате которой оказывается побитым и униженным. \r\n\r\n После боя один из одноклассников Джейка рассказывает ему о спорте, в котором смешались многочисленные виды боевых искусств, известные человечеству, и позже знакомит его с тренером Жаном Рокуа. Рокуа становится наставником Джейка, но при одном условии - никогда не использовать силу в своих личных целях...",
-        "slogan": "Win or Lose... Everyone Has Their Fight",
-        "premiere": "4 марта 2008",
-        "age": "16",
-        "time": "6780",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_311268.jpg",
-        "rating": {
-          "rating_kp": "7.629",
-          "vote_num_kp": "71559",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "96024"
+          "vote_num_imdb": "287008"
         }
       }
     }

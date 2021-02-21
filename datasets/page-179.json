@@ -2,6 +2,356 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1158100",
+      "date": "1589453324",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "TVShows",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Происхождение",
+        "orig": "Origin",
+        "alter": "",
+        "year": "2018",
+        "country": "Великобритания",
+        "director": "Пол У. С. Андерсон, Марк Брозел, Хуан Карлос Медина",
+        "genre": "ужасы,фантастика,сериал",
+        "actors": "Наталия Тена, Том Фелтон, Сэн Мицудзи, Нора Арнезедер, Фрайзер Джеймс, Филипп Кристофер, Мэдалин Хорчер, Шиван Каллен, Эделайо Эдедайо, Уил Кобан",
+        "description": "Группа незнакомцев находится на борту космического корабля, взявшего курс на далёкую планету. Будучи брошенными, пассажиры должны объединиться, чтобы выжить, но вскоре понимают, что среди них есть один человек, который совсем не тот, кем хочет казаться.",
+        "slogan": "A new life. If you live",
+        "premiere": "14 ноября 2018",
+        "age": "0",
+        "time": "2700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1158100.jpg",
+        "rating": {
+          "rating_kp": "6.837",
+          "vote_num_kp": "4987",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "6480"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "880644",
+      "date": "1589453216",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "LostFilm",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Криптон",
+        "orig": "Krypton",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Киаран Доннелли, Метин Хусейн, Джулиус Рамсей",
+        "genre": "боевик,фантастика,драма,приключения,сериал",
+        "actors": "Камерон Каффе, Джорджина Кэмпбелл, Шон Сайпос, Энн Огбомо, Аарон Пьер, Расмус Хардайкер, Уоллис Дэй, Блейк Ритсон, Йен МакЭлхинни, Эллиот Кауэн",
+        "description": "В центре фантастического сериала - события, происходившие на родной планете мальчика с необычными способностями, который стал Суперменом. Действие разворачивается за несколько десятилетий до гибели планеты. Дед Супермена, всю жизнь веривший в равенство всех жителей планеты Криптон, решает вести непримиримую борьбу с беспорядками и очистить славное имя Элов...",
+        "slogan": "There&#x27;s more to the legend",
+        "premiere": "13 июня 2019",
+        "age": "0",
+        "time": "2700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_880644.jpg",
+        "rating": {
+          "rating_kp": "6.489",
+          "vote_num_kp": "4800",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "14628"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1046497",
+      "date": "1589453103",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Baibako",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Импульс",
+        "orig": "Impulse",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Майрзи Алмас, Шерин Дабис, Эд Фрэйман",
+        "genre": "боевик,фантастика,сериал",
+        "actors": "Мэдди Хассон, Сара Дежарден, Энука Окума, Крэйг Арнольд, Тэннер Стайн, Мисси Пайл, Мэтт Гордон, Дэвид Джеймс Эллиотт, Каллум Кит Ренни, Дэниэл Маслани",
+        "description": "16-летняя бунтарка Генриетта Коул всегда чувствовала, что отличается от своих сверстников, и мечтала сбежать из своего маленького городка. Однажды Генри узнаёт, что обладает экстраординарными способностями: она может телепортироваться.",
+        "slogan": "You can&#x27;t control what you don&#x27;t understand",
+        "premiere": "6 июня 2018",
+        "age": "18",
+        "time": "3000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1046497.jpg",
+        "rating": {
+          "rating_kp": "6.834",
+          "vote_num_kp": "2767",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "8975"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "968215",
+      "date": "1589452940",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "LostFilm",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "12",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 1080,
+          "16": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080
+        }
+      },
+      "info": {
+        "rus": "Вне времени",
+        "orig": "Timeless",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Грег Биман, Джон Шоуолтер, Холли Дэйл",
+        "genre": "боевик,фантастика,драма,приключения,сериал",
+        "actors": "Эбигейл Спенсер, Мэтт Лантер, Малкольм Баррет, Пэтерсон Джозеф, Сакина Джэффри, Клаудия Дурмит, Горан Вишнич, Энни Вершинг, Сюзанна Томпсон, Джон Гец",
+        "description": "Криминальный гений Гарсия Флинн крадёт машину времени, чтобы изменить американскую историю и уничтожить страну. Команда, собранная для того чтобы отправиться в прошлое и остановить его, состоит из профессора истории Люси Престон, солдата Уайатта Логана и учёного Руфуса Карлина.",
+        "slogan": "Protect the past. Save the future",
+        "premiere": "16 сентября 2019",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_968215.jpg",
+        "rating": {
+          "rating_kp": "6.81",
+          "vote_num_kp": "4800",
+          "rating_imdb": "7.7",
+          "vote_num_imdb": "36873"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1040981",
+      "date": "1589452655",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Amedia",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720
+        }
+      },
+      "info": {
+        "rus": "Здесь и сейчас",
+        "orig": "Here and Now",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Джереми Подесва, Ута Бризвитц, Лиза Холоденко",
+        "genre": "комедия,драма,сериал",
+        "actors": "Тим Роббинс, Холли Хантер, Дэниэл Дзоватто, Джеррика Хинтон, Рэймонд Ли, Соси Бэйкон, Питер Макдисси, Джо Уильямсон, Марван Салама, Некар Задеган",
+        "description": "История о многонациональной семье, которая живет в США: профессоре философии Грег Бишоп, его супруге-юристе Одри, их общем ребенке и трех приёмных детях - из Вьетнама, Колумбии и Сомали. За фасадом счастливого, прогрессивного семейства таится множество проблем, к которым со временем прибавляется ещё одна напасть - один из детей начинает наблюдать необъяснимые вещи, невидимые для других.",
+        "slogan": "We&#x27;re living in a new reality",
+        "premiere": "12 февраля 2018",
+        "age": "18",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1040981.jpg",
+        "rating": {
+          "rating_kp": "6.684",
+          "vote_num_kp": "600",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "4427"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1044254",
+      "date": "1589452440",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "Amedia",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 720,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Электрические сны Филипа К. Дика",
+        "orig": "Philip K. Dick's Electric Dreams",
+        "alter": "",
+        "year": "2017",
+        "country": "Великобритания, США",
+        "director": "Дэвид Фарр, Франческа Грегорини, Том Харпер",
+        "genre": "фантастика,сериал",
+        "actors": "Стив Бушеми, Джеральдин Чаплин, Брайан Крэнстон, Терренс Ховард, Ричард Мэдден, Тимоти Сполл, Анналиса Бассо, Грег Киннир, Мэл Родригез, Джуно Темпл",
+        "description": "Сериал основан на произведениях культового фантаста Филипа К. Дика. Каждая серия посвящена одному рассказу писателя: «Автофабрика», «Унылый незнакомец», «Проездной билет» и др.",
+        "slogan": "",
+        "premiere": "21 сентября 2017",
+        "age": "16",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1044254.jpg",
+        "rating": {
+          "rating_kp": "7.427",
+          "vote_num_kp": "12227",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "13673"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "412372",
       "date": "1589452327",
       "camrip": "0",
@@ -108,7 +458,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_412372.jpg",
         "rating": {
           "rating_kp": "7.257",
-          "vote_num_kp": "4037",
+          "vote_num_kp": "4041",
           "rating_imdb": "6.8",
           "vote_num_imdb": "7719"
         }
@@ -444,7 +794,7 @@
           "rating_kp": "7.967",
           "vote_num_kp": "30832",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "68718"
+          "vote_num_imdb": "68743"
         }
       }
     },
@@ -820,7 +1170,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_229633.jpg",
         "rating": {
           "rating_kp": "7.938",
-          "vote_num_kp": "5245",
+          "vote_num_kp": "5246",
           "rating_imdb": "8.2",
           "vote_num_imdb": "33450"
         }
@@ -1038,7 +1388,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_96148.jpg",
         "rating": {
           "rating_kp": "7.498",
-          "vote_num_kp": "869",
+          "vote_num_kp": "868",
           "rating_imdb": "7.4",
           "vote_num_imdb": "3527"
         }
@@ -1143,9 +1493,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_881455.jpg",
         "rating": {
           "rating_kp": "6.196",
-          "vote_num_kp": "17097",
+          "vote_num_kp": "17106",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "3575"
+          "vote_num_imdb": "3577"
         }
       }
     },
@@ -1189,10 +1539,10 @@
         "time": "0",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1281152.jpg",
         "rating": {
-          "rating_kp": "7.66",
-          "vote_num_kp": "16412",
+          "rating_kp": "7.662",
+          "vote_num_kp": "16438",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "2622"
+          "vote_num_imdb": "2647"
         }
       }
     },
@@ -1544,7 +1894,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BODUwZTA2Y2MtM2M1OC00NjMwLThhY2UtOTdjYzA0NWJhODZlXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "611",
+          "vote_num_kp": "612",
           "rating_imdb": "6.7",
           "vote_num_imdb": "717"
         }
@@ -1631,7 +1981,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1227836.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "711",
+          "vote_num_kp": "712",
           "rating_imdb": "6.2",
           "vote_num_imdb": "520"
         }
@@ -1731,9 +2081,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1244945.jpg",
         "rating": {
           "rating_kp": "7.586",
-          "vote_num_kp": "496",
+          "vote_num_kp": "499",
           "rating_imdb": "8",
-          "vote_num_imdb": "18154"
+          "vote_num_imdb": "18197"
         }
       }
     },
@@ -1937,7 +2287,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1311410.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "742",
+          "vote_num_kp": "744",
           "rating_imdb": "6.3",
           "vote_num_imdb": "469"
         }
@@ -2166,7 +2516,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045758.jpg",
         "rating": {
           "rating_kp": "7.842",
-          "vote_num_kp": "1792",
+          "vote_num_kp": "1793",
           "rating_imdb": "6.7",
           "vote_num_imdb": "1665"
         }
@@ -2201,7 +2551,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_963343.jpg",
         "rating": {
           "rating_kp": "8.043",
-          "vote_num_kp": "40010",
+          "vote_num_kp": "40076",
           "rating_imdb": "8.1",
           "vote_num_imdb": "48885"
         }
@@ -2449,216 +2799,6 @@
           "vote_num_kp": "383",
           "rating_imdb": "6.6",
           "vote_num_imdb": "997"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "58683",
-      "date": "1589370548",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дворец крушений",
-        "orig": "Smash Palace",
-        "alter": "",
-        "year": "1981",
-        "country": "Новая Зеландия",
-        "director": "Роджер Дональдсон",
-        "genre": "триллер,драма",
-        "actors": "Бруно Лоуренс,Анна Мария Монтичелли,Грир Робсон,Кит Абердайн,Десмонд Келли,Линн Робсон,Маргарет Амберс,Шон Даффи,Брайан Джонсон,Теренс Донован",
-        "description": "Жизнь Ала Шоу вращается вокруг гонок и все время он проводит на свалке старых автомобилей, которую называет &laquo;Дворец Крушений&raquo;. Его жена-француженка Джеки страдает от отсутствия внимания к ней, так как Эл слишком увлечен автомобилями. Когда Эл находит Джеки в объятиях другого мужчины, он забирает свою дочь и отправляется с ней вглубь страны, отчаянно надеясь сохранить семью.",
-        "slogan": "There's No Road Back!",
-        "premiere": "16 апреля 1982",
-        "age": "0",
-        "time": "6480",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_58683.jpg",
-        "rating": {
-          "rating_kp": "5.813",
-          "vote_num_kp": "86",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "892"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1263970",
-      "date": "1589370381",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Умри – скачай приложение и умри",
-        "orig": "You Die - Get the app, then die",
-        "alter": "",
-        "year": "2018",
-        "country": "Италия",
-        "director": "Alessandro Antonaci,Daniel Lascar,Stefano Mandalà",
-        "genre": "ужасы",
-        "actors": "William Angiuli,Carola Cudemo,Micol Damilano,Ja'Michael Darnell,Teodoro Garruto,Erica Landolfi,Rocco Marazzita,Daniele Marmi,Simone Moretto,Alice Piano",
-        "description": "Кто-то тайком устанавливает на твой телефон приложение, которое позволяет видеть мёртвых через камеру телефона. Но за всё нужно платить и с момента установки есть всего сутки, чтобы передать это приложение дальше и продлить своё существование ещё на 24 часа или умереть.",
-        "slogan": "",
-        "premiere": "1 ноября 2018",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1263970.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "72",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "233"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1094980",
-      "date": "1589370244",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Маленький город",
-        "orig": "Småstad",
-        "alter": "",
-        "year": "2017",
-        "country": "Швеция",
-        "director": "Юхан Лёфстедт",
-        "genre": "драма",
-        "actors": "Björn Löfstedt,Pelle Löfstedt,Anna Löfstedt,Bengt Sturzenbecker,Anders Carlsén,Maja Löfstedt,Ludvig Carlsén,Oliver Carlsén,Башар Аббуд,Niclas Angerborn",
-        "description": "С раннего детства Бьорн тайно жил с непреодолимым страхом. Его отец умирает от старости, оставляя ему и его четырем сестрам по видео-сообщению, которое заставляет Бьорна задуматься над своей жизнью.",
-        "slogan": "The art of living before we die",
-        "premiere": "20 января 2017",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYTA3OWNlMGMtY2RmNS00MWMzLWE1YzctOWVjNTQ4Yzk1NzEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzAxNDM3NjQ@._V1_SY1000_CR0,0,699,1000_AL_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "112"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "979787",
-      "date": "1589369520",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Интерпретаторы",
-        "orig": "Interpreters",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Майкл Райан",
-        "genre": "фантастика,триллер",
-        "actors": "Терри Маратос,Кристофер Криса,Рэйчел Килиан,Энди Фриман,Эшли Брекен,Sophia Ferguson,Вольфганг Дж. Вебер,Эйс Марреро,Стефан Хайек,Мэнни Эрнандес",
-        "description": "Странный преступник с помощью передовых технологий расправляется с жителями Саллена. Расследуя убийства, управление шерифа и бывший наёмник раскрывают, что угроза куда страшнее.",
-        "slogan": "What's on your mind?",
-        "premiere": "",
-        "age": "0",
-        "time": "7200",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTZkMTkwNWQtMmE0OC00NWM5LTljOTgtZTQ1ZDQ5NTBhMTVmXkEyXkFqcGdeQXVyODY3ODQwNw@@._V1_SY1000_CR0,0,719,1000_AL_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "3",
-          "rating_imdb": "3.5",
-          "vote_num_imdb": "152"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1045651",
-      "date": "1589369309",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Баскетбол Куроко: Последняя игра",
-        "orig": "Gekijouban Kuroko no basuke: Last Game",
-        "alter": "",
-        "year": "2017",
-        "country": "Япония",
-        "director": "Сюнсукэ Тада",
-        "genre": "аниме,мультфильм,драма,спорт",
-        "actors": "Соитиро Хоси, Ёсимаса Хосоя, Тэцу Инада, Каито Исикава, Юки Каида, Хироси Камия, Рёхэй Кимура, Хикару Мидорикава, Синъитиро Мики, Кадзуя Накаи",
-        "description": "В баскетболе слабым не место - именно так считает американская баскетбольная команда Jabberwock, которая прибыла с визитом в Японию. Сыграв в дружеском матче против одной из местных команд и одержав беспрекословную победу, члены американской команды начали насмехаться над побежденными. Они решили, что в Японии никто не умеет играть в баскетбол. Как же они ошибались.",
-        "slogan": "",
-        "premiere": "18 марта 2017",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045651.jpg",
-        "rating": {
-          "rating_kp": "7.396",
-          "vote_num_kp": "1894",
-          "rating_imdb": "7.9",
-          "vote_num_imdb": "1609"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "42866",
-      "date": "1589368464",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "720",
-      "info": {
-        "rus": "Падал прошлогодний снег",
-        "orig": "Падал прошлогодний снег",
-        "alter": "",
-        "year": "1983",
-        "country": "СССР",
-        "director": "Александр Татарский",
-        "genre": "мультфильм,комедия,фэнтези,драма,короткометражка,семейный",
-        "actors": "Лия Ахеджакова, Станислав Садальский",
-        "description": "Давным-давно, в одной весьма пластилиновой местности, жил да был орёл-мужчина, которого как-то под новый год послала жена за ёлкой.",
-        "slogan": "",
-        "premiere": "31 декабря 1983",
-        "age": "12",
-        "time": "1200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_42866.jpg",
-        "rating": {
-          "rating_kp": "8.766",
-          "vote_num_kp": "63788",
-          "rating_imdb": "8.4",
-          "vote_num_imdb": "1679"
         }
       }
     }

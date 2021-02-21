@@ -2,6 +2,216 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "6300",
+      "date": "1586472636",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Подарок на Рождество",
+        "orig": "Jingle All the Way",
+        "alter": "",
+        "year": "1996",
+        "country": "США",
+        "director": "Брайан Левант",
+        "genre": "комедия,семейный",
+        "actors": "Арнольд Шварценеггер, Синбад, Фил Хартмен, Рита Уилсон, Роберт Конрад, Мартин Мулл, Джейк Ллойд, Джеймс Белуши, Э.Дж. Де ла Пена, Лорейн Ньюмен",
+        "description": "Ужасно занятый на работе отец постоянно опаздывает на семейные мероприятия. После очередной «неявки» на выступление собственного сына по карате он обещает купить ему на Рождество суперигрушку - Турбомена и, естественно, в суете рождественских хлопот благополучно забывает об обещании.\r\n\r\nИ вот начинается лихорадочная гонка за упомянутой игрушкой в самый последний день. Но уж больно много желающих, а игрушек осталось всего ничего.",
+        "slogan": "Two Dads, One Toy, No Prisoners",
+        "premiere": "16 ноября 1996",
+        "age": "0",
+        "time": "5340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6300.jpg",
+        "rating": {
+          "rating_kp": "6.723",
+          "vote_num_kp": "21542",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "94090"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1094106",
+      "date": "1586472630",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Разлом",
+        "orig": "Skjelvet",
+        "alter": "",
+        "year": "2018",
+        "country": "Норвегия",
+        "director": "Йон Андреас Андерсен",
+        "genre": "боевик,триллер,драма",
+        "actors": "Стиг Р. Амдам, Кристоффер Йонер, Эни Даль Торп, Эдит Хогенруд-Сэнд, Кэтрин Торборг Йохансен, Йонас Хофф Офтебро, Catrin Sagen, Пер Фриш, Hanna Skogstad, Runar Døving",
+        "description": "В 1904 году норвежская столица пострадала от землетрясения силой 5,4 балла по шкале Рихтера. Стихия привела к разрушениям в городе, но ни один человек не пострадал. В настоящее время геологические исследования показывают, что в Осло почти еженедельно происходят слабые подземные толчки, которые могут служить предвестниками ещё более сильного землетрясения.",
+        "slogan": "The Wave was only the beginning",
+        "premiere": "19 августа 2018",
+        "age": "16",
+        "time": "6360",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1094106.jpg",
+        "rating": {
+          "rating_kp": "5.941",
+          "vote_num_kp": "3910",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "9721"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1153882",
+      "date": "1586472623",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Поздравляем!",
+        "orig": "Badhaai Ho",
+        "alter": "",
+        "year": "2018",
+        "country": "Индия",
+        "director": "Амит Шарма",
+        "genre": "драма,комедия",
+        "actors": "Аюшманн Кхурана,Санья Малхотра,Нина Гупта,Гаджрадж Рао,Сурекха Сикри,Шиба Чадха,Shardul Rana,Rahul Tewari,Arun Kalra,Алка Эмин",
+        "description": "Пожилая пара с двумя взрослыми сыновьями обнаруживает, что скоро у них снова будет пополнение. Но не все члены семьи рады этому факту.",
+        "slogan": "",
+        "premiere": "18 октября 2018",
+        "age": "0",
+        "time": "7440",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1153882.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "103",
+          "rating_imdb": "8",
+          "vote_num_imdb": "28020"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1064356",
+      "date": "1586472619",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Не выходи из дома",
+        "orig": "Don't Leave Home",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Майкл Талли",
+        "genre": "ужасы,триллер,детектив",
+        "actors": "Bobby Roddy, Марк Лоуренс, Сью Уолш, Alisha Weir, Анна Маргарет Холлиман, Кэрри Кокс, Дэвид МакСэвидж, Хелена Берин, Лалор Родди, Чарли Клементс",
+        "description": "Одержимая желанием отыскать корни жуткой городской легенды американская художница отправляется в Ирландию, в уединённое поместье художника-отшельника.",
+        "slogan": "An Irish Urban Legend",
+        "premiere": "10 марта 2018",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1064356.jpg",
+        "rating": {
+          "rating_kp": "5.081",
+          "vote_num_kp": "1111",
+          "rating_imdb": "5",
+          "vote_num_imdb": "1247"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "595063",
+      "date": "1586472613",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Жара",
+        "orig": "Seema Tapakai",
+        "alter": "",
+        "year": "2011",
+        "country": "Индия",
+        "director": "G. Nageswara Reddy",
+        "genre": "комедия",
+        "actors": "Аллари Нареш, Пурна, Веннела Кишор, Судха, Саяджи Шинде, Джаяпракаш Редди, Рави Пракаш, Нагиниду, Брахманандам, Сурекха Вани",
+        "description": "Шри Кришна - сын крупного бизнесмена и мультимиллионера Гураджада Kришнамурти. Он влюбляется в Сатью, которая ненавидит миллионеров. Чтобы получить любовь Сатьи Кришна начинает игру, переодевшись бедняком. Он всеми путями завоёвывает сердце Сатьи, подключив для этого и свою семью...",
+        "slogan": "",
+        "premiere": "13 мая 2011",
+        "age": "0",
+        "time": "7680",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzBkZTQxYmYtNWMzNC00MGEwLWFiMzYtOWZmODIxYzU5ODE4XkEyXkFqcGdeQXVyODA2ODM3NDQ@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "21",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "173"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "7461",
+      "date": "1586472604",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Рыцари-наездники",
+        "orig": "Knightriders",
+        "alter": "",
+        "year": "1981",
+        "country": "США",
+        "director": "Джордж А. Ромеро",
+        "genre": "боевик,драма",
+        "actors": "Эд Харрис,Гари Лахти,Том Савини,Эми Ингерсолл,Патриша Тэллман,Кристин Форрест,Уорнер Шук,Брава Блу,Синтия Адлер,Джон Эмплас",
+        "description": "Странствующая группа разыгрывает на пленере поединки и турниры, чтобы подчеркнуть смысл и красоту древних понятий чести, мужества, доблести. Однако жизнь и окружающая действительность постоянно подбрасывают моторизованному &laquo;войску короля Артура&raquo; всевозможные искушения. Например, предложения о сольных выступлениях в каких-нибудь передвижных театрах или цирках&#133;",
+        "slogan": "The Games...The Romance...The Spirit...Camelot is a state of mind",
+        "premiere": "10 апреля 1981",
+        "age": "18",
+        "time": "8760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7461.jpg",
+        "rating": {
+          "rating_kp": "5.83",
+          "vote_num_kp": "338",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "4401"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "4125",
       "date": "1586472578",
       "camrip": "0",
@@ -764,7 +974,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1025397.jpg",
         "rating": {
           "rating_kp": "6.475",
-          "vote_num_kp": "3182",
+          "vote_num_kp": "3185",
           "rating_imdb": "6.4",
           "vote_num_imdb": "2675"
         }
@@ -974,9 +1184,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_503657.jpg",
         "rating": {
           "rating_kp": "7.639",
-          "vote_num_kp": "22844",
+          "vote_num_kp": "22852",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "27502"
+          "vote_num_imdb": "27503"
         }
       }
     },
@@ -1009,7 +1219,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1055047.jpg",
         "rating": {
           "rating_kp": "7.103",
-          "vote_num_kp": "270",
+          "vote_num_kp": "271",
           "rating_imdb": "6.8",
           "vote_num_imdb": "7157"
         }
@@ -1537,216 +1747,6 @@
           "vote_num_kp": "1275",
           "rating_imdb": "7.1",
           "vote_num_imdb": "13858"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1143671",
-      "date": "1586471998",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Заря",
-        "orig": "Dawn",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Синтия Л. Леон",
-        "genre": "драма",
-        "actors": "Erin Nordseth, Patrick Vann, Michael Sigler, Райан Стэнли, Janeva Sharps, Rowan Titus, Debra Ovall, Kathy Sanders, Tony Claiborne, Christabel Fitzgerald",
-        "description": "Молодая пара, потерявшая сына, должна подготовиться к последнему дню, когда можно будет наслаждаться солнечным светом, перед тем как мир погрузится во тьму. И настанет вечная зима...",
-        "slogan": "How far would you go to save someone's life?",
-        "premiere": "23 февраля 2018",
-        "age": "0",
-        "time": "7140",
-        "poster": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/140x209/film-4001654135._CB470041848_.png",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "32",
-          "rating_imdb": "4.3",
-          "vote_num_imdb": "59"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1112547",
-      "date": "1586471997",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мы и они",
-        "orig": "Hou lai de wo men",
-        "alter": "",
-        "year": "2018",
-        "country": "Китай,Тайвань",
-        "director": "Рене Лю",
-        "genre": "мелодрама,драма",
-        "actors": "Цзин Божань,Чжоу Дунъюй,Тянь Чжуанчжуан,Цюй Чжэмин",
-        "description": "В 2007 году парень и девушка встретились в поезде по пути домой на празднование Нового года. Несмотря на то, что у молодых людей было много общего, их пути все-таки разошлись. Когда через 12 лет судьба сведет бывших влюбленных снова, обоим придется переоценить значение друг друга в собственных жизнях.",
-        "slogan": "",
-        "premiere": "28 апреля 2018",
-        "age": "0",
-        "time": "7200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112547.jpg",
-        "rating": {
-          "rating_kp": "6.899",
-          "vote_num_kp": "120",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "2885"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1064083",
-      "date": "1586471991",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дирижёр",
-        "orig": "De dirigent",
-        "alter": "",
-        "year": "2018",
-        "country": "Нидерланды,Бельгия",
-        "director": "Мария Петерс",
-        "genre": "драма,биография",
-        "actors": "Christanne de Bruijn,Бенжамин Вейнрайт,Скотт Тернер Шофилд,Шеймас Ф. Сарджент,Аннет Мальэрб,Раймонд Тири,Гийс Шолтен ван Ашат,Рихард Заммель,Шан Томас,Тим Ахерн",
-        "description": "Антония Брико мечтает стать дирижёром, но к ней не относятся всерьез, потому что она женщина.",
-        "slogan": "",
-        "premiere": "25 октября 2018",
-        "age": "0",
-        "time": "8220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1064083.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "49",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "2273"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1219476",
-      "date": "1586471983",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Агата и правда об убийстве",
-        "orig": "Agatha and the Truth of Murder",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания",
-        "director": "Терри Лоан",
-        "genre": "детектив,драма,криминал",
-        "actors": "Дин Эндрюс, Рут Брэдли, Бебе Кейв, Amelia Dell, Ричард Даблдэй, Дерек Халлиган, Блейк Харрисон, Пиппа Хэйвуд, Сташа Хикс, Ралф Айнесон",
-        "description": "1926 год. У Агаты Кристи кризис как в личной жизни, так и на профессиональном поприще: муж хочет с ней развестись, а новая книга не пишется. Во время попыток найти альтернативный путь развития сюжета для романа и отвлечься от семейных неурядиц, Агата встречается с женщиной, желающей найти убийцу Флорнеции Шор. Писательница решает раскрыть настоящее преступление.",
-        "slogan": "Some people have a taste for murder...",
-        "premiere": "23 декабря 2018",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1219476.jpg",
-        "rating": {
-          "rating_kp": "5.963",
-          "vote_num_kp": "391",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "3832"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1156576",
-      "date": "1586471982",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Виная Видея Рама",
-        "orig": "Vinaya Vidheya Rama",
-        "alter": "",
-        "year": "2019",
-        "country": "Индия",
-        "director": "Бояпати Шрину",
-        "genre": "боевик",
-        "actors": "Рам Чаран Теджа,Киара Адвани,Aadhithya,Aadhya Aarnav,Ajay,Akhil,Akshara,Aravind,Салим Баиг,Bhanu",
-        "description": "Когда счастье его семьи оказывается в руках жесткого вымогателя, Рам отправляется на поиски своего заклятого врага, чтобы отомстить ему и разрушить его подпольную империю.",
-        "slogan": "",
-        "premiere": "10 января 2019",
-        "age": "0",
-        "time": "8760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1156576.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "392",
-          "rating_imdb": "3.3",
-          "vote_num_imdb": "2623"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1140720",
-      "date": "1586471974",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "1991",
-        "orig": "1991",
-        "alter": "",
-        "year": "2018",
-        "country": "Канада",
-        "director": "Ricardo Trogi",
-        "genre": "комедия",
-        "actors": "Сандрин Биссон,Jean-Carl Boucher,Mamoudou Camara,Giuseppe Cantore,Francesca Luce Cardinale,Луиджи Чиардо,Роберто Читран,Клаудио Коланджело,Жюльетт Госслен,David-Emmanuel Jauniaux",
-        "description": "Рикардо Троджи 21 год, он студент сценарного факультета, и в том же Квебекском университете учится его жизнерадостная подружка Мари-Эв. Когда весной 1991 года Мари-Эв записывается на курс итальянского языка в университете Перуджи, движимый самыми романтическими чувствами Рикардо срывается следом за ней. В Италии его ждут приключения, новые знакомства, озарения и разочарования. Опыт, который запомнится на всю жизнь.",
-        "slogan": "",
-        "premiere": "27 июля 2018",
-        "age": "0",
-        "time": "8460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1140720.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "31",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "769"
         }
       }
     }

@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "540773",
+      "date": "1578261567",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Атомный Иван",
+        "orig": "Атомный Иван",
+        "alter": "",
+        "year": "2012",
+        "country": "Россия",
+        "director": "Василий Бархатов",
+        "genre": "комедия,мелодрама",
+        "actors": "Григорий Добрыгин, Юлия Снигирь, Екатерина Васильева, Марина Голуб, Алексей Горбунов, Евгения Дмитриева, Алексей Колубков, Денис Суханов, Галина Чурилина, Илья Кипоренко",
+        "description": "История разворачивается в городе-спутнике одной из крупнейших АЭС. Молодой учёный Ваня, как и его родители, занимается атомной энергетикой, но, как он сам считает, - не по призванию, а только из-за давней любви к бывшей однокурснице Тане. Она, напротив, увлечена своим делом, амбициозна и требовательна в личных отношениях. Однажды Таня решает разорвать эти отношения, потому что не видит в инфантильном и легкомысленном Ване надежного спутника жизни. Но неожиданные события, случившиеся в атомном городке, всё ставят на свои места: героям удаётся обрести и настоящее призвание, и настоящую любовь.",
+        "slogan": "",
+        "premiere": "29 марта 2012",
+        "age": "16",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_540773.jpg",
+        "rating": {
+          "rating_kp": "5.349",
+          "vote_num_kp": "1812",
+          "rating_imdb": "5",
+          "vote_num_imdb": "106"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "540221",
+      "date": "1578261564",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Воспроизведение",
+        "orig": "Playback",
+        "alter": "",
+        "year": "2011",
+        "country": "США",
+        "director": "Майкл А. Никлз",
+        "genre": "ужасы,триллер",
+        "actors": "Алессандра Торресани, Тоби Хемингуэй, Кристиан Слэйтер, Люк Боньчик, Яна Велдхер, Джонни Пакар, Эмбир Чилдерс, Дженнифер Миссони, Джонатан Кельтц, Дориен Дейвис",
+        "description": "Герои фильма, школьники из старшего класса, вызывают к жизни демона, который нападает на своих жертв через видеозапись во время просмотра...",
+        "slogan": "Picture. Evil",
+        "premiere": "8 февраля 2012",
+        "age": "18",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_540221.jpg",
+        "rating": {
+          "rating_kp": "3.826",
+          "vote_num_kp": "1123",
+          "rating_imdb": "4.3",
+          "vote_num_imdb": "4658"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "539550",
+      "date": "1578261561",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Артист",
+        "orig": "The Artist",
+        "alter": "",
+        "year": "2011",
+        "country": "Франция, Бельгия",
+        "director": "Мишель Хазанавичус",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Жан Дюжарден, Беренис Бежо, Джон Гудман, Джеймс Кромуэлл, Пенелопа Энн Миллер, Мисси Пайл, Бет Грант, Эд Лотер, Джоэль Мюррей, Битси Таллок",
+        "description": "Голливуд, 1927 год. Звезда немого кино Джордж Валентайн и слышать не хочет о микрофонах на съемочной площадке. А безнадежно влюбленная в Валентайна статистка Пеппи Миллер стремительно набирает популярность в новом звуковом кинематографе. Только любовь поможет героям обрести счастье.",
+        "slogan": "Любовь как в кино",
+        "premiere": "15 мая 2011",
+        "age": "12",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_539550.jpg",
+        "rating": {
+          "rating_kp": "7.942",
+          "vote_num_kp": "89257",
+          "rating_imdb": "7.9",
+          "vote_num_imdb": "231046"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "538370",
+      "date": "1578261555",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Северное море, Техас",
+        "orig": "Noordzee, Texas",
+        "alter": "",
+        "year": "2011",
+        "country": "Бельгия",
+        "director": "Баво Дефюрн",
+        "genre": "мелодрама,драма",
+        "actors": "Йелле Флоризон, Матиас Вергельс, Ева Ван-дер-Гюхт, Кателена Дамен, Бен Ван ден Хёвел, Тома Куман, Нэйтан Нанен, Нор Бен Тауэт, Патриция Гёмаэр, Даниэль Сикора",
+        "description": "Ещё ребёнком Пим был твёрдо уверен в себе и не переживал насчёт особенностей своей натуры. Мать, бывшая мисс бельгийское захолустье, раздавшись вширь, развлекала игрой на аккордеоне завсегдатаев бара «Texas», счастливая вниманием захмелевших мужчин, оставляя сына наедине со своим характером, совершенно не замечая, кто он и что у него. А тот, после домашних расстройств, искал отдохновения у соседки, сразу догадавшейся о склонностях подростка, искавшего себе пару, не у влюблённой в него дочери, а рядом с её старшим братом, чему она не стала мешать.",
+        "slogan": "",
+        "premiere": "16 марта 2011",
+        "age": "18",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_538370.jpg",
+        "rating": {
+          "rating_kp": "7.127",
+          "vote_num_kp": "2846",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "8416"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "537206",
       "date": "1578261551",
       "camrip": "0",
@@ -98,8 +238,8 @@
         "time": "6240",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_535317.jpg",
         "rating": {
-          "rating_kp": "6.38",
-          "vote_num_kp": "18317",
+          "rating_kp": "6.381",
+          "vote_num_kp": "18319",
           "rating_imdb": "6.6",
           "vote_num_imdb": "76285"
         }
@@ -203,8 +343,8 @@
         "time": "2400",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_533067.jpg",
         "rating": {
-          "rating_kp": "7.872",
-          "vote_num_kp": "1743",
+          "rating_kp": "7.87",
+          "vote_num_kp": "1744",
           "rating_imdb": "7.6",
           "vote_num_imdb": "2940"
         }
@@ -309,7 +449,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_528140.jpg",
         "rating": {
           "rating_kp": "6.213",
-          "vote_num_kp": "1407",
+          "vote_num_kp": "1406",
           "rating_imdb": "6.3",
           "vote_num_imdb": "5495"
         }
@@ -554,7 +694,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_521715.jpg",
         "rating": {
           "rating_kp": "5.872",
-          "vote_num_kp": "8527",
+          "vote_num_kp": "8529",
           "rating_imdb": "5.4",
           "vote_num_imdb": "648"
         }
@@ -588,10 +728,10 @@
         "time": "9240",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_521618.jpg",
         "rating": {
-          "rating_kp": "7.334",
-          "vote_num_kp": "14816",
+          "rating_kp": "7.335",
+          "vote_num_kp": "14828",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "23947"
+          "vote_num_imdb": "23943"
         }
       }
     },
@@ -696,7 +836,7 @@
           "rating_kp": "6.199",
           "vote_num_kp": "76692",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "255204"
+          "vote_num_imdb": "255242"
         }
       }
     },
@@ -871,7 +1011,7 @@
           "rating_kp": "5.965",
           "vote_num_kp": "22572",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "44042"
+          "vote_num_imdb": "44046"
         }
       }
     },
@@ -1236,7 +1376,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BYjYyM2FmMmMtZDgyZi00NGU3LWI3NzktODllZDY0YzQyNzgyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg",
         "rating": {
           "rating_kp": "7.84",
-          "vote_num_kp": "29507",
+          "vote_num_kp": "29516",
           "rating_imdb": "8.1",
           "vote_num_imdb": "279049"
         }
@@ -1392,7 +1532,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_893361.jpg",
         "rating": {
           "rating_kp": "8.179",
-          "vote_num_kp": "102720",
+          "vote_num_kp": "102779",
           "rating_imdb": "8.4",
           "vote_num_imdb": "38357"
         }
@@ -1462,7 +1602,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1068705.jpg",
         "rating": {
           "rating_kp": "4.171",
-          "vote_num_kp": "992",
+          "vote_num_kp": "993",
           "rating_imdb": "4.8",
           "vote_num_imdb": "10670"
         }
@@ -1497,7 +1637,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_760861.jpg",
         "rating": {
           "rating_kp": "5.558",
-          "vote_num_kp": "8035",
+          "vote_num_kp": "8039",
           "rating_imdb": "5.8",
           "vote_num_imdb": "3250"
         }
@@ -1576,9 +1716,9 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BNWE0YmQwYTctOGRmMy00N2JiLTkwODEtMGU3NTMyYmM4YjY2XkEyXkFqcGdeQXVyNzUwMDcxNw@@._V1_.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "12",
+          "vote_num_kp": "14",
           "rating_imdb": "5.3",
-          "vote_num_imdb": "186"
+          "vote_num_imdb": "187"
         }
       }
     },
@@ -1786,7 +1926,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2547.jpg",
         "rating": {
           "rating_kp": "6.87",
-          "vote_num_kp": "11475",
+          "vote_num_kp": "11476",
           "rating_imdb": "6.5",
           "vote_num_imdb": "100779"
         }
@@ -1927,147 +2067,7 @@
           "rating_kp": "8.697",
           "vote_num_kp": "224377",
           "rating_imdb": "9",
-          "vote_num_imdb": "499897"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1097393",
-      "date": "1577969050",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Глория Белл",
-        "orig": "Gloria Bell",
-        "alter": "",
-        "year": "2018",
-        "country": "Чили, США",
-        "director": "Себастьян Лелио",
-        "genre": "комедия,мелодрама,драма",
-        "actors": "Джулианна Мур, Джон Туртурро, Карен Писториус, Майкл Сера, Брэд Гэррет, Холланд Тейлор, Джинн Трипплхорн, Рита Уилсон, Крис Малки, Касси Томсон",
-        "description": "Глории за пятьдесят, она ищет любовь в танцевальных клубах Лос-Анджелеса.",
-        "slogan": "Love. Life",
-        "premiere": "7 сентября 2018",
-        "age": "0",
-        "time": "6120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1097393.jpg",
-        "rating": {
-          "rating_kp": "6.105",
-          "vote_num_kp": "999",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "9426"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1111938",
-      "date": "1577968946",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мысленный волк",
-        "orig": "Мысленный волк",
-        "alter": "",
-        "year": "2019",
-        "country": "Россия",
-        "director": "Валерия Гай Германика",
-        "genre": "фэнтези,драма,фильм-нуар",
-        "actors": "Юлия Высоцкая,Лиза Климова,Федор Лавров,Юрий Трубин,Ася Озтюрк,Иван Дранощук",
-        "description": "Зима, лунная ночь&#133; Две женщины с ребенком пробираются сквозь лесную чащу. А где-то рядом в поисках жертвы рыщет волк-оборотень. То ли зверь, то ли человек, то ли фантом&#133;",
-        "slogan": "Верь. Бойся. Проси",
-        "premiere": "28 января 2020",
-        "age": "16",
-        "time": "4080",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1111938.jpg",
-        "rating": {
-          "rating_kp": "5.29",
-          "vote_num_kp": "1804",
-          "rating_imdb": "4.1",
-          "vote_num_imdb": "130"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1102923",
-      "date": "1577968903",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Джуди",
-        "orig": "Judy",
-        "alter": "",
-        "year": "2019",
-        "country": "Великобритания",
-        "director": "Руперт Гулд",
-        "genre": "мелодрама,история,драма,биография",
-        "actors": "Рене Зеллвегер, Джесси Бакли, Финн Уиттрок, Руфус Сьюэлл, Джемма-Ли Деверё, Майкл Гэмбон, Белла Рэмси, Энди Найман, Гайя Уайсс, Филипп Сполл",
-        "description": "Фильм рассказывает о последних концертах голливудской звезды Джуди Гарлэнд в Лондоне в 1968 году. Звезда «Волшебника страны Оз» готовится к шоу, ссорится с руководством, очаровывает музыкантов. Это хрупкая женщина, которую истощили годы тяжелой работы и тоска по детям.",
-        "slogan": "По ту сторону радуги: история легенды Золотого века Голливуда Джуди Гарленд",
-        "premiere": "30 августа 2019",
-        "age": "16",
-        "time": "7080",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1102923.jpg",
-        "rating": {
-          "rating_kp": "6.684",
-          "vote_num_kp": "9140",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "41410"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1047626",
-      "date": "1577968796",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дождливый день в Нью-Йорке",
-        "orig": "A Rainy Day in New York",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Вуди Аллен",
-        "genre": "комедия,мелодрама",
-        "actors": "Тимоти Шаламе, Эль Фаннинг, Селена Гомес, Джуд Лоу, Диего Луна, Лив Шрайбер, Аннали Эшфорд, Келли Рорбах, Ребекка Холл, Сьюки Уотерхаус",
-        "description": "Он - из состоятельной семьи Нью-Йорка, она - из небольшого городка в Аризоне. Выросший на Манхэттене юноша мечтает показать ей свой любимый город. Судьба дает ему шанс, когда девушку отправляют взять интервью у известного режиссера. Однако этот дождливый день изменит их жизнь навсегда. В проливной суете мегаполиса он встретит свою давнюю подругу, а девушку затянет в мир звездной богемы...",
-        "slogan": "",
-        "premiere": "26 июля 2019",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047626.jpg",
-        "rating": {
-          "rating_kp": "7.174",
-          "vote_num_kp": "44114",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "31114"
+          "vote_num_imdb": "500069"
         }
       }
     }

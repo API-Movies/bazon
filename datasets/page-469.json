@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "278361",
+      "date": "1574084406",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Элвин и бурундуки",
+        "orig": "Alvin and the Chipmunks",
+        "alter": "",
+        "year": "2007",
+        "country": "США",
+        "director": "Тим Хилл",
+        "genre": "мультфильм,комедия,фэнтези,семейный",
+        "actors": "Джейсон Ли, Дэвид Кросс, Кэмерон Ричардсон, Джейн Линч, Джастин Лонг, Мэттью Грей Гублер, Джесси МакКартни, Эллисон Карман, Тиара Паркер, Кира Веррастро",
+        "description": "Жизнь композитора была одной черной полосой до тех пор, пока он не встретил трех живых поющих бурундуков: лидера Элвина, гения Саймона и феерического Теодора. Поначалу они плохо уживаются вместе, но в конце концов Дэйв принимает бурундуков и даже становится менеджером их рок-группы, которая собирает стадионы поклонников.",
+        "slogan": "Here comes trouble",
+        "premiere": "13 декабря 2007",
+        "age": "12",
+        "time": "5220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_278361.jpg",
+        "rating": {
+          "rating_kp": "6.216",
+          "vote_num_kp": "68629",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "77119"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "414987",
+      "date": "1574084361",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Элвин и бурундуки 2",
+        "orig": "Alvin and the Chipmunks: The Squeakquel",
+        "alter": "",
+        "year": "2009",
+        "country": "США",
+        "director": "Бетти Томас",
+        "genre": "мультфильм,комедия,фэнтези,семейный",
+        "actors": "Закари Ливай, Дэвид Кросс, Джейсон Ли, Джастин Лонг, Мэттью Грей Гублер, Джесси МакКартни, Эми Полер, Анна Фэрис, Кристина Эпплгейт, Уэнди Мэлик",
+        "description": "Три веселых бурундука Элвин, Саймон и Теодор поступают в школу, где их ждут новые приключения. Им придется столкнуться с множеством преград со стороны одноклассников. Но самое главное - их ожидает соперничество с новой музыкальной командой, состоящей из девочек-бурундуков, которое впоследствии перерастет в большую дружбу.",
+        "slogan": "The Boys are back in town... and they have competition",
+        "premiere": "11 декабря 2009",
+        "age": "6",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_414987.jpg",
+        "rating": {
+          "rating_kp": "5.663",
+          "vote_num_kp": "44549",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "43898"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "502036",
+      "date": "1574084308",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Элвин и бурундуки 3",
+        "orig": "Alvin and the Chipmunks: Chipwrecked",
+        "alter": "",
+        "year": "2011",
+        "country": "США",
+        "director": "Майк Митчелл",
+        "genre": "мультфильм,комедия,фэнтези,приключения,семейный",
+        "actors": "Джейсон Ли, Дэвид Кросс, Дженни Слейт, Джастин Лонг, Мэттью Грей Гублер, Джесси МакКартни, Эми Полер, Анна Фэрис, Кристина Эпплгейт, Алан Тьюдик",
+        "description": "Приключения троицы непоседливых братьев-бурундуков продолжаются! Элвин, Саймон и Теодор, а также их подруги бурундушки, просто не могут оставаться в стороне от различного рода неприятностей, сулящих им новые увлекательные приключения. Что на этот раз уготовила судьба нашим героям, и как они выпутаются из очередной передряги - вот в чём вопрос.",
+        "slogan": "Полундра!",
+        "premiere": "14 декабря 2011",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_502036.jpg",
+        "rating": {
+          "rating_kp": "5.285",
+          "vote_num_kp": "31058",
+          "rating_imdb": "4.3",
+          "vote_num_imdb": "31576"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "6898",
+      "date": "1574076265",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мышиная охота",
+        "orig": "Mousehunt",
+        "alter": "",
+        "year": "1997",
+        "country": "США",
+        "director": "Гор Вербински",
+        "genre": "комедия,семейный",
+        "actors": "Нэйтан Лейн, Ли Эванс, Викки Льюис, Мори Чайкин, Эрик Кристмас, Майкл Джитер, Кристофер Уокен, Дебра Кристофферсон, Камилла Сёэберг, Йен Эберкромби",
+        "description": "Братья Ларс и Эрни Шмунц не придают особого значения унаследованному ими старому полуразрушенному особняку до тех пор, пока они не узнают, что их ветхая недвижимость стоит миллионы. Но есть одна проблема.\r\n\r\nЧтобы продать дом, братья должны избавиться от его единственного и упрямого обитателя - маленькой, но очень цепкой мыши. То, что поначалу кажется детской игрой, становится настоящей грандиозной битвой.",
+        "slogan": "You don't need to be big to be a hero",
+        "premiere": "19 декабря 1997",
+        "age": "12",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6898.jpg",
+        "rating": {
+          "rating_kp": "7.606",
+          "vote_num_kp": "68622",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "51748"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1047565",
       "date": "1574076163",
       "camrip": "0",
@@ -99,7 +239,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_921610.jpg",
         "rating": {
           "rating_kp": "7.128",
-          "vote_num_kp": "21552",
+          "vote_num_kp": "21555",
           "rating_imdb": "6.6",
           "vote_num_imdb": "24246"
         }
@@ -169,7 +309,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77588.jpg",
         "rating": {
           "rating_kp": "6.961",
-          "vote_num_kp": "81208",
+          "vote_num_kp": "81217",
           "rating_imdb": "6.3",
           "vote_num_imdb": "191714"
         }
@@ -206,7 +346,7 @@
           "rating_kp": "7.453",
           "vote_num_kp": "123205",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "285282"
+          "vote_num_imdb": "285327"
         }
       }
     },
@@ -239,7 +379,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_566355.jpg",
         "rating": {
           "rating_kp": "6.245",
-          "vote_num_kp": "7775",
+          "vote_num_kp": "7783",
           "rating_imdb": "5.5",
           "vote_num_imdb": "3611"
         }
@@ -311,7 +451,7 @@
           "rating_kp": "6.774",
           "vote_num_kp": "58787",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "210605"
+          "vote_num_imdb": "210633"
         }
       }
     },
@@ -343,8 +483,8 @@
         "time": "6240",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_860683.jpg",
         "rating": {
-          "rating_kp": "7.739",
-          "vote_num_kp": "29908",
+          "rating_kp": "7.738",
+          "vote_num_kp": "29912",
           "rating_imdb": "7.7",
           "vote_num_imdb": "25825"
         }
@@ -381,7 +521,7 @@
           "rating_kp": "7.666",
           "vote_num_kp": "65331",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "36587"
+          "vote_num_imdb": "36592"
         }
       }
     },
@@ -451,7 +591,7 @@
           "rating_kp": "6.048",
           "vote_num_kp": "49371",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "166228"
+          "vote_num_imdb": "166343"
         }
       }
     },
@@ -659,7 +799,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6034.jpg",
         "rating": {
           "rating_kp": "7.672",
-          "vote_num_kp": "197568",
+          "vote_num_kp": "197621",
           "rating_imdb": "7.3",
           "vote_num_imdb": "294158"
         }
@@ -696,7 +836,7 @@
           "rating_kp": "5.617",
           "vote_num_kp": "54019",
           "rating_imdb": "5",
-          "vote_num_imdb": "43994"
+          "vote_num_imdb": "44001"
         }
       }
     },
@@ -729,7 +869,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_231150.jpg",
         "rating": {
           "rating_kp": "6.888",
-          "vote_num_kp": "56640",
+          "vote_num_kp": "56647",
           "rating_imdb": "6.2",
           "vote_num_imdb": "42045"
         }
@@ -799,7 +939,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_64212.jpg",
         "rating": {
           "rating_kp": "6.612",
-          "vote_num_kp": "66152",
+          "vote_num_kp": "66162",
           "rating_imdb": "5.3",
           "vote_num_imdb": "115836"
         }
@@ -834,7 +974,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3954.jpg",
         "rating": {
           "rating_kp": "7.807",
-          "vote_num_kp": "73405",
+          "vote_num_kp": "73414",
           "rating_imdb": "7.3",
           "vote_num_imdb": "227536"
         }
@@ -903,8 +1043,8 @@
         "time": "7140",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_484866.jpg",
         "rating": {
-          "rating_kp": "7.701",
-          "vote_num_kp": "23281",
+          "rating_kp": "7.702",
+          "vote_num_kp": "23318",
           "rating_imdb": "7.8",
           "vote_num_imdb": "63105"
         }
@@ -941,7 +1081,7 @@
           "rating_kp": "7.488",
           "vote_num_kp": "70109",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "56117"
+          "vote_num_imdb": "56179"
         }
       }
     },
@@ -976,7 +1116,7 @@
           "rating_kp": "6.318",
           "vote_num_kp": "74882",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "109426"
+          "vote_num_imdb": "109463"
         }
       }
     },
@@ -1044,7 +1184,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_777.jpg",
         "rating": {
           "rating_kp": "7.373",
-          "vote_num_kp": "39046",
+          "vote_num_kp": "39051",
           "rating_imdb": "7",
           "vote_num_imdb": "62962"
         }
@@ -1289,7 +1429,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1163152.jpg",
         "rating": {
           "rating_kp": "6.411",
-          "vote_num_kp": "2997",
+          "vote_num_kp": "2998",
           "rating_imdb": "6.2",
           "vote_num_imdb": "284"
         }
@@ -1499,9 +1639,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_975701.jpg",
         "rating": {
           "rating_kp": "6.493",
-          "vote_num_kp": "6029",
+          "vote_num_kp": "6036",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "7742"
+          "vote_num_imdb": "7759"
         }
       }
     },
@@ -1568,8 +1708,8 @@
         "time": "6120",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1117988.jpg",
         "rating": {
-          "rating_kp": "5.53",
-          "vote_num_kp": "2355",
+          "rating_kp": "5.534",
+          "vote_num_kp": "2368",
           "rating_imdb": "5.5",
           "vote_num_imdb": "15985"
         }
@@ -1606,147 +1746,7 @@
           "rating_kp": "7.382",
           "vote_num_kp": "102782",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "106469"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1794",
-      "date": "1573901730",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "50 первых поцелуев",
-        "orig": "50 First Dates",
-        "alter": "",
-        "year": "2004",
-        "country": "США",
-        "director": "Питер Сигал",
-        "genre": "комедия,мелодрама,драма",
-        "actors": "Адам Сэндлер, Дрю Бэрримор, Роб Шнайдер, Шон Эстин, Люсия Струс, Дэн Эйкройд, Эми Хилл, Аллен Коверт, Блейк Кларк, Майя Рудольф",
-        "description": "Генри Рот влюбляется в очаровательную Люси. Несмотря на небольшие помехи, уже к вечеру настойчивому Ромео удается добиться взаимности красавицы. Молодые люди счастливы и уверены, что их любовь продлится вечно.\r\n\r\nУвы, из-за последствий автомобильной аварии, девушка утром не помнит ничего из того, что произошло накануне. Несмотря на это, Генри не намерен сдаваться и собирается бороться за свою любовь, даже если ради этого ему и придется влюблять в себя Люси каждый день!",
-        "slogan": "Каждый поцелуй как первый, если у твоей девушки - амнезия",
-        "premiere": "3 февраля 2004",
-        "age": "18",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1794.jpg",
-        "rating": {
-          "rating_kp": "7.332",
-          "vote_num_kp": "114163",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "327951"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1058201",
-      "date": "1573899808",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Материнский инстинкт",
-        "orig": "Duelles",
-        "alter": "",
-        "year": "2018",
-        "country": "Франция, Бельгия",
-        "director": "Оливье Массе-Депасс",
-        "genre": "триллер,драма",
-        "actors": "Верле Батенс, Анн Косенс, Мехди Неббу, Арье Вортхальтер, Жюль Лефевр, Луан Адам",
-        "description": "Элиз и Селин - лучшие подруги. Их семьи почти всё время проводят вместе, а сыновья растут как братья. Всё рушится, когда один из мальчиков погибает. Дружба сменяется обвинениями, а гармония - постоянным подозрением. Поведение Селин становится всё более странным, и невозможно предугадать, чем всё закончится.",
-        "slogan": "Попробуйте угадать, кто из них — на самом деле зло",
-        "premiere": "7 сентября 2018",
-        "age": "18",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1058201.jpg",
-        "rating": {
-          "rating_kp": "6.312",
-          "vote_num_kp": "3032",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "1018"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1096360",
-      "date": "1573897541",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Паучок",
-        "orig": "Itsy Bitsy",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Мика Галло",
-        "genre": "ужасы,триллер",
-        "actors": "Брюс Дэвисон, Элизабет Робертс, Дениз Кросби, Арман Дарбо, Хлоя Перрин, Трева Этьен, Мэттью Кардаропле, Эйлин Дитц, Грэйс Шен, Robin Acal",
-        "description": "Жизнь молодой женщины Карлы Моран превратилась в сплошной кошмар с той самой ночи, когда она в ужасе проснулась от того, что кто-то невидимый избивает и насилует ее. Окружающие не воспринимают всерьез ее страхов, да и сама Карла уже не верит, что это действительно происходит с ней. Но все меняет появление в ее жизни врача-парапсихолога.",
-        "slogan": "Fear Spins Its Web",
-        "premiere": "10 августа 2019",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1096360.jpg",
-        "rating": {
-          "rating_kp": "4.439",
-          "vote_num_kp": "374",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "2665"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1122009",
-      "date": "1573897360",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Голоса с того света",
-        "orig": "Morto Não Fala",
-        "alter": "",
-        "year": "2018",
-        "country": "Бразилия",
-        "director": "Деннисон Рамалью",
-        "genre": "ужасы,триллер",
-        "actors": "Даниэль де Оливейра, Фабиула Нассименту, Бьянка Компрату, Маркос Клигман, Анналара Пратес, Марку Рикка",
-        "description": "Стенио работает по ночам в морге большого криминального города, поэтому постоянно видит тела жертв бандитских разборок в самых разных невообразимых состояниях. Другой бы на его месте отчаялся, но только не Стенио - мёртвые разговаривают с ним. В прямом смысле. У мужчины оккультный дар с рождения, который он может использовать в своих интересах - мертвецы доверяют ему свои секреты. Однажды от очередного трупа Стенио узнаёт, что жена изменяет ему с соседом.",
-        "slogan": "",
-        "premiere": "17 июля 2018",
-        "age": "18",
-        "time": "6600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1122009.jpg",
-        "rating": {
-          "rating_kp": "5.326",
-          "vote_num_kp": "3670",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "1766"
+          "vote_num_imdb": "106488"
         }
       }
     }

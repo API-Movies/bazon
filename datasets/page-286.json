@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "931329",
+      "date": "1581974655",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Бесценная",
+        "orig": "Priceless",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Бен Смеллбоун",
+        "genre": "триллер,мелодрама,драма,криминал",
+        "actors": "Джоэл Смолбон, Бьянка А. Сантос, Дэвид Кокнер, Джим Пэррак, Эмбер Мидфандер, Трэвис Хаммер, Люче Рэйнс, Сара Минник, Sierra Rose Smith, Инес Френс Уэр",
+        "description": "Джеймс, потерявший опеку над своей дочерью, соглашается на то, чтобы доставить посылку, проехав через всю страну, не задавая лишних вопросов. Но когда он понимает, что поставляет, то сталкивается с выбором, который изменит его жизнь...",
+        "slogan": "Know your worth",
+        "premiere": "14 октября 2016",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_931329.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "177",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "3395"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "930692",
+      "date": "1581974639",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Выпускной",
+        "orig": "Bacalaureat",
+        "alter": "",
+        "year": "2016",
+        "country": "Румыния, Франция, Бельгия",
+        "director": "Кристиан Мунджиу",
+        "genre": "драма,криминал",
+        "actors": "Адриан Титьени, Мария-Виктория Драгуш, Лиа Буньяр, Mãlina Manovici, Влад Иванов, Gelu Colceag, Rares Andrici, Петре Чеботару, Alexandra Davidescu, Эмануэль Парву",
+        "description": "Фильм рассказывает о провинциальном враче, чья жизнь начинает рушиться, когда на его дочь нападают.",
+        "slogan": "A father will do anything to save his daughter's future",
+        "premiere": "19 мая 2016",
+        "age": "0",
+        "time": "7680",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_930692.jpg",
+        "rating": {
+          "rating_kp": "6.74",
+          "vote_num_kp": "1464",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "12314"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "930376",
+      "date": "1581974635",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Идти по следу",
+        "orig": "The Raking",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Брайан Брюэр",
+        "genre": "ужасы",
+        "actors": "Брайан Брюэр, Кри Келли, Элли Ривера, Тэтчер Робинсон, Маршал Хилтон, Marisa Davila, Алан Макссон, Ник Гомес, Пейтон МакДэвитт, Чандлер Рилко",
+        "description": "Группа студентов готовит дипломный проект. Несмотря на внутренние распри, им приходится объединиться после загадочного происшествия.",
+        "slogan": "",
+        "premiere": "7 марта 2017",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_930376.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "128",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "843"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "930334",
+      "date": "1581974634",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Почти друзья",
+        "orig": "Almost Friends",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Джейк Голдбергер",
+        "genre": "комедия,драма",
+        "actors": "Фредди Хаймор, Одейя Раш, Кристофер Мелони, Хэйли Джоэл Осмент, Джейк Эйбел, Рита Волк, Марг Хельгенбергер, Тейлор Джон Смит, Кристи МакНаб, Гари Мур",
+        "description": "Взрослый Чарли до сих пор живёт с мамой и отчимом. Однажды он встречает девушку своей мечты, которая работает в местном кафе, но проблема в том, что у неё уже есть парень...",
+        "slogan": "Timing is everything",
+        "premiere": "14 октября 2016",
+        "age": "0",
+        "time": "6060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_930334.jpg",
+        "rating": {
+          "rating_kp": "5.867",
+          "vote_num_kp": "587",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "3640"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "930286",
       "date": "1581974629",
       "camrip": "0",
@@ -519,7 +659,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_928581.jpg",
         "rating": {
           "rating_kp": "5.55",
-          "vote_num_kp": "300",
+          "vote_num_kp": "301",
           "rating_imdb": "5.6",
           "vote_num_imdb": "1555"
         }
@@ -938,8 +1078,8 @@
         "time": "6000",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_927708.jpg",
         "rating": {
-          "rating_kp": "5.679",
-          "vote_num_kp": "1233",
+          "rating_kp": "5.68",
+          "vote_num_kp": "1234",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1429,7 +1569,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_925037.jpg",
         "rating": {
           "rating_kp": "5.312",
-          "vote_num_kp": "5024",
+          "vote_num_kp": "5025",
           "rating_imdb": "5.5",
           "vote_num_imdb": "20188"
         }
@@ -1569,7 +1709,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_924780.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "21",
+          "vote_num_kp": "24",
           "rating_imdb": "6.4",
           "vote_num_imdb": "33"
         }
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "8",
           "rating_imdb": "5.2",
           "vote_num_imdb": "266"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "924547",
-      "date": "1581974475",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Темное пробуждение",
-        "orig": "Black Wake",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Джереми Кипп",
-        "genre": "ужасы,фантастика,триллер",
-        "actors": "Нана Гувеа, Том Сайзмор, Эрик Робертс, Джонни Бошан, Винсент Пасторе, Чак Цито, Джереми Фернандес, Дж. В. Кортес, Бретт Азар, Рич Графф",
-        "description": "Группа учёных собирается в сверхсекретном исследовательском институте для того, чтобы расследовать и установить причину смерти людей, тела которых стали регулярно находить на побережье Атлантического океана. В то время, как полицейские считают, что убийства - дело рук серийного маньяка, главная героиня ленты, доктор Луиза Морейра, в процессе изучения вещественных доказательств с мест преступления, понимает, на самом деле человечеству угрожает могущественное и древнее зло.",
-        "slogan": "A dark force lies beneath",
-        "premiere": "7 августа 2018",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_924547.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "68",
-          "rating_imdb": "2.1",
-          "vote_num_imdb": "270"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "924533",
-      "date": "1581974474",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Лицом к лицу",
-        "orig": "Face 2 Face",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Мэттью Торонто",
-        "genre": "драма",
-        "actors": "Даниэла Бобадилла, Дэниэл Эмерман, Кевин МакКоркл, Эмили Джордан, Мэри Гордон Мюррэй, Кэрри Кокс, Ник Райлли, Эрик А.Х. Уотсон, Шелдон А. Смит, Michael Soulema",
-        "description": "С помощью видеочата подросток-изгой находит подругу детства, но обнаруживает, что за налетом популярности и, казалось бы, идеальной жизни, она скрывает тревожную тайну.",
-        "slogan": "",
-        "premiere": "6 октября 2016",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_924533.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "87",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "1147"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "924493",
-      "date": "1581974472",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Ва-банк",
-        "orig": "All In",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Райан МакБэй",
-        "genre": "триллер,драма,криминал",
-        "actors": "Jack Stroud, Мишель Томсон, Кристофер Крабб, Tony Sago, Пэт Лаззара, Шанти Сок, Ivan Hristozov, Tashia Gates, Draya Michele",
-        "description": "Обыкновенный вечер пяти друзей, которые решили сыграть в покер, прерывают незваные гости. В ходе игры выясняется, что они ищут кругленькую сумму, бесследно пропавшую со счета. Конечно, не обходится без обвинений и угроз. Однако, это не единственная тайна, способная разрушить крепкий дружеский союз, а может и вовсе убить...",
-        "slogan": "Just one more hand",
-        "premiere": "",
-        "age": "0",
-        "time": "4920",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNmQxYTdhM2EtM2IzZi00YTJkLWJmZWItOGNlMThlMGY0MmJiXkEyXkFqcGdeQXVyNTM0NTU5Mg@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "15"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "924354",
-      "date": "1581974468",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "720",
-      "info": {
-        "rus": "Вдвоем на льдине",
-        "orig": "Вдвоем на льдине",
-        "alter": "",
-        "year": "2015",
-        "country": "Россия",
-        "director": "Валерий Игнатьев",
-        "genre": "мелодрама",
-        "actors": "Владимир Дыховичный, Елизавета Саксина, Валерий Баринов, Марианна Шульц, Евгений Редько, Александр Бобров, Полина Козловская, Евгения Каверау, Иван Шмаков, Диана Енакаева",
-        "description": "Юный пианист Роман Осин попадает в онкологическую клинику с диагнозом Саркома Юинга, где встречает девочку Юлю, талантливую художницу. Между ними возникает симпатия, все свободное время они стараются проводить вместе. Забыв о своих диагнозах, они живут как обычные молодые люди. Но однажды болезнь напомнила о себе. Рома, понимает, что состояние Юли ухудшается и медицина здесь бессильна. Веря в силу музыки, Рома решает исполнить Второй концерт Рахманинова в клинике, надеясь на то, что это может помочь Юле. Это история о первой любви, о самопожертвовании ради любимого человека, о неумирающей надежде...",
-        "slogan": "",
-        "premiere": "27 июня 2016",
-        "age": "12",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_924354.jpg",
-        "rating": {
-          "rating_kp": "6.573",
-          "vote_num_kp": "313",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
         }
       }
     }

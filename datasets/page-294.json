@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "869355",
+      "date": "1581973246",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Упавшие звезды",
+        "orig": "Fallen Stars",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Брайан Джетт",
+        "genre": "комедия,драма",
+        "actors": "Райан О’Нан, Мишель Энг, Лесли Дэвид Бэйкер, Дженнифер Ирвин, Элизабет Санг, Джиовонни Семуэлс, Вероника Сикстос, Элизабет Хауэр, Эрик Эдельштейн, Таннер Новлан",
+        "description": "История неожиданной дружбы между барменом Купером, который не совсем понимает, что ему делать со своей жизнью, и молодой и умной, но в то же время очень проблемной девушкой по имени Дэйзи.",
+        "slogan": "",
+        "premiere": "14 марта 2017",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_869355.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "94",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "316"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "869265",
+      "date": "1581973245",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Необычное свидание",
+        "orig": "A Sunday Kind of Love",
+        "alter": "",
+        "year": "2015",
+        "country": "Канада",
+        "director": "Джорди Саббаг",
+        "genre": "фэнтези,мелодрама,драма",
+        "actors": "Дилан Тейлор, Мелани Скрофано, Меган Хефферн, Бенджамин Эйрс, Анджела Бешара, Ардон Бесс, Эшли Рэйнс, Джесс Салгейру, Дэнни Смит, Steve Stransman",
+        "description": "Писателю‑неудачнику выпадает редкая возможность поговорить с собственной смертью. В течение дня он должен решить, готов ли он умереть ради исполнения заветной мечты или на свете есть ещё что‑то, ради чего стоит жить.",
+        "slogan": "",
+        "premiere": "18 ноября 2016",
+        "age": "0",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_869265.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "24",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "136"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "869148",
+      "date": "1581973240",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Чудо Коквилла",
+        "orig": "The Cokeville Miracle",
+        "alter": "",
+        "year": "2015",
+        "country": "США",
+        "director": "Т.С. Кристенсен",
+        "genre": "триллер,детектив,история,драма,семейный",
+        "actors": "Джасен Вэйд, Сара Кент, Kimball Stinger, Alexa Rae, Нэйтан Стивенс, Кимберли Меллен, Кэйтлин Э.Дж. Мейер, Caddis Adams, Грэйс Хэллоус, Эмили Уодли",
+        "description": "16 мая 1986 в небольшом городке Коквилл необычный террорист Дорис Янг взял в заложники единственный класс с учителем начальной школы прежде, чем взорвать бомбу...",
+        "slogan": "Based on actual events",
+        "premiere": "5 июня 2015",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_869148.jpg",
+        "rating": {
+          "rating_kp": "4.903",
+          "vote_num_kp": "131",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "2170"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "868678",
+      "date": "1581973230",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Объединившись, мы падем",
+        "orig": "United We Fall",
+        "alter": "",
+        "year": "2014",
+        "country": "Великобритания",
+        "director": "Гари Синьор",
+        "genre": "комедия",
+        "actors": "Мэттью Эйвери, Грэйс Бишоп, Джонатан Брок, Сушил Чудасама, Джек Доннелли, James Hamer-Morton, Дана Хаквджу, Эми Бет Хэйес, Арина Ии, Джоэль Меллингер",
+        "description": "Псевдодокументальный фильм о пяти высокомерных бывших игроках Манчестер Юнайтед, которые получали чрезмерно высокую заработную плату и более того являются расистами и гомофобами. У этих футболистов появляется шанс стать героями в 2010 году...",
+        "slogan": "Five Manchester United players. May 2010. The world was their lobster...",
+        "premiere": "17 октября 2014",
+        "age": "0",
+        "time": "5340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_868678.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "20",
+          "rating_imdb": "4",
+          "vote_num_imdb": "150"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "868439",
       "date": "1581973221",
       "camrip": "0",
@@ -274,7 +414,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_867057.jpg",
         "rating": {
           "rating_kp": "5.29",
-          "vote_num_kp": "763",
+          "vote_num_kp": "765",
           "rating_imdb": "5.7",
           "vote_num_imdb": "9595"
         }
@@ -941,7 +1081,7 @@
           "rating_kp": "3.706",
           "vote_num_kp": "326",
           "rating_imdb": "4.1",
-          "vote_num_imdb": "1096"
+          "vote_num_imdb": "1095"
         }
       }
     },
@@ -1114,7 +1254,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_862607.jpg",
         "rating": {
           "rating_kp": "4.704",
-          "vote_num_kp": "295",
+          "vote_num_kp": "296",
           "rating_imdb": "4.5",
           "vote_num_imdb": "1717"
         }
@@ -1571,7 +1711,7 @@
           "rating_kp": "0",
           "vote_num_kp": "120",
           "rating_imdb": "4.6",
-          "vote_num_imdb": "912"
+          "vote_num_imdb": "910"
         }
       }
     },
@@ -1607,146 +1747,6 @@
           "vote_num_kp": "53",
           "rating_imdb": "4.3",
           "vote_num_imdb": "275"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "860095",
-      "date": "1581973045",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Одноголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Кокон",
-        "orig": "Pod",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Мики Китинг",
-        "genre": "ужасы,триллер,детектив",
-        "actors": "Лорен Эшли Картер, Дин Кэйтс, Брайан Морвант, Ларри Фессенден, Джон Уэселкауч, Форрест МакКейн",
-        "description": "Эд получает странное сообщение от своего брата Мартина, страдающего шизофренией после службы в армии и проходящего курс реабилитации в уединенном домике у озера. Захватив с собой непутевую сестру, он отправляется к Мартину, чтобы узнать правду.",
-        "slogan": "",
-        "premiere": "16 марта 2015",
-        "age": "0",
-        "time": "4560",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_860095.jpg",
-        "rating": {
-          "rating_kp": "3.582",
-          "vote_num_kp": "283",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "3353"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "859891",
-      "date": "1581973040",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Случай Ханы и Элис",
-        "orig": "Hana to Arisu satsujin jiken",
-        "alter": "",
-        "year": "2015",
-        "country": "Япония",
-        "director": "Сюндзи Иваи",
-        "genre": "мультфильм,драма",
-        "actors": "Ю Аои, Аннэ Судзуки, Сёко Аида, Сэй Хираидзуми, Томохиро Каку, Рё Кацудзи, Мидорико Кимура, Таэ Кимура, Хару Куроки, Ранран Судзуки",
-        "description": "После того как родители 14-летней Тэцуко (она же Алиса) развелись, она была вынуждена вместе с матерью переехать из столицы в провинциальный городок и перевестись в новую среднюю школу. Соседи оказались очень таинственными личностями и пристально наблюдали за переездом из окна. Да и знакомство с новыми одноклассниками оказывается не таким, как она могла себе представить - в первый же день её начинают игнорировать. \r\n\r\nПозже Алиса выясняет, что ей досталась парта ученика по имени Иуда, который, как говорят, был убит год назад, а таинственного наблюдателя проживающего напротив зовут Ханой. Но всё это неспроста. Как загадочное убийство связано с девочкой Ханой, которая живет по соседству, не ходит в школу и наблюдает за ней из окна?",
-        "slogan": "",
-        "premiere": "20 февраля 2015",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_859891.jpg",
-        "rating": {
-          "rating_kp": "6.849",
-          "vote_num_kp": "278",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "1600"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "859883",
-      "date": "1581973039",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Одноголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Вампиры",
-        "orig": "Vampyres",
-        "alter": "",
-        "year": "2015",
-        "country": "Испания",
-        "director": "Виктор Мательяно",
-        "genre": "ужасы",
-        "actors": "Marta Flich, Альмудена Леон, Alina Nastase, Феле Мартинес, Вероника Поло, Энтони Ротса, Хуан Пабло Видал, Кристиан Стамм, Лоне Флеминг, Кэролайн Манро",
-        "description": "В британской глубинке две вампирши заманивают мужчин к себе домой, а потом жестоко с ними расправляются.",
-        "slogan": "Lust for Blood",
-        "premiere": "29 мая 2015",
-        "age": "18",
-        "time": "4560",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_859883.jpg",
-        "rating": {
-          "rating_kp": "3.198",
-          "vote_num_kp": "203",
-          "rating_imdb": "3.3",
-          "vote_num_imdb": "826"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "859614",
-      "date": "1581946142",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Поймать бабочку",
-        "orig": "Butterfly Caught",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Manny Rodriguez Jr.",
-        "genre": "драма",
-        "actors": "Александра Сгамбати, Джесс Джейкобс, Эбигейл Клейн, Джонатон Шек, Тони Плана, Грант Лиффман, Адам Амбрусо, Джейк Олсон, Чандлер Мэсси, Джей ДеМаркус",
-        "description": "Три прекрасных молодых актрисы пытаются найти работу в Лос-Анджелесе, но мир кино жесток и не каждый способен в нем выжить. Ради карьеры каждая из них готова чем-то пожертвовать, но порой ставки слишком высоки.",
-        "slogan": "",
-        "premiere": "6 октября 2017",
-        "age": "0",
-        "time": "6420",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_859614.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "18",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "232"
         }
       }
     }

@@ -2,6 +2,146 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "678975",
+      "date": "1575512475",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Need for Speed: Жажда скорости",
+        "orig": "Need for Speed",
+        "alter": "",
+        "year": "2014",
+        "country": "США, Индия, Великобритания, Франция, Филиппины",
+        "director": "Скотт Во",
+        "genre": "боевик,триллер,криминал",
+        "actors": "Аарон Пол, Доминик Купер, Имоджен Путс, Дакота Джонсон, Майкл Китон, Рамон Родригес, Ник Чинланд, Скотт Мескади, Рами Малек, Харрисон Гилбертсон",
+        "description": "История Тоби Маршалла, гениального автомеханика, чьей единственной отдушиной является участие в подпольных гонках. Чтобы сохранить семейную мастерскую, Тоби вынужден взять в партнеры богатого и заносчивого бывшего гонщика IndyCar Дино Брюстера. Когда дела Тоби наконец-то начинают идти в гору, Дино подставляет партнера, и Тоби обвиняют в преступлении, которого он не совершал. Спустя два года Тоби выходит из тюрьмы с мыслью о мести. Чтобы достичь своей цели, ему придется совершить невозможное и доказать, что даже в мире броских суперкаров самый невзрачный гонщик может финишировать первым.",
+        "slogan": "Тормоза придумал трус",
+        "premiere": "7 марта 2014",
+        "age": "12",
+        "time": "7800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_678975.jpg",
+        "rating": {
+          "rating_kp": "6.852",
+          "vote_num_kp": "102570",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "163099"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "644706",
+      "date": "1575512363",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "22 минуты",
+        "orig": "22 минуты",
+        "alter": "",
+        "year": "2014",
+        "country": "Россия",
+        "director": "Василий Сериков",
+        "genre": "боевик",
+        "actors": "Макар Запорожский, Денис Никифоров, Гаэль Камилинди, Ибрагим Тоур, Виктор Сухоруков, Александр Галибин, Игорь Тарадайкин, Владислав Демин, Иван Породнов, Владислав Погиба",
+        "description": "Морпех - первогодок Саня Ежов оказывается среди пиратов на захваченном танкере. Он знает - товарищи не бросят. Ему нужно выжить и помочь своим, когда начнется штурм. Фильм основан на реальных событиях 5 мая 2010 года, когда морские пехотинцы БПК «Маршал Шапошников» освободили захваченный в водах Аденского залива российский танкер «Московский университет». У них было только 22 минуты без права на ошибку...",
+        "slogan": "Своих не бросаем",
+        "premiere": "8 мая 2014",
+        "age": "12",
+        "time": "4740",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_644706.jpg",
+        "rating": {
+          "rating_kp": "6.174",
+          "vote_num_kp": "13622",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "694"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "635772",
+      "date": "1575512357",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Игра в имитацию",
+        "orig": "The Imitation Game",
+        "alter": "",
+        "year": "2014",
+        "country": "Великобритания, США",
+        "director": "Мортен Тильдум",
+        "genre": "триллер,драма,военный",
+        "actors": "Бенедикт Камбербэтч, Кира Найтли, Мэттью Гуд, Рори Киннер, Аллен Лич, Мэттью Бирд, Чарльз Дэнс, Марк Стронг, Джеймс Норткот, Том Гудман-Хилл",
+        "description": "Английский математик и логик Алан Тьюринг пытается взломать код немецкой шифровальной машины Enigma во время Второй мировой войны.",
+        "slogan": "Основано на невероятной, но реальной истории",
+        "premiere": "29 августа 2014",
+        "age": "16",
+        "time": "6840",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_635772.jpg",
+        "rating": {
+          "rating_kp": "7.615",
+          "vote_num_kp": "195423",
+          "rating_imdb": "8",
+          "vote_num_imdb": "687766"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "602677",
+      "date": "1575512322",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Соседи. На тропе войны",
+        "orig": "Neighbors",
+        "alter": "",
+        "year": "2014",
+        "country": "США",
+        "director": "Николас Столлер",
+        "genre": "комедия",
+        "actors": "Сет Роген, Роуз Бирн, Зак Эфрон, Айк Баринхолц, Дэйв Франко, Карла Галло, Кристофер Минц-Плассе, Крэйг Робертс, Лиза Кудроу, Джеррод Кармайкл",
+        "description": "Как известно, мужчины бывают двух типов: холостые и глубоко женатые. Первые молоды, мускулисты и точно магнит притягивают блондинок и шумных друзей. Вторые обитают дома, выращивают детей и поглощают сериалы по телеку. Обычно их пути не пересекаются. Но стоит им стать соседями, мужчины выходят на тропу войны.",
+        "slogan": "Семейные против студентов",
+        "premiere": "8 марта 2014",
+        "age": "18",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_602677.jpg",
+        "rating": {
+          "rating_kp": "5.946",
+          "vote_num_kp": "66964",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "287604"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "596274",
       "date": "1575512306",
       "camrip": "0",
@@ -28,8 +168,8 @@
         "time": "6840",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_596274.jpg",
         "rating": {
-          "rating_kp": "6.408",
-          "vote_num_kp": "31888",
+          "rating_kp": "6.407",
+          "vote_num_kp": "31899",
           "rating_imdb": "6.5",
           "vote_num_imdb": "112874"
         }
@@ -66,7 +206,7 @@
           "rating_kp": "6.127",
           "vote_num_kp": "55396",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "106592"
+          "vote_num_imdb": "106612"
         }
       }
     },
@@ -101,7 +241,7 @@
           "rating_kp": "7.836",
           "vote_num_kp": "153053",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "179387"
+          "vote_num_imdb": "179435"
         }
       }
     },
@@ -169,7 +309,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_88078.jpg",
         "rating": {
           "rating_kp": "6.752",
-          "vote_num_kp": "59596",
+          "vote_num_kp": "59613",
           "rating_imdb": "6.5",
           "vote_num_imdb": "112171"
         }
@@ -344,9 +484,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_840258.jpg",
         "rating": {
           "rating_kp": "6.826",
-          "vote_num_kp": "82689",
+          "vote_num_kp": "82688",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "4261"
+          "vote_num_imdb": "4263"
         }
       }
     },
@@ -486,7 +626,7 @@
           "rating_kp": "7.583",
           "vote_num_kp": "201264",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "222106"
+          "vote_num_imdb": "222198"
         }
       }
     },
@@ -554,7 +694,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_501333.jpg",
         "rating": {
           "rating_kp": "7.296",
-          "vote_num_kp": "133932",
+          "vote_num_kp": "134061",
           "rating_imdb": "7.8",
           "vote_num_imdb": "367097"
         }
@@ -589,7 +729,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_974465.jpg",
         "rating": {
           "rating_kp": "6.379",
-          "vote_num_kp": "9931",
+          "vote_num_kp": "9934",
           "rating_imdb": "6.4",
           "vote_num_imdb": "35253"
         }
@@ -624,7 +764,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_930442.jpg",
         "rating": {
           "rating_kp": "7.507",
-          "vote_num_kp": "33607",
+          "vote_num_kp": "33658",
           "rating_imdb": "7.4",
           "vote_num_imdb": "28343"
         }
@@ -693,8 +833,8 @@
         "time": "5820",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_915112.jpg",
         "rating": {
-          "rating_kp": "7.134",
-          "vote_num_kp": "102443",
+          "rating_kp": "7.133",
+          "vote_num_kp": "102466",
           "rating_imdb": "6.8",
           "vote_num_imdb": "92052"
         }
@@ -764,7 +904,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_892635.jpg",
         "rating": {
           "rating_kp": "6.822",
-          "vote_num_kp": "11408",
+          "vote_num_kp": "11414",
           "rating_imdb": "7.2",
           "vote_num_imdb": "44115"
         }
@@ -836,7 +976,7 @@
           "rating_kp": "6.123",
           "vote_num_kp": "29204",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "77956"
+          "vote_num_imdb": "77987"
         }
       }
     },
@@ -974,7 +1114,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_756799.jpg",
         "rating": {
           "rating_kp": "6.587",
-          "vote_num_kp": "21562",
+          "vote_num_kp": "21565",
           "rating_imdb": "6.7",
           "vote_num_imdb": "54193"
         }
@@ -1043,8 +1183,8 @@
         "time": "5520",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_678233.jpg",
         "rating": {
-          "rating_kp": "6.411",
-          "vote_num_kp": "20043",
+          "rating_kp": "6.413",
+          "vote_num_kp": "20079",
           "rating_imdb": "6.3",
           "vote_num_imdb": "38691"
         }
@@ -1079,7 +1219,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_576002.jpg",
         "rating": {
           "rating_kp": "6.678",
-          "vote_num_kp": "10735",
+          "vote_num_kp": "10736",
           "rating_imdb": "6.9",
           "vote_num_imdb": "52809"
         }
@@ -1114,7 +1254,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047956.jpg",
         "rating": {
           "rating_kp": "6.836",
-          "vote_num_kp": "31501",
+          "vote_num_kp": "31510",
           "rating_imdb": "6.8",
           "vote_num_imdb": "9042"
         }
@@ -1151,7 +1291,7 @@
           "rating_kp": "6.193",
           "vote_num_kp": "4138",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "13640"
+          "vote_num_imdb": "13647"
         }
       }
     },
@@ -1184,7 +1324,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_988953.jpg",
         "rating": {
           "rating_kp": "5.421",
-          "vote_num_kp": "34340",
+          "vote_num_kp": "34343",
           "rating_imdb": "5.2",
           "vote_num_imdb": "8708"
         }
@@ -1219,7 +1359,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_988696.jpg",
         "rating": {
           "rating_kp": "5.995",
-          "vote_num_kp": "9497",
+          "vote_num_kp": "9505",
           "rating_imdb": "5.8",
           "vote_num_imdb": "12557"
         }
@@ -1254,7 +1394,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_968384.jpg",
         "rating": {
           "rating_kp": "6.224",
-          "vote_num_kp": "12648",
+          "vote_num_kp": "12659",
           "rating_imdb": "5.7",
           "vote_num_imdb": "6583"
         }
@@ -1289,9 +1429,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_928156.jpg",
         "rating": {
           "rating_kp": "7.239",
-          "vote_num_kp": "9003",
+          "vote_num_kp": "9006",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "21721"
+          "vote_num_imdb": "21729"
         }
       }
     },
@@ -1429,7 +1569,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_893984.jpg",
         "rating": {
           "rating_kp": "5.452",
-          "vote_num_kp": "5439",
+          "vote_num_kp": "5440",
           "rating_imdb": "5.5",
           "vote_num_imdb": "8955"
         }
@@ -1499,7 +1639,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_844118.jpg",
         "rating": {
           "rating_kp": "6.337",
-          "vote_num_kp": "56611",
+          "vote_num_kp": "56649",
           "rating_imdb": "6.2",
           "vote_num_imdb": "2942"
         }
@@ -1603,150 +1743,10 @@
         "time": "6120",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_678639.jpg",
         "rating": {
-          "rating_kp": "5.643",
-          "vote_num_kp": "42833",
+          "rating_kp": "5.644",
+          "vote_num_kp": "42839",
           "rating_imdb": "6",
           "vote_num_imdb": "12727"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "629863",
-      "date": "1575504472",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Бессонная ночь",
-        "orig": "Sleepless",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Баран бо Одар",
-        "genre": "боевик,триллер",
-        "actors": "Мишель Монахэн, Гэбриэл Юнион, Дермот Малруни, Джейми Фокс, Скут МакНэри, Дэвид Харбор, Ти-Ай, Вероника МакКласки, Октавиус Дж. Джонсон, Тим Коннолли",
-        "description": "Коп со связями в преступном мире устраивает облаву в ночном клубе в поисках своего похищенного сына.",
-        "slogan": "Don't judge a cop by his cover",
-        "premiere": "12 января 2017",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_629863.jpg",
-        "rating": {
-          "rating_kp": "5.606",
-          "vote_num_kp": "2192",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "29982"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "586708",
-      "date": "1575504462",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ужас Амитивилля: Пробуждение",
-        "orig": "Amityville: The Awakening",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Франк Халфун",
-        "genre": "ужасы,триллер",
-        "actors": "Дженнифер Джейсон Ли, Белла Торн, Камерон Монахэн, Томас Манн, Дженнифер Моррисон, Кертвуд Смит, Маккенна Грейс, Тейлор Спрейтлер, Дэн Мартино, Брайан Брейтер",
-        "description": "Мать-одиночка переезжает с тремя детьми в загадочный дом, даже не подозревая о кровавом прошлом их нового жилища. У каждого дома есть история. У этого - страшная тайна.",
-        "slogan": "У каждого дома есть история. У этого – страшная тайна",
-        "premiere": "20 июля 2017",
-        "age": "16",
-        "time": "5100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_586708.jpg",
-        "rating": {
-          "rating_kp": "5.097",
-          "vote_num_kp": "13503",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "12944"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "572230",
-      "date": "1575504445",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Снеговик",
-        "orig": "The Snowman",
-        "alter": "",
-        "year": "2017",
-        "country": "Великобритания, США, Швеция",
-        "director": "Томас Альфредсон",
-        "genre": "триллер,детектив,драма,криминал",
-        "actors": "Майкл Фассбендер, Ребекка Фергюсон, Шарлотта Генсбур, Йонас Карлссон, Майкл Йэтс, Ронан Вайберт, Дж.К. Симмонс, Вэл Килмер, Давид Денсик, Тоби Джонс",
-        "description": "В течение многих лет в день, когда выпадает первый снег, бесследно исчезают замужние женщины. Сложить все части загадочного пазла под силу только знаменитому детективу. Он потерял покой и сон, ведь время следующего снегопада неумолимо приближается.",
-        "slogan": "Скоро выпадет первый снег и начнется опасная игра",
-        "premiere": "7 октября 2017",
-        "age": "18",
-        "time": "7140",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_572230.jpg",
-        "rating": {
-          "rating_kp": "5.609",
-          "vote_num_kp": "46567",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "58794"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "569071",
-      "date": "1575504443",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Жена смотрителя зоопарка",
-        "orig": "The Zookeeper's Wife",
-        "alter": "",
-        "year": "2017",
-        "country": "Чехия, Великобритания, США",
-        "director": "Ники Каро",
-        "genre": "история,драма,военный",
-        "actors": "Джессика Честейн, Йохан Хелденберг, Даниэль Брюль, Тимоти Редфорд, Эфрат Дор, Иддо Голдберг, Шира Хаас, Майкл МакЭлхаттон, Вэл Малоку, Марта Иссова",
-        "description": "Реальная история отважного подвига смотрителей Варшавского зоопарка Яна и Антонины Жабинских, давших убежище и сохранивших жизнь более, чем 300 евреям во время II Мировой войны. Ежедневный риск и опасность осложняются для Жабинских взаимоотношениями с бывшим другом семьи, а ныне высокопоставленным нацистским чиновником Лутцем Хеком, влюбленным в Антонину.",
-        "slogan": "Вместо страха – надежда, вместо отчаяния – жизнь",
-        "premiere": "7 марта 2017",
-        "age": "16",
-        "time": "7620",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_569071.jpg",
-        "rating": {
-          "rating_kp": "7.144",
-          "vote_num_kp": "30982",
-          "rating_imdb": "7",
-          "vote_num_imdb": "38807"
         }
       }
     }
