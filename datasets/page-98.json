@@ -2,6 +2,559 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1141950",
+      "date": "1602252014",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Убийственная внешность",
+        "orig": "Looks That Kill",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Келлен Мур",
+        "genre": "драма,мелодрама,комедия",
+        "actors": "Брэндон Флинн,Джулия Голден Теллес,Ки Хон Ли,Энни Мумоло,Lindsay Mushett,Том Проктер,Присцилла Лопес,Сьюзэн Бергер,Мик О’Рурк,Jude Washock",
+        "description": "Хотели бы вы иметь такую отпадную внешность, что любой при одном лишь взгляде на вас умирал? У Макса как раз такое лицо и он вовсе этому не рад. Он не может найти друзей, а в личной жизни так и вообще полная катастрофа. А потом он встречает Алекс.",
+        "slogan": "",
+        "premiere": "19 июня 2020",
+        "age": "0",
+        "time": "5520",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmUxMGNiMjItZWE3OS00YTk2LWI5MGUtOTRiNGQxMGNmOGM1XkEyXkFqcGdeQXVyNTk5NTQzNDI@.jpg",
+        "rating": {
+          "rating_kp": "6.175",
+          "vote_num_kp": "1190",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "2087"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "989089",
+      "date": "1602251629",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        }
+      },
+      "info": {
+        "rus": "Проклятие спящих",
+        "orig": "Проклятие спящих",
+        "alter": "",
+        "year": "2017",
+        "country": "Россия",
+        "director": "Илья Куликов, Никита Грамматиков",
+        "genre": "триллер,сериал",
+        "actors": "Александр Соколовский, София Каштанова, Евгений Стычкин, Юрий Чурсин, Анна Котова-Дерябина, Анастасия Заворотнюк, Антон Евтюхов, Никита Павленко, Иван Гришанов, Сергей Калашников",
+        "description": "Сюжет завязан на необычных произведениях искусства. На каждой из картин изображен спящий человек, а в самом полотне заключена душа. Это проклятие пришло в современный мир от художника, любящего свою жену до безумия. Когда она умирала, мастер силой своих чувств заточил её душу в портрет. Эта легенда вдохновила бизнесмена Павла Воронова собрать коллекцию полотен со спящими героями. В этом ему помогают фотограф Костя и искусствовед Агнесса. За необычными картинами охотится и художник Алексей Тихонов, который мечтает продолжить дело мастера и научиться заключать души в портреты.\r\n\r\nЭта история могла бы так и остаться байкой для студентов-искусствоведов, если бы не убийство известного живописца, еще одного поклонника «спящих».",
+        "slogan": "",
+        "premiere": "22 марта 2018",
+        "age": "16",
+        "time": "2880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_989089.jpg",
+        "rating": {
+          "rating_kp": "6.842",
+          "vote_num_kp": "1995",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "24"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "804670",
+      "date": "1602251563",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "NewStudio",
+      "max_qual": "1080",
+      "last_season": "3",
+      "last_episode": "13",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720
+        },
+        "2": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720
+        },
+        "3": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080
+        }
+      },
+      "info": {
+        "rus": "Зоо-апокалипсис",
+        "orig": "Zoo",
+        "alter": "Зверинец",
+        "year": "2015",
+        "country": "США",
+        "director": "Майкл Кэтлман, Стив Эделсон, Дэвид Соломон",
+        "genre": "фантастика,триллер,детектив,драма,сериал",
+        "actors": "Джеймс Волк, Кристен Коннолли, Нонсо Анози, Билли Бёрк, Алисса Диас, Джош Салатин, Нора Арнезедер, Грейси Дзинни, Афина Карканис, Кен Олин",
+        "description": "В центре сюжета - зоолог Джексон Оз, отвергающий общепринятые взгляды. Находясь в экспедиции в Африке, он начинает замечать странное поведение животных. Когда действия зверей становятся продуманными, скоординированными и приобретают свирепый характер, Оз приступает к поиску разгадки странной пандемии. Пока на планете еще остались места, где человек может укрыться от агрессии братьев меньших...",
+        "slogan": "",
+        "premiere": "7 апреля 2018",
+        "age": "16",
+        "time": "2520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_804670.jpg",
+        "rating": {
+          "rating_kp": "6.477",
+          "vote_num_kp": "1644",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "21815"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1022825",
+      "date": "1602251502",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "NewStudio",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Взлет",
+        "orig": "Rise",
+        "alter": "Школа драмы",
+        "year": "2018",
+        "country": "США",
+        "director": "Патрик Р. Норрис, Розмари Родригез, Майк Кэхилл",
+        "genre": "драма,сериал",
+        "actors": "Джош Рэднор, Марли Шелтон, Аулии Кравальо, Damon J. Gillespie, Ширли Румирк, Джо Типпетт, Тед Сазерленд, Эми Форсайт, Рармиан Ньютон, Кэйси Джонсон",
+        "description": "В центре событий - преданный своему делу учитель и семьянин Лу, который однажды избавляется от неуверенности в себе и берёт под своё крыло школьный театральный кружок, находящийся практически в безнадёжном состоянии. В итоге самоотверженная работа Лу меняет жизнь не только школы, но и всего рабочего городка.",
+        "slogan": "Dare to Dream",
+        "premiere": "13 марта 2018",
+        "age": "0",
+        "time": "2580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1022825.jpg",
+        "rating": {
+          "rating_kp": "7.288",
+          "vote_num_kp": "625",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "4305"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1016162",
+      "date": "1602251357",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "Baibako",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "13",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720
+        }
+      },
+      "info": {
+        "rus": "Отважные",
+        "orig": "The Brave",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Джон Терлески, Брэд Андерсон, Тесса Блейк",
+        "genre": "боевик,триллер,драма,военный,сериал",
+        "actors": "Энн Хеч, Майк Фогель, Тейт Эллингтон, Деметриус Гросс, Наташа Карам, Ной Миллс, София Пернас, Hadi Tabbal, Кьяра Аурелия, John Farmanesh-Bocca",
+        "description": "Сериал о военном подразделении, выполняющем опасные задания в тылу врага.",
+        "slogan": "When There&#x27;s No Way Out, They Go In",
+        "premiere": "25 сентября 2017",
+        "age": "0",
+        "time": "2580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1016162.jpg",
+        "rating": {
+          "rating_kp": "5.963",
+          "vote_num_kp": "244",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "8365"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "977494",
+      "date": "1602251299",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "17",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 1080,
+          "16": 1080,
+          "17": 1080
+        }
+      },
+      "info": {
+        "rus": "Отличные новости",
+        "orig": "Great News",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Бет МакКарти-Миллер, Клер Скэнлон, Пэймэн Бенц",
+        "genre": "комедия,сериал",
+        "actors": "Брига Хилэн, Андреа Мартин, Адам Кэмпбелл, Николь Ричи, Оратио Санс, Джон Майкл Хиггинс, Трэйси Вигфилд, Брэд Моррис, Шон МакКинни, Вики Лоуренс",
+        "description": "Однажды Кэти, продюсер службы новостей, узнает, что на телевизионный канал, где она работает, устроилась интерном ее властная мать Кэрол. Героиня в ужасе от перспективы ежедневно работать бок о бок с человеком, с которым у нее весьма непростые отношения. Однако у Кэрол есть особая миссия - она намерена во что бы то ни стало помочь Кэти получить заслуженное профессиональное признание.",
+        "slogan": "This just in... Katie&#x27;s mom is back in business",
+        "premiere": "25 апреля 2017",
+        "age": "0",
+        "time": "1320",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_977494.jpg",
+        "rating": {
+          "rating_kp": "5.923",
+          "vote_num_kp": "175",
+          "rating_imdb": "7",
+          "vote_num_imdb": "5450"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1014288",
+      "date": "1602251228",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "NewStudio",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "13",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080
+        }
+      },
+      "info": {
+        "rus": "Пожизненный приговор",
+        "orig": "Life Sentence",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Джон Т. Кречмер, Тесса Блейк, Норман Бакли",
+        "genre": "комедия,драма,сериал",
+        "actors": "Люси Хейл, Эллиот Найт, Джэйсон Блэр, Брук Лайонс, Карлос ПенаВега, Надеж К Бэйли, Джиллиан Вигмэн, Дилан Уолш, Joseph Frangie, Райли Смит",
+        "description": "Последние 8 лет Стелла Эбботт жила так, словно каждый её день мог стать последним. И в общем, так оно и было: девушка была смертельно больна. Но однажды происходит настоящее чудо - Стелла узнаёт, что она здорова. После схлынувшей эйфории девушка понимает, что теперь ей предстоит найти своё место в жизни, которую она строила последние несколько лет без оглядки на последствия.",
+        "slogan": "Life is what you make of it",
+        "premiere": "7 марта 2018",
+        "age": "0",
+        "time": "2640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1014288.jpg",
+        "rating": {
+          "rating_kp": "6.334",
+          "vote_num_kp": "1048",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "3432"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1039555",
+      "date": "1602251154",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "NewStudio",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "13",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080
+        }
+      },
+      "info": {
+        "rus": "Доблесть",
+        "orig": "Valor",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Грегори Прэндж, Стив Робин, Марк Абер",
+        "genre": "драма,сериал",
+        "actors": "Кристина Очоа, Мэтт Барр, Чарли Барнетт, Nigel Thatch, Корбин Рейд, W. Tré Davis, Мелисса Роксбур, Брайан Алан Крэйг, Брайан Летчер, Шелл Рамос",
+        "description": "История о группе пилотов, управляющих вертолётами. Эти парни и девушки прошли подготовку, прежде чем приступили к полётам. Теперь они работают на правительство, выполняя поручения различной сложности...",
+        "slogan": "Truth is the first casualty of war",
+        "premiere": "25 октября 2017",
+        "age": "18",
+        "time": "2520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1039555.jpg",
+        "rating": {
+          "rating_kp": "5.867",
+          "vote_num_kp": "198",
+          "rating_imdb": "6",
+          "vote_num_imdb": "2870"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1017960",
+      "date": "1602251086",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "Baibako",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Стартап",
+        "orig": "Alex, Inc.",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Зак Брафф, Майкл Патрик Джэнн, Ричи Кин",
+        "genre": "комедия,сериал",
+        "actors": "Зак Брафф, Тия Сиркар, Хиллари Энн Мэтьюз, Элиша Хениг, Одисси Джеймс, Майкл Империоли, Престон Брэдли, Horacio Abaroa, Анджали Бимани, Gabriella Graves",
+        "description": "Блестящий радиожурналист, муж и отец двоих детей скоро совершит нечто безумное - бросит работу и займется основанием собственной компании. Он быстро обнаруживает, что выполнить эту задачу будет намного сложнее, чем предполагалось.",
+        "slogan": "",
+        "premiere": "28 марта 2018",
+        "age": "0",
+        "time": "1800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1017960.jpg",
+        "rating": {
+          "rating_kp": "6.299",
+          "vote_num_kp": "740",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "1879"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1045053",
+      "date": "1602250999",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "HDTVRip",
+      "translation": "Двухголосый",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720
+        }
+      },
+      "info": {
+        "rus": "Десять дней в долине",
+        "orig": "Ten Days in the Valley",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Стив Робин, Сара Пиа Андерсон, Колин Бакси",
+        "genre": "драма,сериал",
+        "actors": "Кира Седжвик, Адевале Акинойе-Агбаже, Эрика Кристенсен, Кик Гарри, Мальколм-Джамал Уорнер, Эбигейл Пнёвски, Лукас Нир-Вербругге, Феликс Солис, Эли Либерт, Франсуа Баттисте",
+        "description": "Жизнь телевизионного продюсера переворачивается с ног на голову вместе с пропажей дочери и становится похожа на полицейский сериал, где у каждого свои тайны и никому нельзя доверять.",
+        "slogan": "Truth is just another story",
+        "premiere": "1 октября 2017",
+        "age": "0",
+        "time": "2580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045053.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "72",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "1368"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1023927",
       "date": "1602250908",
       "camrip": "0",
@@ -152,8 +705,8 @@
         "time": "5880",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1109034.jpg",
         "rating": {
-          "rating_kp": "5.833",
-          "vote_num_kp": "3858",
+          "rating_kp": "5.834",
+          "vote_num_kp": "3879",
           "rating_imdb": "6.2",
           "vote_num_imdb": "9435"
         }
@@ -223,7 +776,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1236644.jpg",
         "rating": {
           "rating_kp": "6.947",
-          "vote_num_kp": "8312",
+          "vote_num_kp": "8338",
           "rating_imdb": "7.1",
           "vote_num_imdb": "39833"
         }
@@ -257,8 +810,8 @@
         "time": "7680",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6878.jpg",
         "rating": {
-          "rating_kp": "7.589",
-          "vote_num_kp": "6103",
+          "rating_kp": "7.588",
+          "vote_num_kp": "6108",
           "rating_imdb": "7.3",
           "vote_num_imdb": "94250"
         }
@@ -293,7 +846,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1256891.jpg",
         "rating": {
           "rating_kp": "6.133",
-          "vote_num_kp": "12218",
+          "vote_num_kp": "12246",
           "rating_imdb": "6.2",
           "vote_num_imdb": "12284"
         }
@@ -327,8 +880,8 @@
         "time": "5580",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1251292.jpg",
         "rating": {
-          "rating_kp": "5.222",
-          "vote_num_kp": "10179",
+          "rating_kp": "5.223",
+          "vote_num_kp": "10205",
           "rating_imdb": "4.8",
           "vote_num_imdb": "4770"
         }
@@ -433,7 +986,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1405935.jpg",
         "rating": {
           "rating_kp": "7.167",
-          "vote_num_kp": "692",
+          "vote_num_kp": "695",
           "rating_imdb": "7.2",
           "vote_num_imdb": "18373"
         }
@@ -806,7 +1359,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_734161.jpg",
         "rating": {
           "rating_kp": "8.699",
-          "vote_num_kp": "1184",
+          "vote_num_kp": "1185",
           "rating_imdb": "9.2",
           "vote_num_imdb": "4247"
         }
@@ -925,7 +1478,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1366093.jpg",
         "rating": {
           "rating_kp": "6.142",
-          "vote_num_kp": "2069",
+          "vote_num_kp": "2072",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1182,9 +1735,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1002633.jpg",
         "rating": {
           "rating_kp": "6.076",
-          "vote_num_kp": "1504",
+          "vote_num_kp": "1508",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "4046"
+          "vote_num_imdb": "4049"
         }
       }
     },
@@ -1253,8 +1806,8 @@
         "rating": {
           "rating_kp": "0",
           "vote_num_kp": "7",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "778"
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "743"
         }
       }
     },
@@ -1427,7 +1980,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1314719.jpg",
         "rating": {
           "rating_kp": "4.852",
-          "vote_num_kp": "1628",
+          "vote_num_kp": "1631",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1500,356 +2053,6 @@
           "vote_num_kp": "3",
           "rating_imdb": "6",
           "vote_num_imdb": "58"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1191643",
-      "date": "1602091805",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Проклятье Одри Эрншоу",
-        "orig": "The Curse of Audrey Earnshaw",
-        "alter": "",
-        "year": "2020",
-        "country": "Канада",
-        "director": "Томас Роберт Ли",
-        "genre": "ужасы,драма",
-        "actors": "Катрин Уокер,Ханна Эмили Андерсон,Джаред Абрахамсон,Шон МакГинли,Дон МакКеллар,Джеральдин О’Роу,Том Кэри,Анна Каммер,Джессика Рейнольдс,Дэвид Лерини",
-        "description": "Одри Эрншоу и её властная мать Агата живут на окраине отдаленной протестантской деревни. Маленькое сообщество поражено эпидемией неизвестного происхождения: дети, поля и домашний скот начинают гибнуть, но ферма оккультистов Эрншоу, как ни странно, не пострадала. В деревне начинается массовая истерия, и горожане начинают винить Одри и Агату в своих проблемах, считая их ведьмами.",
-        "slogan": "",
-        "premiere": "11 июля 2020",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1191643.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "94",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "779"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1220084",
-      "date": "1602090907",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Красные буквы",
-        "orig": "Red Letters",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Джим Клок",
-        "genre": "ужасы",
-        "actors": "Джим Клок,Майк Капоцци,Чад Риджли,Kyra Kennedy,Robin F. Baker,Chris Hubbart,Marsi Fluehr,Emily Adams,Michelle Snow,Jake Ficken",
-        "description": "Два частных детектива берут дело, которое прямиком ведет их в руки тьмы. Ни один из героев не готов к тому, что их ожидает.",
-        "slogan": "",
-        "premiere": "27 октября 2019",
-        "age": "0",
-        "time": "5220",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNDE2MDRhZTMtNjliMy00MTU4LWFkMWEtOTIxZjM1OTg1NWE2XkEyXkFqcGdeQXVyNTcwMzkyNDE@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "3.8",
-          "vote_num_imdb": "86"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1142290",
-      "date": "1602086407",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Рандеву в Чикаго",
-        "orig": "Rendezvous in Chicago",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Майкл Гловер Смит",
-        "genre": "драма,мелодрама,комедия",
-        "actors": "Clare Cooney,Хайде Политофф,Maggie Scrantom,Майкл Гловер Смит,Дэйв МакНалти,Rashaad Hall,Matthew Sherbach,Robert W. Pockmire,Rob Christopher,Nina Ganet",
-        "description": "«Рандеву в Чикаго» - это короткий комедийный художественный фильм, состоящий из трех новелл, каждая из которых соответствует начальной, средней и конечной стадиям отношений.",
-        "slogan": "Three tales of love in the Windy City",
-        "premiere": "19 октября 2018",
-        "age": "0",
-        "time": "4140",
-        "poster": "https://m.media-amazon.com/images/M/MV5BN2YyMjMyMjgtYmUyMS00YTE4LWIwYTYtNmU5MjBjNjk1NDFlXkEyXkFqcGdeQXVyNDg3NzE0Mzk@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "90"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1007402",
-      "date": "1602081043",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Девять пальцев",
-        "orig": "9 doigts",
-        "alter": "",
-        "year": "2017",
-        "country": "Франция,Португалия",
-        "director": "Франсуа-Жак Оссанг",
-        "genre": "драма,приключения",
-        "actors": "Поль Ами,Дамиен Боннар,Паскаль Греггори,Гаспар Ульель,Susana Afonso Lopes,Диогу Дориа,Эльвира,Лиза Хартманн,Алексис Маненти,Лайонел Туа",
-        "description": "Маглуар совсем запутался в жизни и не знает, что ему делать. Однажды он отправляется на заброшенную железнодорожную станцию, где долгое время проводит в раздумьях, пока рядом не появляются полицейские для проверки документов. Маглуар пускается в бега, без багажа, без надежд на будущее, пока не встречает умирающего человека, который оставляет ему свое состояние. Его преследует банда Курца. Вместо того, чтобы убить его, бандиты предлагает присоединиться к ней и берут Маглуара на корабль, перевозящий опасный и странный груз полония. Он становится заложником и соучастником, потому что ему нечего терять.",
-        "slogan": "",
-        "premiere": "8 августа 2017",
-        "age": "0",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1007402.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "26",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "307"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1033581",
-      "date": "1602081039",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Убежище 2: ледяная тропа",
-        "orig": "Katafigio II: The Ice Path",
-        "alter": "",
-        "year": "2018",
-        "country": "Греция",
-        "director": "Hristos Nikoleris",
-        "genre": "ужасы,триллер",
-        "actors": "Kika Zachariadou,Viky Maidanoglou,Yiorgos Spanias,Арис Антонопулос,Nikolas Papagiannis,Данай Скиади,Александрос Кох,Alexander Tsonos,Giannis Mastrogeorgiou,Marianna Nikoleri",
-        "description": "Группа молодых ребят приезжает в лес, чтобы насладиться дикой природой и красивым озером в горах. Но внезапно Яннис получает травму, попав в странную глубокую яму, а Катэрина начинает слышать странный шепот в лесу.",
-        "slogan": "",
-        "premiere": "3 ноября 2018",
-        "age": "0",
-        "time": "4800",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNTk5NDQ3MzgtMTkwNy00MjY5LWI2ZDktNzExZTU0NjEwZGIyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTg4MTcwMTk@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "9",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "28"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1402745",
-      "date": "1602071132",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Октонавты и пещеры Сак-Актун",
-        "orig": "Octonauts and the Caves of Sac Actun",
-        "alter": "",
-        "year": "2020",
-        "country": "Великобритания",
-        "director": "Блэр Симмонс",
-        "genre": "мультфильм,комедия,приключения,семейный",
-        "actors": "Тереза Галлахер,Уэйн Грэйсон,Саймон Гринолл,Майкл С. Мерфи,Пол Патинг,Роб Рэкстроу,Helen Walsh,Кит Викхэм,Андрес Уильямс,Джо Уайатт",
-        "description": "Октонавтов ждёт подводное приключение сквозь причудливые пещеры Сак-Актун. Они хотят помочь маленькому осьминогу Кобе добраться до дома в Карибском море, но на пути их ожидает множество преград. Удастся ли им в итоге совершить задуманное?",
-        "slogan": "",
-        "premiere": "14 августа 2020",
-        "age": "0",
-        "time": "4320",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTZmZTRlYTItZGYyYi00ODNkLTg1ZTMtMDc1ZDk5ZGU1MTI3XkEyXkFqcGdeQXVyMzAzMzkzNTU@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "3",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "95"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "762897",
-      "date": "1602071128",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Сыщики под прикрытием",
-        "orig": "Mortadelo y Filemón contra Jimmy el Cachondo",
-        "alter": "Приключения Мортадело и Филимона 3 / Мортадело и Филимон против Джимми Торчка",
-        "year": "2014",
-        "country": "Испания",
-        "director": "Хавьер Фессер",
-        "genre": "мультфильм,комедия",
-        "actors": "Карра Элехальде, Джанфри Топера, Гэбриель Шаме, Рамон Ланга, Виктор Мониготе, Хосе Алиас, Мариано Венансио, Энрике Вильен, Эмилио Гавира, Берта Охеа",
-        "description": "Злодей Джимми со своими помощниками похищает сейф с секретными документами прямо из штаб-квартиры разведагентства. Его начальнику не остается ничего иного как поручить возвращение документов двум агентам Мортадело и Филимону. В то же время из тюрьмы сбегает бандит, который жаждет отомстить Филимону за арест.",
-        "slogan": "",
-        "premiere": "28 ноября 2014",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_762897.jpg",
-        "rating": {
-          "rating_kp": "5.594",
-          "vote_num_kp": "145",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "1744"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "808288",
-      "date": "1602071127",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Скуби-Ду! Ужасные Праздники",
-        "orig": "Scooby-Doo! Haunted Holidays",
-        "alter": "",
-        "year": "2012",
-        "country": "США",
-        "director": "Виктор Кук",
-        "genre": "мультфильм,короткометражка",
-        "actors": "Минди Кон,Мэттью Лиллард",
-        "description": "Скуби-Ду и команда участвуют в рождественском параде, где встречаются со Зловещим Снеговиком. Из-за чего всем грозит опасность.",
-        "slogan": "",
-        "premiere": "16 октября 2012",
-        "age": "0",
-        "time": "1320",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_808288.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "225",
-          "rating_imdb": "7",
-          "vote_num_imdb": "380"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1046498",
-      "date": "1602071104",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Американские кошмары",
-        "orig": "Mr. Malevolent",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Расти Кандифф,Дэрин Скотт",
-        "genre": "ужасы,комедия",
-        "actors": "Рэйчел Аксельрод,Клео Берри,Гэбриел Браун,Брэдли Бандли,Кейт Батлер,Джейсон Кэбелл,Мадлен Когхлан,Расти Кандифф,Венди Дэвис,Мари Дестин",
-        "description": "Мистер Зло взламывает компьютеры двух молодых хакеров и заставляет их смотреть страшные истории.",
-        "slogan": "",
-        "premiere": "11 октября 2018",
-        "age": "18",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1046498.jpg",
-        "rating": {
-          "rating_kp": "4.848",
-          "vote_num_kp": "460",
-          "rating_imdb": "4.3",
-          "vote_num_imdb": "607"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "144070",
-      "date": "1602064121",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Восстание",
-        "orig": "Dôran",
-        "alter": "",
-        "year": "1980",
-        "country": "Япония",
-        "director": "Сиро Моритани",
-        "genre": "драма,военный,история",
-        "actors": "Кэн Такакура,Саюри Ёсинага,Масаканэ Ёнэкура,Дзюнко Сакурада,Такахиро Тамура,Такаси Симура,Кэи Сато,Куниэ Танака,Рюносукэ Канэда,Син Кисида",
-        "description": "Фильм повествует о мятеже националистически настроенных офицеров японской армии, произошедшем 26-29 февраля 1936 года. Мятеж организовали молодые офицеры-националисты, которые были убеждены в том, что побороть в стране политическую коррупцию и крайнюю бедность в сельской местности можно лишь путём устранения нескольких высших политиков…<br />",
-        "slogan": "",
-        "premiere": "15 января 1980",
-        "age": "0",
-        "time": "9000",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNmM0YWJjMTgtOTQwZS00NGJhLWJkNmQtNzhiOTNhOTYxZDllL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQyMTQzMjM@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "7",
-          "vote_num_imdb": "30"
         }
       }
     }

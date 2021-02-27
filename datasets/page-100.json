@@ -2,6 +2,356 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1281924",
+      "date": "1601908246",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Созданный в Бездне: Рассвет глубокой души",
+        "orig": "Made in Abyss: Fukaki Tamashii no Reimei",
+        "alter": "",
+        "year": "2020",
+        "country": "Япония",
+        "director": "Масаюки Кодзима",
+        "genre": "аниме,мультфильм,детектив,приключения,фантастика,фэнтези",
+        "actors": "Мию Томита,Мария Исэ,Сиори Идзава,Инори Минасэ,Саяка Охара,Тэцу Инада,Эри Китамура,Нацуко Хара,Синдзи Кавада,Ёсимицу Симояма",
+        "description": "",
+        "slogan": "",
+        "premiere": "17 января 2020",
+        "age": "0",
+        "time": "6780",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1281924.jpg",
+        "rating": {
+          "rating_kp": "8.02",
+          "vote_num_kp": "1938",
+          "rating_imdb": "8.1",
+          "vote_num_imdb": "1398"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1203400",
+      "date": "1601908243",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Терпящий неудачу",
+        "orig": "Caiga quien caiga",
+        "alter": "",
+        "year": "2018",
+        "country": "Перу",
+        "director": "Eduardo Guillot",
+        "genre": "триллер",
+        "actors": "Мигель Иса,Эдуардо Камино,Хавьер Валдес,Gonzalo Molina,Alfonso Dibos,Жаклин Васкес,José Miguel Arbulú,Kukuli Morante,Карина Хордан,Марселло Ривера",
+        "description": "Фильм, основанный на мемуарах прокурора Хосе Угаса, игра в кошки-мышки вокруг громкого расследования незаконной деятельности Владимиро Монтесиноса, изворотливого главы тайной полиции Перу и ближайшего советника президента Альберто Фухимори.",
+        "slogan": "",
+        "premiere": "23 августа 2018",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGI5YTA0OTktYTA0ZC00MGJkLWFjZDAtMmFkMmMyNTcyNzFkXkEyXkFqcGdeQXVyMjIyNzYyMA@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "39"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1036813",
+      "date": "1601908238",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Невидимая сеть: обнажёнка",
+        "orig": "Deep Web XXX",
+        "alter": "",
+        "year": "2018",
+        "country": "Италия,Великобритания",
+        "director": "Домициано Кристофаро,Elisa Carrera Fumagalli,Martyna Madej",
+        "genre": "ужасы,фэнтези,триллер",
+        "actors": "Мартин В. Пэйн,Elisa Carrera Fumagalli,Марк Томпсон-Эшворт,Robbie Hampstead,Giorgio Agri",
+        "description": "Серия коротких, но до жути тошнотворных видеоклипов, собранных из Невидимой сети.",
+        "slogan": "",
+        "premiere": "10 марта 2018",
+        "age": "0",
+        "time": "4560",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTY0M2JjOTItMjQ0Ni00NTBiLThjYTEtMGQwZjRkOGJjZjIyXkEyXkFqcGdeQXVyMTk0ODc5Mzg@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "11",
+          "rating_imdb": "4.1",
+          "vote_num_imdb": "59"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1175669",
+      "date": "1601908231",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Снежный человек во льдах",
+        "orig": "Frozen Sasquatch",
+        "alter": "",
+        "year": "2018",
+        "country": "Канада,США",
+        "director": "Марк Полония",
+        "genre": "ужасы",
+        "actors": "Titus Himmelberger,Natalie Hallead,Noyes J. Lawton,James Carolus,Steve Diasparra,Тим Хэтч,Jeff Kirkendall,Jamie Morgan",
+        "description": "Группа учёных из США, проводящая исследования в научном центра на вершине Гималаев, внезапно перестаёт выходить на связь. Спасательная группа, отправленная к ним на помощь, обнаруживает на подходах к базе следы неведомого науке существа, но решает не прерывать операцию и спасти своих коллег любой ценой.",
+        "slogan": "",
+        "premiere": "19 июля 2018",
+        "age": "0",
+        "time": "4380",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTcxMWVkMDEtMTQxNC00ZWZjLWFhZDUtMDhlNjFlZTliY2Y0XkEyXkFqcGdeQXVyODAzOTQwMzQ@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "6",
+          "rating_imdb": "3.1",
+          "vote_num_imdb": "71"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1178734",
+      "date": "1601908226",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Грайндсплуатация 666",
+        "orig": "Grindsploitation 666",
+        "alter": "",
+        "year": "2018",
+        "country": "Великобритания",
+        "director": "Тони Ньютон,David Black,Michael Leo Centi",
+        "genre": "ужасы",
+        "actors": "Ллойд Кауфман,Логан Фрай,Дона Ли Хейсинг,Aleister Kapsaski,Алекс Рид,Kasper Meltedhair,Ryan Cubbage,Ross Heath,Chris John Livermore,Тони Ньютон",
+        "description": "Короткомертражки в жанре ужасов на фантастические и оккультные темы с ретро-видеовставками из автокинотеатров.",
+        "slogan": "",
+        "premiere": "1 октября 2018",
+        "age": "0",
+        "time": "7800",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODFlNmU1Y2YtMTY5Ni00ZWIwLTk5MjktMzc4NjZhN2IzZjkwXkEyXkFqcGdeQXVyMjc4NzY1MTM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "6",
+          "rating_imdb": "3.7",
+          "vote_num_imdb": "72"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1201433",
+      "date": "1601908221",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Шнурки на Рождество",
+        "orig": "Shoelaces for Christmas",
+        "alter": "",
+        "year": "2018",
+        "country": "Канада",
+        "director": "Крэйг Клайд",
+        "genre": "мелодрама,комедия,семейный",
+        "actors": "Эйден Бигли,Брайс Бишоп,Бэйли Чейз,Остин Р. Грант,Мария Джулиан,Пол Кирнан,Айви Ллойд,Summer Mitchell,Джессика Моррис,Sam Smith",
+        "description": "Дженнифер мечтает стать дизайнером и обожает всё, что связано с модой. Отец недоволен её поверхностным и эгоистичным отношением к жизни. Он отправляет её работать в приют для бездомных, где Дженнифер ждут неожиданные впечатления и новые знакомства. А одна юная жительница приюта заставит её понять, как на самом деле важны любовь, семья и Рождество.",
+        "slogan": "A self-absorbed teenager learns the true meaning of Christmas spirit through the support of her family and an unexpected encounter with a very special young girl",
+        "premiere": "2 декабря 2018",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDAyYzY0ZGItODAzOC00YjlkLWJhNzMtOGQ5ZDY5ODQ4NmMzXkEyXkFqcGdeQXVyODA3NTIyMjM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "8",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "239"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1259272",
+      "date": "1601908216",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Горничная",
+        "orig": "The Maid",
+        "alter": "",
+        "year": "2020",
+        "country": "Таиланд",
+        "director": "Lee Thongkham",
+        "genre": "ужасы,фэнтези,триллер,драма,детектив",
+        "actors": "Плой Сорнарин,Савика Чайдей,Kannaporn Puangtong,Theerapat Sajakul,Ratchanok Suwannaket,Keetapat Pongrue,Натани Ситтисаман,Venus Saksiri,Sorabodee Changsiri,Ounruan Rachote",
+        "description": "Джой нанимается горничной в дом богатой семьи и начинает присматривать за их дочерью, страдающей душевным расстройством. Но вскоре девушку начинает преследовать призрак таинственной женщины, который кроме неё видит только её малолетняя подопечная. Джой решает разобраться в причинах появления призрака, однако, незаметно для себя, оказывается втянута в зловещую историю благородного семейства.",
+        "slogan": "",
+        "premiere": "9 июля 2020",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDEwMGEwMzMtMTYzOC00NDA1LTgzZjMtYzM3ZGRjZTkzMGFjXkEyXkFqcGdeQXVyMTA5NzUzODM4.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "97",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "469"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1127372",
+      "date": "1601908211",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Томирис",
+        "orig": "Tomiris",
+        "alter": "",
+        "year": "2019",
+        "country": "Казахстан",
+        "director": "Акан Сатаев",
+        "genre": "драма,история",
+        "actors": "Альмира Турсын,Адиль Ахметов,Еркебулан Дайыров,Берик Айтжанов,Азамат Сатыбалды,Гассан Массуд,Илез Бадургов,Мурат Бисенбин,Аян Утепберген,Асылхан Толепов",
+        "description": "Среди древних народов, населявших просторы Евразии, особо выделялись племена, называющие себя саками. Это были кочевники и великие воины степи. Начинается история с краткого жизнеописания отца Томирис – царя Спаргапа. Спаргап, имея право на царский трон, вовлечён в войну между родами саков – массагетов. Влиятельные вожди, среди которых выделяются алчные и хитроумные Каваз и Куртун, не спешат объединяться под единой властью, отстаивая свои интересы. Спаргап мечом и словом пытается объединить степные племена. В это тревожное время у него рождается дочь – Томирис. Её мать, Бопай, которую Спаргап очень любил, умирает при родах. Забота и воспитание ложатся на него, и Томирис с раннего возраста познаёт тяготы походной жизни и воинского быта.\r\n\r\nВероломные Каваз и Куртун устраивают заговор в результате чего Спаргап погибает. В степи опять наступает раздор и междоусобица. Маленькой Томирис удаётся уйти от убийц с верными людьми Спаргапа. За её голову негласно объявлена награда.\r\n\r\nТомирис растет, скрываясь в лесах и живя охотой. Теперь ее цель вернуть законный трон и объединить степные племена. Но Томирис и не подозревает, что ей придется столкнуться с более могущественной угрозой, которая может стереть с лица земли всех саков...",
+        "slogan": "Царица, рожденная возвеличить степь",
+        "premiere": "1 октября 2019",
+        "age": "0",
+        "time": "9300",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1127372.jpg",
+        "rating": {
+          "rating_kp": "7.129",
+          "vote_num_kp": "10094",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "35231"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "717750",
+      "date": "1601908207",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Двухголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Я научу тебя любить",
+        "orig": "Sarangeul gareuchyeo deuripnida",
+        "alter": "",
+        "year": "2010",
+        "country": "Корея Южная",
+        "director": "Квон Сон-чхан",
+        "genre": "мелодрама,комедия",
+        "actors": "Ким Гю-ри,Ки Тхэ-ён,Ян Джин-у,Ли Сон-мин,Хён У,Чхве Джэ-хван",
+        "description": "Спустя 12 лет безответной любви Ли Джин-и решила обратиться к консультанту по свиданиям Квон Тхэ-джуну. Ей оказали не особо радужный прием, так как она обратилась в фирму, консультирующую мужчин, но в связи с кризисом и проблемами с привлечением новых клиентов босс решил, что это неплохая возможность для дальнейшего развития бизнеса.",
+        "slogan": "",
+        "premiere": "10 октября 2010",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_717750.jpg",
+        "rating": {
+          "rating_kp": "7.81",
+          "vote_num_kp": "350",
+          "rating_imdb": "7",
+          "vote_num_imdb": "47"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "754481",
+      "date": "1601906005",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Форсаж 7",
+        "orig": "Furious Seven",
+        "alter": "",
+        "year": "2015",
+        "country": "США",
+        "director": "Джеймс Ван",
+        "genre": "боевик,триллер,криминал",
+        "actors": "Вин Дизель, Пол Уокер, Джейсон Стэйтем, Мишель Родригес, Дуэйн Джонсон, Тайриз Гибсон, Лудакрис, Натали Эммануэль, Джордана Брюстер, Курт Рассел",
+        "description": "Они покорили Токио и Рио, Лос-Анджелес и Лондон. Но мир больше не играет по их правилам. Зной арабских пустынь, неприлично высокие небоскребы, миллионы долларов на колесах и очень, очень знаменитый злодей. Скорость не знает границ.",
+        "slogan": "Месть не знает границ",
+        "premiere": "16 марта 2015",
+        "age": "16",
+        "time": "8220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_754481.jpg",
+        "rating": {
+          "rating_kp": "7.008",
+          "vote_num_kp": "168309",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "360560"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "371",
       "date": "1601885044",
       "camrip": "0",
@@ -29,7 +379,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_371.jpg",
         "rating": {
           "rating_kp": "8.175",
-          "vote_num_kp": "234953",
+          "vote_num_kp": "234990",
           "rating_imdb": "8.6",
           "vote_num_imdb": "1241842"
         }
@@ -64,7 +414,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_602373.jpg",
         "rating": {
           "rating_kp": "7.499",
-          "vote_num_kp": "234099",
+          "vote_num_kp": "234151",
           "rating_imdb": "7.5",
           "vote_num_imdb": "615491"
         }
@@ -99,7 +449,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_894972.jpg",
         "rating": {
           "rating_kp": "6.295",
-          "vote_num_kp": "4202",
+          "vote_num_kp": "4205",
           "rating_imdb": "6.5",
           "vote_num_imdb": "21031"
         }
@@ -133,8 +483,8 @@
         "time": "4980",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1412499.jpg",
         "rating": {
-          "rating_kp": "8.592",
-          "vote_num_kp": "622",
+          "rating_kp": "8.581",
+          "vote_num_kp": "624",
           "rating_imdb": "9",
           "vote_num_imdb": "24867"
         }
@@ -189,7 +539,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BNDliNmMzNjEtZWI0Ni00ZDVkLTgwZTItYWE1NjJjN2VjMDc3XkEyXkFqcGdeQXVyMTAwMzM3NDI3.jpg",
         "rating": {
           "rating_kp": "7.636",
-          "vote_num_kp": "942",
+          "vote_num_kp": "944",
           "rating_imdb": "6.7",
           "vote_num_imdb": "1924"
         }
@@ -224,9 +574,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_594736.jpg",
         "rating": {
           "rating_kp": "6.999",
-          "vote_num_kp": "145572",
+          "vote_num_kp": "145589",
           "rating_imdb": "7",
-          "vote_num_imdb": "369466"
+          "vote_num_imdb": "369499"
         }
       }
     },
@@ -329,7 +679,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_12340.jpg",
         "rating": {
           "rating_kp": "7.176",
-          "vote_num_kp": "20301",
+          "vote_num_kp": "20307",
           "rating_imdb": "7.3",
           "vote_num_imdb": "110856"
         }
@@ -363,8 +713,8 @@
         "time": "6900",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1255550.jpg",
         "rating": {
-          "rating_kp": "6.325",
-          "vote_num_kp": "8279",
+          "rating_kp": "6.329",
+          "vote_num_kp": "8313",
           "rating_imdb": "6.5",
           "vote_num_imdb": "8417"
         }
@@ -700,8 +1050,8 @@
         "time": "1440",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1049547.jpg",
         "rating": {
-          "rating_kp": "6.887",
-          "vote_num_kp": "27760",
+          "rating_kp": "6.885",
+          "vote_num_kp": "27776",
           "rating_imdb": "7",
           "vote_num_imdb": "80"
         }
@@ -841,7 +1191,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BMDRjMmUzMTEtMWJiMC00MDUwLWExOGQtNDU2ZTU0Y2RmY2YzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SY1000_CR0,0,675,1000_AL_.jpg",
         "rating": {
           "rating_kp": "5.597",
-          "vote_num_kp": "1637",
+          "vote_num_kp": "1640",
           "rating_imdb": "5.3",
           "vote_num_imdb": "14113"
         }
@@ -876,9 +1226,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_870.jpg",
         "rating": {
           "rating_kp": "7.545",
-          "vote_num_kp": "117247",
+          "vote_num_kp": "117296",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "249487"
+          "vote_num_imdb": "249530"
         }
       }
     },
@@ -911,7 +1261,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_406.jpg",
         "rating": {
           "rating_kp": "8.042",
-          "vote_num_kp": "163813",
+          "vote_num_kp": "163875",
           "rating_imdb": "8.3",
           "vote_num_imdb": "655005"
         }
@@ -946,7 +1296,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_81924.jpg",
         "rating": {
           "rating_kp": "7.634",
-          "vote_num_kp": "197865",
+          "vote_num_kp": "197917",
           "rating_imdb": "7.6",
           "vote_num_imdb": "734752"
         }
@@ -981,7 +1331,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_726794.jpg",
         "rating": {
           "rating_kp": "7.221",
-          "vote_num_kp": "86567",
+          "vote_num_kp": "86590",
           "rating_imdb": "7.6",
           "vote_num_imdb": "205179"
         }
@@ -1156,7 +1506,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1272115.jpg",
         "rating": {
           "rating_kp": "6.326",
-          "vote_num_kp": "692",
+          "vote_num_kp": "693",
           "rating_imdb": "5.7",
           "vote_num_imdb": "274"
         }
@@ -1260,7 +1610,7 @@
         "time": "5280",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1219490.jpg",
         "rating": {
-          "rating_kp": "5.004",
+          "rating_kp": "4.996",
           "vote_num_kp": "931",
           "rating_imdb": "5.3",
           "vote_num_imdb": "459"
@@ -1296,9 +1646,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2389.jpg",
         "rating": {
           "rating_kp": "7.378",
-          "vote_num_kp": "69515",
+          "vote_num_kp": "69531",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "264791"
+          "vote_num_imdb": "264814"
         }
       }
     },
@@ -1583,356 +1933,6 @@
           "vote_num_kp": "313",
           "rating_imdb": "5.4",
           "vote_num_imdb": "12"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1108570",
-      "date": "1601722928",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Волан-де-Морт: Корни наследника",
-        "orig": "Voldemort: Origins of the Heir",
-        "alter": "",
-        "year": "2018",
-        "country": "Италия",
-        "director": "Джанмария Пеццато",
-        "genre": "фэнтези,приключения",
-        "actors": "Stefano Rossi Giordani, Rorie Stockton, Aurora Moroni, Stephen Brian Tomasi, Maddalena Orcali, Stefan Chanyaem, Andrea Baglio, Маргарет Эшли, Andrea Bonfanti, Митч Торнтон",
-        "description": "Фильм рассказывает о юности Волан-де-Морта, сильного тёмного мага из Поттерианы, и о том, как современники узнали его и стали бояться произносить его имя. Помимо Волан-де-Морта, в фильме появляются и его однокурсники с других факультетов Хогвартса. В центре сюжета находится серия таинственных убийств, которые расследует волшебница Гриша МакЛаген.",
-        "slogan": "Enemies of the heir... beware!",
-        "premiere": "13 января 2018",
-        "age": "0",
-        "time": "3180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1108570.jpg",
-        "rating": {
-          "rating_kp": "5.478",
-          "vote_num_kp": "4374",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "4312"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "231121",
-      "date": "1601722900",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Придурки 2",
-        "orig": "Jackass Number Two",
-        "alter": "",
-        "year": "2006",
-        "country": "США",
-        "director": "Джефф Треймейн",
-        "genre": "комедия,документальный",
-        "actors": "Джонни Ноксвил, Бэм Марджера, Стив-О, Крис Понтиус, Райан Данн, Джейсон Акунья, Престон Лэси, Дэйв Инглэнд, Эрен МакГехи, Фил Марджера",
-        "description": "Компания отморозков возвращается на большой экран, чтобы поднять ставки выше, чем когда-либо. Они совершают перед камерой настолько изощренное членовредительство, такие сумасшедшие трюки, которые точно не стоит никому повторять...",
-        "slogan": "When is the last time a movie made you beg for mercy?",
-        "premiere": "21 сентября 2006",
-        "age": "18",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_231121.jpg",
-        "rating": {
-          "rating_kp": "7.251",
-          "vote_num_kp": "12175",
-          "rating_imdb": "7",
-          "vote_num_imdb": "66707"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "840295",
-      "date": "1601722849",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "480",
-      "info": {
-        "rus": "Несносный дед .5",
-        "orig": "Jackass Presents: Bad Grandpa .5",
-        "alter": "Несносная бабуля",
-        "year": "2014",
-        "country": "США",
-        "director": "Джефф Треймейн",
-        "genre": "комедия",
-        "actors": "Мэрилинн Эллейн, Джорджина Кэйтс, Мэдисон Дэвис, Джордж Фонан, Грег Харрис, Камбер Хейлик, Спайк Джонс, Кэтрин Кинер, Джилл Килл, Джонни Ноксвил",
-        "description": "Этот фильм о съемках фильма «Несносный дед» познакомит Вас с большинством людей, работающими над созданием фильма. Будет показано много не вошедших сцен, дополнение к фрагментам, которые уже имелись в фильме. Комментарии самих главных героев обо всём и так же о том, как было всё-таки местами действительно опасно разыгрывать некоторых личностей.",
-        "slogan": "",
-        "premiere": "3 июня 2014",
-        "age": "18",
-        "time": "4560",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_840295.jpg",
-        "rating": {
-          "rating_kp": "6.331",
-          "vote_num_kp": "2293",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "4341"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "24733",
-      "date": "1601722734",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Новый яростный кулак",
-        "orig": "Xin jing wu men",
-        "alter": "",
-        "year": "1976",
-        "country": "Гонконг, Тайвань",
-        "director": "Ло Вэй",
-        "genre": "боевик,драма",
-        "actors": "Джеки Чан, Нора Мяо, Синг Чан, Chung-Kuei Chang, Минг Чэн Чанг, Шен Лин Чанг, Chao Yung Chen, Джен Чен, Сиу Сиу Ченг, Кэм Чунг",
-        "description": "Сиквел к «Кулаку ярости» с Брюсом Ли начинается там же, где заканчивается оригинальный фильм. Оставшиеся три соратника героя Брюса Ли, убитого в первом фильме, уезжают из Шанхая на Тайвань, чтобы продолжить там свою борьбу с японскими захватчиками. \r\n\r\nВ это время там появляется новый начальник-японец, большой специалист по боевым искусствам, который решает взять под свою юрисдикцию все школы китайских боевых искусств, что, естественно, не нравится китайцам. \r\n\r\nДжеки Чан же здесь играет уличного воришку, которого «волею судеб» заносит в школу героя Хана Ин Чи, куда попадает и троица из Шанхая.",
-        "slogan": "",
-        "premiere": "8 июля 1976",
-        "age": "16",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_24733.jpg",
-        "rating": {
-          "rating_kp": "6.33",
-          "vote_num_kp": "1031",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "1392"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1067608",
-      "date": "1601722709",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Свидетели",
-        "orig": "Свидетели",
-        "alter": "",
-        "year": "2018",
-        "country": "Россия, Беларусь, Чехия, Франция, Польша, Израиль",
-        "director": "Константин Фам",
-        "genre": "история,драма",
-        "actors": "Оксана Фандера, Филипп Янковский, Владимир Кошевой, Ленн Кудрявицки, Михаил Горевой, Маруся Зыкова, Анжелика Каширина, Вячеслав Чепурченко, Мария Кинг, Сергей Агафонов",
-        "description": "Середина ХХ века, Восточная Европа. Фильм рассказывает историю Холокоста глазами невольных немых свидетелей тех событий. Через историю женской обуви, которая начинается в витрине магазина и заканчивается в витрине мемориального комплекса Освенцима. Через историю щенка немецкой овчарки, ставшего концлагерным зверем-убийцей в процессе дрессуры и манипуляций. Через историю скрипки, которая вместе со своими владельцами проходит через все ужасы войны.",
-        "slogan": "Чтобы тебя услышали - нужно стать музыкой",
-        "premiere": "17 июня 2018",
-        "age": "12",
-        "time": "6240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1067608.jpg",
-        "rating": {
-          "rating_kp": "6.772",
-          "vote_num_kp": "2666",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "100"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "778218",
-      "date": "1601722674",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Хардкор",
-        "orig": "Hardcore Henry",
-        "alter": "",
-        "year": "2016",
-        "country": "Россия, США",
-        "director": "Илья Найшуллер",
-        "genre": "боевик,фантастика",
-        "actors": "Шарлто Копли, Данила Козловский, Хейли Беннетт, Андрей Дементьев, Сергей Шнуров, Кирилл Серебренников, Александр Паль, Светлана Устинова, Даша Чаруша, Равшана Куркова",
-        "description": "Прекрасная супружеская жизнь рядом с очаровательной Эстель - это все, что помнит главный герой после того, как просыпается в неизвестной научной лаборатории, где в чувства его приводит собственная жена. Но супруга тут же оказывается похищенной, и ничего не понимающий главный герой Генри уже вынужден преследовать монстра Акана, который украл его жену.\r\n\r\nТеперь ради достижения цели Генри готов на многое. Но позже оказывается, что не только он один является врагом для Акана. У подозрительного Джимми тоже свои планы на злодея. Теперь вместе ребятам предстоит спасти Эстель и предотвратить попытку задействовать армию киборгов в борьбе с человечеством. Им предстоит бороться с самим воплощением зла.",
-        "slogan": "First they made him dangerous. Then they made him mad",
-        "premiere": "12 сентября 2015",
-        "age": "18",
-        "time": "5760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_778218.jpg",
-        "rating": {
-          "rating_kp": "7.086",
-          "vote_num_kp": "126289",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "87028"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "24725",
-      "date": "1601722644",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Астральное кунг-фу",
-        "orig": "Quan jing",
-        "alter": "",
-        "year": "1978",
-        "country": "Гонконг, Тайвань",
-        "director": "Ло Вэй",
-        "genre": "комедия,боевик",
-        "actors": "Джеки Чан, Чи-Пинг Чанг, Сиу-йи Фэн, Хонг Хсю, Юэнь Хсю, Чинг Фу Ли, Хай Ланг Ли, Tung Chun Li, Вэнь Таи Ли, Кенг Пенг",
-        "description": "Джеки - молодой, озорной хулиган, стоящий на страже замка Шаолиня. Во время его поста крадут очень ценную, обладающую огромной силой, книгу «Шестикулачное Кунг-фу». Как выясняется позже, ее украл зловещий воин, который хочет подчинить себе Все кланы.\r\n\r\nВ библиотеке, где он часто бывает, Джеки знакомится с пятью странными призраками, которые обучают его животным стилям Кунг-фу: Дракон, Змея, Журавль, Тигр и Леопард. Теперь ему предстоит использовать все, чему он научился, в битве за будущее каждого.",
-        "slogan": "",
-        "premiere": "23 ноября 1978",
-        "age": "6",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_24725.jpg",
-        "rating": {
-          "rating_kp": "6.539",
-          "vote_num_kp": "1235",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "2001"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8156",
-      "date": "1601722561",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "720",
-      "info": {
-        "rus": "Мэри Поппинс",
-        "orig": "Mary Poppins",
-        "alter": "",
-        "year": "1964",
-        "country": "США",
-        "director": "Роберт Стивенсон",
-        "genre": "комедия,фэнтези,мюзикл,семейный",
-        "actors": "Джули Эндрюс, Дик Ван Дайк, Дэвид Томлинсон, Глинис Джонс, Гермиона Бадделей, Рита Шоу, Карен Дотрис, Мэттью Гарбер, Эльза Ланчестер, Артур Тричер",
-        "description": "Семейство Бенкс озабоченно поисками няни для своих детей. И как это бывает только в сказке, она появилась прямо из воздуха, прекрасная, ни на кого не похожая. Как раз такая, какую мечтали бы иметь в своем доме всякие любящие родители.\r\n\r\nУ неё не просто цветущий вид. Она не просто лучше всех умеет готовить, ходить по магазинам, одеваться, танцевать и воспитывать детей. Это всё лишь элементы, лишь составляющие. Нет, тут нечто большее - она именно совершенна, именно лишена недостатков, ибо она - сказочная. Как же не влюбиться в такую...",
-        "slogan": "It's supercalifragilisticexpialidocious!",
-        "premiere": "27 августа 1964",
-        "age": "0",
-        "time": "8340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8156.jpg",
-        "rating": {
-          "rating_kp": "7.623",
-          "vote_num_kp": "7018",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "158570"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "17625",
-      "date": "1601722030",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Пятница 13 – Часть 4: Последняя глава",
-        "orig": "Friday the 13th: The Final Chapter",
-        "alter": "",
-        "year": "1984",
-        "country": "США",
-        "director": "Джозеф Зито",
-        "genre": "ужасы,триллер",
-        "actors": "Джуди Аронсон, Питер Бартон, Эрик Андерсон, Кимберли Бек, Том Эверетт, Криспин Гловер, Кори Фельдман, Джоан Фриман, Лиза Фриман, Тэд Гир",
-        "description": "Отсчет убийств продолжается в следующей, леденящей душу, истории о похождениях Джейсона Вурхиза - зловещего мстителя из ада, который в этой картине вынесет смертный приговор новой компании «несчастных людишек».\r\n\r\nКровожадный Джейсон, жуткий призрак «Хрустального Озера», возвращается из морга, куда его отправили в предыдущей картине, чтобы устроить настоящую резню!",
-        "slogan": "Friday April 13th is Jason's Unlucky Day",
-        "premiere": "13 апреля 1984",
-        "age": "18",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_17625.jpg",
-        "rating": {
-          "rating_kp": "6.008",
-          "vote_num_kp": "6088",
-          "rating_imdb": "6",
-          "vote_num_imdb": "45598"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "36222",
-      "date": "1601721988",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Пятница 13-е – Часть 3",
-        "orig": "Friday the 13th Part III",
-        "alter": "",
-        "year": "1982",
-        "country": "США",
-        "director": "Стив Майнер",
-        "genre": "ужасы,триллер",
-        "actors": "Ричард Брукер, Дэна Киммелл, Пол Кратка, Трейси Сэвадж, Джеффри Роджерс, Катрин Паркс, Ларри Зернер, Дэвид Катимс, Рэйчел Ховард, Терри Баллард",
-        "description": "Летние каникулы превращаются в чудовищный кровавый кошмар для очередной группы наивных и беспечных молодых людей, которые оказались во власти зловещего проклятия лагеря «Хрустальное озеро». Джейсон Вурхиз снова здесь, и он хочет крови!\r\n\r\nСначала он будет изобретать новые изощренные способы убийства, а потом, через прорези хоккейной маски, будет наблюдать за страшной агонией своих жертв!",
-        "slogan": "Join Jason in the woods...... if you dare",
-        "premiere": "13 августа 1982",
-        "age": "16",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_36222.jpg",
-        "rating": {
-          "rating_kp": "6.009",
-          "vote_num_kp": "7076",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "47888"
         }
       }
     }

@@ -2,6 +2,356 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "696256",
+      "date": "1603842309",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Заблудшие ангелы",
+        "orig": "Lost Angelas",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Уильям Вейн",
+        "genre": "триллер,детектив",
+        "actors": "Коррина Рико,Уильям Вейн,Джон Джейкобс,Дэвид Провэл,Джон Каподиче,Шарлотта Льюис,Джон Эпри,Джейн Кроули,Мелисса Марс,Дженнифер Филд",
+        "description": "Энджела Роуз, получившая номинацию на звание лучшей актрисы, внезапно пропадает, и единственным человеком, способным разгадать тайну её исчезновения, является Джейк Харт, бывший любовник Энджелы, а также неудачливый сценарист. Преследуемый странными воспоминаниями, Джейк попадает в подноготную Голливуда и обнаруживает связь между Энджелой и другой кинозвездой, пропавшей тридцать лет назад, которую тоже звали Энджела.",
+        "slogan": "",
+        "premiere": "26 марта 2019",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTI0MjdkMjEtNDAxYS00M2RiLWEzYjItZTEyMjUyN2ZmNzE1XkEyXkFqcGdeQXVyMDg4MDIyOA@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "19",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "1263"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1235265",
+      "date": "1603842305",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Спа",
+        "orig": "Thalasso",
+        "alter": "",
+        "year": "2019",
+        "country": "Франция",
+        "director": "Гийом Никлу",
+        "genre": "комедия",
+        "actors": "Мишель Уэльбек,Жерар Депардье,Максим Лефрансуа,Матье Никур,Дарья Панченко,Люк Шварц,Qianyum Lysis,Norbert Hamelin,Christopher Aubert,Souvenance Pétré",
+        "description": "Французский писатель Мишель Уэльбек и актер Жерар Депардье встречаются в центре талассотерапии в городе Кабур. Они честно пытаются придерживаться строго режима лечения, но внезапные события меняют их планы...",
+        "slogan": "",
+        "premiere": "21 августа 2019",
+        "age": "0",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1235265.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "77",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "507"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "43725",
+      "date": "1603842061",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Шапокляк",
+        "orig": "Шапокляк",
+        "alter": "",
+        "year": "1974",
+        "country": "СССР",
+        "director": "Роман Качанов",
+        "genre": "мультфильм,короткометражка,семейный",
+        "actors": "Василий Ливанов,Ирина Мазинг,Клара Румянова,Владимир Ферапонтов",
+        "description": "Третий фильм из серии картин о приключениях Чебурашки, Крокодила Гены и старухи Шапокляк, в котором они выступают как защитники природы.",
+        "slogan": "",
+        "premiere": "25 февраля 1978",
+        "age": "0",
+        "time": "1140",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_43725.jpg",
+        "rating": {
+          "rating_kp": "7.848",
+          "vote_num_kp": "14995",
+          "rating_imdb": "7.7",
+          "vote_num_imdb": "1035"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "45781",
+      "date": "1603842025",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Винни Пух идет в гости",
+        "orig": "Винни Пух идет в гости",
+        "alter": "Винни-Пух идет в гости",
+        "year": "1971",
+        "country": "СССР",
+        "director": "Фёдор Хитрук",
+        "genre": "мультфильм,короткометражка,семейный",
+        "actors": "Евгений Леонов,Ия Саввина,Анатолий Щукин,Владимир Осенев",
+        "description": "О том как Винни с Пятачком идут в гости к Кролику.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45781.jpg",
+        "rating": {
+          "rating_kp": "8.735",
+          "vote_num_kp": "74267",
+          "rating_imdb": "8.3",
+          "vote_num_imdb": "3048"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "45779",
+      "date": "1603841577",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Винни Пух",
+        "orig": "Винни Пух",
+        "alter": "Винни-Пух",
+        "year": "1969",
+        "country": "СССР",
+        "director": "Фёдор Хитрук",
+        "genre": "короткометражка,семейный,мультсериал",
+        "actors": "Евгений Леонов, Ия Саввина, Владимир Осенев",
+        "description": "Первый фильм из серии о забавном медвежонке и его друзьях. Фильм снят по сказке Алана Милна. Глава, в которой происходит знакомство с Винни-Пухом и подозрительными пчелами.",
+        "slogan": "",
+        "premiere": "17 мая 2017",
+        "age": "6",
+        "time": "660",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45779.jpg",
+        "rating": {
+          "rating_kp": "8.761",
+          "vote_num_kp": "131163",
+          "rating_imdb": "8.3",
+          "vote_num_imdb": "3830"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "44985",
+      "date": "1603840479",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Крокодил Гена",
+        "orig": "Крокодил Гена",
+        "alter": "",
+        "year": "1969",
+        "country": "СССР",
+        "director": "Роман Качанов",
+        "genre": "короткометражка,семейный,мультсериал",
+        "actors": "Василий Ливанов, Клара Румянова, Владимир Раутбарт, Владимир Кенигсон, Тамара Дмитриева",
+        "description": "Знаменитая мультипликационная экранизация произведений Эдуарда Успенского.",
+        "slogan": "",
+        "premiere": "25 февраля 1978",
+        "age": "6",
+        "time": "1200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44985.jpg",
+        "rating": {
+          "rating_kp": "8.029",
+          "vote_num_kp": "33193",
+          "rating_imdb": "7.9",
+          "vote_num_imdb": "1850"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "15377",
+      "date": "1603837828",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Возлюбленные Марии",
+        "orig": "Maria's Lovers",
+        "alter": "",
+        "year": "1984",
+        "country": "США",
+        "director": "Андрей Кончаловский",
+        "genre": "мелодрама,драма",
+        "actors": "Настасья Кински, Джон Сэвэдж, Роберт Митчем, Кит Кэрредин, Анита Моррис, Бад Корт, Карен Янг, Трейси Нельсон, Джон Гудман, Дэнтон Стоун",
+        "description": "Драма по мотивам рассказа Андрея Платонова «Река Потудань». Первый фильм Андрея Кончаловского, сделанный в Голливуде. Солдат возвращается с японской войны к своей любимой. В плену и на фронте он мечтал только о ней, но рядом с Марией он понимает, что утратил мужскую силу и не способен к любви.",
+        "slogan": "They all loved her... too much",
+        "premiere": "3 октября 1984",
+        "age": "16",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_15377.jpg",
+        "rating": {
+          "rating_kp": "7.036",
+          "vote_num_kp": "1168",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "2304"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1403643",
+      "date": "1603837806",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Три драмы",
+        "orig": "Three Dramas",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Jack Foster",
+        "genre": "драма",
+        "actors": "Nia Asanza,Lora Hakason,Kevin Owyang,Lucy Tomasso,Efrem Ramirez Jr.,Brianna Ripkowski,Anthony J. Treme,Ernest Keith Walker,Свит П.",
+        "description": "Три драмы, основанные на произведениях Джона Голсуорси, Сьюзен Гласпелл и Юджина О'Нила.",
+        "slogan": "Anthology Drama based on the works of Pulitzer and Nobel winning authors",
+        "premiere": "",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWNlM2FhNWQtZjI1OS00NTdlLWFiOTYtYWE4ZGQzNzc0MjczXkEyXkFqcGdeQXVyNjA0NTgwMDY@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "2.6",
+          "vote_num_imdb": "11"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1012504",
+      "date": "1603836027",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Пьяные матросы",
+        "orig": "Brothers in Arms",
+        "alter": "Собратья по оружию",
+        "year": "2017",
+        "country": "США",
+        "director": "Калеб Дж. Филлипс",
+        "genre": "комедия,триллер",
+        "actors": "Ник Тэг, Декстер Маслэнд, Зеф Фостер, Кори де Сильва, Кэтлин Кенион, Джон Уэлш, Colleen J. McShay, Роберт Королак, Abel Lopez",
+        "description": "Четверо приятелей, окончивших школу три года назад, с тех пор только пьют и слоняются без дела. Майкла тяготит, что он ничего не достиг в жизни, и он решает проявить себя, предложив друзьям ограбить банк.",
+        "slogan": "From party animals to career criminals",
+        "premiere": "5 октября 2017",
+        "age": "16",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1012504.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "55",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "137"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1028808",
+      "date": "1603836010",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Аквариум",
+        "orig": "Fishbowl",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Алекса Кинигопулос,Стивен Кинигопулос",
+        "genre": "триллер,драма",
+        "actors": "Khali Addair,Кен Арнольд,Маккензи Эстин,Тони Барбер,Larissa Blair,Конни Боуман,Мария Брум,Бобби Дж. Браун,Виктория Чан,Felicity Clark",
+        "description": "В маленьком городе, полном секретов, три сестры пытаются справиться с утратой матери. А их отец, тем временем, становится всё более помешанным на идее о якобы грядущем конце света.",
+        "slogan": "They call this town the fishbowl; when you climb to the top you just slide right back down",
+        "premiere": "27 октября 2018",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1028808.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "12",
+          "rating_imdb": "4.4",
+          "vote_num_imdb": "149"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1442388",
       "date": "1603836006",
       "camrip": "0",
@@ -64,7 +414,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_437479.jpg",
         "rating": {
           "rating_kp": "6.703",
-          "vote_num_kp": "4683",
+          "vote_num_kp": "4687",
           "rating_imdb": "6.8",
           "vote_num_imdb": "25001"
         }
@@ -99,9 +449,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1302575.jpg",
         "rating": {
           "rating_kp": "6.761",
-          "vote_num_kp": "6914",
+          "vote_num_kp": "6943",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "4858"
+          "vote_num_imdb": "4861"
         }
       }
     },
@@ -239,7 +589,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1393649.jpg",
         "rating": {
           "rating_kp": "4.61",
-          "vote_num_kp": "340",
+          "vote_num_kp": "341",
           "rating_imdb": "3.6",
           "vote_num_imdb": "540"
         }
@@ -359,10 +709,10 @@
         "time": "3300",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1262921.jpg",
         "rating": {
-          "rating_kp": "6.252",
-          "vote_num_kp": "5877",
+          "rating_kp": "6.253",
+          "vote_num_kp": "5889",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "5325"
+          "vote_num_imdb": "5349"
         }
       }
     },
@@ -535,7 +885,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_402.jpg",
         "rating": {
           "rating_kp": "7.59",
-          "vote_num_kp": "77931",
+          "vote_num_kp": "77959",
           "rating_imdb": "8.1",
           "vote_num_imdb": "620244"
         }
@@ -570,9 +920,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1220126.jpg",
         "rating": {
           "rating_kp": "6.162",
-          "vote_num_kp": "3595",
+          "vote_num_kp": "3596",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "26864"
+          "vote_num_imdb": "26874"
         }
       }
     },
@@ -905,8 +1255,8 @@
         "time": "6540",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_689489.jpg",
         "rating": {
-          "rating_kp": "6.744",
-          "vote_num_kp": "17476",
+          "rating_kp": "6.743",
+          "vote_num_kp": "17553",
           "rating_imdb": "7",
           "vote_num_imdb": "32809"
         }
@@ -1446,356 +1796,6 @@
           "vote_num_kp": "20",
           "rating_imdb": "5.4",
           "vote_num_imdb": "291"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1248514",
-      "date": "1603692913",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Падшая",
-        "orig": "Do laai faa",
-        "alter": "",
-        "year": "2019",
-        "country": "Гонконг",
-        "director": "Ли Чук-Пань",
-        "genre": "драма,криминал",
-        "actors": "Ирен Вань,Кенни Кван,Ашина Квок,Ханна Чань",
-        "description": "Чжа Фуюй, настоящая наследница знаменитого гонконгского наркоторговца Дона, возвращается из небытия после 20 лет отсутствия, чтобы встать между борющимися за власть над империей Фуюй дядюшкой Хо Шэнем и приёмным сыном Дона - Бао Фуюйем. У всех троих свои цели, но кто бы не победил, хитросплетения интриг и предательств ведут к кровавой развязке.",
-        "slogan": "",
-        "premiere": "30 октября 2019",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1248514.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "1",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "37"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1266729",
-      "date": "1603692909",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Осознание",
-        "orig": "The Understanding",
-        "alter": "",
-        "year": "2019",
-        "country": "Великобритания",
-        "director": "Адам Старкс",
-        "genre": "ужасы",
-        "actors": "Joshua Copeland,Kieran Donnelly,Hannah Heaton,Evangelia Karletsou,Rick Klink,Rick Romero,Chris Sivewright,Стивен Вулард",
-        "description": "Ксандр постоянно слышит странные голоса и видит повсюду зловещие тени. Отчаявшись найти спасение в традиционной медицине, он решает искать ответы в родном городе Грейвсхилле, имеющем дурную славу и известном самым большим количеством убийств на душу населения. Здесь он узнаёт, что получил в наследство от отца местную достопримечательность - психиатрическую лечебницу. Ксандр понимает, что за её стенами происходило что-то ненормальное, и вскоре оказывается вовлечен в водоворот мистических и жутких событий.",
-        "slogan": "",
-        "premiere": "1 июля 2019",
-        "age": "0",
-        "time": "4500",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNmRlZWZhZWEtYWUxYy00NmZiLWI1ZjItM2E0MzA2MWE2ODIzXkEyXkFqcGdeQXVyNDQxODk4OTE@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "2.3",
-          "vote_num_imdb": "23"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1261952",
-      "date": "1603670581",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Антебеллум",
-        "orig": "Antebellum",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Джерард Буш,Кристофер Ренц",
-        "genre": "триллер,драма",
-        "actors": "Жанель Моне,Марке Ричардсон II,Эрик Ланж,Джек Хьюстон,Кирси Клемонс,Тонгай Арнольд Чириса,Габури Сидибе,Роберт Арамайо,Джена Мэлоун,Лили Коулес",
-        "description": "Известная писательница Вероника Хенли оказывается в ловушке ужасающей реальности и должна раскрыть безумную тайну, пока не стало слишком поздно.",
-        "slogan": "Оно тебя выбрало, тебя уже не спасти",
-        "premiere": "17 сентября 2020",
-        "age": "18",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1261952.jpg",
-        "rating": {
-          "rating_kp": "5.648",
-          "vote_num_kp": "5742",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "16840"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1269314",
-      "date": "1603667715",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ассистент звезды",
-        "orig": "The High Note",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Ниша Ганатра",
-        "genre": "драма,мелодрама,музыка",
-        "actors": "Дакота Джонсон,Трэйси Эллис Росс,Келвин Харрисон,Айс Кьюб,Зои Чао,Джун Рафаэль,Билл Пуллман,Марк Ивэн Джексон,Эдди Иззард,Дениз Акдениз",
-        "description": "Работа в блистательном мире шоу-бизнеса &#151; мечта для девушки, влюбленной в музыку. Ликующие стадионы, крутые вечеринки и интересные знакомства &#151; так проходят будни ассистента знаменитой певицы. Но что делать, если суперзвезда, которая всегда тебя вдохновляла, оказалась настоящей&#133; дивой?",
-        "slogan": "You've Got to Start at the Bottom Before You Take It to the Top",
-        "premiere": "29 мая 2020",
-        "age": "0",
-        "time": "6780",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1269314.jpg",
-        "rating": {
-          "rating_kp": "6.683",
-          "vote_num_kp": "4224",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "6643"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1062586",
-      "date": "1603667715",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Спасители",
-        "orig": "Saviors",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Christopher Greenslate",
-        "genre": "триллер,драма,криминал",
-        "actors": "Joe Cadiff,Натаниэл Страуд,Morris Black,Brian Regal,Гленн Лутс,Джонатан Максвелл Уилкокс,David Dimitruk,Austin Ford,Megan Johnson,Кэрол Пэйтон",
-        "description": "Чтобы найти свою пропавшую чернокожую мать, Мия-Элис внедряется в неофашистскую группировку. Однако события принимают опасный оборот, когда девушку решают проверить на верность делу.",
-        "slogan": "",
-        "premiere": "3 марта 2018",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZGY3NDhjN2YtZWM5NS00MGQyLWIzYmUtYzMyNTMyOWMyYzU2XkEyXkFqcGdeQXVyMTk3ODMwMw@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "3",
-          "rating_imdb": "5",
-          "vote_num_imdb": "85"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1345655",
-      "date": "1603667712",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Художник и вор",
-        "orig": "The Painter and the Thief",
-        "alter": "",
-        "year": "2020",
-        "country": "Норвегия",
-        "director": "Бенджамин Ри",
-        "genre": "документальный",
-        "actors": "Карл Бертил-Нордланд,Барбора Кисилкова,Ёйстейн Стене",
-        "description": "Она – молодая художница, ищущая вдохновения. Он – вор, укравший известное произведение искусства, и осужденный за это.  Одно случайное знакомство навсегда изменит их жизни.",
-        "slogan": "",
-        "premiere": "23 января 2020",
-        "age": "0",
-        "time": "6120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1345655.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "85",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "1612"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1299350",
-      "date": "1603667707",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Растворяться",
-        "orig": "Dissolve",
-        "alter": "",
-        "year": "2019",
-        "country": "Корея Южная,Казахстан",
-        "director": "Ким Ки Дук",
-        "genre": "драма",
-        "actors": "Динара Жумагалиева,Инкар Абдраш,Ирина Ажмухамедова,Еркен Губашев,Чингиз Капин,Санжар Мади,Аружан Молдагалиева",
-        "description": "Девушка-1 связана традиционной семьей и бытом. Однажды она встречает Девушку-2, похожую на нее как сестра-близнец. Эта девушка ведет свободный образ жизни, имеет богатого спонсора, который всем её обеспечивает. В один прекрасный день Девушка-2 приходит домой к Девушке-1, резко и вызывающе разговаривает с братом и матерью. С этого момента эти два человека меняются ролями и помогают друг другу. Но чем дольше это продолжается, тем опаснее становится ситуация для Девушки-1.",
-        "slogan": "Святой Георгий",
-        "premiere": "15 мая 2019",
-        "age": "0",
-        "time": "4920",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1299350.jpg",
-        "rating": {
-          "rating_kp": "4.629",
-          "vote_num_kp": "867",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "463292",
-      "date": "1603665001",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Девушка из долины",
-        "orig": "Valley Girl",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Рэйчел Голденберг",
-        "genre": "мюзикл,мелодрама,комедия",
-        "actors": "Джош Уайтхаус,Мэй Уитман,Хлоя Беннет,Джессика Рот,Пейтон Лист,Логан Пол,Эллин Рэйчел,Джош Фэйдем,Джесси Эннис,Эшли Мюррэй",
-        "description": "Пара молодых влюбленных из разных слоев общества бросает вызов своим родителям и друзьям, чтобы быть вместе. Музыкальная адаптация фильма 1983 года.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_463292.jpg",
-        "rating": {
-          "rating_kp": "5.961",
-          "vote_num_kp": "175",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "2359"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1342810",
-      "date": "1603664102",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ундина",
-        "orig": "Undine",
-        "alter": "",
-        "year": "2020",
-        "country": "Германия,Франция",
-        "director": "Кристиан Петцольд",
-        "genre": "драма,мелодрама",
-        "actors": "Паула Бер,Франц Роговский,Марьям Заре,Якоб Маченц,Анна Ратте-Полле,Рафаэль Стаховяк,Хосе Баррош,Джулия Франц Рихтер,Глория Эндрес де Оливейра,Энно Требс",
-        "description": "История всепоглощающей любви на грани жизни и смерти – классический сюжет эпохи романтизма –  на фоне современного Берлина.\r\n\r\nКрасавица Ундина  знает все об архитектуре Восточного и Западного Берлина, ее рассказами заслушиваются посетители выставки, они пленяют сердце мечтателя Кристофа. Знакомство молодых людей мистическим образом сближает их. Но  у Ундины есть тайна – ее прошлое – роковой роман с  Йоханнесом, человеком, который ее предал…",
-        "slogan": "Любовь на грани жизни и смерти",
-        "premiere": "24 сентября 2020",
-        "age": "16",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1342810.jpg",
-        "rating": {
-          "rating_kp": "6.507",
-          "vote_num_kp": "1449",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "3133"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "734",
-      "date": "1603659860",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K WEB-DL",
-      "translation": "Многоголосый",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Последний замок",
-        "orig": "The Last Castle",
-        "alter": "",
-        "year": "2001",
-        "country": "США",
-        "director": "Род Лури",
-        "genre": "боевик,триллер,драма",
-        "actors": "Роберт Редфорд, Джеймс Гандольфини, Марк Руффало, Стив Бертон, Делрой Линдо, Пол Кальдерон, Сэмюэл Болл, Джереми Чайлдз, Клифтон Коллинз мл., Джордж В. Скотт",
-        "description": "Случилось так, что генерал Ирвин - заслуженный солдат и ветеран многих войн, отслуживший отечеству верой и правдой, стал узником тюрьмы строгого режима. За всю свою карьеру генерал допустил лишь одну непоправимую ошибку, которая обернулась для него позорным судом военного трибунала и десятью годами заключения.\r\n\r\nНо Юджин стойко принял этот удар судьбы. Смирившись со своей участью, разжалованный офицер вступил в стены тюрьмы с единственным намерением - отбыть свой срок и вернуться домой. Но все сложилось иначе... Ирвин делает шокирующее открытие: в тюрьме хладнокровно убивают заключенных.\r\n\r\nЗа этими кровавыми преступлениями стоит жестокий комендант тюрьмы - полковник Уинтер. И тогда генерал решает принять на себя командование в последний раз, став во главе отчаянного восстания разгневанных заключенных...",
-        "slogan": "Настоящий солдат всегда остаётся солдатом...",
-        "premiere": "19 октября 2001",
-        "age": "18",
-        "time": "7860",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_734.jpg",
-        "rating": {
-          "rating_kp": "7.379",
-          "vote_num_kp": "4759",
-          "rating_imdb": "7",
-          "vote_num_imdb": "72371"
         }
       }
     }

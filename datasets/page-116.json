@@ -2,6 +2,356 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1211462",
+      "date": "1599692409",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Милашки",
+        "orig": "Mignonnes",
+        "alter": "",
+        "year": "2020",
+        "country": "Франция",
+        "director": "Маймуна Дукур",
+        "genre": "драма,комедия",
+        "actors": "Fathia Youssouf Abdillahi,Medina El Aidi,Esther Gohourou,Ilanah Cami-Goursolas,Myriam Hamma,Маймуна Гуйе,Мбисин Тереза Диоп,Демба Диау,Mamadou Samaké,Bilel Chegrani",
+        "description": "11-летняя Эми в попытке сбежать от проблем в семье присоединяется к танцевальной тверк-группе «Милашки». С помощью танца они исследуют свою женственность и бросают вызов своим родителям.",
+        "slogan": "",
+        "premiere": "23 января 2020",
+        "age": "0",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1211462.jpg",
+        "rating": {
+          "rating_kp": "4.929",
+          "vote_num_kp": "1366",
+          "rating_imdb": "3.1",
+          "vote_num_imdb": "26981"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1063718",
+      "date": "1599692406",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Зло у меня под кожей",
+        "orig": "Evil Under the Skin",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Джеффри Шнайдер",
+        "genre": "ужасы",
+        "actors": "Хелен Уди,Памела Сатч,Colton Baumgartner,Карл Бэйли,Донна Хэмблин,Джеффри Шнайдер,Тим О’Херн,Angela Barajas,Frederick Ortmann",
+        "description": "В попытках восстановить родственные связи, мать и дочь вместе отправляются за город на выходные. На новом месте женщин начинают преследовать странные явления, напрямую связанные с грязным прошлом дома, которое не собирается отпускать новых жителей.",
+        "slogan": "fear comes from within",
+        "premiere": "1 июня 2019",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDZjNTNkYzQtMDliZC00MDk5LTgzZGMtYmIwOGIxYTM4YjQxXkEyXkFqcGdeQXVyMjE2MzA5MDI@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": "2.4",
+          "vote_num_imdb": "122"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1055319",
+      "date": "1599688801",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мой создатель",
+        "orig": "Archive",
+        "alter": "",
+        "year": "2020",
+        "country": "Великобритания,Венгрия,США",
+        "director": "Гэвин Ротери",
+        "genre": "фантастика",
+        "actors": "Рона Митра,Тео Джеймс,Тоби Джонс,Стэйси Мартин,Питер Фердинандо,Ричард Гловер,Ханс Петерсон,Джереми Вилер,Timea Maday Kinga",
+        "description": "2046-ой год. Время невероятных технологических открытий, могущественных корпораций и торжества искусственного интеллекта.\r\n\r\nМолодой ученый в секретной лаборатории занимается поиском вечной жизни для сильных мира сего. Но его истинная цель другая. Он пытается воскресить свою единственную любовь, погибшую несколько лет назад.\r\n\r\nКогда объект перестает выходить на связь, корпорация отправляет туда команду зачистки.",
+        "slogan": "Раскрой тайну",
+        "premiere": "10 сентября 2020",
+        "age": "16",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1055319.jpg",
+        "rating": {
+          "rating_kp": "6.476",
+          "vote_num_kp": "25072",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "12330"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "376446",
+      "date": "1599678004",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Футурама: Зверь с миллиардом спин",
+        "orig": "Futurama: The Beast with a Billion Backs",
+        "alter": "",
+        "year": "2008",
+        "country": "США",
+        "director": "Питер Аванзино",
+        "genre": "мультфильм,комедия,фантастика,мелодрама",
+        "actors": "Билли Уэст, Кэти Сагал, Джон Ди Маджио, Тресс МакНилл, Морис ЛаМарш, Фил ЛаМарр, Лорен Том, Дэвид Херман, Дэн Кастелланета, Дэвид Кросс",
+        "description": "События происходят непосредственно после «Большого куша Бендера».\r\n\r\nОгромный раскол в пространстве и времени позволяет отвратительному, размером с планету монстру из другой вселенной проникнуть на Землю. Он берёт под контроль Фрая, делая из него Папу новой религии, которая охватывает всю планету.",
+        "slogan": "Новое  полнометражное  космическое  приключение!!",
+        "premiere": "24 июня 2008",
+        "age": "12",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_376446.jpg",
+        "rating": {
+          "rating_kp": "7.245",
+          "vote_num_kp": "12401",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "23102"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "465543",
+      "date": "1599676323",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Что-то не так с Кевином",
+        "orig": "We Need to Talk About Kevin",
+        "alter": "",
+        "year": "2010",
+        "country": "Великобритания, США",
+        "director": "Линн Рэмси",
+        "genre": "триллер,детектив,драма",
+        "actors": "Тильда Суинтон, Джон Си Райли, Эзра Миллер, Джаспер Ньюэлл, Рок Дер, Эшли Герасимович, Шиван Фэллон, Алекс Манетт, Кеннет Франклин, Лесли Лайлс",
+        "description": "Отложив в сторону все личные и профессиональные амбиции, Ева посвящает жизнь рождению и воспитанию сына. Однако их отношения с самого начала оказываются крайне сложными. В пятнадцать лет Кевин совершает непоправимое, и Ева мучается сознанием ответственности и собственной вины. Достаточно ли она любила своего сына? Какова доля ее вины в происшедшем?",
+        "slogan": "Mummy's little monster...",
+        "premiere": "12 мая 2011",
+        "age": "16",
+        "time": "6720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_465543.jpg",
+        "rating": {
+          "rating_kp": "7.162",
+          "vote_num_kp": "38316",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "138782"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "656627",
+      "date": "1599675974",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Дикая киска",
+        "orig": "Joven y alocada",
+        "alter": "",
+        "year": "2012",
+        "country": "Чили",
+        "director": "Мариали Ривас",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Алисия Родригес, Алина Кюппенхейм, Мария Грасия Оменя, Фелипе Пинто, Алехандро Гойк, Ингрид Исенси, Томаш де Пабло, Пабло Крёг, Эрнан Лакалль, Андреа Гарсия-Уидобро",
+        "description": "Даниэле - 17. Воспитываясь в строгой религиозной семье, она одержима сексом. Ее школьные будни украшает небольшой скандал: накануне выпускных экзаменов Даниэла совращает одноклассника, и с баптистcкой школой приходится попрощаться раньше срока. У Даниэлы красивый бойфренд, она влюблена в девушку, с которой работает на телевидении. О своих сексуальных переживаниях Даниэла исправно рассказывает всему миру через блог, аккуратно посещает церковь по воскресеньям и молится, чтобы мать случайно не выследила ее в интернете. Бунтарка по природе, Даниэла, отказываясь сдерживать хоть какие-то желания, пытается найти свой «праведный» путь.",
+        "slogan": "",
+        "premiere": "21 января 2012",
+        "age": "18",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_656627.jpg",
+        "rating": {
+          "rating_kp": "5.038",
+          "vote_num_kp": "2002",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "2437"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "505841",
+      "date": "1599670155",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Семейка Аддамс",
+        "orig": "The Addams Family",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания, Канада, США",
+        "director": "Грег Тирнан, Конрад Вернон",
+        "genre": "мультфильм,комедия,ужасы,фэнтези,семейный",
+        "actors": "Оскар Айзек, Шарлиз Терон, Хлоя Грейс Морец, Финн Вулфард, Ник Кролл, Снуп Догг, Бетт Мидлер, Эллисон Дженни, Мартин Шорт, Кэтрин О’Хара",
+        "description": "Папа любит долгие прогулки в ненастную погоду. Мама считает, что черный цвет самый яркий. У детей кладбище - любимая площадка для игр. Бабушка выпивает пару капель яда перед сном. Вы все еще думаете, что ваши родственники странные? Знакомьтесь - семейка Аддамс.",
+        "slogan": "Думаете, ваша семейка странная?",
+        "premiere": "10 октября 2019",
+        "age": "12",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_505841.jpg",
+        "rating": {
+          "rating_kp": "6.306",
+          "vote_num_kp": "57199",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "29029"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1219417",
+      "date": "1599669969",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Дитя погоды",
+        "orig": "Tenki no ko",
+        "alter": "Weathering With You",
+        "year": "2019",
+        "country": "Япония",
+        "director": "Макото Синкай",
+        "genre": "аниме,мультфильм,мелодрама,фэнтези",
+        "actors": "Котаро Дайго,Нана Мори,Сюн Огури,Цубаса Хонда,Тиэко Байсё,Кана Ханадзава,Сэи Хираидзуми,Кана Итиносэ,Юки Кадзи,Рюносукэ Камики",
+        "description": "Они встретились посреди Токио под нескончаемым дождем. Он мечтает начать новую жизнь в большом городе. А она никогда не унывает и обладает удивительным даром менять погоду силой мысли. Там, где она &#151; всегда солнце. Вместе они изменят этот мир навсегда.",
+        "slogan": "Это история про тайну мироздания. Секрет, который знаем только мы с ней",
+        "premiere": "15 января 2019",
+        "age": "12",
+        "time": "6720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1219417.jpg",
+        "rating": {
+          "rating_kp": "7.885",
+          "vote_num_kp": "46041",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "23364"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "635370",
+      "date": "1599669001",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Всегда",
+        "orig": "O-jik geu-dae-man",
+        "alter": "",
+        "year": "2011",
+        "country": "Корея Южная",
+        "director": "Сон Иль-гон",
+        "genre": "боевик,мелодрама,драма",
+        "actors": "Со Джи-соп, Хан Хё-джу, Кан Щин-иль, Пак Чхоль-мин, Сын-пэ Ви, О Гван-нок, Чин Гу, Хан И-джин, Чон Ду-гём, Соль Джи-юн",
+        "description": "Бывший боксёр Чхоль-мин теперь работает охранником на парковке и развозит воду в бутылях. Однажды во время вечернего дежурства к нему приходит слепая девушка, которая с прежним охранником смотрела сериалы по вечерам. Между молодыми людьми завязывается дружба, а затем и любовь. Чхоль-мин чувствует, что должен защищать свою любимую и сделать всё возможное, чтобы вернуть ей возможность видеть.",
+        "slogan": "",
+        "premiere": "6 октября 2011",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_635370.jpg",
+        "rating": {
+          "rating_kp": "8.045",
+          "vote_num_kp": "9756",
+          "rating_imdb": "7.8",
+          "vote_num_imdb": "8404"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1187971",
+      "date": "1599660011",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Шафрановое сердце",
+        "orig": "Шафрановое сердце",
+        "alter": "",
+        "year": "2018",
+        "country": "Россия,Индия",
+        "director": "Павел Маклай",
+        "genre": "семейный,приключения",
+        "actors": "Вадим Демчог",
+        "description": "История маленького тибетского мальчика Лобсанга. Родители отправляют его в буддийский монастырь. Вначале он держится особняком и даже совершает несколько попыток побега. Чтобы заинтересовать мальчика, его учитель придумывает игру: карту-квест, состоящую из восьми загадок. На карте изображен монастырь, каждому значимому месту в нем соответствует символ и загадка. Распутывая нити головоломки, Лобсанг находит путь домой, обретает новых друзей, а также принимает свое первое взрослое решение.",
+        "slogan": "Journey begins!",
+        "premiere": "",
+        "age": "6",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1187971.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "112",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "99944",
       "date": "1599659122",
       "camrip": "0",
@@ -273,10 +623,10 @@
         "time": "8040",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4392.jpg",
         "rating": {
-          "rating_kp": "7.342",
-          "vote_num_kp": "29022",
+          "rating_kp": "7.341",
+          "vote_num_kp": "29028",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "87176"
+          "vote_num_imdb": "87186"
         }
       }
     },
@@ -311,7 +661,7 @@
           "rating_kp": "7.63",
           "vote_num_kp": "186987",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "582645"
+          "vote_num_imdb": "582711"
         }
       }
     },
@@ -414,7 +764,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1305916.jpg",
         "rating": {
           "rating_kp": "5.642",
-          "vote_num_kp": "3174",
+          "vote_num_kp": "3175",
           "rating_imdb": "6.4",
           "vote_num_imdb": "10763"
         }
@@ -449,7 +799,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7908.jpg",
         "rating": {
           "rating_kp": "7.878",
-          "vote_num_kp": "212850",
+          "vote_num_kp": "212934",
           "rating_imdb": "8.1",
           "vote_num_imdb": "953292"
         }
@@ -483,8 +833,8 @@
         "time": "8040",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1219852.jpg",
         "rating": {
-          "rating_kp": "6.645",
-          "vote_num_kp": "9197",
+          "rating_kp": "6.644",
+          "vote_num_kp": "9208",
           "rating_imdb": "6.6",
           "vote_num_imdb": "62542"
         }
@@ -694,7 +1044,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3890.jpg",
         "rating": {
           "rating_kp": "5.548",
-          "vote_num_kp": "9252",
+          "vote_num_kp": "9255",
           "rating_imdb": "3.8",
           "vote_num_imdb": "24575"
         }
@@ -729,7 +1079,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_718442.jpg",
         "rating": {
           "rating_kp": "7.824",
-          "vote_num_kp": "4215",
+          "vote_num_kp": "4217",
           "rating_imdb": "7.8",
           "vote_num_imdb": "6561"
         }
@@ -869,7 +1219,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_957887.jpg",
         "rating": {
           "rating_kp": "8.653",
-          "vote_num_kp": "77342",
+          "vote_num_kp": "77406",
           "rating_imdb": "8.2",
           "vote_num_imdb": "106930"
         }
@@ -1079,7 +1429,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1228043.jpg",
         "rating": {
           "rating_kp": "7.125",
-          "vote_num_kp": "9077",
+          "vote_num_kp": "9092",
           "rating_imdb": "7.4",
           "vote_num_imdb": "10819"
         }
@@ -1149,7 +1499,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77443.jpg",
         "rating": {
           "rating_kp": "7.85",
-          "vote_num_kp": "207525",
+          "vote_num_kp": "207553",
           "rating_imdb": "8",
           "vote_num_imdb": "739373"
         }
@@ -1219,7 +1569,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1391084.jpg",
         "rating": {
           "rating_kp": "6.99",
-          "vote_num_kp": "178",
+          "vote_num_kp": "179",
           "rating_imdb": "7.2",
           "vote_num_imdb": "2128"
         }
@@ -1397,375 +1747,6 @@
           "vote_num_kp": "0",
           "rating_imdb": "6.5",
           "vote_num_imdb": "35"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1259874",
-      "date": "1599586206",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Любовь",
-        "orig": "Chhalawa",
-        "alter": "",
-        "year": "2019",
-        "country": "Пакистан",
-        "director": "Ваджахат Рауф",
-        "genre": "драма,мелодрама,комедия,семейный",
-        "actors": "Mehwish Hayat,Zara Abbas,Iqbal Umer,Махмуд Аслам,Mohsin Ejaz,Sarwan Ali Palijo,Ваджахат Рауф,Azfar Rehman,Аднан Шах,Asad Siddiqui",
-        "description": "Зоя планирует бежать из отцовского особняка с любимым, но отец отключил все коммуникации. Удастся ли им сбежать без помощи социальных сетей и телефонной связи?",
-        "slogan": "",
-        "premiere": "4 июня 2019",
-        "age": "0",
-        "time": "7020",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1259874.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "2.9",
-          "vote_num_imdb": "321"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1274100",
-      "date": "1599585305",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Наставница",
-        "orig": "Baaji",
-        "alter": "",
-        "year": "2019",
-        "country": "Пакистан",
-        "director": "Saqib Malik,Saqib Malik",
-        "genre": "триллер,драма,детектив",
-        "actors": "Мира,Amna Ilyas,Осман Халид Батт,Али Казми,Nisho,Mohsin Abbas Haider,Нэйэр Эджаз,Mehwish Hayat,Aamir Qureshi,Angeline Malik",
-        "description": "Фильм рассказывает об актрисе Шамире Джи, чей пик популярности остался в прошлом. Всё что ей теперь остаётся - довольствоваться репутацией бывшей звезды. Однако на такое она не согласна. Удастся ли ей вернуть свою славу?",
-        "slogan": "",
-        "premiere": "27 июня 2019",
-        "age": "0",
-        "time": "7920",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1274100.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "8",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "212"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1103412",
-      "date": "1599581706",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Поездка на озеро Гарда",
-        "orig": "Endlich Gardasee!",
-        "alter": "",
-        "year": "2018",
-        "country": "Германия",
-        "director": "Ульрика Гроте",
-        "genre": "драма,мелодрама,комедия",
-        "actors": "Корнелия Фробёсс,Юлия Нахтманн,Виллем Менне,Бернхард Писк,Ульрих Брандхофф,Giovanna Porcheddu,Йоахим Рааф,Сабина Хан,Майке Кирхер,Дороти Хагена",
-        "description": "После 40 лет брака Лотти серьезно подумывает расстаться с мужем. Ее внучка Ева, надеясь предотвратить кризис, отменяет запланированный отпуск со своим парнем Йоханнесом и увозит Лотти на озеро Гарда в Италии, куда бабушка всегда мечтала отправиться. Там же в это же время находится и Тобиас - новое увлечение Евы. Вместо того, чтобы привести бабушку в чувство, Ева в конечном итоге переворачивает свою жизнь с ног на голову. Йоханнес или Тобиас? Безопасность или азарт? Это сложный выбор. Ева могла бы спросить совета у бабушки, если бы та не была так занята собственным эмоциональным хаосом.",
-        "slogan": "",
-        "premiere": "13 октября 2018",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTEwNGRlOGUtYThlOC00ODc0LTk2MWMtNzA2ZjBiNTNkNzBhXkEyXkFqcGdeQXVyMDExMzA0Mw@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "32"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1216727",
-      "date": "1599580805",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Сопротивление: История Ю Гван-сун",
-        "orig": "Hanggeo: Yoo Gwan-soon iyagi",
-        "alter": "",
-        "year": "2019",
-        "country": "Корея Южная",
-        "director": "Чо Мин-хо",
-        "genre": "драма,история,биография",
-        "actors": "Ко А-сон,Ким Сэ-бёк,Ким Е-ын,Чон Ха-дам,Рю Гён-су,Чхве Му-сон,Ким Джи-сон,Ли Ён-сок,Ха Сон-гван,Чан Сэ-а",
-        "description": "История Ю Гван-сун - основательницы движения 1 марта против японской оккупации Кореи.",
-        "slogan": "",
-        "premiere": "27 февраля 2019",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1216727.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "22",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "88"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "260845",
-      "date": "1599568932",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "last_season": "1",
-      "last_episode": "13",
-      "episodes": {
-        "1": {
-          "1": 480,
-          "2": 480,
-          "3": 480,
-          "4": 480,
-          "5": 480,
-          "6": 480,
-          "7": 480,
-          "8": 480,
-          "9": 480,
-          "10": 480,
-          "11": 480,
-          "12": 480,
-          "13": 480
-        }
-      },
-      "info": {
-        "rus": "Приключения в каникулы",
-        "orig": "Spadla z oblakov",
-        "alter": "",
-        "year": "1978",
-        "country": "Чехословакия",
-        "director": "Радим Цврчек",
-        "genre": "фантастика,семейный,фэнтези,комедия,приключения",
-        "actors": "Зузана Правняньска,Матей Ландл,Любор Чайка,Светлана Майбова,Кэрол Полак,Михал Суханэк,Повол Ларцар,Роман Кудрна,Ян Крамар,Милан Кис",
-        "description": "История о необычной инопланетной девочке Майке с планеты Гурун, попавшей к нам на Землю в небольшой словацкий городок Чабовец, где она знакомится с местными ребятами и с которыми переживает захватывающие приключения.",
-        "slogan": "",
-        "premiere": "25 октября 1978",
-        "age": "0",
-        "time": "1500",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_260845.jpg",
-        "rating": {
-          "rating_kp": "8.168",
-          "vote_num_kp": "779",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "213"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "46539",
-      "date": "1599568829",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Дубляж",
-      "max_qual": "480",
-      "info": {
-        "rus": "Мария, Мирабела",
-        "orig": "Maria, Mirabella",
-        "alter": "",
-        "year": "1981",
-        "country": "Румыния, СССР",
-        "director": "Ион Попеску-Гопо, Наталья Бодюл",
-        "genre": "мультфильм,комедия,фэнтези,мюзикл,семейный",
-        "actors": "Джилда Манолеску, Медея Маринеску, Ингрид Челия, Ион Попеску-Гопо, Леонид Серебренников, Анда Кэлугэряну, Александрина Халик, Михай Константинеску, Дем Рэдулеску",
-        "description": "Герои этого цветного рисованного, полнометражного мультфильма - лягушонок Кваки, Светлячок и Бабочка дружно жили в лесу. Но случилась беда - Светлячок разучился светить, Бабочка разучилась летать, а лягушонок вмерз в льдину, не успев спрятаться от мороза. Ужас, да? Но, слава Богу, сестры-близнецы Мария и Мирабела с помощью доброй лесной Феи помогли им вернуться в лес, и все стало как прежде.",
-        "slogan": "",
-        "premiere": "21 декабря 1981",
-        "age": "6",
-        "time": "3900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_46539.jpg",
-        "rating": {
-          "rating_kp": "7.274",
-          "vote_num_kp": "7722",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "592"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1038561",
-      "date": "1599543014",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Шум деревни",
-        "orig": "Landrauschen",
-        "alter": "",
-        "year": "2018",
-        "country": "Германия",
-        "director": "Lisa Miller",
-        "genre": "драма",
-        "actors": "Kathrin Wolf,Nadine Sauter,Heidi Walcher,Karl Fischer,Julian Löhle,Corinna Kuttner,Фолькрам Чише,Rupert Markthaler,Peter Schmid,Stefan Einfalt",
-        "description": "Спустя годы две подруги Тони и Роза встречаются в родной деревне на юге Германии. Деревня должна адаптироваться к изменениям будущего, а отношения двух женщин развиваются до момента, когда обе должны принять важное решение.",
-        "slogan": "The love story and portrait of a Bavarian microsm",
-        "premiere": "23 января 2018",
-        "age": "0",
-        "time": "6120",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZTJmNTFkOGItNWM2My00ZGIzLWJiZTktZDNjZGY4ZmMxNDE5XkEyXkFqcGdeQXVyNDc0ODk1OTA@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "1",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "68"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1101519",
-      "date": "1599543009",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Призрак в стекле 2: Преследуемые призраком",
-        "orig": "Spirit of the Glass 2: The Hunted",
-        "alter": "",
-        "year": "2017",
-        "country": "Филиппины",
-        "director": "Хосе Хавьер Рейес",
-        "genre": "ужасы",
-        "actors": "Кристина Рейес,Janine Gutierrez,Дэниэл Матсунага,Винс Салданья,Ash Ortega,Enrico Cuenca,Maxine Medina,Vance Larena,Тери Мальвар,Джон Манало",
-        "description": "Однажды Беа получает наследство от своей бабушки, вместе с друзьями забирает его из семейного поместья и перевозит к себе в дом. Копаясь в привезённых ящиках, она и ее подруга, помимо старых альбомов с вырезками из журналов 60х годов и семейными фотографиями, на которых изображена первая красавица Манилы, обнаруживают доску Уиджи. Подруга подбивает Беа провести спиритический сеанс, но, оказывается, что таким образом, они открывают врата в иной мир, откуда в наш мир пробираются духи, желающие не только мести, но и поведать Беа настояющую историю её семьи.",
-        "slogan": "",
-        "premiere": "1 ноября 2017",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNjg2ODMwODQtODEwZS00Mzg3LWE3MzgtNGY0MzI2NmY4NGViXkEyXkFqcGdeQXVyNTI5NjIyMw@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "954916",
-      "date": "1599543005",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Молот",
-        "orig": "Heart, Baby",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Анджела Шелтон",
-        "genre": "драма",
-        "actors": "Гбенга Акиннагбе,Джексон Рэтбоун,Шон-Колин Янг,Ричи Монтгомери,Джастис Лик,Шон Браун,Майкл Бадалукко,Куинтон Аарон,Дэна Гурье,Биг Фридиа",
-        "description": "Когда тюремному боксеру Джорджу \"Молоту\" Мартину предлагают свободу ради участия на Олимпийских играх 1984 года, он отказывается, чтобы защитить любимую женщину, тем самым заставив своего лучшего друга узнать, что такое настоящая верность.",
-        "slogan": "The Truth Will Knock You Out",
-        "premiere": "7 октября 2017",
-        "age": "0",
-        "time": "6540",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_954916.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "14",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "133"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1214227",
-      "date": "1599542118",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Счастливей некуда",
-        "orig": "Lyckligare kan ingen vara",
-        "alter": "",
-        "year": "2018",
-        "country": "Швеция",
-        "director": "Стаффан Линдберг",
-        "genre": "мелодрама,комедия",
-        "actors": "Хелена Аф Сандеберг,Моника Алборноз,Лиза Петтерссон,Миа Бенсон,Филип Берг,Челль Бергквист,Майя Ханссон-Бергвист,Игл Ай Черри,Ингве Далберг,Petter Egnefors",
-        "description": "История вращается вокруг пяти пар разных поколений. Их жизни связаны как совпадениями, так и осознанно принятыми решениями, в основе которых лежит стремление к любви.",
-        "slogan": "",
-        "premiere": "21 декабря 2018",
-        "age": "0",
-        "time": "6780",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTRlZmUyZmMtMTE3Zi00OTg1LWE4YTEtNWYyNGZmZDAwNDgzXkEyXkFqcGdeQXVyMjYyMjcxNzg@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "638"
         }
       }
     }

@@ -2,6 +2,356 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1191643",
+      "date": "1602091805",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Проклятье Одри Эрншоу",
+        "orig": "The Curse of Audrey Earnshaw",
+        "alter": "",
+        "year": "2020",
+        "country": "Канада",
+        "director": "Томас Роберт Ли",
+        "genre": "ужасы,драма",
+        "actors": "Катрин Уокер,Ханна Эмили Андерсон,Джаред Абрахамсон,Шон МакГинли,Дон МакКеллар,Джеральдин О’Роу,Том Кэри,Анна Каммер,Джессика Рейнольдс,Дэвид Лерини",
+        "description": "Одри Эрншоу и её властная мать Агата живут на окраине отдаленной протестантской деревни. Маленькое сообщество поражено эпидемией неизвестного происхождения: дети, поля и домашний скот начинают гибнуть, но ферма оккультистов Эрншоу, как ни странно, не пострадала. В деревне начинается массовая истерия, и горожане начинают винить Одри и Агату в своих проблемах, считая их ведьмами.",
+        "slogan": "",
+        "premiere": "11 июля 2020",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1191643.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "94",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "779"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1220084",
+      "date": "1602090907",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Красные буквы",
+        "orig": "Red Letters",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Джим Клок",
+        "genre": "ужасы",
+        "actors": "Джим Клок,Майк Капоцци,Чад Риджли,Kyra Kennedy,Robin F. Baker,Chris Hubbart,Marsi Fluehr,Emily Adams,Michelle Snow,Jake Ficken",
+        "description": "Два частных детектива берут дело, которое прямиком ведет их в руки тьмы. Ни один из героев не готов к тому, что их ожидает.",
+        "slogan": "",
+        "premiere": "27 октября 2019",
+        "age": "0",
+        "time": "5220",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDE2MDRhZTMtNjliMy00MTU4LWFkMWEtOTIxZjM1OTg1NWE2XkEyXkFqcGdeQXVyNTcwMzkyNDE@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "4",
+          "rating_imdb": "3.8",
+          "vote_num_imdb": "86"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1142290",
+      "date": "1602086407",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Рандеву в Чикаго",
+        "orig": "Rendezvous in Chicago",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Майкл Гловер Смит",
+        "genre": "драма,мелодрама,комедия",
+        "actors": "Clare Cooney,Хайде Политофф,Maggie Scrantom,Майкл Гловер Смит,Дэйв МакНалти,Rashaad Hall,Matthew Sherbach,Robert W. Pockmire,Rob Christopher,Nina Ganet",
+        "description": "«Рандеву в Чикаго» - это короткий комедийный художественный фильм, состоящий из трех новелл, каждая из которых соответствует начальной, средней и конечной стадиям отношений.",
+        "slogan": "Three tales of love in the Windy City",
+        "premiere": "19 октября 2018",
+        "age": "0",
+        "time": "4140",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2YyMjMyMjgtYmUyMS00YTE4LWIwYTYtNmU5MjBjNjk1NDFlXkEyXkFqcGdeQXVyNDg3NzE0Mzk@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "90"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1007402",
+      "date": "1602081043",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Девять пальцев",
+        "orig": "9 doigts",
+        "alter": "",
+        "year": "2017",
+        "country": "Франция,Португалия",
+        "director": "Франсуа-Жак Оссанг",
+        "genre": "драма,приключения",
+        "actors": "Поль Ами,Дамиен Боннар,Паскаль Греггори,Гаспар Ульель,Susana Afonso Lopes,Диогу Дориа,Эльвира,Лиза Хартманн,Алексис Маненти,Лайонел Туа",
+        "description": "Маглуар совсем запутался в жизни и не знает, что ему делать. Однажды он отправляется на заброшенную железнодорожную станцию, где долгое время проводит в раздумьях, пока рядом не появляются полицейские для проверки документов. Маглуар пускается в бега, без багажа, без надежд на будущее, пока не встречает умирающего человека, который оставляет ему свое состояние. Его преследует банда Курца. Вместо того, чтобы убить его, бандиты предлагает присоединиться к ней и берут Маглуара на корабль, перевозящий опасный и странный груз полония. Он становится заложником и соучастником, потому что ему нечего терять.",
+        "slogan": "",
+        "premiere": "8 августа 2017",
+        "age": "0",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1007402.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "26",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "307"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1033581",
+      "date": "1602081039",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Убежище 2: ледяная тропа",
+        "orig": "Katafigio II: The Ice Path",
+        "alter": "",
+        "year": "2018",
+        "country": "Греция",
+        "director": "Hristos Nikoleris",
+        "genre": "ужасы,триллер",
+        "actors": "Kika Zachariadou,Viky Maidanoglou,Yiorgos Spanias,Арис Антонопулос,Nikolas Papagiannis,Данай Скиади,Александрос Кох,Alexander Tsonos,Giannis Mastrogeorgiou,Marianna Nikoleri",
+        "description": "Группа молодых ребят приезжает в лес, чтобы насладиться дикой природой и красивым озером в горах. Но внезапно Яннис получает травму, попав в странную глубокую яму, а Катэрина начинает слышать странный шепот в лесу.",
+        "slogan": "",
+        "premiere": "3 ноября 2018",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTk5NDQ3MzgtMTkwNy00MjY5LWI2ZDktNzExZTU0NjEwZGIyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTg4MTcwMTk@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "9",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "28"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1402745",
+      "date": "1602071132",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Октонавты и пещеры Сак-Актун",
+        "orig": "Octonauts and the Caves of Sac Actun",
+        "alter": "",
+        "year": "2020",
+        "country": "Великобритания",
+        "director": "Блэр Симмонс",
+        "genre": "мультфильм,комедия,приключения,семейный",
+        "actors": "Тереза Галлахер,Уэйн Грэйсон,Саймон Гринолл,Майкл С. Мерфи,Пол Патинг,Роб Рэкстроу,Helen Walsh,Кит Викхэм,Андрес Уильямс,Джо Уайатт",
+        "description": "Октонавтов ждёт подводное приключение сквозь причудливые пещеры Сак-Актун. Они хотят помочь маленькому осьминогу Кобе добраться до дома в Карибском море, но на пути их ожидает множество преград. Удастся ли им в итоге совершить задуманное?",
+        "slogan": "",
+        "premiere": "14 августа 2020",
+        "age": "0",
+        "time": "4320",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTZmZTRlYTItZGYyYi00ODNkLTg1ZTMtMDc1ZDk5ZGU1MTI3XkEyXkFqcGdeQXVyMzAzMzkzNTU@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "3",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "95"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "762897",
+      "date": "1602071128",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Сыщики под прикрытием",
+        "orig": "Mortadelo y Filemón contra Jimmy el Cachondo",
+        "alter": "Приключения Мортадело и Филимона 3 / Мортадело и Филимон против Джимми Торчка",
+        "year": "2014",
+        "country": "Испания",
+        "director": "Хавьер Фессер",
+        "genre": "мультфильм,комедия",
+        "actors": "Карра Элехальде, Джанфри Топера, Гэбриель Шаме, Рамон Ланга, Виктор Мониготе, Хосе Алиас, Мариано Венансио, Энрике Вильен, Эмилио Гавира, Берта Охеа",
+        "description": "Злодей Джимми со своими помощниками похищает сейф с секретными документами прямо из штаб-квартиры разведагентства. Его начальнику не остается ничего иного как поручить возвращение документов двум агентам Мортадело и Филимону. В то же время из тюрьмы сбегает бандит, который жаждет отомстить Филимону за арест.",
+        "slogan": "",
+        "premiere": "28 ноября 2014",
+        "age": "0",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_762897.jpg",
+        "rating": {
+          "rating_kp": "5.594",
+          "vote_num_kp": "145",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "1744"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "808288",
+      "date": "1602071127",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Скуби-Ду! Ужасные Праздники",
+        "orig": "Scooby-Doo! Haunted Holidays",
+        "alter": "",
+        "year": "2012",
+        "country": "США",
+        "director": "Виктор Кук",
+        "genre": "мультфильм,короткометражка",
+        "actors": "Минди Кон,Мэттью Лиллард",
+        "description": "Скуби-Ду и команда участвуют в рождественском параде, где встречаются со Зловещим Снеговиком. Из-за чего всем грозит опасность.",
+        "slogan": "",
+        "premiere": "16 октября 2012",
+        "age": "0",
+        "time": "1320",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_808288.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "225",
+          "rating_imdb": "7",
+          "vote_num_imdb": "380"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1046498",
+      "date": "1602071104",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Американские кошмары",
+        "orig": "Mr. Malevolent",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Расти Кандифф,Дэрин Скотт",
+        "genre": "ужасы,комедия",
+        "actors": "Рэйчел Аксельрод,Клео Берри,Гэбриел Браун,Брэдли Бандли,Кейт Батлер,Джейсон Кэбелл,Мадлен Когхлан,Расти Кандифф,Венди Дэвис,Мари Дестин",
+        "description": "Мистер Зло взламывает компьютеры двух молодых хакеров и заставляет их смотреть страшные истории.",
+        "slogan": "",
+        "premiere": "11 октября 2018",
+        "age": "18",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1046498.jpg",
+        "rating": {
+          "rating_kp": "4.848",
+          "vote_num_kp": "462",
+          "rating_imdb": "4.3",
+          "vote_num_imdb": "607"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "144070",
+      "date": "1602064121",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Восстание",
+        "orig": "Dôran",
+        "alter": "",
+        "year": "1980",
+        "country": "Япония",
+        "director": "Сиро Моритани",
+        "genre": "драма,военный,история",
+        "actors": "Кэн Такакура,Саюри Ёсинага,Масаканэ Ёнэкура,Дзюнко Сакурада,Такахиро Тамура,Такаси Симура,Кэи Сато,Куниэ Танака,Рюносукэ Канэда,Син Кисида",
+        "description": "Фильм повествует о мятеже националистически настроенных офицеров японской армии, произошедшем 26-29 февраля 1936 года. Мятеж организовали молодые офицеры-националисты, которые были убеждены в том, что побороть в стране политическую коррупцию и крайнюю бедность в сельской местности можно лишь путём устранения нескольких высших политиков…<br />",
+        "slogan": "",
+        "premiere": "15 января 1980",
+        "age": "0",
+        "time": "9000",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmM0YWJjMTgtOTQwZS00NGJhLWJkNmQtNzhiOTNhOTYxZDllL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQyMTQzMjM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "7",
+          "vote_num_imdb": "30"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "147089",
       "date": "1602063993",
       "camrip": "0",
@@ -204,7 +554,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1111258.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "88",
+          "vote_num_kp": "89",
           "rating_imdb": "4.9",
           "vote_num_imdb": "1536"
         }
@@ -274,7 +624,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1196157.jpg",
         "rating": {
           "rating_kp": "6.637",
-          "vote_num_kp": "5548",
+          "vote_num_kp": "5566",
           "rating_imdb": "6.4",
           "vote_num_imdb": "8843"
         }
@@ -591,7 +941,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1257505.jpg",
         "rating": {
           "rating_kp": "5.379",
-          "vote_num_kp": "1031",
+          "vote_num_kp": "1032",
           "rating_imdb": "5.7",
           "vote_num_imdb": "3740"
         }
@@ -626,7 +976,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_412.jpg",
         "rating": {
           "rating_kp": "7.2",
-          "vote_num_kp": "11685",
+          "vote_num_kp": "11693",
           "rating_imdb": "8",
           "vote_num_imdb": "395216"
         }
@@ -661,7 +1011,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2217.jpg",
         "rating": {
           "rating_kp": "7.713",
-          "vote_num_kp": "45636",
+          "vote_num_kp": "45655",
           "rating_imdb": "7.6",
           "vote_num_imdb": "270491"
         }
@@ -906,7 +1256,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1043758.jpg",
         "rating": {
           "rating_kp": "8.049",
-          "vote_num_kp": "200258",
+          "vote_num_kp": "200399",
           "rating_imdb": "8.6",
           "vote_num_imdb": "566966"
         }
@@ -976,7 +1326,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2906.jpg",
         "rating": {
           "rating_kp": "6.387",
-          "vote_num_kp": "10539",
+          "vote_num_kp": "10541",
           "rating_imdb": "5.8",
           "vote_num_imdb": "70064"
         }
@@ -1048,7 +1398,7 @@
           "rating_kp": "6.822",
           "vote_num_kp": "110032",
           "rating_imdb": "6",
-          "vote_num_imdb": "243372"
+          "vote_num_imdb": "243403"
         }
       }
     },
@@ -1081,7 +1431,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1275268.jpg",
         "rating": {
           "rating_kp": "4.633",
-          "vote_num_kp": "1507",
+          "vote_num_kp": "1509",
           "rating_imdb": "4.5",
           "vote_num_imdb": "3844"
         }
@@ -1186,9 +1536,9 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BYzE3ZmNiMzAtZGE1My00NzllLWI0NTItNDIwNDAyNjVkNmQ3XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "35",
+          "vote_num_kp": "36",
           "rating_imdb": "6",
-          "vote_num_imdb": "822"
+          "vote_num_imdb": "858"
         }
       }
     },
@@ -1258,7 +1608,7 @@
           "rating_kp": "7.047",
           "vote_num_kp": "27230",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "165100"
+          "vote_num_imdb": "165122"
         }
       }
     },
@@ -1290,8 +1640,8 @@
         "time": "5700",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1246571.jpg",
         "rating": {
-          "rating_kp": "6.082",
-          "vote_num_kp": "2698",
+          "rating_kp": "6.083",
+          "vote_num_kp": "2700",
           "rating_imdb": "5.3",
           "vote_num_imdb": "735"
         }
@@ -1326,7 +1676,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_778654.jpg",
         "rating": {
           "rating_kp": "5.112",
-          "vote_num_kp": "850",
+          "vote_num_kp": "851",
           "rating_imdb": "4.8",
           "vote_num_imdb": "2867"
         }
@@ -1453,9 +1803,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_928993.jpg",
         "rating": {
           "rating_kp": "6.755",
-          "vote_num_kp": "19117",
+          "vote_num_kp": "19132",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "13767"
+          "vote_num_imdb": "13774"
         }
       }
     },
@@ -1522,360 +1872,10 @@
         "time": "1200",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1030001.jpg",
         "rating": {
-          "rating_kp": "7.548",
-          "vote_num_kp": "288",
+          "rating_kp": "7.557",
+          "vote_num_kp": "290",
           "rating_imdb": "7.7",
           "vote_num_imdb": "1973"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1281924",
-      "date": "1601908246",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Созданный в Бездне: Рассвет глубокой души",
-        "orig": "Made in Abyss: Fukaki Tamashii no Reimei",
-        "alter": "",
-        "year": "2020",
-        "country": "Япония",
-        "director": "Масаюки Кодзима",
-        "genre": "аниме,мультфильм,детектив,приключения,фантастика,фэнтези",
-        "actors": "Мию Томита,Мария Исэ,Сиори Идзава,Инори Минасэ,Саяка Охара,Тэцу Инада,Эри Китамура,Нацуко Хара,Синдзи Кавада,Ёсимицу Симояма",
-        "description": "",
-        "slogan": "",
-        "premiere": "17 января 2020",
-        "age": "0",
-        "time": "6780",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1281924.jpg",
-        "rating": {
-          "rating_kp": "8.021",
-          "vote_num_kp": "1930",
-          "rating_imdb": "8.1",
-          "vote_num_imdb": "1398"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1203400",
-      "date": "1601908243",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Терпящий неудачу",
-        "orig": "Caiga quien caiga",
-        "alter": "",
-        "year": "2018",
-        "country": "Перу",
-        "director": "Eduardo Guillot",
-        "genre": "триллер",
-        "actors": "Мигель Иса,Эдуардо Камино,Хавьер Валдес,Gonzalo Molina,Alfonso Dibos,Жаклин Васкес,José Miguel Arbulú,Kukuli Morante,Карина Хордан,Марселло Ривера",
-        "description": "Фильм, основанный на мемуарах прокурора Хосе Угаса, игра в кошки-мышки вокруг громкого расследования незаконной деятельности Владимиро Монтесиноса, изворотливого главы тайной полиции Перу и ближайшего советника президента Альберто Фухимори.",
-        "slogan": "",
-        "premiere": "23 августа 2018",
-        "age": "0",
-        "time": "5880",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOGI5YTA0OTktYTA0ZC00MGJkLWFjZDAtMmFkMmMyNTcyNzFkXkEyXkFqcGdeQXVyMjIyNzYyMA@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "39"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1036813",
-      "date": "1601908238",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Невидимая сеть: обнажёнка",
-        "orig": "Deep Web XXX",
-        "alter": "",
-        "year": "2018",
-        "country": "Италия,Великобритания",
-        "director": "Домициано Кристофаро,Elisa Carrera Fumagalli,Martyna Madej",
-        "genre": "ужасы,фэнтези,триллер",
-        "actors": "Мартин В. Пэйн,Elisa Carrera Fumagalli,Марк Томпсон-Эшворт,Robbie Hampstead,Giorgio Agri",
-        "description": "Серия коротких, но до жути тошнотворных видеоклипов, собранных из Невидимой сети.",
-        "slogan": "",
-        "premiere": "10 марта 2018",
-        "age": "0",
-        "time": "4560",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYTY0M2JjOTItMjQ0Ni00NTBiLThjYTEtMGQwZjRkOGJjZjIyXkEyXkFqcGdeQXVyMTk0ODc5Mzg@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "11",
-          "rating_imdb": "4.1",
-          "vote_num_imdb": "59"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1175669",
-      "date": "1601908231",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Снежный человек во льдах",
-        "orig": "Frozen Sasquatch",
-        "alter": "",
-        "year": "2018",
-        "country": "Канада,США",
-        "director": "Марк Полония",
-        "genre": "ужасы",
-        "actors": "Titus Himmelberger,Natalie Hallead,Noyes J. Lawton,James Carolus,Steve Diasparra,Тим Хэтч,Jeff Kirkendall,Jamie Morgan",
-        "description": "Группа учёных из США, проводящая исследования в научном центра на вершине Гималаев, внезапно перестаёт выходить на связь. Спасательная группа, отправленная к ним на помощь, обнаруживает на подходах к базе следы неведомого науке существа, но решает не прерывать операцию и спасти своих коллег любой ценой.",
-        "slogan": "",
-        "premiere": "19 июля 2018",
-        "age": "0",
-        "time": "4380",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNTcxMWVkMDEtMTQxNC00ZWZjLWFhZDUtMDhlNjFlZTliY2Y0XkEyXkFqcGdeQXVyODAzOTQwMzQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "6",
-          "rating_imdb": "3.1",
-          "vote_num_imdb": "71"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1178734",
-      "date": "1601908226",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Двухголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Грайндсплуатация 666",
-        "orig": "Grindsploitation 666",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания",
-        "director": "Тони Ньютон,David Black,Michael Leo Centi",
-        "genre": "ужасы",
-        "actors": "Ллойд Кауфман,Логан Фрай,Дона Ли Хейсинг,Aleister Kapsaski,Алекс Рид,Kasper Meltedhair,Ryan Cubbage,Ross Heath,Chris John Livermore,Тони Ньютон",
-        "description": "Короткомертражки в жанре ужасов на фантастические и оккультные темы с ретро-видеовставками из автокинотеатров.",
-        "slogan": "",
-        "premiere": "1 октября 2018",
-        "age": "0",
-        "time": "7800",
-        "poster": "https://m.media-amazon.com/images/M/MV5BODFlNmU1Y2YtMTY5Ni00ZWIwLTk5MjktMzc4NjZhN2IzZjkwXkEyXkFqcGdeQXVyMjc4NzY1MTM@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "6",
-          "rating_imdb": "3.7",
-          "vote_num_imdb": "72"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1201433",
-      "date": "1601908221",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Шнурки на Рождество",
-        "orig": "Shoelaces for Christmas",
-        "alter": "",
-        "year": "2018",
-        "country": "Канада",
-        "director": "Крэйг Клайд",
-        "genre": "мелодрама,комедия,семейный",
-        "actors": "Эйден Бигли,Брайс Бишоп,Бэйли Чейз,Остин Р. Грант,Мария Джулиан,Пол Кирнан,Айви Ллойд,Summer Mitchell,Джессика Моррис,Sam Smith",
-        "description": "Дженнифер мечтает стать дизайнером и обожает всё, что связано с модой. Отец недоволен её поверхностным и эгоистичным отношением к жизни. Он отправляет её работать в приют для бездомных, где Дженнифер ждут неожиданные впечатления и новые знакомства. А одна юная жительница приюта заставит её понять, как на самом деле важны любовь, семья и Рождество.",
-        "slogan": "A self-absorbed teenager learns the true meaning of Christmas spirit through the support of her family and an unexpected encounter with a very special young girl",
-        "premiere": "2 декабря 2018",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNDAyYzY0ZGItODAzOC00YjlkLWJhNzMtOGQ5ZDY5ODQ4NmMzXkEyXkFqcGdeQXVyODA3NTIyMjM@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "8",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "239"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1259272",
-      "date": "1601908216",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Горничная",
-        "orig": "The Maid",
-        "alter": "",
-        "year": "2020",
-        "country": "Таиланд",
-        "director": "Lee Thongkham",
-        "genre": "ужасы,фэнтези,триллер,драма,детектив",
-        "actors": "Плой Сорнарин,Савика Чайдей,Kannaporn Puangtong,Theerapat Sajakul,Ratchanok Suwannaket,Keetapat Pongrue,Натани Ситтисаман,Venus Saksiri,Sorabodee Changsiri,Ounruan Rachote",
-        "description": "Джой нанимается горничной в дом богатой семьи и начинает присматривать за их дочерью, страдающей душевным расстройством. Но вскоре девушку начинает преследовать призрак таинственной женщины, который кроме неё видит только её малолетняя подопечная. Джой решает разобраться в причинах появления призрака, однако, незаметно для себя, оказывается втянута в зловещую историю благородного семейства.",
-        "slogan": "",
-        "premiere": "9 июля 2020",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNDEwMGEwMzMtMTYzOC00NDA1LTgzZjMtYzM3ZGRjZTkzMGFjXkEyXkFqcGdeQXVyMTA5NzUzODM4.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "97",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "469"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1127372",
-      "date": "1601908211",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Томирис",
-        "orig": "Tomiris",
-        "alter": "",
-        "year": "2019",
-        "country": "Казахстан",
-        "director": "Акан Сатаев",
-        "genre": "драма,история",
-        "actors": "Альмира Турсын,Адиль Ахметов,Еркебулан Дайыров,Берик Айтжанов,Азамат Сатыбалды,Гассан Массуд,Илез Бадургов,Мурат Бисенбин,Аян Утепберген,Асылхан Толепов",
-        "description": "Среди древних народов, населявших просторы Евразии, особо выделялись племена, называющие себя саками. Это были кочевники и великие воины степи. Начинается история с краткого жизнеописания отца Томирис – царя Спаргапа. Спаргап, имея право на царский трон, вовлечён в войну между родами саков – массагетов. Влиятельные вожди, среди которых выделяются алчные и хитроумные Каваз и Куртун, не спешат объединяться под единой властью, отстаивая свои интересы. Спаргап мечом и словом пытается объединить степные племена. В это тревожное время у него рождается дочь – Томирис. Её мать, Бопай, которую Спаргап очень любил, умирает при родах. Забота и воспитание ложатся на него, и Томирис с раннего возраста познаёт тяготы походной жизни и воинского быта.\r\n\r\nВероломные Каваз и Куртун устраивают заговор в результате чего Спаргап погибает. В степи опять наступает раздор и междоусобица. Маленькой Томирис удаётся уйти от убийц с верными людьми Спаргапа. За её голову негласно объявлена награда.\r\n\r\nТомирис растет, скрываясь в лесах и живя охотой. Теперь ее цель вернуть законный трон и объединить степные племена. Но Томирис и не подозревает, что ей придется столкнуться с более могущественной угрозой, которая может стереть с лица земли всех саков...",
-        "slogan": "Царица, рожденная возвеличить степь",
-        "premiere": "1 октября 2019",
-        "age": "0",
-        "time": "9300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1127372.jpg",
-        "rating": {
-          "rating_kp": "7.122",
-          "vote_num_kp": "9922",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "35231"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "717750",
-      "date": "1601908207",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Двухголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Я научу тебя любить",
-        "orig": "Sarangeul gareuchyeo deuripnida",
-        "alter": "",
-        "year": "2010",
-        "country": "Корея Южная",
-        "director": "Квон Сон-чхан",
-        "genre": "мелодрама,комедия",
-        "actors": "Ким Гю-ри,Ки Тхэ-ён,Ян Джин-у,Ли Сон-мин,Хён У,Чхве Джэ-хван",
-        "description": "Спустя 12 лет безответной любви Ли Джин-и решила обратиться к консультанту по свиданиям Квон Тхэ-джуну. Ей оказали не особо радужный прием, так как она обратилась в фирму, консультирующую мужчин, но в связи с кризисом и проблемами с привлечением новых клиентов босс решил, что это неплохая возможность для дальнейшего развития бизнеса.",
-        "slogan": "",
-        "premiere": "10 октября 2010",
-        "age": "0",
-        "time": "4800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_717750.jpg",
-        "rating": {
-          "rating_kp": "7.81",
-          "vote_num_kp": "350",
-          "rating_imdb": "7",
-          "vote_num_imdb": "47"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "754481",
-      "date": "1601906005",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Форсаж 7",
-        "orig": "Furious Seven",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Джеймс Ван",
-        "genre": "боевик,триллер,криминал",
-        "actors": "Вин Дизель, Пол Уокер, Джейсон Стэйтем, Мишель Родригес, Дуэйн Джонсон, Тайриз Гибсон, Лудакрис, Натали Эммануэль, Джордана Брюстер, Курт Рассел",
-        "description": "Они покорили Токио и Рио, Лос-Анджелес и Лондон. Но мир больше не играет по их правилам. Зной арабских пустынь, неприлично высокие небоскребы, миллионы долларов на колесах и очень, очень знаменитый злодей. Скорость не знает границ.",
-        "slogan": "Месть не знает границ",
-        "premiere": "16 марта 2015",
-        "age": "16",
-        "time": "8220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_754481.jpg",
-        "rating": {
-          "rating_kp": "7.008",
-          "vote_num_kp": "168309",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "360560"
         }
       }
     }

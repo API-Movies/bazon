@@ -2,6 +2,477 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "501861",
+      "date": "1593004123",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "FOX",
+      "max_qual": "720",
+      "last_season": "5",
+      "last_episode": "16",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720
+        },
+        "2": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720,
+          "14": 720,
+          "15": 720,
+          "16": 720
+        },
+        "3": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720,
+          "14": 720,
+          "15": 720,
+          "16": 720
+        },
+        "4": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720,
+          "14": 720,
+          "15": 720,
+          "16": 720
+        },
+        "5": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720,
+          "14": 720,
+          "15": 720,
+          "16": 720
+        }
+      },
+      "info": {
+        "rus": "Тайные связи",
+        "orig": "Covert Affairs",
+        "alter": "",
+        "year": "2010",
+        "country": "США",
+        "director": "Стефен Т. Кэй, Феликс Энрикез Алькала, Аллен Крокер",
+        "genre": "боевик,триллер,детектив,драма,криминал,сериал",
+        "actors": "Пайпер Перабо, Кристофер Горам, Кари Матчетт, Питер Галлахер, Хилл Харпер, Энн Дудек, Сендхил Рамамурти, Дилан Тейлор, Грегори Итцин, Ник Бишоп",
+        "description": "Главная героиня сериала - Энни Уокер, стажер ЦРУ. Энни свободно владеет шестью языками и добивается успеха в любом деле...",
+        "slogan": "Single woman. Double life",
+        "premiere": "5 сентября 2011",
+        "age": "16",
+        "time": "2580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_501861.jpg",
+        "rating": {
+          "rating_kp": "7.058",
+          "vote_num_kp": "2386",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "26770"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1260090",
+      "date": "1593004081",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        }
+      },
+      "info": {
+        "rus": "Секта",
+        "orig": "Секта",
+        "alter": "",
+        "year": "2019",
+        "country": "Россия",
+        "director": "Гела Баблуани",
+        "genre": "драма,триллер",
+        "actors": "Светлана Ходченкова,Евгений Коряковский,Филипп Янковский,Анастасия Чистякова,Павел Кузьмин,Григорий Сиятвинда,Екатерина Волкова,Марта Тимофеева,Алексей Суренский,Игорь Шаройко",
+        "description": "Специалисты по выводу людей из культов, депрограммеры, получают заказ на освобождение девушки Ники – экс-модели, звезды рекламных роликов из секты «Первозданных». Методы депрограммеров крайне жесткие – на грани психологического и даже физического насилия. Для ухода за Никой депрограммеры нанимают сиделку Лилю. Но все идет не по плану, когда могущественный лидер секты объявляет настоящую войну депрограммерам и готов на все, чтобы вернуть Нику.",
+        "slogan": "",
+        "premiere": "23 мая 2019",
+        "age": "18",
+        "time": "2400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1260090.jpg",
+        "rating": {
+          "rating_kp": "6.32",
+          "vote_num_kp": "3000",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "46"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "24923",
+      "date": "1592996407",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Чарли",
+        "orig": "Charly",
+        "alter": "",
+        "year": "1968",
+        "country": "США",
+        "director": "Ральф Нельсон",
+        "genre": "фантастика,драма,мелодрама",
+        "actors": "Клифф Робертсон,Клэр Блум,Лилия Скала,Леон Дженни,Рут Уайт,Дик Ван Паттен,Эдвард МакНалли,Барни Мартин,Уильям Двайер,Дэн Морган",
+        "description": "Чарли Гордон имеет тело взрослого человека, но мозг ребенка. По результатам тестов в интеллектуальном развитии его превосходит даже мышь. Но экспериментальная операция дает ему мозг, соответствующий его возрасту. Чарли очень быстро учится контролировать свои импульсы и порывы&#133;",
+        "slogan": "A less than ordinary man is turned into a genius. He awakens to an exquisite love experience, but at an impossible price for CHARLY",
+        "premiere": "23 сентября 1968",
+        "age": "0",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_24923.jpg",
+        "rating": {
+          "rating_kp": "6.604",
+          "vote_num_kp": "1357",
+          "rating_imdb": "7",
+          "vote_num_imdb": "6226"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "714101",
+      "date": "1592996404",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Пало-Альто",
+        "orig": "Palo Alto",
+        "alter": "",
+        "year": "2013",
+        "country": "США",
+        "director": "Джиа Коппола",
+        "genre": "драма",
+        "actors": "Джек Килмер, Нат Вулф, Эмма Робертс, Оливия Крочиккия, Клаудия Леви, Джеймс Франко, Вэл Килмер, Жак Гетти, Эндрю Лютеран, Бо Митчелл",
+        "description": "История о группе подростков, которые постоянно находят неприятности.",
+        "slogan": "In every city some seek love, some look for trouble, others look for both",
+        "premiere": "29 августа 2013",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_714101.jpg",
+        "rating": {
+          "rating_kp": "6.653",
+          "vote_num_kp": "11506",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "27479"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1890",
+      "date": "1592995504",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Защищая твою жизнь",
+        "orig": "Defending Your Life",
+        "alter": "",
+        "year": "1991",
+        "country": "США",
+        "director": "Альберт Брукс",
+        "genre": "комедия,фэнтези,драма",
+        "actors": "Альберт Брукс, Мэрил Стрип, Рип Торн, Майкл Даррел, Джеймс Экхаус, Гари Бич, Джули Кобб, Питер Шак, Тайм Уинтерс, Шарли Стюарт",
+        "description": "Что происходит с нами после того, как мы умираем? Внятного ответа не даст никто. Тем более, что этот вопрос меньше всего интересовал нашего героя, Дэниэла Миллера, когда он вальяжно колесил по бульвару Лос-Анджелеса на своём новеньком «БМВ», слушая, как Барбара Стрейзанд поёт о том, что «что-то грядёт».\r\n\r\nИ, надо заметить, что Стрейзанд не обманула бедолагу Миллера: этим «что-то» оказался автобус, после сокрушительного столкновения с которым, Дэниэл сразу отправился на тот свет. Но самое смешное, что проблемы героя ещё только начинались! Кто бы мог подумать, что на том свете, в Городе Страшного суда, где Дэниэлу предстоит основательное юридическое разбирательство за деяния прошлой жизни, герой встретит прекрасную женщину по имени Джулия, которая станет любовью всей его... смерти! Вот это жизнь, дорогие зрители!\r\n\r\n Впрочем, одно ясно наверняка - посмеяться после смерти будет над чем!",
+        "slogan": "The first true story of what happens after you die",
+        "premiere": "22 марта 1991",
+        "age": "12",
+        "time": "6720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1890.jpg",
+        "rating": {
+          "rating_kp": "7.088",
+          "vote_num_kp": "1106",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "17097"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "25246",
+      "date": "1592995501",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Бойня номер пять",
+        "orig": "Slaughterhouse-Five",
+        "alter": "",
+        "year": "1972",
+        "country": "США",
+        "director": "Джордж Рой Хилл",
+        "genre": "комедия,фантастика,драма,военный",
+        "actors": "Майкл Сакс, Рон Лайбмен, Юджин Роч, Шэрон Гэнс, Валери Перрайн, Холли Нир, Перри Кинг, Кевин Конуэй, Фридрих фон Ледебур, Эккехардт Белле",
+        "description": "Главный герой ленты Билли Пилигрим, слегка «отмороженный» джентльмен, совершающий путешествия во времени и пространстве. Мы увидим его приключения на войне, умильную пенсионную прострацию и появление на загадочной планете Тральфамадор, где таинственные пришельцы наблюдают за жизнью Билли из своего четвертого измерения!",
+        "slogan": "He survived the deadliest day on Earth! To enjoy the sexiest night in outer space!",
+        "premiere": "15 марта 1972",
+        "age": "16",
+        "time": "6240",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_25246.jpg",
+        "rating": {
+          "rating_kp": "6.863",
+          "vote_num_kp": "1503",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "12198"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "18009",
+      "date": "1592994611",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дуэль на Силвер-Крик",
+        "orig": "The Duel at Silver Creek",
+        "alter": "",
+        "year": "1952",
+        "country": "США",
+        "director": "Дон Сигел",
+        "genre": "вестерн",
+        "actors": "Оди Мерфи,Фэйт Домерг,Стефен МакНалли,Сюзан Кэбот,Джералд Мор,Юджин Иглесиас,Джеймс Андерсон,Уолтер Сэнд,Ли Марвин,Джордж Элдридж",
+        "description": "Прославленный герои воины наносит решительный удар. Стивен МакНэлли в роли Лайтнинга, энергичного начальника полицейского участка в Силвер Сити. Главная цель Лайтнинга &#151; задержать банду безжалостных преступников, терроризирующих и убивающих местных шахтеров, среди которых его лучший друг.\r\n\r\nВ одной из перестрелок Лайтнинг теряет способность пользоваться указательным пальцем и, соответственно, свое блестящее умение владеть оружием. Он обращается за помощью в поимке преступников к знаменитому стрелку Силверу Киду &#151; его отец погиб от рук бандитов.\r\n\r\nОднако осуществление их совместного плана усложняется, когда Лайтинг влю6ляется в красавицу, недавно приехавшую в город. Женщина ведет собственную опасную игру, и ее интерес к начальнику полиции &#151; всего лишь хитрая уловка.",
+        "slogan": "Gun Against Gun For The Rule Of The Town!",
+        "premiere": "1 августа 1952",
+        "age": "16",
+        "time": "4620",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_18009.jpg",
+        "rating": {
+          "rating_kp": "6.273",
+          "vote_num_kp": "126",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "1410"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1313150",
+      "date": "1592980100",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Водохранилище",
+        "orig": "Réservoir",
+        "alter": "",
+        "year": "2019",
+        "country": "Канада",
+        "director": "Kim St-Pierre",
+        "genre": "драма",
+        "actors": "Марко Коллин,Максим Дюмонтье,Jean-Simon Leduc",
+        "description": "Двое братьев отправляются в путешествие на живописное водохранилище, чтобы почтить память своего покойного отца и развеять его прах в дорогом его сердцу месте.",
+        "slogan": "After their father's tragic death, Simon and Jonathan venture on the Gouin Reservoir, expecting to give their beloved father the tribute he deserves",
+        "premiere": "6 декабря 2019",
+        "age": "0",
+        "time": "5220",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDE2M2VmMzUtNzdhMy00MDg5LWFjOTMtZGZlOGEzM2ZiMDhhXkEyXkFqcGdeQXVyNTkyNjU5MjI@._V1_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "15"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1216381",
+      "date": "1592979950",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Обитатели: Проклятье пастора Стоукса",
+        "orig": "Dwellers: The Curse of Pastor Stokes",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "DeShon Hardy",
+        "genre": "ужасы",
+        "actors": "Тина Краузе,Stacey Giambastiani,Alan Bendich,Стэн Адамс,Tiffanny Anne Brown,Caitlin Clark,Mickey Deymon,Тина Йеттер,Jessica Francis,Carrie Plumley",
+        "description": "Куда отправляются злые духи, изгнанные во время экзорцизма? Кто-то считает, что они следуют за священниками и поселяются в церкви, откуда начинают охоту за новыми жертвами. Прихожанам церкви пастора Стоукса предстоит осознать это на своей шкуре.",
+        "slogan": "When you exorcise your demons, where do they go?",
+        "premiere": "",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWVlOGJiYjYtZDM4Zi00OWQ5LTg0MTgtNGFlOTNkMThjMTFkXkEyXkFqcGdeQXVyMTIzOTU5MTE@._V1_SY1000_CR0,0,772,1000_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "3.5",
+          "vote_num_imdb": "57"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1313574",
+      "date": "1592979826",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "12",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 720,
+          "11": 720,
+          "12": 720
+        }
+      },
+      "info": {
+        "rus": "Моя реинкарнация в отомэ-игру в качестве главной злодейки",
+        "orig": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
+        "alter": "",
+        "year": "2020",
+        "country": "Япония",
+        "director": "Кэисукэ Иноэ",
+        "genre": " аниме,мультфильм,мелодрама,комедия,фэнтези,приключения",
+        "actors": "Маая Утида,Сёта Аои,Тацухиса Судзуки,Тэцуя Какихара,Сора Амамия,Мао Итимити,Ёсицугу Мацуока,Асами Сэто,Муцуми Тамура,Инори Минасэ",
+        "description": "Восьмилетняя Катарина Клас, единственная дочь герцога, однажды ударяется головой о камень и вспоминает, что на самом деле она была отаку и умерла по дороге в школу после ночи, проведенной за игрой в симулятор свиданий Fortune Lover. Заметив, что ее нынешнее окружение кажется странно знакомым, Катарина с ужасом осознает, что она теперь - главная злодейка в любимой игре.",
+        "slogan": "",
+        "premiere": "5 апреля 2020",
+        "age": "0",
+        "time": "1440",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1313574.jpg",
+        "rating": {
+          "rating_kp": "7.007",
+          "vote_num_kp": "614",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "362"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1126986",
       "date": "1592955010",
       "camrip": "0",
@@ -460,10 +931,10 @@
         "time": "3420",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1192866.jpg",
         "rating": {
-          "rating_kp": "6.409",
-          "vote_num_kp": "2108",
+          "rating_kp": "6.407",
+          "vote_num_kp": "2111",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "1948"
+          "vote_num_imdb": "1958"
         }
       }
     },
@@ -512,7 +983,7 @@
           "rating_kp": "7.418",
           "vote_num_kp": "25009",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "72583"
+          "vote_num_imdb": "72613"
         }
       }
     },
@@ -544,7 +1015,7 @@
         "time": "7320",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_558075.jpg",
         "rating": {
-          "rating_kp": "6.818",
+          "rating_kp": "6.819",
           "vote_num_kp": "11153",
           "rating_imdb": "6.6",
           "vote_num_imdb": "5075"
@@ -650,7 +1121,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_723366.jpg",
         "rating": {
           "rating_kp": "4.907",
-          "vote_num_kp": "866",
+          "vote_num_kp": "868",
           "rating_imdb": "4.7",
           "vote_num_imdb": "910"
         }
@@ -755,9 +1226,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_893245.jpg",
         "rating": {
           "rating_kp": "7.397",
-          "vote_num_kp": "82803",
+          "vote_num_kp": "82904",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "127070"
+          "vote_num_imdb": "127116"
         }
       }
     },
@@ -824,8 +1295,8 @@
         "time": "6360",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_893535.jpg",
         "rating": {
-          "rating_kp": "5.235",
-          "vote_num_kp": "6467",
+          "rating_kp": "5.237",
+          "vote_num_kp": "6483",
           "rating_imdb": "5.3",
           "vote_num_imdb": "15063"
         }
@@ -895,7 +1366,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5888.jpg",
         "rating": {
           "rating_kp": "5.225",
-          "vote_num_kp": "1893",
+          "vote_num_kp": "1894",
           "rating_imdb": "6.4",
           "vote_num_imdb": "26149"
         }
@@ -964,10 +1435,10 @@
         "time": "6720",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_561.jpg",
         "rating": {
-          "rating_kp": "6.979",
-          "vote_num_kp": "2078",
+          "rating_kp": "6.981",
+          "vote_num_kp": "2082",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "32055"
+          "vote_num_imdb": "32090"
         }
       }
     },
@@ -1220,9 +1691,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_582358.jpg",
         "rating": {
           "rating_kp": "7.386",
-          "vote_num_kp": "69307",
+          "vote_num_kp": "69344",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "256841"
+          "vote_num_imdb": "256894"
         }
       }
     },
@@ -1464,8 +1935,8 @@
         "time": "8100",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_957914.jpg",
         "rating": {
-          "rating_kp": "6.003",
-          "vote_num_kp": "8311",
+          "rating_kp": "6.005",
+          "vote_num_kp": "8349",
           "rating_imdb": "4.3",
           "vote_num_imdb": "117"
         }
@@ -1503,436 +1974,6 @@
           "vote_num_kp": "323",
           "rating_imdb": "6.4",
           "vote_num_imdb": "207"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1115422",
-      "date": "1592856913",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "720",
-      "info": {
-        "rus": "Война снайпера",
-        "orig": "Война снайпера",
-        "alter": "",
-        "year": "2018",
-        "country": "США,Украина,Россия",
-        "director": "Ольга Шехтер",
-        "genre": "документальный",
-        "actors": "",
-        "description": "Антиамериканские взгляды привели снайпера Деки на войну на Востоке Украины. Сейчас его жизнь под угрозой &#151; в социальных сетях ему назначена &laquo;дуэль&raquo; со стороны противника. \r\n\r\n Находясь на передовой вместе со своим героем, режиссер проникает в сложную личность человека, который каждый день ходит по лезвию ножа. Кто же Деки на самом деле &#151; жертва обстоятельств, солдат или просто убийца?",
-        "slogan": "",
-        "premiere": "26 июня 2018",
-        "age": "16",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115422.jpg",
-        "rating": {
-          "rating_kp": "7.03",
-          "vote_num_kp": "560",
-          "rating_imdb": "2.3",
-          "vote_num_imdb": "7577"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1076531",
-      "date": "1592855214",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ублюдок",
-        "orig": "Bastaard",
-        "alter": "",
-        "year": "2019",
-        "country": "Бельгия",
-        "director": "Mathieu Mortelmans",
-        "genre": "триллер",
-        "actors": "Спенсер Богерт,Lukas Bulteel,Коэн Де Боу,Сизар Де Саттер,Arne De Tremerie,Bjarne Devolder,Bruno Mazereel,Amir Motaffaf,Els Olaerts,Тине Реймер",
-        "description": "Два года назад брат главного героя Даана погиб. Семья так и не оправилась от потери. Внезапно мать главного героя решать приютить в доме мальчишку, котрого случайно сбивает на машине.",
-        "slogan": "Grief is a necessary evil",
-        "premiere": "2 октября 2019",
-        "age": "0",
-        "time": "6240",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjZmNmI3NWItZGQ3OS00MzUzLWFjNTEtMDM2MmZhMDc3MmJlXkEyXkFqcGdeQXVyMzgwNDg4NzY@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "31",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "159"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1231110",
-      "date": "1592848814",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Кукла клоун",
-        "orig": "ClownDoll",
-        "alter": "",
-        "year": "2019",
-        "country": "Великобритания",
-        "director": "Скотт Джеффри",
-        "genre": "драма",
-        "actors": "Сара Т. Коэн,Кейт Луш,Марк Сирс,Jon-Scott Clarke,Питер Косгров,Kelly Juvilee,Mike Kelson,Кассандра Френч,Kate Milner Evans,Hattie Willow",
-        "description": "После покупки куклы жизнь Лэйн изменилась к худшему, а её родные и друзья начали пропадать.",
-        "slogan": "",
-        "premiere": "21 октября 2019",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://m.media-amazon.com/images/M/MV5BY2NkN2RmMWMtNjFjNy00OGNhLThiNjgtMjgyYzcxYzY4ZjFiXkEyXkFqcGdeQXVyMjM4MTU4NjQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "3.1",
-          "vote_num_imdb": "110"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1238495",
-      "date": "1592848811",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Элиз",
-        "orig": "Elise",
-        "alter": "",
-        "year": "2019",
-        "country": "Филиппины",
-        "director": "Джон Элберт Феррер",
-        "genre": "мелодрама",
-        "actors": "Энчон Ди,Janine Gutierrez,Пилита Корралес,Джеки Лу Бланко,Мико Раваль,Эрин Окампо,Krystal Brimner,Geson Granado,Арчи Адамос,Алан Пауле",
-        "description": "Берт — сообразительный, но очень ранимый парень, который влюбляется в Элиз, сильную и независимую девушку. Они расстались, чтобы продолжить учебу, но встретились вновь, когда выросли.",
-        "slogan": "",
-        "premiere": "6 февраля 2019",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNjJmYTYzNjQtZWRjNy00N2FiLWFiMDctYjM4YzEwM2U0MTBjXkEyXkFqcGdeQXVyMTM4MjU1OTI@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "68"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1273165",
-      "date": "1592846454",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "TVShows",
-      "max_qual": "720",
-      "last_season": "1",
-      "last_episode": "6",
-      "episodes": {
-        "1": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720
-        }
-      },
-      "info": {
-        "rus": "Всё ещё мертвы",
-        "orig": "Dead Still",
-        "alter": "",
-        "year": "2020",
-        "country": "Ирландия,Канада,Германия",
-        "director": "Имоджен Мерфи,Крэйг Дэвид Уоллес",
-        "genre": "детектив,комедия,криминал",
-        "actors": "Майкл Смайли,Джимми Смоллхорн,Эйлин О’Хиггинс,Эйдан О’Харе,Керр Логан,Питер Кэмпион,Риз Данлоп,Марк Рендалл,Джордан Джонс,Ифа Даффин",
-        "description": "Фотограф Брок Бленнерхассет специализируется на посмертных снимках, которые ему заказывают родственники покойных – последний писк викторианской моды. Однако полиция Дублина начинает подозревать, что именно Брок убил всех тех, кого позже запечатлел. В попытке спасти свою репутацию фотограф организует собственное расследование.",
-        "slogan": "When death is in the picture, mysteries are sure to develop",
-        "premiere": "15 мая 2020",
-        "age": "0",
-        "time": "2700",
-        "poster": "https://m.media-amazon.com/images/M/MV5BM2I5OTJlODYtNmFiZi00ODBiLWIzYzktMGJkNmE0YTM2ZDY5XkEyXkFqcGdeQXVyMTAwMzM3NDI3.jpg",
-        "rating": {
-          "rating_kp": "6.423",
-          "vote_num_kp": "242",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "906"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "588761",
-      "date": "1592846438",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "SDI Media",
-      "max_qual": "1080",
-      "last_season": "3",
-      "last_episode": "14",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080,
-          "14": 1080,
-          "15": 1080,
-          "16": 1080,
-          "17": 1080,
-          "18": 1080,
-          "19": 1080,
-          "20": 1080,
-          "21": 1080,
-          "22": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080,
-          "14": 1080,
-          "15": 1080,
-          "16": 1080,
-          "17": 1080,
-          "18": 1080,
-          "19": 1080,
-          "20": 1080,
-          "21": 1080,
-          "22": 1080
-        },
-        "3": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 720,
-          "12": 720,
-          "13": 720,
-          "14": 720
-        }
-      },
-      "info": {
-        "rus": "Династия",
-        "orig": "Dynasty",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Мэтт Эрл Бисли, Майкл А. Алловиц, Паскаль Верскурис",
-        "genre": "драма,сериал",
-        "actors": "Элизабет Гиллис, Роберт Кристофер Райли, Рафаэль Де Ла Фуэнте, Сэм Адегоке, Алан Дэйл, Грант Шоу, Джеймс Маккэй, Николетт Шеридан, Wakeema Hollis, Натали Келли",
-        "description": "В центре сюжета - Кэррингтоны, состоятельная семья, владеющая нефтяным бизнесом, и противостояние богатой наследницы Фэллон Кэррингтон и её мачехи, испанки Кристал.",
-        "slogan": "Vicious. Ambitious. Delicious",
-        "premiere": "11 октября 2017",
-        "age": "0",
-        "time": "2520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_588761.jpg",
-        "rating": {
-          "rating_kp": "7.034",
-          "vote_num_kp": "7312",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "14939"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "954115",
-      "date": "1592842508",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Голодарь",
-        "orig": "Danjiki geinin",
-        "alter": "",
-        "year": "2016",
-        "country": "Япония",
-        "director": "Масао Адати",
-        "genre": "драма",
-        "actors": "Хироси Ямамото,Укан Абэта,Соити Хонда,Дзюри Ихата,Хироко Ито,Такацугу Ивама,Сакурако Каору,Санкити Кавамото,Сё Рюдзандзи,Таидзо Сакурай",
-        "description": "Человек объявляет голодовку и никто даже не знает её причин, он полностью отказывается от любой еды, чем вскоре привлекает внимание всей японской общественности. Фильм снят по мотивам одноименного произведения Кафки.",
-        "slogan": "",
-        "premiere": "27 февраля 2016",
-        "age": "0",
-        "time": "6240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_954115.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "32"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1274446",
-      "date": "1592835337",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Месть любой ценой",
-        "orig": "Revenge Ride",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Мелани Эйткенхеад",
-        "genre": "ужасы,триллер,криминал",
-        "actors": "Серинда Свон,Диего Бонета,Поллианна МакИнтош,Джейк Локетт,Vanessa Dubasso,Hank Brock,Реим Махмуд,Джон Д. Хикман,Джина Мари Ферраро,Rose Lane Sanfilippo",
-        "description": "Мэгги — жесткий и безжалостный член женской байкерской банды «Черная Луна», возглавляемой беспощадной Триггой. После того, как кузину Мэгги накачивают наркотиками парни на вечеринке, банда отправляется мстить.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "4440",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZTBiMDc3MTctY2FmZS00MWJhLWEwMTAtN2FiNjc3MzA5ZGJhXkEyXkFqcGdeQXVyMzEzMTg3NTI@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "17",
-          "rating_imdb": "3.7",
-          "vote_num_imdb": "246"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "461452",
-      "date": "1592814606",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Желтое море",
-        "orig": "Hwanghae",
-        "alter": "",
-        "year": "2010",
-        "country": "Корея Южная",
-        "director": "На Хон-джин",
-        "genre": "боевик,триллер,драма,криминал",
-        "actors": "Ха Джон-у, Ким Юн-сок, Чо Сон-ха, Ли Чхоль-мин, Квак То-вон, Ким Джэ-хва, Ли Хи-джун, Чо Ха-сок, Ким Ги-сок, Чон Ман-щик",
-        "description": "Граница России, Китая и Северной Кореи. Когда-то Ким Гу-нам приехал сюда на заработки, но проигрался, не может выбраться из долгов, живёт в нищете и постоянно думает о жене. Тут подворачивается возможность заработать - убить человека. Это его последний шанс, чтобы получить необходимую сумму и вернуться к жене.",
-        "slogan": "The only thing he must not have crossed",
-        "premiere": "22 декабря 2010",
-        "age": "18",
-        "time": "9420",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_461452.jpg",
-        "rating": {
-          "rating_kp": "7.199",
-          "vote_num_kp": "4794",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "19032"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "77434",
-      "date": "1592811002",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дочь Робин Гуда: Принцесса воров",
-        "orig": "Princess of Thieves",
-        "alter": "",
-        "year": "2001",
-        "country": "США",
-        "director": "Питер Хьюит",
-        "genre": "боевик,мелодрама,приключения,семейный",
-        "actors": "Ханна Крессвелл, Дэвид Баррасс, Малкольм МакДауэлл, Кира Найтли, Дель Синнотт, Стюарт Уилсон, Криспин Леттс, Роджер Эштон-Гриффитс, Джонатан Хайд, Адам Райан",
-        "description": "Пока благородный Робин Гуд верно служит британскому трону, его дочь, очаровательная юная Гвин не желает сидеть дома. В тайне от отца она научилась метко стрелять из лука и крепко сидеть в седле, и теперь эти навыки сослужат ей верную службу.\r\n\r\nПосле трагической смерти Ричарда Львиное Сердце коварный принц Джон бросает в тюрьму Робин Гуда и приказывает своим головорезам убить наследника престола принца Филиппа. Он намерен во что бы то ни стало завладеть короной, но его планы ловко сорвет отважная Гвин.\r\n\r\nПереодевшись юношей, она вместе с Филиппом переживет удивительные и опасные приключения, чтобы проникнуть в логово подлых врагов, вызволить из плена отца и жестоко покарать злобного принца Джона.",
-        "slogan": "If you thought Robin Hood broke all the rules, wait until you meet his daughter",
-        "premiere": "11 марта 2001",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77434.jpg",
-        "rating": {
-          "rating_kp": "6.299",
-          "vote_num_kp": "2000",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "3799"
         }
       }
     }

@@ -2,6 +2,356 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "808289",
+      "date": "1600685129",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Скуби-Ду! Нападение Меха-Пса",
+        "orig": "Scooby-Doo! Mecha Mutt Menace",
+        "alter": "",
+        "year": "2013",
+        "country": "США",
+        "director": "Майкл Гогуэн",
+        "genre": "мультфильм,короткометражка,семейный",
+        "actors": "Джули Боуэн,Лэйси Шабер,Минди Кон,Грэй Гриффин,Фил ЛаМарр,Мэттью Лиллард,Алан Рачинс,Пол Рубенс,Фрэнк Уэлкер",
+        "description": "Команде придется сразиться с Меха-Псом, революционным луноходом на радиоуправлении.",
+        "slogan": "",
+        "premiere": "24 сентября 2013",
+        "age": "0",
+        "time": "1320",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_808289.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "190",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "236"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "715092",
+      "date": "1600685104",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Маленькие негодяи спасают положение",
+        "orig": "The Little Rascals Save the Day",
+        "alter": "",
+        "year": "2014",
+        "country": "США",
+        "director": "Алекс Замм",
+        "genre": "комедия,семейный",
+        "actors": "Дорис Робертс, Грег Джерманн, Лекс Медлин, Валери Эзлинн, Джет Юргенсмейер, Дрю Джастис, Коннор Берри, Айзиа Фредерикс, Кемден Грэй, Дженна Ортега",
+        "description": "Серия комедийных фильмов о группе соседских мальчиков и девочек и об их приключениях вместе.",
+        "slogan": "",
+        "premiere": "25 марта 2014",
+        "age": "0",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_715092.jpg",
+        "rating": {
+          "rating_kp": "5.262",
+          "vote_num_kp": "313",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "1396"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "427429",
+      "date": "1600681422",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Фламандские натюрморты",
+        "orig": "De helaasheid der dingen",
+        "alter": "",
+        "year": "2009",
+        "country": "Бельгия, Нидерланды",
+        "director": "Феликс ван Грунинген",
+        "genre": "комедия,драма",
+        "actors": "Кеннет Ванбаден, Валентин Дененс, Кун Де Граве, Воутер Хендрикс, Йохан Хелденберг, Берт Халфут, Гилда Де Баль, Натали Броодс, Полин Гроссен, Софи Палмерс",
+        "description": "13-летний Гюнтер воспитывается в доме безропотной бабушки, где проживают его отец Пьер и трое дядьёв - Портель, Герман и Цворен. Великовозрастные шалопаи то и делают, что влипают в передряги в погоне за выпивкой и женщинами, и все это в круговороте отчаянного веселья, лени и тунеядства. Кем вырастет Гюнтер?",
+        "slogan": "",
+        "premiere": "16 мая 2009",
+        "age": "16",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_427429.jpg",
+        "rating": {
+          "rating_kp": "6.816",
+          "vote_num_kp": "834",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "10116"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "82096",
+      "date": "1600679957",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Вампирши-лесбиянки",
+        "orig": "Vampyros Lesbos",
+        "alter": "",
+        "year": "1971",
+        "country": "Германия (ФРГ),Испания",
+        "director": "Хесус Франко",
+        "genre": "ужасы,драма",
+        "actors": "Соледад Миранда,Деннис Прайс,Пауль Мюллер,Ева Штрёмберг,Хайдрун Куссин,Хосе Мартинес Бланко,Майкл Берлинг,Andrea Montchal,Хесус Франко,Бени Кардосо",
+        "description": "Графиня Надин Кароди была посвящена в вампиры самим Дракулой. Она ненавидит мужчин, поэтому влюбляется в Линду , приехавшую на ее остров по делам.",
+        "slogan": "A Psycho-Sexadelic Horror Freakout!",
+        "premiere": "15 июля 1971",
+        "age": "18",
+        "time": "5340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_82096.jpg",
+        "rating": {
+          "rating_kp": "5.016",
+          "vote_num_kp": "519",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "4270"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "243743",
+      "date": "1600676723",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Одноголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "И Ниночка снимает свои штанишки",
+        "orig": "Auch Ninotschka zieht ihr Höschen aus",
+        "alter": "",
+        "year": "1973",
+        "country": "Германия (ФРГ)",
+        "director": "Клаус Тинней",
+        "genre": "комедия",
+        "actors": "Ринальдо Таламонти,Эльма Карлова,Франц Мюксенедер,Юрген Файндт,Эрих Падалевски,Бритт Корвин,Александра Богоджевич,Кристина Ванка,Элизабет Фолькман,Карин Хеск",
+        "description": "Партия направляет Петра Чехова вместе с тремя передовицами труда на выставку в Мюнхен, чтобы продать предлагаемые Советским Союзом товары: меха, икру, водку и племенных свиней. Однако по прибытии на вокзал советскую делегацию принимают за направлявшихся в фешенебельный бордель мадам Меди девушек известного сутенера Фреда Хубера. Попав в публичный дом советские комсомолки вместе со своим энергичным руководителем нисколько не растерялись и быстро завоевали симпатии взыскательной публики. А вот подопечным Хубера, вынужденным занять места на выставочном стенде, пришлось гораздо тяжелее…",
+        "slogan": "",
+        "premiere": "5 октября 1973",
+        "age": "0",
+        "time": "4740",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_243743.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "80",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "27"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "82086",
+      "date": "1600676446",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Одноголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Интимный дневник нимфоманки",
+        "orig": "Le journal intime d'une nymphomane",
+        "alter": "",
+        "year": "1973",
+        "country": "Франция",
+        "director": "Хесус Франко",
+        "genre": "драма",
+        "actors": "Монтсеррат Пру,Анн Либер,Франциско Акоста,Жаклин Лорен,Мануэль Перейро,Кали Ханса,Дорис Томас,Говард Вернон,Хесус Франко,Кэролайн Ривьер",
+        "description": "Молодая проститутка Линда снимает в клубе пьяного клиента, приводит его в отель. Когда он засыпает от дюжины бутылок выпитого шампанского, она звонит в полицию, заявляет об убийстве и тут же перерезает себе горло. Прибывшие легавые находят труп и основательно пьяного гражданина, которого моментально препровождают за решетку по обвинению в убийстве.",
+        "slogan": "Linda Loves Her Work, And Her Work is Love",
+        "premiere": "21 июня 1973",
+        "age": "18",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_82086.jpg",
+        "rating": {
+          "rating_kp": "4.406",
+          "vote_num_kp": "153",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "388"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "49472",
+      "date": "1600676200",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Преданная красота",
+        "orig": "Beauty Betrayed",
+        "alter": "",
+        "year": "2002",
+        "country": "США",
+        "director": "Джон Куинн",
+        "genre": "драма,криминал",
+        "actors": "Сэмм Крофт,Брэд Бартрэм,Джастин Кэрролл,Анна де Карди,Девин Лейн,Кери Уиндсор,Миа Заттоли,Трэйси Райан,Стив Кертис,Рени Ри",
+        "description": "Кларк, строящий из себя классического бывалого детектива, расследует новое дело связанное с убийством модели по имени Лили. Его подружка, а по совместительству коллега по службе, коронер Джоди, всячески помогает советом и делом.",
+        "slogan": "",
+        "premiere": "6 июля 2002",
+        "age": "18",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_49472.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "44",
+          "rating_imdb": "4.6",
+          "vote_num_imdb": "138"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "77363",
+      "date": "1600675608",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Одноголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Эммануэль на Востоке",
+        "orig": "Emanuelle nera: Orient reportage",
+        "alter": "",
+        "year": "1976",
+        "country": "Италия",
+        "director": "Джо Д’Амато",
+        "genre": "драма,мелодрама",
+        "actors": "Лаура Гемсер,Габриэле Тинти,Эли Галлеани,Иван Рассимов,Венантино Венантини,Джакомо Росси Стюарт,Койке Махоко,Фаусто Ди Белла,Габи Буржуа,Крис Аврам",
+        "description": "Эмманюэль путешествует по свету, совмещая личные интересы с выполнением обязанностей фотокорреспондента. По прибытии в Таиланд она заводит знакомство с принцем, рассчитывая через него получить возможность сфотографировать самого короля. Но слишком близко Эмманюэль подобралась к государственным тайнам, и над ней нависает опасность...",
+        "slogan": "X Has Never Been Hotter!",
+        "premiere": "7 мая 1976",
+        "age": "18",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77363.jpg",
+        "rating": {
+          "rating_kp": "4.571",
+          "vote_num_kp": "114",
+          "rating_imdb": "4.3",
+          "vote_num_imdb": "836"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "8124",
+      "date": "1600675607",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Один дома",
+        "orig": "Home Alone",
+        "alter": "",
+        "year": "1990",
+        "country": "США",
+        "director": "Крис Коламбус",
+        "genre": "комедия,семейный",
+        "actors": "Маколей Калкин, Джо Пеши, Дэниел Стерн, Кэтрин О’Хара, Джон Хёрд, Робертс Блоссом, Джерри Бэммен, Девин Рэтрей, Джон Кэнди, Киран Калкин",
+        "description": "Американское семейство отправляется из Чикаго в Европу, но в спешке сборов бестолковые родители забывают дома... одного из своих детей. Юное создание, однако, не теряется и демонстрирует чудеса изобретательности. И когда в дом залезают грабители, им приходится не раз пожалеть о встрече с милым крошкой.",
+        "slogan": "When Kevin's Family Left For Vacation, They Forgot One Minor Detail: Kevin. But Don't Worry... He Cooks. He Cleans. He Kicks Some Butt",
+        "premiere": "10 ноября 1990",
+        "age": "12",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8124.jpg",
+        "rating": {
+          "rating_kp": "8.239",
+          "vote_num_kp": "536320",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "490652"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "53956",
+      "date": "1600675012",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Мне нравится играть в игры",
+        "orig": "I Like to Play Games",
+        "alter": "",
+        "year": "1995",
+        "country": "США",
+        "director": "Роберт Кубилос",
+        "genre": "драма",
+        "actors": "Лиза Бойл,Кен Стэдмен,James DiZazzo,Памела Дикерсон,Тосия Агата,Tom Druzbick,Дженнифер Бертон,Моника Ноэль,Бриттни Вонг,Cappuccino Moore",
+        "description": "Майкл решает затащить в постель свою новую коллегу, сексапильную Сюзанн. В результате они занимаются сексом в самых неожиданных местах, она частенько надевает на него наручники.  Сюзанн любит опасные игры, которые могут стоить Майклу карьеры.",
+        "slogan": "He works hard, she plays harder",
+        "premiere": "15 сентября 1995",
+        "age": "18",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_53956.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "68",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "867"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "31842",
       "date": "1600674460",
       "camrip": "0",
@@ -134,7 +484,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_81289.jpg",
         "rating": {
           "rating_kp": "7.08",
-          "vote_num_kp": "159264",
+          "vote_num_kp": "159293",
           "rating_imdb": "6.5",
           "vote_num_imdb": "417141"
         }
@@ -274,9 +624,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1238532.jpg",
         "rating": {
           "rating_kp": "5.985",
-          "vote_num_kp": "2181",
+          "vote_num_kp": "2184",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "40170"
+          "vote_num_imdb": "40217"
         }
       }
     },
@@ -311,7 +661,7 @@
           "rating_kp": "7.119",
           "vote_num_kp": "30673",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "94471"
+          "vote_num_imdb": "94585"
         }
       }
     },
@@ -380,8 +730,8 @@
         "rating": {
           "rating_kp": "0",
           "vote_num_kp": "22",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "117"
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "118"
         }
       }
     },
@@ -416,7 +766,7 @@
           "rating_kp": "8.312",
           "vote_num_kp": "350631",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "999166"
+          "vote_num_imdb": "999279"
         }
       }
     },
@@ -449,7 +799,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_676266.jpg",
         "rating": {
           "rating_kp": "7.259",
-          "vote_num_kp": "227261",
+          "vote_num_kp": "227353",
           "rating_imdb": "7.7",
           "vote_num_imdb": "740038"
         }
@@ -554,7 +904,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843859.jpg",
         "rating": {
           "rating_kp": "6.497",
-          "vote_num_kp": "232835",
+          "vote_num_kp": "232929",
           "rating_imdb": "6.9",
           "vote_num_imdb": "449895"
         }
@@ -589,7 +939,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_475.jpg",
         "rating": {
           "rating_kp": "7.87",
-          "vote_num_kp": "19869",
+          "vote_num_kp": "19870",
           "rating_imdb": "7.9",
           "vote_num_imdb": "124742"
         }
@@ -624,9 +974,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1209192.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "125",
+          "vote_num_kp": "126",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "513"
+          "vote_num_imdb": "515"
         }
       }
     },
@@ -867,9 +1217,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_421422.jpg",
         "rating": {
           "rating_kp": "7.814",
-          "vote_num_kp": "8769",
+          "vote_num_kp": "8773",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "8569"
+          "vote_num_imdb": "8568"
         }
       }
     },
@@ -904,7 +1254,7 @@
           "rating_kp": "7.083",
           "vote_num_kp": "222089",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "573794"
+          "vote_num_imdb": "573930"
         }
       }
     },
@@ -1042,7 +1392,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_58556.jpg",
         "rating": {
           "rating_kp": "7.756",
-          "vote_num_kp": "6330",
+          "vote_num_kp": "6331",
           "rating_imdb": "7.7",
           "vote_num_imdb": "3777"
         }
@@ -1112,7 +1462,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_938828.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "238",
+          "vote_num_kp": "239",
           "rating_imdb": "3.3",
           "vote_num_imdb": "127"
         }
@@ -1147,7 +1497,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1128267.jpg",
         "rating": {
           "rating_kp": "5.227",
-          "vote_num_kp": "548",
+          "vote_num_kp": "550",
           "rating_imdb": "5.4",
           "vote_num_imdb": "301"
         }
@@ -1217,7 +1567,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_797840.jpg",
         "rating": {
           "rating_kp": "7.566",
-          "vote_num_kp": "340409",
+          "vote_num_kp": "340521",
           "rating_imdb": "7.3",
           "vote_num_imdb": "412650"
         }
@@ -1392,7 +1742,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_223817.jpg",
         "rating": {
           "rating_kp": "5.661",
-          "vote_num_kp": "299",
+          "vote_num_kp": "300",
           "rating_imdb": "4.8",
           "vote_num_imdb": "605"
         }
@@ -1567,359 +1917,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_47423.jpg",
         "rating": {
           "rating_kp": "6.768",
-          "vote_num_kp": "1412",
+          "vote_num_kp": "1413",
           "rating_imdb": "5.8",
           "vote_num_imdb": "1680"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "129817",
-      "date": "1600525441",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Одноголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Горячая жевательная резинка 2: Постоянная подружка",
-        "orig": "Yotzim Kavua",
-        "alter": "",
-        "year": "1979",
-        "country": "Израиль, Германия (ФРГ)",
-        "director": "Боаз Дэвидсон",
-        "genre": "комедия,мелодрама",
-        "actors": "Ифтах Кацур, Ивонн Майклс, Цахи Ной, Рэйчел Стейнер, Йонатан Сэгаль, Дафна Армони, Двора Кедар, Менаш Варшавски, Джудит Корен, Яков Кац",
-        "description": "Бенци в поисках новой любви влюбляется с девушку по имени Тами. Тами становиться его постоянной подружкой. Это удается ему после длительного процесса ухаживания за ней. Его друзья - Момо и Юдале тоже обзаводятся постоянными подружками. На одной из вечеринок Браха, соблазняет Бенци. Момо не смог утаить эту тайну. Сердца Юдале и Тами разбиты. Момо же тут как тут, и начинает охмурять Тами...",
-        "slogan": "",
-        "premiere": "31 мая 1979",
-        "age": "18",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_129817.jpg",
-        "rating": {
-          "rating_kp": "6.15",
-          "vote_num_kp": "721",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "1538"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "113433",
-      "date": "1600525406",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Одноголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Горячая жевательная резинка: Мороженое на палочке",
-        "orig": "Eskimo Limon",
-        "alter": "",
-        "year": "1978",
-        "country": "Израиль",
-        "director": "Боаз Дэвидсон",
-        "genre": "комедия,мелодрама,драма",
-        "actors": "Ифтах Кацур, Анат Ацмон, Йонатан Сэгаль, Цахи Ной, Двора Кедар, Офелия Штруль, Менаш Варшавски, Рэйчел Стейнер, Луис Розенберг, Йеошуа Луфф",
-        "description": "История трёх друзей Бенци, Момо и Йюдале. Подглядывания за девушками, танцы - шманцы - обжиманцы, разговоры про секс и поиски опытных женщин - на что еще взрослеющим мальчикам тратить свое время. А тут Бенци влюбляется в Нили ...",
-        "slogan": "L'an holchim kshamisiba nigmira?",
-        "premiere": "21 апреля 1978",
-        "age": "18",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_113433.jpg",
-        "rating": {
-          "rating_kp": "6.66",
-          "vote_num_kp": "2542",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "3034"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "81025",
-      "date": "1600525307",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Жестокие игры 3",
-        "orig": "Cruel Intentions 3",
-        "alter": "",
-        "year": "2004",
-        "country": "США",
-        "director": "Скотт Зил",
-        "genre": "драма",
-        "actors": "Керр Смит, Кристина Анапау, Нэйтан Уэварингтон, Мелисса Ивонн Льюис, Натали Рэмси, Томас Скотт Паркер, Майкл Пембертон, Тара Кэрролл, Чарли Вебер, Алекс Доннелли",
-        "description": "Их любовным интригам нет конца... Их коварный план соблазнить и бросить двух доверчивых студенток не увенчался особым успехом, и тогда Джейсон и Патрик - два самых распущенных студента Колледжа Престридж - обратили свой взгляд на «приз», более интригующий и заманчивый - Касси Мертей, женщину холодную и расчетливую, которая приоткрывает им новый мир наслаждения и боли.",
-        "slogan": "Третий раз - это шарм...",
-        "premiere": "25 мая 2004",
-        "age": "18",
-        "time": "5100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_81025.jpg",
-        "rating": {
-          "rating_kp": "5.279",
-          "vote_num_kp": "5408",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "7812"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "47080",
-      "date": "1600525277",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Двухголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Тайные страсти",
-        "orig": "Choses secrètes",
-        "alter": "",
-        "year": "2002",
-        "country": "Франция",
-        "director": "Жан-Клод Бриссо",
-        "genre": "комедия,фэнтези,мелодрама,драма",
-        "actors": "Корали Ревель, Сабрина Сейвеку, Роже Мирмон, Фабрис Девиль, Бландин Бари, Оливье Солер, Вивиан Теофилде, Дороти Пикард, Пьер Габастон, Мария Луиза Гарсия",
-        "description": "Натали самая красивая и успешная стриптизерша в эротическом шоу. Новая сотрудница Сандрин отказывает хозяину в сексуальных домогательствах. Ее и Натали, заступившуюся за девушку, вышвыривают на улицу. Сандрин некуда идти, т. к. она уже задолжала за комнату хозяйке. Натали приглашает новую подругу к себе.\r\n\r\nНатали постепенно преображает неопытную девушку, научив ее пользоваться своим телом и сексуальной свободой для манипулирования окружающими. Девушки решают завоевать мир. Они устраиваются на работу в крупный банк, где, пройдя по трупам, добираются до сына владельца банка. Но молодой человек устанавливает свои правила игры...",
-        "slogan": "The delectably twisted fable centers on two penniless but shapely young women who set out to better their social station by manipulating men",
-        "premiere": "16 октября 2002",
-        "age": "18",
-        "time": "6900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_47080.jpg",
-        "rating": {
-          "rating_kp": "6.174",
-          "vote_num_kp": "1279",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "4604"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "51248",
-      "date": "1600525247",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Моей сестре!",
-        "orig": "À ma soeur!",
-        "alter": "",
-        "year": "2001",
-        "country": "Франция, Италия",
-        "director": "Катрин Брейя",
-        "genre": "драма",
-        "actors": "Анаи Ребу, Роксана Мескида, Либеро Де Риенцо, Арсинэ Ханджян, Ромен Гупиль, Лаура Бетти, Альбер Гольдберг, Одетт Барриере, Энн Маттийссе, Пьер Ренверсо",
-        "description": "Лето, море, каникулы, родители, первая любовь. Анаис и ее старшая сестра Елена ни в чем не похожи друг на друга. Анаис - пухленькая и умненькая. Елена дьявольски красива в свои 15 лет. Это возраст первого сексуального опыта. Анаис постигает эти азы, наблюдая за сестрой...",
-        "slogan": "A new provocation from the director of 'Romance'",
-        "premiere": "10 февраля 2001",
-        "age": "18",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_51248.jpg",
-        "rating": {
-          "rating_kp": "6.06",
-          "vote_num_kp": "1069",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "10584"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "839189",
-      "date": "1600525185",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Колючка",
-        "orig": "Gashi",
-        "alter": "",
-        "year": "2014",
-        "country": "Корея Южная",
-        "director": "Ким Тхэ-гюн",
-        "genre": "триллер,драма",
-        "actors": "Чан Хёк, Чо Бо-а, Сон У-сон, Ли До-а, Пак Чин-ён, Чан Со-гён",
-        "description": "Чун-ги - очень популярный учитель в старшей школе. Ён-ын, как и многие другие ученицы, влюблена в своего педагога, но, в отличие от сверстниц, она не так проста. Девушка признается в любви учителю, но тот отвергает её. Тогда Ён-ын решает приблизиться к предмету обожания с другой стороны - она заводит дружбу с женой Чун-ги.",
-        "slogan": "",
-        "premiere": "10 апреля 2014",
-        "age": "0",
-        "time": "7020",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_839189.jpg",
-        "rating": {
-          "rating_kp": "6.397",
-          "vote_num_kp": "812",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "712"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "49995",
-      "date": "1600525153",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Двухголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Цветения пора",
-        "orig": "Lust och fägring stor",
-        "alter": "",
-        "year": "1995",
-        "country": "Дания, Швеция",
-        "director": "Бу Видерберг",
-        "genre": "мелодрама,драма,военный",
-        "actors": "Юхан Видерберг, Марика Лагеркранц, Томас фон Брёмссен, Карин Хульдт, Нина Гунке, Бьёрн Чьелльман, Кеннет Мильдо, Фрида Линдхольм, Сигге Цедерлунд, Джордж Биссет",
-        "description": "Стиг, 15-летний старшеклассник, влюбляется в свою школьную учительницу Виолу. Ей 37 лет, но разница в возрасте и тот факт, что она замужем, не могут остановить стремительно возникшее взаимное чувство.",
-        "slogan": "To be young and in love with your teacher!",
-        "premiere": "3 ноября 1995",
-        "age": "16",
-        "time": "7800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_49995.jpg",
-        "rating": {
-          "rating_kp": "7.1",
-          "vote_num_kp": "2232",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "5859"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "483731",
-      "date": "1600525091",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Дикость 4: Оргия",
-        "orig": "Wild Things: Foursome",
-        "alter": "",
-        "year": "2010",
-        "country": "США",
-        "director": "Энди Херст",
-        "genre": "триллер,детектив,драма,криминал",
-        "actors": "Джиллиан Мюррэй, Марне Паттерсон, Эшли Паркер Энджел, Джон Шнайдер, Этан С. Смит, Джесси Никсон, Кемерон Дейдду, Марк Маколей, Лоренсо Толедо, Грегг Уэйнер",
-        "description": "После разнузданной ночи с тремя красавицами сын убитого миллионера оказывается вовлеченным в темную историю. Он вступает в игру, которая сулит наслаждение, но превращается в борьбу за жизнь.",
-        "slogan": "Enjoy the ride",
-        "premiere": "1 июня 2010",
-        "age": "18",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_483731.jpg",
-        "rating": {
-          "rating_kp": "4.877",
-          "vote_num_kp": "976",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "2818"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "638709",
-      "date": "1600525052",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Одноголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Наслаждение или боль",
-        "orig": "Pleasure or Pain",
-        "alter": "",
-        "year": "2013",
-        "country": "США",
-        "director": "Залман Кинг",
-        "genre": "триллер,драма",
-        "actors": "Малена Морган, Кристос Василопулос, Кайла Джейн Дейнджер, Эль Александра, Данэль Собирей, Хейден Хокенс, Обри Аддамс, И. Элайджа Бауман, Брайс Бонн, Джейсон Брю",
-        "description": "Фильм о молодом дизайнере украшений, которая впадает в страстный роман с состоятельным риелтором Джеком. Его чувственное обаяние завораживает Викторию. Она вскоре находит себя очарованной Джеком и неумолимо втянутой в мир удовольствий, отказаться от которого она не хочет или скорее всего уже не может. Но не всегда любовь это только наслаждение...",
-        "slogan": "How Far Would You Go ... As Far As You Dare",
-        "premiere": "5 сентября 2013",
-        "age": "18",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_638709.jpg",
-        "rating": {
-          "rating_kp": "4.33",
-          "vote_num_kp": "335",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "2134"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "77621",
-      "date": "1600525009",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Когда меня полюбят",
-        "orig": "When Will I Be Loved",
-        "alter": "",
-        "year": "2004",
-        "country": "США",
-        "director": "Джеймс Тобак",
-        "genre": "триллер,драма",
-        "actors": "Нив Кэмпбелл, Фред Уэллер, Эшли Шелтон, Джеймс Тобак, Алекс Фельдман, Брэндон Соммерс, Оливер «Пауэр» Грант, Майк Тайсон, Джеймс Паррис, Кара Хэмилл",
-        "description": "Желая быстро заработать кругленькую сумму, Форд предлагает пожилому толстосуму графу Томассо провести ночь со своей подружкой Верой, за что тот должен будет заплатить сто тысяч долларов. Вера без особых колебаний соглашается на это предложение, но события разворачиваются совсем не так, как предполагал Форд.",
-        "slogan": "Revenge is beautiful",
-        "premiere": "6 июня 2004",
-        "age": "16",
-        "time": "4860",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77621.jpg",
-        "rating": {
-          "rating_kp": "5.103",
-          "vote_num_kp": "398",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "3227"
         }
       }
     }

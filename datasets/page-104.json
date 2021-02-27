@@ -2,6 +2,356 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "673427",
+      "date": "1601329264",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Падение Олимпа",
+        "orig": "Olympus Has Fallen",
+        "alter": "",
+        "year": "2013",
+        "country": "США",
+        "director": "Антуан Фукуа",
+        "genre": "боевик,триллер",
+        "actors": "Джерард Батлер, Аарон Экхарт, Морган Фриман, Рик Юн, Финли Якобсен, Анджела Бассетт, Рада Митчелл, Роберт Форстер, Дилан МакДермотт, Эшли Джадд",
+        "description": "Когда на Белый Дом нападают террористы, а президента берут в заложники, дискредитированный бывший охранник главы государства Майк Бэннинг оказывается внутри захваченного здания. И теперь он единственный, кто сможет спасти президента...",
+        "slogan": "Удар был нанесён в самое сердце. Но он заставит его биться вновь",
+        "premiere": "18 марта 2013",
+        "age": "16",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_673427.jpg",
+        "rating": {
+          "rating_kp": "6.279",
+          "vote_num_kp": "64154",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "258187"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1026243",
+      "date": "1601326812",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Это просто игра",
+        "orig": "It's Just a Game",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Daniel Emery Taylor",
+        "genre": "ужасы",
+        "actors": "Hannah Cohen-Lawlor,Leah Hudspeth,Алекс Зуко,Sarah Kopkin,Alicia M. Clark,Дж. Ларри Батлер,Nadine Forbes,Рэйчел Маршалл,Daniel Emery Taylor,Кассандра Брайсон",
+        "description": "Райан уличил своего старшего брата в жульничестве во время игры в нёрф. Теперь ему придется выбирать между спасением положения команды и своими личными интересами.",
+        "slogan": "You Will Learn That Some Legends Are True ...",
+        "premiere": "1 декабря 2018",
+        "age": "0",
+        "time": "4920",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2M2NDIxNzgtMGVlOC00MzMwLWE0NTMtMzhiODlhODdhMDViXkEyXkFqcGdeQXVyMjMyOTQ2OTU@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "75"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1066806",
+      "date": "1601325915",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Убийца на острове",
+        "orig": "Killer Island",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Элин Дарне",
+        "genre": "триллер",
+        "actors": "Джеки Мур,Alea Figueroa,Хорди Виласусо,Брайан Гросс,Брайан Патрик Кларк,Джеси Кинг,Барби Кастро,Ребекка Роуз,Кэрол Вуд,Мигель Мартинес",
+        "description": "Во время отдыха с мужем на тропическом острове женщина начинает подозревать, что кто-то из местных жителей совершил несколько убийств, и сама становится следующей целью убийцы.",
+        "slogan": "",
+        "premiere": "25 мая 2018",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWE1NTkwNzktMzI0My00NWUyLTgwNDktNjQyOWFiOWE3OGZiXkEyXkFqcGdeQXVyMjIxMDczMDk@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "3",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "70"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1115074",
+      "date": "1601324109",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Вперёд, сестрички!",
+        "orig": "Thang Nam Ruc Ro",
+        "alter": "",
+        "year": "2018",
+        "country": "Вьетнам",
+        "director": "Куанг Дунг Нгуен",
+        "genre": "драма,комедия,мелодрама",
+        "actors": "Hoang Yen Chibi,Thanh Hang,Hoàng Oanh,Ан Хонг,Tu Quynh Khong,Tuyen Map,Дуйен Май,Uyen My,Thanh Tu Nguyen,Minh Thao",
+        "description": "Домохозяйка с сытой и спокойной жизнью встречает в больнице старую школьную подругу, с которой не виделась много лет. Та оказывается одной ногой могиле и напоследок хотела бы повидаться с девчонками из их школьной банды. Домохозяйке придется собрать подруг и вспомнить школьные годы чудесные.",
+        "slogan": "",
+        "premiere": "9 марта 2018",
+        "age": "0",
+        "time": "7080",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115074.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "6",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "338"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1331417",
+      "date": "1601324105",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Смертельно опасный папочка",
+        "orig": "Deadly Sugar Daddy",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Брук Невин",
+        "genre": "триллер",
+        "actors": "Брент Бэйли,Майкл Чандлер,Майкл Чандлер,Бенжамин Истадэй,Уэнделл Кинни,Джамал Льюис,Кеннет Миллер,Кэйси О’Кифи,Рик Отто,Энтони Ричард Пальяро",
+        "description": "После окончания колледжа Бриджет с лучшей подругой переезжает в другой город. Она устраивается на работу в качестве исполнительного помощника Энтони Глонза, но вскоре понимает, что жизнь в роскоши - это смертельно дорогое удовольствие.",
+        "slogan": "",
+        "premiere": "20 сентября 2020",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGZlNDc0OTgtZDFmMy00NzA3LWE0NTctN2QzZTIwODIzYzJhXkEyXkFqcGdeQXVyNjU0NTI0Nw@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "95"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "3447",
+      "date": "1601323371",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Миссия: невыполнима 2",
+        "orig": "Mission: Impossible II",
+        "alter": "Миссия невыполнима 2",
+        "year": "2000",
+        "country": "США, Германия",
+        "director": "Джон Ву",
+        "genre": "боевик,триллер,приключения",
+        "actors": "Том Круз, Дюгрей Скотт, Тэнди Ньютон, Ричард Роксбург, Винг Реймз, Джон Полсон, Брендан Глисон, Раде Шербеджия, Уильям Мапотер, Энтони Хопкинс",
+        "description": "Если мир внезапно оказывается перед лицом ужасной катастрофы, есть лишь один человек, который может исправить это ужасное положение. Его имя Итан Хант, он прирожденный специалист по разрешению самых неразрешимых ситуаций.\r\n\r\nТеперь у Итана - новый, строгий начальник, новая очаровательная возлюбленная, новый коварный противник и новое задание, которое простому смертному просто не по плечу. Но Итан Хант не был бы Итаном Хантом, если бы не смог с блеском выполнить очередную невыполнимую миссию: справиться с кровожадными террористами и спасти планету от ужасного, смертельного вируса!",
+        "slogan": "Expect the impossible again",
+        "premiere": "18 мая 2000",
+        "age": "12",
+        "time": "7380",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3447.jpg",
+        "rating": {
+          "rating_kp": "6.863",
+          "vote_num_kp": "72046",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "315770"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1112188",
+      "date": "1601323008",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Одноголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Код «Синий»",
+        "orig": "Kodo Buru: dokuta heri kinkyu kyumei",
+        "alter": "",
+        "year": "2018",
+        "country": "Япония",
+        "director": "-",
+        "genre": "драма",
+        "actors": "Ямасита Томохиса, Юи Арагаки, Эрика Тода, Манами Хига, Ёсукэ Асари, Масанобу Андо, Юко Араки, Дайки Ариока, Фумика Баба, Чак Джонсон",
+        "description": "Произошли крупные аварии в аэропорте Нарита и на парковке Умихотару. Группе экстренной медицинской помощи &quot;Доктор Хели&quot; приходится столкнуться с чрезвычайной ситуацией.",
+        "slogan": "",
+        "premiere": "27 июля 2018",
+        "age": "0",
+        "time": "7620",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112188.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "99",
+          "rating_imdb": "6",
+          "vote_num_imdb": "1093"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1226783",
+      "date": "1601311521",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "В подземелье я пойду, там красавицу найду: Стрела Ориона",
+        "orig": "Gekijouban danjon ni deai o motomeru no wa machigatteiru daro ka: Orion no ya",
+        "alter": "",
+        "year": "2019",
+        "country": "Япония",
+        "director": "Кацуси Сакураби",
+        "genre": "аниме,мультфильм,комедия,боевик,фэнтези,мелодрама,приключения",
+        "actors": "Ёсицугу Мацуока, Инори Минасэ, Маая Сакамото, Маая Утида, Саори Оониси, Сома Саито, Саори Хаями, Сидзука Исигами, Харука Томацу, Ёсимаса Хосоя",
+        "description": "Игорь - старший менеджер в мебельном салоне, мечтающий о повышении. На следующий день после корпоративной вечеринки он обнаруживает, что салон полностью разгромлен. Сотрудники утверждают, что когда они уходили, всё было в порядке. Игоря это не устраивает, ведь теперь на кону его карьера. Пытаясь выяснить, что же произошло, Игорь узнаёт шокирующие подробности о ночных приключениях своих коллег...",
+        "slogan": "",
+        "premiere": "15 февраля 2019",
+        "age": "0",
+        "time": "4920",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1226783.jpg",
+        "rating": {
+          "rating_kp": "6.817",
+          "vote_num_kp": "2409",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "716"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "2494",
+      "date": "1601305583",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Казино",
+        "orig": "Casino",
+        "alter": "",
+        "year": "1995",
+        "country": "США, Франция",
+        "director": "Мартин Скорсезе",
+        "genre": "драма,криминал",
+        "actors": "Роберт Де Ниро, Шэрон Стоун, Джо Пеши, Джеймс Вудс, Дон Риклз, Алан Кинг, Кевин Поллак, Л. К. Джонс, Дик Смотерз, Фрэнк Винсент",
+        "description": "Никто не может сравниться с Сэмом Ротстином. Никто не умеет зарабатывать деньги, как он. Никто не умеет работать так самоотверженно и аккуратно, как трудяга Сэм. За свои неоспоримые достоинства Ротстин получил кличку «Ас». И именно поэтому боссы мафии решили отправить Аса заправлять огромным шикарным казино в Лас-Вегасе. А чтобы Сэму никто не мешал работать, мафиози отправили вслед за Асом друга детства Ротстина - Никки Санторо, отпетого бандита и безжалостного головореза.\r\n\r\nВ Лас-Вегасе Ас как всегда с блеском выполнял свою работу: Казино процветало, водопад денег беспрестанно лился в карманы довольных гангстеров-покровителей. Городские заправилы находились на довольствии у мафии, полицейские и суды были куплены, и, казалось, ничто не может омрачить жизнь Аса. Но Господь распорядился иначе. Несокрушимой империи Сэма было суждено утонуть в трагедии и крови.",
+        "slogan": "Риск. Власть. Искушение",
+        "premiere": "3 апреля 1995",
+        "age": "16",
+        "time": "10260",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2494.jpg",
+        "rating": {
+          "rating_kp": "8.126",
+          "vote_num_kp": "123936",
+          "rating_imdb": "8.2",
+          "vote_num_imdb": "468866"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1178534",
+      "date": "1601301616",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Риалто",
+        "orig": "Rialto",
+        "alter": "",
+        "year": "2019",
+        "country": "Ирландия,Великобритания",
+        "director": "Питер Маки Барнс",
+        "genre": "драма",
+        "actors": "Том Вон-Лолор,Том Глинн-Карни,Моника Долан,Софи Джо Вассон,Скотт Грэхэм,Майкл Смайли,Айлин Уолш,Дирдри Доннелли,Дирдри Моллой,Kervin Soobrayen",
+        "description": "Колм ведёт спокойную размеренную жизнь: ему слегка за сорок есть жена, двое детей и должность менеджера в доках. После смерти отца, который весьма деструктивно влиял на Колма, его жизнь начинает идти под откос, а внезапное увольнение только усугубляет ситуацию. Однажды, сильно перебрав в баре, он встречает девятнадцатилетнего парня, к которому начинает испытывать влечение. Их редкие встречи, сопровождающиеся сексом и разговорами, становятся для Колма настоящей отдушиной, однако ставят под угрозу благополучие его семейной жизни.",
+        "slogan": "",
+        "premiere": "2 сентября 2019",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1178534.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "41",
+          "rating_imdb": "6",
+          "vote_num_imdb": "468"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1296914",
       "date": "1601301608",
       "camrip": "0",
@@ -203,8 +553,8 @@
         "time": "6600",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_892865.jpg",
         "rating": {
-          "rating_kp": "6.914",
-          "vote_num_kp": "2231",
+          "rating_kp": "6.916",
+          "vote_num_kp": "2234",
           "rating_imdb": "7.6",
           "vote_num_imdb": "2025"
         }
@@ -274,7 +624,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_307419.jpg",
         "rating": {
           "rating_kp": "7.413",
-          "vote_num_kp": "4455",
+          "vote_num_kp": "4456",
           "rating_imdb": "7.5",
           "vote_num_imdb": "23165"
         }
@@ -460,7 +810,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_39864.jpg",
         "rating": {
           "rating_kp": "5.455",
-          "vote_num_kp": "16555",
+          "vote_num_kp": "16558",
           "rating_imdb": "5.9",
           "vote_num_imdb": "54552"
         }
@@ -504,8 +854,8 @@
         "time": "2400",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1355058.jpg",
         "rating": {
-          "rating_kp": "7.051",
-          "vote_num_kp": "23681",
+          "rating_kp": "7.05",
+          "vote_num_kp": "23697",
           "rating_imdb": "6.9",
           "vote_num_imdb": "95"
         }
@@ -555,7 +905,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1309707.jpg",
         "rating": {
           "rating_kp": "8.156",
-          "vote_num_kp": "8982",
+          "vote_num_kp": "9024",
           "rating_imdb": "8.7",
           "vote_num_imdb": "37846"
         }
@@ -589,10 +939,10 @@
         "time": "7020",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1271908.jpg",
         "rating": {
-          "rating_kp": "6.71",
-          "vote_num_kp": "4447",
+          "rating_kp": "6.709",
+          "vote_num_kp": "4455",
           "rating_imdb": "7",
-          "vote_num_imdb": "2769"
+          "vote_num_imdb": "2780"
         }
       }
     },
@@ -730,7 +1080,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5619.jpg",
         "rating": {
           "rating_kp": "8.06",
-          "vote_num_kp": "256920",
+          "vote_num_kp": "257021",
           "rating_imdb": "7.5",
           "vote_num_imdb": "715569"
         }
@@ -767,7 +1117,7 @@
           "rating_kp": "7.16",
           "vote_num_kp": "134232",
           "rating_imdb": "7",
-          "vote_num_imdb": "290447"
+          "vote_num_imdb": "290478"
         }
       }
     },
@@ -800,7 +1150,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8165.jpg",
         "rating": {
           "rating_kp": "7.599",
-          "vote_num_kp": "90177",
+          "vote_num_kp": "90188",
           "rating_imdb": "6.2",
           "vote_num_imdb": "180983"
         }
@@ -1115,9 +1465,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_804815.jpg",
         "rating": {
           "rating_kp": "6.861",
-          "vote_num_kp": "7433",
+          "vote_num_kp": "7441",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "62364"
+          "vote_num_imdb": "62394"
         }
       }
     },
@@ -1254,10 +1604,10 @@
         "time": "8520",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_844.jpg",
         "rating": {
-          "rating_kp": "7.978",
-          "vote_num_kp": "195812",
+          "rating_kp": "7.979",
+          "vote_num_kp": "195916",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "645681"
+          "vote_num_imdb": "645778"
         }
       }
     },
@@ -1343,7 +1693,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_842986.jpg",
         "rating": {
           "rating_kp": "7.79",
-          "vote_num_kp": "19953",
+          "vote_num_kp": "19968",
           "rating_imdb": "7.4",
           "vote_num_imdb": "6981"
         }
@@ -1394,7 +1744,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1202192.jpg",
         "rating": {
           "rating_kp": "6.08",
-          "vote_num_kp": "322",
+          "vote_num_kp": "324",
           "rating_imdb": "6",
           "vote_num_imdb": "4105"
         }
@@ -1520,7 +1870,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1055487.jpg",
         "rating": {
           "rating_kp": "6.705",
-          "vote_num_kp": "4102",
+          "vote_num_kp": "4106",
           "rating_imdb": "6.8",
           "vote_num_imdb": "28653"
         }
@@ -1592,357 +1942,7 @@
           "rating_kp": "7.072",
           "vote_num_kp": "20884",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "296985"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1266428",
-      "date": "1601169578",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K WEB-DL",
-      "translation": "Многоголосый",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Энола Холмс",
-        "orig": "Enola Holmes",
-        "alter": "",
-        "year": "2020",
-        "country": "Великобритания",
-        "director": "Гарри Брэдбир",
-        "genre": "драма,криминал,детектив",
-        "actors": "Милли Бобби Браун,Генри Кавилл,Сэм Клафлин,Хелена Бонем Картер,Фиона Шоу,Адиль Ахтар,Фрэнсис де ла Тур,Луис Патридж,Сьюзан Уокома,Берн Горман",
-        "description": "У 16-летней Энолы Холмс исчезает мать. Она просит помощи у старших братьев Майкрофта и Шерлока, но они воспринимают исчезновение как нечто незначительное. Энола сбегает из дома в Лондон, где натыкается на инспектора Лестрейда и подключается к поискам пропавшего молодого виконта.",
-        "slogan": "Mystery runs in the family",
-        "premiere": "23 сентября 2020",
-        "age": "0",
-        "time": "7380",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1266428.jpg",
-        "rating": {
-          "rating_kp": "6.301",
-          "vote_num_kp": "22133",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "127559"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "843463",
-      "date": "1601166674",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Кловерфилд, 10",
-        "orig": "10 Cloverfield Lane",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Дэн Трахтенберг",
-        "genre": "ужасы,фантастика,триллер,детектив,драма",
-        "actors": "Джон Гудман, Мэри Элизабет Уинстэд, Джон Галлахер мл., Дуглас М. Гриффин, Сюзанн Крайер, Брэдли Купер, Сумали Монтано, Фрэнк Моттек, Kayla Bechor",
-        "description": "Проснувшись после автомобильной аварии, девушка оказывается в подвале человека, утверждающего, что он спас ей жизнь от химической атаки, которая сделала мир за пределами бункера непригодным для жизни.",
-        "slogan": "Монстры бывают разные",
-        "premiere": "8 марта 2016",
-        "age": "16",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843463.jpg",
-        "rating": {
-          "rating_kp": "6.872",
-          "vote_num_kp": "104849",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "292064"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1330173",
-      "date": "1601163001",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Насущные проблемы",
-        "orig": "Chomiui gwansimsa",
-        "alter": "",
-        "year": "2019",
-        "country": "Корея Южная",
-        "director": "Нам Ён-у",
-        "genre": "драма,комедия,музыка",
-        "actors": "Чо Мин-су,Чита,Террис Браун,Ли Су-гван,Чон Ман-щик,Ли Гю-хо,Пак Сэ-джун",
-        "description": "Эксцентричная мамаша приезжает к старшей дочери - набирающей популярность клубной певице. Обе давно не общались и не стремятся налаживать отношения, но вскоре им всё же придётся искать общий язык, так как младшенькая стащила у обеих крупные суммы и пропала. Мать и дочь отправляются на её поиски.",
-        "slogan": "",
-        "premiere": "4 октября 2019",
-        "age": "0",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1330173.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "25",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "28"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1230458",
-      "date": "1601156729",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Он любит меня",
-        "orig": "He Loves Me",
-        "alter": "",
-        "year": "2018",
-        "country": "Греция,Великобритания",
-        "director": "Konstantinos Menelaou",
-        "genre": "драма,мелодрама",
-        "actors": "Hermes Pittakos,Sanuye Shoteka,Thanos Lekkas",
-        "description": "Молодая пара отправляется на заброшенный пляж, чтобы насладиться природой и постараться залатать свои отношения. Смогут ли они вновь полюбить друг друга как раньше, или уединение лишь отдалит их еще больше друг от друга?",
-        "slogan": "",
-        "premiere": "5 февраля 2018",
-        "age": "18",
-        "time": "4440",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMWMyMWQyYzQtYzc5Yy00NThjLWE1NzctNjEwZTAzMTE5ZmVmXkEyXkFqcGdeQXVyODIyOTQzMzM@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "20",
-          "rating_imdb": "5",
-          "vote_num_imdb": "180"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1050999",
-      "date": "1601156716",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Оборванная жизнь «Юйсе» Лескинена",
-        "orig": "Juice",
-        "alter": "",
-        "year": "2018",
-        "country": "Финляндия",
-        "director": "Теппо Айраксинен",
-        "genre": "драма,биография",
-        "actors": "Рику Ниеминен,Иида-Мария Хейнонен,Пекка Странг,Антти Хейккинен,Анналеэна Сипиля,Илка Хайсканен,Ола Туоминен,Силму Стольберг,Elina Patrakka,Pihla Rekola",
-        "description": "Юхани Лескинен по прозвищу «Юйсе» был знаменитым певцом, поэтом, музыкантом. Сегодня его называют отцом финской рок-лирики, финским Бобом Диланом. Самым важным фактором в жизни «Юйсе» были его любовные отношения. Все остальное – выпивка, песни и борьба за славу – стало их побочным продуктом.",
-        "slogan": "",
-        "premiere": "21 декабря 2018",
-        "age": "16",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1050999.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "808"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1131317",
-      "date": "1601156712",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Джон Африка",
-        "orig": "Djon Africa",
-        "alter": "",
-        "year": "2018",
-        "country": "Португалия,Бразилия,Кабо-Верде",
-        "director": "João Miller Guerra,Филипа Реис",
-        "genre": "драма",
-        "actors": "Bitori Nha Bibinha,Изабель Муньос Кардосо,Miguel Moreira,Патриция Сосо",
-        "description": "Случайная встреча подталкивает двадцатипятилетнего растамана из Португалии Джона броситься на поиски своих корней в Кабо-Верде. Парень считает, что визит к отцу поможет ему обрести себя. Однако приключение проходит не столь",
-        "slogan": "",
-        "premiere": "26 января 2018",
-        "age": "0",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1131317.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "10",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "200"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1134202",
-      "date": "1601156709",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Сторожевой пес",
-        "orig": "Chien de garde",
-        "alter": "",
-        "year": "2018",
-        "country": "Канада",
-        "director": "Софи Дюпуа",
-        "genre": "драма",
-        "actors": "Теодор Пеллерен,Jean-Simon Leduc,Поль Амарани,Мод Герин,Клодель Ле,Marjo,Себастьян Тессье",
-        "description": "Джей Пи и Венсан братья из бедной семьи, выполняющие мелкие поручения дяди-наркобарона. Но нервный и дерганый Венсан постепенно слетает с катушек.",
-        "slogan": "",
-        "premiere": "9 марта 2018",
-        "age": "0",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1134202.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "29",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "445"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1112839",
-      "date": "1601156705",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Клео и Поль",
-        "orig": "Allons enfants",
-        "alter": "",
-        "year": "2018",
-        "country": "Франция",
-        "director": "Стефан Демустье",
-        "genre": "комедия",
-        "actors": "Клео Демустье,Поль Демустье,Вимала Понс,Андерс Даниелсен Лье,Эльза Воллиастон,Сэм Лаувейк,Уссама Кеддан,Максим Бутерон,Басс Дем,Мануэль Шапира",
-        "description": "Трехлетние брат и сестра потерялись в огромном Париже. Клео и Поль пытаются найти себе друга, чтобы вместе играть и дружить.",
-        "slogan": "",
-        "premiere": "17 февраля 2018",
-        "age": "6",
-        "time": "3660",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112839.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "26",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "64"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1109876",
-      "date": "1601154006",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Путешествие по Нидерландам 2",
-        "orig": "Bon Bini Holland 2",
-        "alter": "",
-        "year": "2018",
-        "country": "Нидерланды",
-        "director": "Йон Картхаус",
-        "genre": "боевик,комедия,криминал",
-        "actors": "Лилиана Де Фриз,Jandino Asporaat,Saffier Biada,Julien Croiset,Мурат Токер,Bruce Parmesar,Laty Davelaar,Bart de Graauw",
-        "description": "Робертико живет на Кюрасао с Ноэллой Мадуро. Пока он готовится сделать ей предложение, с отцом Ноэллы приключается беда. Ноэлла говорит Робертико, что хочет взять перерыв и улетает к отцу в Нидерланды. Ноэлла устраивается на отцовскую работу по организации аукционов, где встречает богатого молодого юношу. Узнав об этом, Робертико тут же вылетает в Нидерланды, чтобы снова завоевать сердце Ноэллы.",
-        "slogan": "",
-        "premiere": "13 декабря 2018",
-        "age": "0",
-        "time": "5340",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMzQ3ZWM3YTgtZWI4NS00MGMzLWJmYWQtYTk1NTA1ZjZjYWFhXkEyXkFqcGdeQXVyNTc5OTMwOTQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "1",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "366"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1219167",
-      "date": "1601148615",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Смотри как я",
-        "orig": "Смотри как я",
-        "alter": "",
-        "year": "2020",
-        "country": "Россия",
-        "director": "Егор Сальников",
-        "genre": "комедия,приключения",
-        "actors": "Ольга Турчак,Михаил Мещеряков,Александр Самойленко,Дмитрий Мухамадеев,Елена Бирюкова,Евгений Сытый,Сергей Аброскин,Наталья Щукина,Мария Иващенко,Ярослав Жалнин",
-        "description": "Оля – безбашенная девчонка, сбежавшая из детдома. Максим – слепой парень, уставший от причуд богатого отца. Случайно встретившись, ребята решают бросить все и уехать на море. Почему бы и нет — у Максима папины деньги, у Оли сумасшедшая тяга к приключениям. Они молоды и хотят свободы, вот только видят ее каждый по-своему. Но от этого путешествие становится только ярче и увлекательнее!",
-        "slogan": "Их не догонят",
-        "premiere": "17 сентября 2020",
-        "age": "12",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1219167.jpg",
-        "rating": {
-          "rating_kp": "5.92",
-          "vote_num_kp": "2763",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
+          "vote_num_imdb": "297019"
         }
       }
     }

@@ -2,6 +2,356 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "45864",
+      "date": "1591455426",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Вовка в Тридевятом царстве",
+        "orig": "Вовка в Тридевятом царстве",
+        "alter": "",
+        "year": "1965",
+        "country": "СССР",
+        "director": "Борис Степанцев",
+        "genre": "мультфильм,короткометражка,семейный",
+        "actors": "Рина Зеленая, Елена Понсова, Клара Румянова, Эмма Трейвас, Михаил Яншин, Людмила Гнилова",
+        "description": "Путешествуя по русским сказкам, мальчик Вова встречается с трудолюбивым царём, Золотой рыбкой и Василисами Премудрыми.",
+        "slogan": "",
+        "premiere": "",
+        "age": "6",
+        "time": "1140",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45864.jpg",
+        "rating": {
+          "rating_kp": "8.435",
+          "vote_num_kp": "77084",
+          "rating_imdb": "8",
+          "vote_num_imdb": "1468"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "439755",
+      "date": "1591455345",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дом из маленьких кубиков",
+        "orig": "La Maison en petits cubes",
+        "alter": "",
+        "year": "2008",
+        "country": "Япония",
+        "director": "Кунио Като",
+        "genre": "мультфильм,драма,короткометражка",
+        "actors": "Масами Нагасава",
+        "description": "Жил-был одинокий старик в доме, который уходит корнями в глубину из-за постоянно поднимающего уровня воды, и он вынужден строить этаж за этажом. Так и живёт. Однажды, во время очередной достройки своего импровизированного небоскреба, он нечаянно роняет свою любимую трубку.",
+        "slogan": "",
+        "premiere": "10 июня 2008",
+        "age": "0",
+        "time": "720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_439755.jpg",
+        "rating": {
+          "rating_kp": "8.426",
+          "vote_num_kp": "12948",
+          "rating_imdb": "8.2",
+          "vote_num_imdb": "10391"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "970352",
+      "date": "1591454626",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Механика любви",
+        "orig": "The Mechanics of Love",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Дэвид Уивер",
+        "genre": "драма",
+        "actors": "Шинэй Граймс-Бич,Тайлер Хайнс,Локлин Манро,Эмили Теннант,Blair Penner,Уилльям Вон,Мило Шендел,Райан Брюс,Ивонн Чепмен,Emily Mae Giles",
+        "description": "Маттлинн Дьюпри вернулась в свой родной город на свадьбу сестры. Ностальгические воспоминания о прошлом, случайная встреча со старым другом Джейком в автомастерской отца коренным образом меняют все её планы. Матлинн решает остаться здесь навсегда. Но с этим категорически не согласен её босс. В городе появляется бывший бойфренд Маттлинн, чтобы вернуть её, а босс обещает долгожданное повышение. Так девушка оказывается между сложным выбором: жизнь, которую, по её мнению, всегда хотела, и тем единственным, которого она вновь полюбила.",
+        "slogan": "",
+        "premiere": "13 марта 2017",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_970352.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "26",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "473"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1115014",
+      "date": "1591451101",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мы умираем молодыми",
+        "orig": "We Die Young",
+        "alter": "",
+        "year": "2019",
+        "country": "Болгария, США",
+        "director": "Лайор Геллер",
+        "genre": "драма",
+        "actors": "Жан-Клод Ван Дамм, Дэвид Кастанеда, Элиас Гарза, Николас Шон Джонни, Charlie MacGechan, Джоана Метрасс, Dean John-Wilson, Jim Caesar, Керри Беннетт, Уриель Эмиль",
+        "description": "14-летний Лукас, принадлежащий миру вашингтонской преступности, хочет, чтобы его 10-летнего брата обошла эта участь. Такой шанс выпадает, когда они знакомятся со своим новым соседом, ветераном войны в Афганистане.",
+        "slogan": "Every Life is Worth Saving",
+        "premiere": "7 февраля 2019",
+        "age": "0",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115014.jpg",
+        "rating": {
+          "rating_kp": "5.432",
+          "vote_num_kp": "1535",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "3320"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "44745",
+      "date": "1591447925",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кавказская пленница, или Новые приключения Шурика",
+        "orig": "Кавказская пленница, или Новые приключения Шурика",
+        "alter": "",
+        "year": "1966",
+        "country": "СССР",
+        "director": "Леонид Гайдай",
+        "genre": "комедия,мелодрама,приключения,семейный",
+        "actors": "Александр Демьяненко, Наталья Варлей, Юрий Никулин, Георгий Вицин, Евгений Моргунов, Владимир Этуш, Фрунзик Мкртчян, Руслан Ахметов, Нина Гребешкова, Михаил Глузский",
+        "description": "Отправившись в одну из горных республик собирать фольклор, герой фильма Шурик влюбляется в симпатичную девушку - «спортсменку, отличницу, и просто красавицу». Но ее неожиданно похищают, чтобы насильно выдать замуж.\r\n\r\nНаивный Шурик не сразу смог сообразить, что творится у него под носом, - однако затем отважно ринулся освобождать «кавказскую пленницу»...",
+        "slogan": "",
+        "premiere": "1 апреля 1967",
+        "age": "12",
+        "time": "4920",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44745.jpg",
+        "rating": {
+          "rating_kp": "8.456",
+          "vote_num_kp": "451360",
+          "rating_imdb": "8.4",
+          "vote_num_imdb": "10979"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "228535",
+      "date": "1591447548",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Подводная лодка",
+        "orig": "Das Boot",
+        "alter": "",
+        "year": "1985",
+        "country": "Германия (ФРГ), Великобритания, Франция",
+        "director": "Вольфганг Петерсен",
+        "genre": "триллер,драма,военный",
+        "actors": "Юрген Прохнов, Херберт Грёнемайер, Клаус Веннеманн, Хабертус Бенгш, Мартин Земмельрогге, Бернд Таубер, Эрвин Ледер, Мартин Май, Хайнц Хёниг, Уве Оксенкнехт",
+        "description": "Фильм рассказывает о боевом походе немецкой подводной лодки и людях, поставленных по воле судьбы и времени в ситуацию, когда необходимо убивать, чтобы жить.",
+        "slogan": "",
+        "premiere": "24 февраля 1985",
+        "age": "12",
+        "time": "17580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_228535.jpg",
+        "rating": {
+          "rating_kp": "8.57",
+          "vote_num_kp": "2451",
+          "rating_imdb": "8.8",
+          "vote_num_imdb": "26555"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "840281",
+      "date": "1591447459",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Цвет нации",
+        "orig": "Цвет нации",
+        "alter": "",
+        "year": "2013",
+        "country": "Россия",
+        "director": "Сергей Нурмамед",
+        "genre": "история,документальный",
+        "actors": "Леонид Парфенов, Михаил Гусев, Сергей Ланбамин, Наталья Новикова, Юлия Сорокина",
+        "description": "Документальный фильм о С. М. Прокудине-Горском, русском фотографе, который зафиксировал в цвете несколько тысяч объектов Российской империи. Фильм посвящен его 150-летию, но даже в большей степени - столетию 1913 года. Это возможность сегодняшними глазами взглянуть на ту страну, которая была и которой нет.",
+        "slogan": "",
+        "premiere": "12 июня 2014",
+        "age": "12",
+        "time": "4560",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_840281.jpg",
+        "rating": {
+          "rating_kp": "8.638",
+          "vote_num_kp": "5682",
+          "rating_imdb": "8.2",
+          "vote_num_imdb": "221"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "913520",
+      "date": "1591447407",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Выбор за нами",
+        "orig": "The Choice Is Ours",
+        "alter": "",
+        "year": "2015",
+        "country": "США",
+        "director": "Роксанна Медоуз",
+        "genre": "документальный",
+        "actors": "Эрин Эд, Ларри Браун, Erik Brynjolfsson, Джесси Дайал, Жак Фреско, Андрей Хоторн, Уилсон Хоторн, Пол Хьюит, Шон Ходжинс, Джеффри Хоффман",
+        "description": "Фильм исследует причины нашего образа действий с целью развеять миф о «человеческой природе» и показать, как среда формирует поведение. Вы также увидите, как наши ценности и поведение навязываются нам общественными институтами, как изжила себя денежная система, и насколько она неэффективна для удовлетворения потребностей человека.",
+        "slogan": "",
+        "premiere": "2 марта 2015",
+        "age": "0",
+        "time": "3540",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_913520.jpg",
+        "rating": {
+          "rating_kp": "8.509",
+          "vote_num_kp": "1114",
+          "rating_imdb": "8.3",
+          "vote_num_imdb": "545"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "81914",
+      "date": "1591444784",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Фландрийский пес",
+        "orig": "Gekijôban Furandaasu no inu",
+        "alter": "",
+        "year": "1997",
+        "country": "Япония, США",
+        "director": "Ёсио Курода, Даг Стоун",
+        "genre": "аниме,мультфильм,мелодрама,драма",
+        "actors": "Макото Цумура, Сакура Тангэ, Брэйди Блум, Брианн Брози, Ричард Кансино, Кристофер Кэрролл, Луиз Чамис, Лара Коуди, Деби Дерриберри, Джейн Алан",
+        "description": "У мальчика Нелло, наделенного даром рисования, живет пес Патраш, добрый и симпатичный. С мальчиком дружит Алуа, дочь богатого человека, но папа не разрешает ей с ним дружить, считая, что бедный мальчик для нее не подходящая компания. А Нелло так хорошо нарисовал ее портрет. Однажды он, его дедушка и Алуа пошли в Антверпен, там Патраша узнал его бывший злой хозяин, захотевший взять пса обратно. Но Нелло и его друзья помешали этому. Мальчик принял участие в конкурсе юных художников - победитель мог бесплатно учиться в школе искусств. О жизни Нелло, его пса Патраша, Алуа и рассказывает этот фильм.",
+        "slogan": "Все краски жизни в одной истории",
+        "premiere": "15 марта 1997",
+        "age": "0",
+        "time": "5580",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWQ0YjE4MTctYzJlNS00MDExLTg5YzUtZDQ4ODllYWM0MjhlXkEyXkFqcGdeQXVyNDQwMTQ5ODk@._V1_SY1000_CR0,0,705,1000_AL_.jpg",
+        "rating": {
+          "rating_kp": "8.616",
+          "vote_num_kp": "2288",
+          "rating_imdb": "7.7",
+          "vote_num_imdb": "535"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "381",
+      "date": "1591444623",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Жизнь прекрасна",
+        "orig": "La Vita è bella",
+        "alter": "",
+        "year": "1997",
+        "country": "Италия",
+        "director": "Роберто Бениньи",
+        "genre": "комедия,мелодрама,драма,военный",
+        "actors": "Роберто Бениньи, Николетта Браски, Джорджио Кантарини, Джустино Дурано, Серджио Бини Бустрик, Мариса Паредес, Хорст Буххольц, Лидия Альфонси, Джулиана Лоджодиче, Америго Фонтани",
+        "description": "Во время II Мировой войны в Италии в концлагерь были отправлены евреи, отец и его маленький сын. Жена, итальянка, добровольно последовала вслед за ними. В лагере отец сказал сыну, что все происходящее вокруг является очень большой игрой за приз в настоящий танк, который достанется тому мальчику, который сможет не попасться на глаза надзирателям. Он сделал все, чтобы сын поверил в игру и остался жив, прячась в бараке.",
+        "slogan": "An unforgettable fable that proves love, family and imagination conquer all",
+        "premiere": "20 декабря 1997",
+        "age": "12",
+        "time": "6960",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_381.jpg",
+        "rating": {
+          "rating_kp": "8.619",
+          "vote_num_kp": "204189",
+          "rating_imdb": "8.6",
+          "vote_num_imdb": "626985"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "256566",
       "date": "1591443265",
       "camrip": "0",
@@ -29,7 +379,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_256566.jpg",
         "rating": {
           "rating_kp": "8.756",
-          "vote_num_kp": "89723",
+          "vote_num_kp": "89751",
           "rating_imdb": "8.4",
           "vote_num_imdb": "2307"
         }
@@ -64,7 +414,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_256551.jpg",
         "rating": {
           "rating_kp": "8.719",
-          "vote_num_kp": "83534",
+          "vote_num_kp": "83558",
           "rating_imdb": "8.3",
           "vote_num_imdb": "2291"
         }
@@ -99,7 +449,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_42326.jpg",
         "rating": {
           "rating_kp": "8.787",
-          "vote_num_kp": "249611",
+          "vote_num_kp": "249662",
           "rating_imdb": "8.2",
           "vote_num_imdb": "2904"
         }
@@ -222,9 +572,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77413.jpg",
         "rating": {
           "rating_kp": "8.747",
-          "vote_num_kp": "14644",
+          "vote_num_kp": "14647",
           "rating_imdb": "8.7",
-          "vote_num_imdb": "17978"
+          "vote_num_imdb": "17981"
         }
       }
     },
@@ -387,7 +737,7 @@
           "rating_kp": "6.16",
           "vote_num_kp": "96",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "776"
+          "vote_num_imdb": "775"
         }
       }
     },
@@ -764,7 +1114,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1162847.jpg",
         "rating": {
           "rating_kp": "4.585",
-          "vote_num_kp": "46346",
+          "vote_num_kp": "46376",
           "rating_imdb": "3.2",
           "vote_num_imdb": "522"
         }
@@ -939,7 +1289,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_927804.jpg",
         "rating": {
           "rating_kp": "3.635",
-          "vote_num_kp": "2041",
+          "vote_num_kp": "2046",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1109,8 +1459,8 @@
         "time": "1260",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1008482.jpg",
         "rating": {
-          "rating_kp": "7.196",
-          "vote_num_kp": "6126",
+          "rating_kp": "7.2",
+          "vote_num_kp": "6179",
           "rating_imdb": "6.1",
           "vote_num_imdb": "1781"
         }
@@ -1491,7 +1841,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_480158.jpg",
         "rating": {
           "rating_kp": "7.967",
-          "vote_num_kp": "13266",
+          "vote_num_kp": "13272",
           "rating_imdb": "8",
           "vote_num_imdb": "20656"
         }
@@ -1635,7 +1985,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_684449.jpg",
         "rating": {
           "rating_kp": "6.882",
-          "vote_num_kp": "16082",
+          "vote_num_kp": "16091",
           "rating_imdb": "7.2",
           "vote_num_imdb": "1602"
         }
@@ -1787,7 +2137,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_820540.jpg",
         "rating": {
           "rating_kp": "7.913",
-          "vote_num_kp": "5645",
+          "vote_num_kp": "5648",
           "rating_imdb": "8.7",
           "vote_num_imdb": "29846"
         }
@@ -1822,7 +2172,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4134.jpg",
         "rating": {
           "rating_kp": "7.102",
-          "vote_num_kp": "25822",
+          "vote_num_kp": "25824",
           "rating_imdb": "6.3",
           "vote_num_imdb": "65502"
         }
@@ -2026,8 +2376,8 @@
         "time": "6120",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_283371.jpg",
         "rating": {
-          "rating_kp": "6.23",
-          "vote_num_kp": "4269",
+          "rating_kp": "6.229",
+          "vote_num_kp": "4272",
           "rating_imdb": "5.9",
           "vote_num_imdb": "4107"
         }
@@ -2158,9 +2508,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_893459.jpg",
         "rating": {
           "rating_kp": "6.149",
-          "vote_num_kp": "18035",
+          "vote_num_kp": "18052",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "92124"
+          "vote_num_imdb": "92134"
         }
       }
     },
@@ -2206,360 +2556,10 @@
         "time": "1200",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1366142.jpg",
         "rating": {
-          "rating_kp": "6.821",
-          "vote_num_kp": "2984",
+          "rating_kp": "6.82",
+          "vote_num_kp": "2987",
           "rating_imdb": "6",
           "vote_num_imdb": "69"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1037329",
-      "date": "1591299008",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Диета по-итальянски",
-        "orig": "Ci vuole un fisico",
-        "alter": "",
-        "year": "2018",
-        "country": "Италия",
-        "director": "Алессандро Тамбурини",
-        "genre": "комедия",
-        "actors": "Клаудио Бигальи,Джампаоло Фабрицио,Анна Феррайоли Равель,Никколо Сенни,Алессандро Тамбурини,Франческа Вальторта",
-        "description": "Встреча Алессандро и Анны &#151; чистая случайность: их обоих прокатили с романтическими свиданиями. Это была судьба. Сначала Алессандро нашел Анну непривлекательной и навязчивой. Но за проведенную вместе долгую ночь со ссорами и безудержными танцами, ночным купанием и другими приключениями герой узнал девушку лучше. Да и вполне возможно, что он лучше узнал себя самого. Эти двое следуют своим путем до рассвета, когда наконец-то должны справиться с прошлым. Алессандро и Анна становятся более зрелыми и, вероятно, влюбляются.",
-        "slogan": "",
-        "premiere": "23 марта 2018",
-        "age": "16",
-        "time": "4800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1037329.jpg",
-        "rating": {
-          "rating_kp": "5.69",
-          "vote_num_kp": "585",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "92"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1384052",
-      "date": "1591291125",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Родня",
-        "orig": "Utraan",
-        "alter": "",
-        "year": "2020",
-        "country": "Индия",
-        "director": "-",
-        "genre": "",
-        "actors": "Hiroshini Komali,Jangiri Madhumitha,Приянка Нэйр",
-        "description": "Молодой председатель студенческого совета колледжа влюблён в прекрасную девушку, но её отцу, инспектору полиции это совсем не нравится, ведь парень вечно встревает в неприятности и затевает драки. Отец хочет уберечь свою дочь от такого \"жениха\", используя для этого силы полиции и не только.",
-        "slogan": "",
-        "premiere": "15 мая 2020",
-        "age": "0",
-        "time": "6120",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNTU5YmRmYjgtNmZmMi00MjhjLWI4YmItNzFjZTM3YjA1NDI4XkEyXkFqcGdeQXVyNTM0MDc1ODE@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "3.4",
-          "vote_num_imdb": "18"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1359043",
-      "date": "1591291106",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Этюд #2",
-        "orig": "Этюд #2",
-        "alter": "",
-        "year": "2020",
-        "country": "Россия",
-        "director": "Андрей Бурмистров",
-        "genre": "драма",
-        "actors": "Денис Крюков,Эва Мильграм,Андрей Малов-Гра,Дмитрий Архангельский",
-        "description": "Маленький Саша растет в интернате и ждет, когда за ним придет мама. Однажды по радио он слышит произведение Сергея Рахманинова, влюбляется в музыку и самостоятельно учится играть на фортепьяно. В интернате, а после &#151; за его пределами, герою предстоит столкнуться с жестокостью, неразделенной любовью, криминалом и найти путь к своему призванию &#151; музыке. Но как перестать ждать маму?",
-        "slogan": "",
-        "premiere": "6 марта 2020",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1359043.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "76",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1292910",
-      "date": "1591288224",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Сущность зла 2: Расплата",
-        "orig": "Insight of Evil 2: Vengeance",
-        "alter": "",
-        "year": "2019",
-        "country": "Канада",
-        "director": "Найджел Хартвелл",
-        "genre": "ужасы",
-        "actors": "Jerilee Barber,Тиффани Эдвардсен,Найджел Хартвелл,Ева Джеймс,Richard Ledbetter,Bill Lucas,Норман МакИсаак,Энни Пантуса,Крис Симис",
-        "description": "Спустя три года после трагических событий, Таня возвращается в злополучный коттедж у озера, чтобы побороть свои страхи и избавиться от ночных кошмаров.",
-        "slogan": "She thought it was over, she was dead wrong",
-        "premiere": "31 октября 2019",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMmJjOTgyZWQtYmQ1Yy00ZDI3LWJmZjgtN2E4MjRjZDNhZmYwXkEyXkFqcGdeQXVyMzQxNDM0NzE@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "9",
-          "rating_imdb": "2.5",
-          "vote_num_imdb": "19"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1284176",
-      "date": "1591288219",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Псы 3: За Честь",
-        "orig": "Psy 3: W imie zasad",
-        "alter": "",
-        "year": "2020",
-        "country": "Польша",
-        "director": "Владислав Пасиковский",
-        "genre": "боевик,драма,криминал",
-        "actors": "Богуслав Линда,Марцин Дороциньский,Цезары Пазура,Ян Фрыч,Себастьян Фабияньский,Томаш Шухардт,Мирослав Бака,Доминика Вало,Артур Жмиевски,Войцех Зилински",
-        "description": "Давно знакомый герой культовой саги о полицейских и сотрудниках Службы Безопасности, Франс Маурер выходит на свободу после 25 лет в заключении. Страна изменилась до неузнаваемости, а вместе с ней - сменились и враги...",
-        "slogan": "",
-        "premiere": "14 января 2020",
-        "age": "0",
-        "time": "7560",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZjE5Mzk1NmYtMmU0Ny00NzgyLWEwOGUtZjdmZDMzZWJkNGJhXkEyXkFqcGdeQXVyMTEwMTY3NDI@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "47",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "964"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1263101",
-      "date": "1591288214",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Снегурочка",
-        "orig": "The Snow Maiden",
-        "alter": "",
-        "year": "2018",
-        "country": "Армения",
-        "director": "Армен Симонян",
-        "genre": "комедия,приключения,детский",
-        "actors": "Шушанна Товмасян,Луиза Нерсисян,Левон Арутюнян,Андраник Арутюнян,Рафаел Ераносян,Армен Грейг",
-        "description": "Дети идут в школу , чтобы принять участие в праздничной елке, познакомиться с настоящими Дедом Морозам и снегурочкой и погружаются в приключения. Мы все некоторое время верили в чудеса, мы писали письма. Эти дети тоже пишут письма и их желания начинают сбываются.",
-        "slogan": "",
-        "premiere": "13 декабря 2018",
-        "age": "0",
-        "time": "4500",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1263101.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "18",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1321513",
-      "date": "1591280115",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Мэйдей",
-        "orig": "Mayday",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Карен Синорр",
-        "genre": "драма",
-        "actors": "Грэйс Ван Паттен,Миа Гот,Havana Rose Liu,Стефани Соколински,Теодор Пеллерен,Frano Maskovic,Джульетт Льюис,Hyoie O'Grady,Златко Бурич,Nathaniel Allen",
-        "description": "У Янека две жены, и он прекрасно маневрирует между ними. Однажды риск того, что кто-то из них узнает о двойных отношениях, резко возрастает, и каждая ложь имеет",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "6840",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNGNjZTFmZTQtYTZkYS00ZjM2LWEwYzgtMWJiMjNhYTNjYjNkXkEyXkFqcGdeQXVyMjExMTI5MzU@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "0",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1042049",
-      "date": "1591280110",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Приходящие",
-        "orig": "They Reach",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Sylas Dall",
-        "genre": "приключения,ужасы",
-        "actors": "Mary Madaline Roe,Morgan Chandler,Иден Кэмпбелл,Kyan Zielinski,Elizabeth Rhoades,Ash Calder,Frederick Floyd,Taylor Bartle,Damian Vines,Adrienne Jordan",
-        "description": "В 1979 году школьница случайно находит кассетный проигрыватель и выпускает демоническое существо, которое обитает в нём. После этого сначала члены её семьи, а потом и другие жители городка начинают пропадать, а в городе открывается портал в ад.",
-        "slogan": "First you hear them. Then you see them. Then they reach...",
-        "premiere": "29 мая 2020",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1042049.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "97",
-          "rating_imdb": "4.1",
-          "vote_num_imdb": "702"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1315399",
-      "date": "1591280108",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Валайям",
-        "orig": "Valayam",
-        "alter": "",
-        "year": "2020",
-        "country": "Индия",
-        "director": "Ramesh Kadumula",
-        "genre": "детектив",
-        "actors": "Digangana Suryavanshi,Laksh Chadalavada,Рави Пракаш,Kalpalatha,Noel Sean,Sri Sudha Bheemireddy,Kireeti,Ravi Varma,Chitram Srinu",
-        "description": "Жена Аравинда исчезает, и он вынужден решить загадку её исчезновения до того, как кончится время, и его признают главным подозреваемым.",
-        "slogan": "",
-        "premiere": "21 февраля 2020",
-        "age": "0",
-        "time": "8400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNTA2ZWJjNDItMTcxMi00MGEwLWEyMTUtYWQ2ZDBjMTY3MjNjXkEyXkFqcGdeQXVyNDc2NzU1MTA@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "8",
-          "rating_imdb": "6",
-          "vote_num_imdb": "164"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1192094",
-      "date": "1591274705",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Одна взаперти",
-        "orig": "Locked Alone",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Yung-Jen Yang",
-        "genre": "ужасы,триллер,драма,криминал,детектив",
-        "actors": "Клер Сюй,Луиза Уорд,MK Haresign,Brittany Fischer,Theodore Newton,Kuniko Shoji,Michelle Barnes,Melinda Nanovsky,Larry Shagawat,Travis Power",
-        "description": "Устроившись на новую работу, Кэтрин наконец приезжает в Нью-Йорк к своему парню. Она поселяется в роскошной квартире на Манхеттене. Но ситуация становится тревожной, когда некий дух, обитающей у неё дома, запирает её дверь и пристаёт к ней. Кэтрин оказывается в полной изоляции и вынуждена выживать в условиях ограниченных ресурсов. Потеряв свободу, она понимает, какой глупой и неблагодарной была всю свою жизнь. Но сможет ли Кэтрин выйти из квартиры живой?",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "5220",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZjRlOGU2OWMtMjczMS00ZmM0LTk5NzAtYzQxNzZkOWYyOTBhXkEyXkFqcGdeQXVyNTI0ODM0OTI@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "9",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
         }
       }
     }

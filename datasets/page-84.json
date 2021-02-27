@@ -2,6 +2,372 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "710843",
+      "date": "1604001834",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Дубляж",
+      "max_qual": "480",
+      "info": {
+        "rus": "Письмо Дракуле",
+        "orig": "Dear Dracula",
+        "alter": "",
+        "year": "2012",
+        "country": "США",
+        "director": "Чад Ван Де Кер",
+        "genre": "мультфильм,семейный",
+        "actors": "Рэй Лиотта, Эмилио Эстевес, Ариэль Уинтер, Исаак Уилсон, Трой Бэйкер, Нэйтан Гэмбл, Мэттью Лиллард, Юрий Ловенталь, Мэрион Росс, Тара Стронг",
+        "description": "Мальчик Сэм обожает рассказывать страшные истории и знает толк в розыгрышах. В канун праздника Хэллоуин он пишет письмо своему кумиру, графу Дракуле, и приглашает его в гости. Сэм мечтает от души повеселиться в компании вампира и до смерти напугать всех своих соседей. Наконец, в ночь празднования таинственный граф появляется на пороге дома мальчишки. Восторгу Сэма нет предела! Но вдруг выясняется, что самый опасный вампир всех времен не в состоянии внушить страх даже трехлетней девчонке!",
+        "slogan": "",
+        "premiere": "16 октября 2012",
+        "age": "6",
+        "time": "2520",
+        "poster": "https://st.kp.yandex.net/images/film/710843.jpg",
+        "rating": {
+          "rating_kp": "4.49",
+          "vote_num_kp": "230",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "282"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5666",
+      "date": "1604001310",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Дракула — отец и сын",
+        "orig": "Dracula père et fils",
+        "alter": "",
+        "year": "1976",
+        "country": "Франция",
+        "director": "Эдуар Молинаро",
+        "genre": "ужасы,комедия",
+        "actors": "Кристофер Ли,Бернар Менез,Мари-Элен Брейя,Катрин Брейя,Мустафа Дали,Бернар Алан,Клод Жениа,Жан-Клод Дофен,Анна Гаэль,Жерар Жюньо",
+        "description": "Сыну легендарного графа Дракулы не совсем по душе образ жизни, который ведёт его отец, в том числе молодого человека отнюдь не радует необходимость питания человеческой кровью. Семейные неурядицы усиливаются, после того, как коммунисты изгоняют графа и его сына из Румынии в начале 1970-х годов. Сам глава семейства начинает сниматься в фильмах в фильмах ужасов в Великобритании, а его отпрыск оказывается во Франции. На премьере одной из картин отец и сын вновь встречаются, однако это приводит лишь в возобновлению давнего конфликта между ними. На этот раз причиной семейной неурядицы является женщина, в которую одновременно влюбляются старший и младший Дракула.",
+        "slogan": "La Cage aux Folles» - Edward Molinaro - comes another very funny movie",
+        "premiere": "15 сентября 1976",
+        "age": "0",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5666.jpg",
+        "rating": {
+          "rating_kp": "6.319",
+          "vote_num_kp": "261",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "548"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "698086",
+      "date": "1604001007",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 480,
+          "8": 480,
+          "9": 480,
+          "10": 480
+        }
+      },
+      "info": {
+        "rus": "Дракула",
+        "orig": "Dracula",
+        "alter": "",
+        "year": "2013",
+        "country": "США, Великобритания",
+        "director": "Энди Годдард, Брайан Келли, Ник Мерфи",
+        "genre": "ужасы,мелодрама,драма,сериал",
+        "actors": "Джонатан Риз Майерс, Джессика Де Гау, Томас Кречман, Виктория Смёрфит, Оливер Джексон-Коэн, Нонсо Анози, Кэти МакГрат, Бен Майлз, Роберт Баферст, Миклош Баньяи",
+        "description": "Конец 19-го века. Таинственный Дракула прибыл в Лондон, выдавая себя за американского предпринимателя, который хочет привнести современную науку в викторианское общество. Он особенно заинтересован в новой технологии электричества, которая обещает сделать ночь светлее, что полезно для тех, кто избегает солнца...",
+        "slogan": "The legend takes new life",
+        "premiere": "12 января 2014",
+        "age": "16",
+        "time": "2580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_698086.jpg",
+        "rating": {
+          "rating_kp": "7.115",
+          "vote_num_kp": "9828",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "28097"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "230129",
+      "date": "1604000926",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Дубляж",
+      "max_qual": "480",
+      "info": {
+        "rus": "Бэтмен против Дракулы",
+        "orig": "The Batman vs. Dracula",
+        "alter": "",
+        "year": "2005",
+        "country": "США",
+        "director": "Майкл Гогуэн, Сюн Юнь Ким, Сэм Лью",
+        "genre": "мультфильм,боевик,ужасы,триллер",
+        "actors": "Рино Романо, Петер Стормаре, Тара Стронг, Том Кенни, Кевин Майкл Ричардсон, Нил Дункан, Джефф Беннетт, Ричард Грин, Нил Росс, Джеймс Си",
+        "description": "В то время как Готэм Сити спит под прикрытием темноты, вылетают две легендарные мыши. Одна из них превращает город в армию вампиров, а другая пытается сделать все возможное, чтобы предотвратить это событие.\r\n\r\nНо Дракула - зто не просто один из врагов Бэтмена, он обладает сверхъестественными способностями, скоростью и умом. Хотя даже со своим арсеналом технических приспособлений, Черный Рыцарь смертен.",
+        "slogan": "Черный рыцарь и Принц темноты в решающей битве!",
+        "premiere": "18 октября 2005",
+        "age": "0",
+        "time": "4980",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_230129.jpg",
+        "rating": {
+          "rating_kp": "6.463",
+          "vote_num_kp": "3339",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "8631"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "79513",
+      "date": "1604000622",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Князь Дракула",
+        "orig": "Dark Prince: The True Story of Dracula",
+        "alter": "",
+        "year": "2000",
+        "country": "США",
+        "director": "Джо Чаппелль",
+        "genre": "ужасы,триллер,биография",
+        "actors": "Рудольф Мартин,Джейн Марч,Кристофер Брэнд,Питер Уэллер,Роджер Долтри,Майкл Саттон,Рэзван Василеску,Раду Амзулеску,Майя Моргенштерн,Клаудиу Блеонц",
+        "description": "В 1431 году в Трансильвании появился на свет легендарный Влад Цепеш, благородный потомок древнего княжеского рода, прославившийся не только своей боевой доблестью, но и безумной жестокостью, ужасавшей даже его соратников. Освобождая Румынию от гнета чужеземцев и беспощадно мстя им, князь Дракула обезглавливал своих недругов, сажал их на кол и устраивал трапезы, обмакивая хлеб в их дымящуюся кровь.\r\n\r\nНарод, ставший свидетелем этих событий, нарек своего гордого властителя «Колосажателем», описав в преданиях и хрониках правду о кошмарных деяниях могущественного румынского господаря, известного нам, как первый в истории вампир - Дракула.",
+        "slogan": "A blood-thirsty tale of love, lust and vengeance",
+        "premiere": "31 октября 2000",
+        "age": "16",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_79513.jpg",
+        "rating": {
+          "rating_kp": "7.014",
+          "vote_num_kp": "1417",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "2286"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "17176",
+      "date": "1604000449",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дракула 2000",
+        "orig": "Dracula 2000",
+        "alter": "",
+        "year": "2000",
+        "country": "США",
+        "director": "Патрик Люссье",
+        "genre": "боевик,ужасы,триллер,фэнтези",
+        "actors": "Джерард Батлер, Кристофер Пламмер, Джонни Ли Миллер, Джастин Уоддэлл, Витамин Си, Дженнифер Эспозито, Омар Эппс, Шон Патрик Томас, Дэнни Мастерсон, Локлин Манро",
+        "description": "Банда воров проникает в хранилище известного лондонского антиквара Ван Хелсинга. Прихватив добычу, они покидают страну. Ван Хелсинг отправляется по следам грабителей, а за ним его помощник Саймон. В итоге Саймон сталкивается с тем, кто превосходит все ожидания. Его могущество безгранично, а деяния - ужасны. Его имя - Дракула.",
+        "slogan": "19th Century Chills Terrify The 21st Century",
+        "premiere": "22 декабря 2000",
+        "age": "16",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_17176.jpg",
+        "rating": {
+          "rating_kp": "6.101",
+          "vote_num_kp": "17386",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "32150"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "14887",
+      "date": "1604000404",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Дракула 3: Наследие",
+        "orig": "Dracula III: Legacy",
+        "alter": "",
+        "year": "2005",
+        "country": "США, Румыния",
+        "director": "Патрик Люссье",
+        "genre": "ужасы",
+        "actors": "Джейсон Скотт Ли, Стивен Биллингтон, Дайан Нил, Джейсон Лондон, Рутгер Хауэр, Илинка Гойя, Джордж Григоре, Рой Шайдер, Том Кэйн, Александра Уэскорт",
+        "description": "Преследование Дракулы приводит охотников на вампиров - отца Уффици и Люка в Румынию. Где они обнаруживают настоящий ад, в котором развернулось ужасающее кровавое пиршество!",
+        "slogan": "You can't fight it. You can't kill it",
+        "premiere": "12 июля 2005",
+        "age": "18",
+        "time": "5160",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mzg1NTU2Nl5BMl5BanBnXkFtZTcwMDU3ODgyMQ@@.jpg",
+        "rating": {
+          "rating_kp": "4.348",
+          "vote_num_kp": "811",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "2673"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "7936",
+      "date": "1604000363",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Дракула 2: Вознесение",
+        "orig": "Dracula II: Ascension",
+        "alter": "",
+        "year": "2002",
+        "country": "США, Румыния",
+        "director": "Патрик Люссье",
+        "genre": "ужасы",
+        "actors": "Дженнифер Кролл, Джейсон Скотт Ли, Крэйг Шеффер, Дайан Нил, Хари Пэйтон, Бранд Родерик, Джейсон Лондон, Крис Хантер, Том Кэйн, Джон Лайт",
+        "description": "История о группе студентов-медиков, которые случайно наталкиваются на тело самого печально известного вампира. Когда появляется таинственный незнакомец и предлагает им 300 миллионов долларов за то, чтобы выставить его кровь на аукцион, они едва ли могут отказаться от такого предложения.\r\n\r\nСоблазн богатства вступает в противоречие с невообразимым ужасом... Они еще не знают, что окажутся безжалостно преследуемыми убийцей вампиров из Ватикана.",
+        "slogan": "The terrifying sequel to Dracula 2000",
+        "premiere": "7 июня 2003",
+        "age": "18",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7936.jpg",
+        "rating": {
+          "rating_kp": "5.109",
+          "vote_num_kp": "1191",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "3900"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "8436",
+      "date": "1603998988",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Дракула",
+        "orig": "Dracula",
+        "alter": "",
+        "year": "1931",
+        "country": "США",
+        "director": "Тод Браунинг",
+        "genre": "ужасы,фэнтези",
+        "actors": "Бела Лугоши, Хелен Чандлер, Дэвид Мэннерс, Дуайт Фрай, Эдвард Ван Слоун, Херберт Банстон, Фрэнсис Даде, Джоан Стэндинг, Чарльз К. Джеррард, Анна Бакач",
+        "description": "Агент по недвижимости Ренфилд приезжает в Трансильванию, чтобы подписать с графом Дракулой договор о покупке им старого аббатства Карфакс в Лондоне. Местные жители предупреждают Ренфилда, что замок Дракулы - логово нечисти, но тот игнорирует предупреждения и отправляется в замок. На перевале Борго его подбирает карета с молчаливым кучером. Выглянув по дороге из кареты, Ренфилд видит, что кучер исчез, а над упряжкой машет крыльями летучая мышь...",
+        "slogan": "Carl Laemmle Presents The VAMPIRE THRILLER!",
+        "premiere": "12 февраля 1931",
+        "age": "12",
+        "time": "4500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8436.jpg",
+        "rating": {
+          "rating_kp": "7.316",
+          "vote_num_kp": "8129",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "47078"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "428699",
+      "date": "1603998823",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Евангелион 3.33: Ты (не) исправишь",
+        "orig": "Evangerion shin gekijôban: Kyu",
+        "alter": "Евангелион 3.33: Ты исправишь",
+        "year": "2012",
+        "country": "Япония",
+        "director": "Махиро Маэда, Масаюки, Кадзуя Цурумаки",
+        "genre": "аниме,мультфильм,боевик,фантастика,драма",
+        "actors": "Спайк Спенсер, Джерри Джуэлл, Тиффани Грант, Брина Паленсиа, Эллисон Кит, Коллин Клинкенберд, Трина Нисимура, Кент Уильямс, Джон Свэйзи, Тиа Линн Баллард",
+        "description": "Мир изменился за четырнадцать лет, прошедших со времени Третьего удара. Для Синдзи, который провел все эти годы в коме, знакомство с новым миром после пробуждения оказывается гораздо болезненнее, чем можно было бы представить. Ему предстоит увидеть, куда ведут благие намерения вчерашних союзников и слепая решимость бывших близких друзей. Но под силу ли ему хоть что-то поменять?",
+        "slogan": "",
+        "premiere": "17 ноября 2012",
+        "age": "16",
+        "time": "6360",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_428699.jpg",
+        "rating": {
+          "rating_kp": "6.675",
+          "vote_num_kp": "4191",
+          "rating_imdb": "7",
+          "vote_num_imdb": "9974"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "429015",
       "date": "1603998602",
       "camrip": "0",
@@ -29,7 +395,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_429015.jpg",
         "rating": {
           "rating_kp": "6.447",
-          "vote_num_kp": "267",
+          "vote_num_kp": "269",
           "rating_imdb": "5.8",
           "vote_num_imdb": "324"
         }
@@ -64,9 +430,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_807650.jpg",
         "rating": {
           "rating_kp": "5.755",
-          "vote_num_kp": "22740",
+          "vote_num_kp": "22746",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "37173"
+          "vote_num_imdb": "37201"
         }
       }
     },
@@ -185,7 +551,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1044279.jpg",
         "rating": {
           "rating_kp": "8.007",
-          "vote_num_kp": "36217",
+          "vote_num_kp": "36251",
           "rating_imdb": "8.6",
           "vote_num_imdb": "183306"
         }
@@ -263,7 +629,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_676525.jpg",
         "rating": {
           "rating_kp": "7.128",
-          "vote_num_kp": "9831",
+          "vote_num_kp": "9859",
           "rating_imdb": "7.1",
           "vote_num_imdb": "37013"
         }
@@ -371,7 +737,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1008390.jpg",
         "rating": {
           "rating_kp": "6.85",
-          "vote_num_kp": "2213",
+          "vote_num_kp": "2215",
           "rating_imdb": "6.7",
           "vote_num_imdb": "6676"
         }
@@ -487,9 +853,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1392764.jpg",
         "rating": {
           "rating_kp": "7.11",
-          "vote_num_kp": "4912",
+          "vote_num_kp": "4926",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "3576"
+          "vote_num_imdb": "3582"
         }
       }
     },
@@ -522,7 +888,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1207341.jpg",
         "rating": {
           "rating_kp": "5.466",
-          "vote_num_kp": "3855",
+          "vote_num_kp": "3868",
           "rating_imdb": "4.6",
           "vote_num_imdb": "266"
         }
@@ -732,7 +1098,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1137559.jpg",
         "rating": {
           "rating_kp": "6.138",
-          "vote_num_kp": "430",
+          "vote_num_kp": "433",
           "rating_imdb": "6.5",
           "vote_num_imdb": "8549"
         }
@@ -908,8 +1274,8 @@
         "rating": {
           "rating_kp": "0",
           "vote_num_kp": "8",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "25"
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "26"
         }
       }
     },
@@ -1396,7 +1762,7 @@
           "rating_kp": "7.879",
           "vote_num_kp": "5929",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "24165"
+          "vote_num_imdb": "24178"
         }
       }
     },
@@ -1441,7 +1807,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1404244.jpg",
         "rating": {
           "rating_kp": "8.734",
-          "vote_num_kp": "323",
+          "vote_num_kp": "326",
           "rating_imdb": "9",
           "vote_num_imdb": "1109"
         }
@@ -1616,7 +1982,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258016.jpg",
         "rating": {
           "rating_kp": "8.054",
-          "vote_num_kp": "14215",
+          "vote_num_kp": "14216",
           "rating_imdb": "7.8",
           "vote_num_imdb": "476"
         }
@@ -1721,359 +2087,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_230228.jpg",
         "rating": {
           "rating_kp": "7.781",
-          "vote_num_kp": "10798",
+          "vote_num_kp": "10809",
           "rating_imdb": "7.4",
           "vote_num_imdb": "899"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "696256",
-      "date": "1603842309",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Заблудшие ангелы",
-        "orig": "Lost Angelas",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Уильям Вейн",
-        "genre": "триллер,детектив",
-        "actors": "Коррина Рико,Уильям Вейн,Джон Джейкобс,Дэвид Провэл,Джон Каподиче,Шарлотта Льюис,Джон Эпри,Джейн Кроули,Мелисса Марс,Дженнифер Филд",
-        "description": "Энджела Роуз, получившая номинацию на звание лучшей актрисы, внезапно пропадает, и единственным человеком, способным разгадать тайну её исчезновения, является Джейк Харт, бывший любовник Энджелы, а также неудачливый сценарист. Преследуемый странными воспоминаниями, Джейк попадает в подноготную Голливуда и обнаруживает связь между Энджелой и другой кинозвездой, пропавшей тридцать лет назад, которую тоже звали Энджела.",
-        "slogan": "",
-        "premiere": "26 марта 2019",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNTI0MjdkMjEtNDAxYS00M2RiLWEzYjItZTEyMjUyN2ZmNzE1XkEyXkFqcGdeQXVyMDg4MDIyOA@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "19",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "1263"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1235265",
-      "date": "1603842305",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Спа",
-        "orig": "Thalasso",
-        "alter": "",
-        "year": "2019",
-        "country": "Франция",
-        "director": "Гийом Никлу",
-        "genre": "комедия",
-        "actors": "Мишель Уэльбек,Жерар Депардье,Максим Лефрансуа,Матье Никур,Дарья Панченко,Люк Шварц,Qianyum Lysis,Norbert Hamelin,Christopher Aubert,Souvenance Pétré",
-        "description": "Французский писатель Мишель Уэльбек и актер Жерар Депардье встречаются в центре талассотерапии в городе Кабур. Они честно пытаются придерживаться строго режима лечения, но внезапные события меняют их планы...",
-        "slogan": "",
-        "premiere": "21 августа 2019",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1235265.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "77",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "507"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "43725",
-      "date": "1603842061",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Шапокляк",
-        "orig": "Шапокляк",
-        "alter": "",
-        "year": "1974",
-        "country": "СССР",
-        "director": "Роман Качанов",
-        "genre": "мультфильм,короткометражка,семейный",
-        "actors": "Василий Ливанов,Ирина Мазинг,Клара Румянова,Владимир Ферапонтов",
-        "description": "Третий фильм из серии картин о приключениях Чебурашки, Крокодила Гены и старухи Шапокляк, в котором они выступают как защитники природы.",
-        "slogan": "",
-        "premiere": "25 февраля 1978",
-        "age": "0",
-        "time": "1140",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_43725.jpg",
-        "rating": {
-          "rating_kp": "7.848",
-          "vote_num_kp": "14995",
-          "rating_imdb": "7.7",
-          "vote_num_imdb": "1035"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "45781",
-      "date": "1603842025",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Винни Пух идет в гости",
-        "orig": "Винни Пух идет в гости",
-        "alter": "Винни-Пух идет в гости",
-        "year": "1971",
-        "country": "СССР",
-        "director": "Фёдор Хитрук",
-        "genre": "мультфильм,короткометражка,семейный",
-        "actors": "Евгений Леонов,Ия Саввина,Анатолий Щукин,Владимир Осенев",
-        "description": "О том как Винни с Пятачком идут в гости к Кролику.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45781.jpg",
-        "rating": {
-          "rating_kp": "8.735",
-          "vote_num_kp": "74267",
-          "rating_imdb": "8.3",
-          "vote_num_imdb": "3048"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "45779",
-      "date": "1603841577",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Винни Пух",
-        "orig": "Винни Пух",
-        "alter": "Винни-Пух",
-        "year": "1969",
-        "country": "СССР",
-        "director": "Фёдор Хитрук",
-        "genre": "короткометражка,семейный,мультсериал",
-        "actors": "Евгений Леонов, Ия Саввина, Владимир Осенев",
-        "description": "Первый фильм из серии о забавном медвежонке и его друзьях. Фильм снят по сказке Алана Милна. Глава, в которой происходит знакомство с Винни-Пухом и подозрительными пчелами.",
-        "slogan": "",
-        "premiere": "17 мая 2017",
-        "age": "6",
-        "time": "660",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45779.jpg",
-        "rating": {
-          "rating_kp": "8.761",
-          "vote_num_kp": "131163",
-          "rating_imdb": "8.3",
-          "vote_num_imdb": "3830"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "44985",
-      "date": "1603840479",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Крокодил Гена",
-        "orig": "Крокодил Гена",
-        "alter": "",
-        "year": "1969",
-        "country": "СССР",
-        "director": "Роман Качанов",
-        "genre": "короткометражка,семейный,мультсериал",
-        "actors": "Василий Ливанов, Клара Румянова, Владимир Раутбарт, Владимир Кенигсон, Тамара Дмитриева",
-        "description": "Знаменитая мультипликационная экранизация произведений Эдуарда Успенского.",
-        "slogan": "",
-        "premiere": "25 февраля 1978",
-        "age": "6",
-        "time": "1200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44985.jpg",
-        "rating": {
-          "rating_kp": "8.029",
-          "vote_num_kp": "33193",
-          "rating_imdb": "7.9",
-          "vote_num_imdb": "1850"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "15377",
-      "date": "1603837828",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Возлюбленные Марии",
-        "orig": "Maria's Lovers",
-        "alter": "",
-        "year": "1984",
-        "country": "США",
-        "director": "Андрей Кончаловский",
-        "genre": "мелодрама,драма",
-        "actors": "Настасья Кински, Джон Сэвэдж, Роберт Митчем, Кит Кэрредин, Анита Моррис, Бад Корт, Карен Янг, Трейси Нельсон, Джон Гудман, Дэнтон Стоун",
-        "description": "Драма по мотивам рассказа Андрея Платонова «Река Потудань». Первый фильм Андрея Кончаловского, сделанный в Голливуде. Солдат возвращается с японской войны к своей любимой. В плену и на фронте он мечтал только о ней, но рядом с Марией он понимает, что утратил мужскую силу и не способен к любви.",
-        "slogan": "They all loved her... too much",
-        "premiere": "3 октября 1984",
-        "age": "16",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_15377.jpg",
-        "rating": {
-          "rating_kp": "7.036",
-          "vote_num_kp": "1167",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "2304"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1403643",
-      "date": "1603837806",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Три драмы",
-        "orig": "Three Dramas",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Jack Foster",
-        "genre": "драма",
-        "actors": "Nia Asanza,Lora Hakason,Kevin Owyang,Lucy Tomasso,Efrem Ramirez Jr.,Brianna Ripkowski,Anthony J. Treme,Ernest Keith Walker,Свит П.",
-        "description": "Три драмы, основанные на произведениях Джона Голсуорси, Сьюзен Гласпелл и Юджина О'Нила.",
-        "slogan": "Anthology Drama based on the works of Pulitzer and Nobel winning authors",
-        "premiere": "",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMWNlM2FhNWQtZjI1OS00NTdlLWFiOTYtYWE4ZGQzNzc0MjczXkEyXkFqcGdeQXVyNjA0NTgwMDY@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "2.6",
-          "vote_num_imdb": "11"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1012504",
-      "date": "1603836027",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Пьяные матросы",
-        "orig": "Brothers in Arms",
-        "alter": "Собратья по оружию",
-        "year": "2017",
-        "country": "США",
-        "director": "Калеб Дж. Филлипс",
-        "genre": "комедия,триллер",
-        "actors": "Ник Тэг, Декстер Маслэнд, Зеф Фостер, Кори де Сильва, Кэтлин Кенион, Джон Уэлш, Colleen J. McShay, Роберт Королак, Abel Lopez",
-        "description": "Четверо приятелей, окончивших школу три года назад, с тех пор только пьют и слоняются без дела. Майкла тяготит, что он ничего не достиг в жизни, и он решает проявить себя, предложив друзьям ограбить банк.",
-        "slogan": "From party animals to career criminals",
-        "premiere": "5 октября 2017",
-        "age": "16",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1012504.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "55",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "137"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1028808",
-      "date": "1603836010",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Аквариум",
-        "orig": "Fishbowl",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Алекса Кинигопулос,Стивен Кинигопулос",
-        "genre": "триллер,драма",
-        "actors": "Khali Addair,Кен Арнольд,Маккензи Эстин,Тони Барбер,Larissa Blair,Конни Боуман,Мария Брум,Бобби Дж. Браун,Виктория Чан,Felicity Clark",
-        "description": "В маленьком городе, полном секретов, три сестры пытаются справиться с утратой матери. А их отец, тем временем, становится всё более помешанным на идее о якобы грядущем конце света.",
-        "slogan": "They call this town the fishbowl; when you climb to the top you just slide right back down",
-        "premiere": "27 октября 2018",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1028808.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "12",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "149"
         }
       }
     }
