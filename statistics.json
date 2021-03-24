@@ -606,5 +606,24 @@
       "world-art": 0,
       "none": 0
     }
+  },
+  {
+    "date": 1616544000,
+    "movies": {
+      "all": 22266,
+      "kinopoisk": 21749,
+      "imdb": 0,
+      "tmdb": 0,
+      "world-art": 0,
+      "none": 0
+    },
+    "tv": {
+      "all": 2998,
+      "kinopoisk": 2786,
+      "imdb": 0,
+      "tmdb": 0,
+      "world-art": 0,
+      "none": 0
+    }
   }
 ]
