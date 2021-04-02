@@ -2,6 +2,543 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1367761",
+      "date": "1594278416",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "StudioBand",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "13",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080
+        }
+      },
+      "info": {
+        "rus": "Глейпнир",
+        "orig": "Gleipnir",
+        "alter": "",
+        "year": "2020",
+        "country": "Япония",
+        "director": "Кадзухиро Ёнэда",
+        "genre": "аниме,мультфильм,детектив,боевик,фэнтези",
+        "actors": "Нао Тояма,Нацуки Ханаэ,Кана Ханадзава,Мику Ито,Такахиро Сакурай,Хироки Ясумото",
+        "description": "У Сюити Кагая есть секрет – он не тот, кого можно назвать нормальным. На самом деле Сюити даже не человек: однажды он проснулся монстром. Сильным, с большими пушистыми лапами, депрессией и ненавистью к себе. Клэр Аоки, девушка, которую он решил спасти, теперь хранит его секрет. Садистка без сочувствия к другим до встречи с Сюити искала ему подобных, надеясь найти свою сестру-монстра. Тем временем Сюити, несмотря на свою новую сущность, наивно продолжает придерживаться человеческой морали.",
+        "slogan": "",
+        "premiere": "5 апреля 2020",
+        "age": "0",
+        "time": "1440",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1367761.jpg",
+        "rating": {
+          "rating_kp": "6.71",
+          "vote_num_kp": "730",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "820"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1130837",
+      "date": "1594278317",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Тайный орден",
+        "orig": "The Order",
+        "alter": "Порядок",
+        "year": "2019",
+        "country": "США",
+        "director": "Матиас Хендл, Лесли Хоуп, Кристин Леман",
+        "genre": "ужасы,фэнтези,драма",
+        "actors": "Джейк Мэнли, Сара Грэй, Адам ДиМарко, Кэтрин Изабель, Лоуриза Тронку, Макс Мартини, Аарон Хейл, Девери Джейкобс, Томас Эльмс, Мэтт Фрюэр",
+        "description": "Первокурсник колледжа Джек Мортон узнаёт о существовании тайной многовековой организации и становится значимой фигурой в войне оборотней и тёмных магов.",
+        "slogan": "",
+        "premiere": "7 марта 2019",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1130837.jpg",
+        "rating": {
+          "rating_kp": "6.363",
+          "vote_num_kp": "3554",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "21585"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1253941",
+      "date": "1594253739",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Здравствуй, мир",
+        "orig": "Hello World",
+        "alter": "",
+        "year": "2019",
+        "country": "Япония",
+        "director": "Томохико Ито",
+        "genre": "аниме,мультфильм,мелодрама,фантастика",
+        "actors": "Тори Мацудзака,Минами Хамабэ,Такуми Китамура,Харука Фукухара,Минако Котобуки,Такэхито Коясу,Риэ Кугимия",
+        "description": "Киото, 2027 год. Стеснительный школьник Наоми Катагаки боится даже говорить вслух в классе, а о том, чтобы признаться в симпатии однокласснице, речи вообще не идёт. Однажды по дороге из школы парень видит в небе непонятное свечение, из которого появляется ворона и утаскивает у него книгу. Погнавшись за птицей и испытав ещё более загадочное искривление пространства, Наоми встречает молодого человека, который заявляет, что он &#151; это он сам 10 лет спустя. Гость заявился, чтобы предотвратить некое ужасное событие, а для этого он должен первым делом найти Наоми девушку.",
+        "slogan": "'Even if the world is destroyed, I want to see you one more time.'",
+        "premiere": "20 сентября 2019",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1253941.jpg",
+        "rating": {
+          "rating_kp": "7.43",
+          "vote_num_kp": "10187",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "1513"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1123206",
+      "date": "1594253716",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "2025: Поле битвы",
+        "orig": "Battlefield 2025",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Joseph Mbah",
+        "genre": "фантастика",
+        "actors": "Хосе Росете,Анна Харр,Дастин Лейтон,Калеб Томас,Alaina Laethem,Адам Голд,Titus Covington,Шон Диллинхэм,Сантьяго Крэйг,Becky Jo Harris",
+        "description": "Группа туристов, сбежавший заключённый, молодая парочка и офицер полиции пытаются спасти свои жизни. За ними охотится существо из другого мира, случайно оказавшееся рядом с небольшим городком в Аризоне.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDdlODgyZTktZjJiNi00MTlkLWJjMGEtOTQ3ZDA1YzlhZDc0XkEyXkFqcGdeQXVyMzM1MzIwOA@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "21",
+          "rating_imdb": "1.9",
+          "vote_num_imdb": "236"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "430528",
+      "date": "1594246538",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Оригинал",
+      "max_qual": "480",
+      "info": {
+        "rus": "Терем-теремок",
+        "orig": "Терем-теремок",
+        "alter": "",
+        "year": "1971",
+        "country": "СССР",
+        "director": "Леонид Амальрик",
+        "genre": "мультфильм,короткометражка",
+        "actors": "",
+        "description": "По мотивам рисунков Ю. Васнецова.",
+        "slogan": "",
+        "premiere": "",
+        "age": "6",
+        "time": "600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_430528.jpg",
+        "rating": {
+          "rating_kp": "7.219",
+          "vote_num_kp": "22999",
+          "rating_imdb": "7",
+          "vote_num_imdb": "86"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "451266",
+      "date": "1594242026",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Оригинал",
+      "max_qual": "480",
+      "info": {
+        "rus": "Федорино горе",
+        "orig": "Федорино горе",
+        "alter": "",
+        "year": "1974",
+        "country": "СССР",
+        "director": "Наталия Червинская",
+        "genre": "мультфильм,короткометражка",
+        "actors": "",
+        "description": "По сказке Чуковского.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "540",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_451266.jpg",
+        "rating": {
+          "rating_kp": "7.1",
+          "vote_num_kp": "11637",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "40"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "260047",
+      "date": "1594241119",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "480",
+      "info": {
+        "rus": "Часы с кукушкой",
+        "orig": "Часы с кукушкой",
+        "alter": "",
+        "year": "1973",
+        "country": "СССР",
+        "director": "Иван Уфимцев",
+        "genre": "мультфильм,короткометражка",
+        "actors": "",
+        "description": "Сказка о том, как кукушка из часов в лес улетела.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "540",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_260047.jpg",
+        "rating": {
+          "rating_kp": "5.807",
+          "vote_num_kp": "1044",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "14"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1344275",
+      "date": "1594218612",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "По заслугам",
+        "orig": "What Goes Around",
+        "alter": "",
+        "year": "2020",
+        "country": "Австралия",
+        "director": "Sam Hamilton",
+        "genre": "ужасы",
+        "actors": "Catherine Morvell,Jesse Bouma,Gabrielle Pearson,Чарльз Джаз Терье,Taylor Pearce,Aly Zhang,Макс Джонсон,Ace Whitman,Tim Smith,Erina Yamada",
+        "description": "Застенчивая студентка обнаруживает, что парень, в которого она влюблена, может оказаться серийным убийцей.",
+        "slogan": "Secrets can bind. Karma can be KILLER",
+        "premiere": "",
+        "age": "0",
+        "time": "4680",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDc2Y2U5MDQtYTJmYy00NWVjLThhOTMtNTk3MWM5YTE2ODNlXkEyXkFqcGdeQXVyMjc0Mzk0NQ@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "30",
+          "rating_imdb": "3.5",
+          "vote_num_imdb": "123"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "843326",
+      "date": "1594216815",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Билал",
+        "orig": "Bilal: A New Breed of Hero",
+        "alter": "",
+        "year": "2015",
+        "country": "ОАЭ",
+        "director": "Хурам Эйч Аллави, Эйман Джамал",
+        "genre": "мультфильм,боевик,приключения",
+        "actors": "Адевале Акинойе-Агбаже, Иэн Макшейн, Чайна Энн Макклейн, Томас Иэн Николас, Майкл Гросс, Синтия Кэй МакУильямс, Джейкоб Латимор, Фред Таташиор, Jon Curry, Мик Уингерт",
+        "description": "Тысячу лет тому назад храбрый мальчик, мечтавший стать великим воином, был похищен коварными врагами.\r\n\r\nВдали от дома, в мире, где все подчинено жажде наживы, где справедливость - лишь миф, он находит в себе силы возвысить свой голос и все изменить.",
+        "slogan": "A Legend Breaks Free!",
+        "premiere": "9 декабря 2015",
+        "age": "6",
+        "time": "6300",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843326.jpg",
+        "rating": {
+          "rating_kp": "6.6",
+          "vote_num_kp": "533",
+          "rating_imdb": "7.9",
+          "vote_num_imdb": "17400"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1007400",
+      "date": "1594216815",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Халк: Где обитают чудовища",
+        "orig": "Hulk: Where Monsters Dwell",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Митч Шауэр",
+        "genre": "мультфильм,боевик,фантастика,фэнтези",
+        "actors": "Фред Таташиор, Лайам О’Брайэн, Джесси Берч, Эдвард Боско, Кьяра Дзанни, Майк Вон, Джон Олсон, Мэттью Уотерсон, Майкл Роблз, Лора Бэйли",
+        "description": "В ночь на Хэллоуин по городу разгуливают не только ряженые монстры и злодеи, но и самые настоящие чудовища, представляющие реальную угрозу для людей. Могущественный Доктор Стрендж на пару с громилой Халком пытаются очистить улицы от буйных созданий. Но откуда же взялись все эти твари, и кто их контролирует? Чтобы это выяснить, Стренджу придётся отправится в самые глубины подсознания Халка и проникнуть в измерение снов, где безраздельно правит сверхъестественный демон и давний враг доктора - Кошмар.",
+        "slogan": "",
+        "premiere": "9 октября 2016",
+        "age": "0",
+        "time": "4500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1007400.jpg",
+        "rating": {
+          "rating_kp": "5.542",
+          "vote_num_kp": "273",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "960"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "714162",
+      "date": "1594216804",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Против природы",
+        "orig": "Against the Wild",
+        "alter": "",
+        "year": "2013",
+        "country": "Канада",
+        "director": "Ричард Боддингтон",
+        "genre": "приключения,семейный",
+        "actors": "СиДжей Адамс, Эрин Питт, Наташа Хенстридж, Тед Уиттэлл, Джон Тенч, Рейнбоу Фрэнкс, Дженнифер Гибсон, Сара Дикинс, Шон Сторер, Грег Кэмпбелл",
+        "description": "Брат с сестрой и их преданный пес после авиационной катастрофы оказываются в той части Аляски, где царят первозданная красота и природная жестокость. Им придется объединить все свои навыки, забыть прежние обиды и научиться доверять друг другу, чтобы вырваться из этого плена.",
+        "slogan": "",
+        "premiere": "10 августа 2013",
+        "age": "12",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_714162.jpg",
+        "rating": {
+          "rating_kp": "5.114",
+          "vote_num_kp": "331",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "1121"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1309927",
+      "date": "1594215007",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Наследница",
+        "orig": "The Heiress",
+        "alter": "",
+        "year": "2019",
+        "country": "Филиппины",
+        "director": "Фраско Мортис",
+        "genre": "ужасы",
+        "actors": "Джанелла Сальвадор,Марисель Сориано,Саншайн Крус,McCoy De Leon,Jane De Leon",
+        "description": "Гламурная девушка становится наследницей крупного состояния, но чтобы его получить, ей нужно пройти курс «Золушки» в одном пансионате, иначе всё состояние перейдет этой организации.",
+        "slogan": "",
+        "premiere": "27 ноября 2019",
+        "age": "0",
+        "time": "6360",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1309927.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "12",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "48"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1220194",
+      "date": "1594214116",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Домой",
+        "orig": "Домой",
+        "alter": "Evge",
+        "year": "2019",
+        "country": "Украина",
+        "director": "Нариман Алиев",
+        "genre": "драма",
+        "actors": "Ахтем Сейтаблаев,Ремзи Билялов,Дарья Барихашвили,Виктор Жданов,Вероника Лукьяненко,Акмал Гурезов,Лариса Яценко,Anatoliy Marempolskiy,Pavel Makarchenko,Oleg Moskalenko",
+        "description": "Действие фильма происходит в современной Украине. Назим погиб на войне. Его отец Мустафа, верующий мусульманин, приезжает за телом Назима, которого хочет похоронить в Крыму. Он настаивает на том, что с ним поехать должен младший сын Алим и соблюсти сорок дней траура.",
+        "slogan": "",
+        "premiere": "22 мая 2019",
+        "age": "0",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1220194.jpg",
+        "rating": {
+          "rating_kp": "7.141",
+          "vote_num_kp": "487",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "997"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1227727",
+      "date": "1594214107",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Пчёлы и раскаты грома",
+        "orig": "Mitsubachi to Enrai",
+        "alter": "",
+        "year": "2019",
+        "country": "Япония",
+        "director": "Кэй Исикава",
+        "genre": "драма,музыка",
+        "actors": "Маю Мацуока,Тори Мацудзака,Уин Морисаки,Одзи Судзука,Тиэми Блоусон,Анджей Хыра,Romain Danna,Рила Фукусима,Чарльз Гловер,Мицуру Хирата",
+        "description": "Четыре молодых музыканта соревнуются в предварительном раунде международного конкурса пианистов.",
+        "slogan": "",
+        "premiere": "4 октября 2019",
+        "age": "0",
+        "time": "7080",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1227727.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "18",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "319"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1140004",
       "date": "1594206005",
       "camrip": "0",
@@ -142,7 +679,7 @@
         "year": "2018",
         "country": "Россия",
         "director": "Вартан Акопян",
-        "genre": "мелодрама,сериал",
+        "genre": "мелодрама",
         "actors": "Антон Хабаров, Елена Николаева, Анастасия Панина, Владимир Симонов, Олег Комаров, Ольга Тумайкина, Ирина Розанова, Любовь Германова, Анна Каменкова, Сергей Юшкевич",
         "description": "Женя и Марк работают в одном офисном центре. Она - владелица небольшого агентства по организации свадеб, настоящая брачная фея, и, кстати, скоро сама собирается замуж. Он - высококлассный адвокат, специализирующийся на разводах и разделе имущества. Каждый из них искренне любит свое дело и уверен, что что помогает людям стать счастливее. Однажды Женя и Марк знакомятся, и... Теперь Женя не так уверена, что хочет замуж за своего идеального Сашу. А Марк, похоже, встретил девушку, ради которой мог бы пересмотреть свои принципы убежденного одиночки. Каждая новая пара, будь то будущие молодожены у Жени, или будущие «бывшие» у Марка, подкидывает им новые темы для размышлений и споров. Удастся ли нашим героям понять друг друга и поверить, что любовь важнее принципов?",
         "slogan": "",
@@ -152,7 +689,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115447.jpg",
         "rating": {
           "rating_kp": "6.9",
-          "vote_num_kp": "2109",
+          "vote_num_kp": "2116",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -207,7 +744,7 @@
         "year": "2017",
         "country": "Япония",
         "director": "Норихиро Наганума, Ёко Канамори, Рюта Кавахара",
-        "genre": "аниме,фэнтези,мелодрама,мультсериал",
+        "genre": "аниме,фэнтези,мелодрама,мультфильм",
         "actors": "Ацуми Танэдзаки, Рёта Такэути, Ая Эндо, Дзюнъити Сувабэ, Ёсиаки Хасэгава, Ая Хисакава, Макото Ясумура, Ами Наито, Нацуми Фудзивара, Хана Сато",
         "description": "В свои 16 Хатори Тисэ уже потеряла гораздо больше, чем остальные. Не имея ни семьи, ни надежды, она понимает: все двери для неё закрыты. Но случайная встреча приводит в движение ржавые колёса судьбы. В самый тёмный час перед Хатори появляется таинственный чародей, который предлагает ей всё изменить. Поможет ли он несчастной девушке выйти к свету или погрузит в ещё больший мрак?",
         "slogan": "",
@@ -216,8 +753,8 @@
         "time": "1440",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072966.jpg",
         "rating": {
-          "rating_kp": "7.527",
-          "vote_num_kp": "4901",
+          "rating_kp": "7.521",
+          "vote_num_kp": "4905",
           "rating_imdb": "7.8",
           "vote_num_imdb": "2085"
         }
@@ -276,7 +813,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1300450.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "162",
+          "vote_num_kp": "163",
           "rating_imdb": "4.9",
           "vote_num_imdb": "283"
         }
@@ -326,7 +863,7 @@
           "rating_kp": "5.856",
           "vote_num_kp": "745",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "3301"
+          "vote_num_imdb": "3313"
         }
       }
     },
@@ -394,7 +931,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_917884.jpg",
         "rating": {
           "rating_kp": "6.439",
-          "vote_num_kp": "3812",
+          "vote_num_kp": "3817",
           "rating_imdb": "6.5",
           "vote_num_imdb": "4933"
         }
@@ -428,7 +965,7 @@
         "time": "5640",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_900615.jpg",
         "rating": {
-          "rating_kp": "5.523",
+          "rating_kp": "5.518",
           "vote_num_kp": "850",
           "rating_imdb": "5.6",
           "vote_num_imdb": "3767"
@@ -813,10 +1350,10 @@
         "time": "4980",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_13078.jpg",
         "rating": {
-          "rating_kp": "6.19",
-          "vote_num_kp": "4004",
+          "rating_kp": "6.189",
+          "vote_num_kp": "4009",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "11304"
+          "vote_num_imdb": "11322"
         }
       }
     },
@@ -849,7 +1386,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_392082.jpg",
         "rating": {
           "rating_kp": "7.089",
-          "vote_num_kp": "7792",
+          "vote_num_kp": "7797",
           "rating_imdb": "6.9",
           "vote_num_imdb": "149"
         }
@@ -921,7 +1458,7 @@
           "rating_kp": "6.653",
           "vote_num_kp": "422",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "4465"
+          "vote_num_imdb": "4469"
         }
       }
     },
@@ -991,7 +1528,7 @@
           "rating_kp": "0",
           "vote_num_kp": "73",
           "rating_imdb": "4.7",
-          "vote_num_imdb": "863"
+          "vote_num_imdb": "864"
         }
       }
     },
@@ -1014,7 +1551,7 @@
         "year": "1976",
         "country": "СССР",
         "director": "Давид Черкасский",
-        "genre": "мюзикл,приключения,мультсериал",
+        "genre": "мюзикл,приключения,мультфильм",
         "actors": "Георгий Кишко, Зиновий Гердт, Семен Фарада, Эдуард Назаров, Евгений Паперный, Григорий Шпигель, Вениамин Смехов, Александр Бурмистров, Георгий Кислюк",
         "description": "Веселая повесть о невероятных приключениях капитана Врунгеля, его старшего помощника Лома и матроса Фукса, совершивших кругосветное путешествие на яхте «Беда».",
         "slogan": "Дивайс",
@@ -1194,10 +1731,10 @@
         "time": "1380",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1338417.jpg",
         "rating": {
-          "rating_kp": "7.244",
-          "vote_num_kp": "1058",
+          "rating_kp": "7.248",
+          "vote_num_kp": "1061",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "1587"
+          "vote_num_imdb": "1599"
         }
       }
     },
@@ -1373,496 +1910,6 @@
           "vote_num_kp": "295",
           "rating_imdb": "5.8",
           "vote_num_imdb": "6812"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "7112",
-      "date": "1594107905",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Молодой Шерлок Холмс",
-        "orig": "Young Sherlock Holmes",
-        "alter": "",
-        "year": "1985",
-        "country": "США",
-        "director": "Барри Левинсон",
-        "genre": "фэнтези,триллер,детектив,приключения",
-        "actors": "Николас Роу,Алан Кокс,Софи Уорд,Энтони Хиггинс,Сьюзен Флитвуд,Фредди Джонс,Найджел Сток,Роджер Эштон-Гриффитс,Эрл Роудс,Брайан Аултон",
-        "description": "В Лондоне происходит серия ужасных и таинственных убийств. Молодой Шерлок Холмс и его новый друг Ватсон приступают к расследованию своего самого первого, но невероятно запутанного и опасного дела...",
-        "slogan": "Before a lifetime of adventure, they had the adventure of a lifetime",
-        "premiere": "4 декабря 1985",
-        "age": "12",
-        "time": "6540",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNmE0NTQ5ZjItN2MzNC00NjBhLTg0ZjYtYzFiMzFlMjhjNmNiXkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg",
-        "rating": {
-          "rating_kp": "6.878",
-          "vote_num_kp": "2325",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "19623"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1102365",
-      "date": "1594107905",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Код Красный",
-        "orig": "Red Joan",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания",
-        "director": "Тревор Нанн",
-        "genre": "мелодрама,драма,биография",
-        "actors": "Джуди Денч, Софи Куксон, Стивен Кэмпбелл Мур, Том Хьюз, Фредди Гаминара, Лоуренс Спэллман, Тереза Србова, Бен Майлз, Робин Соанс, Кевин Фуллер",
-        "description": "Реальная история русской шпионки, которая предотвратила Третью мировую войну. Британская разведка долгие годы гонялась за ней, ее имя стало легендой, но о ее подвиге мы узнали только сейчас, когда был снят гриф секретности.",
-        "slogan": "Реальная история русской шпионки, предотвратившей Третью мировую войну",
-        "premiere": "7 сентября 2018",
-        "age": "18",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1102365.jpg",
-        "rating": {
-          "rating_kp": "6.759",
-          "vote_num_kp": "9741",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "9851"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "66082",
-      "date": "1594107003",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Кинолюбитель",
-        "orig": "Amator",
-        "alter": "",
-        "year": "1979",
-        "country": "Польша",
-        "director": "Кшиштоф Кесьлёвский",
-        "genre": "комедия,мелодрама,драма",
-        "actors": "Ежи Штур, Малгожата Забковска, Ева Покас, Стефан Чижевски, Ежи Новак, Тадеуш Брадецкий, Марек Литевка, Богуслав Собчук, Кшиштоф Занусси, Анджей Юрга",
-        "description": "После рождения ребенка Филип покупает 8-миллиметровую камеру и первые любительские опыты посвящает дочери. В маленьком фабричном городке киноманский порыв дилетанта-оператора не остается незамеченным, и вот уже Филип становится личным помощником местного партийного босса.\r\n\r\nС повышением по службе растет и слава любителя; только взгляд его на реальность через объектив становится все более неприятным и беспощадным и все менее устраивающим власть предержащих...",
-        "slogan": "",
-        "premiere": "16 ноября 1979",
-        "age": "16",
-        "time": "6720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_66082.jpg",
-        "rating": {
-          "rating_kp": "7.879",
-          "vote_num_kp": "2263",
-          "rating_imdb": "7.9",
-          "vote_num_imdb": "6497"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1197928",
-      "date": "1594080007",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Ветер",
-        "orig": "Meltem",
-        "alter": "",
-        "year": "2019",
-        "country": "Франция,Греция",
-        "director": "Basile Doganis",
-        "genre": "драма",
-        "actors": "Дафна Патакия,Рабах Наит Уфелла,Lamine Cissokho,Karam Al Kafri,Акис Сакеллариу,Федор Аткин,Koukoulis Konstantinos",
-        "description": "Через год после смерти матери Елена, молодая француженка с греческими корнями возвращается в дом на острове Лесбос, где она проводила в детстве лето. С ней поехали два друга, Нассим и Секу, два парня из пригорода, больше привыкшие к городским лавкам, чем к райским пляжам.",
-        "slogan": "",
-        "premiere": "13 марта 2019",
-        "age": "0",
-        "time": "5220",
-        "poster": "https://m.media-amazon.com/images/M/MV5BN2VlZjQwM2QtMGMxZi00M2E4LTljN2ItMDJkNTQwODk0MzcxXkEyXkFqcGdeQXVyNTc5OTMwOTQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "9",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "76"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1049670",
-      "date": "1594079114",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Минус на минус даёт плюс",
-        "orig": "Tian sheng bu dui",
-        "alter": "",
-        "year": "2017",
-        "country": "Китай",
-        "director": "Винсент Кок",
-        "genre": "мелодрама,комедия",
-        "actors": "Вик Чоу,Фиона Сит,Рональд Чэн,Джек Као,Майкл Чан,Тиень Ню,Yi-Hang He,Джеки Цай,Joy Sheng,Тай Бо",
-        "description": "Молодой парень наслаждается свободной жизнью. Деньги, поклонницы – что может быть лучше? Но все изменится, когда в его жизнь ураганом влетит эффектная и сексуальная красотка, подосланная его завистливым \"другом\"…",
-        "slogan": "",
-        "premiere": "10 ноября 2017",
-        "age": "0",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1049670.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "12",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "58"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1192599",
-      "date": "1594079109",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Мой парень на таблетках",
-        "orig": "My Boyfriend's Meds",
-        "alter": "",
-        "year": "2020",
-        "country": "Мексика",
-        "director": "Диего Каплан",
-        "genre": "комедия",
-        "actors": "Марко Антонио Агирре,Джейсон Александер,Pamela Almanza,Луис Арриета,Брайан Баумгартнер,Ана Белена,Хайме Камиль,Сандра Эчеверриа,Кевин Холт,Моника Уарте",
-        "description": "Джессика приглашает своего нового парня с собой на курорт, когда вдруг выясняется, что он забыл свои таблетки.",
-        "slogan": "Get Ready for One Crazy Trip",
-        "premiere": "14 февраля 2020",
-        "age": "16",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1192599.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "25",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "347"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1369385",
-      "date": "1594079105",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Птички Предместья",
-        "orig": "Scheme Birds",
-        "alter": "",
-        "year": "2019",
-        "country": "Швеция,Великобритания",
-        "director": "Ellen Fiske,Эллинор Халлин",
-        "genre": "документальный",
-        "actors": "",
-        "description": "Провокационная и захватывающая картина о социальных разочарованиях молодых шотландцев. Глазами юной Джеммы, будущей мамы, мы видим вымирающий индустриальный город. В месте, где ты «либо в залете, либо в пролете», Джемма находит моменты настоящей нежности.",
-        "slogan": "",
-        "premiere": "26 апреля 2019",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMmUxMDQ0NmQtYTczMS00MjE5LWJmYjctYmU4Njk3YWNkMDgyXkEyXkFqcGdeQXVyNTM0NTU5Mg@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "19",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "348"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1310361",
-      "date": "1594075509",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Никто не будет спать",
-        "orig": "Ingen skal sove",
-        "alter": "",
-        "year": "2019",
-        "country": "Дания",
-        "director": "Christian Andersen",
-        "genre": "триллер",
-        "actors": "Ивонн Андерсен,Thomas Biehl,Louise Bonde,Jakob Schmidt Clausen,Andreas Bo Isaksen,Lasse Stage Jensen,Simon Kongsted,Maria Winther N&oslash;rgaard,Magnus Haugaard Petersen",
-        "description": "Мария и Йонас сбегают от уголовников и находят убежище на тихой загородной ферме, где живут люди, уставшие от города. Однако вскоре оказывается, что на ферме всё не так мирно, как кажется на первый взгляд.",
-        "slogan": "Survival is more than just instinct",
-        "premiere": "16 ноября 2019",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZDE5ZDAxYmUtMDVkMS00YTI1LWE0YjctMzdlNTYzZTQ2MTE5XkEyXkFqcGdeQXVyOTk1MTMyMzE@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "25",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "63"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "917202",
-      "date": "1594072805",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Штормовой ветер",
-        "orig": "El Pampero",
-        "alter": "",
-        "year": "2017",
-        "country": "Аргентина,Франция,Уругвай",
-        "director": "Матиас Лучези",
-        "genre": "триллер",
-        "actors": "Сесар Тронкосо,Пилар Гамбоа,Хулио Чавес",
-        "description": "Больной мужчина устраивает путешествие на своей лодке, чтобы предаться воспоминаниям о прошедшей жизни. Но неожиданно он узнает, что на его лодке скрывается девушка. Она просит его о помощи в побеге, чтобы не быть обвиненной в преступлении, которое она не совершала. По пути их ждет множество трудностей, основной из который станет офицер, друг владельца лодки.",
-        "slogan": "",
-        "premiere": "9 марта 2017",
-        "age": "0",
-        "time": "4620",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MWFiMWQtNTAyMy00MzliLTgzMDUtZmYwNjJlNjIyNDFhXkEyXkFqcGdeQXVyMjIzMjUzMTA@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "10",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "98"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "258010",
-      "date": "1594069215",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Оригинал",
-      "max_qual": "480",
-      "info": {
-        "rus": "Дереза",
-        "orig": "Дереза",
-        "alter": "",
-        "year": "1985",
-        "country": "СССР",
-        "director": "Александр Давыдов",
-        "genre": "мультфильм,короткометражка",
-        "actors": "Анатолий Баранцев,Ирина Муравьёва,Нина Зорская",
-        "description": "По мотивам русской народной сказки-шутки.",
-        "slogan": "",
-        "premiere": "",
-        "age": "6",
-        "time": "600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258010.jpg",
-        "rating": {
-          "rating_kp": "7.141",
-          "vote_num_kp": "3873",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "23"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1368878",
-      "date": "1594067405",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Остров Амитивилля",
-        "orig": "Amityville Island",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Марк Полония",
-        "genre": "ужасы,фантастика,боевик,триллер",
-        "actors": "Даниэль Донахью,Jamie Morgan,Jeff Kirkendall,Steve Diasparra,Yolie Canales,James Carolus,Мари ДеЛоренцо,Тим Хэтч,Кассандра Хэйес,Titus Himmelberger",
-        "description": "На маленьком острове Амитивилль, двое ученых проводят опыты в секретной лаборатории, пытаясь создать новую расу людей-суперсолдат.",
-        "slogan": "For God's sake get out of the water!",
-        "premiere": "17 марта 2020",
-        "age": "0",
-        "time": "4200",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNjg3NDFiNTgtYWExYS00MDk4LThkMzctOGI0NjhkNjJkZjYwXkEyXkFqcGdeQXVyMjc0Nzk1Mg@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "18",
-          "rating_imdb": "1.7",
-          "vote_num_imdb": "196"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "962071",
-      "date": "1594066505",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Возвращение домой",
-        "orig": "Back for Good",
-        "alter": "",
-        "year": "2017",
-        "country": "Германия",
-        "director": "Mia Spengler",
-        "genre": "драма,комедия",
-        "actors": "Ким Ридле,Юлиана Кёлер,Leonie Wesselow,Никки фон Темпельхофф,Эмма Дрогунова,Anna Oussankina,Hanife Syleimani,Lena Thom,Хейке Ханолд,Арндт-Шверинг Сонрей",
-        "description": "Три женщины, одна семья: Моника - мать, Энджи - старшая дочь, звезда реалити-шоу, и Кики - подросток, страдающий эпилепсией. Оказавшись без денег и друзей, Энджи возвращается к матери в ненавистный маленький городок. Но то, что казалось катастрофой, сводит женщин вместе и дает им шанс на новую жизнь.",
-        "slogan": "",
-        "premiere": "10 февраля 2017",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_962071.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "9",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "170"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "878760",
-      "date": "1594065614",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Аксель герой",
-        "orig": "Axel der Held",
-        "alter": "",
-        "year": "2018",
-        "country": "Германия",
-        "director": "Хендрик Хёльцманн",
-        "genre": "драма,мелодрама,комедия",
-        "actors": "Йоханнес Кинаст,Кристиан Грасхоф,Эмилия Шуле,Саша Александр Гершак,Оливер Брёкер,Филипп Грабер,Себастьян Хёльц,Имоген Когге,Катарина Вакернагель,Адриан Цвикер",
-        "description": "Маленькую деревню Крёнхен можно было бы назвать королевством: там есть злой король Манне, хозяин птицефабрики и казино, прекрасная королева Дженни - его девушка, и их верноподданные. Вот только похоже, что главному герою - Акселю - в этой сказке досталась роль простачка и неудачника. Он все время витает в своих фантазиях, представляя, какой была бы его жизнь без долгов и ужасной работы, а еще мечтает о юной королеве. Однажды Аксель знакомится с соседом Хайнером, поклонником романов об индейском вожде Виннету, который кардинально меняет его жизнь.",
-        "slogan": "",
-        "premiere": "25 января 2018",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYTVmZWE1YjktNjM4Zi00MTY2LTgzMDctODljZWY1ZGQ4MWNjXkEyXkFqcGdeQXVyMDU5MDEyMA@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "8"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "56811",
-      "date": "1594063806",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Граф Монте-Кристо",
-        "orig": "Le comte de Monte-Cristo",
-        "alter": "",
-        "year": "1953",
-        "country": "Италия, Франция",
-        "director": "Робер Вернэ",
-        "genre": "мелодрама,драма,приключения",
-        "actors": "Жан Маре, Лия Аманда, Даниэль Ивернель, Фолько Люлли, Луи Сенье, Клод Жениа, Жан Темерсон, Франс Асслен, Жюльен Берто, Люсьен Блондо",
-        "description": "По доносу собственных друзей, Эдмон Дантес, был признан виновным в государственной измене и заключен в зловещий замок Иф. Ему суждено было умереть в заточении, но судьба сводит юношу с другим заключенным - аббатом Фариа, который перед смертью раскрывает Дантесу тайну о несметных сокровищах, спрятанных на затерянном в море острове Монте-Кристо и подсказывает идею побега. Совершив дерзкий побег из тюрьмы, Дантес разыскивает сокровища аббата и возвращается в свой город под именем Графа Монте-Кристо, чтобы вершить справедливый суд над теми, кто был причастен к его заточению в темницу.",
-        "slogan": "",
-        "premiere": "14 января 1954",
-        "age": "12",
-        "time": "10980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_56811.jpg",
-        "rating": {
-          "rating_kp": "7.942",
-          "vote_num_kp": "6119",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "872"
         }
       }
     }
