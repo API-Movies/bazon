@@ -2,6 +2,737 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1443833",
+      "date": "1608049802",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Голубой океан",
+        "orig": "An Ocean Blue",
+        "alter": "",
+        "year": "2019",
+        "country": "Аргентина",
+        "director": "Сабрина Морено",
+        "genre": "драма",
+        "actors": "Бето Бернуэз,Умбра Коломбо,Мартина Депаскуаль Фернандес,Нехуэн Фриц,Маргарита Гарелик,Хуан Крус Солис",
+        "description": "Лола с мужем Рикардо и четырьмя детьми отдыхают в курортном городе Мар-дель-Плата. Однако Лолу не радуют теплое море, прогулки по набережной и шопинг, внутри нее бушует буря, но муж, кажется, ничего не замечает. И вот семья приезжает погостить у друзей, и Лола понимает, что эта поездка потеряла всякий смысл и им с мужем надо расстаться. Хаос, таившийся в ее душе, вырвался на свободу. Но тут в семье друзей происходит трагедия, и все шокированы случившимся… Счастью пришел конец, но что ждет их впереди?",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "3900",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1443833.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "74",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "29"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "646785",
+      "date": "1608049397",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "3",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080
+        }
+      },
+      "info": {
+        "rus": "Известная Вселенная",
+        "orig": "Known Universe",
+        "alter": "National Geographic. Известная Вселенная ",
+        "year": "2009",
+        "country": "США",
+        "director": "В. Скотт Голди, Джон Колл Меткалф",
+        "genre": "документальный",
+        "actors": "Стивен Л. Джейкобс, Бо Уивер, Сигрид Клоуз, Энди Хауэлл, David Kaplan, Майкл Дж. Массимино, Мосин Мелвин, Дэвид Дж. Хелфанд, Майк Браун, Роберт Херт",
+        "description": "Вместе с каналом National Geographic вы сможете попасть в мир непознанных явлений, попасть в микро и макромиры, побывать на звездах и изучить строение атома. Вы опуститесь в глубины океанов и окажетесь на околоземной орбите в космосе. На все самые сложные вопросы мироздания канал National Geographic находит понятные любой домохозяйке ответы, а оторваться от документальных фильмов производства Американского национального географического общества как всегда невозможно. Настолько они интересные и познавательные для всех, от прачки до академика...",
+        "slogan": "",
+        "premiere": "15 февраля 2009",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_646785.jpg",
+        "rating": {
+          "rating_kp": "7.787",
+          "vote_num_kp": "172",
+          "rating_imdb": "8",
+          "vote_num_imdb": "308"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "854942",
+      "date": "1608044320",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Джейсон Борн",
+        "orig": "Jason Bourne",
+        "alter": "",
+        "year": "2016",
+        "country": "США, Китай",
+        "director": "Пол Гринграсс",
+        "genre": "боевик,триллер",
+        "actors": "Мэтт Дэймон, Алисия Викандер, Томми Ли Джонс, Венсан Кассель, Джулия Стайлз, Риз Ахмед, Ато Эссонда, Скотт Шеперд, Билл Кэмп, Винценц Кифер",
+        "description": "Мир на грани катастрофы, а значит пришло время ему вернуться. Неаполь, Мюнхен, Нью-Йорк - его имя знают повсюду. Элитный суперагент, лучший из лучших, даже в Лас-Вегасе игра пойдет по его правилам. Он - Джейсон Борн.",
+        "slogan": "Вы знаете его имя",
+        "premiere": "3 июля 2016",
+        "age": "16",
+        "time": "7380",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_854942.jpg",
+        "rating": {
+          "rating_kp": "6.154",
+          "vote_num_kp": "52633",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "210585"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "38492",
+      "date": "1608037876",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Варвары",
+        "orig": "The Barbarians",
+        "alter": "Братья-варвары / I barbari",
+        "year": "1987",
+        "country": "США, Италия",
+        "director": "Руджеро Деодато",
+        "genre": "фэнтези,приключения",
+        "actors": "Питер Пол, Дэвид Пол, Ричард Линч, Ева ЛаРю Каллахан, Вирджиния Брайант, Шиба Алахани, Майкл Берриман, Франко Пистони, Раффаэлла Баракки, Паскуале Беллацекка",
+        "description": "В древние времена из одного племени украли двух новорожденных близнецов. Они выросли весьма здоровыми мордоворотами, поняли, что служат не тому делу, и встали на путь истинный, отправившись спасать свою королеву.",
+        "slogan": "",
+        "premiere": "20 марта 1987",
+        "age": "0",
+        "time": "5220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_38492.jpg",
+        "rating": {
+          "rating_kp": "6.044",
+          "vote_num_kp": "741",
+          "rating_imdb": "5",
+          "vote_num_imdb": "3554"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "837526",
+      "date": "1608034150",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Война волков",
+        "orig": "Wolf Warrior",
+        "alter": "Боевой волк",
+        "year": "2015",
+        "country": "Китай",
+        "director": "Джеки Ву",
+        "genre": "боевик",
+        "actors": "Джеки Ву, Юй Нань, Ни Дахун, Кевин Ли, Сяо Чжу, Ма Дунъянь, Ши Чжаоци, Zibin Fang, Ван Сэнь, Tengyuan Liu",
+        "description": "Своенравное поведение офицера спецназа Лэн Фэна часто вызывает недовольство у начальства. Во время штурма убежища наркоторговцев Фэн нарушает прямой приказ и спасает положение, метким выстрелом убивая наркобарона. После отбывания срока за неподчинение приказам Фэн поступает в китайский элитный отряд под названием Wolf Warrior. Пройдя вместе со своими подчинёнными ряд суровых занятий и тренировок, он собирает команду, которую может назвать своей собственной. Но дело принимает плохой оборот, когда во время учений они попадают в засаду.",
+        "slogan": "A Chinese special force soldier with extraordinary marksmanship is confronted by a group of deadly foreign mercenaries who are hired to assassinate him by a vicious drug lord",
+        "premiere": "6 апреля 2015",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_837526.jpg",
+        "rating": {
+          "rating_kp": "5.738",
+          "vote_num_kp": "1268",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "4521"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "279073",
+      "date": "1608028868",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "2",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080
+        }
+      },
+      "info": {
+        "rus": "Санта-Хрякус: Страшдественская сказка",
+        "orig": "Hogfather",
+        "alter": "",
+        "year": "2006",
+        "country": "Великобритания",
+        "director": "Вадим Жан",
+        "genre": "комедия,триллер,фэнтези,драма",
+        "actors": "Мишель Докери, Марк Уоррен, Иэн Ричардсон, Марникс Ван Ден Бруке, Дэвид Джейсон, Джон Фрэнклин-Роббинс, Дэвид Уорнер, Тони Робинсон, Найджел Плэйнер, Питер Гиннесс",
+        "description": "Ночь перед Страшдеством обычно самое радостное время в Плоском мире, когда перевозбуждённые дети не могут заснуть, предвкушая подарки в развешенных для этого носках... Но в этом году с праздниками творится что-то не то. Всеобщие подозрения связаны с гильдией наёмных убийц Анк-Морпорка, и что-то уже замышляется.\r\n\r\nА любимый дедушка Хог (Санта-Хрякус), который приносит детям подарки - куда-то пропал. И вся жизнь Плоского мира вдруг подвергается страшной опасности, ведь если дети перестанут в него верить, солнце больше не взойдёт! Судьба этого мира лежит в руках пёстрой команды, группки волшебников, возглавляемой аркканцлером Незримого Университета по имени Наверн Чудакули, в которую также входит слуга по имени Альберт, хладнокровная гувернантка Сюзан Сто Гелит и её дедушка, который вообще-то просто... Смерть.",
+        "slogan": "",
+        "premiere": "17 декабря 2006",
+        "age": "12",
+        "time": "11340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_279073.jpg",
+        "rating": {
+          "rating_kp": "7.08",
+          "vote_num_kp": "4797",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "9785"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "12344",
+      "date": "1608027704",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Окно спальни",
+        "orig": "The Bedroom Window",
+        "alter": "",
+        "year": "1987",
+        "country": "США",
+        "director": "Кёртис Хэнсон",
+        "genre": "триллер,детектив,криминал",
+        "actors": "Стив Гуттенберг, Элизабет МакГоверн, Изабель Юппер, Пол Шенар, Карл Ламбли, Уоллес Шоун, Фредерик Коффин, Брэд Гринквист, Роберт Шенккан, Мори Чайкин",
+        "description": "Очаровательная любовница Терри Ламберта - жена его босса Сильвия. Однажды ночью она выглядывает из окна спальни Терри и становится свидетельницей нападения на молодую женщину. Чтобы не скомпрометировать Сильвию Терри соглашается выступить вместо нее свидетелем, но неожиданно становится в глазах полиции главным подозреваемым.\r\n\r\nЕго обвиняют в серии жестоких убийств. Для Терри остается единственный путь к спасению - предпринять собственное расследование в попытке найти настоящего убийцу. А единственный человек, который готов помочь Терри - Дениз, та самая жертва нападения, которое произошло под окном его спальни...",
+        "slogan": "Innocent of murder. Guilty of love",
+        "premiere": "16 января 1987",
+        "age": "12",
+        "time": "6720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_12344.jpg",
+        "rating": {
+          "rating_kp": "6.995",
+          "vote_num_kp": "1925",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "4863"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "867397",
+      "date": "1608027638",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Стая",
+        "orig": "The Horde",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Джаред Кон",
+        "genre": "боевик,ужасы",
+        "actors": "Сидни Свини, Мэттью Уиллиг, Вернон Уэллс, Костас Мэндилор, Билл Моусли, Тиффани Броувер, Нестор Серрано, Дон Уилсон, Нилс Аллен Стюарт, Пол Логан",
+        "description": "Веселый студенческий уик-энд превращается в ужас, когда их группу осаждает стая безобразных, мутировавших людей с ненасытным вкусом к крови.",
+        "slogan": "Fight back or die",
+        "premiere": "6 мая 2016",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_867397.jpg",
+        "rating": {
+          "rating_kp": "4.042",
+          "vote_num_kp": "265",
+          "rating_imdb": "4.2",
+          "vote_num_imdb": "1125"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1144173",
+      "date": "1608013805",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Вы не виноваты",
+        "orig": "Eojae ileun modu gwaenchana",
+        "alter": "",
+        "year": "2019",
+        "country": "Корея Южная",
+        "director": "Ли Сон-хан",
+        "genre": "драма",
+        "actors": "Ким Джэ-чхоль,Юн Чхан-ён,Сон Сан-ён,Ким Мин-джу,Ким Джин-ён,Ким Джон-су,Ли Ын-сэм,Ким Сон-гон,Пак Чи-хун,Ок Чу-ри",
+        "description": "Учитель чувствует вину за самоубийство своего ученика, поэтому теперь изо всех сил пытается быть хорошим учителем для тех, кто находится под его опекой.",
+        "slogan": "",
+        "premiere": "21 ноября 2019",
+        "age": "0",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1144173.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "14",
+          "rating_imdb": "8.1",
+          "vote_num_imdb": "10"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1118760",
+      "date": "1607994920",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Легенда о воюющих царствах 2: Хладнокровный пир",
+        "orig": "L.O.R.D: Legend of Ravaging Dynasties 2",
+        "alter": "",
+        "year": "2020",
+        "country": "Китай",
+        "director": "Го Цзинмин",
+        "genre": "мультфильм,фэнтези",
+        "actors": "Чени Чэнь,Крис У,Фань Бинбин,Уильям Чань,Эмбер Ко,Джелли Линь,Рой Ван,Кэрри Ван,Джексон И,Тони Ван",
+        "description": "Четыре лорда решают освободить бывшего правителя Гильгамеша, поверженного и заточенного Серебряным Священником. В этой опасной миссии они столкнуться с самыми смертоносными убийцами, посланными врагом, и раскроют заговор, угрожающий всей империи.",
+        "slogan": "",
+        "premiere": "4 декабря 2020",
+        "age": "0",
+        "time": "7740",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1118760.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "199",
+          "rating_imdb": "4.3",
+          "vote_num_imdb": "133"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1254189",
+      "date": "1607994905",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Психопомп",
+        "orig": "Psychopomp",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Arthur G. Reyes",
+        "genre": "ужасы,триллер",
+        "actors": "Кен Давитян,Мария Олсен,Emily Eruraviel,Саманта Уэллер,Bret Corey,Майкл Пласенсия,Мэттью Бингхэм,Kyle Peck,Faythe Rullan,Basil Masters",
+        "description": "После несчастного случая кинорежиссёр Арчи Финч теряет память и пытается вернуть свою жизнь на рельсы с помощью потустороннего духа, принимающего разные формы.",
+        "slogan": "Is he directing the movie from hell or are demons directing him",
+        "premiere": "8 декабря 2020",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmQ0YmRmYzktYzliMi00M2Y1LThmNGMtZWU2NTJkNmU5YjBjXkEyXkFqcGdeQXVyNjQ4OTExMjI@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "4",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "41"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "11661",
+      "date": "1607994231",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Как выйти замуж за миллионера",
+        "orig": "How to Marry a Millionaire",
+        "alter": "",
+        "year": "1953",
+        "country": "США",
+        "director": "Жан Негулеско",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Бетти Грэйбл, Мэрилин Монро, Лорен Бэколл, Дэвид Уэйн, Рори Кэлхун, Кэмерон Митчелл, Александр Д’Арси, Фред Кларк, Уильям Пауэлл, Роберт Адлер",
+        "description": "Нью-Йорк слезам не верит. Традиционная ситуация: три модели ищут мужей-миллионеров. Для осуществления своих планов девушки снимают шикарную квартиру в элитном районе и начинают осуществлять задуманное. Проходят три месяца - из квартиры продана последняя мебель, а на горизонте - ни одной подходящей партии. К финалу картины страсти накаляются, у двух подруг возникает дилемма: деньги или любовь? Лишь у третьей, на первый взгляд, все складывается хорошо. Но это лишь - на первый взгляд.",
+        "slogan": "All This and CinemaScope Too! The modern miracle with STEREOPHONIC SOUND",
+        "premiere": "4 ноября 1953",
+        "age": "16",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_11661.jpg",
+        "rating": {
+          "rating_kp": "7.699",
+          "vote_num_kp": "8732",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "20709"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1411324",
+      "date": "1607988619",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Эшли Гарсиа: гениальная и влюбленная",
+        "orig": "Ashley Garcia: Genius in Love",
+        "alter": "",
+        "year": "2020",
+        "country": "-",
+        "director": "-",
+        "genre": "комедия",
+        "actors": "Жанкарлос Канела,Паулина Чавес,Конор Хастинг,Челси Кейн,Марио Лопес,Белла Подарас",
+        "description": "Пятнадцатилетняя ученая Эшли Гарсиа изучает новые горизонты жизни современных подростков после переезда на другой конец страны ради будущей карьеры в робототехнике.",
+        "slogan": "",
+        "premiere": "20 июля 2020",
+        "age": "0",
+        "time": "1800",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODJmOGQ3NmQtY2JlYy00NTI5LWJiYzYtOGUzNjFjYjdkYjFhXkEyXkFqcGdeQXVyMTAwMzM3NDI3.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "3",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "170"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1071302",
+      "date": "1607988613",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Пробуждение муравьев",
+        "orig": "El despertar de las hormigas",
+        "alter": "",
+        "year": "2019",
+        "country": "Коста-Рика,Испания",
+        "director": "Antonella Sudasassi",
+        "genre": "драма",
+        "actors": "Daniela Valenciano,Leynar Gomez,Isabella Moscoso,Адриана Альварез,Carolina Fernandez,Katia Arce,Арлин Родригез,Johanna Rodriguez Vargas,Kyrsia Rodriguez,Greivin Chavarpia",
+        "description": "Исабель и Алсидес – счастливая семья. У них есть собственный дом, небольшой, но стабильный доход и две очаровательные дочери. Но мужчине этого мало – он мечтает о сыне и уговаривает жену попробовать родить еще одного ребенка. В этом с ним солидарны его родители, исподволь, но неуклонно склоняющие свою невестку к новой беременности. Но сама Исабель понимает, что, в случае появления в их семье еще одного человека, ей придется забыть о собственной работе, что доход ее резко упадет, и не останется ни времени, ни сил на личную жизнь. Имеет ли право женщина самостоятельно решать сколько ей иметь детей или прежние традиции большой семьи возьмут верх – зависит не только от Исабель, но и от терпения и любви ее мужа.",
+        "slogan": "",
+        "premiere": "12 февраля 2019",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1071302.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "28",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "554"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1291839",
+      "date": "1607988606",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Рождество в стиле хип-хоп",
+        "orig": "Hip Hop Holiday",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Терри Дж. Вон",
+        "genre": "комедия",
+        "actors": "Gbenro Ajibade,Трина Брэкстон,Daryl,Rachel Doman,Элайджа Эверетт,Андра Фуллер,Jermaine Griffiths,Та’Ронда Джонс,Шейла Лав,Натали Лимор",
+        "description": "Популярная исполнительница хип-хопа, Лиза Джей, встречает на Рождество своего давнего знакомого, и эта встреча заставит капризную диву пересмотреть свою жизнь, своё отношение к людям и узнать причину неприязни к празднику, который она когда-то так любила.",
+        "slogan": "",
+        "premiere": "30 ноября 2019",
+        "age": "0",
+        "time": "5220",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmQ1MWExYzgtMmM5ZS00YTQ2LWFlMGUtZGU1NmVjOGNhMjRkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "4",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "51"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "9877",
+      "date": "1607987894",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Девушка с Петровки",
+        "orig": "The Girl from Petrovka",
+        "alter": "",
+        "year": "1974",
+        "country": "США",
+        "director": "Роберт Эллис Миллер",
+        "genre": "драма,мелодрама,комедия",
+        "actors": "Голди Хоун,Хэл Холбрук,Энтони Хопкинс,Грегуар Аслан,Антон Долин,Бруно Уинцелл,Зоран Андрич,Ханна Хертеленди,Мария Суколов,Зитто Казанн",
+        "description": "История любви американского журналиста Джо Мэррика и русской девушки с патриотическим именем Октябрина. Будущую пару познакомил общий друг Костя, с которым Джо вкушал запретные плоды московского «андеграунда».\r\n\r\nВсё, за чем проводила время эта милая девушка – блошиный рынок, занятия балетом и музыкально-декадентские посиделки в компании мыслящих и дерзких. Однако в суровых глазах советского общества невинный досуг Октябрины выглядит гнусным тунеядством и, естественно, вызывает интерес КГБ…",
+        "slogan": "Настроение Video",
+        "premiere": "22 августа 1974",
+        "age": "16",
+        "time": "6180",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzFmNmM2OWMtYmY0Yy00YTJiLWJlNDMtZGM1NDRhNTQ0MmRkXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@.jpg",
+        "rating": {
+          "rating_kp": "5.901",
+          "vote_num_kp": "260",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "497"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "839992",
+      "date": "1607987866",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Поворот не туда 6",
+        "orig": "Wrong Turn 6: Last Resort",
+        "alter": "",
+        "year": "2014",
+        "country": "США",
+        "director": "Валерий Милев",
+        "genre": "ужасы",
+        "actors": "Энтони Иллот, Крис Джарвис, Акилла Золл, Сэди Кац, Ролло Скиннер, Билли Эшворт, Гарри Белчер, Джо Гаминара, Роксанна Паллетт, Радослав Парванов",
+        "description": "В поисках внезапного и таинственного наследства, Дэнни и его друзья оказываются в Хобб Спрингс, на заброшенном курорте в горах Западной Вирджинии. Вскоре Дэнни узнает, что его родственники, которых он никогда не знал, вели довольно странный образ жизни, основывающийся на каннибализме. Дэнни придется выбирать между друзьями и родственниками.",
+        "slogan": "The family needs new blood",
+        "premiere": "22 августа 2014",
+        "age": "18",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_839992.jpg",
+        "rating": {
+          "rating_kp": "4.135",
+          "vote_num_kp": "9107",
+          "rating_imdb": "4.2",
+          "vote_num_imdb": "13565"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1311460",
+      "date": "1607987217",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Baibako",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        }
+      },
+      "info": {
+        "rus": "Беспорядок после тебя",
+        "orig": "El desorden que dejas",
+        "alter": "",
+        "year": "2020",
+        "country": "Испания",
+        "director": "Рохер Гуаль,Сильвия Кер,Карлос Монтеро",
+        "genre": "триллер,драма,детектив",
+        "actors": "Инма Куэста,Барбара Ленни,Тамар Новас,Арон Пайпер,Роберто Энрикес,Roque Ruíz,Isabel Garrido,Альфонсо Агра,Сусана Данс,Пол Гальяно",
+        "description": "Учительница приходит работать в старшие классы, однако недавно там произошедшая загадочная смерть не дает ей покоя. Женщина начинает бояться за собственную жизнь.",
+        "slogan": "",
+        "premiere": "11 декабря 2020",
+        "age": "0",
+        "time": "3000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1311460.jpg",
+        "rating": {
+          "rating_kp": "6.581",
+          "vote_num_kp": "1591",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "6267"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4224",
+      "date": "1607987158",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Резня в День святого Валентина",
+        "orig": "The St. Valentine's Day Massacre",
+        "alter": "",
+        "year": "1967",
+        "country": "США",
+        "director": "Роджер Корман",
+        "genre": "история,драма,криминал",
+        "actors": "Джейсон Робардс, Джордж Сигал, Ральф Микер, Джин Хейл, Клинт Ричи, Фрэнк Сильвера, Джозеф Кампанелла, Ричард Бакалян, Дэвид Канари, Брюс Дерн",
+        "description": "История «ночи длинных ножей» гангстерского мира, ночи, когда итальянская мафия во главе с безжалостным Аль Капоне обезглавила ирландскую мафию в Чикаго, отправив на свет иной всех главарей этой мощной преступной группировки. По своей молниеносности, безжалостности и масштабности эта война за передел влияния в преступном мире не имеет себе равных.",
+        "slogan": "L'affaire Al Capone",
+        "premiere": "30 июня 1967",
+        "age": "16",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4224.jpg",
+        "rating": {
+          "rating_kp": "6.794",
+          "vote_num_kp": "463",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "3733"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "669982",
+      "date": "1607986741",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Шутки в сторону",
+        "orig": "De l'autre côté du périph",
+        "alter": "",
+        "year": "2012",
+        "country": "Франция",
+        "director": "Давид Шарон",
+        "genre": "комедия,детектив,криминал",
+        "actors": "Омар Си, Лоран Лафитт, Сабрина Уазани, Лионель Абелански, Юсеф Хаджди, Максим Мотт, Лео Леотье, Андре Маркон, Забу Брайтман, Патрик Боннель",
+        "description": "Усман, дерзкий коп из парижского пригорода, и Франсуа, амбициозный столичный полицейский, объединяют усилия в расследовании убийства жены большого чиновника. Усман и Франсуа - разные. Усман живет по законам комедий с Эдди Мерфи, Франсуа обожает Бельмондо в «Профессионале» и «Смертельное оружие». Но расхождение в киновкусах - ничто, когда на кону громкое разоблачение коррупции в самых верхах и, конечно, дружба! Один плюс один = команда, а шутки - в сторону!",
+        "slogan": "",
+        "premiere": "19 декабря 2012",
+        "age": "16",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_669982.jpg",
+        "rating": {
+          "rating_kp": "6.417",
+          "vote_num_kp": "23253",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "4791"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "757",
       "date": "1607986705",
       "camrip": "0",
@@ -63,8 +794,8 @@
         "time": "6720",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1293172.jpg",
         "rating": {
-          "rating_kp": "5.928",
-          "vote_num_kp": "736",
+          "rating_kp": "5.934",
+          "vote_num_kp": "740",
           "rating_imdb": "6.1",
           "vote_num_imdb": "7064"
         }
@@ -133,8 +864,8 @@
         "time": "6600",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1345717.jpg",
         "rating": {
-          "rating_kp": "4.947",
-          "vote_num_kp": "132049",
+          "rating_kp": "4.941",
+          "vote_num_kp": "132360",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -204,9 +935,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1417378.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "162",
+          "vote_num_kp": "167",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "366"
+          "vote_num_imdb": "371"
         }
       }
     },
@@ -238,10 +969,10 @@
         "time": "6480",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_913680.jpg",
         "rating": {
-          "rating_kp": "6.421",
-          "vote_num_kp": "827",
+          "rating_kp": "6.423",
+          "vote_num_kp": "828",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "1637"
+          "vote_num_imdb": "1640"
         }
       }
     },
@@ -274,9 +1005,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_380.jpg",
         "rating": {
           "rating_kp": "7.947",
-          "vote_num_kp": "83548",
+          "vote_num_kp": "83627",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "610647"
+          "vote_num_imdb": "610858"
         }
       }
     },
@@ -366,7 +1097,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_819763.jpg",
         "rating": {
           "rating_kp": "6.884",
-          "vote_num_kp": "604",
+          "vote_num_kp": "605",
           "rating_imdb": "7.3",
           "vote_num_imdb": "2868"
         }
@@ -455,9 +1186,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_557787.jpg",
         "rating": {
           "rating_kp": "6.777",
-          "vote_num_kp": "23107",
+          "vote_num_kp": "23116",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "18172"
+          "vote_num_imdb": "18176"
         }
       }
     },
@@ -542,8 +1273,8 @@
         "time": "3060",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047841.jpg",
         "rating": {
-          "rating_kp": "7.45",
-          "vote_num_kp": "15486",
+          "rating_kp": "7.448",
+          "vote_num_kp": "15493",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -578,9 +1309,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6144.jpg",
         "rating": {
           "rating_kp": "7.904",
-          "vote_num_kp": "178183",
+          "vote_num_kp": "178210",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "439996"
+          "vote_num_imdb": "440076"
         }
       }
     },
@@ -683,9 +1414,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1297314.jpg",
         "rating": {
           "rating_kp": "5.776",
-          "vote_num_kp": "768",
+          "vote_num_kp": "769",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "886"
+          "vote_num_imdb": "900"
         }
       }
     },
@@ -717,10 +1448,10 @@
         "time": "6180",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_958541.jpg",
         "rating": {
-          "rating_kp": "8.231",
-          "vote_num_kp": "16580",
+          "rating_kp": "8.23",
+          "vote_num_kp": "16650",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "18002"
+          "vote_num_imdb": "18193"
         }
       }
     },
@@ -753,9 +1484,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_18440.jpg",
         "rating": {
           "rating_kp": "7.29",
-          "vote_num_kp": "46987",
+          "vote_num_kp": "46995",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "121779"
+          "vote_num_imdb": "121828"
         }
       }
     },
@@ -832,10 +1563,10 @@
         "time": "2760",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1236341.jpg",
         "rating": {
-          "rating_kp": "6.393",
-          "vote_num_kp": "16558",
+          "rating_kp": "6.389",
+          "vote_num_kp": "16575",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "989"
+          "vote_num_imdb": "991"
         }
       }
     },
@@ -868,9 +1599,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_81372.jpg",
         "rating": {
           "rating_kp": "7.587",
-          "vote_num_kp": "8840",
+          "vote_num_kp": "8846",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "63720"
+          "vote_num_imdb": "63783"
         }
       }
     },
@@ -918,10 +1649,10 @@
         "time": "0",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1179554.jpg",
         "rating": {
-          "rating_kp": "6.872",
-          "vote_num_kp": "743",
+          "rating_kp": "6.874",
+          "vote_num_kp": "752",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "10620"
+          "vote_num_imdb": "10633"
         }
       }
     },
@@ -956,7 +1687,7 @@
           "rating_kp": "6.034",
           "vote_num_kp": "5265",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "26664"
+          "vote_num_imdb": "26689"
         }
       }
     },
@@ -1042,10 +1773,10 @@
         "time": "5580",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1282029.jpg",
         "rating": {
-          "rating_kp": "6.831",
-          "vote_num_kp": "718",
+          "rating_kp": "6.827",
+          "vote_num_kp": "724",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "1920"
+          "vote_num_imdb": "1924"
         }
       }
     },
@@ -1080,7 +1811,7 @@
           "rating_kp": "0",
           "vote_num_kp": "11",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "417"
+          "vote_num_imdb": "420"
         }
       }
     },
@@ -1151,778 +1882,6 @@
           "vote_num_kp": "24",
           "rating_imdb": "5.3",
           "vote_num_imdb": "166"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "42045",
-      "date": "1607890538",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Расписание на послезавтра",
-        "orig": "Расписание на послезавтра",
-        "alter": "",
-        "year": "1979",
-        "country": "СССР",
-        "director": "Игорь Добролюбов",
-        "genre": "драма",
-        "actors": "Олег Даль,Маргарита Терехова,Тамара Дегтярева,Александр Леньков,Александр Денисов,Валентин Никулин,Вячеслав Баранов,Юрий Воротницкий,Владимир Солодовников,Ирина Метлицкая",
-        "description": "В элитный физико-математический лицей из обычной школы переходит работать учительница литературы Антонина Сергеевна. С удивлением она замечает, сколь уважительно здесь относятся к ученикам - как к полноценным творческим личностям.\r\n\r\nВскоре у нее начинается роман с молодым директором школы - талантливым физиком, кандидатом наук. Но эйфория первых месяцев общения с учениками сменяется разочарованием - ее питомцы оказываются холодными, рациональными людьми, практически равнодушными к прекрасному...",
-        "slogan": "",
-        "premiere": "29 апреля 1979",
-        "age": "0",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_42045.jpg",
-        "rating": {
-          "rating_kp": "7.257",
-          "vote_num_kp": "2337",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "92"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1244898",
-      "date": "1607879707",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Преступный человек",
-        "orig": "The Criminal Man",
-        "alter": "",
-        "year": "2019",
-        "country": "Грузия,Россия",
-        "director": "Дмитрий Мамулия",
-        "genre": "драма",
-        "actors": "Гиорги Петриашвили,Наталия Джугели,Владимир Кобахидзе,Годердзи Липартелиани,Мадона Чачхиани,Василиса Земскова",
-        "description": "28-летний Георгий Месхи невольно становится свидетелем убийства известного вратаря. Этот факт переворачивает его жизнь вверх тормашками. Он приходит на панихиду убитого вратаря и, стараясь быть незамеченным, наблюдает за женой и дочерью убитого. Вернувшись домой, он звонит в полицию, но услышав голос дежурного, бросает трубку. Изо дня в день, он возвращается на место преступления. Увиденное убийство становится его наваждением. Он начинает интересоваться всем, что связано с преступлением.",
-        "slogan": "",
-        "premiere": "19 ноября 2020",
-        "age": "18",
-        "time": "8100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1244898.jpg",
-        "rating": {
-          "rating_kp": "5.928",
-          "vote_num_kp": "434",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "118"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1143345",
-      "date": "1607877905",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Частицы",
-        "orig": "Les particules",
-        "alter": "",
-        "year": "2019",
-        "country": "Франция,Швейцария",
-        "director": "Блэйз Харрисон",
-        "genre": "фантастика,фэнтези,драма",
-        "actors": "Thomas Daloz,Néa Lüders,Salvatore Ferro,Emma Josserand,Léo Couilfort,Nicolas Marcant,Valérie Randu,Guy Julliard,Christian Landreau,Liam Gras",
-        "description": "С наступлением зимы Пьер-Андре стал понимать, что с миром что-то происходит. Изменения сначала были незаметными, но вскоре всему его миру стала грозить опасность.",
-        "slogan": "",
-        "premiere": "22 мая 2019",
-        "age": "0",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1143345.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "46",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "250"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1179013",
-      "date": "1607871610",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мускул",
-        "orig": "Muscle",
-        "alter": "",
-        "year": "2019",
-        "country": "Великобритания",
-        "director": "Герард Джонсон",
-        "genre": "триллер",
-        "actors": "Крэйг Фэйрбрасс,Полли Маберли,Лоррэйн Барроуз,Шинед Мэтьюз,Питер Фердинандо,Каван Клеркин,Ниал Грег Фултон,Марк Стоббарт,Али Кук,Гордон Браун",
-        "description": "Жизнь офисного работника Саймона переворачивается с ног на голову, когда в нее врывается Терри, его новый личный тренер.",
-        "slogan": "",
-        "premiere": "11 октября 2019",
-        "age": "0",
-        "time": "6600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1179013.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "18",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "294"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1050080",
-      "date": "1607867102",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Трудности адаптации",
-        "orig": "Lost Transmissions",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Кэтрин О’Брайэн",
-        "genre": "драма",
-        "actors": "Александра Даддарио,Джуно Темпл,Саймон Пегг,Брия Винайте,Роберт Шварцман,Тао Окамото,Ребекка Хэзлвуд,Грант Уитни Харви,Джэми Харрис,Дэнни Рамирес",
-        "description": "Когда известный музыкальный продюсер, страдающий психическим расстройством, перестает принимать лекарства, его друзья отправляются за ним по клубам Лос-Анджелеса.",
-        "slogan": "",
-        "premiere": "28 апреля 2019",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTUyODY0N2QtNGU0ZC00NDI2LThmMjItMTk4ZGFmNTM0MzY0XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
-        "rating": {
-          "rating_kp": "5.202",
-          "vote_num_kp": "273",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "758"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1143552",
-      "date": "1607866213",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Стратегия пекинеса",
-        "orig": "La estrategia del pequinés",
-        "alter": "",
-        "year": "2019",
-        "country": "Испания",
-        "director": "Элио Кирога",
-        "genre": "триллер,криминал",
-        "actors": "Энрике Альсидес,Alejandro Almeida,Хорхе Бош,Antonio Báez,Чичо Кастилло,John Dickson,Мириам Фаура,Виктор Формосо,Исмаэль Фричи,Ruth González",
-        "description": "Задолжав крупную сумму денег, наркодилер решается ограбить собственного босса.",
-        "slogan": "",
-        "premiere": "23 марта 2019",
-        "age": "0",
-        "time": "5760",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNGJlZGItZGU1Zi00MjJjLTk5ODAtYzc3NzFlODg1MDI1XkEyXkFqcGdeQXVyMjQ2MTU0MA@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "3",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "73"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1443858",
-      "date": "1607863507",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Сказочное рождество",
-        "orig": "Christmas Ever After",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Пэт Кили",
-        "genre": "драма,мелодрама",
-        "actors": "Дэниэл ДиТомассо,Али Строкер,Шарлотта ЛеГолт,Эллен Дэвид,Alessia Zaccaro,Билл Мэрчент,Ким Нельсон,Gita Miller,Melia Charlotte Cressaty,Nicole Leroux",
-        "description": "Искры летят во все стороны в период рождественских праздников, когда писательница книг романтического жанра встречает красавца-мужчину, похожего на главного героя её романов.",
-        "slogan": "",
-        "premiere": "6 декабря 2020",
-        "age": "0",
-        "time": "5040",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZWVjMWFkNjgtYzczMS00OGM3LThmZTctN2NjY2YwYmM0ZDkzXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "10",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "377"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1388811",
-      "date": "1607845506",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Бесплатный обед",
-        "orig": "Free Lunch Express",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Ленни Бриттон",
-        "genre": "комедия",
-        "actors": "Алекс Агила,Лаура Алеман,Джессика Джейд Андрес,Илэйн Бэллас,Судана Бобатун,Сэм Бриттейн,Jonah Britton,Роберт Уильям Кэмпбелл,Уильям Чарлтон,Алисия Купер",
-        "description": "Абсурдная история Берни Сандерса, решившего выдвинуть свою кандидатуру на пост президента США и вступить в политическую битву с гигантами вроде Клинтонов, вооружившись коктейлями, травкой и парочкой единомышленников.",
-        "slogan": "A Meal Worth Every Cent",
-        "premiere": "4 декабря 2020",
-        "age": "0",
-        "time": "4800",
-        "poster": "https://m.media-amazon.com/images/M/MV5BM2M5MzgwNDktMWIwMC00ZDFjLWFiOTMtOTQ1ZGFkZjkxYjZiXkEyXkFqcGdeQXVyMjQyODE3Mjk@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "10",
-          "rating_imdb": "2.6",
-          "vote_num_imdb": "110"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "11603",
-      "date": "1607838735",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Многоголосый",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Сталинград",
-        "orig": "Stalingrad",
-        "alter": "",
-        "year": "1992",
-        "country": "Германия",
-        "director": "Йозеф Фильсмайер",
-        "genre": "драма,военный",
-        "actors": "Доминик Хорвиц, Томас Кречман, Йохен Никель, Себастьян Рудольф, Дана Ваврова, Мартин Бенрат, Сильвестр Грот, Карел Гержманек, Хайнц Эмигхольц, Фердинанд Шустер",
-        "description": "Зима 1942 года. Шестая армия вермахта сражается в разрушенном до основания Сталинграде. Взвод элитных немецких солдат, в первой же битве потерявший больше половины личного состава, ведет отчаянную борьбу за выживание.\r\n\r\nСвист пуль и рев «катюш», голод и холод доводят их до грани безумия. Уже почти ничего не удерживает солдат на тонкой линии между жизнью и смертью. После всего, что они видели, после утраты всех идеалов призыв фюрера «стоять до конца» приобретает для них совсем другое, гораздо более страшное значение...",
-        "slogan": "Они сражались в аду....",
-        "premiere": "21 января 1993",
-        "age": "16",
-        "time": "8040",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_11603.jpg",
-        "rating": {
-          "rating_kp": "7.531",
-          "vote_num_kp": "8284",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "31232"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1328534",
-      "date": "1607813107",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Прощай, любовь",
-        "orig": "Farewell Amor",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Ekwa",
-        "genre": "драма",
-        "actors": "Нтаре Мвине,Зайнаб Джа,Jayme Lawson,Жуа Ли,Нана Менса,Маркус Скрибнер,Brandon Lamar,Felipe Almonte,Darlene Arrington,Gregory Barker",
-        "description": "После 17 лет разлуки, ангольская семья воссоединяется в США. Живущие в тесной квартире, они преодолевают расстояние, возникшее между ними, через общую любовь к танцам.",
-        "slogan": "",
-        "premiere": "25 января 2020",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1328534.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "13",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "796"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1304397",
-      "date": "1607813103",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Невестка",
-        "orig": "Belle fille",
-        "alter": "",
-        "year": "2020",
-        "country": "Франция",
-        "director": "Méliane Marcaggi",
-        "genre": "-",
-        "actors": "Александра Лами,Миу-Миу,Жонатан Заккаи,Тома Дютрон,Патрик Милле,Гийом Бушед,Léa Léviant,Мишель Ферраччи",
-        "description": "Луизе изменил муж, и она решает слетать на выходные на Корсику. Там она проводит ночь с привлекательным незнакомцем. Только вот наутро обнаруживает, что он не просыпается.",
-        "slogan": "",
-        "premiere": "19 августа 2020",
-        "age": "0",
-        "time": "5760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1304397.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "42",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "148"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1275413",
-      "date": "1607812626",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "last_season": "3",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        },
-        "3": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        }
-      },
-      "info": {
-        "rus": "Кипо и эра чудесных зверей",
-        "orig": "Kipo and the Age of Wonderbeasts",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Young Ki Yoon,Чейз Конли,Chris Copeland",
-        "genre": "мультфильм,фэнтези,боевик,приключения",
-        "actors": "Карен Фукухара,Сидни Микайла,Ди Брэдли Бейкер,Деон Коул,Кой Стюарт,Грэй Гриффин,Джэйк Грин,Стерлинг К. Браун,Мэтт Лоу,Дэн Стивенс",
-        "description": "12-летняя девочка Кипо всю свою жизнь жила под землей, потому что на поверхности наступил апокалипсис неизвестного происхождения. Однажды ей приходится бежать из убежища, и она попадает в удивительный изменившийся мир, в котором флора и фауна мутировала. Там она встречает Волчицу, которая поможет Кипо найти отца и выжить в этом диком мире, и еще несколько попутчиков: четырехглавую и шестиногую свинью Мандо, жизнерадостного парня Бенсона и его напарника &#151; жука-мутанта Дейва, который рандомным образом передвигается по разным стадиям старения.",
-        "slogan": "",
-        "premiere": "14 января 2020",
-        "age": "0",
-        "time": "1440",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1275413.jpg",
-        "rating": {
-          "rating_kp": "7.904",
-          "vote_num_kp": "1066",
-          "rating_imdb": "8.4",
-          "vote_num_imdb": "3479"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1147237",
-      "date": "1607811305",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Помочь всем людям",
-        "orig": "To Provide All People",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания",
-        "director": "Пип Бротон",
-        "genre": "драма",
-        "actors": "Майкл Шин,Ив Майлс,Шан Филлипс,Джонатан Прайс,Эйми-Ффион Эдвардс,Джордж Маккэй,Аршер Али,Ниа Робертс,Мартин Фриман,Сьюзан Уокома",
-        "description": "В честь семидесятилетней годовщины национальной системы здравоохранения Великобритании, поэт Оуэн Ширс рассказывает нам о её зарождении и развитии, используя реальные истории работников НСЗ в сегодняшнем британском обществе.",
-        "slogan": "",
-        "premiere": "28 июня 2018",
-        "age": "0",
-        "time": "3540",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1147237.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "9",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "33"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1118223",
-      "date": "1607805002",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Папина дочка",
-        "orig": "Le prince oublié",
-        "alter": "",
-        "year": "2020",
-        "country": "Франция,Бельгия",
-        "director": "Мишель Хазанавичус",
-        "genre": "фэнтези,комедия,приключения,семейный",
-        "actors": "Омар Си,Кейла Фала,Сара Гэй,Беренис Бежо,Франсуа Дамиенс,Неотис Ронзон,Филипп Вие,Филипп Юшан,Лионель Лаже,Филипп Эриссон",
-        "description": "Перед сном Джиби всегда рассказывал своей маленькой дочери сказки. Вместе они придумали волшебный мир, где живут крошечные феи и величественные драконы, а папа всегда спасает принцессу-дочь от любых опасностей. Но однажды в их сказочном мире появляется новый принц &#151; одноклассник повзрослевшей Софии, а Джиби отправляется в страшную страну Забытья. Джиби нужно выбраться из грустной сказки и найти способ остаться для своей дочери героем и в реальной жизни.",
-        "slogan": "",
-        "premiere": "9 февраля 2020",
-        "age": "12",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1118223.jpg",
-        "rating": {
-          "rating_kp": "5.97",
-          "vote_num_kp": "6163",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "889"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "995075",
-      "date": "1607805002",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Вечность между нами",
-        "orig": "Endless",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Скотт Спир",
-        "genre": "фэнтези,драма,мелодрама",
-        "actors": "Александра Шипп,Николас Хэмилтон,Фамке Янссен,Иэн Трейси,Патрик Гилмор,Кэтрин Лок Хэггквист,Аарон Перл,Дерон Хортон,Зои Белкин,Алекса Барахас",
-        "description": "Влюбленных подростков Райли и Криса разлучает автомобильная авария. Но благодаря необыкновенному дару Райли, у нее есть шанс хотя бы на короткое время вернуть любимого. Отпустить того, кто тебе дорог, или быть вместе, несмотря на смертельную опасность, — непростой выбор для настоящей любви.",
-        "slogan": "Настоящая любовь никогда не угаснет",
-        "premiere": "20 августа 2020",
-        "age": "12",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_995075.jpg",
-        "rating": {
-          "rating_kp": "5.635",
-          "vote_num_kp": "1415",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "764"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "910532",
-      "date": "1607804102",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Чудеса с небес",
-        "orig": "Miracles from Heaven",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Патрисия Ригген",
-        "genre": "драма,семейный",
-        "actors": "Дженнифер Гарнер, Кайли Роджерс, Мартин Хендерсон, Брайтон Шарбино, Кортни Фанслер, Куин Латифа, Эухенио Дербес, Келли Коллинз Линтц, Джон Кэрролл Линч, Брэндон Спинк",
-        "description": "Удивительная история, в которую невозможно поверить, не увидев собственными глазами. Когда кажется все потеряно, и впереди только боль и отчаяние, небеса дарят надежду тем, кто верит.",
-        "slogan": "How do we explain the impossible?",
-        "premiere": "16 марта 2016",
-        "age": "12",
-        "time": "6540",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_910532.jpg",
-        "rating": {
-          "rating_kp": "7.062",
-          "vote_num_kp": "6265",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "22497"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1045245",
-      "date": "1607801229",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K WEB-DL",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Опасный элемент",
-        "orig": "Radioactive",
-        "alter": "",
-        "year": "2019",
-        "country": "Великобритания,Венгрия",
-        "director": "Маржан Сатрапи",
-        "genre": "биография,драма,мелодрама",
-        "actors": "Розамунд Пайк,Сэм Райли,Кара Боссом,Анайрин Барнард,Саймон Расселл Бил,Тим Вудворд,Джонатан Арис,Мирьям Новак,Кори Джонсон,Петер Фанчикаи",
-        "description": "Одержимые страстью к исследованиям, они навсегда изменили мир. Эта история о том, как великие открытия могут привести к страшным катастрофам. Пьер и Мария Кюри. Любовники, первооткрыватели, гении.",
-        "slogan": "Великие открытия. Страшные последствия",
-        "premiere": "6 сентября 2019",
-        "age": "16",
-        "time": "6660",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045245.jpg",
-        "rating": {
-          "rating_kp": "6.425",
-          "vote_num_kp": "3475",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "10060"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1309383",
-      "date": "1607794024",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "last_season": "2",
-      "last_episode": "12",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080
-        }
-      },
-      "info": {
-        "rus": "Жизнь без оружия",
-        "orig": "No Guns Life",
-        "alter": "",
-        "year": "2019",
-        "country": "Япония",
-        "director": "Наоюки Ито",
-        "genre": "аниме,мультфильм,детектив,фильм-нуар,фантастика,боевик",
-        "actors": "Дзюнъити Сувабэ,Манами Нумакура,Даики Ямасита",
-        "description": "Экстенд Дзюдзо Инуи — человек, которому во время войны модифицировали тело. На месте головы у него находится… огромный револьвер. Причем, сам он из него стрелять не может — для этого нужен напарник. Дзюдзо не единственный человек с такой модификацией. Он мечтает найти человека, который сделал из него и сотни других людей живое оружие, но пока вместе с помощницей Мэри помогает расследовать дела, связанные с другими экстендами.",
-        "slogan": "",
-        "premiere": "11 октября 2019",
-        "age": "0",
-        "time": "1440",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1309383.jpg",
-        "rating": {
-          "rating_kp": "7.162",
-          "vote_num_kp": "652",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "456"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "266536",
-      "date": "1607792403",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ветка сирени",
-        "orig": "Ветка сирени",
-        "alter": "",
-        "year": "2007",
-        "country": "Россия,Люксембург",
-        "director": "Павел Лунгин",
-        "genre": "драма,музыка",
-        "actors": "Евгений Цыганов,Виктория Толстоганова,Алексей Кортнев,Игорь Черневич,Олег Андреев,Мириам Сехон,Виктория Исакова,Евдокия Германова,Алексей Петренко,Лия Ахеджакова",
-        "description": "Фильм-фантазия о выдающемся русском композиторе С.В. Рахманинове. По легенде, после каждого выступления Рахманинову приносили букет белой сирени от прекрасной незнакомки. За границей, измотанный концертами и тоской по Родине, Рахманинов на грани нервного истощения. Любящая жена не может вынести всего этого, в конце концов она решает уйти от него. И тут неожиданно приходит разгадка тайны белой сирени...",
-        "slogan": "CP-Digital",
-        "premiere": "7 декабря 2007",
-        "age": "16",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_266536.jpg",
-        "rating": {
-          "rating_kp": "6.627",
-          "vote_num_kp": "1443",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "113"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1259607",
-      "date": "1607783403",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Пустошь тьмы и зла",
-        "orig": "The Dark and the Wicked",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Брайан Бертино",
-        "genre": "ужасы",
-        "actors": "Марин Айрлэнд,Майкл Эбботт мл.,Ксандер Беркли,Линн Эндрюс,Джули Оливер-Тачстоун,Том Ноуики,Элла Бэллентайн,Мэл Кауэн,Минди Рэймонд,Крис Дабек",
-        "description": "Уединённая ферма неприметного сельского городка. После загадочной смерти мужчины при таинственных обстоятельствах кончает жизнь самоубийством жена покойного. Семья собирается, чтобы оплакать умерших. Вскоре наступает темнота, наполненная кошмарами наяву и растущим чувством зловещего, овладевающим всей семьей.",
-        "slogan": "Она вас предупреждала",
-        "premiere": "29 октября 2020",
-        "age": "18",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1259607.jpg",
-        "rating": {
-          "rating_kp": "5.633",
-          "vote_num_kp": "8020",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "9588"
         }
       }
     }
