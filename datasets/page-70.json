@@ -2,6 +2,666 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "61803",
+      "date": "1615468412",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Жандарм в Нью-Йорке",
+        "orig": "Le gendarme à New York",
+        "alter": "",
+        "year": "1965",
+        "country": "Франция, Италия",
+        "director": "Жан Жиро",
+        "genre": "комедия,криминал,приключения",
+        "actors": "Луи де Фюнес, Мишель Галабрю, Кристиан Марен, Ги Гроссо, Мишель Модо, Ален Скотт, Жан Лефевр, Женевьев Град, Марино Мазе, Марио Пизу",
+        "description": "Крюшо, Мерло, Фугас, Трикар и Берлико во главе с сержантом Жербером отправляются в Нью-Йорк, где им поручено представлять Францию на международном конгрессе полицейских. Как не уронить чести мундира, если вас ждет страна соблазнов, да и по-английски вы не знаете ни слова? К тому же Крюшо с ужасом обнаруживает, что его дочь Николь, вопреки воле отца, тоже приехала в Нью-Йорк. Если это откроется - его карьере конец.",
+        "slogan": "",
+        "premiere": "29 октября 1965",
+        "age": "6",
+        "time": "6120",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_61803.jpg",
+        "rating": {
+          "rating_kp": "7.681",
+          "vote_num_kp": "13011",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "6980"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "575452",
+      "date": "1615468039",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "SATRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "last_season": "1",
+      "last_episode": "2",
+      "episodes": {
+        "1": {
+          "1": 480,
+          "2": 480
+        }
+      },
+      "info": {
+        "rus": "Золушка",
+        "orig": "Cenerentola",
+        "alter": "",
+        "year": "2011",
+        "country": "Италия",
+        "director": "Кристиан Дюге",
+        "genre": "драма,мелодрама",
+        "actors": "Фрэнк Круделе,Илария Спада,Мариэлла Валентини,Розабелла Лауренти Селлерс,Мэри Селер,Хари Принц,Дэвид Брэндон,Элиза Ди Эузанио,Джулия Андо,Джузеппе Санфеличе",
+        "description": "Рим, 1946 год. Известный дирижер Валерио Де Лука уходит из жизни, оставив горячо любимую дочь Аврору во власти злой мачехи. Но унаследованные от родителей талант, любовь и вера помогают девушке преодолеть все невзгоды.",
+        "slogan": "",
+        "premiere": "30 октября 2011",
+        "age": "0",
+        "time": "12120",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_575452.jpg",
+        "rating": {
+          "rating_kp": "7.882",
+          "vote_num_kp": "762",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "469"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1114948",
+      "date": "1615467849",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "WestFilm",
+      "max_qual": "1080",
+      "last_season": "4",
+      "last_episode": "4",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720
+        },
+        "2": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720
+        },
+        "3": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        },
+        "4": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080
+        }
+      },
+      "info": {
+        "rus": "Наше время пришло",
+        "orig": "Vår tid är nu",
+        "alter": "",
+        "year": "2017",
+        "country": "Швеция",
+        "director": "Харальд Хамрелль, Anna Zackrisson, Андреа Остлунд",
+        "genre": "драма",
+        "actors": "Хедда Штайнстед,Чарли Густафссон,Анна Бьелькеруд,Адам Лундгрен,Йозефин Нельден,Расмус Троедссон,Маттиас Нордквист,Сюзанн Рейтер,Питер Далле,Каролина Сёдерштрём",
+        "description": "После смерти главы семейства мать с дочерью-подростком Лиа не могут найти общий язык. Чтобы сбежать от реальности, девушка с друзьями увлеклась оккультизмом. Ее мать решает, что их семье нужно сменить обстановку, и они переезжают в одинокостоящий дом в лесу, далеко от друзей и школы Лиа. Отношения не налаживаются, и после очередной ссоры рассерженная девушка идет в лес и проводит обряд вызова духа, чтобы тот убил мать. На следующий день она жалеет о содеянном, но что-то из леса уже пробралось в их дом.",
+        "slogan": "",
+        "premiere": "2 октября 2017",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1114948.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "129",
+          "rating_imdb": "8.2",
+          "vote_num_imdb": "3900"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1266766",
+      "date": "1615467610",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Каньонлендс",
+        "orig": "The Canyonlands",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Brendan Devane",
+        "genre": "ужасы",
+        "actors": "Стефани Барклей,Маркус Боубсич,Уэйн Чарльз Бэйкер,Sheldon D. Brown,Ariana Anderson,Larry Yazzie,Lauren Capkanis,Jesse Buck-Brennan,Dennis Connors",
+        "description": "Пятеро ребят выигрывают сплав по реке Колорадо. Однако их, на первый взгляд, безобидное путешествие принимает фатальный поворот, когда, разбив лагерь вдали от реки, молодые люди понимают, что в этом глухом каньоне они далеко не одни.",
+        "slogan": "Blood is thicker than water",
+        "premiere": "",
+        "age": "0",
+        "time": "5940",
+        "poster": "https://thumbs.filmix.tech/posters/orig/kanonlends-2021_149601_0.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1388394",
+      "date": "1615456635",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        }
+      },
+      "info": {
+        "rus": "Мастер",
+        "orig": "Мастер",
+        "alter": "",
+        "year": "2020",
+        "country": "Россия",
+        "director": "Степан Коршунов",
+        "genre": "драма,спорт",
+        "actors": "Анатолий Белый,Игорь Петренко,Антон Васильев,Макар Запорожский,Линда Лапиньш,Аристарх Венес,Никита Павленко,Сергей Шакуров,Ангелина Поплавская,Ингрид Олеринская",
+        "description": "Бывший пилот гоночной команды «КАМАЗ-мастер» Денис Сазонов после 12-летнего перерыва и краха на всех жизненных фронтах хочет вернуться в родную команду. Но это оказывается непросто: когда-то, став самым молодым чемпионом мира в истории ралли-рейдов, он был уволен из «КАМАЗ-мастера» за нарушение командной этики. Денис хочет вернуть чувство самоуважения и причастность к «большому делу» и снова выиграть ралли-рейд. Но в команде его никто не ждёт. Заместитель директора команды Ерёмин не хочет давать ему шанс, ведь считает, что Денис нарушил командные правила. Сазонов устраивается в команду уборщиком, проходя весь путь «в руль» с самого начала. Но и здесь его ждёт неприятный сюрприз: он встречает свою бывшую жену Женю, которая планирует занять место штурмана и стать первой женщиной-пилотом в мужском коллективе.",
+        "slogan": "",
+        "premiere": "18 февраля 2021",
+        "age": "0",
+        "time": "3540",
+        "poster": "https://i.piccy.info/i9/d36e2ddf528008e3bb82029363c753fa/1613646743/212632/1414327/2026549655245_1419898.jpg",
+        "rating": {
+          "rating_kp": "7.383",
+          "vote_num_kp": "1495",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "494485",
+      "date": "1615436102",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "HDTVRip",
+      "translation": "Green Tea",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "16",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720,
+          "14": 720,
+          "15": 720,
+          "16": 720
+        }
+      },
+      "info": {
+        "rus": "Моя прекрасная леди",
+        "orig": "Agasshireul butakhae",
+        "alter": "",
+        "year": "2009",
+        "country": "Корея Южная",
+        "director": "Чи Ён-су",
+        "genre": "мелодрама,комедия",
+        "actors": "Юн Ын-хе,Юн Сан-хён,Чон Ир-у,Ким Ён-гван,Сон Джун-ги,Мун Чхэ-вон,Хи-Вон Ли,Ван Сок-хён,Ли Джэ-хи",
+        "description": "Богатая и красивая наследница Кан Хе На с синдромом принцессы может получить всё, чего бы ни пожелала в этом мире. Кроме одного – любви. Однако вся её благополучная жизнь рушится после встречи с бедняком Со До Чан, в которого она влюбляется. Он появляется в её жизни под маской управляющего домом, положившим глаз на её семейное состояние.",
+        "slogan": "",
+        "premiere": "19 августа 2009",
+        "age": "0",
+        "time": "3900",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_494485.jpg",
+        "rating": {
+          "rating_kp": "7.527",
+          "vote_num_kp": "975",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "458"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1161421",
+      "date": "1615426703",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Одноголосый",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "6",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720
+        }
+      },
+      "info": {
+        "rus": "Эра ИИ",
+        "orig": "The Age of A.I.",
+        "alter": "",
+        "year": "2019",
+        "country": "США,Канада",
+        "director": "-",
+        "genre": "документальный",
+        "actors": "Rana El Kaliouby,Роберт Дауни мл.,Pedro Domingos,Ayanna Howard,Jim Ewing,Matt McMullen,Марк Сагар,John Shaw,Cathy Ewing,Masie Kuh",
+        "description": "В научно-документальном сериале \"The Age of A.I.\" главными героями являются реальные ученые и инженеры, область деятельности которых так или иначе связана с миром разработки искусственного интеллекта. Вместе они объясняют особенности создания и работы ИИ и стараются разобраться с мифами о созданных людьми машинах.",
+        "slogan": "",
+        "premiere": "18 декабря 2019",
+        "age": "0",
+        "time": "2100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1161421.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "82",
+          "rating_imdb": "7.8",
+          "vote_num_imdb": "322"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1116933",
+      "date": "1615419909",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Постоянная экспозиция",
+        "orig": "Permanent Collection",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Michael Irish",
+        "genre": "драма,комедия",
+        "actors": "James Scott Patterson,Macy Idzakovich,Nazlah Black,Шарлотта Байдуэлл,Sarah Herrman,Сандра Рок,Marie Smalley,Tyler Caffall,Donalia Jones,Дэвид Томас Райли",
+        "description": "История о том, как бармен-мизантроп среднего возраста заботится о жене, параллельно заводя дружбу с юной и впечатлительной певицей, которая только-только открывает для себя прелести жизни в Нью-Йорке.",
+        "slogan": "A film about (ostensible) New Yorkers",
+        "premiere": "1 февраля 2020",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjQyNzE3YmQtZDNlOS00OGQzLTlhMzgtYzVhYTUwYTY5NzcwXkEyXkFqcGdeQXVyMTMzNDQxNzc@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "32"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1310950",
+      "date": "1615416313",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Полный отрыв",
+        "orig": "Party Hard",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "William Nicholas Clay",
+        "genre": "драма,комедия",
+        "actors": "Hunter Bolton,Brian Forbes,Ty Rowe,Эми Броуер,Liz Jennings,Cole Connor,Justin Daniels,Stanford Gardner,Stephen T. Canada,Tripp Klimka",
+        "description": "Чендлер возвращается в свой родной город, чтобы исправить свои ошибки. Но вместо этого он начинает ходить по барам со своими друзьями Тайем и Джулсом.",
+        "slogan": "Bummer Summer Bro!",
+        "premiere": "22 сентября 2020",
+        "age": "0",
+        "time": "6180",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTNhYTQ1NzQtMmMzOS00NGE1LTk1NTUtMzRkZWUzNGM5YmQwXkEyXkFqcGdeQXVyMjEwMDMyNTA@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "22"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4369026",
+      "date": "1615410909",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Тетради",
+        "orig": "The Notebooks",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Джейсон Кэмпбелл",
+        "genre": "драма",
+        "actors": "Майкл Джонсон,Dennis P. Marburger,Becky Rosser,Taylen Washington,Charlie Brown,Barbara Zablocky,Morgan Stubbe,Stephanie Drake",
+        "description": "Когда на старости Престон Уолкер начинает постепенно терять память и забывать не только давние события, но и фундаментальные вещи, он решает вернуться в родной город и ментально попрощаться с ним. Но там происходят события, которые резко меняют ход его жизни и психологию.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "3900",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDk4NzM2MTItNzBlMi00NDhhLWFiNDAtMGU4MTk2OGI5NDUyXkEyXkFqcGdeQXVyMTA1MzY0MTc2.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": "3.8",
+          "vote_num_imdb": "20"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1442309",
+      "date": "1615398302",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Озарение",
+        "orig": "Road to Damascus",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Anthony G. Perkins",
+        "genre": "триллер,драма,криминал,детектив",
+        "actors": "Frank Red,Becky Killerson,Denzel Moore,Christopher Michael Carney,Ali Daniels,Carl Swanson,Джордан Кертис,Джанан Терпстра,Tiffany Cornwell,Brian Alan Gibson",
+        "description": "Бывший алкоголик Фрэнсис по уши в долгах. Внезапное исчезновение его соседки по дому раскрывает ему тайный мир денег, насилия и жутких привычек. Постепенно поиски девушки превращаются в поиск смысла перед лицом вечности.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWE3MGU0NjMtM2U5MC00ZjhlLWIzNTYtYTU1NDc0MjU1OTE0XkEyXkFqcGdeQXVyMTI1MzU1NTUy.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "61"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "61238",
+      "date": "1615397232",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Элизабеттаун",
+        "orig": "Elizabethtown",
+        "alter": "",
+        "year": "2005",
+        "country": "США",
+        "director": "Кэмерон Кроу",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Орландо Блум, Кирстен Данст, Сьюзен Сарандон, Алек Болдуин, Брюс МакГилл, Джуди Грир, Джессика Бил, Пол Шнайдер, Лаудон Уэйнрайт  III, Гейлард Сартейн",
+        "description": "В одночасье потеряв работу и девушку, молодой дизайнер Дрю Бэйлор собирается покончить с собой. Другое несчастье заставляет его вернуться в родной провинциальный городок. В полёте он знакомится со стюардессой Клэр...",
+        "slogan": "Желания сбываются, когда уже не ждешь",
+        "premiere": "4 сентября 2005",
+        "age": "12",
+        "time": "7380",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_61238.jpg",
+        "rating": {
+          "rating_kp": "6.838",
+          "vote_num_kp": "24351",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "67854"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1237313",
+      "date": "1615397013",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Как проснуться от кошмара?",
+        "orig": "How to Stop a Recurring Dream",
+        "alter": "",
+        "year": "2021",
+        "country": "Великобритания",
+        "director": "Ed Morris",
+        "genre": "драма",
+        "actors": "Руби Баркер,Лили-Роуз Асландогду,Джэми Мичи,Миранда Нолан,Андре Флинн,Адам Хагилл,Йен Портер,Джек Пирс,Ли Байфорд,Бартли Бурк",
+        "description": "После того как родители двух сестер объявляют о разделении опеки, старшая сестра Якира похищает Келли, чтобы понять друг друга, прежде чем их разделят.",
+        "slogan": "Coming of age drama",
+        "premiere": "",
+        "age": "0",
+        "time": "5340",
+        "poster": "https://thumbs.filmix.tech/posters/orig/kak-prosnutsya-ot-koshmara-2021_149598_0.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1302874",
+      "date": "1615396865",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кровь на короне",
+        "orig": "Just Noise",
+        "alter": "",
+        "year": "2021",
+        "country": "Мальта,Канада,США",
+        "director": "Давиде Феррарио",
+        "genre": "драма,история",
+        "actors": "Малкольм МакДауэлл,Харви Кейтель,Том Прайор,Йен Вирго,Лишон Александер,Михаил Басмаджян,Бенедикк Блайт,Кристофер Дингли,Эрика Мускат,Мэттью Мэгги",
+        "description": "В последние дни Первой мировой войны, во время мальтийской революции за независимость, двум британским офицерам поручено подавить беспорядки и скрыть кровавое столкновение противодействующих сторон. Ни в чем не повинных протестующих сажают в тюрьмы и убивают.",
+        "slogan": "",
+        "premiere": "9 марта 2021",
+        "age": "0",
+        "time": "6180",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjY4ZGIxMTgtODg3YS00MWQ0LWJmYTAtNmJhYjMzODVlMjA1XkEyXkFqcGdeQXVyNjU0NTI0Nw@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "10",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "110"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1097411",
+      "date": "1615395602",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "В плену надежды",
+        "orig": "Hope Gap",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания",
+        "director": "Уильям Николсон",
+        "genre": "драма,мелодрама",
+        "actors": "Билл Найи,Аннетт Бенинг,Джош О’Коннор,Аийша Харт,Николас Барнс,Роуз Кигэн,Райан Маккен,Сэлли Роджерс,Николас Блейн,Деррен Литтен",
+        "description": "Картина повествует о пожилом мужчине, который решает бросить жену и сообщает о своем решении приехавшему погостить сыну.",
+        "slogan": "",
+        "premiere": "6 сентября 2019",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1097411.jpg",
+        "rating": {
+          "rating_kp": "6.703",
+          "vote_num_kp": "219",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "3554"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1190935",
+      "date": "1615392016",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ступая во мрак",
+        "orig": "Wander Darkly",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Тара Миле",
+        "genre": "мелодрама,фэнтези",
+        "actors": "Сиенна Миллер,Диего Луна,Ванесса Байер,Эйми Карреро,Бет Грант,Айден Майэри,Тори Киттлз,Джеймс Хеберт,Инде Наварретт,Бретт Райс",
+        "description": "У супругов Адриенн и Маттео недавно родилась дочь, и в отношениях наметился разлад. Они попадают в автоаварию, в результате которой Адриенн погибает. Теперь женщина в виде бесплотного призрака вынуждена наблюдать за семьёй со стороны, но, кажется, судьба предоставляет ей шанс исправить ошибки прошлого.",
+        "slogan": "Some stories end with a beginning",
+        "premiere": "25 января 2020",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1190935.jpg",
+        "rating": {
+          "rating_kp": "5.328",
+          "vote_num_kp": "160",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "826"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1238745",
       "date": "1615391116",
       "camrip": "0",
@@ -64,7 +724,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1244063.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "122",
+          "vote_num_kp": "123",
           "rating_imdb": "4.8",
           "vote_num_imdb": "514"
         }
@@ -250,10 +910,10 @@
         "time": "2700",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1319060.jpg",
         "rating": {
-          "rating_kp": "6.51",
-          "vote_num_kp": "677",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "2052"
+          "rating_kp": "6.508",
+          "vote_num_kp": "681",
+          "rating_imdb": "6",
+          "vote_num_imdb": "2067"
         }
       }
     },
@@ -410,7 +1070,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_824954.jpg",
         "rating": {
           "rating_kp": "7.85",
-          "vote_num_kp": "43536",
+          "vote_num_kp": "43541",
           "rating_imdb": "8",
           "vote_num_imdb": "56635"
         }
@@ -480,9 +1140,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_817556.jpg",
         "rating": {
           "rating_kp": "6.485",
-          "vote_num_kp": "4592",
+          "vote_num_kp": "4593",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "25296"
+          "vote_num_imdb": "25308"
         }
       }
     },
@@ -515,9 +1175,9 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BYWQyZGQwMzktMjFhYS00MmZmLWI3ZDEtNzg3MzRmM2ZjMDc1XkEyXkFqcGdeQXVyODY5NzkyMjA@.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "575",
+          "vote_num_kp": "597",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "474"
+          "vote_num_imdb": "480"
         }
       }
     },
@@ -550,9 +1210,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1249172.jpg",
         "rating": {
           "rating_kp": "6.636",
-          "vote_num_kp": "64969",
+          "vote_num_kp": "65589",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "478"
+          "vote_num_imdb": "480"
         }
       }
     },
@@ -619,10 +1279,10 @@
         "time": "6600",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045017.jpg",
         "rating": {
-          "rating_kp": "5.248",
-          "vote_num_kp": "6805",
+          "rating_kp": "5.247",
+          "vote_num_kp": "6972",
           "rating_imdb": "5.3",
-          "vote_num_imdb": "53652"
+          "vote_num_imdb": "53963"
         }
       }
     },
@@ -1361,7 +2021,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1007943.jpg",
         "rating": {
           "rating_kp": "6.692",
-          "vote_num_kp": "1736",
+          "vote_num_kp": "1738",
           "rating_imdb": "7.1",
           "vote_num_imdb": "7443"
         }
@@ -1421,853 +2081,6 @@
           "vote_num_kp": "1046",
           "rating_imdb": 0,
           "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1111907",
-      "date": "1615308776",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "WestFilm",
-      "max_qual": "1080",
-      "last_season": "4",
-      "last_episode": "8",
-      "episodes": {
-        "3": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720
-        },
-        "4": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080
-        }
-      },
-      "info": {
-        "rus": "Роузхейвен",
-        "orig": "Rosehaven",
-        "alter": "",
-        "year": "2016",
-        "country": "Австралия",
-        "director": "Джонатан Бру,Шон Уилсон",
-        "genre": "комедия",
-        "actors": "Селия Паквола,Люк МакГрегор,Крис МакКвейд,Ноэла Фокскрофт,Кэти Робертсон,Ким Нуки,Дэвид Куирк,Сэм Коттон,Энтони Морган,Иэн Лэнг",
-        "description": "Дэниел Маккаллум возвращается в родной городок в Тасмании, чтобы помочь матери в семейном бизнесе.",
-        "slogan": "Best friends. Small town. Big plans",
-        "premiere": "12 октября 2016",
-        "age": "0",
-        "time": "1680",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMDMxMWI0MzgtZmJjYS00ZGQwLWJmNmItNWZiNTA5NTViNzBmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDM3ODU0Nw@@._V1_FMjpg_UX400_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "17",
-          "rating_imdb": "7.9",
-          "vote_num_imdb": "909"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1111907",
-      "date": "1615308750",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "GreenРай Studio",
-      "max_qual": "480",
-      "last_season": "2",
-      "last_episode": "8",
-      "episodes": {
-        "1": {
-          "1": 480,
-          "2": 480,
-          "3": 480,
-          "4": 480,
-          "5": 480,
-          "6": 480,
-          "7": 480,
-          "8": 480
-        },
-        "2": {
-          "1": 480,
-          "2": 480,
-          "3": 480,
-          "4": 480,
-          "5": 480,
-          "6": 480,
-          "7": 480,
-          "8": 480
-        }
-      },
-      "info": {
-        "rus": "Роузхейвен",
-        "orig": "Rosehaven",
-        "alter": "",
-        "year": "2016",
-        "country": "Австралия",
-        "director": "Джонатан Бру,Шон Уилсон",
-        "genre": "комедия",
-        "actors": "Селия Паквола,Люк МакГрегор,Крис МакКвейд,Ноэла Фокскрофт,Кэти Робертсон,Ким Нуки,Дэвид Куирк,Сэм Коттон,Энтони Морган,Иэн Лэнг",
-        "description": "Дэниел Маккаллум возвращается в родной городок в Тасмании, чтобы помочь матери в семейном бизнесе.",
-        "slogan": "Best friends. Small town. Big plans",
-        "premiere": "12 октября 2016",
-        "age": "0",
-        "time": "1680",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMDMxMWI0MzgtZmJjYS00ZGQwLWJmNmItNWZiNTA5NTViNzBmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDM3ODU0Nw@@._V1_FMjpg_UX400_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "17",
-          "rating_imdb": "7.9",
-          "vote_num_imdb": "909"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1072991",
-      "date": "1615308583",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "Amedia",
-      "max_qual": "1080",
-      "last_season": "3",
-      "last_episode": "8",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080
-        },
-        "3": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080
-        }
-      },
-      "info": {
-        "rus": "Ничего не происходит",
-        "orig": "No Activity",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Трент О’Доннелл",
-        "genre": "комедия",
-        "actors": "Патрик Браммелл, Тим Медоуз, Сунита Мани, Эми Седарис, Джейсон Манцукас, Джесси Племонс, Кристин Милиоти, Артуро Кастро, Адриан Мартинес, Нина Пэдрад",
-        "description": "Главные герои ведут наблюдение за предполагаемым преступником. Они помногу часов проводят в автомобиле, смотрят в окно и видят, что вокруг них ничего не происходит. Возможно, что-то случится немного позже, но пока... И чтобы хоть как-то разнообразить бдение в салоне машины, они беседуют на разные темы. Временами к разговорам присоединяются их диспетчеры, и тогда разгораются нешуточные баталии.",
-        "slogan": "Sh*t happens. Eventually",
-        "premiere": "12 ноября 2017",
-        "age": "0",
-        "time": "1800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072991.jpg",
-        "rating": {
-          "rating_kp": "6.28",
-          "vote_num_kp": "312",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "1106"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1200364",
-      "date": "1615308402",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Octopus",
-      "max_qual": "720",
-      "last_season": "4",
-      "last_episode": "8",
-      "episodes": {
-        "2": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720,
-          "10": 720
-        },
-        "3": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720
-        },
-        "4": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720
-        }
-      },
-      "info": {
-        "rus": "Стыд. Испания",
-        "orig": "Skam España",
-        "alter": "",
-        "year": "2018",
-        "country": "Испания",
-        "director": "Бегонья Альварес Рохас,Хосе Рамон Айерра",
-        "genre": "драма,мелодрама",
-        "actors": "Альба Планас,Hajar Brown,Ирене Феррейро,Nicole Wallace,Celia Monedero,Alejandro Reina,Фернандо Линдес,Tomás Aguilera,Álvaro Cobas González,Gonzalo Pendolema",
-        "description": "Ева, Джордж, Лукас, Нора, Эльвира, Амира и Крис много времени проводят вместе. Они молоды и полны сил. У главных героев сериала «СТЫД: Испания» огромные амбиции и серьезные планы. Каждый из них мечтает реализовать себя в жизни и найти тот путь, который приведет их к счастью. Но сейчас, пока они молоды, то могут пользоваться плодами юности. Им еще многое предстоит познать и узнать. <br /><br />В своей повседневной жизнь главные герои сталкиваются с проблемами, которые им предстоит решить самостоятельно. Один из них подсаживается на наркотики, не представляя, к чему это его может привести. Другой герой пытается сохранить втайне свою гомосексуальность, боясь порицания консервативного испанского общества. Кто-то из них увлекается религией, теряя связь с реальностью. Впереди им предстоит не раз проверить свою дружбу на прочность. Но сможет ли она выдержать? Способны ли они найти свой собственный жизненный путь? <br /><br />Серии сериала «СТЫД: Испания» мы настоятельно рекомендуем всем, кто любит сюжеты о взрослении и проблемах, с которыми сталкиваются молодые люди, вступающие во взрослую жизнь. Желаем интересного просмотра.",
-        "slogan": "La vida sin filtros",
-        "premiere": "16 сентября 2018",
-        "age": "0",
-        "time": "1500",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1200364.jpg",
-        "rating": {
-          "rating_kp": "7.431",
-          "vote_num_kp": "1016",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "716"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1200364",
-      "date": "1615308386",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "GoldTeam",
-      "max_qual": "720",
-      "last_season": "2",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720,
-          "10": 720,
-          "11": 720
-        },
-        "2": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720,
-          "10": 720
-        }
-      },
-      "info": {
-        "rus": "Стыд. Испания",
-        "orig": "Skam España",
-        "alter": "",
-        "year": "2018",
-        "country": "Испания",
-        "director": "Бегонья Альварес Рохас,Хосе Рамон Айерра",
-        "genre": "драма,мелодрама",
-        "actors": "Альба Планас,Hajar Brown,Ирене Феррейро,Nicole Wallace,Celia Monedero,Alejandro Reina,Фернандо Линдес,Tomás Aguilera,Álvaro Cobas González,Gonzalo Pendolema",
-        "description": "Ева, Джордж, Лукас, Нора, Эльвира, Амира и Крис много времени проводят вместе. Они молоды и полны сил. У главных героев сериала «СТЫД: Испания» огромные амбиции и серьезные планы. Каждый из них мечтает реализовать себя в жизни и найти тот путь, который приведет их к счастью. Но сейчас, пока они молоды, то могут пользоваться плодами юности. Им еще многое предстоит познать и узнать. <br /><br />В своей повседневной жизнь главные герои сталкиваются с проблемами, которые им предстоит решить самостоятельно. Один из них подсаживается на наркотики, не представляя, к чему это его может привести. Другой герой пытается сохранить втайне свою гомосексуальность, боясь порицания консервативного испанского общества. Кто-то из них увлекается религией, теряя связь с реальностью. Впереди им предстоит не раз проверить свою дружбу на прочность. Но сможет ли она выдержать? Способны ли они найти свой собственный жизненный путь? <br /><br />Серии сериала «СТЫД: Испания» мы настоятельно рекомендуем всем, кто любит сюжеты о взрослении и проблемах, с которыми сталкиваются молодые люди, вступающие во взрослую жизнь. Желаем интересного просмотра.",
-        "slogan": "La vida sin filtros",
-        "premiere": "16 сентября 2018",
-        "age": "0",
-        "time": "1500",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1200364.jpg",
-        "rating": {
-          "rating_kp": "7.431",
-          "vote_num_kp": "1016",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "716"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1145664",
-      "date": "1615308164",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "WestFilm",
-      "max_qual": "720",
-      "last_season": "1",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720,
-          "10": 720
-        }
-      },
-      "info": {
-        "rus": "Киберотдел",
-        "orig": "eLegal",
-        "alter": "",
-        "year": "2018",
-        "country": "Бельгия",
-        "director": "Alain Brunard",
-        "genre": "драма,криминал",
-        "actors": "Olivia Harkay,Рафаэл Лубанс,Adrien Letartre,Туссэн Коломбани,François Gillerot,Esteban Gomez-Navarro,Эрве Герризи,André Pasquasy,Antoine Neufmars,Juliette Vernerey",
-        "description": "Когда фантастика становится реальностью. Киберзапугивание, электронная коммерция и скандалы в социальных сетях... Погружение в повседневную жизнь небольшой юридической фирмы в Брюсселе, чья специализация - киберпреступления.",
-        "slogan": "",
-        "premiere": "13 января 2018",
-        "age": "0",
-        "time": "3300",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMmMwZGJiNWMtMGRjMC00MjE4LTgzOWItNGE1ZDlkMmMxYjE3XkEyXkFqcGdeQXVyNjEwMzkyMjQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "8",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "16"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1038493",
-      "date": "1615308086",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "NewStudio",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "8",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080
-        }
-      },
-      "info": {
-        "rus": "Романовы",
-        "orig": "The Romanoffs",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Мэттью Уайнер",
-        "genre": "драма",
-        "actors": "Дайан Лэйн, Джей Джей Филд, Аарон Экхарт, Луиз Бургуан, Джон Слэттери, Кэтрин Хан, Кристина Хендрикс, Рада Митчелл, Аманда Пит, Хью Скиннер",
-        "description": "Истории о современных людях, которые считают себя потомками российской царской династии.",
-        "slogan": "",
-        "premiere": "12 октября 2018",
-        "age": "0",
-        "time": "3600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1038493.jpg",
-        "rating": {
-          "rating_kp": "6.373",
-          "vote_num_kp": "965",
-          "rating_imdb": "7",
-          "vote_num_imdb": "5119"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1372193",
-      "date": "1615307871",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "6",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080
-        }
-      },
-      "info": {
-        "rus": "Кровь и вода",
-        "orig": "Blood & Water",
-        "alter": "",
-        "year": "2020",
-        "country": "ЮАР",
-        "director": "Nosipho Dumisa,Daryne Joshua,Travis Taute",
-        "genre": "драма,детектив",
-        "actors": "Ama Qamata,Khosi Ngema,Gail Mabalane,Thabang Molaba,Dillon Windvogel,Arno Greeff,Ryle De Morny,Greteli Fincham,Гетмор Ситхоул,Odwa Gwanya",
-        "description": "Пуленг Кхумало переходит в новую элитную школу и вскоре начинает подозревать, что одна из популярных студенток — ее сестра, похищенная при рождении.",
-        "slogan": "",
-        "premiere": "20 мая 2020",
-        "age": "0",
-        "time": "3180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1372193.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "49",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "1902"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1255208",
-      "date": "1615307785",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Octopus",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "13",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080
-        }
-      },
-      "info": {
-        "rus": "Люди и Боги",
-        "orig": "Ludzie i bogowie",
-        "alter": "",
-        "year": "2020",
-        "country": "Польша",
-        "director": "Бодо Кокс",
-        "genre": "драма,военный,история",
-        "actors": "Dawid Dziarkowski,Якуб Каменьский,Яцек Кнап,Jaroslaw Lukomski,Adam Wietrzynski,Marianna Zydek,Maja Rybicka,Филип Гурлач,Jedrzej Hycnar,Александра Юста",
-        "description": "Действие всех серий сериала «Люди и Боги», основанного на реальных исторических событиях и личностях, разворачивается в столице Польши, находящейся в положении оккупации. В центре истории оказываются сотрудники уникального отдела, занимающегося поиском и ликвидацией людей, осуждённых городскими судами, вынужденными скрываться в подполье.<br /><br />Лешек Заремба, являющийся командиром организации, работает под псевдонимом «Оникс». Являясь сознательным и собранным человеком, он всегда достигает поставленных целей и действует с поразительной эффективностью. Благодаря этому ему удаётся тщательно заметать свои следы и опережать врагов на несколько шагов. Несмотря на веру в доброе дело, он сомневается в некоторых поступках. Угрызения совести не дают ему спать по ночам, усложняя и без того непростую жизнь.<br /><br />Тадеуш Коженевски, работающий под кодовым именем «Дагер» и привыкший до войны вести тихое и спокойное существование, меняется на глазах и становится одним из самых значимых членов организации. Жуткая реальность пробуждает в партизане из сериала «Люди и Боги» огромное желание нанести агрессорам ответный удар и освободить родную страну.",
-        "slogan": "",
-        "premiere": "13 сентября 2020",
-        "age": "0",
-        "time": "2640",
-        "poster": "https://thumbs.filmix.tech/posters/orig/lyudi-i-bogi-2020_145058_0.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "20",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "31"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1343134",
-      "date": "1615307634",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Baibako",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "4",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080
-        }
-      },
-      "info": {
-        "rus": "Прямо герцогиня!",
-        "orig": "The Duchess",
-        "alter": "Герцогиня",
-        "year": "2020",
-        "country": "Великобритания",
-        "director": "Тоби МакДональд",
-        "genre": "драма,комедия",
-        "actors": "Кэтрин Райан,Рори Кинэн,Кэти Бирн,Стин Раскопулос,Michelle de Swarte,Софи Флетчер,Дун Макичен,Бо Гадсдон,Тони Джайавардена,Анвар Линч",
-        "description": "У женщины есть дочь, с которой она ведет себя как с младшей сестрой: ходит на свидания, думает о втором ребенке и даже нанимает фейкового отца-неудачника.",
-        "slogan": "",
-        "premiere": "11 сентября 2020",
-        "age": "0",
-        "time": "1800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1343134.jpg",
-        "rating": {
-          "rating_kp": "6.442",
-          "vote_num_kp": "146",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "4333"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1051070",
-      "date": "1615307525",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "WestFilm",
-      "max_qual": "720",
-      "last_season": "1",
-      "last_episode": "6",
-      "episodes": {
-        "1": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720
-        }
-      },
-      "info": {
-        "rus": "Спикерин",
-        "orig": "Speakerine",
-        "alter": "",
-        "year": "2018",
-        "country": "Франция",
-        "director": "Лоран Тюэль",
-        "genre": "триллер,драма,детектив",
-        "actors": "Мари Жиллен,Гийом де Тонкедек,Кристиана Милле,Барбара Пробст,Anne-Sophie Soldaini,Клементе Обер,Жан-Ив Шатле,Benjamin Bourgois,Фланнан Обе,Baptiste Carrion-Weiss",
-        "description": "В Париже 1960-х годов телеведущая Кристин Боваль разбивает стеклянный потолок и привлекает преступников к ответственности в драме, которая частично \"Безумцы\", частично Агата Кристи.",
-        "slogan": "",
-        "premiere": "16 апреля 2018",
-        "age": "0",
-        "time": "3120",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNmVmNjcwYzUtYWIyZi00YzQ4LTk2NTYtM2NlODY1ODA4NTllXkEyXkFqcGdeQXVyODIyOTEyMzY@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "9",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "139"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1280857",
-      "date": "1615307363",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Baibako",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        }
-      },
-      "info": {
-        "rus": "Посол",
-        "orig": "Ambassadøren",
-        "alter": "",
-        "year": "2020",
-        "country": "Дания",
-        "director": "Якоб Битч,Bill Schumacher",
-        "genre": "драма,комедия",
-        "actors": "Лизбет Вульф,Каспер Крамп,Туэ Ерстед Расмуссен,Sarah Francesca Brænne,Озлем Сагланмак,Симона Лукке,Бенедикте Хансен,Harry Szovik,Анника Рюберг Виттембури,Сигурд Хольмен ле Ду",
-        "description": "Сюжет сериала «Посол» разворачивается на территории посольства Дании, расположенного в Мексике. Здесь работают самые разные люди, но многих из них объединяет любовь к своей родной стране и безграничное желание улучшить её престиж в глазах политиков Мексики. <br /><br />Когда в первой серии в посольстве оказываются путешествующие датчане, желающие получить помощь от своих сограждан, то они сразу же сталкиваются с бюрократией и непониманием. Туристы не получают необходимой им помощи, но выслушивают историю жизни от одного из местных стажёров. После этого общественное мнение о работе посольства значительно ухудшается. <br /><br />В центре истории сериала «Посол» оказывается женщина, являющаяся главой этого учреждения. Она не слишком заботится о подобных инцидентах, стараясь лишь заключить престижное торговое соглашение, чтобы правительство Дании смогло начать поставки военной техники в Мексику. Поэтому она считает, что ей не следует заниматься помощью датским туристам. Все эти заботы женщина-посол поручает своей жизнерадостной молодой секретарше. Но иногда такая беспечность приводит к новым кризисам и лишь усугубляет основную повестку дня.  ",
-        "slogan": "",
-        "premiere": "30 августа 2020",
-        "age": "0",
-        "time": "1500",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjczZGI0ZTYtMmZjZS00NTAxLTk5OWUtMzZkYjIwYmE1ZjY1XkEyXkFqcGdeQXVyMTM2OTAxOA@@._V1_FMjpg_UX400_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "23"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1219497",
-      "date": "1615307032",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "WestFilm",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "3",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080
-        }
-      },
-      "info": {
-        "rus": "Тайны",
-        "orig": "Les Secrets",
-        "alter": "",
-        "year": "2018",
-        "country": "Франция",
-        "director": "Кристоф Ламотт",
-        "genre": "драма,криминал,детектив",
-        "actors": "Клер Кейм,Мари Бюнель,Самуэль Жуи,Янн Трегуэ,Анн Кайон,Бастьен Буллон,Жеральдин Мартино,Камилль Агиляр,Гаспар Паске,Сирил Гарнье",
-        "description": "Французский детективный драматический сериал «Тайны» знакомит своих зрителей с девушкой по имени Сара. Она искренне счастлива в отношениях со своим возлюбленным Алексом. Они красивы, молоды и очень амбициозны. Они любят друг друга и уверены в том, что на свете нет ничего, что смогло бы разрушить их счастье. <br /> <br />Однажды происходит трагедия. Утром бездыханное тело возлюбленного Сары находят случайные прохожие. Полицейские сразу же начинают расследование, но все найденные улики указывают на то, что он совершил самоубийство. Именно такой оказывается официальная версия произошедшего. Однако Сара имеет сомнения на этот счет.<br /> <br />Охваченная горем, героиня возвращается в Париж, чтобы попытаться восстановить душевное равновесие и понять, что же на самом деле произошло. Одновременно с этим она получает романтическое письмо от загадочной женщины. Это письмо адресовано Алексу. Сара принимает непростое для себе решение: она обязана найти эту женщину, ведь это может быть единственный шанс получить ответы на все волнующие вопросы. <br /> <br />Серии французского сериала «Тайны» мы рекомендуем к онлайн просмотру на нашем сайте всем зрителям, любящим детективные драмы.",
-        "slogan": "",
-        "premiere": "1 мая 2018",
-        "age": "0",
-        "time": "2820",
-        "poster": "http://i.piccy.info/i9/65d17b34a077ba7cf2bf45103ae8248d/1615306886/141712/1420049/a785f28132d0988350f2cad6a9b05f64.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "22",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "34"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1167864",
-      "date": "1615306955",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "NewStudio",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "6",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080
-        }
-      },
-      "info": {
-        "rus": "Имя мне Ночь",
-        "orig": "I Am the Night",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Карл Франклин, Пэтти Дженкинс, Виктория Махони",
-        "genre": "детектив,драма",
-        "actors": "Крис Пайн, Индиа Айсли, Джефферсон Мейс, Конни Нильсен, Лиленд Орсер, Дилан Смит, Шоникуа Шандай, Голден Брукс, Джей Полсон, Джастин Корнвэлл",
-        "description": "Америка, 1960-е годы. Юная Пэт - дочь белого и афроамериканки, живет неподалеку от Рино, штат Невада, страдает от спивающейся матери, воспитывающей ее в одиночку, сталкивается с процветающим расизмом и другими типичными проблемами того времени. Все меняется, когда она случайно узнает, что ее настоящее имя - Фауна Ходел, а женщина, которую она все это время считала матерью, взяла ее на попечение ребенком двадцать лет назад. Фауна решает во что бы то ни стало найти своих биологических родителей, и помогает ей в этом журналист Джей Синглетери - ветеран Корейской войны, наркоман и авантюрист, тоже мечтающий о другой жизни.",
-        "slogan": "Inspired by a True Story",
-        "premiere": "27 января 2019",
-        "age": "0",
-        "time": "3600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1167864.jpg",
-        "rating": {
-          "rating_kp": "6.822",
-          "vote_num_kp": "5199",
-          "rating_imdb": "7",
-          "vote_num_imdb": "7103"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1167864",
-      "date": "1615306934",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "LostFilm",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "6",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080
-        }
-      },
-      "info": {
-        "rus": "Имя мне Ночь",
-        "orig": "I Am the Night",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Карл Франклин, Пэтти Дженкинс, Виктория Махони",
-        "genre": "детектив,драма",
-        "actors": "Крис Пайн, Индиа Айсли, Джефферсон Мейс, Конни Нильсен, Лиленд Орсер, Дилан Смит, Шоникуа Шандай, Голден Брукс, Джей Полсон, Джастин Корнвэлл",
-        "description": "Америка, 1960-е годы. Юная Пэт - дочь белого и афроамериканки, живет неподалеку от Рино, штат Невада, страдает от спивающейся матери, воспитывающей ее в одиночку, сталкивается с процветающим расизмом и другими типичными проблемами того времени. Все меняется, когда она случайно узнает, что ее настоящее имя - Фауна Ходел, а женщина, которую она все это время считала матерью, взяла ее на попечение ребенком двадцать лет назад. Фауна решает во что бы то ни стало найти своих биологических родителей, и помогает ей в этом журналист Джей Синглетери - ветеран Корейской войны, наркоман и авантюрист, тоже мечтающий о другой жизни.",
-        "slogan": "Inspired by a True Story",
-        "premiere": "27 января 2019",
-        "age": "0",
-        "time": "3600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1167864.jpg",
-        "rating": {
-          "rating_kp": "6.822",
-          "vote_num_kp": "5199",
-          "rating_imdb": "7",
-          "vote_num_imdb": "7103"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1167864",
-      "date": "1615306917",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Novamedia",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "6",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080
-        }
-      },
-      "info": {
-        "rus": "Имя мне Ночь",
-        "orig": "I Am the Night",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Карл Франклин, Пэтти Дженкинс, Виктория Махони",
-        "genre": "детектив,драма",
-        "actors": "Крис Пайн, Индиа Айсли, Джефферсон Мейс, Конни Нильсен, Лиленд Орсер, Дилан Смит, Шоникуа Шандай, Голден Брукс, Джей Полсон, Джастин Корнвэлл",
-        "description": "Америка, 1960-е годы. Юная Пэт - дочь белого и афроамериканки, живет неподалеку от Рино, штат Невада, страдает от спивающейся матери, воспитывающей ее в одиночку, сталкивается с процветающим расизмом и другими типичными проблемами того времени. Все меняется, когда она случайно узнает, что ее настоящее имя - Фауна Ходел, а женщина, которую она все это время считала матерью, взяла ее на попечение ребенком двадцать лет назад. Фауна решает во что бы то ни стало найти своих биологических родителей, и помогает ей в этом журналист Джей Синглетери - ветеран Корейской войны, наркоман и авантюрист, тоже мечтающий о другой жизни.",
-        "slogan": "Inspired by a True Story",
-        "premiere": "27 января 2019",
-        "age": "0",
-        "time": "3600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1167864.jpg",
-        "rating": {
-          "rating_kp": "6.822",
-          "vote_num_kp": "5199",
-          "rating_imdb": "7",
-          "vote_num_imdb": "7103"
         }
       }
     }
