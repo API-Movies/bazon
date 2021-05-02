@@ -2,6 +2,466 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1389352",
+      "date": "1614641690",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "OnisFilms",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        }
+      },
+      "info": {
+        "rus": "Социальная дистанция",
+        "orig": "Social Distance",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Аня Адамс,Фил Абрахам,Анджела Барнс Гомес",
+        "genre": "драма,комедия",
+        "actors": "Брайан Джордан Альварез,Бекки Энн Бэйкер,Asante Blackk,Даниэль Брукс,Майк Колтер,Оскар Нуньес,Кайли Голдштейн,Питер Сканавино,Али Ан,Дилан Бейкер",
+        "description": "Социальная дистанция – это ответ творческих людей депрессии режима самоизоляции. Эта проблема коснулась многих, она охватила весь мир. Миллионы людей оказались заточенными в своих квартирах, наедине со своими страхами, мыслями, вопросами. И как знать… может быть ничего не бывает случайным, и это время изоляции, дистанционного общения дано самой жизнью нашим героям, чтобы они смогли остановиться в своем бешеном беге за удачей и задуматься о действительно важных вещах…",
+        "slogan": "",
+        "premiere": "15 октября 2020",
+        "age": "0",
+        "time": "1080",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1389352.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "14",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "533"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1382024",
+      "date": "1614641405",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "AniStar",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Любовь раздражает, но я ненавижу одиночество",
+        "orig": "Yeonaeneun gwichanjiman oeroun geon sireo!",
+        "alter": "",
+        "year": "2020",
+        "country": "Корея Южная",
+        "director": "Ли Хён-джу",
+        "genre": "мелодрама,комедия",
+        "actors": "Чи Хён-у,Ким Со-ын,Пак Кон-иль,Но Джи-хун,Ким Сан-хо,Хан Джи-ван,Сон Джи-хён,Кончхан,Ха Ён,Чха Су-ён",
+        "description": "История молодых людей, которые живут в коливинге. Им хочется ходить на свидания, но не хочется завязывать серьёзные отношения, они предпочитают свободу, но при этом не любят одиночество.",
+        "slogan": "",
+        "premiere": "11 августа 2020",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1382024.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "26",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "52"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1322495",
+      "date": "1614641253",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "WestFilm",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720
+        }
+      },
+      "info": {
+        "rus": "Тихоокеанские расследования",
+        "orig": "OPJ Pacifique Sud",
+        "alter": "",
+        "year": "2019",
+        "country": "Франция",
+        "director": "François Bigrat,Matthieu Vollaire",
+        "genre": "триллер,драма,криминал",
+        "actors": "Yaëlle Trules,Антуан Стип,Нэйтан Дэллемм,Marielle Karabeu,Clémentine Julienne,Hindra Armède,Александр Варга,Julia Paul,Goti Pope,Cécile Benyoucef",
+        "description": "Кларисса Оаро, капитан полиции реюньонского происхождения, командир бригады в рабочем районе острова Нумеа в Новой Каледонии, возглавляет группу следователей, сотрудников судебной полиции. В группу прибывает новичок Джексон Бельроз, полицейский следователь с Мартиники, несколько лет проработавший в центральной Франции. Его жёсткая индивидуальность сразу же вступает в противоречие с расслабленными тропическими взглядами его новых коллег...",
+        "slogan": "",
+        "premiere": "4 ноября 2019",
+        "age": "0",
+        "time": "3000",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTliMjBlMjItMGI1YS00NjhlLTkxZDAtMmE4OWQwZjQyY2EzXkEyXkFqcGdeQXVyMzE3NjQxMDk@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "8",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "11"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1347194",
+      "date": "1614640509",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Звездный рубеж",
+        "orig": "Cosmic Sin",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Эдвард Дрэйк",
+        "genre": "фантастика,боевик",
+        "actors": "Фрэнк Грилло,Брюс Уиллис,Брэндон Томас Ли,Кори Лардж,К.Дж. Перри,Перри Ривз,Локлин Манро,Костас Мэндилор,Ева Де Доминичи,Аделаида Кейн",
+        "description": "Группа военных противостоит недавно обнаруженной инопланетной цивилизации.",
+        "slogan": "",
+        "premiere": "13 мая 2021",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1347194.jpg",
+        "rating": {
+          "rating_kp": "3.346",
+          "vote_num_kp": "553",
+          "rating_imdb": "2.5",
+          "vote_num_imdb": "4813"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1339065",
+      "date": "1614637813",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Агент Али",
+        "orig": "Ejen Ali the Movie",
+        "alter": "",
+        "year": "2019",
+        "country": "Малайзия",
+        "director": "Muhammad Usamah Zaid",
+        "genre": "мультфильм,боевик,приключения",
+        "actors": "Altimet,Amir Bamer,Fadhli,Abu Shafian Abd Hamid,Sunita Iliya,Shafiq Isa,Haziq Khushairi,Noorhayati Maslini,Ahmad Sufian Mazilan,Aina Nadzir",
+        "description": "После того, как его случайно завербовали в качестве шпиона, 12-летний агент Али вырос и стал работать в секретном агентстве, чтобы защитить футуристический город Киберрия от внешних угроз.",
+        "slogan": "",
+        "premiere": "28 ноября 2019",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjU1NGVkYzQtNGRhYS00YWE4LWE2MGItZjhjN2EyZDYzN2M3XkEyXkFqcGdeQXVyODk1NzMxOTE@._V1_FMjpg_UY868_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "12",
+          "rating_imdb": "8.7",
+          "vote_num_imdb": "893"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4355984",
+      "date": "1614637805",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Пеле",
+        "orig": "Pelé",
+        "alter": "",
+        "year": "2021",
+        "country": "Великобритания",
+        "director": "Ben Nicholas,David Tryhorn",
+        "genre": "документальный,биография,спорт",
+        "actors": "Пеле",
+        "description": "От выдающегося таланта до звания национального героя: этот исторический документальный фильм о великом бразильском футболисте Э&#769;дсоне Ара&#769;нтисе ду Насиме&#769;нту, более известном как Пеле&#769;, который провёл 92 матча и забил 77 голов в составе сборной Бразилии. Пеле — единственный футболист в мире, три раза становившийся чемпионом мира как игрок. Фильм представляет собой смесь из архивных кадров и эксклюзивных интревью.",
+        "slogan": "",
+        "premiere": "23 февраля 2021",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODJmYTg4NTEtYTU0Mi00YjQ0LTkyYzEtMTU4MTM2ZWY3NjY4XkEyXkFqcGdeQXVyNjEwNTM2Mzc@.jpg",
+        "rating": {
+          "rating_kp": "7.318",
+          "vote_num_kp": "159",
+          "rating_imdb": "7",
+          "vote_num_imdb": "3018"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1165161",
+      "date": "1614635106",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Неблагоприятный",
+        "orig": "Adverse",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Брайан Меткалф",
+        "genre": "триллер,криминал",
+        "actors": "Томас Иэн Николас,Микки Рурк,Лу Даймонд Филлипс,Пенелопа Энн Миллер,Шон Эстин,Kelly Arjen,Кейт Кацман,Джейк Т. Остин,Брайан Меткалф,Крис Рут",
+        "description": "После смерти матери некогда сложный подросток и выходец из неблагополучной семьи Итан, решает забыть про бурную молодость и взять на себя заботу о сводной сестре Мие. Однако, девушке шестнадцать лет, и она повторяет те же ошибки, что совершил в своё время он сам. Но когда она через своего парня связывается с наркоторговцами и оказывается в долгу перед криминальным ростовщиком, Итану приходится вмешаться и вспомнить прошлые навыки.",
+        "slogan": "How Far Would You Go to Protect Those You Love?",
+        "premiere": "28 февраля 2020",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1165161.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "97",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "3310"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1254474",
+      "date": "1614629702",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Афера Оливера Твиста",
+        "orig": "Twist",
+        "alter": "",
+        "year": "2021",
+        "country": "Великобритания",
+        "director": "Мартин Оуэн",
+        "genre": "боевик,драма",
+        "actors": "Лина Хиди,Майкл Кейн,Ноэль Кларк,Рита Ора,Софи Симнетт,Дэвид Уоллиамс,Рафф Лоу,Франц Драмех,Джейсон Мацца,Рик Уорден",
+        "description": "Юный талантливый художник, живущий в Лондоне, случайно попадает в банду, которая готовит дерзкую кражу бесценной картины.",
+        "slogan": "В Лондоне новый король воров",
+        "premiere": "28 января 2021",
+        "age": "16",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1254474.jpg",
+        "rating": {
+          "rating_kp": "4.494",
+          "vote_num_kp": "1154",
+          "rating_imdb": "4",
+          "vote_num_imdb": "1417"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1332734",
+      "date": "1614627906",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Я виню общество",
+        "orig": "I Blame Society",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Джиллиан Уоллес Хорват",
+        "genre": "комедия",
+        "actors": "Джиллиан Уоллес Хорват,Кит Поулсон,Чейз Уильямсон,Лукас Кавнер,Морган Кранц,Алексия Расмуссен,Дженнифер Ким,Девон Грайе,Гаррет Коффи,Джонни Марс",
+        "description": "Испытывающий трудности режиссёр внезапно понимает, что для создания фильма нужны те же навыки, что и для совершения идеального убийства.",
+        "slogan": "",
+        "premiere": "27 января 2020",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmJkYzgyZWQtZWZjNi00NzY2LWJiMWItYmI0ZTBiZTRjYTc3XkEyXkFqcGdeQXVyMTI4Mjg4MjA@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "8",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "193"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1263575",
+      "date": "1614625631",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "TVShows",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "За жизнь",
+        "orig": "For Life",
+        "alter": "Навсегда",
+        "year": "2020",
+        "country": "США",
+        "director": "Рассел Ли Файн,Гильермо Наварро,Чарльз Мартин",
+        "genre": "драма,криминал,биография",
+        "actors": "Николас Пиннок,Крис Мормандо,Мэттью Деллапинья,Аристео Ф. Карди,Индира Варма,Джой Брайант,Мэри Стюарт Мастерсон,Дориан Миссик,Tyla Harris,Гленн Флешлер",
+        "description": "В центре сюжета — пожизненно заключенный Аарон Уоллес, который становится адвокатом, чтобы бороться за свое освобождение, ведь он не совершал преступление, за которое его посадили. Попутно Уоллес помогает и другим заключенным с их делами.",
+        "slogan": "",
+        "premiere": "11 февраля 2020",
+        "age": "0",
+        "time": "0",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1263575.jpg",
+        "rating": {
+          "rating_kp": "7.838",
+          "vote_num_kp": "3632",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "3811"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "412777",
+      "date": "1614620866",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Агент 117: Миссия в Рио",
+        "orig": "OSS 117: Rio ne répond plus",
+        "alter": "OSS 117: Lost in Rio",
+        "year": "2009",
+        "country": "Франция",
+        "director": "Мишель Хазанавичус",
+        "genre": "комедия,боевик,криминал,приключения",
+        "actors": "Жан Дюжарден, Луиз Моно, Рюдигер Фоглер, Алекс Лутц, Рем Кериси, Пьер Бельмар, Кен Сэмюэлс, Серж Хазанавичус, Лорен Капеллуто, Чирилло Луна",
+        "description": "На дворе 1967 год. Десять лет спустя от своего первого приключения в Каире, шпион Юбер Бониссер де ля Бат, или же просто Агент 117, послан начальством в Рио-де-Жанейро, чтобы найти микрофильм, хранившийся ранее у одного нацистского высокопоставленного лица. Но наш агент совершенно случайно привлекает внимание агентов Моссада, израильской разведывательной службы...",
+        "slogan": "The Pride of French Intelligence Returns",
+        "premiere": "15 апреля 2009",
+        "age": "16",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_412777.jpg",
+        "rating": {
+          "rating_kp": "6.143",
+          "vote_num_kp": "3439",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "13304"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "194201",
       "date": "1614611949",
       "camrip": "0",
@@ -29,7 +489,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_194201.jpg",
         "rating": {
           "rating_kp": "6.639",
-          "vote_num_kp": "4267",
+          "vote_num_kp": "4269",
           "rating_imdb": "7.1",
           "vote_num_imdb": "18815"
         }
@@ -99,7 +559,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3614.jpg",
         "rating": {
           "rating_kp": "6.725",
-          "vote_num_kp": "6148",
+          "vote_num_kp": "6151",
           "rating_imdb": "6.2",
           "vote_num_imdb": "42296"
         }
@@ -183,7 +643,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1145353.jpg",
         "rating": {
           "rating_kp": "6.446",
-          "vote_num_kp": "1391",
+          "vote_num_kp": "1392",
           "rating_imdb": "6.8",
           "vote_num_imdb": "4170"
         }
@@ -232,7 +692,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1145353.jpg",
         "rating": {
           "rating_kp": "6.446",
-          "vote_num_kp": "1391",
+          "vote_num_kp": "1392",
           "rating_imdb": "6.8",
           "vote_num_imdb": "4170"
         }
@@ -374,7 +834,7 @@
           "rating_kp": "0",
           "vote_num_kp": "45",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "1013"
+          "vote_num_imdb": "1027"
         }
       }
     },
@@ -407,7 +867,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1265290.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "3",
+          "vote_num_kp": "5",
           "rating_imdb": "4.4",
           "vote_num_imdb": "44"
         }
@@ -477,7 +937,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1263217.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "77",
+          "vote_num_kp": "78",
           "rating_imdb": "6.2",
           "vote_num_imdb": "188"
         }
@@ -617,7 +1077,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77407.jpg",
         "rating": {
           "rating_kp": "6.96",
-          "vote_num_kp": "35027",
+          "vote_num_kp": "35033",
           "rating_imdb": "6",
           "vote_num_imdb": "94104"
         }
@@ -651,10 +1111,10 @@
         "time": "5520",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_840824.jpg",
         "rating": {
-          "rating_kp": "5.745",
-          "vote_num_kp": "40163",
+          "rating_kp": "5.744",
+          "vote_num_kp": "40175",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "70809"
+          "vote_num_imdb": "70821"
         }
       }
     },
@@ -687,9 +1147,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_669880.jpg",
         "rating": {
           "rating_kp": "7.472",
-          "vote_num_kp": "30478",
+          "vote_num_kp": "30485",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "65662"
+          "vote_num_imdb": "65677"
         }
       }
     },
@@ -827,9 +1287,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1311358.jpg",
         "rating": {
           "rating_kp": "5.912",
-          "vote_num_kp": "945",
+          "vote_num_kp": "951",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "14363"
+          "vote_num_imdb": "14393"
         }
       }
     },
@@ -1072,7 +1532,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1450248.jpg",
         "rating": {
           "rating_kp": "6.691",
-          "vote_num_kp": "237",
+          "vote_num_kp": "240",
           "rating_imdb": "6.6",
           "vote_num_imdb": "3870"
         }
@@ -1141,10 +1601,10 @@
         "time": "8400",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1347198.jpg",
         "rating": {
-          "rating_kp": "7.915",
-          "vote_num_kp": "1046",
+          "rating_kp": "7.92",
+          "vote_num_kp": "1049",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "5090"
+          "vote_num_imdb": "5107"
         }
       }
     },
@@ -1176,10 +1636,10 @@
         "time": "6480",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1306643.jpg",
         "rating": {
-          "rating_kp": "6.23",
-          "vote_num_kp": "16252",
+          "rating_kp": "6.232",
+          "vote_num_kp": "16314",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "7467"
+          "vote_num_imdb": "7489"
         }
       }
     },
@@ -1282,9 +1742,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1330635.jpg",
         "rating": {
           "rating_kp": "4.466",
-          "vote_num_kp": "1917",
+          "vote_num_kp": "1922",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "755"
+          "vote_num_imdb": "757"
         }
       }
     },
@@ -1317,7 +1777,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1190636.jpg",
         "rating": {
           "rating_kp": "6.234",
-          "vote_num_kp": "7885",
+          "vote_num_kp": "7894",
           "rating_imdb": "5.5",
           "vote_num_imdb": "774"
         }
@@ -1387,408 +1847,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_979362.jpg",
         "rating": {
           "rating_kp": "6.358",
-          "vote_num_kp": "9104",
+          "vote_num_kp": "9105",
           "rating_imdb": "6.2",
           "vote_num_imdb": "3043"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "37821",
-      "date": "1614455825",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Горбун из морга",
-        "orig": "El jorobado de la Morgue",
-        "alter": "Hunchback of the Morgue",
-        "year": "1973",
-        "country": "Испания",
-        "director": "Хавьер Агирре",
-        "genre": "ужасы",
-        "actors": "Пол Нэши,Росанна Янни,Виктор Алькасар,Мария Елена Арпон,Мануэль де Блас,Антонио Пика,Кино Пуэйо,Адольфо Тоус,Анхель Менендес,Fernando Sotuela",
-        "description": "В городском морге работал странный горбун. Многие над ним издевались и лишь единицы испытывали сострадание. Однажды, бродя по больнице, он услышал разговор врачей о безнадежно больной девушке. Добрый душой горбун решил подарить ей цветы. Постепенно он влюбляется в неё и наносит частые визиты, в то время как её жених развлекается со шлюхами в борделе. Время идет и настает день, когда девушка умирает. Не желая прощаться со своей возлюбленной, горбун похищает её труп и уносит к себе в катакомбы. Там не без помощи одного из врачей он будет проводить эксперименты по оживлению мертвых и создаст субстанцию, питающуюся человеческими трупами. Постепенно и врач, и горбун потеряют над собой контроль и превратятся в безжалостных убийц...",
-        "slogan": "Beware The Hunchback! A freak of nature whose crimes go beyond your wildest terrors!",
-        "premiere": "13 июля 1973",
-        "age": "18",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_37821.jpg",
-        "rating": {
-          "rating_kp": "5.765",
-          "vote_num_kp": "96",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "685"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1099676",
-      "date": "1614453222",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K WEB-DL",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Настоящие боссы",
-        "orig": "Like a Boss",
-        "alter": "Как босс / Гламурные боссы",
-        "year": "2020",
-        "country": "США",
-        "director": "Мигель Артета",
-        "genre": "комедия",
-        "actors": "Сальма Хайек,Роуз Бирн,Тиффани Хэддиш,Билли Портер,Дженнифер Кулидж,Катрин Паркер,Эри Грейнор,Райан Хансен,Джессика Ст. Клэр,Каран Сони",
-        "description": "Лучшие подруги Миа и Мел живут в своё удовольствие, управляя собственной косметической компанией, которую создали с нуля. К сожалению, они по уши в долгах, но вблизи перспектива предложения выкупа от титана отрасли Клэр Луны, что ставит под угрозу дружбу девушек.",
-        "slogan": "The world of beauty is about to get ugly",
-        "premiere": "7 января 2020",
-        "age": "16",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1099676.jpg",
-        "rating": {
-          "rating_kp": "5.17",
-          "vote_num_kp": "4170",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "11064"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "251705",
-      "date": "1614452662",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Тайсон",
-        "orig": "Tyson",
-        "alter": "",
-        "year": "1995",
-        "country": "США",
-        "director": "Ули Эдель",
-        "genre": "драма,биография,спорт",
-        "actors": "Джордж К. Скотт,Пол Уинфилд,Майкл Джей Уайт,Джеймс Сиккинг,Мальколм-Джамал Уорнер,Тони Ло Бьянко,Кларк Грегг,Холт Маккэллани,Кристен Уилсон,Шила Уиллс",
-        "description": "Фильм основан на книге «Огонь и Страх» Хосе Торреса и рассказывает о жизни знаменитого американского чернокожего боксера Майка Тайсона, начиная с детства и до того печального момента, когда он был приговорен к шести годам тюрьмы за изнасилование девушки, принимавшей участие в конкурсе красоты на звание «Мисс Черная Америка». Детство у парня было тяжелое — у него было 40 приводов в полицию. Огромную роль в его жизни и спортивной карьере сыграл его тренер, усыновивший его после смерти матери.",
-        "slogan": "The bigger they are, the harder they fall",
-        "premiere": "29 апреля 1995",
-        "age": "0",
-        "time": "6240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_251705.jpg",
-        "rating": {
-          "rating_kp": "7.223",
-          "vote_num_kp": "687",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "2013"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "138519",
-      "date": "1614447906",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Садист",
-        "orig": "The Sadist",
-        "alter": "",
-        "year": "1963",
-        "country": "США",
-        "director": "Джеймс Лэндис",
-        "genre": "триллер",
-        "actors": "Арч Холл мл.,Ричард Элден,Мэрлин Мэннинг,Дон Расселл,Хелен Хови,Арч Холл ст.,Джоан Ховард",
-        "description": "Трое учителей отправляются в Лос-Анджелес на бейсбольный матч. Их машина ломается, и они оказываются у старой ремонтной мастерской. Место кажется заброшенным, тем не менее путешественников не покидает чувство, что они здесь не одни.",
-        "slogan": "Hey, Sweet Baby, what makes you so sweet... The blood on your hands... or the snake at your feet?",
-        "premiere": "7 августа 1963",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_138519.jpg",
-        "rating": {
-          "rating_kp": "6.204",
-          "vote_num_kp": "192",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "2311"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "759665",
-      "date": "1614447902",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Из темноты",
-        "orig": "Out of the Dark",
-        "alter": "",
-        "year": "2014",
-        "country": "США, Колумбия, Испания, ОАЭ",
-        "director": "Йуис Килес",
-        "genre": "ужасы,триллер",
-        "actors": "Джулия Стайлз, Скотт Спидман, Стивен Ри, Пикси Дейвис, Ванеса Тамайо, Алехандро Ферт, Alvaro García Trujillo, Элькин Диас, Мария Фернанда Йепес, Фрэнк Куерво",
-        "description": "Пара с дочерью переезжает в Колумбию, чтобы заняться делами семейного обрабатывающего предприятия, но скоро они узнают, что их новый дом населен привидениями.",
-        "slogan": "",
-        "premiere": "27 августа 2014",
-        "age": "18",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_759665.jpg",
-        "rating": {
-          "rating_kp": "5.187",
-          "vote_num_kp": "3598",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "4061"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "5498",
-      "date": "1614447005",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Вечно молодой",
-        "orig": "Forever Young",
-        "alter": "",
-        "year": "1992",
-        "country": "США",
-        "director": "Стив Майнер",
-        "genre": "фантастика,мелодрама,драма",
-        "actors": "Мэл Гибсон, Джейми Ли Кёртис, Элайджа Вуд, Изабель Глэссер, Джордж Уэндт, Джо Мортон, Николас Сурови, Дэвид Маршалл Грант, Роберт Хай Гормен, Милли Слэвин",
-        "description": "События разворачиваются в 1939 году. Бесшабашный пилот-испытатель Дэниэл МакКормик никак не может отважиться сделать предложение своей возлюбленной Хелен, откладывая до последнего момента. Но счастье не ждет до завтра - девушка впадает в состояние комы в результате несчастного случая.\r\n\r\nУбитый горем Дэвид, соглашается на уникальный криогенный эксперимент, в котором он будет заморожен на год. Когда МакКормик пришел в сознание, на улице уже был 1992 год...",
-        "slogan": "Time waits for no man but true love waits forever",
-        "premiere": "11 декабря 1992",
-        "age": "6",
-        "time": "6120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5498.jpg",
-        "rating": {
-          "rating_kp": "7.4",
-          "vote_num_kp": "8871",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "44927"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2112",
-      "date": "1614446106",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Король в Нью-Йорке",
-        "orig": "A King in New York",
-        "alter": "",
-        "year": "1957",
-        "country": "Великобритания",
-        "director": "Чарльз Чаплин",
-        "genre": "драма,комедия",
-        "actors": "Чарльз Чаплин,Максин Одли,Джерри Десмонд,Оливер Джонстон,Доун Аддамс,Сидни Джеймс,Джоан Ингрэм,Майкл Чаплин,Джон МакЛарен,Фил Браун",
-        "description": "Некий король несуществующей страны Эстровии, которого зовут Шэдав, бежал в Нью-Йорк, потому что его проект использования атомной энергии в мирных целях не устраивает правящие круги его страны. И вот король приземляется в аэропорту державы, которую считают цитаделью свободы. Бедный король — человек с добрым и чувствительным сердцем! Его утраченные иллюзии о жизни в США составляют сюжетную канву фильма.",
-        "slogan": "",
-        "premiere": "12 сентября 1957",
-        "age": "0",
-        "time": "6600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2112.jpg",
-        "rating": {
-          "rating_kp": "7.642",
-          "vote_num_kp": "1470",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "7492"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1408846",
-      "date": "1614418202",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Поломка",
-        "orig": "The Breakdown",
-        "alter": "",
-        "year": "2021",
-        "country": "США",
-        "director": "Dave Codeglia",
-        "genre": "комедия",
-        "actors": "Noah Toth,Andrea Dersom,Christian Nicholes,Sylvia Joan,Майкл Хэмптон,Ивет Сантос,Dustin Rhodes,Fatou Nia M'Bye,Shoshanna Green,Toyvon Cambell",
-        "description": "Школьный джазовый оркестр отправляется в Калифорнию, чтобы принять участие в международном музыкальном конкурсе. Во время поездки их автобус ломается, и им приходится заночевать в мотеле. Чтобы казаться круче, они устраивают оргии и другие шалости.",
-        "slogan": "",
-        "premiere": "11 февраля 2021",
-        "age": "0",
-        "time": "5940",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTE5NGMwYWMtZGQxZC00ZWJiLTk0ZTItYWUyOWVlYTlkMzk3XkEyXkFqcGdeQXVyODAzODY1ODM@._V1_FMjpg_UX420_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "11",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "121"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1172136",
-      "date": "1614415746",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Волны",
-        "orig": "Waves",
-        "alter": "",
-        "year": "2019",
-        "country": "США,Канада",
-        "director": "Трей Эдвард Шульц",
-        "genre": "драма,мелодрама,спорт",
-        "actors": "Келвин Харрисон,Лукас Хеджес,Тейлор Расселл,Алекса Деми,Рене Голдсберри,Стерлинг К. Браун,Криша Фэйрчайлд,Нил Хафф,Клифтон Коллинз мл.,Билл Уайз",
-        "description": "Старшеклассника Тайлера из обеспеченной афроамериканской семьи, живущей на юге Флориды, в жизни волнуют только две вещи: спорт и его девушка Алексис. Парень ходит в перспективных борцах и большую часть времени посвящает тренировкам. Но вскоре мир Тайлера начинает рушиться — врач настаивает на срочной операции плеча, после которой о спорте придётся надолго забыть, а Алексис выясняет, что беременна.",
-        "slogan": "",
-        "premiere": "30 августа 2019",
-        "age": "0",
-        "time": "8100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1172136.jpg",
-        "rating": {
-          "rating_kp": "6.878",
-          "vote_num_kp": "2022",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "19040"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1145306",
-      "date": "1614415690",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Zone Vision",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "8",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080
-        }
-      },
-      "info": {
-        "rus": "Иерро",
-        "orig": "Hierro",
-        "alter": "",
-        "year": "2019",
-        "country": "Испания,Франция",
-        "director": "Хорхе Койра",
-        "genre": "триллер",
-        "actors": "Кандела Пенья,Майкол Эрнандес,Tania Santana,Норберто Трухильо Б.,Дарио Грандинетти,Кимберли Телл,Luifer Rodríguez,Marga Arnau,Ángel Casanova,Saulo Trujillo",
-        "description": "После землетрясения на острове Иерро находят труп молодого человека. Все жители уверены, что это сделал предприниматель Диас. Однако судья Кандела решает оставить мужчину на свободе, пока его виновность не будет доказана.",
-        "slogan": "",
-        "premiere": "26 марта 2019",
-        "age": "0",
-        "time": "2940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1145306.jpg",
-        "rating": {
-          "rating_kp": "6.907",
-          "vote_num_kp": "361",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "1527"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1169702",
-      "date": "1614377702",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Фестиваль Рифкина",
-        "orig": "Rifkin's Festival",
-        "alter": "",
-        "year": "2020",
-        "country": "Испания,США,Италия",
-        "director": "Вуди Аллен",
-        "genre": "комедия",
-        "actors": "Уоллес Шоун,Джина Гершон,Луи Гаррель,Елена Анайя,Серхи Лопес,Ричард Кайнд,Натали Поса,Стив Гуттенберг,Тэмми Бланчард,Кристоф Вальц",
-        "description": "Супружеская пара из Америки прибывает в солнечный Сан-Себастьян на престижный международный кинофестиваль и обнаруживает себя в эпицентре водоворота соблазнов и магии кино.",
-        "slogan": "",
-        "premiere": "31 декабря 2020",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1169702.jpg",
-        "rating": {
-          "rating_kp": "6.765",
-          "vote_num_kp": "4741",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "1799"
         }
       }
     }

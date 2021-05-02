@@ -2,6 +2,321 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "764471",
+      "date": "1581943614",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Лазарь",
+        "orig": "Lazar",
+        "alter": "",
+        "year": "2015",
+        "country": "Македония, Хорватия, Болгария, Франция",
+        "director": "Светозар Ристовски",
+        "genre": "триллер,драма,криминал",
+        "actors": "Vedran Zivolic, Деян Лилич, Наташа Петрович, Горан Навойеч, Violeta Sapkovska, Krassimira Kuzmanova, Владо Йовановски, Александр Сано, Иво Желев, Тони Михайловски",
+        "description": "Действие происходит в современной Македонии. Лазарь работает как приманка, которая отвлекает полицию и контролирует переправку нелегальных мигрантов через границу с ЕС. Интеллигентный и осторожный, он живёт под патронажем местного бандита и может поддерживать свою небогатую семью деньгами, которые зарабатывает от торговли людьми. Он влюбляется в молодую студентку, которая живёт в мире очень далёком от его, и Лазарь всё больше размышляет о том, как изменить свою жизнь. Однако это очень непросто.",
+        "slogan": "",
+        "premiere": "18 сентября 2015",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_764471.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "29",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "165"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "764470",
+      "date": "1581943612",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "По ее мнению",
+        "orig": "According to her",
+        "alter": "",
+        "year": "2016",
+        "country": "США, Франция",
+        "director": "Estelle Artus",
+        "genre": "комедия,драма",
+        "actors": "Ирина Абрахам, Паскаль Йен Пфистер, Элуиз Эонне, Pascal Escriout, Натали Брайант, Vincent Verdi, Жан-Франсуа Пурье, Michelle Pichon, Neyssan Falahi, Roxane Revon",
+        "description": "Добившись признания на родине, пианистка Вероника выходит замуж за француза и переезжает жить в Нью-Йорк. Забросив музыкальную карьеру, она ведёт жизнь домохозяйки, посвящая всё время воспитанию сына. Очень скоро в семейной жизни начинаются проблемы. Не работая, Виктория чувствует себя полностью зависимой от мужа. Она начинает задумываться о возобновлении карьеры, когда в её жизни появляется молодая французская пианистка Аманда, с которой у Поля начинается роман.",
+        "slogan": "It would be much easier if you didn't work",
+        "premiere": "5 марта 2016",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_764470.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "33",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "68"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "764322",
+      "date": "1581943608",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Время",
+        "orig": "Neram",
+        "alter": "",
+        "year": "2013",
+        "country": "Индия",
+        "director": "Alphonse Puthren",
+        "genre": "боевик,триллер,мелодрама,драма",
+        "actors": "Нэвин Поули, Назрия Назим, Лалу Алекс, Бобби Симха, Тамби Рамайа, Шамми Тхилакан, Нассер, Манодж К. Джаян, Джон Виджай, Чарли",
+        "description": "Мэттью переживает не лучший период своей жизни. Кажется, он так запутался в жизненных проблемах, что уже ничего нельзя поправить. Но жизнь, как зебра, - черная полоса, белая полоса. Этот фильм - один очень насыщенный событиями день. Скучать не придется ни минуты.",
+        "slogan": "",
+        "premiere": "10 мая 2013",
+        "age": "16",
+        "time": "7020",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_764322.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "52",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "4501"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "764309",
+      "date": "1581943606",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Маленькие милые твари",
+        "orig": "Cute Little Buggers",
+        "alter": "",
+        "year": "2017",
+        "country": "Великобритания",
+        "director": "Tony Jopia",
+        "genre": "комедия,ужасы",
+        "actors": "Кэролайн Манро, Анджела Холмс, Дэни Томпсон, Гари Мартин, Джон Р. Уолкер, Сара Ди, Кумуд Пант, Steve Aaron-Sipple, Рози Пирсон, Кристофер Дэйн",
+        "description": "Когда пришельцы высадились в сельской местности, они начали похищать молодых женщин. Но сонная английская местность весьма обманчива - местные не собираются так просто сдаваться.",
+        "slogan": "",
+        "premiere": "10 февраля 2017",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_764309.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "127",
+          "rating_imdb": "3.3",
+          "vote_num_imdb": "323"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "764238",
+      "date": "1581943603",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Дорогая Элеонора",
+        "orig": "Dear Eleanor",
+        "alter": "",
+        "year": "2015",
+        "country": "США",
+        "director": "Кевин Коннолли",
+        "genre": "комедия,история,драма,приключения,семейный",
+        "actors": "Лиана Либерато, Изабель Фурман, Джош Лукас, Люк Уилсон, Джоэл Кортни, Джессика Альба, Патрик Шварценеггер, Клер ван дер Бом, Мюррэй Уайатт Рандус, Рейд Кассон",
+        "description": "Две молодых девушки путешествуют по США в 1962 году, во время хаоса кубинского ракетного кризиса, в поисках Элеоноры Рузвельт.",
+        "slogan": "They're on the road to adventure",
+        "premiere": "4 июля 2016",
+        "age": "16",
+        "time": "5340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_764238.jpg",
+        "rating": {
+          "rating_kp": "5.942",
+          "vote_num_kp": "821",
+          "rating_imdb": "6",
+          "vote_num_imdb": "1747"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "764212",
+      "date": "1581943599",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Последний скаут",
+        "orig": "The Last Scout",
+        "alter": "",
+        "year": "2017",
+        "country": "Великобритания",
+        "director": "Саймон Филлипс",
+        "genre": "фантастика",
+        "actors": "Блейн Грэй, Саймон Филлипс, Ребекка Фердинандо, Дедзи Ларей, Рита Рамнани, Пол Арнольд, Питер Вудворд, Mercedes Synodis, Kevin Chua, John Chang",
+        "description": "В 2065 году члены команды Пегаса ищут новый дом для человечества. Поскольку они приближаются к своему потенциально новому миру, открытие другого судна может быть ключом к их спасению или обречь их и остальную часть человечества на верную смерть.",
+        "slogan": "",
+        "premiere": "7 марта 2017",
+        "age": "0",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_764212.jpg",
+        "rating": {
+          "rating_kp": "4.74",
+          "vote_num_kp": "370",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "1481"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "764157",
+      "date": "1581943594",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Непригодный для свиданий",
+        "orig": "Undateable John",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Дэмиен Лихтенштайн",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Джоан Джетт, Шэннен Доэрти, Дэрил Ханна, Эстелла Уоррен, Том Арнольд, Мередит Бакстер, Маргарет Чо, Джон Филбин, Макс Райан, Эрик Этебари",
+        "description": "Инструктор по серфингу, прожигающий свою жизнь и имеющий проблемы с алкоголем и наркотиками, получает шанс начать все с чистого листа, когда он влюбляется в красивую девушку, с которой познакомился в клубе анонимных алкоголиков.",
+        "slogan": "An AA love story",
+        "premiere": "4 октября 2019",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_764157.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "18",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "46"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "764093",
+      "date": "1581943586",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Проявления тьмы",
+        "orig": "Hidden Peaks",
+        "alter": "",
+        "year": "2018",
+        "country": "Австралия",
+        "director": "Adrian Castro",
+        "genre": "боевик,ужасы,фантастика,триллер,драма,приключения",
+        "actors": "Тамара Гуо, Laurent Boiteux, Jonathan Lee Jones, Sam Alhaje, Майкл Бут, Jackie Brooke, Mark Brown, Duke Kieran Burns, Adrian Castro, Tali Coid",
+        "description": "Двое выживших в зомби-апокалипсисе пускаются в опасную поездку, чтобы добраться до колонии других уцелевших. Зло ведет за ними охоту, но главный их враг - собственный страх",
+        "slogan": "No Where To Run. No Place To Hide",
+        "premiere": "4 апреля 2018",
+        "age": "0",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_764093.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "81",
+          "rating_imdb": "3.7",
+          "vote_num_imdb": "61"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "764066",
+      "date": "1581943585",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Кровь моей крови",
+        "orig": "Sangue del mio sangue",
+        "alter": "",
+        "year": "2015",
+        "country": "Италия, Франция, Швейцария",
+        "director": "Марко Беллоккьо",
+        "genre": "история,драма",
+        "actors": "Роберто Херлицка, Пьер Джорджо Беллоккьо, Альба Рорвахер, Лидия Либерман, Федерика Фракасси, Тони Берторелли, Фаусто Руссо Алези, Альберто Кракко, Бруно Карьелло, Филиппо Тими",
+        "description": "Церковные иерархи устраивают судилище в монастыре Боббио, обвиняя сестру Бенедетту в том, что она соблазнила священника Фабрицио, после чего он покончил с собой. Такое преступление могла совершить только ведьма. Требуя от девушки признания в сатанинских кознях и раскаяния, ее мучители используют самые изощренные пытки огнем и водой. Свидетелем ужасных издевательств становится Федерико, приехавший в монастырь брат-близнец самоубийцы. Он тоже считает Бенедетту преступницей, но и сам становится жертвой ее чар... Так начинается история проклятого монастыря, отголоски которой дойдут до наших дней...",
+        "slogan": "",
+        "premiere": "8 сентября 2015",
+        "age": "16",
+        "time": "6360",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_764066.jpg",
+        "rating": {
+          "rating_kp": "5.356",
+          "vote_num_kp": "708",
+          "rating_imdb": "6",
+          "vote_num_imdb": "1008"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "763997",
       "date": "1581943579",
       "camrip": "0",
@@ -29,7 +344,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_763997.jpg",
         "rating": {
           "rating_kp": "7.062",
-          "vote_num_kp": "10786",
+          "vote_num_kp": "10789",
           "rating_imdb": "6.7",
           "vote_num_imdb": "1250"
         }
@@ -239,7 +554,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_762833.jpg",
         "rating": {
           "rating_kp": "5.689",
-          "vote_num_kp": "6266",
+          "vote_num_kp": "6267",
           "rating_imdb": "5.6",
           "vote_num_imdb": "9816"
         }
@@ -274,7 +589,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_762781.jpg",
         "rating": {
           "rating_kp": "7.484",
-          "vote_num_kp": "1437",
+          "vote_num_kp": "1438",
           "rating_imdb": "5.5",
           "vote_num_imdb": "22156"
         }
@@ -308,8 +623,8 @@
         "time": "3840",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_762022.jpg",
         "rating": {
-          "rating_kp": "7.533",
-          "vote_num_kp": "1724",
+          "rating_kp": "7.53",
+          "vote_num_kp": "1727",
           "rating_imdb": "7.5",
           "vote_num_imdb": "2216"
         }
@@ -414,7 +729,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_760740.jpg",
         "rating": {
           "rating_kp": "7.116",
-          "vote_num_kp": "29419",
+          "vote_num_kp": "29423",
           "rating_imdb": "6.6",
           "vote_num_imdb": "53412"
         }
@@ -484,7 +799,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_760080.jpg",
         "rating": {
           "rating_kp": "6.865",
-          "vote_num_kp": "1237",
+          "vote_num_kp": "1238",
           "rating_imdb": "6.7",
           "vote_num_imdb": "1549"
         }
@@ -659,7 +974,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_758262.jpg",
         "rating": {
           "rating_kp": "4.037",
-          "vote_num_kp": "409",
+          "vote_num_kp": "410",
           "rating_imdb": "3.4",
           "vote_num_imdb": "3509"
         }
@@ -763,10 +1078,10 @@
         "time": "5640",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_758160.jpg",
         "rating": {
-          "rating_kp": "5.884",
-          "vote_num_kp": "4395",
+          "rating_kp": "5.886",
+          "vote_num_kp": "4405",
           "rating_imdb": "5.6",
-          "vote_num_imdb": "10014"
+          "vote_num_imdb": "10024"
         }
       }
     },
@@ -938,10 +1253,10 @@
         "time": "5700",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_756326.jpg",
         "rating": {
-          "rating_kp": "5.264",
-          "vote_num_kp": "282",
+          "rating_kp": "5.253",
+          "vote_num_kp": "283",
           "rating_imdb": "5",
-          "vote_num_imdb": "1120"
+          "vote_num_imdb": "1122"
         }
       }
     },
@@ -1009,7 +1324,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_756221.jpg",
         "rating": {
           "rating_kp": "3.999",
-          "vote_num_kp": "855",
+          "vote_num_kp": "856",
           "rating_imdb": "4.3",
           "vote_num_imdb": "3123"
         }
@@ -1078,10 +1393,10 @@
         "time": "6000",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_756075.jpg",
         "rating": {
-          "rating_kp": "5.815",
-          "vote_num_kp": "1629",
+          "rating_kp": "5.818",
+          "vote_num_kp": "1630",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "2297"
+          "vote_num_imdb": "2311"
         }
       }
     },
@@ -1114,7 +1429,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_755941.jpg",
         "rating": {
           "rating_kp": "6.432",
-          "vote_num_kp": "2809",
+          "vote_num_kp": "2810",
           "rating_imdb": "6.6",
           "vote_num_imdb": "12720"
         }
@@ -1432,321 +1747,6 @@
           "vote_num_kp": "84",
           "rating_imdb": "5.6",
           "vote_num_imdb": "786"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "748808",
-      "date": "1581943329",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Неслабый пол",
-        "orig": "The Opposite Sex",
-        "alter": "",
-        "year": "2014",
-        "country": "США",
-        "director": "Дженнифер Финниган, Джонатан Силвермен",
-        "genre": "комедия",
-        "actors": "Мена Сувари, Джофф Стульц, Дженнифер Финниган, Джош Хопкинс, Эрик Робертс, Кенан Томпсон, Джош Кук, Дебра Джо Рапп, Джои Фатоне, Том ДеНуччи",
-        "description": "Винс - адвокат, который привык выигрывать везде и всюду. Победитель по жизни, он меняет девушек, как перчатки. Успешный холостяк, для которого доступна любая девушка в баре... кроме Джейн. Знакомство со сногсшибательной блондинкой Джейн ставит жизнь Винса сног на голову. И теперь главная его цель - заполучить ее любой ценой. Но для этого придется играть по ее правилам.",
-        "slogan": "Соблазни её, если сможешь",
-        "premiere": "22 октября 2014",
-        "age": "16",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_748808.jpg",
-        "rating": {
-          "rating_kp": "5.222",
-          "vote_num_kp": "2476",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "986"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "748558",
-      "date": "1581943324",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Конец убийствам",
-        "orig": "An End to Killing",
-        "alter": "",
-        "year": "2012",
-        "country": "Китай, Япония, Корея Южная",
-        "director": "-",
-        "genre": "боевик,история,драма,военный",
-        "actors": "Юй Шаоцюнь, Ли Сяожань, Хидэо Накаидзуми, Гэн Лэ, Чжао Юлян, Пак Е-джин, Тумэнь, Элвис Цуй",
-        "description": "Начало 13-го века. Даосский монах Цю Тюдзи в течение двух лет пытался остановить убийства, которые совершали Чингисхан и его солдаты в Европе и Азии.",
-        "slogan": "",
-        "premiere": "22 марта 2013",
-        "age": "0",
-        "time": "6480",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_748558.jpg",
-        "rating": {
-          "rating_kp": "6.034",
-          "vote_num_kp": "80",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "178"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "746914",
-      "date": "1581943318",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Я твоя",
-        "orig": "Jeg er din",
-        "alter": "",
-        "year": "2013",
-        "country": "Норвегия",
-        "director": "Iram Haq",
-        "genre": "драма",
-        "actors": "Амрита Ачария, Ола Рапас, Prince Singh, Rabia Noreen, Тронд Фауса Аурвааг, Ассад Сиддик, Тобиас Зантельман, Джеспер Мальм, Судхир Кумар Коли, Sara Khorami",
-        "description": "Мина - молодая мать-одиночка, живущая в Осло со своим шестилетним сыном Феликсом. Она из пакистанской семьи, с которой у нее очень напряженные отношения. Мина ищет любви и однажды знакомится с молодым шведским режиссером Йеспером, в которого влюбляется без памяти...",
-        "slogan": "",
-        "premiere": "16 августа 2013",
-        "age": "0",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_746914.jpg",
-        "rating": {
-          "rating_kp": "5.981",
-          "vote_num_kp": "118",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "677"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "746413",
-      "date": "1581943306",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Монументальный",
-        "orig": "Monumental",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Скотт Хансен",
-        "genre": "боевик,драма",
-        "actors": "Гари Кейрнс II, Люк Олбрайт, АннаМария Демара, Агнес Олех, Мэгги Пол, Курт Дин Кейрнс, Билл Оберст мл., Маршал Хилтон, Даррен Шнасе, Гео Сантини",
-        "description": "Два брата решают осуществить заветную мечту своей покойной матери: она всегда хотела посмотреть на величественные монументы Америки. Парни берут вазу с её прахом и едут по заветным местам, чтобы развеять прах родного человека. Эта поездка заставит их взглянуть на многие вещи и на жизнь в целом совершенно под другим углом.",
-        "slogan": "Inside each of us is the possibility for greatness",
-        "premiere": "14 октября 2016",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_746413.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "33",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "95"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "746302",
-      "date": "1581943305",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Ортодокс",
-        "orig": "Orthodox",
-        "alter": "",
-        "year": "2015",
-        "country": "Великобритания",
-        "director": "Дэвид Леон",
-        "genre": "драма,криминал",
-        "actors": "Стивен Грэм, Кристофер Фэйрбэнк, Майкл Смайли, Ребекка Каллард, Роберт Гудман, Юмит Ульген, Конор МакНил, Оливер Вуллфорд, Джакомо Манчини, Сидни Кин",
-        "description": "Бенджамин, подвергающийся издевательствам за свою еврейскую веру, выбирает бокс как средство самозащиты, отчуждающее его от его религиозной общины. Когда взрослые оказываются зажаты между двух миров, его отчаянное желание обеспечить семью становится спусковым крючком для серии событий, подтверждающих, что он может никогда не найти приятия, которого всегда жаждал.",
-        "slogan": "One man must fight to be himself",
-        "premiere": "11 ноября 2015",
-        "age": "0",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_746302.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "38",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "211"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "745873",
-      "date": "1581943294",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "720",
-      "info": {
-        "rus": "Топ-5",
-        "orig": "Top Five",
-        "alter": "",
-        "year": "2014",
-        "country": "США",
-        "director": "Крис Рок",
-        "genre": "комедия,мелодрама",
-        "actors": "Крис Рок, Розарио Доусон, Дж.Б. Смув, Гэбриэл Юнион, Романи Малко, Хейли Норман, Андерс Холм, Седрик «Развлекатель», Кейша Льюис, Кевин Барнетт",
-        "description": "История о комедийном актере, который пытается перестать шутить и начать вести себя как серьезный актер, когда его невеста, звезда реалити-шоу, уговаривает его устроить трансляцию их свадьбы на ее шоу...",
-        "slogan": "",
-        "premiere": "6 сентября 2014",
-        "age": "18",
-        "time": "6120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_745873.jpg",
-        "rating": {
-          "rating_kp": "5.791",
-          "vote_num_kp": "2251",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "25871"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "745743",
-      "date": "1581943289",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Интервью",
-        "orig": "The Interview",
-        "alter": "",
-        "year": "2014",
-        "country": "США",
-        "director": "Сет Роген, Эван Голдберг",
-        "genre": "комедия,боевик",
-        "actors": "Джеймс Франко, Сет Роген, Рэндолл Парк, Диана Банг, Лиззи Каплан, Тимоти С. Саймонс, Риз Александр, Джеймс Йи, Пол Бай, Джофф Густафссон",
-        "description": "Дэйв - фантастически талантливый журналист популярного ток-шоу, продюсирует которое его лучший друг Аарон. Друзья, давно мечтавшие сделать что-то по-настоящему значимое, решают взять интервью у северокорейского диктатора Ким Чен Ына. Вскоре к ним обращается ЦРУ, которое просит наших героев ни много ни мало - убить Кима. Так начинается веселая история о двух наименее квалифицированных наемных убийцах в истории человечества...",
-        "slogan": "Their trip to North Korea just went south",
-        "premiere": "11 декабря 2014",
-        "age": "16",
-        "time": "6720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_745743.jpg",
-        "rating": {
-          "rating_kp": "6.084",
-          "vote_num_kp": "31049",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "309448"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "745524",
-      "date": "1581943282",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Белый шторм",
-        "orig": "The White Storm",
-        "alter": "",
-        "year": "2013",
-        "country": "Гонконг, Китай",
-        "director": "Бенни Чан",
-        "genre": "боевик,триллер,драма,криминал",
-        "actors": "Шон Лау, Луис Ку, Ник Чун, Ло Хой-Пан, Юань Цуань, Берг Нг, Кэн Ло, Бен Лам, Хелена Ло, Кристофер Коллинз",
-        "description": "Операция против известного наркобарона в Таиланде меняет судьбы сотрудников отдела по борьбе с наркотиками. Капитан-трудоголик теряет своих людей и блестящую карьеру, верного полицейского бросили, и он пропал без вести, полицейский под прикрытием был спасён, и он решил убежать от своего прошлого. Несколько лет спустя преступление, связанное с наркотиками объединило их для финального противостояния.",
-        "slogan": "",
-        "premiere": "25 октября 2013",
-        "age": "0",
-        "time": "8400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_745524.jpg",
-        "rating": {
-          "rating_kp": "6.222",
-          "vote_num_kp": "290",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "2289"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "745345",
-      "date": "1581943271",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Пи Мак из Фра Ханонга",
-        "orig": "Pee Mak Phrakanong",
-        "alter": "",
-        "year": "2013",
-        "country": "Таиланд",
-        "director": "Банйонг Писантанакун",
-        "genre": "комедия,ужасы,мелодрама",
-        "actors": "Марио Морер, Davika Hoorne, Наттапонг Чартпонг, Понгсаторн Джонгвилак, Виват Конграсри, Кантапат Пермпунпатчарасук, Шон Джиндачот",
-        "description": "После окончания войны, Мак приглашает своих друзей погостить у него в деревне и познакомиться с его женой. Друзей принимают тепло и радушно, даже дом отдают им для проживания и вообще все хорошо и мило. Но тут начинают происходить странные вещи. Да и про жену Мака по деревне ходят пугающие слухи.",
-        "slogan": "",
-        "premiere": "28 марта 2013",
-        "age": "0",
-        "time": "6900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_745345.jpg",
-        "rating": {
-          "rating_kp": "6.573",
-          "vote_num_kp": "299",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "4964"
         }
       }
     }

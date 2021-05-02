@@ -2,6 +2,286 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "77540",
+      "date": "1573837684",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Джон Картер",
+        "orig": "John Carter",
+        "alter": "",
+        "year": "2012",
+        "country": "США",
+        "director": "Эндрю Стэнтон",
+        "genre": "боевик,фантастика,приключения",
+        "actors": "Тейлор Китч, Линн Коллинс, Марк Стронг, Доминик Уэст, Джеймс Пьюрфой, Брайан Крэнстон, Дэрил Сабара, Аманда Клэйтон, Киран Хайндс, Николас Вудесон",
+        "description": "Ветеран Гражданской войны в США Джон Картер против своей воли оказывается на Марсе, где попадает в плен к воинственным четырехметровым туземцам. Картеру предстоит не только спастись самому, но и спасти принцессу Дею Торис из Гелиума.",
+        "slogan": "В этом мире у каждого есть второй шанс",
+        "premiere": "22 февраля 2012",
+        "age": "12",
+        "time": "7920",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77540.jpg",
+        "rating": {
+          "rating_kp": "6.927",
+          "vote_num_kp": "180863",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "257209"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "721153",
+      "date": "1573837416",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Багровый пик",
+        "orig": "Crimson Peak",
+        "alter": "",
+        "year": "2015",
+        "country": "Канада, США",
+        "director": "Гильермо дель Торо",
+        "genre": "ужасы,триллер,фэнтези,мелодрама,детектив,драма",
+        "actors": "Миа Васиковска, Джессика Честейн, Том Хиддлстон, Чарли Ханнэм, Джим Бивер, Берн Горман, Лесли Хоуп, Даг Джонс, Джонатан Хайд, Брюс Грэй",
+        "description": "Дурная слава преследует дом, что возвышается над городом. С приходом зимы он утопает в кровавых снегах. Говорят, дело в глине, проступающей на поверхность. Но ни единая душа не рискует ступить на ледяной склон... кроме нее. Она влюблена в таинственного незнакомца, живущего в древних стенах со своей сестрой. Багровый пик пробудился и уже не уснет.",
+        "slogan": "Beware",
+        "premiere": "25 сентября 2015",
+        "age": "18",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_721153.jpg",
+        "rating": {
+          "rating_kp": "6.632",
+          "vote_num_kp": "108173",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "132949"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "3523",
+      "date": "1573837382",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Женщина-кошка",
+        "orig": "Catwoman",
+        "alter": "",
+        "year": "2004",
+        "country": "США",
+        "director": "Питоф",
+        "genre": "боевик,фэнтези,криминал",
+        "actors": "Холли Берри, Бенджамин Брэтт, Шэрон Стоун, Ламбер Вильсон, Фрэнсис Конрой, Алекс Борштейн, Майкл Масси, Байрон Манн, Ким Смит, Кристофер Хейердал",
+        "description": "Пейшинс Филипс работает дизайнером в крупной косметической компании, которая готовится выпустить на рынок новый продукт, замедляющий старение. Но у этой революционной новинки есть существенный недостаток, который компания тщательно скрывает и о котором случайно узнает Пэйшинс. Дальнейшие события меняют ее жизнь самым невероятным образом...",
+        "slogan": "CATch Her In IMAX",
+        "premiere": "19 июля 2004",
+        "age": "12",
+        "time": "6240",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3523.jpg",
+        "rating": {
+          "rating_kp": "5.804",
+          "vote_num_kp": "56010",
+          "rating_imdb": "3.4",
+          "vote_num_imdb": "112343"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "570574",
+      "date": "1573837327",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Извлечение",
+        "orig": "Extracted",
+        "alter": "",
+        "year": "2012",
+        "country": "США",
+        "director": "Нир Панири",
+        "genre": "фантастика,драма",
+        "actors": "Саша Ройз, Дженни Моллен, Доминик Богарт, Ричард Рили, Ник Джеймисон, Родни Истман, Фрэнк Эшмор, Брэд Калвер, Тай Симпкинс, Сара Томко",
+        "description": "Главный герой Томас Джейкобс изобретает способ проникать в память людей и просматривать их воспоминания «своими глазами». Так он может возвращаться в собственные воспоминания и снова переживать счастливые моменты своей жизни. Но однажды Том вынужден действовать в разрез своим моральным принципам и использовать своё изобретение, чтобы войти в воспоминания одного наркомана и в буквальном смысле слова увидеть, совершал ли он преступление, в котором его обвиняют. Однако по причине повреждённости сознания преступника наркотиками, Том оказывается пойман в ловушке внутри его головы. Теперь ему предстоит прожить в памяти наркомана почти четыре года, до тех пор, пока он не обнаружит долгожданную возможность побега.",
+        "slogan": "Lost in another dimension",
+        "premiere": "10 марта 2012",
+        "age": "0",
+        "time": "5340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_570574.jpg",
+        "rating": {
+          "rating_kp": "6.62",
+          "vote_num_kp": "3843",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "11618"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "317985",
+      "date": "1573837288",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Коллекционер",
+        "orig": "The Collector",
+        "alter": "",
+        "year": "2009",
+        "country": "США",
+        "director": "Маркус Данстэн",
+        "genre": "ужасы,триллер",
+        "actors": "Джош Стюарт, Хуан Фернандес, Карли Скотт Коллинз, Майкл Рейли Бурк, Андреа Рот, Мадлен Зима, Хейли Пуллос, Уильям Прэйл, Дайан Голднер, Даниэлла Алонсо",
+        "description": "Бывший домушник Аркин забирается в загородный коттедж своего начальника с тем, чтобы ограбив его, выплатить долг бывшей жене. Однако попав внутрь, он вскоре понимает, что дом и его обитатели уже захвачены крайне неприятным типом в плюшевой маске с полным набором пыточных инструментов времен Испанской инквизиции, после чего предпринимает отчаянную попытку спасти семью, которую он изначально собирался обчистить.",
+        "slogan": "Кто будет следующим в его коллекции?",
+        "premiere": "31 июля 2009",
+        "age": "18",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_317985.jpg",
+        "rating": {
+          "rating_kp": "6.598",
+          "vote_num_kp": "46828",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "59550"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "571252",
+      "date": "1573837244",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Коллекционер 2",
+        "orig": "The Collection",
+        "alter": "",
+        "year": "2012",
+        "country": "США",
+        "director": "Маркус Данстэн",
+        "genre": "боевик,ужасы,триллер",
+        "actors": "Джош Стюарт, Эмма Фитцпатрик, Кристофер Макдональд, Ли Тергесен, Тим Гриффин, Андре Ройо, Рэндолл Арчер, Шеннон Кэйн, Брэндон Молале, Эрин Вэй",
+        "description": "Бывалому медвежатнику Аркину чудесным образом удалось выбраться из ловушек, расставленных по дому загадочным маньяком Коллекционером. Аркин был уверен, что он никогда в жизни больше не встретится с этим ужасным типом, но судьба распоряжается иначе.",
+        "slogan": "Не попади в его коллекцию",
+        "premiere": "21 сентября 2012",
+        "age": "18",
+        "time": "4920",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_571252.jpg",
+        "rating": {
+          "rating_kp": "6.209",
+          "vote_num_kp": "41413",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "46189"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1081",
+      "date": "1573829236",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Пришелец",
+        "orig": "Impostor",
+        "alter": "",
+        "year": "2001",
+        "country": "США",
+        "director": "Гэри Фледер",
+        "genre": "фантастика,триллер,детектив,драма",
+        "actors": "Гэри Синиз, Мэделин Стоу, Винсент Д’Онофрио, Тони Шэлуб, Тим Гини, Мекхай Файфер, Гари Дурдан, Линдси Краус, Элизабет Пенья, Джейсон Бек",
+        "description": "2079 год. Уже много лет земляне ведут войну с инопланетянами. Талантливый ученый Спенсер Олхэм создает уникальное оружие для борьбы с ними. Но в один прекрасный день его самого объявляют пришельцем и начинают широкомасштабную охоту.\r\n\r\nВ ситуации, когда его ищут все спецслужбы страны, Спенсер должен доказать свою невиновность и понять, кто он есть на самом деле...",
+        "slogan": "In the Future, not everyone is who they seem to be",
+        "premiere": "27 октября 2001",
+        "age": "16",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1081.jpg",
+        "rating": {
+          "rating_kp": "6.828",
+          "vote_num_kp": "7256",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "22697"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "8666",
+      "date": "1573828980",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Деревня проклятых",
+        "orig": "Village of the Damned",
+        "alter": "",
+        "year": "1995",
+        "country": "США",
+        "director": "Джон Карпентер",
+        "genre": "ужасы,фантастика,триллер",
+        "actors": "Кристофер Рив, Кёрсти Элли, Линда Козловски, Майкл Паре, Мередит Сэленджер, Марк Хэмилл, Пиппа Пиртри, Питер Джейсон, Констанс Форслунд, Карен Кан",
+        "description": "Американскую деревушку Мидвич посещают инопланетяне. Под их воздействием жители деревни внезапно впадают в длительный сон. В результате визита инопланетян несколько жительниц деревни ровно через девять месяцев, в один и тот же час, рожают детей похожих друг на друга. \\n\r\n\\n\r\nПодросшие малыши отличаются от обычных детей своим бледным видом, у них платиновые волосы и сверлящие глаза цвета кобальта, кроме того они умнее своих сверстников, но не проявляют никаких эмоций. Странные дети приносят жителям деревни одни несчастья и пугают даже собственных родителей: они умеют читать мысли и обладают необычными психическими свойствами...",
+        "slogan": "Beware the Children",
+        "premiere": "28 апреля 1995",
+        "age": "16",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8666.jpg",
+        "rating": {
+          "rating_kp": "6.25",
+          "vote_num_kp": "8480",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "29366"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "161094",
       "date": "1573828924",
       "camrip": "0",
@@ -29,7 +309,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_161094.jpg",
         "rating": {
           "rating_kp": "6.572",
-          "vote_num_kp": "30112",
+          "vote_num_kp": "30113",
           "rating_imdb": "5.9",
           "vote_num_imdb": "75057"
         }
@@ -64,9 +344,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_321842.jpg",
         "rating": {
           "rating_kp": "7.582",
-          "vote_num_kp": "217870",
+          "vote_num_kp": "218131",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "299908"
+          "vote_num_imdb": "299951"
         }
       }
     },
@@ -99,9 +379,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_755.jpg",
         "rating": {
           "rating_kp": "7.086",
-          "vote_num_kp": "58260",
+          "vote_num_kp": "58277",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "190741"
+          "vote_num_imdb": "190789"
         }
       }
     },
@@ -169,7 +449,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_317.jpg",
         "rating": {
           "rating_kp": "7.091",
-          "vote_num_kp": "26589",
+          "vote_num_kp": "26597",
           "rating_imdb": "6.2",
           "vote_num_imdb": "109295"
         }
@@ -204,7 +484,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6133.jpg",
         "rating": {
           "rating_kp": "7.527",
-          "vote_num_kp": "41415",
+          "vote_num_kp": "41420",
           "rating_imdb": "6.7",
           "vote_num_imdb": "93617"
         }
@@ -239,9 +519,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_61297.jpg",
         "rating": {
           "rating_kp": "7.87",
-          "vote_num_kp": "85489",
+          "vote_num_kp": "85495",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "422419"
+          "vote_num_imdb": "422465"
         }
       }
     },
@@ -309,9 +589,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5330.jpg",
         "rating": {
           "rating_kp": "7.768",
-          "vote_num_kp": "50718",
+          "vote_num_kp": "50727",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "198110"
+          "vote_num_imdb": "198148"
         }
       }
     },
@@ -344,9 +624,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3795.jpg",
         "rating": {
           "rating_kp": "7.737",
-          "vote_num_kp": "100489",
+          "vote_num_kp": "100533",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "86606"
+          "vote_num_imdb": "86615"
         }
       }
     },
@@ -379,9 +659,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_724.jpg",
         "rating": {
           "rating_kp": "7.595",
-          "vote_num_kp": "95079",
+          "vote_num_kp": "95096",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "79649"
+          "vote_num_imdb": "79661"
         }
       }
     },
@@ -414,9 +694,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_85182.jpg",
         "rating": {
           "rating_kp": "7.622",
-          "vote_num_kp": "107138",
+          "vote_num_kp": "107179",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "100449"
+          "vote_num_imdb": "100459"
         }
       }
     },
@@ -449,9 +729,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_23737.jpg",
         "rating": {
           "rating_kp": "7.852",
-          "vote_num_kp": "108819",
+          "vote_num_kp": "108845",
           "rating_imdb": "7",
-          "vote_num_imdb": "53156"
+          "vote_num_imdb": "53163"
         }
       }
     },
@@ -486,7 +766,7 @@
           "rating_kp": "7.711",
           "vote_num_kp": "85230",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "105007"
+          "vote_num_imdb": "105017"
         }
       }
     },
@@ -519,9 +799,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_102130.jpg",
         "rating": {
           "rating_kp": "7.816",
-          "vote_num_kp": "134774",
+          "vote_num_kp": "134834",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "142008"
+          "vote_num_imdb": "142029"
         }
       }
     },
@@ -554,9 +834,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4827.jpg",
         "rating": {
           "rating_kp": "7.529",
-          "vote_num_kp": "49816",
+          "vote_num_kp": "49834",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "161206"
+          "vote_num_imdb": "161235"
         }
       }
     },
@@ -589,9 +869,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_195460.jpg",
         "rating": {
           "rating_kp": "7.296",
-          "vote_num_kp": "76539",
+          "vote_num_kp": "76571",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "186894"
+          "vote_num_imdb": "186927"
         }
       }
     },
@@ -659,9 +939,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_160931.jpg",
         "rating": {
           "rating_kp": "6.554",
-          "vote_num_kp": "41637",
+          "vote_num_kp": "41652",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "160247"
+          "vote_num_imdb": "160275"
         }
       }
     },
@@ -694,9 +974,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_161007.jpg",
         "rating": {
           "rating_kp": "6.795",
-          "vote_num_kp": "41758",
+          "vote_num_kp": "41763",
           "rating_imdb": "5.3",
-          "vote_num_imdb": "47297"
+          "vote_num_imdb": "47301"
         }
       }
     },
@@ -728,10 +1008,10 @@
         "time": "6420",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_972919.jpg",
         "rating": {
-          "rating_kp": "6.776",
-          "vote_num_kp": "36051",
+          "rating_kp": "6.777",
+          "vote_num_kp": "36070",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "89963"
+          "vote_num_imdb": "89996"
         }
       }
     },
@@ -799,9 +1079,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_391277.jpg",
         "rating": {
           "rating_kp": "7.036",
-          "vote_num_kp": "84044",
+          "vote_num_kp": "84081",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "102419"
+          "vote_num_imdb": "102434"
         }
       }
     },
@@ -834,9 +1114,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_63778.jpg",
         "rating": {
           "rating_kp": "7.151",
-          "vote_num_kp": "50847",
+          "vote_num_kp": "50854",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "94248"
+          "vote_num_imdb": "94279"
         }
       }
     },
@@ -869,9 +1149,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2769.jpg",
         "rating": {
           "rating_kp": "6.765",
-          "vote_num_kp": "5341",
+          "vote_num_kp": "5342",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "5779"
+          "vote_num_imdb": "5780"
         }
       }
     },
@@ -904,9 +1184,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_676823.jpg",
         "rating": {
           "rating_kp": "6.044",
-          "vote_num_kp": "31574",
+          "vote_num_kp": "31582",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "16779"
+          "vote_num_imdb": "16781"
         }
       }
     },
@@ -939,9 +1219,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_736209.jpg",
         "rating": {
           "rating_kp": "6.844",
-          "vote_num_kp": "34442",
+          "vote_num_kp": "34449",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "42444"
+          "vote_num_imdb": "42454"
         }
       }
     },
@@ -974,9 +1254,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_679924.jpg",
         "rating": {
           "rating_kp": "6.914",
-          "vote_num_kp": "80150",
+          "vote_num_kp": "80162",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "257214"
+          "vote_num_imdb": "257276"
         }
       }
     },
@@ -1009,9 +1289,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_41949.jpg",
         "rating": {
           "rating_kp": "6.303",
-          "vote_num_kp": "57026",
+          "vote_num_kp": "57050",
           "rating_imdb": "5.6",
-          "vote_num_imdb": "186760"
+          "vote_num_imdb": "186781"
         }
       }
     },
@@ -1044,9 +1324,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6060.jpg",
         "rating": {
           "rating_kp": "6.644",
-          "vote_num_kp": "45021",
+          "vote_num_kp": "45027",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "89374"
+          "vote_num_imdb": "89387"
         }
       }
     },
@@ -1079,9 +1359,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_51319.jpg",
         "rating": {
           "rating_kp": "7.149",
-          "vote_num_kp": "140528",
+          "vote_num_kp": "140561",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "159499"
+          "vote_num_imdb": "159539"
         }
       }
     },
@@ -1114,9 +1394,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_261005.jpg",
         "rating": {
           "rating_kp": "6.848",
-          "vote_num_kp": "35989",
+          "vote_num_kp": "36011",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "86897"
+          "vote_num_imdb": "86906"
         }
       }
     },
@@ -1184,7 +1464,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_468571.jpg",
         "rating": {
           "rating_kp": "6.875",
-          "vote_num_kp": "69770",
+          "vote_num_kp": "69786",
           "rating_imdb": "6.6",
           "vote_num_imdb": "129010"
         }
@@ -1219,9 +1499,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_779024.jpg",
         "rating": {
           "rating_kp": "7.145",
-          "vote_num_kp": "93350",
+          "vote_num_kp": "93369",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "261415"
+          "vote_num_imdb": "261445"
         }
       }
     },
@@ -1254,7 +1534,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462455.jpg",
         "rating": {
           "rating_kp": "5.898",
-          "vote_num_kp": "32260",
+          "vote_num_kp": "32261",
           "rating_imdb": "5.7",
           "vote_num_imdb": "122205"
         }
@@ -1289,9 +1569,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_464282.jpg",
         "rating": {
           "rating_kp": "7.245",
-          "vote_num_kp": "167169",
+          "vote_num_kp": "167256",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "326410"
+          "vote_num_imdb": "326470"
         }
       }
     },
@@ -1326,7 +1606,7 @@
           "rating_kp": "7.964",
           "vote_num_kp": "235380",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "110440"
+          "vote_num_imdb": "110465"
         }
       }
     },
@@ -1359,9 +1639,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_197615.jpg",
         "rating": {
           "rating_kp": "7.004",
-          "vote_num_kp": "92078",
+          "vote_num_kp": "92149",
           "rating_imdb": "7",
-          "vote_num_imdb": "260869"
+          "vote_num_imdb": "260905"
         }
       }
     },
@@ -1394,9 +1674,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_577.jpg",
         "rating": {
           "rating_kp": "7.489",
-          "vote_num_kp": "152874",
+          "vote_num_kp": "152977",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "381020"
+          "vote_num_imdb": "381078"
         }
       }
     },
@@ -1464,289 +1744,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_432417.jpg",
         "rating": {
           "rating_kp": "5.821",
-          "vote_num_kp": "17757",
+          "vote_num_kp": "17771",
           "rating_imdb": "5.6",
           "vote_num_imdb": "47198"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "839954",
-      "date": "1573823773",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Легенда",
-        "orig": "Legend",
-        "alter": "",
-        "year": "2015",
-        "country": "Великобритания, Франция, США",
-        "director": "Брайан Хелгеленд",
-        "genre": "триллер,драма,криминал",
-        "actors": "Том Харди, Эмили Браунинг, Дэвид Тьюлис, Даффи, Кристофер Экклстон, Чазз Пальминтери, Пол Андерсон, Джошуа Хилл, Колин Морган, Тара Фитцджеральд",
-        "description": "Фильм расскажет историю близнецов Реджи и Ронни Крэй, культовых фигур преступного мира Великобритании 1960-х. Братья возглавляли самую влиятельную бандитскую группировку Ист-Энда. В их послужном списке: вооруженные грабежи, рэкет, поджоги, покушения, убийства и собственный ночной клуб, куда доезжали даже голливудские знаменитости. Среди их жертв - криминальные авторитеты Джек МакВитти и Джордж Корнелл.",
-        "slogan": "Преступление – как профессия. Взлет и падение легендарных близнецов Крэй",
-        "premiere": "3 сентября 2015",
-        "age": "18",
-        "time": "7860",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_839954.jpg",
-        "rating": {
-          "rating_kp": "7.147",
-          "vote_num_kp": "346048",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "161639"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "461904",
-      "date": "1573823641",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Бурлеск",
-        "orig": "Burlesque",
-        "alter": "",
-        "year": "2010",
-        "country": "США",
-        "director": "Стив Энтин",
-        "genre": "мелодрама,драма,мюзикл",
-        "actors": "Кристина Агилера, Шер, Кэм Жиганде, Кристен Белл, Эрик Дэйн, Алан Камминг, Джулианна Хаф, Питер Галлахер, Стэнли Туччи, Дианна Агрон",
-        "description": "Али - молодая амбициозная девушка из маленького городка с чудесным голосом, совсем недавно потеряла своих родителей. Теперь никому не нужная, она отправляется в большой город Лос-Анджелес, где устраивается на работу у Тесс, хозяйки ночного клуба «Бурлеск». За короткое время она находит друзей, поклонников и любовь всей своей жизни. Но может ли сказка длиться вечно? Ведь немало людей завидует этой прекрасной танцовщице...",
-        "slogan": "It takes a Legend to make a Star",
-        "premiere": "24 ноября 2010",
-        "age": "16",
-        "time": "7140",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_461904.jpg",
-        "rating": {
-          "rating_kp": "7.473",
-          "vote_num_kp": "65464",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "79815"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1209891",
-      "date": "1573823115",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Побег из джунглей",
-        "orig": "Boonie Bears: Blast Into the Past",
-        "alter": "",
-        "year": "2019",
-        "country": "Китай",
-        "director": "Линь Хуэйда,Дин Лян",
-        "genre": "мультфильм,комедия,фантастика",
-        "actors": "Чжан Вэй,Чжан Бинцзюнь,Тань Сяо,Сун Цзуэр,Ван Даньцин,Мэн Юйтянь",
-        "description": "Во время экскурсии в древнюю пещеру медведи Брайр и Брэмбл и их друг-дровосек Вик внезапно оказываются в настоящем доисторическом прошлом. \r\n\r\nЧтобы вернуться назад, им придется совершить большое путешествие во времени и пережить невероятные приключения: столкнуться с огромными хищными птицами, гигантскими черепахами и многочисленными неведомыми и опасными обитателями первобытных джунглей. Но главное &amp;#151; найти новых друзей и дорогу домой!",
-        "slogan": "",
-        "premiere": "5 февраля 2019",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1209891.jpg",
-        "rating": {
-          "rating_kp": "5.952",
-          "vote_num_kp": "2366",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "125"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1111734",
-      "date": "1573809616",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дикая Лига",
-        "orig": "Dikaya Liga",
-        "alter": "",
-        "year": "2019",
-        "country": "Россия",
-        "director": "Андрей Богатырев,Арт Камачо",
-        "genre": "приключения,боевик",
-        "actors": "Владимир Яглыч,Аделина Голубенко-Гизатуллина,Иван Охлобыстин,Дмитрий Назаров,Евгений Коряковский,Олеся Судзиловская,Эдриан Пол,Уильям Шокли,Станислав Тикунов,Анатолий Гущин",
-        "description": "Основанная на реальных событиях начала XX века история парня Варлама из низших социальных слоев, которому ради того, чтобы быть с любимой, пришлось покинуть родные края и начать жить в Москве. Проявившего себя в бою стенка на стенку парня замечает англичанин, владелец футбольного клуба, который предлагает ему попробовать силы в команде. Однако команда не принимает неотесанного бурлака с Волги. Тогда собравшись с силами, Варлам вместе с настоящим патриотом и увлеченным футболом купцом Балашовым создает первую народную команду и становится лидером, изменив при этом свою жизнь и жизнь окружающих. Благодаря Варламу и его команде футбол в России становится поистине народной игрой.",
-        "slogan": "",
-        "premiere": "24 октября 2019",
-        "age": "12",
-        "time": "6660",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1111734.jpg",
-        "rating": {
-          "rating_kp": "5.821",
-          "vote_num_kp": "4980",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "56"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "607031",
-      "date": "1573809364",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Пусть идёт снег",
-        "orig": "Let It Snow",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Люк Снеллин",
-        "genre": "мелодрама,комедия",
-        "actors": "Изабела Монер,Кирнан Шипка,Джоан Кьюсак,Одейя Раш,Джейкоб Баталон,Шамеик Мур,Митчелл Хоуп,Майлз Роббинс,Mason Gooding,Лив Хьюсон",
-        "description": "Неожиданный снежный буран в канун Рождества застает жителей Грейстауна врасплох: поезда останавливаются, машины вязнут в снегу, а люди стараются переждать непогоду дома. И лишь храбрая девушка выбирается из застрявшего в снегу экспресса, чтобы посидеть в тишине маленькой закусочной, где выпекают вафли. Она и не догадывается, что ее поступок стал первым звеном в цепи событий, которые изменят многие жизни: одна девушка влюбится в очаровательного незнакомца, трое друзей выиграют гонку в &amp;laquo;Вафельную&amp;raquo;, а судьба карликовой свиньи окажется в руках влюбленного баристы.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_607031.jpg",
-        "rating": {
-          "rating_kp": "6.158",
-          "vote_num_kp": "5928",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "18510"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1016418",
-      "date": "1573809285",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Вояджер: Дальше планет",
-        "orig": "The Farthest",
-        "alter": "",
-        "year": "2017",
-        "country": "Ирландия",
-        "director": "Эмер Рейнольдс",
-        "genre": "документальный,история",
-        "actors": "Фрэнк Дрэйк,Кэролин Порко,Джон Касани,Лоуренс Краусс,Тимоти Феррис,Эдвард Стоун,Ник Саган,Ларри Содерблом,Чарли Кольхейз,Фран Бэйджнал",
-        "description": "Документальный фильм об одном из величайших достижений и самом успешном научном проекте человечества &amp;#151; запуске двух космических аппаратов &amp;#151; &amp;laquo;Вояджер-1&amp;raquo; и &amp;laquo;Вояджер-2&amp;raquo;. Уже 40 лет &amp;laquo;Вояджеры&amp;raquo; продолжают лететь и передавать на родную планету данные своих научных наблюдений. &amp;laquo;Вояджер: дальше планет&amp;raquo; &amp;#151; это двухчасовое путешествие по маршруту &amp;laquo;Вояджеров&amp;raquo; &amp;#151; к Юпитеру, Сатурну, Урану, Нептуну и дальше, к границам Солнечной системы. Оба аппарата несут на себе золотые диски с посланием инопланетянам &amp;#151; на случай, если &amp;laquo;Вояджерам&amp;raquo; вдруг придется столкнуться с ними на своем пути. Рассказ о сделанных миссией открытиях в фильме перемежается историей создания диска-послания &amp;#151; какую именно информацию выбрали земляне 1977 года, чтобы отправить возможным соседям по Вселенной? Меж тем, пока вы читали этот абзац, &amp;laquo;Вояджер-1&amp;raquo; успел пролететь еще 500 километров &amp;#151; в неизведанное.",
-        "slogan": "12 billion miles and counting...",
-        "premiere": "26 февраля 2017",
-        "age": "0",
-        "time": "7260",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1016418.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "328",
-          "rating_imdb": "8.1",
-          "vote_num_imdb": "3969"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1079144",
-      "date": "1573809174",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Нью-Йоркская Академия современного танца",
-        "orig": "Free Dance",
-        "alter": "",
-        "year": "2018",
-        "country": "Румыния,США",
-        "director": "Майкл Дамиан",
-        "genre": "мелодрама",
-        "actors": "Джейн Сеймур,Томас Доэрти,Эйс Бхатти,Juliet Doherty,Кика Маркам,Джошуа Синклер-Эванс,Harry Jarvis,Джулия Намани,Найджел Литго,Йорген Макена",
-        "description": "Молодой хореограф ставит новую постановку, и судьба его знакомит с талантливой танцовщицей и новатором-пианистом для самого ожидаемого бродвейского шоу в Нью-Йорке.",
-        "slogan": "Dream Big. Dance Free",
-        "premiere": "13 сентября 2018",
-        "age": "0",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1079144.jpg",
-        "rating": {
-          "rating_kp": "7.029",
-          "vote_num_kp": "621",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "1408"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1051239",
-      "date": "1573808920",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Война Беннетта",
-        "orig": "Bennett's War",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Алекс Ранаривело",
-        "genre": "спорт",
-        "actors": "Майкл Роарк,Трэйси Д. Эдкинс,Али Афшар,Эллисон Пейдж Нист,Хантер Клоудус,Брандо Итон,Tony Panterra,Майкл Кинг,Тейлор Калупа,Антон Фэйр",
-        "description": "После того, как молодой солдат с армейским мотоциклетным отрядом подорвался на управляемой мине, он получает медицинскую помощь и возвращается домой с переломом спины и ноги. Несмотря ни на что, он продолжает тренироваться, чтобы сделать нереальное возвращение в качестве гонщика на соревнованиях по мотокроссу, заручившись поддержкой своей семьи.",
-        "slogan": "Coming home was only the beginning",
-        "premiere": "30 августа 2019",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1051239.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "46",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "663"
         }
       }
     }

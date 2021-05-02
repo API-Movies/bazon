@@ -2,6 +2,321 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "5931",
+      "date": "1576100612",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Очень страшное кино 2",
+        "orig": "Scary Movie 2",
+        "alter": "",
+        "year": "2001",
+        "country": "США, Канада",
+        "director": "Кинен Айвори Уайанс",
+        "genre": "комедия",
+        "actors": "Анна Фэрис, Марлон Уайанс, Шон Уайанс, Тори Спеллинг, Энди Рихтер, Наташа Лионн, Крис Эллиот, Реджина Холл, Кристофер Мастерсон, Тим Карри",
+        "description": "Профессор Олдман и его ассистент Дуайт решают заняться изучением призраков, используя подростков в качестве приманки. Прибывшие в замок Синди и её друзья встречают там говорящего попугая и смотрителя Хенсона. А поздно ночью ребят будит чей-то смех. Все собираются в гостиной, где призрак просит поиграть с ним.",
+        "slogan": "Ещё бессовестней. Ещё бесстыдней",
+        "premiere": "4 июля 2001",
+        "age": "16",
+        "time": "4980",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5931.jpg",
+        "rating": {
+          "rating_kp": "6.323",
+          "vote_num_kp": "75867",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "151121"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5842",
+      "date": "1576100576",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Из 13 в 30",
+        "orig": "13 Going on 30",
+        "alter": "",
+        "year": "2004",
+        "country": "США",
+        "director": "Гари Виник",
+        "genre": "комедия,фэнтези,мелодрама",
+        "actors": "Дженнифер Гарнер, Марк Руффало, Джуди Грир, Энди Серкис, Кэти Бейкер, Фил Ривз, Сэмюэл Болл, Марсия ДеБонис, Криста Б. Аллен, Шон Маркетт",
+        "description": "Дети так отчаянно хотят быть взрослыми, не догадываясь, что пройдут годы, и они так же страстно захотят обратного. Но так как в нашем мире всё ещё случаются чудеса, некоторым не приходится ждать долго, чтобы убедиться в этом. Сегодня Дженни всего 13 и она очень хочет стать большой. Видимо, её желание попадает по нужному адресу, поскольку наутро она просыпается... 30-летней красавицей!\r\n\r\nСловно кто-то перемотал пленку с 17 годами жизни. Самое время кричать «ура»? Только вот какая штука: для всех эти годы прошли обычным порядком, но во взрослой Дженни оказывается душа девочки-подростка, что постоянно приводит к забавным недоразумениям и ставит в тупик окружающих...",
+        "slogan": "У каждой женщины есть маленькая тайна и она действительно удивительна",
+        "premiere": "14 апреля 2004",
+        "age": "12",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5842.jpg",
+        "rating": {
+          "rating_kp": "6.863",
+          "vote_num_kp": "60810",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "170804"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5633",
+      "date": "1576100558",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Гремлины 2: Новенькая партия",
+        "orig": "Gremlins 2: The New Batch",
+        "alter": "",
+        "year": "1990",
+        "country": "США",
+        "director": "Джо Данте",
+        "genre": "комедия,ужасы,фэнтези",
+        "actors": "Зак Гэллиган, Фиби Кейтс, Джон Гловер, Роберт Проски, Роберт Пикардо, Кристофер Ли, Хэвиленд Моррис, Дик Миллер, Джеки Джозеф, Гедде Ватанабэ",
+        "description": "События происходят в Нью-Йорке. Новая партия вреднющих зеленых жадин вырвалась на свободу.",
+        "slogan": "Cute. Dangerous. Clever. Mischievous.[Crossed Out] They're back!",
+        "premiere": "15 июня 1990",
+        "age": "12",
+        "time": "6360",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5633.jpg",
+        "rating": {
+          "rating_kp": "6.855",
+          "vote_num_kp": "17659",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "94288"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5565",
+      "date": "1576100532",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Хозяин морей: На краю Земли",
+        "orig": "Master and Commander: The Far Side of the World",
+        "alter": "",
+        "year": "2003",
+        "country": "США",
+        "director": "Питер Уир",
+        "genre": "боевик,история,драма,военный,приключения",
+        "actors": "Рассел Кроу, Пол Беттани, Джеймс Д’Арси, Эдвард Вудалл, Крис Ларкин, Макс Пиркис, Джек Рэндалл, Макс Бениц, Ли Инглби, Ричард Пейтс",
+        "description": "Действие фильма разворачивается во время наполеоновских войн. Военный парусник Ее Величества «Сюрприз», бороздящий просторы Атлантики, был неожиданно атакован огромным неизвестным кораблем, появившимся из тумана. Благодаря смелости и находчивости команды «Сюрпризу» удается уйти от смерти. Несмотря на тяжелые повреждения и потери, капитан Джек Обри по прозвищу Счастливчик принимает решение преследовать врага и устремляется в погоню, которая уведет его на край света. На кону репутация Джека, его жизнь и жизнь его команды...",
+        "slogan": "The Courage To Do The Impossible Lies In The Hearts of Men",
+        "premiere": "14 ноября 2003",
+        "age": "12",
+        "time": "8280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5565.jpg",
+        "rating": {
+          "rating_kp": "7.601",
+          "vote_num_kp": "47493",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "205779"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5476",
+      "date": "1576100487",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Космические дальнобойщики",
+        "orig": "Space Truckers",
+        "alter": "",
+        "year": "1996",
+        "country": "Великобритания, США, Ирландия",
+        "director": "Стюарт Гордон",
+        "genre": "комедия,фантастика,триллер,приключения",
+        "actors": "Деннис Хоппер, Стивен Дорфф, Деби Мейзар, Чарльз Дэнс, Тим Лоан, Йен Битти, Олуэн Фуэре, Шэйн Риммер, Роджер Грегг, Деннис Акаяма",
+        "description": "2196 год. Водитель, перевозящий грузы на далекие планеты, хочет остаться независимым от могущественной Корпорации. Поэтому за большие деньги он берется перевезти сомнительный груз. Чтобы сократить путь, он направляется через Галактику, где царит разбой и пиратство...",
+        "slogan": "Единственная надежда Земли",
+        "premiere": "14 января 1997",
+        "age": "16",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5476.jpg",
+        "rating": {
+          "rating_kp": "6.742",
+          "vote_num_kp": "4968",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "6748"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5413",
+      "date": "1576100448",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Эволюция",
+        "orig": "Evolution",
+        "alter": "",
+        "year": "2001",
+        "country": "США",
+        "director": "Айвен Райтман",
+        "genre": "комедия,фантастика",
+        "actors": "Дэвид Духовны, Джулианна Мур, Орландо Джонс, Шонн Уильям Скотт, Тед Левайн, Итан Сапли, Майкл Бауэр, Пэт Килбейн, Тай Бурелл, Дэн Эйкройд",
+        "description": "Каньон Глен, Аризона, наши дни. Готовясь к экзамену в школе пожарных, Уэйн проводит ночь в пустыне и становится свидетелем падения метеорита. На следующий день учитель биологии доктор Айра Кейн и учитель геологии Гарри Блок пробираются в пещеру, к месту падения. Они берут пробу странной голубой жидкости, вытекшей из метеорита. \r\n\r\nПозднее, изучая жидкость под микроскопом, Айра Кейн с удивлением обнаруживает мириады живых одноклеточных организмов, которые начинают с бешеной скоростью развиваться прямо у него на глазах! Дело пахнет Нобелевской премией за научное открытие, но оборачивается настоящим кошмаром для всего человечества. Эволюция продолжает набирать обороты: на Землю возвращаются динозавры, и появляются ранее невиданные формы жизни...",
+        "slogan": "Приятного вам конца света",
+        "premiere": "8 июня 2001",
+        "age": "12",
+        "time": "6060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5413.jpg",
+        "rating": {
+          "rating_kp": "6.966",
+          "vote_num_kp": "53653",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "120528"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5325",
+      "date": "1576100422",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Национальная безопасность",
+        "orig": "National Security",
+        "alter": "",
+        "year": "2003",
+        "country": "США",
+        "director": "Деннис Дуган",
+        "genre": "комедия,боевик,триллер,криминал",
+        "actors": "Мартин Лоуренс, Стив Зан, Колм Фиор, Билл Дьюк, Эрик Робертс, Тимоти Басфилд, Робин Ли, Мэтт МакКой, Бретт Каллен, Клео Кинг",
+        "description": "Стать полицейским - мечта многих мальчишек. Стать офицером - мечта многих курсантов полицейской академии. А быть офицером службы «Национальной безопасности» означает только одно - быть неудачником. Эрл Монтгомери очутился там за систематическое нарушение дисциплины - его сочли недостойным носить звание полицейского. Незадолго до этого он подставил Хэнка Рафферти.\r\n\r\nПо иронии судьбы они становятся напарниками, и отношения между ними скорее напоминают боевые действия. Своими выездами на дежурство они умудряются «достать» весь город. И теперь в городе найдется немало желающих «замочить» эту парочку. Если только бравые блюстители порядка первыми не перебьют друг друга!",
+        "slogan": "Даже неудачникам выпадает шанс спасти мир",
+        "premiere": "15 января 2003",
+        "age": "18",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5325.jpg",
+        "rating": {
+          "rating_kp": "7.032",
+          "vote_num_kp": "20578",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "48442"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5293",
+      "date": "1576100404",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Семейка Аддамс",
+        "orig": "The Addams Family",
+        "alter": "",
+        "year": "1991",
+        "country": "США",
+        "director": "Барри Зонненфельд",
+        "genre": "комедия,фэнтези",
+        "actors": "Анжелика Хьюстон, Рауль Хулиа, Кристофер Ллойд, Дэн Хедайя, Элизабет Уилсон, Джудит Мэлина, Карел Стрёйкен, Дэна Айви, Пол Бенедикт, Кристина Риччи",
+        "description": "Черная комедия о колоритной семейке, обитающей в не менее колоритном доме. Глава семьи, Гомес Аддамс - очень самоуверенный и довольно импульсивный тип, который четверть века тому назад страшно поругался со своим старшим братом Фестером, после чего тот пропал без вести. Все попытки отыскать его были безуспешными. Но вот, однажды на пороге фамильного особняка появляется некто, очень похожий на Фестера. Но состоится ли триумфальное возвращение в семью «блудного брата»?",
+        "slogan": "Creepy. Kooky. Spooky. Ooky",
+        "premiere": "19 ноября 1991",
+        "age": "12",
+        "time": "6120",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5293.jpg",
+        "rating": {
+          "rating_kp": "7.611",
+          "vote_num_kp": "69139",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "138738"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5207",
+      "date": "1576100361",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Власть огня",
+        "orig": "Reign of Fire",
+        "alter": "",
+        "year": "2002",
+        "country": "США, Великобритания, Ирландия",
+        "director": "Роб Боумен",
+        "genre": "боевик,фантастика,триллер,фэнтези,приключения",
+        "actors": "Кристиан Бэйл, Мэттью МакКонахи, Изабелла Скорупко, Джерард Батлер, Скотт Моттер, Дэвид Кеннеди, Александр Сиддиг, Нед Деннехи, Рори Кинэн, Теренс Мэйнард",
+        "description": "2020 год. Планета во власти жестоких огнедышащих драконов, восставших из небытия из-за нелепой оплошности людей. Немногие обитатели сожжённого дотла Лондона, среди которых - бесстрашный воин Куинн, ютятся под землёй, тщетно противостоя всё увеличивающимся ордам голодных и мстительных тварей. И лишь появление охотников на драконов под предводительством отважного Ван Зана вселяет в них надежду. Вскоре они узнают о единственном самце, продолжателе всего драконьего рода, и теперь только от Ван Зана и Куинна зависит, смогут ли они победить чудовище, чтобы спасти человечество от полного вымирания.",
+        "slogan": "Они не хотят делить планету с кем-либо",
+        "premiere": "9 июля 2002",
+        "age": "12",
+        "time": "6060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5207.jpg",
+        "rating": {
+          "rating_kp": "6.767",
+          "vote_num_kp": "30868",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "127482"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "5198",
       "date": "1576100358",
       "camrip": "0",
@@ -29,9 +344,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5198.jpg",
         "rating": {
           "rating_kp": "7.68",
-          "vote_num_kp": "82244",
+          "vote_num_kp": "82257",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "209771"
+          "vote_num_imdb": "209809"
         }
       }
     },
@@ -64,9 +379,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5194.jpg",
         "rating": {
           "rating_kp": "7.15",
-          "vote_num_kp": "49775",
+          "vote_num_kp": "49806",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "142926"
+          "vote_num_imdb": "142961"
         }
       }
     },
@@ -98,8 +413,8 @@
         "time": "5640",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5174.jpg",
         "rating": {
-          "rating_kp": "6.588",
-          "vote_num_kp": "11063",
+          "rating_kp": "6.587",
+          "vote_num_kp": "11065",
           "rating_imdb": "4.9",
           "vote_num_imdb": "30461"
         }
@@ -134,9 +449,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5091.jpg",
         "rating": {
           "rating_kp": "5.933",
-          "vote_num_kp": "33873",
+          "vote_num_kp": "33880",
           "rating_imdb": "5.1",
-          "vote_num_imdb": "101492"
+          "vote_num_imdb": "101510"
         }
       }
     },
@@ -169,9 +484,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5090.jpg",
         "rating": {
           "rating_kp": "7.565",
-          "vote_num_kp": "161045",
+          "vote_num_kp": "161082",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "197926"
+          "vote_num_imdb": "197950"
         }
       }
     },
@@ -204,9 +519,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5084.jpg",
         "rating": {
           "rating_kp": "7.444",
-          "vote_num_kp": "66347",
+          "vote_num_kp": "66356",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "14183"
+          "vote_num_imdb": "14189"
         }
       }
     },
@@ -239,7 +554,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4888.jpg",
         "rating": {
           "rating_kp": "7.124",
-          "vote_num_kp": "37704",
+          "vote_num_kp": "37710",
           "rating_imdb": "5.7",
           "vote_num_imdb": "107352"
         }
@@ -276,7 +591,7 @@
           "rating_kp": "7.644",
           "vote_num_kp": "43250",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "174518"
+          "vote_num_imdb": "174571"
         }
       }
     },
@@ -309,9 +624,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4815.jpg",
         "rating": {
           "rating_kp": "7.785",
-          "vote_num_kp": "177570",
+          "vote_num_kp": "177604",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "290612"
+          "vote_num_imdb": "290647"
         }
       }
     },
@@ -346,7 +661,7 @@
           "rating_kp": "7.79",
           "vote_num_kp": "126311",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "353135"
+          "vote_num_imdb": "353178"
         }
       }
     },
@@ -379,7 +694,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4582.jpg",
         "rating": {
           "rating_kp": "6.278",
-          "vote_num_kp": "12184",
+          "vote_num_kp": "12185",
           "rating_imdb": "5.7",
           "vote_num_imdb": "60654"
         }
@@ -449,7 +764,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1121584.jpg",
         "rating": {
           "rating_kp": "4.527",
-          "vote_num_kp": "2216",
+          "vote_num_kp": "2218",
           "rating_imdb": "4.7",
           "vote_num_imdb": "1821"
         }
@@ -519,9 +834,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4540.jpg",
         "rating": {
           "rating_kp": "7.819",
-          "vote_num_kp": "38778",
+          "vote_num_kp": "38783",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "132179"
+          "vote_num_imdb": "132197"
         }
       }
     },
@@ -554,9 +869,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4537.jpg",
         "rating": {
           "rating_kp": "6.689",
-          "vote_num_kp": "48932",
+          "vote_num_kp": "48960",
           "rating_imdb": "5.2",
-          "vote_num_imdb": "81579"
+          "vote_num_imdb": "81584"
         }
       }
     },
@@ -589,9 +904,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4500.jpg",
         "rating": {
           "rating_kp": "7.933",
-          "vote_num_kp": "81663",
+          "vote_num_kp": "81675",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "366094"
+          "vote_num_imdb": "366163"
         }
       }
     },
@@ -624,9 +939,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4304.jpg",
         "rating": {
           "rating_kp": "7.205",
-          "vote_num_kp": "119701",
+          "vote_num_kp": "119759",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "184272"
+          "vote_num_imdb": "184291"
         }
       }
     },
@@ -659,9 +974,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4300.jpg",
         "rating": {
           "rating_kp": "7.031",
-          "vote_num_kp": "56078",
+          "vote_num_kp": "56111",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "196319"
+          "vote_num_imdb": "196343"
         }
       }
     },
@@ -694,9 +1009,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4132.jpg",
         "rating": {
           "rating_kp": "7.384",
-          "vote_num_kp": "30852",
+          "vote_num_kp": "30857",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "108010"
+          "vote_num_imdb": "108067"
         }
       }
     },
@@ -729,9 +1044,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4120.jpg",
         "rating": {
           "rating_kp": "7.215",
-          "vote_num_kp": "37027",
+          "vote_num_kp": "37035",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "73488"
+          "vote_num_imdb": "73500"
         }
       }
     },
@@ -764,7 +1079,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3959.jpg",
         "rating": {
           "rating_kp": "6.083",
-          "vote_num_kp": "27272",
+          "vote_num_kp": "27281",
           "rating_imdb": "4.8",
           "vote_num_imdb": "97894"
         }
@@ -799,7 +1114,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3912.jpg",
         "rating": {
           "rating_kp": "7.285",
-          "vote_num_kp": "19168",
+          "vote_num_kp": "19171",
           "rating_imdb": "6.2",
           "vote_num_imdb": "46783"
         }
@@ -834,7 +1149,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3885.jpg",
         "rating": {
           "rating_kp": "7.001",
-          "vote_num_kp": "21039",
+          "vote_num_kp": "21043",
           "rating_imdb": "5.9",
           "vote_num_imdb": "33973"
         }
@@ -869,7 +1184,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3843.jpg",
         "rating": {
           "rating_kp": "6.956",
-          "vote_num_kp": "22001",
+          "vote_num_kp": "22009",
           "rating_imdb": "5.9",
           "vote_num_imdb": "94971"
         }
@@ -904,9 +1219,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3842.jpg",
         "rating": {
           "rating_kp": "6.881",
-          "vote_num_kp": "48061",
+          "vote_num_kp": "48074",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "81837"
+          "vote_num_imdb": "81848"
         }
       }
     },
@@ -939,9 +1254,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3800.jpg",
         "rating": {
           "rating_kp": "6.851",
-          "vote_num_kp": "35176",
+          "vote_num_kp": "35185",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "67485"
+          "vote_num_imdb": "67499"
         }
       }
     },
@@ -974,9 +1289,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3775.jpg",
         "rating": {
           "rating_kp": "7.873",
-          "vote_num_kp": "41516",
+          "vote_num_kp": "41526",
           "rating_imdb": "7",
-          "vote_num_imdb": "68752"
+          "vote_num_imdb": "68773"
         }
       }
     },
@@ -1009,9 +1324,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3730.jpg",
         "rating": {
           "rating_kp": "7.796",
-          "vote_num_kp": "92437",
+          "vote_num_kp": "92555",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "424158"
+          "vote_num_imdb": "424235"
         }
       }
     },
@@ -1044,9 +1359,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3707.jpg",
         "rating": {
           "rating_kp": "7.808",
-          "vote_num_kp": "70009",
+          "vote_num_kp": "70092",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "219274"
+          "vote_num_imdb": "219349"
         }
       }
     },
@@ -1079,7 +1394,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3690.jpg",
         "rating": {
           "rating_kp": "7.319",
-          "vote_num_kp": "37522",
+          "vote_num_kp": "37529",
           "rating_imdb": "7",
           "vote_num_imdb": "201110"
         }
@@ -1149,7 +1464,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3664.jpg",
         "rating": {
           "rating_kp": "6.982",
-          "vote_num_kp": "14112",
+          "vote_num_kp": "14118",
           "rating_imdb": "5.8",
           "vote_num_imdb": "41739"
         }
@@ -1184,7 +1499,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3551.jpg",
         "rating": {
           "rating_kp": "6.776",
-          "vote_num_kp": "12670",
+          "vote_num_kp": "12671",
           "rating_imdb": "6.1",
           "vote_num_imdb": "33958"
         }
@@ -1219,9 +1534,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3526.jpg",
         "rating": {
           "rating_kp": "7.055",
-          "vote_num_kp": "76877",
+          "vote_num_kp": "76896",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "107365"
+          "vote_num_imdb": "107378"
         }
       }
     },
@@ -1254,9 +1569,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3513.jpg",
         "rating": {
           "rating_kp": "7.406",
-          "vote_num_kp": "50871",
+          "vote_num_kp": "50881",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "138538"
+          "vote_num_imdb": "138562"
         }
       }
     },
@@ -1289,7 +1604,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3222.jpg",
         "rating": {
           "rating_kp": "7.547",
-          "vote_num_kp": "22338",
+          "vote_num_kp": "22340",
           "rating_imdb": "6.6",
           "vote_num_imdb": "85150"
         }
@@ -1324,7 +1639,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2930.jpg",
         "rating": {
           "rating_kp": "6.899",
-          "vote_num_kp": "42534",
+          "vote_num_kp": "42564",
           "rating_imdb": "5.4",
           "vote_num_imdb": "80035"
         }
@@ -1359,9 +1674,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2909.jpg",
         "rating": {
           "rating_kp": "7.609",
-          "vote_num_kp": "36692",
+          "vote_num_kp": "36700",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "164251"
+          "vote_num_imdb": "164271"
         }
       }
     },
@@ -1394,9 +1709,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2755.jpg",
         "rating": {
           "rating_kp": "7.118",
-          "vote_num_kp": "20570",
+          "vote_num_kp": "20573",
           "rating_imdb": "5.2",
-          "vote_num_imdb": "25577"
+          "vote_num_imdb": "25590"
         }
       }
     },
@@ -1429,324 +1744,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2717.jpg",
         "rating": {
           "rating_kp": "7.617",
-          "vote_num_kp": "208179",
+          "vote_num_kp": "208241",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "1015246"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2441",
-      "date": "1576085049",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Основной инстинкт",
-        "orig": "Basic Instinct",
-        "alter": "",
-        "year": "1992",
-        "country": "Франция, США, Великобритания",
-        "director": "Пол Верховен",
-        "genre": "триллер,детектив,драма",
-        "actors": "Майкл Дуглас, Шэрон Стоун, Джордж Дзундза, Джинн Трипплхорн, Дэнис Арндт, Лейлани Сарелл, Брюс А. Янг, Челси Росс, Дороти Мэлоун, Уэйн Найт",
-        "description": "Детектив Ник Каррен ведет расследование по делу об извращенном убийстве на сексуальной почве. Подозрение падает на подругу убитого Кэтрин - писательницу, автора шокирующих романов, которая в своей последней книге подробно описала абсолютно аналогичное преступление.\r\n\r\nНо обворожительная, неимоверно сексуальная писательница, обладает удивительной способностью манипулировать мужчинами, пробудив в них один из самых основных инстинктов.",
-        "slogan": "Flesh seduces. Passion kills",
-        "premiere": "20 марта 1992",
-        "age": "18",
-        "time": "7620",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2441.jpg",
-        "rating": {
-          "rating_kp": "7.734",
-          "vote_num_kp": "75709",
-          "rating_imdb": "7",
-          "vote_num_imdb": "182086"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2408",
-      "date": "1576085032",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Взрыв из прошлого",
-        "orig": "Blast from the Past",
-        "alter": "",
-        "year": "1998",
-        "country": "США",
-        "director": "Хью Уилсон",
-        "genre": "комедия,фантастика,мелодрама,драма",
-        "actors": "Брендан Фрейзер, Алисия Сильверстоун, Кристофер Уокен, Сисси Спейсек, Дэйв Фоли, Джои Злотник, Дэйл Рауль, Хейден Тэнк, Дуглас Смит, Райан Спаркс",
-        "description": "Адам Уэббер родился нормальным ребенком, но, по глупому недоразумению, провел 35 лет в бомбоубежище вместе со своими родителями. Наивный и искренний, он впервые оказывается среди людей в бушующем Лос-Анджелесе 90-х! И кто знает - может, он еще успеет наверстать упущенное?!",
-        "slogan": "Повзрослеть за 5 дней",
-        "premiere": "27 января 1999",
-        "age": "12",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2408.jpg",
-        "rating": {
-          "rating_kp": "7.593",
-          "vote_num_kp": "47118",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "60241"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2333",
-      "date": "1576085007",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Скала",
-        "orig": "The Rock",
-        "alter": "",
-        "year": "1996",
-        "country": "США",
-        "director": "Майкл Бэй",
-        "genre": "боевик,триллер,приключения",
-        "actors": "Шон Коннери, Николас Кейдж, Эд Харрис, Джон Спенсер, Дэвид Морс, Уильям Форсайт, Майкл Бин, Ванесса Марсил, Джон К. МакГинли, Грегори Спорледер",
-        "description": "Генерал элитных диверсионных спецсил США Френсис Хаммел похищает со своими лучшими подчинёнными ракеты со смертоносным газом. А затем захватывает в заложники туристов в бывшей тюрьме «Алькатрас». Френсис требует от директора ФБР перечислить на его счёт 100 миллионов долларов, иначе он нанесёт ракетный удар по Сан-Франциско.",
-        "slogan": "Cocked, locked, and Ready to Rock!",
-        "premiere": "7 июня 1996",
-        "age": "16",
-        "time": "8160",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2333.jpg",
-        "rating": {
-          "rating_kp": "7.938",
-          "vote_num_kp": "115454",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "316499"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2238",
-      "date": "1576084963",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Коммандос",
-        "orig": "Commando",
-        "alter": "",
-        "year": "1985",
-        "country": "США",
-        "director": "Марк Л. Лестер",
-        "genre": "боевик,триллер,приключения",
-        "actors": "Арнольд Шварценеггер, Рей Дон Чонг, Дэн Хедайя, Вернон Уэллс, Джеймс Олсон, Дэвид Патрик Келли, Алисса Милано, Билл Дьюк, Дрю Снайдер, Шэрон Уайатт",
-        "description": "Бывший командир спецотряда, полковник в отставке Джон Матрикс, живёт в большом доме вдали от города вместе со своей 11-летней дочерью Дженни, пока однажды её не похищает бывший подчинённый Джона...",
-        "slogan": "Somewhere... somehow... someone's going to pay!",
-        "premiere": "4 октября 1985",
-        "age": "16",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2238.jpg",
-        "rating": {
-          "rating_kp": "7.385",
-          "vote_num_kp": "53579",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "148546"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1996",
-      "date": "1576084906",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Грязные танцы",
-        "orig": "Dirty Dancing",
-        "alter": "",
-        "year": "1987",
-        "country": "США",
-        "director": "Эмиль Ардолино",
-        "genre": "мелодрама,драма",
-        "actors": "Дженнифер Грей, Патрик Суэйзи, Джерри Орбак, Синтия Роудс, Джек Уэстон, Джейн Брукер, Келли Бишоп, Лонни Прайс, Макс Кэнтор, Чарльз ’Хони’ Коулз",
-        "description": "Лето 1963 года. 17-летняя Фрэнсис по прозвищу Бэби, невинная избалованная девушка из обеспеченной семьи, проводит каникулы с родителями в курортном отеле. Она знакомится с Джонни, красивым профессиональным танцором, искушенным в вопросах жизни и любви.\r\n\r\nСловно околдованная сексуальными ритмами и ничем не сдерживаемыми движениями «грязных танцев» в стиле ритм-энд-блюз, Бэби становится ученицей-партнершей Джонни - и в танцах, и в любви.",
-        "slogan": "Танцуй в ритме сердца",
-        "premiere": "12 мая 1987",
-        "age": "12",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1996.jpg",
-        "rating": {
-          "rating_kp": "8.042",
-          "vote_num_kp": "104750",
-          "rating_imdb": "7",
-          "vote_num_imdb": "207663"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1991",
-      "date": "1576084900",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Привидение",
-        "orig": "Ghost",
-        "alter": "",
-        "year": "1990",
-        "country": "США",
-        "director": "Джерри Цукер",
-        "genre": "триллер,фэнтези,мелодрама,драма",
-        "actors": "Патрик Суэйзи, Деми Мур, Вупи Голдберг, Тони Голдуин, Рик Авилес, Стэнли Лоуренс, Кристофер Дж. Кин, Сьюзен Бреслау, Мартина Дэйнан, Рик Клебер",
-        "description": "Влюблённая парочка, Сэм и Молли, возвращается домой после приятного вечера, когда на них нападает грабитель. Защищаясь, Сэм погибает и становится призраком. Он узнаёт, что его смерть не была случайной, а над его возлюбленной нависла смертельная опасность. Чтобы предупредить Молли, Сэм начинает обход практикующих медиумов и, о чудо! - находит женщину, которая действительно может его слышать. Только вот сама она не горит желанием помогать назойливому привидению.",
-        "slogan": "You will believe",
-        "premiere": "13 июля 1990",
-        "age": "12",
-        "time": "7620",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1991.jpg",
-        "rating": {
-          "rating_kp": "8.161",
-          "vote_num_kp": "219138",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "200321"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1990",
-      "date": "1576084898",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "На гребне волны",
-        "orig": "Point Break",
-        "alter": "",
-        "year": "1991",
-        "country": "Япония, США",
-        "director": "Кэтрин Бигелоу",
-        "genre": "боевик,триллер,криминал",
-        "actors": "Патрик Суэйзи, Киану Ривз, Гэри Бьюзи, Лори Петти, Джон К. МакГинли, Джеймс ЛеГрос, Джон Филбин, Боджесси Кристофер, Джулиан Рейес, Дэниэл Бир",
-        "description": "Таинственная банда серфингистов среди белого дня совершает ограбления банков. Полиция и ФБР поражены профессиональностью и скоростью проведения преступлений.\r\n\r\nСледствие ведет молодой и претенциозный агент ФБР, который, рискуя жизнью, внедряется в банду и раскрывает это дело, но неожиданно для самого себя он осознает, что вернуться к нормальной жизни он уже не сможет.",
-        "slogan": "27 банков за 3 года - и всё отдать за идеальную волну!",
-        "premiere": "10 июля 1991",
-        "age": "16",
-        "time": "7020",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1990.jpg",
-        "rating": {
-          "rating_kp": "7.818",
-          "vote_num_kp": "87334",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "162492"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1952",
-      "date": "1576084874",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Великолепная афера",
-        "orig": "Matchstick Men",
-        "alter": "",
-        "year": "2003",
-        "country": "США, Великобритания",
-        "director": "Ридли Скотт",
-        "genre": "комедия,триллер,драма,криминал",
-        "actors": "Николас Кейдж, Сэм Рокуэлл, Элисон Ломан, Брюс Олтмен, Брюс МакГилл, Дженни О’Хара, Стив Истин, Бет Грант, Шейла Келли, Фрэн Кранц",
-        "description": "Опытный мошенник Рой и его протеже Фрэнк занимаются мелким надувательством в сфере торговли. Но однажды Рой узнает о существовании дочери Анжелы. Узнав, чем зарабатывает отец, девушка настаивает, чтобы мошенники и ее обучили своим приемам торговли. На удивление Анжела показывает поразительный талант к мошенничеству.",
-        "slogan": "Солги. Обмани. Укради. Отдохни. Повтори",
-        "premiere": "2 сентября 2003",
-        "age": "16",
-        "time": "6960",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1952.jpg",
-        "rating": {
-          "rating_kp": "7.39",
-          "vote_num_kp": "38522",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "124573"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1934",
-      "date": "1576084863",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "С меня хватит",
-        "orig": "Enough",
-        "alter": "",
-        "year": "2002",
-        "country": "США",
-        "director": "Майкл Аптед",
-        "genre": "триллер,драма,криминал",
-        "actors": "Дженнифер Лопез, Билл Кэмпбелл, Тесса Аллен, Джульетт Льюис, Дэн Футтерман, Ноа Уайли, Фред Уорд, Кристофер Мехер, Джанет Кэрролл, Билл Коббс",
-        "description": "Жизнь официантки Слим коренным образом меняется, когда она встречает богатого незнакомца Митча. Они влюбляются, женятся, покупают красивый домик и у них рождается дочка. Но восхитительной счастливой новой жизни Слим вскоре приходит конец.\r\n\r\nЕё муж - далеко не совершенство, и Слим узнаёт о его изменах. Оскорблённая поведением мужа, Слим пытается убежать от него, а ожесточившийся Митч теперь представляет смертельную угрозу ей и её пятилетней дочери. Скрываясь от мужа, Слим решает принять серьёзные меры. Она прячет дочь, а сама меняется морально и физически, намереваясь показать Митчу, что с неё довольно...",
-        "slogan": "Лучшая защита - это нападение",
-        "premiere": "21 мая 2002",
-        "age": "16",
-        "time": "6900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1934.jpg",
-        "rating": {
-          "rating_kp": "7.086",
-          "vote_num_kp": "33314",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "40532"
+          "vote_num_imdb": "1015411"
         }
       }
     }

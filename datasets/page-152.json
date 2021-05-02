@@ -2,6 +2,456 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1327193",
+      "date": "1605483923",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Рождественский театр",
+        "orig": "Community Theater Christmas",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Melissa Vitello",
+        "genre": "комедия",
+        "actors": "Вероника Вайли,Isabeall Quella,Стэйси Снайдер,Sid Noelle,Adam Weber,Марисса Пистон,Эдриэнн Роуз Уайт,Гейб Арредондо,Эшли Джанни,Beau Brians",
+        "description": "Общественный театр конкурирует за государственный грант, который необходим, чтобы держать двери театра открытыми. На этот раз они решили поставить пьесу, написанную одним из членов группы.",
+        "slogan": "",
+        "premiere": "11 декабря 2019",
+        "age": "0",
+        "time": "6180",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWI2OGVmOTItY2FhMi00ZDkyLThmZWEtMmViMzViN2I2YzMxXkEyXkFqcGdeQXVyMjI0NDI2NjQ@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "3",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1380630",
+      "date": "1605483026",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Барби и Кендра штурмуют зону 51",
+        "orig": "Barbie & Kendra Save the Tiger King",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Чарльз Бэнд",
+        "genre": "комедия",
+        "actors": "Патрик Бристоу,Уильям Батлер,Коуди Рени Камерон,Расселл Кокер,Дрю Дродж,Майли Флэнеген,Надя Гинсбург,Лесли Джордан,Майкл Каллио,John Reinke",
+        "description": "Чудом избежав заразной угрозы со стороны короназомби, американские красотки Барби и Кендра борются со своим главным врагом - карантинной скукой. Подсев на передачу о Короле Тигров, девушки решают прийти ему на помощь. Зажигательный дуэт отправляется в крышесносное приключение, чтобы спасти Джо от судьбы страшнее, чем Кэрол Баскин.",
+        "slogan": "",
+        "premiere": "15 мая 2020",
+        "age": "0",
+        "time": "4380",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2RiMDdmNGMtNmNmZS00MmI0LThkMmUtMDI2ZDM1NDc5NzNjXkEyXkFqcGdeQXVyNTY4MzQzMTM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "9",
+          "rating_imdb": "3",
+          "vote_num_imdb": "99"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1285558",
+      "date": "1605477610",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "40-летняя версия",
+        "orig": "The Forty-Year-Old Version",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Рада Бланк",
+        "genre": "драма,комедия",
+        "actors": "Рада Бланк,Oswin Benjamin,Питер Й. Ким,Имани Льюис,Хаскири Веласкес,Рид Бирни,Уэлкер Уайт,Т.Дж. Атомс,Антонио Ортиз,Джейкоб Минг-Трент",
+        "description": "Накануне сорокалетия переживающая трудности Рада, драматург из Нью-Йорка, решает переосмыслить свое призвание и... стать рэпером.",
+        "slogan": "Find your own voice",
+        "premiere": "25 января 2020",
+        "age": "0",
+        "time": "7380",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1285558.jpg",
+        "rating": {
+          "rating_kp": "7.041",
+          "vote_num_kp": "150",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "4007"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1127089",
+      "date": "1605477606",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Непокорный",
+        "orig": "Adanga Maru",
+        "alter": "",
+        "year": "2018",
+        "country": "Индия",
+        "director": "Картик Тхангавел",
+        "genre": "боевик,триллер",
+        "actors": "Джаям Рави,Раши Кханна,Понваннан,Бабу Энтони,Сампат Радж,Munishkanth,Суббу Панчу,Миме Гопи,Azhagam Perumal,Мира Васудеван",
+        "description": "Субаш (Джаям Рави) новый Субинспектор полиции в Ченнаи был отстранён от службы за то, что арестовал сыновей очень влиятельных людей, начинает мстить им, после смерти своих близких.",
+        "slogan": "",
+        "premiere": "20 декабря 2018",
+        "age": "0",
+        "time": "8700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1127089.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "14",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "1943"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1163397",
+      "date": "1605460509",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Любовь по-кубински",
+        "orig": "Verliefd op Cuba",
+        "alter": "",
+        "year": "2019",
+        "country": "Нидерланды",
+        "director": "Йохан Нийенхейс",
+        "genre": "драма,мелодрама,комедия",
+        "actors": "Сусан Виссер,Эбби Хус,Rolf Sanchez,Ян Коейман,Майке Мартенс,Тьеббо Герритсма,Niek Roozen,Сабина Соэтанто,Camila Arteche,Аврора Баснуэво",
+        "description": "Мать узнает, что дочь не только встречается с кубинцем, но еще и выходит замуж на Кубе. Решив положить конец обреченному браку, она садится на первый же самолет.",
+        "slogan": "",
+        "premiere": "14 февраля 2019",
+        "age": "0",
+        "time": "6300",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODc1N2NhMzUtNzJlZC00MWEwLThiMzEtYzAyMGQwZDBiYWU3XkEyXkFqcGdeQXVyNDc4NDk4NTQ@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "4",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "546"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "445102",
+      "date": "1605460509",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Веселые гастроли на Черном море",
+        "orig": "Веселые гастроли на Черном море",
+        "alter": "",
+        "year": "2019",
+        "country": "Россия",
+        "director": "Виктор Дюнин",
+        "genre": "комедия",
+        "actors": "Лариса Черникова,Аркадий Укупник,Александр Панкратов-Черный,Наталья Крачковская,Михаил Мамаев,Ксения Соломяная,Александр Пятков",
+        "description": "На Черное море в Ялту приезжает на гастроли знаменитая эстрадная певица Лариса. Сойдя с трапа самолета, она дает интервью, в котором признается, что ищет своего суженого. С этого момента и закручиваются веселые приключения, основой которых являются коварство, любовь и, конечно, музыка.",
+        "slogan": "",
+        "premiere": "6 августа 2020",
+        "age": "12",
+        "time": "4560",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_445102.jpg",
+        "rating": {
+          "rating_kp": "4.012",
+          "vote_num_kp": "654",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "33807",
+      "date": "1605445919",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Затухающий огонек",
+        "orig": "Le feu follet",
+        "alter": "",
+        "year": "1963",
+        "country": "Франция",
+        "director": "Луи Маль",
+        "genre": "драма",
+        "actors": "Морис Роне,Лена Скерла,Ивонн Клеш,Юбер Дешам,Жанна Моро,Жан-Поль Мулино,Мона Доль,Пьер Монкорбье,Рене Дюпуа,Бернар Тифэн",
+        "description": "Алену Леруа за тридцать, когда-то он воевал в Алжире, несколько лет был душой парижской богемы, развеселая жизнь, лишь изредка омрачавшаяся приступами меланхолии, привела к алкоголизму. И даже женитьба на богатой красавице-американке ничего не изменила. Пришлось пройти курс лечения в версальской клинике для состоятельных граждан, откуда он, абсолютно здоровый – по мнению врачей, боится выйти. И все-таки выходит, чтобы отправиться по старым адресам…",
+        "slogan": "Cinema Prestige",
+        "premiere": "2 сентября 1963",
+        "age": "16",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_33807.jpg",
+        "rating": {
+          "rating_kp": "8.063",
+          "vote_num_kp": "3164",
+          "rating_imdb": "8",
+          "vote_num_imdb": "8577"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "80754",
+      "date": "1605445885",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Хиросима, моя любовь",
+        "orig": "Hiroshima mon amour",
+        "alter": "",
+        "year": "1959",
+        "country": "Франция, Япония",
+        "director": "Ален Рене",
+        "genre": "мелодрама,драма",
+        "actors": "Эмманюэль Рива, Эйдзи Окада, Стелла Дассас, Пьер Барбо, Бернар Фрессон, Мойра Листер",
+        "description": "Сложный мир ощущений, основанный на сюжетной линии короткой любви французской киноактрисы и японского архитектора в послевоенной Хиросиме. На каждого из них давит груз прошлого, с которым приходится жить каждый час.",
+        "slogan": "...from the measureless depths of a woman's emotions...",
+        "premiere": "8 мая 1959",
+        "age": "16",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_80754.jpg",
+        "rating": {
+          "rating_kp": "8.028",
+          "vote_num_kp": "8524",
+          "rating_imdb": "7.9",
+          "vote_num_imdb": "29010"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "26501",
+      "date": "1605445849",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Мужское-женское",
+        "orig": "Masculin féminin",
+        "alter": "",
+        "year": "1966",
+        "country": "Франция, Швеция",
+        "director": "Жан-Люк Годар",
+        "genre": "мелодрама,драма",
+        "actors": "Жан-Пьер Лео, Шанталь Гойя, Марлен Жобер, Мишель Дебор, Катрин-Изабель Дюпор, Ева-Бритт Страндберг, Биргер Мальмстен, Ив Афонсо, Анри Атталь, Брижит Бардо",
+        "description": "Поль встречает в кафе Мадлен, между ними завязывается разговор - странный и внешне отвлеченный, как всегда бывает у Годара. Поль пишет стихи, увлекается левыми идеями, он интеллектуал и герой своего времени, поэтому остается в меньшинстве. Он только что отслужил в армии и воспринимает гражданку немного свысока. Это «женская», то есть уютная конформистская жизнь, где занимаются шопингом, строят карьеру поп-певицы и хотят походить на персонажей рекламы.\r\n\r\nДля Поля, а вместе с ним и Годара «мужская» жизнь - это протест, революция, раздражение несогласного одиночки против общественного согласия. В одном из своих самых социально заостренных фильмов Годар диагностирует растерянность, с которой поколение студенческой революции двигалось к своему взрослению. И неслучайно для многих его лучших представителей ответом на проклятые вопросы стала ранняя смерть...",
+        "slogan": "Jean-Luc Godard's Swinging Look at Youth and Love in Paris Today!",
+        "premiere": "22 марта 1966",
+        "age": "16",
+        "time": "6600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_26501.jpg",
+        "rating": {
+          "rating_kp": "7.858",
+          "vote_num_kp": "9559",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "13047"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "44929",
+      "date": "1605442110",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Королевство кривых зеркал",
+        "orig": "Королевство кривых зеркал",
+        "alter": "",
+        "year": "1963",
+        "country": "СССР",
+        "director": "Александр Роу",
+        "genre": "фэнтези,семейный",
+        "actors": "Ольга Юкина, Татьяна Юкина, Татьяна Барышева, Анатолий Кубацкий, Андрей Файт, Лидия Вертинская, Аркадий Цинман, Андрей Стапран, Иван Кузнецов, Георгий Милляр",
+        "description": "Однажды школьница Оля взглянула в самое обычное зеркало, которое висело дома в прихожей, и неожиданно отправилась путешествовать в волшебную зазеркальную страну вместе со своим отражением - озорной девочкой Яло. Вдвоем им удается вызволить из тюрьмы мальчика Гурда и разрушить злые чары кривых зеркал...",
+        "slogan": "",
+        "premiere": "28 августа 1963",
+        "age": "12",
+        "time": "4500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44929.jpg",
+        "rating": {
+          "rating_kp": "7.888",
+          "vote_num_kp": "57342",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "1208"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1108600",
+      "date": "1605438001",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Экстремальная работа",
+        "orig": "Geukhanjikeop",
+        "alter": "",
+        "year": "2019",
+        "country": "Корея Южная",
+        "director": "Ли Бён-хон",
+        "genre": "комедия,криминал",
+        "actors": "Рю Сын-нён, Ли Хани, Чин Сон-гю, Ли Дон-хви, Кон Мён, Хо Джун-сок, Сон Ён-гю, Щин Ха-гюн, Ким И-сон, О Джон-сэ",
+        "description": "У детективов из отдела по борьбе с наркотиками никак не получается ловить подозреваемых, зато прекрасно выходит устраивать автоаварии и получать нагоняи от начальства. Коллега из другой группы хоть и младше их капитана, а уже получил повышение. Однажды тот даёт этим неудачникам наводку, и вот уже наши герои целую неделю ведут наблюдение за бандой наркоторговцев, сидя в пустом кафе напротив. Когда выясняется, что преступники часто заказывают здесь доставку еды, копы выкупают помещение и начинают там работать под прикрытием. Внезапно их жареная курица становится невероятно популярной, заведение раскручивается, назревает конфликт между долгом и неожиданно найденным призванием.",
+        "slogan": "A ground-breaking investigation you've never tasted before",
+        "premiere": "23 января 2019",
+        "age": "0",
+        "time": "6660",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1108600.jpg",
+        "rating": {
+          "rating_kp": "6.843",
+          "vote_num_kp": "8467",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "7106"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "566553",
+      "date": "1605437679",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "SATRip",
+      "translation": "Оригинал",
+      "max_qual": "480",
+      "last_season": "1",
+      "last_episode": "24",
+      "episodes": {
+        "1": {
+          "1": 480,
+          "2": 480,
+          "3": 480,
+          "4": 480,
+          "5": 480,
+          "6": 480,
+          "7": 480,
+          "8": 480,
+          "9": 480,
+          "10": 480,
+          "11": 480,
+          "12": 480,
+          "13": 480,
+          "14": 480,
+          "15": 480,
+          "16": 480,
+          "17": 480,
+          "18": 480,
+          "19": 480,
+          "20": 480,
+          "21": 480,
+          "22": 480,
+          "23": 480,
+          "24": 480
+        }
+      },
+      "info": {
+        "rus": "Амазонки",
+        "orig": "Амазонки",
+        "alter": "",
+        "year": "2011",
+        "country": "Россия",
+        "director": "Евгений Лаврентьев, Святослав Власов, Валентина Власова",
+        "genre": "детектив",
+        "actors": "Наталья Рудова, Марина Коняшкина, София Игнатова, Марина Вайнбранд, Борис Хвошнянский, Валерий Афанасьев, Роман Радов, Александр Нестеров, Юрий Оленников, Ирина Шебеко",
+        "description": "Их четверо - Анна, Варвара, Лидия и Евгения. Они - это специальное экспериментальное подразделение (СЭП) «Амазонки», созданное в рамках научно-исследовательского центра следственного управления МВД РФ. «Амазонки» занимаются расследованием преступлений, применяя свою оригинальную «женскую» тактику.",
+        "slogan": "Флагман-Трейд",
+        "premiere": "27 июня 2011",
+        "age": "16",
+        "time": "2700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_566553.jpg",
+        "rating": {
+          "rating_kp": "5.715",
+          "vote_num_kp": "2048",
+          "rating_imdb": "5",
+          "vote_num_imdb": "16"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "686841",
       "date": "1605437667",
       "camrip": "0",
@@ -149,7 +599,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_686841.jpg",
         "rating": {
           "rating_kp": "7.367",
-          "vote_num_kp": "5744",
+          "vote_num_kp": "5750",
           "rating_imdb": "7.1",
           "vote_num_imdb": "32"
         }
@@ -327,7 +777,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_839370.jpg",
         "rating": {
           "rating_kp": "7.295",
-          "vote_num_kp": "1057",
+          "vote_num_kp": "1058",
           "rating_imdb": "7.8",
           "vote_num_imdb": "7824"
         }
@@ -378,7 +828,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_865225.jpg",
         "rating": {
           "rating_kp": "5.702",
-          "vote_num_kp": "763",
+          "vote_num_kp": "764",
           "rating_imdb": "6.2",
           "vote_num_imdb": "8960"
         }
@@ -522,10 +972,10 @@
         "time": "2700",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_417846.jpg",
         "rating": {
-          "rating_kp": "8.156",
-          "vote_num_kp": "37007",
+          "rating_kp": "8.155",
+          "vote_num_kp": "37021",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "264743"
+          "vote_num_imdb": "264786"
         }
       }
     },
@@ -570,9 +1020,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1398911.jpg",
         "rating": {
           "rating_kp": "6.238",
-          "vote_num_kp": "555",
+          "vote_num_kp": "556",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "68294"
+          "vote_num_imdb": "68329"
         }
       }
     },
@@ -709,10 +1159,10 @@
         "time": "6840",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_609581.jpg",
         "rating": {
-          "rating_kp": "5.279",
-          "vote_num_kp": "18262",
+          "rating_kp": "5.286",
+          "vote_num_kp": "18383",
           "rating_imdb": "4.9",
-          "vote_num_imdb": "5864"
+          "vote_num_imdb": "5868"
         }
       }
     },
@@ -745,9 +1195,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_726753.jpg",
         "rating": {
           "rating_kp": "5.419",
-          "vote_num_kp": "66194",
+          "vote_num_kp": "66208",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "85592"
+          "vote_num_imdb": "85615"
         }
       }
     },
@@ -780,9 +1230,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_581493.jpg",
         "rating": {
           "rating_kp": "5.285",
-          "vote_num_kp": "78775",
+          "vote_num_kp": "78786",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "134240"
+          "vote_num_imdb": "134253"
         }
       }
     },
@@ -852,7 +1302,7 @@
           "rating_kp": "7.878",
           "vote_num_kp": "18116",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "74512"
+          "vote_num_imdb": "74528"
         }
       }
     },
@@ -885,9 +1335,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_991652.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "161",
+          "vote_num_kp": "162",
           "rating_imdb": "3.8",
-          "vote_num_imdb": "436"
+          "vote_num_imdb": "438"
         }
       }
     },
@@ -989,8 +1439,8 @@
         "time": "3180",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_765318.jpg",
         "rating": {
-          "rating_kp": "7.174",
-          "vote_num_kp": "401",
+          "rating_kp": "7.173",
+          "vote_num_kp": "402",
           "rating_imdb": "8.2",
           "vote_num_imdb": "64"
         }
@@ -1094,8 +1544,8 @@
         "time": "5400",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1926.jpg",
         "rating": {
-          "rating_kp": "4.263",
-          "vote_num_kp": "2569",
+          "rating_kp": "4.264",
+          "vote_num_kp": "2571",
           "rating_imdb": "3.7",
           "vote_num_imdb": "43744"
         }
@@ -1130,7 +1580,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_28149.jpg",
         "rating": {
           "rating_kp": "5.227",
-          "vote_num_kp": "2930",
+          "vote_num_kp": "2929",
           "rating_imdb": "5",
           "vote_num_imdb": "64937"
         }
@@ -1285,10 +1735,10 @@
         "time": "8100",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_583532.jpg",
         "rating": {
-          "rating_kp": "5.801",
-          "vote_num_kp": "645",
+          "rating_kp": "5.802",
+          "vote_num_kp": "651",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "3241"
+          "vote_num_imdb": "3246"
         }
       }
     },
@@ -1356,9 +1806,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_463237.jpg",
         "rating": {
           "rating_kp": "6.176",
-          "vote_num_kp": "40089",
+          "vote_num_kp": "40099",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "81896"
+          "vote_num_imdb": "81912"
         }
       }
     },
@@ -1393,7 +1843,7 @@
           "rating_kp": "0",
           "vote_num_kp": "8",
           "rating_imdb": "4.1",
-          "vote_num_imdb": "299"
+          "vote_num_imdb": "301"
         }
       }
     },
@@ -1461,9 +1911,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1284542.jpg",
         "rating": {
           "rating_kp": "6.608",
-          "vote_num_kp": "460",
+          "vote_num_kp": "462",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "11544"
+          "vote_num_imdb": "11589"
         }
       }
     },
@@ -1531,9 +1981,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_918722.jpg",
         "rating": {
           "rating_kp": "5.946",
-          "vote_num_kp": "43745",
+          "vote_num_kp": "43840",
           "rating_imdb": "5.6",
-          "vote_num_imdb": "119345"
+          "vote_num_imdb": "119415"
         }
       }
     },
@@ -1636,7 +2086,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1200972.jpg",
         "rating": {
           "rating_kp": "6.13",
-          "vote_num_kp": "1098",
+          "vote_num_kp": "1100",
           "rating_imdb": "6.1",
           "vote_num_imdb": "228"
         }
@@ -1674,426 +2124,6 @@
           "vote_num_kp": "11",
           "rating_imdb": "5.4",
           "vote_num_imdb": "823"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "88172",
-      "date": "1605299371",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Обитель зла 3",
-        "orig": "Resident Evil: Extinction",
-        "alter": "",
-        "year": "2007",
-        "country": "Германия, США, Франция, Австралия, Великобритания",
-        "director": "Рассел Малкэй",
-        "genre": "боевик,ужасы,фантастика,триллер",
-        "actors": "Милла Йовович, Одед Фер, Эли Лартер, Иэн Глен, Ашанти, Кристофер Иган, Спенсер Лок, Мэттью Мэрсден, Линден Эшби, Джейсон О’Мара",
-        "description": "Элис, не раз уже спасавшая мир от смертельных вирусов и неминуемой гибели, вновь взялась за оружие. На этот раз ей предстоит сразиться с корпорацией «Амбрелла», работающей над реализацией зверского антигуманного проекта. Коварные политики и прагматичные ученые стремятся уничтожить людей и заменить их на более «совершенные» создания, заселив Землю неуязвимыми бессмертными клонами...",
-        "slogan": "На этот раз без компромиссов",
-        "premiere": "20 сентября 2007",
-        "age": "16",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_88172.jpg",
-        "rating": {
-          "rating_kp": "6.57",
-          "vote_num_kp": "91954",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "185063"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1043114",
-      "date": "1605297608",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Неизвестный мастер",
-        "orig": "Tuntematon mestari",
-        "alter": "",
-        "year": "2018",
-        "country": "Финляндия",
-        "director": "Клаус Хярё",
-        "genre": "драма",
-        "actors": "Хейкки Ноусилайнен,Пирьо Лонка,Амос Брозерус,Стефан Саук,Henrikki Haavisto,Jaani Kekäläinen,Juuso Kuusisto,Кристоффер Мёллер,Yuha Pihanen,Иро Ритала",
-        "description": "Пожилой арт-дилер Олави владеет небольшим художественным салоном. Покупателей все меньше, годы берут свое. Лишь изредка удается купить в расположенном по соседству аукционном доме «Дубровский» интересную вещицу и перепродать с небольшой наценкой. Олави мечтает, чтобы в его руки попал нераспознанный шедевр искусства, который можно продать с большой выгодой и обеспечить себе безбедную старость. И вот однажды, в дальнем углу выставочного зала аукциона на его глаза попадается портрет мужчины без подписи автора, выставленный на торги за скромную цену. Чутье подсказывает опытному искусствоведу, что здесь кроется какая-то тайна и картина может быть написана знаменитым художником Ильей Репиным. Но для подтверждения догадки требуется найти весомые аргументы.",
-        "slogan": "",
-        "premiere": "7 сентября 2018",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1043114.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "63",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "1052"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1164863",
-      "date": "1605294007",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Позорные фотографии из семейного альбома, или разрушенная печень и разбитое сердце",
-        "orig": "Krepujace zdjecia z rodzinnego albumu, czyli zniszczona watroba i zlamane serce",
-        "alter": "",
-        "year": "2018",
-        "country": "Польша",
-        "director": "Pawel Nowak",
-        "genre": "драма",
-        "actors": "Lilla Gluchowska,Malgorzata Gluchowska,Izabela Gwizdak,Эва Хорних,Гжегож Квецень,Anna Lobedan,Марцин Перхучь,Magdalena Pieczynska,Францишек Пжыбыльский,Marta Rucinska",
-        "description": "30-летняя девушка, страдающая депрессией и алкоголизмом, решает прервать беременность. В ожидании процедуры она проводит время с отцом ребенка - наркоторговцем.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNTI3MTgzOTEtZmI2MC00YTc3LWE1ZTEtNmY5N2VkY2I2ZjhjXkEyXkFqcGdeQXVyMTEwMTY3NDI@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "1",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1048462",
-      "date": "1605292205",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDRip",
-      "translation": "Двухголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Любить или не любить",
-        "orig": "Chu lian ri ji",
-        "alter": "",
-        "year": "2017",
-        "country": "Гонконг",
-        "director": "Кросби Ип",
-        "genre": "мелодрама,комедия",
-        "actors": "Венус Вон,Эдвард Ма,Джейсон Фу,To Siu Kiu,J. Radite,Chantale Bui,Мелани Мо,Alan Choi,Лам Сует,Гэбриел Вонг",
-        "description": "Элтон и Кейси встречались в школе, они были первой любовью друг друга. Неожиданно Элтон изменяет Кейси прямо у нее на глазах и предлагает ей расстаться. 10 лет спустя они вновь встречаются, но теперь Кейси превратилась в расчетливую женщину. Элтону придется побороться за её сердце с красавчиком корейцем. Простит ли Кейси Элтона?",
-        "slogan": "",
-        "premiere": "2 марта 2017",
-        "age": "0",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1048462.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "14",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "86"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "975287",
-      "date": "1605292148",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Ужастики 2: Беспокойный Хэллоуин",
-        "orig": "Goosebumps 2: Haunted Halloween",
-        "alter": "",
-        "year": "2018",
-        "country": "США, Великобритания",
-        "director": "Эри Сандел",
-        "genre": "комедия,ужасы,фэнтези,приключения,семейный",
-        "actors": "Мэдисон Айсмен, Джереми Рэй Тейлор, Калил Харрис, Мик Уингерт, Кен Жонг, Венди Маклендон-Кови, Крис Парнелл, Брайс Касс, Пейтон Уич, Шэри Хидли",
-        "description": "В заброшенном доме парочка ребят находит странную книгу «Беспокойный Хэллоуин» Р. Л. Стайна. Друзья быстро понимают, почему книгу спрятали подальше от всех, когда небольшой городок заполняют монстры разной степени ужасности.",
-        "slogan": "Halloween comes to life",
-        "premiere": "11 октября 2018",
-        "age": "6",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_975287.jpg",
-        "rating": {
-          "rating_kp": "5.587",
-          "vote_num_kp": "13693",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "18371"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1113945",
-      "date": "1605290405",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Джанго: кровь моей крови",
-        "orig": "Django: sangre de mi sangre",
-        "alter": "",
-        "year": "2018",
-        "country": "Перу",
-        "director": "Альдо Сальвини",
-        "genre": "боевик,криминал",
-        "actors": "Альдо Миясиро,Татьяна Астенго,Jimmy Astley,Джованни Чиччия,Серхио Галльяни,Мелания Урбина",
-        "description": "Вор Орландо Эрнандес, больше известный как Джанго, отсидел в тюрьме 15 лет и наконец-то вышел на свободу. Теперь он хочет жить честно и вернуть свою семью, но оказывается, это не так просто. Его сын Хосе тоже встал на путь криминала и примкнул к мафиози Фредди Маркина.",
-        "slogan": "",
-        "premiere": "25 января 2018",
-        "age": "0",
-        "time": "6360",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1113945.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "76"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "24186",
-      "date": "1605290321",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Обитель зла 2: Апокалипсис",
-        "orig": "Resident Evil: Apocalypse",
-        "alter": "",
-        "year": "2004",
-        "country": "Германия, Франция, Великобритания, Канада, США",
-        "director": "Александр Уитт",
-        "genre": "боевик,ужасы,фантастика,триллер",
-        "actors": "Милла Йовович, Сиенна Гиллори, Одед Фер, Томас Кречман, Софи Вавасо, Разаак Адоти, Джаред Харрис, Майк Эппс, Сандрин Холт, Мэттью Дж. Тейлор",
-        "description": "Действие картины разворачивается на улицах Ракун-сити - города, контролируемого могущественной корпорацией «Амбрелла». После бактериологической катастрофы все жители медленно превращаются в зомби, а те немногочисленные граждане, чей разум ещё не до конца изъеден ужасным вирусом, доживают свои последние дни в атмосфере страха и с желанием скорейшей смерти...",
-        "slogan": "Она прошла через катакомбы, кишащие зомби. Теперь на её пути целый город...",
-        "premiere": "23 августа 2004",
-        "age": "18",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_24186.jpg",
-        "rating": {
-          "rating_kp": "6.761",
-          "vote_num_kp": "91725",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "187880"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1237982",
-      "date": "1605285911",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "На краю ринга",
-        "orig": "Ringside",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Андре Хёрман",
-        "genre": "документальный",
-        "actors": "Kenneth Sims Jr.,Destyne Butler Jr.,Kenneth Sims Sr.,Destyne Butler Sr.,Дэвид Диаманте,Марк Лихтенфельд",
-        "description": "Два молодых талантливых боксёра Кеннет Симс-младший и Дестини Батлер-младший, которых направляют их отцы, проходят нелёгкий путь ради достижения успеха в своей спортивной карьере.",
-        "slogan": "",
-        "premiere": "10 февраля 2019",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1237982.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "8",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "79"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1130202",
-      "date": "1605284113",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDRip",
-      "translation": "Двухголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Удивительная история Мароны",
-        "orig": "L'extraordinaire voyage de Marona",
-        "alter": "",
-        "year": "2019",
-        "country": "Франция,Румыния,Бельгия",
-        "director": "Анка Дамиан",
-        "genre": "мультфильм,драма,семейный",
-        "actors": "Лиззи Брошере,Бруно Саломон,Тьерри Ансисс,Натали Бутфо,Ширелль Мэй-Ивар,Маира Шмитт,Жорж Клесе,Этьен Гиллу-Керверн,Олимпия Мелинте,Энни Мерсье",
-        "description": "История о беспородной собаке сложной судьбы, которая после аварии вспоминает своих многочисленных хозяев, каждому из которых она была невероятно предана.",
-        "slogan": "",
-        "premiere": "10 июня 2019",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1130202.jpg",
-        "rating": {
-          "rating_kp": "7.845",
-          "vote_num_kp": "177",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "720"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1205082",
-      "date": "1605284108",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Приговорённая к смерти",
-        "orig": "Left for Dead",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Брайан Скиба",
-        "genre": "триллер",
-        "actors": "Челси Хоббс,Марк Фамиглетти,Уильям МакНамара,Джереми Кент Джексон,Эшли Силверман,Клеа Скотт,Geri-Nikole Love,Чарльз Кампос,Kevin Gance,Харви Б. Джексон",
-        "description": "В результате подстроенной автомобильной аварии Лиа Чизолм теряет память. Всё, что она смогла вспомнить - это то, что рядом с ней в момент происшествия находилась её дочь. Однако объявившийся муж Лии заявляет, что та погибла два года назад.",
-        "slogan": "",
-        "premiere": "19 октября 2018",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNDA4MmQxNGMtOWMyOC00NmU1LTgxNjUtMTdkNzA1N2ZkYzU1XkEyXkFqcGdeQXVyNjU0NTI0Nw@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "3",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "94"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8363",
-      "date": "1605281692",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Система безопасности",
-        "orig": "Fail Safe",
-        "alter": "Fail-Safe",
-        "year": "1964",
-        "country": "США",
-        "director": "Сидни Люмет",
-        "genre": "триллер,драма",
-        "actors": "Дэн О’Херлихи,Уолтер Мэттау,Фрэнк Овертон,Эд Биннс,Фриц Уивер,Генри Фонда,Ларри Хэгмэн,Уильям Хансен,Расселл Харди,Расселл Коллинз",
-        "description": "Компьютер военного ведомства США дает сбой, и пилоты ядерных бомбардировщиков получают команду атаковать Москву. Теперь экипажи самолетов не имеют права выходить в эфир, их единственная задача - выполнить миссию любой ценой. У президента США есть несколько часов, чтобы предотвратить надвигающуюся катастрофу.",
-        "slogan": "The screen zeros in on the most suspenseful adventure drama of our age!",
-        "premiere": "15 сентября 1964",
-        "age": "0",
-        "time": "6720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8363.jpg",
-        "rating": {
-          "rating_kp": "7.496",
-          "vote_num_kp": "1157",
-          "rating_imdb": "8",
-          "vote_num_imdb": "20174"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "168832",
-      "date": "1605281553",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Кровавый залив",
-        "orig": "Ecologia del delitto",
-        "alter": "Reazione a catena",
-        "year": "1971",
-        "country": "Италия",
-        "director": "Марио Бава",
-        "genre": "ужасы,триллер,детектив",
-        "actors": "Клодин Оже,Луиджи Пистилли,Клаудио Камазо,Анна Мария Розати,Крис Аврам,Леопольдо Триесте,Лаура Бетти,Бриджит Скай,Иза Миранда,Паола Монтенеро",
-        "description": "Бабуля, сидя в инвалидной коляске, осматривала достопримечательности природы, простирающиеся из окна её собственного дома, когда чьи-то подлые руки в чёрных перчатках затянули на её шее петлю. Над осунувшимся трупом пожилой леди встал мужик и уже собирался потирать руки в предвкушении наследства (он её муж, а та владеет обширными угодьями), как некто несколько раз воткнул ему нож в живот... Весёлая компания подростков, проезжая поблизости, решила сделать остановку возле вроде бы запущенного дома. Зайдя в дом без спроса, молодёжь стала жертвой неизвестного, который покарал их за нарушение права о частной собственности... \r\n\r\nВ эти же края приезжает молодая женщина с мужем, желающая найти своего отца, который в последнее время не звонит и не пишет. Её приезд сопровождается новой волной насилия и смертей, что нетрудно сделать очевидный вывод: всё это кровопролитие происходит из-за наследства бабули, которой принадлежит живописное место, именующееся всеми «заливом»...",
-        "slogan": "The second movie rated «V» for violence",
-        "premiere": "8 сентября 1971",
-        "age": "18",
-        "time": "5040",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_168832.jpg",
-        "rating": {
-          "rating_kp": "6.096",
-          "vote_num_kp": "740",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "9549"
         }
       }
     }

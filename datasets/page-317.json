@@ -2,6 +2,356 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1255330",
+      "date": "1584870012",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "1800 граммов",
+        "orig": "1800 gramów",
+        "alter": "",
+        "year": "2019",
+        "country": "Польша",
+        "director": "Марчин Гловацкий",
+        "genre": "комедия",
+        "actors": "Магдалена Ружчка,Петр Гловацкий,Mia Diduch,Aleksander Bozyk,Дорота Коляк,Войцех Мецвальдовский,Александра Поплавска,Марта Цислович,Магдалена Лямпарская,Мацей Закощельны",
+        "description": "Действие фильма происходит в Кракове перед Рождеством. Героиня фильма - Ева - директор центра по усыновлению, которая ищет новых родителей для брошенных детей. Для нее нет ничего невозможного, она может сломать любую дверь. Однако, незадолго до Рождества в ее жизни появляется необычная девочка - Нютка, ребёнок, брошенный матерью. Чтобы найти приемную семью для нее до Рождества, Ева готова сделать все, даже пожертвовать собой, своей карьерой и шансом на любовь... Спасая один маленький мир, сможет ли Ева также спасти себя?",
+        "slogan": "Szczescie wymaga odwagi",
+        "premiere": "15 ноября 2019",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1255330.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "20",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "192"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1142303",
+      "date": "1584868829",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "За деревьями",
+        "orig": "Behind the Trees",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Vikram Jayakumar",
+        "genre": "ужасы,триллер,детектив",
+        "actors": "Ванесса Керри,Сахил Шрофф,Субрат Дутта,Tvisha Seema,Tanvi Shinde,Аппорва Арора,Mohit Hiranandani,Abheer Meherish,Rhea Harwani,Rajesh Arya",
+        "description": "Двое американцев проводят романтический отпуск в индийской глуши, где случайно становятся свидетелями изгнания демонов из тела 11-летней девочки. Пара решает спасти ребёнка от пугающего ритуала, не зная, что благородный поступок может дорого им обойтись.",
+        "slogan": "Be careful who you help",
+        "premiere": "21 ноября 2019",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTU3NjUtYjQ1OC00M2FiLWFkZjAtZjY5YjMyOTRlMTc3XkEyXkFqcGdeQXVyMjc4ODUyNTI@._V1_SY1000_CR0,0,750,1000_AL_.jpg",
+        "rating": {
+          "rating_kp": "4.25",
+          "vote_num_kp": "432",
+          "rating_imdb": "3.9",
+          "vote_num_imdb": "522"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "946614",
+      "date": "1584868750",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Потерянные части",
+        "orig": "The Parts You Lose",
+        "alter": "",
+        "year": "2019",
+        "country": "Канада",
+        "director": "Кристофер Кентвелл",
+        "genre": "боевик,триллер,драма",
+        "actors": "Мэри Элизабет Уинстэд, Аарон Пол, Скут МакНэри, Кристен Харрис, Джейн Ву, Danny Murphy, Логан Креран, Анджела Нарт, Эйдан Ричи, Стив Пако",
+        "description": "Маленький мальчик из тихого городка Северной Дакоты заводит дружбу с находящимся в бегах опасным преступником, который оказывается единственным человеком, способным помочь ему побороть свои страхи.",
+        "slogan": "",
+        "premiere": "14 марта 2019",
+        "age": "0",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_946614.jpg",
+        "rating": {
+          "rating_kp": "6.083",
+          "vote_num_kp": "1417",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "1861"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "955883",
+      "date": "1584824419",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Психонавты, забытые дети",
+        "orig": "Psiconautas, los niños olvidados",
+        "alter": "",
+        "year": "2015",
+        "country": "Испания, Япония",
+        "director": "Педро Риверо, Альберто Васкес",
+        "genre": "мультфильм,ужасы,фантастика,драма",
+        "actors": "Andrea Alzuri, Eva Ojanguren, Josu Cubero, Феликс Аркарасо, Хорхе Карреро, Nuria Marín, Josu Varela, Jon Goiri, Марибель Легаррета, Iker Diez",
+        "description": "На некогда прекрасном острове произошла техногенная катастрофа, и теперь добрая его половина утопает в отходах. Часть населения роется в горах мусора, выискивая медь, а часть пытается вести привычный образ жизни. Школьница-мышка Динки с друзьями мечтает сбежать с ненавистного острова и надеется, что её бывший парень - парень-птица - научится хорошо летать и заберёт её в другое место. А тот скрывается от охотников и борется с демоном, пожирающим его изнутри.",
+        "slogan": "Not Everything With a Body is Alive",
+        "premiere": "24 сентября 2015",
+        "age": "0",
+        "time": "4560",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_955883.jpg",
+        "rating": {
+          "rating_kp": "7.685",
+          "vote_num_kp": "2990",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "2180"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1120871",
+      "date": "1584817792",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Покемон 21: История про всех",
+        "orig": "Gekijouban Poketto monsutâ: Minna no Monogatari",
+        "alter": "Покемон (фильм 21: Сила Внутри Нас) / Pokemon the Movie 21: The Power Of Us",
+        "year": "2018",
+        "country": "Япония",
+        "director": "Тэцуо Ядзима",
+        "genre": "аниме,мультфильм,фэнтези,приключения,семейный",
+        "actors": "Сара Наточенни, Хевн Бертон, Эдди Ли, Кэтрин Кэхилл, Эрика Шредер, Билли Боб Томпсон, Мишель Кнотц, Джеймс Картер Каткарт, Лайан Мари Доббс, Марта Хармс",
+        "description": "Город Фуура ежегодно принимает у себя фестиваль ветров. На празднике Эш знакомится с пятью разными персонажами: тренером покемонов Лизой, покемоном-вруном Кагати, исследователем Торито, пожилой Хисуи, которая не любит покемонов, и загадочной девочкой Ларго.",
+        "slogan": "Our Hopes. Our Dreams. Our Stories",
+        "premiere": "13 июля 2018",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1120871.jpg",
+        "rating": {
+          "rating_kp": "6.82",
+          "vote_num_kp": "285",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "2135"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "102122",
+      "date": "1584817770",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Линкольн",
+        "orig": "Lincoln",
+        "alter": "",
+        "year": "2012",
+        "country": "США, Индия",
+        "director": "Стивен Спилберг",
+        "genre": "история,драма,военный",
+        "actors": "Дэниэл Дэй-Льюис, Салли Филд, Дэвид Стрэтэйрн, Джозеф Гордон-Левитт, Джеймс Спэйдер, Хэл Холбрук, Томми Ли Джонс, Джон Хоукс, Джеки Эрл Хейли, Брюс МакГилл",
+        "description": "1865 год. Шестнадцатый президент США Авраам Линкольн находится на пике популярности. Но перед ним стоят серьёзные задачи: провести запрещающую рабство поправку к Конституции через Палату представителей и завершить Гражданскую войну.",
+        "slogan": "",
+        "premiere": "8 октября 2012",
+        "age": "16",
+        "time": "9000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_102122.jpg",
+        "rating": {
+          "rating_kp": "6.91",
+          "vote_num_kp": "32703",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "247589"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1212085",
+      "date": "1584788245",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "А потом мы танцевали",
+        "orig": "And Then We Danced",
+        "alter": "",
+        "year": "2019",
+        "country": "Швеция,Грузия,Франция",
+        "director": "Леван Акин",
+        "genre": "драма,мелодрама",
+        "actors": "Леван Гелбахиани,Bachi Valishvili,Ана Джавакишвили,Каха Гогидзе,Ана Махарадзе,Нино Габисония,Леван Габрава,Dachi Babunashvili,Saba Abashidze,Giorgi Aladashvili",
+        "description": "Мераб с детства танцует в Национальном грузинском ансамбле со своей партнершей Мари. Его жизнь радикально меняется, когда он влюбляется в нового артиста труппы, Ираклия.",
+        "slogan": "",
+        "premiere": "16 мая 2019",
+        "age": "0",
+        "time": "6780",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1212085.jpg",
+        "rating": {
+          "rating_kp": "7.884",
+          "vote_num_kp": "4503",
+          "rating_imdb": "7.7",
+          "vote_num_imdb": "9991"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1904",
+      "date": "1584785287",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Джулия",
+        "orig": "Julia",
+        "alter": "",
+        "year": "1977",
+        "country": "США",
+        "director": "Фред Циннеман",
+        "genre": "драма",
+        "actors": "Джейн Фонда,Ванесса Редгрейв,Джейсон Робардс,Максимилиан Шелл,Хэл Холбрук,Розмари Мерфи,Мэрил Стрип,Дора Долль,Элизабет Мортенсен,Джон Гловер",
+        "description": "Джулия и Лиллиан &#151; подруги детства. Джулия родом из богатой еврейской семьи, воспитывалась в США у бабушки и дедушки. Между девочками были близкие отношения, но позже жизнь разлучила их. Увлеченная литературой Лиллиан сближается с Дэшилом Хэмметом, а студентка-медик Джулия отправляется в Европу, где вливается в антифашистское движение.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "0",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1904.jpg",
+        "rating": {
+          "rating_kp": "7.028",
+          "vote_num_kp": "950",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "8766"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1088241",
+      "date": "1584782221",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Переплетающиеся души",
+        "orig": "Bong ling",
+        "alter": "",
+        "year": "2019",
+        "country": "Гонконг,Тайвань",
+        "director": "Чан Пан-чун",
+        "genre": "ужасы",
+        "actors": "Карлос Чан,Эстер Хуан,Цао Юйнин,Кара Хуэй",
+        "description": "Группа студентов приезжает в закрывающуюся школу, где, по слухам, обитают призраки. Пока на дворе лето, и в здании нет учеников, директор школы &#151; дядя одного из друзей &#151; разрешает ребятам пожить в местном общежитии. Когда-то давно японские оккупанты издевались здесь над беззащитными женщинами, и эхо войны даёт о себе знать &#151; одна из студенток почти сразу видит призрака.",
+        "slogan": "",
+        "premiere": "8 августа 2019",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1088241.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "32",
+          "rating_imdb": "4.2",
+          "vote_num_imdb": "110"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1228792",
+      "date": "1584782161",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Осторожно: дети!",
+        "orig": "Barn",
+        "alter": "",
+        "year": "2019",
+        "country": "Норвегия,Швеция",
+        "director": "Даг Йохан Хёугеруд",
+        "genre": "драма",
+        "actors": "Генриетта Стинстрап,Ян Гуннар Рёйсе,Торбьорн Харр,Brynjar &Aring;bel Bandlien,Андреа Брайн Ховиг,Ганс Олав Бреннер,Энн Марит Якобсен,Ella &Oslash;verbye,Трине Вигген,Адам Пэлссон",
+        "description": "Во время школьной перемены 13-летний Джейми получает сотрясение мозга и умирает в больнице. &laquo;Виновница&raquo; происшествия &#151; его одноклассница Ликке. Именно она ударила мальчика портфелем по голове. Но действительно ли этот случай можно расценивать как несчастный? Сложная для школы ситуация превращается в экзистенциальное поле битвы. Лив &#151; директор школы и любовница отца Джейми &#151; должна найти в себе силы, чтобы разобраться в произошедшем и не дать эмоциям разорвать себя на части.",
+        "slogan": "",
+        "premiere": "3 сентября 2019",
+        "age": "0",
+        "time": "9420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1228792.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "43",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "820"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1267258",
       "date": "1584782099",
       "camrip": "0",
@@ -29,7 +379,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1267258.jpg",
         "rating": {
           "rating_kp": "6.056",
-          "vote_num_kp": "1579",
+          "vote_num_kp": "1580",
           "rating_imdb": "6.3",
           "vote_num_imdb": "1208"
         }
@@ -82,9 +432,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1334288.jpg",
         "rating": {
           "rating_kp": "6.767",
-          "vote_num_kp": "954",
+          "vote_num_kp": "958",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "871"
+          "vote_num_imdb": "875"
         }
       }
     },
@@ -187,9 +537,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_42667.jpg",
         "rating": {
           "rating_kp": "8.035",
-          "vote_num_kp": "38036",
+          "vote_num_kp": "38041",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "32527"
+          "vote_num_imdb": "32539"
         }
       }
     },
@@ -467,7 +817,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_975301.jpg",
         "rating": {
           "rating_kp": "6.103",
-          "vote_num_kp": "1728",
+          "vote_num_kp": "1732",
           "rating_imdb": "6.6",
           "vote_num_imdb": "21105"
         }
@@ -501,10 +851,10 @@
         "time": "6240",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1256262.jpg",
         "rating": {
-          "rating_kp": "7.059",
-          "vote_num_kp": "8538",
+          "rating_kp": "7.06",
+          "vote_num_kp": "8558",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "20725"
+          "vote_num_imdb": "20740"
         }
       }
     },
@@ -537,7 +887,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5414.jpg",
         "rating": {
           "rating_kp": "6.208",
-          "vote_num_kp": "38882",
+          "vote_num_kp": "38920",
           "rating_imdb": "5.5",
           "vote_num_imdb": "135420"
         }
@@ -572,9 +922,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1139373.jpg",
         "rating": {
           "rating_kp": "6.109",
-          "vote_num_kp": "375",
+          "vote_num_kp": "376",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "2189"
+          "vote_num_imdb": "2198"
         }
       }
     },
@@ -677,7 +1027,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1083231.jpg",
         "rating": {
           "rating_kp": "7.124",
-          "vote_num_kp": "3200",
+          "vote_num_kp": "3204",
           "rating_imdb": "7.2",
           "vote_num_imdb": "973"
         }
@@ -733,7 +1083,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1263675.jpg",
         "rating": {
           "rating_kp": "6.749",
-          "vote_num_kp": "1478",
+          "vote_num_kp": "1479",
           "rating_imdb": "7.5",
           "vote_num_imdb": "9191"
         }
@@ -768,7 +1118,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1253988.jpg",
         "rating": {
           "rating_kp": "6.661",
-          "vote_num_kp": "23284",
+          "vote_num_kp": "23289",
           "rating_imdb": "6.2",
           "vote_num_imdb": "1405"
         }
@@ -838,9 +1188,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_862786.jpg",
         "rating": {
           "rating_kp": "5.963",
-          "vote_num_kp": "150",
+          "vote_num_kp": "155",
           "rating_imdb": "5.6",
-          "vote_num_imdb": "993"
+          "vote_num_imdb": "1000"
         }
       }
     },
@@ -892,9 +1242,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1056155.jpg",
         "rating": {
           "rating_kp": "7.162",
-          "vote_num_kp": "2107",
+          "vote_num_kp": "2109",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "4348"
+          "vote_num_imdb": "4353"
         }
       }
     },
@@ -962,7 +1312,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1039016.jpg",
         "rating": {
           "rating_kp": "8.097",
-          "vote_num_kp": "3047",
+          "vote_num_kp": "3046",
           "rating_imdb": "7.9",
           "vote_num_imdb": "154"
         }
@@ -1031,8 +1381,8 @@
         "time": "7140",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_276365.jpg",
         "rating": {
-          "rating_kp": "7.512",
-          "vote_num_kp": "2605",
+          "rating_kp": "7.513",
+          "vote_num_kp": "2607",
           "rating_imdb": "7.4",
           "vote_num_imdb": "8427"
         }
@@ -1067,9 +1417,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1228069.jpg",
         "rating": {
           "rating_kp": "7.666",
-          "vote_num_kp": "67617",
+          "vote_num_kp": "67659",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "66667"
+          "vote_num_imdb": "66728"
         }
       }
     },
@@ -1220,8 +1570,8 @@
         "time": "2880",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1209244.jpg",
         "rating": {
-          "rating_kp": "7.287",
-          "vote_num_kp": "20914",
+          "rating_kp": "7.286",
+          "vote_num_kp": "20934",
           "rating_imdb": "7",
           "vote_num_imdb": "22"
         }
@@ -1256,9 +1606,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_325598.jpg",
         "rating": {
           "rating_kp": "7.001",
-          "vote_num_kp": "53858",
+          "vote_num_kp": "53866",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "167337"
+          "vote_num_imdb": "167364"
         }
       }
     },
@@ -1367,9 +1717,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_404900.jpg",
         "rating": {
           "rating_kp": "8.857",
-          "vote_num_kp": "358118",
+          "vote_num_kp": "358233",
           "rating_imdb": "9.5",
-          "vote_num_imdb": "1500063"
+          "vote_num_imdb": "1500521"
         }
       }
     },
@@ -1412,8 +1762,8 @@
         "time": "3600",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_927601.jpg",
         "rating": {
-          "rating_kp": "6.998",
-          "vote_num_kp": "1644",
+          "rating_kp": "7",
+          "vote_num_kp": "1648",
           "rating_imdb": "7.5",
           "vote_num_imdb": "9268"
         }
@@ -1480,9 +1830,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1009526.jpg",
         "rating": {
           "rating_kp": "7.497",
-          "vote_num_kp": "7869",
+          "vote_num_kp": "7882",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "40617"
+          "vote_num_imdb": "40697"
         }
       }
     },
@@ -1515,7 +1865,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_308.jpg",
         "rating": {
           "rating_kp": "4.255",
-          "vote_num_kp": "12650",
+          "vote_num_kp": "12653",
           "rating_imdb": "3.4",
           "vote_num_imdb": "37726"
         }
@@ -1550,7 +1900,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_251609.jpg",
         "rating": {
           "rating_kp": "6.281",
-          "vote_num_kp": "3366",
+          "vote_num_kp": "3377",
           "rating_imdb": "6.2",
           "vote_num_imdb": "5209"
         }
@@ -1585,385 +1935,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_259251.jpg",
         "rating": {
           "rating_kp": "6.508",
-          "vote_num_kp": "102331",
+          "vote_num_kp": "102379",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "8202"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "283116",
-      "date": "1584522088",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "AniDUB",
-      "max_qual": "720",
-      "info": {
-        "rus": "Наруто 2: Великая битва",
-        "orig": "Gekijô-ban Naruto: Daigekitotsu! Maboroshi no chitei iseki dattebayo!",
-        "alter": "Наруто: Легенда камня Гелела / Наруто (фильм второй) / Naruto Movie 2",
-        "year": "2005",
-        "country": "Япония",
-        "director": "Хироцуги Кавасаки",
-        "genre": "аниме,мультфильм,комедия,фэнтези,драма,приключения",
-        "actors": "Дзюнко Такэути, Сётаро Морикубо, Тиэ Накамура, Гаамон Кай, Такако Хонда, Акира Исида, Ясуюки Касэ, Гамон Каай, Сатико Кодзима, Томока Курокава",
-        "description": "Во время миссии по поимке хорька на Сакуру, Сикамару и Наруто нападают неизвестные ниндзя. Наруто, разлучённый со своей группой, узнает о силе, которая не имеет ничего общего с Чакрой, и о древней исчезнувшей цивилизации. После воссоединения со своими товарищами, Наруто вынужден начать борьбу за спасение всего мира.",
-        "slogan": "",
-        "premiere": "6 августа 2005",
-        "age": "0",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_283116.jpg",
-        "rating": {
-          "rating_kp": "6.593",
-          "vote_num_kp": "6599",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "3685"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "229907",
-      "date": "1584519314",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Скуби-Ду и кибер погоня",
-        "orig": "Scooby-Doo and the Cyber Chase",
-        "alter": "",
-        "year": "2001",
-        "country": "США",
-        "director": "Джим Стенструм",
-        "genre": "мультфильм,комедия,боевик,фантастика,детектив,приключения,семейный",
-        "actors": "Скотт Иннес, Джо Аляски, Боб Берген, Грэй Гриффин, Том Кэйн, Мики Келли, Гари Стургис, Б.Дж. Уорд, Фрэнк Уэлкер",
-        "description": "Скуби-Ду и его друзья случайно попадают в видеоигру, основанную на их собственных приключениях. Преследуя нахала по десяти сложнейшим уровням, компания совершает путешествие от доисторического прошлого до космического будущего и даже сталкивается с ордой виртуальных страшилищ из их самых знаменитых историй!",
-        "slogan": "Like, compu-zoinks!",
-        "premiere": "9 октября 2001",
-        "age": "6",
-        "time": "4440",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_229907.jpg",
-        "rating": {
-          "rating_kp": "6.802",
-          "vote_num_kp": "3513",
-          "rating_imdb": "7",
-          "vote_num_imdb": "6702"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1318030",
-      "date": "1584518999",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Овца без пастуха",
-        "orig": "Wu sha",
-        "alter": "",
-        "year": "2019",
-        "country": "Китай",
-        "director": "Сэм Цюа",
-        "genre": "триллер,драма,криминал",
-        "actors": "Сяо Ян,Тань Чжо,Джоан Чэнь,Филип Кюн,Пол Чунь,Бянь Тянъян,Сюй Вэньшань,Чжан Сижань,Ши Миншуай,Джерри Хуан",
-        "description": "Небольшой приграничный город. Старшую дочь законопослушного гражданина изнасиловал сын влиятельного человека, против которого закон бессилен. Безутешным родителям приходится взять правосудие в свои руки &#151; они убивают подонка и избавляются от тела. Теперь семье придется столкнуться с последствиями.",
-        "slogan": "",
-        "premiere": "5 декабря 2019",
-        "age": "0",
-        "time": "6720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1318030.jpg",
-        "rating": {
-          "rating_kp": "7.123",
-          "vote_num_kp": "229",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "1012"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1114483",
-      "date": "1584518598",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Рейверы",
-        "orig": "Ravers",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания",
-        "director": "Бернхард Пухер",
-        "genre": "ужасы,комедия",
-        "actors": "Наташа Хенстридж,Джорджия Хёрст,Оливье Рихтерс,Ив Коннолли,Дэйв Джонс,Мария Волк,Manpreet Bambra,Дэнни Киррейн,Орсон Чаплин,Камал Анджело Болден",
-        "description": "Журналист-гермофоб случайно оказывается с друзьями на рейв-вечеринке на заброшенной фабрике по производству энергетика сомнительного качества. Внезапно веселье выходит из под контроля, гости начинают терять признаки разума, а героине и её друзьям приходится искать способ вырываться со смертельной вечеринки.",
-        "slogan": "If you're alive in the morning then you weren't actually there...",
-        "premiere": "25 августа 2018",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1114483.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "55",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "310"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "419606",
-      "date": "1584484852",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Одноголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Мясорубка",
-        "orig": "City of Rott",
-        "alter": "",
-        "year": "2006",
-        "country": "США",
-        "director": "Фрэнк Судол",
-        "genre": "мультфильм,ужасы,боевик,комедия,приключения",
-        "actors": "Фрэнк Судол",
-        "description": "Один, без оружия, сходящий с ума, старик по имени Фред пойман в ловушку в городе, наводненным легионами зомби. Ведомый паразитными червями, которые наводняют их распадающиеся тела, орды гниющих зомби бродят по городу, и ищут живущую плоть, что бы пировать!",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_419606.jpg",
-        "rating": {
-          "rating_kp": "5.862",
-          "vote_num_kp": "742",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "773"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "694323",
-      "date": "1584471657",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Охота на слонов",
-        "orig": "Hunting Elephants",
-        "alter": "",
-        "year": "2013",
-        "country": "Израиль,США",
-        "director": "Решеф Леви",
-        "genre": "драма,комедия,криминал",
-        "actors": "Сэссон Габаи,Мони Мошонов,Патрик Стюарт,Gil Blank,Яэль Абекассис,Моше Ивги,Звика Хадар,Ротем Зуссман-Коэн,Meirav Koperberg,Тиква Дайан",
-        "description": "В самом начале просмотра фильма «Охота на слонов» мы знакомимся с тремя пожилыми мужчинами и молодым человеком по имени Йонатан, который приходится внуком одного из них. Все они вынуждены проживать в доме, который предназначен для ухода за пожилыми людьми. Окружающие считают Йонатана настоящим гением. Однако из-за своей скромностью он постоянно становится объектом для насмешек со стороны одноклассником.\r\n\r\nДедушка парня, Эпиаху, когда-то был членом влиятельной еврейской подпольной организации. Он отличается суровым характером. А вот его лучший друг Ник все еще витает в облаках. Он мечтает о другой жизни и даже несмотря на возраст, имеет немало нереализованных амбиций. Последним героем оказывается шурин дедушки Йонатана, который когда-то был востребованным актером и теперь вынужденный прозябать в нищете и долгах. Единственная причина, по которой все четверо продолжают общаться, заключается в их желании ограбить банк. Они хотят отомстить системе за то, что так подло их обманула. Награбленное богатство герои собираются пустить на исполнение своих последних желаний. Но получится ли у них осуществить задуманное?",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_694323.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "65",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "1008"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1048908",
-      "date": "1584469131",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "AniLibria",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Хочу съесть твою поджелудочную железу",
-        "orig": "Kimi no suizo wo tabetai",
-        "alter": "",
-        "year": "2018",
-        "country": "Япония",
-        "director": "Синъитиро Усидзима",
-        "genre": "аниме,мультфильм,мелодрама,драма",
-        "actors": "Махиро Такасуги, Ринн, Юкиё Фудзии, Юма Утида, Дзюн Фукусима, Ацуко Танака, Тан Каидзи, Эми Вакуи",
-        "description": "Ученик старших классов узнает, что у его одноклассницы серьезное заболевание поджелудочной железы. Он старается проводить с девушкой больше времени, и ребята становятся очень близки.",
-        "slogan": "",
-        "premiere": "23 августа 2018",
-        "age": "0",
-        "time": "6540",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1048908.jpg",
-        "rating": {
-          "rating_kp": "7.824",
-          "vote_num_kp": "7947",
-          "rating_imdb": "8",
-          "vote_num_imdb": "9098"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "885660",
-      "date": "1584464269",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "FOX",
-      "max_qual": "1080",
-      "last_season": "2",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        }
-      },
-      "info": {
-        "rus": "Под чужим флагом",
-        "orig": "False Flag",
-        "alter": "Фальшивый флаг / Двойники / Kfulim",
-        "year": "2014",
-        "country": "Израиль",
-        "director": "Одед Рускин",
-        "genre": "триллер,драма",
-        "actors": "Анхель Бунани, Моррис Коэн, Мики Леон, Sergey Bukhman, Хана Азулай-Хасафри, Хани Фюрстенберг, Юсеф «Джо» Свейд, Йорам Толедано, Иифтах Кляйн, Lihi Kornowski",
-        "description": "В Москве похищен министр обороны Ирана, генерал Сулимани. Похищение было разработано и организовано очень опытной профессиональной командой. Подозреваемые смогли избежать ареста и покинуть страну. Однако они оставили на месте преступления множество доказательств и улик. По данным расследования и, особенно, принимая во внимание личность жертвы, ФСБ убеждёна, что похищение - дело рук израильского Моссада. Пятеро обычных израильтян - двое мужчин и три женщины - однажды утром из средств массовой информации узнают о том, что они являются главными подозреваемыми в дерзком похищении иранского министра обороны, совершённом в Москве.",
-        "slogan": "",
-        "premiere": "4 сентября 2017",
-        "age": "16",
-        "time": "2400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_885660.jpg",
-        "rating": {
-          "rating_kp": "7.343",
-          "vote_num_kp": "513",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "1211"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "216953",
-      "date": "1584459416",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Рейд на Энтеббе",
-        "orig": "Raid on Entebbe",
-        "alter": "",
-        "year": "1976",
-        "country": "США",
-        "director": "Ирвин Кершнер",
-        "genre": "боевик,история,драма",
-        "actors": "Питер Финч, Чарльз Бронсон, Яфет Котто, Мартин Болсам, Хорст Буххольц, Джон Сэксон, Джек Уорден, Сильвия Сидни, Роберт Лоджа, Тайг Эндрюс",
-        "description": "Самолет компании «Эр Франс», на борту которого находилось более 100 израильских пассажиров, захватили палестинские террористы. Посадив самолет в аэропорту Уганды, террористы начали диктовать свои требования.\r\n\r\nНо правительство Израиля не пошло на переговоры. Вместо парламентеров, в Уганду на освобождение заложников отправился отряд спецназа...",
-        "slogan": "",
-        "premiere": "26 декабря 1976",
-        "age": "0",
-        "time": "8700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_216953.jpg",
-        "rating": {
-          "rating_kp": "6.352",
-          "vote_num_kp": "287",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "3092"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "348",
-      "date": "1584459253",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Эта замечательная жизнь",
-        "orig": "It's a Wonderful Life",
-        "alter": "",
-        "year": "1947",
-        "country": "США",
-        "director": "Фрэнк Капра",
-        "genre": "фэнтези,драма,семейный",
-        "actors": "Джеймс Стюарт, Донна Рид, Лайонел Бэрримор, Томас Митчелл, Генри Треверс, Бьюла Бонди, Фрэнк Фэйлен, Уорд Бонд, Глория Грэм, Х.Б. Уорнер",
-        "description": "Джордж Бейли, владелец кредитной компании в выдуманном американском городке Бедфорд Фоллс, честный, отзывчивый, любящий муж и отец, подавлен свалившимися на него невзгодами и подумывает о самоубийстве.\r\n\r\nОчевидно, что человек, отказывающийся от самого большого дара Бога - жизни - нуждается в помощи ангела-хранителя. И Небеса отправляют ему на выручку Кларенса, единственного свободного на тот момент Ангела Второго Класса, приятного, доброго, но неопытного, еще даже не заслужившего крылья.\r\n\r\nЕсли он сделает свою работу хорошо и сможет отговорить Джорджа от смертного греха, он получит крылья. А времени у него почти не осталось... Кларенс находит единственно правильное решение - показать Джорджу мир, в котором тот не существует.",
-        "slogan": "They're going steady...straight to your heart!",
-        "premiere": "20 декабря 1946",
-        "age": "12",
-        "time": "7800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_348.jpg",
-        "rating": {
-          "rating_kp": "8.439",
-          "vote_num_kp": "54975",
-          "rating_imdb": "8.6",
-          "vote_num_imdb": "411367"
+          "vote_num_imdb": "8206"
         }
       }
     }

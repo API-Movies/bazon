@@ -2,6 +2,413 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1412877",
+      "date": "1607104809",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Успеть домой на Рождество",
+        "orig": "Dashing Home for Christmas",
+        "alter": "",
+        "year": "2020",
+        "country": "Канада",
+        "director": "Эми Форс",
+        "genre": "мелодрама",
+        "actors": "Панис Зейд,Адриан Спенсер,Peter Bou-Ghannam,Джесси Биэн,Эндрю Бушнелл,Диана Кофини,Брайан Кук,Сюзанн Кир,Элисон Маккэй,Douglas Walker",
+        "description": "Эмили пытается успеть попасть домой к праздникам, но по пути ее преследуют неудачи. В аэропорту девушка знакомится с Саймоном, который решает помочь ей добраться до дома.",
+        "slogan": "",
+        "premiere": "22 ноября 2020",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzEyZDZhMzQtYmE1YS00YmMzLTliNTktNWI3MDlkZmQzNmM0XkEyXkFqcGdeQXVyNjI4Mzg5OTg@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "27",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "203"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1076555",
+      "date": "1607097602",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Страна грёз",
+        "orig": "Dreamland",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Майлз Джорис-Пейрафит",
+        "genre": "триллер,драма",
+        "actors": "Финн Коул,Марго Робби,Трэвис Фиммел,Керри Кондон,Дэрби Кэмп,Лола Кёрк,Stephen Dinh,Тим Дженис,Пэб Швендиманн,Грэйсон Берри",
+        "description": "1930-е годы. 17-летний Юджин Эванс охотится за грабительницей банков, за чью голову обещают денежное вознаграждение, надеясь таким образом спасти семейную ферму от долгов.",
+        "slogan": "Они молоды...  Они влюблены...  И они готовы на все",
+        "premiere": "26 ноября 2020",
+        "age": "18",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1076555.jpg",
+        "rating": {
+          "rating_kp": "5.905",
+          "vote_num_kp": "2729",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "3132"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1004688",
+      "date": "1607085006",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Агент Роза: Мишень киллера",
+        "orig": "The Vibe",
+        "alter": "Мишень",
+        "year": "2019",
+        "country": "Испания",
+        "director": "Жиль Гамбино",
+        "genre": "боевик,детектив",
+        "actors": "Никола Стоянович,Наталия Альварес-Бильбао,Tiffany Carter,Лесли Чарльз,Mat Cruz,Алика Дель Сол,Jimena Gala,Жиль Гамбино,Джеймс Жиблен,Эрик Гуд",
+        "description": "Агент-киллер участвует в миссии по поиску и уничтожению опаснейшего террориста. В ходе операции ей становятся известны сведения, которые могут изменить мировую историю.",
+        "slogan": "",
+        "premiere": "7 мая 2019",
+        "age": "0",
+        "time": "5340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1004688.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "63",
+          "rating_imdb": "4",
+          "vote_num_imdb": "70"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1283862",
+      "date": "1607084107",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Манк",
+        "orig": "Mank",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Дэвид Финчер",
+        "genre": "драма,комедия,биография",
+        "actors": "Гари Олдман,Аманда Сайфред,Лили Коллинз,Том Пелфри,Арлисс Ховард,Таппенс Мидлтон,Моника Госсманн,Джозеф Кросс,Сэм Тротон,Тоби Леонард Мур",
+        "description": "История насыщенной жизни и алкоголизма знаменитого голливудского сценариста, критика и журналиста Хермана Манкевича.",
+        "slogan": "",
+        "premiere": "13 ноября 2020",
+        "age": "16",
+        "time": "7860",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1283862.jpg",
+        "rating": {
+          "rating_kp": "7.143",
+          "vote_num_kp": "11235",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "57867"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "857827",
+      "date": "1607084107",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Запятнанный",
+        "orig": "Tainted",
+        "alter": "",
+        "year": "2020",
+        "country": "Канада",
+        "director": "Брент Коте",
+        "genre": "триллер,драма,криминал",
+        "actors": "Джон Рис-Дэвис,Шон Робертс,Сара Вайсгласс,Алан Ван Спрэнг,Аарон Пул,Джон Ралстон,Лина Росслер,Алан С. Петерсон,Джейк Майклс,Markjan Winnick",
+        "description": "Бывший заключенный Лэнс, ранее связанный с русской мафией и Арийским Братством, отсидев 15 лет в тюрьме, жаждет спокойной жизни, которой у него никогда не было. И все его планы рушатся, когда члены русской мафии нанимают его для выполнения последнего задания, пообещав взамен денежное вознаграждение и полную свободу.",
+        "slogan": "Some men run from their dark past. Others face it head on",
+        "premiere": "",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmI5MDk3M2EtNmJlMS00NjMzLWE2MjYtMGIzY2UwYTBhNzc1XkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "98",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "290"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1241700",
+      "date": "1607084107",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мертвые члены",
+        "orig": "Dead Dicks",
+        "alter": "",
+        "year": "2019",
+        "country": "Канада",
+        "director": "Chris Bavota,Lee Paula Springer",
+        "genre": "ужасы",
+        "actors": "Хестон Хорвин,Jillian Harris,Мэтт Кийес,Kristina Sandev,Лейда Алейли,Dave Campbell",
+        "description": "Старший брат Бекки, начинающего врача, психически нездоров, поэтому когда девушка получает от него серию панических сообщений, то незамедлительно мчит на помощь. В полуразрушенной квартире ее встречает Ричи — вместе с грудой своих же трупов-двойников: при успешных попытках самоубийства Ричи почему-то каждый раз выживает, оставляя в доме кучу мертвых доппельгангеров. Как и почему происходит перерождение, героям предстоит узнать самостоятельно.",
+        "slogan": "",
+        "premiere": "25 июля 2019",
+        "age": "0",
+        "time": "4980",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1241700.jpg",
+        "rating": {
+          "rating_kp": "5.039",
+          "vote_num_kp": "792",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "831"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1330171",
+      "date": "1607078824",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Green Tea",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "16",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720,
+          "14": 720,
+          "15": 480,
+          "16": 480
+        }
+      },
+      "info": {
+        "rus": "История девятихвостого лиса",
+        "orig": "Gumihodyeon",
+        "alter": "",
+        "year": "2020",
+        "country": "Корея Южная",
+        "director": "Кан Щин-хё",
+        "genre": "фэнтези,мелодрама",
+        "actors": "Ли Дон-ук,Чо Бо-а,Ким Бом,Ким Ён-джи,Ким Хи-джон,Чон Щи-юль,Хван Хи,Ким Джон-нан,Ан Гиль-ган,Чан Вон-хён",
+        "description": "Ли Ён — божество, живущее в горах, которое принимает человеческий облик, чтобы навести порядок в мире людей. А вот его сводный брат Ли Ран — кумихо, который людей ненавидит. Именно на них выходит продюсер экстремального шоу Нам Джи-а. Она давно охотится за девятихвостым лисом, чтобы заснять его для одного из выпусков.",
+        "slogan": "",
+        "premiere": "7 октября 2020",
+        "age": "0",
+        "time": "4200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1330171.jpg",
+        "rating": {
+          "rating_kp": "7.846",
+          "vote_num_kp": "2951",
+          "rating_imdb": "7.9",
+          "vote_num_imdb": "1834"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1444505",
+      "date": "1607071505",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Рождественский смычок",
+        "orig": "The Christmas Bow",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Клэр Нидерпрюэм",
+        "genre": "семейный",
+        "actors": "Люсия Микарелли,Майкл Рэди,Джеймс Саито,Эшли Кэмпбелл,Джил Канеширо,Тим Трелфал,Нат Бинум,Annette Ciavarella,Кеннет Камминс,Joy Perry",
+        "description": "Когда несчастный случай ставит карьеру талантливой скрипачки на паузу, она воссоединяется с другом детства, который помогает ей исцелиться и обрести любовь.",
+        "slogan": "",
+        "premiere": "8 ноября 2020",
+        "age": "0",
+        "time": "4980",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGQwN2I3YjctODUyYi00M2RlLTg1YzEtMTZjYTJmODYwMzc0XkEyXkFqcGdeQXVyODU3NzkyMDM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "17",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "662"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "516",
+      "date": "1607063865",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Бонни и Клайд",
+        "orig": "Bonnie and Clyde",
+        "alter": "",
+        "year": "1967",
+        "country": "США",
+        "director": "Артур Пенн",
+        "genre": "боевик,драма,криминал",
+        "actors": "Уоррен Битти, Фэй Данауэй, Майкл Дж. Поллард, Джин Хэкмен, Эстелл Парсонс, Денвер Пайл, Даб Тейлор, Эванс Эванс, Джин Уайлдер, Марта Эдкок",
+        "description": "Молодые и отчаянные любовники Бонни и Клайд легко и изящно грабят банки в 30-е годы XX века. Но их романтизм и «робингудство» довольно быстро перерастают в лужи и реки крови, в хаос и грязь смерти, а судьба пророчит им неудачу...",
+        "slogan": "A brilliantly made, groundbreaking film that chronicles the short lives of America's most infamous criminals",
+        "premiere": "4 августа 1967",
+        "age": "16",
+        "time": "6660",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_516.jpg",
+        "rating": {
+          "rating_kp": "7.726",
+          "vote_num_kp": "22125",
+          "rating_imdb": "7.8",
+          "vote_num_imdb": "103933"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1448683",
+      "date": "1607062508",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Рождественский дом",
+        "orig": "The Christmas House",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Майкл Гроссман",
+        "genre": "драма,мелодрама",
+        "actors": "Ана Айора,Роберт Бакли,Джонатан Беннетт,Шэрон Лоуренс,Трит Уильямс,Брэд Хардер,Айянна Миорин,Mattia Castrillo,Celeste «Coco» Conn",
+        "description": "Находясь в трудной ситуации, родители двух взрослых сыновей созывают семью домой, чтобы устроить в последний раз легендарное Рождество семьи Митчеллов.",
+        "slogan": "",
+        "premiere": "22 ноября 2020",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTE2MGI0OTAtNWNjOS00NjE0LWJkZmQtNGVhODZhN2M3MzAwXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "40",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4554",
+      "date": "1607049877",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Блэйд",
+        "orig": "Blade",
+        "alter": "",
+        "year": "1998",
+        "country": "США",
+        "director": "Стивен Норрингтон",
+        "genre": "боевик,ужасы,фэнтези",
+        "actors": "Уэсли Снайпс, Стивен Дорфф, Крис Кристофферсон, Н’Буш Райт, Донал Лог, Удо Кир, Арли Жовер, Трейси Лордс, Кевин Патрик Уоллс, Тим Гини",
+        "description": "Получеловек-полувампир Блэйд намерен уничтожить виновника своей судьбы - Дьякона Фроста. Когда-то в кровь Блэйда попало совсем немного вампирского яда, но с течением времени он стал ощущать неизбежность своего превращения.\r\n\r\nЖелая избавить людей от тайной и могущественной армии вампиров, заполонившей общество, он отправляется на решающий бой...",
+        "slogan": "Вампирам не место на Земле",
+        "premiere": "19 августа 1998",
+        "age": "18",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4554.jpg",
+        "rating": {
+          "rating_kp": "7.297",
+          "vote_num_kp": "107273",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "248873"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "77164",
       "date": "1607044651",
       "camrip": "0",
@@ -712,9 +1119,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77164.jpg",
         "rating": {
           "rating_kp": "8.403",
-          "vote_num_kp": "173399",
+          "vote_num_kp": "173569",
           "rating_imdb": "8.6",
-          "vote_num_imdb": "369927"
+          "vote_num_imdb": "370005"
         }
       }
     },
@@ -936,7 +1343,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1431130.jpg",
         "rating": {
           "rating_kp": "7.022",
-          "vote_num_kp": "2537",
+          "vote_num_kp": "2540",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -971,9 +1378,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3498.jpg",
         "rating": {
           "rating_kp": "8.632",
-          "vote_num_kp": "456407",
+          "vote_num_kp": "456700",
           "rating_imdb": "8.9",
-          "vote_num_imdb": "1666859"
+          "vote_num_imdb": "1667124"
         }
       }
     },
@@ -1075,8 +1482,8 @@
         "time": "6720",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1242705.jpg",
         "rating": {
-          "rating_kp": "5.762",
-          "vote_num_kp": "6197",
+          "rating_kp": "5.758",
+          "vote_num_kp": "6204",
           "rating_imdb": "5.3",
           "vote_num_imdb": "83"
         }
@@ -1240,9 +1647,9 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BYTRlZmRkYjYtN2ZjZi00MDBiLThmMjgtZDViZjI2NWM4MGZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@.jpg",
         "rating": {
           "rating_kp": "7.043",
-          "vote_num_kp": "3390",
+          "vote_num_kp": "3395",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "5677"
+          "vote_num_imdb": "5685"
         }
       }
     },
@@ -1275,9 +1682,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_312.jpg",
         "rating": {
           "rating_kp": "8.576",
-          "vote_num_kp": "437012",
+          "vote_num_kp": "437338",
           "rating_imdb": "8.7",
-          "vote_num_imdb": "1507343"
+          "vote_num_imdb": "1507589"
         }
       }
     },
@@ -1309,8 +1716,8 @@
         "time": "5280",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_32838.jpg",
         "rating": {
-          "rating_kp": "6.772",
-          "vote_num_kp": "7420",
+          "rating_kp": "6.773",
+          "vote_num_kp": "7421",
           "rating_imdb": "6.1",
           "vote_num_imdb": "52160"
         }
@@ -1344,10 +1751,10 @@
         "time": "4500",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_475307.jpg",
         "rating": {
-          "rating_kp": "7.024",
-          "vote_num_kp": "5694",
+          "rating_kp": "7.026",
+          "vote_num_kp": "5807",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "24816"
+          "vote_num_imdb": "24822"
         }
       }
     },
@@ -1572,8 +1979,8 @@
         "time": "3000",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1049069.jpg",
         "rating": {
-          "rating_kp": "6.369",
-          "vote_num_kp": "1127",
+          "rating_kp": "6.368",
+          "vote_num_kp": "1128",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1608,9 +2015,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_328.jpg",
         "rating": {
           "rating_kp": "8.579",
-          "vote_num_kp": "479350",
+          "vote_num_kp": "479707",
           "rating_imdb": "8.8",
-          "vote_num_imdb": "1687250"
+          "vote_num_imdb": "1687548"
         }
       }
     },
@@ -1713,7 +2120,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_588788.jpg",
         "rating": {
           "rating_kp": "6.083",
-          "vote_num_kp": "711",
+          "vote_num_kp": "712",
           "rating_imdb": "6.5",
           "vote_num_imdb": "8772"
         }
@@ -1783,7 +2190,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_397584.jpg",
         "rating": {
           "rating_kp": "6.11",
-          "vote_num_kp": "6539",
+          "vote_num_kp": "6540",
           "rating_imdb": "6.4",
           "vote_num_imdb": "63240"
         }
@@ -1981,7 +2388,7 @@
           "rating_kp": "6.787",
           "vote_num_kp": "48606",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "66325"
+          "vote_num_imdb": "66337"
         }
       }
     },
@@ -2157,391 +2564,6 @@
           "vote_num_kp": "426",
           "rating_imdb": "4.7",
           "vote_num_imdb": "1183"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1113696",
-      "date": "1606976119",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Марго и Марго",
-        "orig": "La belle et la belle",
-        "alter": "",
-        "year": "2018",
-        "country": "Франция",
-        "director": "Софи Фийер",
-        "genre": "комедия",
-        "actors": "Сандрин Киберлэн,Агат Боницер,Мельвиль Пупо,Люси Деклозо,Лоран Бато,Тео Шольби,Антони Палиотти,Флоранс Мюллер,Орели Дюпон,Брижит Роюан",
-        "description": "Сорокапятилетняя Марго — профессор истории и географии, живет в Лионе. Ее жизнь выверена и идеально распланирована. Однажды на вечеринке она знакомится с двадцатилетней тезкой. Юная Марго — студентка, которая предпочитает вечеринки и встречи с парнями учебе. Внезапно Марго-старшая понимает, что ее новая знакомая — это она сама в 20 лет. Эта случайная встреча со своим прошлым полностью меняет жизнь героини.",
-        "slogan": "",
-        "premiere": "14 марта 2018",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1113696.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "46",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "312"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1211790",
-      "date": "1606976113",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Создай меня",
-        "orig": "Make Me Up",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания",
-        "director": "Рэйчел Маклин",
-        "genre": "комедия",
-        "actors": "Рэйчел Маклин,Christina Gordon,Colette Dalal Tchantcho,Кирсти Стрэйн,Alice Zhang,Jenny Douglas,Sanaa Zaheed,Cressentia Masuku,Мойо Аканде,Catriona McFarlane",
-        "description": "Сири попадает в игровое женское шоу, которое происходит в конфетном розовом доме мечты, но по факту оказывается строгой тюрьмой под руководством тиранической ведущей. Сири и ее сокамерницам предлагается бороться за выживание. Вынужденные выполнять унизительные задания, вскоре героини начинают нарушать правила игры.",
-        "slogan": "Journey among women",
-        "premiere": "14 июля 2019",
-        "age": "0",
-        "time": "5040",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1211790.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "17",
-          "rating_imdb": "6",
-          "vote_num_imdb": "86"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "585585",
-      "date": "1606962924",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Дедушка легкого поведения",
-        "orig": "Dirty Grandpa",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Дэн Мазер",
-        "genre": "комедия",
-        "actors": "Роберт Де Ниро, Зак Эфрон, Зои Дойч, Обри Плаза, Джейсон Манцукас, Дермот Малруни, Джулианна Хаф, Джеффри Бауэр-Чепман, Брэндон Майкал Смит, Джейк Пикинг",
-        "description": "Джейсон, покладистый правильный парень, накануне свадьбы вляпывается в увеселительную поездку к морю со своим дедом, отставным генералом с легким нравом, бурной фантазией и вполне определенными потребностями... И, похоже, дедские каникулы изменят жизнь Джейсона навсегда!",
-        "slogan": "This is Jason. He's a little worried about his grandpa",
-        "premiere": "20 января 2016",
-        "age": "18",
-        "time": "6120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_585585.jpg",
-        "rating": {
-          "rating_kp": "6.054",
-          "vote_num_kp": "74776",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "115245"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1142566",
-      "date": "1606959020",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Кот под прикрытием",
-        "orig": "Spycies",
-        "alter": "",
-        "year": "2019",
-        "country": "Китай,Франция",
-        "director": "Гийом Ивернель,Чжан Чжии",
-        "genre": "мультфильм,приключения",
-        "actors": "Карен Страссман,Месье Пуп,Дави Мурье",
-        "description": "Два полицейских спецагента должны раскрыть дело о похищении секретного минерала. Проблема в том, что каждый из них привык работать исключительно своими, отличными от напарника, методами. Да и сами они, мягко говоря, совсем не похожи друг на друга.",
-        "slogan": "Миссия выполнима!",
-        "premiere": "14 июня 2019",
-        "age": "6",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1142566.jpg",
-        "rating": {
-          "rating_kp": "6.004",
-          "vote_num_kp": "8142",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "643"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1234103",
-      "date": "1606957208",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Сам напросился",
-        "orig": "Asking for It",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Amanda Lundquist,Becky Scott",
-        "genre": "комедия",
-        "actors": "Colin Burgess,Джанин Гарофало,Hallie Haas,Стефани Хсю,Ребекка Карповски,Мария Кинг,Дэвид Крамхолц,Adrien Le Ray,Ирен Моралес,Kim Taff",
-        "description": "Хотя журналистке Дженни угрожает интернет сталкер, помощи от полиции не дождаться. Вместе со своей соседкой по квартире Лизой она берёт правосудие в свои руки.",
-        "slogan": "",
-        "premiere": "7 марта 2020",
-        "age": "0",
-        "time": "4860",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTY2OWI0ZDYtNjhjZS00NDhmLWEzZjYtNzA5ODY2MDAwNTUzXkEyXkFqcGdeQXVyNTI5MDA3ODY@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "84"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "10023",
-      "date": "1606952597",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Золото Маккены",
-        "orig": "Mackenna's Gold",
-        "alter": "Золото Маккенны",
-        "year": "1968",
-        "country": "США",
-        "director": "Дж. Ли Томпсон",
-        "genre": "мелодрама,вестерн,приключения",
-        "actors": "Грегори Пек, Омар Шариф, Телли Савалас, Камилла Спарв, Кинен Уинн, Джули Ньюмар, Тед Кэссиди, Ли Дж. Кобб, Рэймонд Мэсси, Бёрджесс Мередит",
-        "description": "Благодаря случайным обстоятельствам шериф Маккена узнаёт о том, где спрятано золото древнего индейского племени. В качестве «живой карты» он становится заложником бандита Колорадо, который мечтает найти каньон «дьявольское наваждение»... К группе головорезов примыкают всё новые и новые охотники за богатством, но далеко не всем суждено будет добраться до цели. Тем более - вернуться живыми, ведь на пути к заветной цели их ждёт неизвестность...",
-        "slogan": "A GIANT OF A MOVIE",
-        "premiere": "18 марта 1969",
-        "age": "12",
-        "time": "7680",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_10023.jpg",
-        "rating": {
-          "rating_kp": "7.743",
-          "vote_num_kp": "11325",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "8047"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "450",
-      "date": "1606951199",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дикая банда",
-        "orig": "The Wild Bunch",
-        "alter": "Кровавая банда",
-        "year": "1969",
-        "country": "США, Мексика",
-        "director": "Сэм Пекинпа",
-        "genre": "боевик,вестерн,приключения",
-        "actors": "Уильям Холден, Эрнест Боргнайн, Роберт Райан, Эдмонд О’Брайен, Уоррен Оутс, Хайме Санчес, Бен Джонсон, Эмилио Фернандес, Стразер Мартин, Л. К. Джонс",
-        "description": "Год 1913-й. Мир на грани Первой мировой, и давно состарившийся Дикий Запад ощущает себя уходящей натурой. Вместе с ним на покой собралась шайка грабителей, «дикая банда», шестеро ловцов удачи, слишком старых для дерзких налетов. Но они готовы еще тряхнуть стариной, и на излете легендарной карьеры порох в пороховницах этих бандолерос обернется последней кровавой бойней...",
-        "slogan": "Born too late for their own times. Uncommonly significant for ours",
-        "premiere": "18 июня 1969",
-        "age": "16",
-        "time": "8100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_450.jpg",
-        "rating": {
-          "rating_kp": "7.714",
-          "vote_num_kp": "6240",
-          "rating_imdb": "7.9",
-          "vote_num_imdb": "78203"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "13654",
-      "date": "1606940113",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Дубляж",
-      "max_qual": "480",
-      "info": {
-        "rus": "Ангелочек 3: Последняя глава",
-        "orig": "Angel III: The Final Chapter",
-        "alter": "",
-        "year": "1988",
-        "country": "США",
-        "director": "Том ДеСимоне",
-        "genre": "боевик,драма,криминал",
-        "actors": "Митци Кэптчер,Марк Блэнкфилд,Emile Beaucard,Мод Эдамс,Кин Шрайнер,Тони Фере,С.А. Гриффин,Ричард Раундтри,Анна Наварро,Сьюзэн Мур",
-        "description": "Молли Стюарт встречает на выставке в Нью-Йорке женщину, которая кажется ей странно знакомой. Позже она узнаёт, что это её мать, но воссоединения семьи не происходит - женщина вскоре погибает при взрыве, успев сообщить Молли, что у той есть сестра, и она в большой опасности.",
-        "slogan": "Angel spent years making men happy.  Now it&#x27;s time to make them pay",
-        "premiere": "10 ноября 1988",
-        "age": "0",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_13654.jpg",
-        "rating": {
-          "rating_kp": "4.529",
-          "vote_num_kp": "94",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "620"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "28462",
-      "date": "1606940108",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Ангелочек-мстительница",
-        "orig": "Avenging Angel",
-        "alter": "Месть ангела",
-        "year": "1985",
-        "country": "США",
-        "director": "Роберт Винсент О’Нил",
-        "genre": "боевик,триллер,криминал",
-        "actors": "Бетси Расселл,Рори Кэлхун,Сьюзен Тайррелл,Осси Дэвис,Роберт Ф. Лайонс,Стивен М. Портер,Пол Ламберт,Бэрри Перл,Эсте Чэндлер,Тим Россович",
-        "description": "Бывшая малолетняя проститутка Молли Стюарт узнает, что убит лейтенант Эндрюс, который помог ей покончить с уличной жизнью. Она бросает устроенную жизнь и учёбу в колледже,  чтобы вернуться на бульвар Голливуд и отомстить за его смерть.",
-        "slogan": "She came from the streets of Hollywood...and now she's going back to the 'boulevard' with a vengeance!",
-        "premiere": "11 января 1985",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_28462.jpg",
-        "rating": {
-          "rating_kp": "4.983",
-          "vote_num_kp": "143",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "1334"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1400651",
-      "date": "1606939209",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Обещание Санты",
-        "orig": "Santa's Promise",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Билл МакАдамс мл.",
-        "genre": "мелодрама",
-        "actors": "Дженни МакМанус,Дэниэл Бритт,Уилльям Кросс,Katie Mitchell,Josh Katawick",
-        "description": "Лёжа на смертном одре, богатый дядюшка просит Ника выполнить его последнюю волю - раздать всё его состояние нуждающимся, не прикарманив себе ни цента. Ник соглашается выполнить его просьбу, хотя сам только вышел из тюрьмы и отчаянно хочет снова встать на ноги. Однако после смерти дяди на его наследство находятся желающие в лице злобного братца Ника.",
-        "slogan": "Giving Away A Fortune Has Never Been This Hard",
-        "premiere": "1 декабря 2020",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://m.media-amazon.com/images/M/MV5BODczYzdjZDctZTVjOS00NDc2LWI5NWEtMTIzNThjODM1ODM1XkEyXkFqcGdeQXVyMjEzNjY0NTg@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "20"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "195827",
-      "date": "1606939205",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Выход",
-        "orig": "Exit",
-        "alter": "",
-        "year": "2006",
-        "country": "Швеция",
-        "director": "Петер Линдмарк",
-        "genre": "триллер,драма,детектив",
-        "actors": "Мадс Миккельсен,Александр Скарсгард,Самуэль Фрёлер,Кирсти Элине Торхауг,Бёрье Альстедт,Кристина Тернквист,Йохан Рабеус,Иа Лангхаммер,Хенрик Норлен,Джоанна Диксон",
-        "description": "Томас Скепхулт - человек, который имеет все, - он создал целое состояние с его компанией венчурного капитала, он имеет фантастическую виллу, где он живет со своей семьей, которая любит его. Но все меняется, когда коллега Томаса и его партнер по компании, найден зверски убитым в своей квартире. В контракте говорится, что, когда умирает один из владельцев компании, другой получает 2 миллиона крон. На орудии убийства найдены отпечатки Томаса. Сумеет ли он доказать свою невиновность? Или не так уж он невиновен?",
-        "slogan": "There is a thin line between money and loyalty",
-        "premiere": "26 сентября 2006",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_195827.jpg",
-        "rating": {
-          "rating_kp": "5.908",
-          "vote_num_kp": "518",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "1904"
         }
       }
     }

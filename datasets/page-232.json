@@ -2,6 +2,356 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1332365",
+      "date": "1593541813",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Разоблачение",
+        "orig": "Disclosure",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Chris English",
+        "genre": "короткометражка",
+        "actors": "A'Cora Berry,Trevia Hardiman,Rock David Pro,Juliet S.,Lisa Williford",
+        "description": "Когда 4-летняя дочь богатого писателя выдвигает обвинение против сына видного политика, который является их другом семьи, родители сначала пытаются разрешить ситуацию мирным путём. Однако, из-за нежелания обеих сторон признавать вину своего ребёнка, ситуация начинает выходить из под контроля и скатывается в полномасштабную конфронтацию.",
+        "slogan": "",
+        "premiere": "15 февраля 2020",
+        "age": "0",
+        "time": "300",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTk1MzczM2YtZmJmOC00NWQzLWJkNTAtYTI3YzE3ODcyMTI0XkEyXkFqcGdeQXVyMzAyMzE2MzM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "959554",
+      "date": "1593538202",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Проклятые. Противостояние",
+        "orig": "Sadako vs. Kayako",
+        "alter": "Sadako v Kayako",
+        "year": "2016",
+        "country": "Япония",
+        "director": "Кодзи Сираиси",
+        "genre": "ужасы",
+        "actors": "Мидзуки Ямамото, Тина Тамасиро, Аими Сацукава, Мисато Танака, Масахиро Комото, Масанобу Андо, Итируко Домэн, Руна Эндо, Маико Кикути, Масаёси Мацусима",
+        "description": "После просмотра странной видеозаписи над двумя девушками нависает проклятье. Чтобы избавиться от него, они отправляются в заброшенный дом. Подруги провоцируют столкновение двух смертоносных демонов и становятся свидетелями их эпической схватки.",
+        "slogan": "'ЗВОНОК' против 'ПРОКЛЯТИЯ'",
+        "premiere": "18 июня 2016",
+        "age": "16",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_959554.jpg",
+        "rating": {
+          "rating_kp": "4.271",
+          "vote_num_kp": "3809",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "2945"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "409360",
+      "date": "1593523838",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Окровавленные холмы",
+        "orig": "The Hills Run Red",
+        "alter": "",
+        "year": "2009",
+        "country": "США",
+        "director": "Дэйв Паркер",
+        "genre": "ужасы",
+        "actors": "Софи Монк, Тэд Хилдженбринк, Уильям Сэдлер, Джанет Монтгомери, Алекс Уиндэм, Ивэн Бэйли, Данко Йорданов, Майк Страуб, Христо Митцков, Георгий Дмитров",
+        "description": "Фанат кино жанра слэшер одержим поиском редкого фильма. Поиски приводят его к двум друзьям, живущим в лесу, снявшим этот фильм. Герой слишком поздно понимает, что фильм, оказывается, снят не до конца и ему самому предстоит стать его частью...",
+        "slogan": "Trespassers will be slaughtered...",
+        "premiere": "12 июня 2009",
+        "age": "18",
+        "time": "4860",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_409360.jpg",
+        "rating": {
+          "rating_kp": "5.129",
+          "vote_num_kp": "2210",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "9522"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1045138",
+      "date": "1593523836",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Овод",
+        "orig": "Soepari",
+        "alter": "",
+        "year": "2017",
+        "country": "Корея Южная",
+        "director": "Ан Чхоль-хо",
+        "genre": "драма,криминал",
+        "actors": "Ким Джин-у,Ли Ён-ду,Чон Ин-ги,Ким Хи-джон,Ко Ын-и,Ким Ён-хан,Кан Дэ-юн,Ли Хван,Ю Сан-хун",
+        "description": "Жизнь Хэ-ука течёт просто и счастливо: молодой человек служит госчиновником в районном офисе, планирует свадьбу с прекрасной Су-гён. Но всё меняется, когда его отец и сестра становятся жертвами некоей компании и теряют все свои сбережения. Тут же появляются ложные новости о смерти главы компании. Одержимый желанием разобраться в деле Хэ-ук отправляется во Вьетнам &#151; именно там, по слухам, скрывается тот, кто разрушил благополучие его семьи.",
+        "slogan": "",
+        "premiere": "25 мая 2017",
+        "age": "0",
+        "time": "6660",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045138.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1371992",
+      "date": "1593523829",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Меня зовут По-ри",
+        "orig": "Naneun Bo-ri",
+        "alter": "",
+        "year": "2020",
+        "country": "Корея Южная",
+        "director": "-",
+        "genre": "драма,семейный",
+        "actors": "Квак Чин-сок,Чхве Дэ-сон,Инан",
+        "description": "11-летняя По-ри живёт в приморской деревушке с папой, мамой и младшим братом. Она &#151; единственная в семье, кто может слышать.",
+        "slogan": "",
+        "premiere": "21 мая 2020",
+        "age": "0",
+        "time": "6600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1371992.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "20",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "840163",
+      "date": "1593523825",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Идеальный четырнадцатый",
+        "orig": "A Perfect 14",
+        "alter": "",
+        "year": "2018",
+        "country": "Канада",
+        "director": "Giovanna Morales Vargas",
+        "genre": "документальный",
+        "actors": "Elly Mayday,Laura Wells,Kerosene Deluxe,Laura Agudelo,Hanna Amar,Muriel Amar,Jihan Amer,Linda Bacon,Denise Bidot,Джессика Биффи",
+        "description": "Фильм исследует мир моды plus-size, в котором женщины борются за трансформацию модных тенденций, перекраивая социальные стандарты.",
+        "slogan": "A film about women reshaping the world",
+        "premiere": "22 сентября 2018",
+        "age": "0",
+        "time": "6300",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_840163.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "21",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "768"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1315023",
+      "date": "1593523821",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Гуадалупе-Рейес",
+        "orig": "Guadalupe Reyes",
+        "alter": "",
+        "year": "2019",
+        "country": "Мексика",
+        "director": "Salvador Espinosa",
+        "genre": "комедия",
+        "actors": "Тато Александер,Мартин Альтомаро,Арап Бетке,Fernando Canek,Хуан Карлос Коломбо,Мария де ла Фуэнте,Roberto Duarte,Маурицио Исаак,Хуан Пабло Медина,Офелия Медина",
+        "description": "Спустя десять лет два друга снова встречаются, чтобы пройти \"Гуадалупе-Рейес\". За время марафона они переживут разные приключения и невзгоды, которые проверят их дружбу.",
+        "slogan": "",
+        "premiere": "29 ноября 2019",
+        "age": "0",
+        "time": "5460",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODU0NDUwODktMTkxNi00MGQ2LTllNWYtMjUyMTJkOGM2YjI2XkEyXkFqcGdeQXVyMTg4NzAwNTM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "9",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "375"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "59968",
+      "date": "1593522013",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Королевский бродяга 2",
+        "orig": "Luk ting kei II: San lung gau",
+        "alter": "",
+        "year": "1992",
+        "country": "Гонконг",
+        "director": "Вон Цзин",
+        "genre": "боевик,комедия",
+        "actors": "Стивен Чоу,Бриджит Линь,Чингми Яу,Мишель Райс,Сандра Нг,Фенние Юэнь,Вивиан Чан,Хелен Ма,Чань Пак-Чун,Дэмиэн Лау",
+        "description": "Оболтус и прощелыга Уилсон Бонд попадает в сложное положение, получая неожиданно для себя боевую силу кунг-фу. Ему приходится обучаться владению силой, чтобы противостоять сильным противникам&#133;",
+        "slogan": "",
+        "premiere": "24 сентября 1992",
+        "age": "16",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_59968.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "46",
+          "rating_imdb": "7",
+          "vote_num_imdb": "2418"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "25139",
+      "date": "1593522008",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Роза Люксембург",
+        "orig": "Rosa Luxemburg",
+        "alter": "",
+        "year": "1985",
+        "country": "Германия (ФРГ),Чехословакия",
+        "director": "Маргарете фон Тротта",
+        "genre": "драма,военный,биография,история",
+        "actors": "Барбара Зукова,Даниэль Ольбрыхский,Отто Зандер,Адельхайд Арндт,Юрген Хольц,Дорис Шаде,Ханнес Енике,Ян Бичицкий,Карин Бааль,Винфрид Глатцедер",
+        "description": "Биографический фильм о выдающейся деятельнице социал-демократической партии, женщине драматической судьбы &#151; Розе Люксембург.",
+        "slogan": "",
+        "premiere": "10 апреля 1986",
+        "age": "0",
+        "time": "7380",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_25139.jpg",
+        "rating": {
+          "rating_kp": "7.065",
+          "vote_num_kp": "228",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "1402"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "6257",
+      "date": "1593522006",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Вторжение похитителей тел",
+        "orig": "Invasion of the Body Snatchers",
+        "alter": "",
+        "year": "1978",
+        "country": "США",
+        "director": "Филип Кауфман",
+        "genre": "ужасы,фантастика",
+        "actors": "Дональд Сазерленд,Брук Эдамс,Джефф Голдблюм,Вероника Картрайт,Леонард Нимой,Арт Хиндл,Лилия Гольдони,Кевин МакКарти,Дон Сигел,Том Ладди",
+        "description": "Сан-Франциско, 1970-е годы. После сильного ливня по всему городу распускаются загадочные цветы. Биолог Элизабет Дрисколл приносит один из них домой. И вскоре замечает, что ее приятель Джеффри странно себя ведет. Элизабет обращается за советом к своему другу Метью Бэннэллу, и с удивлением узнает, что она не единственная, кто столкнулся с такой проблемой. Похоже, что очень многие в городе начинают совершать несвойственные им поступки.",
+        "slogan": "Get some sleep",
+        "premiere": "21 декабря 1978",
+        "age": "18",
+        "time": "6900",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6257.jpg",
+        "rating": {
+          "rating_kp": "6.942",
+          "vote_num_kp": "3683",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "54063"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "260899",
       "date": "1593504392",
       "camrip": "0",
@@ -64,7 +414,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77040.jpg",
         "rating": {
           "rating_kp": "7.266",
-          "vote_num_kp": "25846",
+          "vote_num_kp": "25852",
           "rating_imdb": "6.5",
           "vote_num_imdb": "37774"
         }
@@ -168,8 +518,8 @@
         "time": "6000",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_464183.jpg",
         "rating": {
-          "rating_kp": "7.352",
-          "vote_num_kp": "2198",
+          "rating_kp": "7.353",
+          "vote_num_kp": "2199",
           "rating_imdb": "7.2",
           "vote_num_imdb": "3217"
         }
@@ -239,7 +589,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_712533.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "77",
+          "vote_num_kp": "78",
           "rating_imdb": "5.3",
           "vote_num_imdb": "256"
         }
@@ -344,9 +694,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1048915.jpg",
         "rating": {
           "rating_kp": "7.141",
-          "vote_num_kp": "4612",
+          "vote_num_kp": "4615",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "7608"
+          "vote_num_imdb": "7618"
         }
       }
     },
@@ -379,7 +729,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_819087.jpg",
         "rating": {
           "rating_kp": "7.249",
-          "vote_num_kp": "2991",
+          "vote_num_kp": "2992",
           "rating_imdb": "7.3",
           "vote_num_imdb": "7042"
         }
@@ -484,9 +834,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_841311.jpg",
         "rating": {
           "rating_kp": "6.359",
-          "vote_num_kp": "18870",
+          "vote_num_kp": "18873",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "17368"
+          "vote_num_imdb": "17371"
         }
       }
     },
@@ -554,9 +904,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1252968.jpg",
         "rating": {
           "rating_kp": "7.552",
-          "vote_num_kp": "3112",
+          "vote_num_kp": "3115",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "96"
+          "vote_num_imdb": "98"
         }
       }
     },
@@ -834,9 +1184,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_504288.jpg",
         "rating": {
           "rating_kp": "6.02",
-          "vote_num_kp": "21676",
+          "vote_num_kp": "21680",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "108013"
+          "vote_num_imdb": "108023"
         }
       }
     },
@@ -971,7 +1321,7 @@
           "rating_kp": "5.84",
           "vote_num_kp": "951",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "654"
+          "vote_num_imdb": "660"
         }
       }
     },
@@ -1385,7 +1735,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_694393.jpg",
         "rating": {
           "rating_kp": "7.084",
-          "vote_num_kp": "5801",
+          "vote_num_kp": "5804",
           "rating_imdb": "7.6",
           "vote_num_imdb": "24396"
         }
@@ -1445,7 +1795,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1118176.jpg",
         "rating": {
           "rating_kp": "7.482",
-          "vote_num_kp": "8241",
+          "vote_num_kp": "8242",
           "rating_imdb": "7",
           "vote_num_imdb": "183"
         }
@@ -1483,382 +1833,6 @@
           "vote_num_kp": "271",
           "rating_imdb": "5.9",
           "vote_num_imdb": "9723"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "911345",
-      "date": "1593416284",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Прах Бездомного",
-        "orig": "Homeless Ashes",
-        "alter": "",
-        "year": "2019",
-        "country": "Великобритания",
-        "director": "Марк Заммит",
-        "genre": "драма",
-        "actors": "Джейсон Флеминг,Эндрю Ли Поттс,Лью Темпл,Анджела Диксон,Джессика Джейн Клемент,Мадалина Беллариу Ион,Мария Хауэлл,Марк Заммит,Кирсти Дж. Кёртис,Hector Bateman-Harden",
-        "description": "Мальчик Фрэнки, попав в безвыходную ситуацию, решается сбежать из дома и оказывается на улице. Теперь у него нет иного выбора, кроме как выживать всеми силами.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "7020",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZDgzZjgxMWQtYzBhYy00ODZiLWFjZmUtNzE3MTIxMTdkZjE1XkEyXkFqcGdeQXVyMjQ5NDUxODQ@._V1_SY1000_CR0,0,707,1000_AL_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "12",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "619"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1281157",
-      "date": "1593416159",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Курс на экологичность",
-        "orig": "And We Go Green",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Фишер Стивенс,Малькольм Венвилль",
-        "genre": "документальный,спорт",
-        "actors": "Sam Bird,Леонардо ДиКаприо,Нельсон Пике мл.,Жан-Эрик Вернь",
-        "description": "Документальный фильм о гонщиках Формулы Е - как Формула 1, но на экологичекси чистых электромобилях - борьба за звание чемпиона и гонки в десяти городах.",
-        "slogan": "",
-        "premiere": "23 мая 2019",
-        "age": "0",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1281157.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "19",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "165"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1232380",
-      "date": "1593373509",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Фасад",
-        "orig": "Facade",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Dakota Gamble",
-        "genre": "триллер",
-        "actors": "Пол Логан,Грегори Блэр,Энтони М. Бертрам,Dizaster,Майкл Р. Барнард,Дэниэл Райдер,Ben Butler,Маршалл Фостер,Джо Филлипоун,Garrett Marchbank",
-        "description": "Группа людей соглашается участвовать в тесте в режиме реального времени на способность жить в дикой природе без использования современной техники. Но оказывается, они попали в реалити-шоу одной испорченной богатой семьи, которая собралась на праздники, чтобы увидеть их смерть.",
-        "slogan": "",
-        "premiere": "18 декабря 2019",
-        "age": "0",
-        "time": "6600",
-        "poster": "https://m.media-amazon.com/images/M/MV5BY2U4YWE2YmUtODRiNS00MTU1LThjZDUtNmUxNGZiZWU0M2NlXkEyXkFqcGdeQXVyNTA2MDc1ODM@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "6",
-          "rating_imdb": "3.9",
-          "vote_num_imdb": "62"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "573457",
-      "date": "1593368107",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Одноголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Суса",
-        "orig": "Susa",
-        "alter": "",
-        "year": "2010",
-        "country": "Грузия",
-        "director": "Русудан Пирвели",
-        "genre": "драма",
-        "actors": "Гия Гогешвили,Екатерина Кобахидзе,Levan Lortkipanidze,Автандил Тетрадзе",
-        "description": "Где-то в пригороде одного из грузинских городов живет 12-летний Суса, который работает вместе с матерью на подпольной ликерке, производящей левую водку. Ежедневно ему приходится сбывать бутылки с водкой, зарабатывая на жизнь и стараясь не попасться на глаза полицейским. Он верит, что скоро вернется папа и заберет их с матерью в город, чтобы начать новую, благополучную жизнь. Но реальность оказывается куда как прозаичнее и безнадежнее&#133;",
-        "slogan": "",
-        "premiere": "5 февраля 2010",
-        "age": "0",
-        "time": "4500",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNDhkM2MyNWItMWJlYy00MmJkLTkzMTctYzVjNWE0OWM2MGE1XkEyXkFqcGdeQXVyNDY3NTk2ODU@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "46",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "132"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1283860",
-      "date": "1593294318",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ученик Дюкобю 3",
-        "orig": "Ducobu 3",
-        "alter": "",
-        "year": "2020",
-        "country": "Франция",
-        "director": "Эли Семун",
-        "genre": "комедия",
-        "actors": "Эли Семун,Эмили Кан,Фредерик Бель,Лоик Лежандр,Mathys Gros,Leeloo Eyme,Chad Ebenge,Леопольд Моати,Франсуа Леванталь,Флоран Пейр",
-        "description": "У Дюкобю начался очередной учебный год. Но теперь с ним в школе \"Экспресс\", соперник Дюкобю и король обманщиков. Мальчикам придется проявить творческие способности, чтобы одержать победу в музыкальном конкурсе и спасти школу.",
-        "slogan": "",
-        "premiere": "12 января 2020",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZjY5ZTBkMDEtYmJiNi00MTVjLWFjNDktZjM5MjA0YmM4NGZlXkEyXkFqcGdeQXVyODIyOTEyMzY@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "10",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "141"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1055822",
-      "date": "1593294313",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Выжившие: Подлинная история крушения самолёта группы Lynyrd Skynyrd",
-        "orig": "Street Survivors: The True Story of the Lynyrd Skynyrd Plane Crash",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Джаред Кон",
-        "genre": "биография,драма,музыка",
-        "actors": "Тейлор Клифт,Скарлет Салем,Джон Бридделл,Кайл Колтон,Чэнс Уайлдер Оноди,Келли Рейтер,Харви Б. Джексон,Шон МакНэбб,Эйприл Мартуччи,Кари Элисон Ходж",
-        "description": "Биографический фильм, рассказывающий о авиакатастрофе 1977 года, в которой погибли члены группы Lynyrd Skynyrd.",
-        "slogan": "",
-        "premiere": "16 февраля 2020",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1055822.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "0",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1152258",
-      "date": "1593293471",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Татуировка мести",
-        "orig": "Rencor tatuado",
-        "alter": "",
-        "year": "2018",
-        "country": "Мексика",
-        "director": "Хулиан Эрнандес",
-        "genre": "триллер,криминал",
-        "actors": "Диана Лейн,Irving Pe&ntilde;a,C&eacute;sar Romero Medrano,Сесар Рамос,Моника дель Кармен,Джованна Сакариас,Росио Вердехо,Victoria White,Итати Кантораль,Хуан Карлос Торрес",
-        "description": "Мстительница меняет свой облик, соблазняет насильника, опаивает его и делает ему татуировку. Сейчас она вынуждена защищать не только женщин, что обратились к ней за помощью, но и саму себя.",
-        "slogan": "",
-        "premiere": "22 октября 2018",
-        "age": "0",
-        "time": "9000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1152258.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "12",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "92"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1364317",
-      "date": "1593293460",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Хозяин смерти 2",
-        "orig": "Meister des Todes 2",
-        "alter": "",
-        "year": "2020",
-        "country": "Германия",
-        "director": "Даниэль Харриш",
-        "genre": "триллер,драма",
-        "actors": "Вероника Феррес,Катарина Вакернагель,Хайнер Лаутербах,Аксель Мильберг,Дезире Носбуш,Удо Вахтфайтль,Михаэль Бранднер,Барбара Филипп,Михаэль Роль,Оливер Моммсен",
-        "description": "Крупная немецкая компания по производству и продаже оружия оказывается в центре скандала, связанного с поставкой оружия в регионы Мексики с повышенным уровнем насилия.",
-        "slogan": "",
-        "premiere": "1 апреля 2020",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNTI0OWVhMjctYWM1NS00ZjZmLWJjMjAtMTEzNWYzMDA5NDBhXkEyXkFqcGdeQXVyNjEwMzQxODk@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "3",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "52"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "602723",
-      "date": "1593280706",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Покаяние",
-        "orig": "Repentance",
-        "alter": "",
-        "year": "2013",
-        "country": "США",
-        "director": "Филипп Кэлэнд",
-        "genre": "ужасы,триллер,драма",
-        "actors": "Форест Уитакер, Энтони Маки, Майк Эппс, Санаа Лэтэн, Николь Ари Паркер, Ариана Нил, Denise Milfort, Сельма Пинкард, Эйвери Эдвард Ландри, Марго Свишер",
-        "description": "Успешный писатель и духовный наставник соглашается провести сеансы терапии со сложным клиентом, зацикленным на смерти своей матери. Он даже не догадывается, что таким образом подвергает свою собственную жизнь опасности.",
-        "slogan": "Karma is Action, Vipaka is Reaction",
-        "premiere": "20 января 2013",
-        "age": "16",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_602723.jpg",
-        "rating": {
-          "rating_kp": "4.855",
-          "vote_num_kp": "396",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "2365"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "542352",
-      "date": "1593280604",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "SATRip",
-      "translation": "Оригинал",
-      "max_qual": "480",
-      "last_season": "1",
-      "last_episode": "20",
-      "episodes": {
-        "1": {
-          "1": 480,
-          "2": 480,
-          "3": 480,
-          "4": 480,
-          "5": 480,
-          "6": 480,
-          "7": 480,
-          "8": 480,
-          "9": 480,
-          "10": 480,
-          "11": 480,
-          "12": 480,
-          "13": 480,
-          "14": 480,
-          "15": 480,
-          "16": 480,
-          "17": 480,
-          "18": 480,
-          "19": 480,
-          "20": 480
-        }
-      },
-      "info": {
-        "rus": "Знахарь 2: Охота без правил",
-        "orig": "Знахарь 2: Охота без правил",
-        "alter": "",
-        "year": "2011",
-        "country": "Россия",
-        "director": "Борис Казаков",
-        "genre": "драма,криминал",
-        "actors": "Андрей Смелов, Армандс Нейландс-Яунземс, Даша Волга, Мария Горбань, Александр Яцко, Александр Терешко, Дмитрий Комов, Игорь Миркурбанов, Рустам Уразаев, Алексей Гришин",
-        "description": "Объявив Разина мертвым и устроив ему фальшивые похороны, Губанов прячет Знахаря в больнице, чтобы использовать его в качестве приманки для Паука (рано или поздно киллер поймет, что его жертва все еще жива). Олеся считает, что гибель Разина была кем-то подстроена, и делится своими подозрениями с Марком. Разыграв приступ, Знахарь сбегает из больницы, и обращается за помощью к другу Вадиму.",
-        "slogan": "Новое лицо... Новая жизнь... Новая месть...",
-        "premiere": "1 сентября 2011",
-        "age": "16",
-        "time": "2760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_542352.jpg",
-        "rating": {
-          "rating_kp": "5.754",
-          "vote_num_kp": "458",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "6"
         }
       }
     }
