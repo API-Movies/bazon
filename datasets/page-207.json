@@ -2,6 +2,566 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "940725",
+      "date": "1598264893",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "3 счастливых поросенка",
+        "orig": "Les 3 p'tits cochons 2",
+        "alter": "",
+        "year": "2016",
+        "country": "Канада",
+        "director": "Жан-Франсуа Пуле",
+        "genre": "комедия,мелодрама",
+        "actors": "Пол Дусе, Гийом Леме-Тивьерж, Патрис Робитейлл, Софи Прегент, Изабель Рише, Максим Лепаж, Сяо Сунь, Océane Bergeron, Франсуа Бернье, Катрин Бойли",
+        "description": "Реми, Матьё и Кристиан - братья, чья гиперактивность доставляет массу неприятностей им самим, их ревнивым женам и подружкам. Всё только усложняется, когда Доминик, жена Реми, выставляет мужа за дверь и не прочь завести интрижку с его братом...",
+        "slogan": "",
+        "premiere": "1 июля 2016",
+        "age": "18",
+        "time": "6120",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_940725.jpg",
+        "rating": {
+          "rating_kp": "5.681",
+          "vote_num_kp": "519",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "315"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "77711",
+      "date": "1598264893",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Код Да Винчи",
+        "orig": "The Da Vinci Code",
+        "alter": "",
+        "year": "2006",
+        "country": "США, Мальта, Франция, Великобритания",
+        "director": "Рон Ховард",
+        "genre": "триллер,детектив",
+        "actors": "Том Хэнкс, Одри Тоту, Иэн Маккеллен, Жан Рено, Пол Беттани, Альфред Молина, Юрген Прохнов, Жан-Ив Бертело, Этьен Шико, Жан-Пьер Марьель",
+        "description": "Гарвардского профессора Роберта Лэнгдона подозревают в чудовищном преступлении, которого он не совершал. Лэнгдон знакомится с криптографом парижской полиции Софи Невё и вместе с ней пытается раскрыть тайну, которая может подорвать могущество католической церкви.",
+        "slogan": "So Dark The Con of Man",
+        "premiere": "17 мая 2006",
+        "age": "12",
+        "time": "8940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77711.jpg",
+        "rating": {
+          "rating_kp": "7.31",
+          "vote_num_kp": "162805",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "406261"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "102383",
+      "date": "1598264892",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Чудо-женщина",
+        "orig": "Wonder Woman",
+        "alter": "",
+        "year": "2017",
+        "country": "США, Китай, Гонконг",
+        "director": "Пэтти Дженкинс",
+        "genre": "боевик,фантастика,фэнтези,военный,приключения",
+        "actors": "Галь Гадот, Крис Пайн, Конни Нильсен, Робин Райт, Дэнни Хьюстон, Дэвид Тьюлис, Саид Тагмауи, Юэн Бремнер, Юджин «Храбрый камень», Люси Дэвис",
+        "description": "Перед тем как стать Чудо-Женщиной, она была Дианой - принцессой амазонок, обученной быть непобедимой воительницей. И когда на берегах ограждённого от внешнего мира райского острова, который служил ей родиной, терпит крушение американский пилот и рассказывает о серьёзном конфликте, бушующем во внешнем мире, Диана покидает свой дом, чтобы справиться с этой угрозой. И там, сражаясь бок о бок с человеком в войне за мир, Диана обнаружит всю полноту своей власти... и своё истинное предназначение.",
+        "slogan": "Справедливость наступит вместе с ней",
+        "premiere": "15 мая 2017",
+        "age": "16",
+        "time": "8460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_102383.jpg",
+        "rating": {
+          "rating_kp": "6.755",
+          "vote_num_kp": "181878",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "589892"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "9530",
+      "date": "1598264757",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "187",
+        "orig": "One Eight Seven",
+        "alter": "",
+        "year": "1997",
+        "country": "США",
+        "director": "Кевин Рейнольдс",
+        "genre": "триллер,драма",
+        "actors": "Сэмюэл Л. Джексон, Клифтон Коллинз мл., Джон Хёрд, Тони Плана, Энтвон Тэннер, Ричард Рили, Келли Роуэн, Карина Арройяве, Лобо Себастьян, Джек Келер",
+        "description": "Где обитают ублюдки? Учитель из Бруклина Тревор Гарфилд видит их каждый день в школе. Это готовые бандиты, от которых можно ждать чего угодно. Один из них из мести совершает попытку убить Гарфилда.\r\n\r\nПосле этого Гарфилд переезжает в Лос-Анджелес и. .. оказывается в таком же дерьме. Когда его терпению пришел конец, он заставил подонков расплачиваться кровью за каждый совершенный проступок.",
+        "slogan": "Когда школы становятся зонами войны, то неизбежны столкновения... кто следующий?",
+        "premiere": "30 июля 1997",
+        "age": "16",
+        "time": "6840",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9530.jpg",
+        "rating": {
+          "rating_kp": "7.203",
+          "vote_num_kp": "4901",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "22379"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "403",
+      "date": "1598264754",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Бегущий по лезвию",
+        "orig": "Blade Runner",
+        "alter": "",
+        "year": "1982",
+        "country": "США",
+        "director": "Ридли Скотт",
+        "genre": "фантастика,триллер,мелодрама,драма",
+        "actors": "Харрисон Форд, Рутгер Хауэр, Шон Янг, Эдвард Джеймс Олмос, М. Эммет Уолш, Дэрил Ханна, Уильям Сэндерсон, Брайон Джеймс, Джо Тёркел, Джоанна Кэссиди",
+        "description": "Отставной детектив Рик Декард вновь восстановлен в полиции Лос-Анджелеса для поиска возглавляемой Роем Батти группы киборгов, совершившей побег из космической колонии на Землю.\r\n\r\nВ полиции считают, что киборги пытаются встретиться с Эндолом Тайреллом, руководителем корпорации, ставящей эксперименты над кибернетическим интеллектом. Рик Декард получает задание выяснить мотивы действий киборгов, а затем уничтожить их.",
+        "slogan": "A Futuristic Vision Perfected",
+        "premiere": "25 июня 1982",
+        "age": "16",
+        "time": "7020",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_403.jpg",
+        "rating": {
+          "rating_kp": "7.688",
+          "vote_num_kp": "131662",
+          "rating_imdb": "8.1",
+          "vote_num_imdb": "703415"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1727",
+      "date": "1598264745",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Дракула",
+        "orig": "Dracula",
+        "alter": "Дракула Брэма Стокера / Bram Stoker's Dracula",
+        "year": "1992",
+        "country": "США",
+        "director": "Фрэнсис Форд Коппола",
+        "genre": "ужасы,фэнтези,мелодрама",
+        "actors": "Гари Олдман, Вайнона Райдер, Энтони Хопкинс, Киану Ривз, Ричард Э. Грант, Кэри Элвес, Билл Кэмпбелл, Сэди Фрост, Том Уэйтс, Моника Беллуччи",
+        "description": "Конец XIX века, Лондон. Молодой юрист Джонатан Харкер и красавица девушка Мина любят друг друга. Джонатан на время вынужден оставить невесту одну и отправиться по делам в Трансильванию к графу Дракуле, желающему приобрести недвижимость в столице Англии. Но Джонатан не знает, кто такой Дракула на самом деле...",
+        "slogan": "Любовь бессмертна",
+        "premiere": "10 ноября 1992",
+        "age": "16",
+        "time": "7680",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1727.jpg",
+        "rating": {
+          "rating_kp": "7.776",
+          "vote_num_kp": "84346",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "196023"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "369",
+      "date": "1598264692",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Мост через реку Квай",
+        "orig": "The Bridge on the River Kwai",
+        "alter": "",
+        "year": "1957",
+        "country": "Великобритания, США",
+        "director": "Дэвид Лин",
+        "genre": "драма,военный,приключения",
+        "actors": "Алек Гиннесс, Уильям Холден, Джек Хоукинс, Сэссуэ Хаякава, Джеймс Дональд, Джеффри Хорн, Андре Морелл, Питер Уильямс, Джон Боксер, Перси Херберт",
+        "description": "Захваченные в плен японцами британские солдаты и их командир полковник Николсон вынуждены строить железнодорожный мост через реку Квай в Бирме. Несмотря на свирепый характер полковника Сайто, Николсон проявляет настоящее мужество.\r\n\r\nТем временем командование назначает группу коммандос для уничтожения этого стратегически важного объекта.",
+        "slogan": "It spans a whole new world of entertainment!",
+        "premiere": "2 октября 1957",
+        "age": "16",
+        "time": "9300",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_369.jpg",
+        "rating": {
+          "rating_kp": "7.783",
+          "vote_num_kp": "7129",
+          "rating_imdb": "8.1",
+          "vote_num_imdb": "206192"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "970085",
+      "date": "1598262093",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Как это заканчивается",
+        "orig": "How It Ends",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Дэвид М. Розенталь",
+        "genre": "боевик,фантастика,триллер,детектив,драма,приключения",
+        "actors": "Тео Джеймс, Кэт Грэхэм, Нэнси Сорел, Николь Ари Паркер, Форест Уитакер, Anett Rumanoczky, Дж.Дж. Рамберг, Cheryl Gensiorek, Харприт Сингх Канда, Рон Вервимерен",
+        "description": "Уилл и Саманта - счастливая пара, и скоро у них намечается пополнение в семье. Но Уилл не может поладить с тестем Томом, который злится из-за переезда дочери в другой город. Выяснение отношений приходится отложить, когда за Западном побережье происходит масштабная катастрофа. Электричество отключается, аэропорты закрыты, и Саманте явно грозит опасность. Уилл с Томом отправляются на её спасение.",
+        "slogan": "No One Survives Alone",
+        "premiere": "13 июля 2018",
+        "age": "0",
+        "time": "6780",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_970085.jpg",
+        "rating": {
+          "rating_kp": "5.406",
+          "vote_num_kp": "3078",
+          "rating_imdb": "5",
+          "vote_num_imdb": "45609"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "874941",
+      "date": "1598260016",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Игра Джералда",
+        "orig": "Gerald's Game",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Майк Флэнеган",
+        "genre": "ужасы,триллер,драма",
+        "actors": "Карла Гуджино, Брюс Гринвуд, Кьяра Аурелия, Карел Стрёйкен, Генри Томас, Кейт Сигел, Adalyn Jones, Bryce Harper, Гвендолин Муламба, Джеймс Флэнеган",
+        "description": "После того как муж падает с сердечным приступом в разгаре интимной игры, молодая женщина остается прикованной к кровати. Но её одиночество будет недолгим. Все страхи, которые она когда-либо испытывала в жизни, вернутся в одночасье в уединенный дом, мгновенно превратившийся в зловещую камеру пыток.",
+        "slogan": "Some games you play, some you survive",
+        "premiere": "19 сентября 2017",
+        "age": "0",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_874941.jpg",
+        "rating": {
+          "rating_kp": "6.515",
+          "vote_num_kp": "23738",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "92593"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1044480",
+      "date": "1598260016",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Что такое здоровье",
+        "orig": "What the Health",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Кип Андерсен, Keegan Kuhn",
+        "genre": "документальный",
+        "actors": "Кип Андерсен, Larry Baldwin, Нил Бернард, Tia Blanco, David Carter, Jake Conroy, Garth Davis, Caldwell Esselstyn Jr., Mike Ewall, Alan Goldhamer",
+        "description": "Режиссёр исследует индустрию здравоохранения и раскрывает, возможно, самый большой секрет нашего времени и сговор между промышленностью, правительством, фармацевтическими и медицинскими организациями, прячущими информацию от нас.",
+        "slogan": "",
+        "premiere": "7 марта 2017",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1044480.jpg",
+        "rating": {
+          "rating_kp": "7.392",
+          "vote_num_kp": "1035",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "27658"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "651857",
+      "date": "1598260016",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Трансформеры: Эпоха истребления",
+        "orig": "Transformers: Age of Extinction",
+        "alter": "",
+        "year": "2014",
+        "country": "США, Китай",
+        "director": "Майкл Бэй",
+        "genre": "боевик,фантастика,приключения",
+        "actors": "Марк Уолберг, Никола Пельтц, Джек Рейнор, Стэнли Туччи, Келси Грэммер, Титус Уэлливер, ТиДжей Миллер, Ли Бинбин, София Майлс, Питер Каллен",
+        "description": "Автоботы и десептиконы оставили человечество собирать планету по кусочкам. Между тем группа могущественных бизнесменов и гениальных ученых пытается извлечь уроки из ошибок прошлого и улучшить технологии до такой степени, чтобы выйти за пределы контролируемого ранее. В это время другая группа - древних мощных трансформеров - берет Землю под прицел.",
+        "slogan": "Сражаться вместе... Или погибнуть вместе",
+        "premiere": "19 июня 2014",
+        "age": "12",
+        "time": "9900",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_651857.jpg",
+        "rating": {
+          "rating_kp": "6.082",
+          "vote_num_kp": "131556",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "300029"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "2022",
+      "date": "1598260015",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "День независимости",
+        "orig": "Independence Day",
+        "alter": "",
+        "year": "1996",
+        "country": "США",
+        "director": "Роланд Эммерих",
+        "genre": "боевик,фантастика,приключения",
+        "actors": "Уилл Смит, Джефф Голдблюм, Билл Пуллман, Мэри МакДоннелл, Джадд Хёрш, Роберт Лоджа, Рэнди Куэйд, Маргарет Колин, Джеймс Ребхорн, Харви Файерстин",
+        "description": "На Земле принимается сигнал, посланный источником явно неземного происхождения. Источник этот приближается, и на «уши» поднимается вся планета. Никто, правда, не ожидал, что инопланетяне окажутся такими огромными и в таком количестве.",
+        "slogan": "We've always believed we weren't alone. On July 4th, we'll wish we were",
+        "premiere": "25 июня 1996",
+        "age": "12",
+        "time": "8700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2022.jpg",
+        "rating": {
+          "rating_kp": "7.605",
+          "vote_num_kp": "136319",
+          "rating_imdb": "7",
+          "vote_num_imdb": "533191"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "436225",
+      "date": "1598260015",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Терминатор: Генезис",
+        "orig": "Terminator Genisys",
+        "alter": "",
+        "year": "2015",
+        "country": "США",
+        "director": "Алан Тейлор",
+        "genre": "боевик,фантастика,триллер",
+        "actors": "Арнольд Шварценеггер, Джейсон Кларк, Эмилия Кларк, Джай Кортни, Дж.К. Симмонс, Дайо Окенийи, Мэтт Смит, Кортни Б. Вэнс, Ли Бён-хон, Майкл Глэдис",
+        "description": "Когда Джон Коннор, лидер сопротивления, посылает сержанта Кайла Риза назад в 1984 год, чтобы защитить Сару Коннор и спасти будущее, неожиданный поворот событий создает разлом во времени. Сержант Риз оказывается в новой, незнакомой версии прошлого, где он встречает неожиданных союзников, в том числе Терминатора, новых опасных врагов, и новую миссию: изменить будущее...",
+        "slogan": "Судьба переписана",
+        "premiere": "21 июня 2015",
+        "age": "12",
+        "time": "7560",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_436225.jpg",
+        "rating": {
+          "rating_kp": "6.447",
+          "vote_num_kp": "128989",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "262170"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "467099",
+      "date": "1598260015",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Прометей",
+        "orig": "Prometheus",
+        "alter": "",
+        "year": "2012",
+        "country": "США, Великобритания",
+        "director": "Ридли Скотт",
+        "genre": "фантастика,детектив,приключения",
+        "actors": "Нуми Рапас, Майкл Фассбендер, Шарлиз Терон, Идрис Эльба, Гай Пирс, Логан Маршалл-Грин, Шон Харрис, Рейф Сполл, Иман Эллиотт, Бенедикт Вонг",
+        "description": "В поисках сакрального знания группа ученых отправляется в самые темные и неизведанные чертоги вселенной. Именно там, в отдаленных мирах, находясь на пределе своих умственных и физических возможностей, им предстоит вступить в безжалостную схватку за будущее всего человечества.",
+        "slogan": "Они искали колыбель человечества, но нашли его погибель",
+        "premiere": "11 апреля 2012",
+        "age": "16",
+        "time": "7440",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_467099.jpg",
+        "rating": {
+          "rating_kp": "7.009",
+          "vote_num_kp": "223978",
+          "rating_imdb": "7",
+          "vote_num_imdb": "573574"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1036885",
+      "date": "1598260015",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Хикок",
+        "orig": "Hickok",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Тимоти Вудворд мл.",
+        "genre": "вестерн",
+        "actors": "Люк Хемсворт, Крис Кристофферсон, Трэйси Д. Эдкинс, Брюс Дерн, Кэмерон Ричардсон, Каиви Лайман, Хантер Фишер, Питер Шерайко, Джейсон Лайвли, Бертран Корби",
+        "description": "Очередное приключение Дикого Билла Хикока - американского героя Дикого Запада, легендарного стрелка и разведчика.",
+        "slogan": "",
+        "premiere": "7 июля 2017",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1036885.jpg",
+        "rating": {
+          "rating_kp": "4.526",
+          "vote_num_kp": "288",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "2756"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "966995",
+      "date": "1598260015",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Живое",
+        "orig": "Life",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Даниэль Эспиноса",
+        "genre": "ужасы,фантастика,триллер",
+        "actors": "Хироюки Санада, Райан Рейнольдс, Ребекка Фергюсон, Джейк Джилленхол, Ольга Дыховичная, Эрион Бакаре, Хесус Дель Орден, Аллен МакЛин, Лейла Грейс, Мари Гвелесиани",
+        "description": "Группа исследователей с международного космического корабля обнаруживает жизнь на Марсе. Они еще не подозревают, какие события повлечет за собой их открытие.",
+        "slogan": "Умное. Сильное. Бездушное",
+        "premiere": "18 марта 2017",
+        "age": "18",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_966995.jpg",
+        "rating": {
+          "rating_kp": "6.501",
+          "vote_num_kp": "121305",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "210435"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "690615",
       "date": "1598260015",
       "camrip": "0",
@@ -29,9 +589,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_690615.jpg",
         "rating": {
           "rating_kp": "5.733",
-          "vote_num_kp": "123489",
+          "vote_num_kp": "123519",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "188067"
+          "vote_num_imdb": "188122"
         }
       }
     },
@@ -64,9 +624,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_252641.jpg",
         "rating": {
           "rating_kp": "7.613",
-          "vote_num_kp": "202651",
+          "vote_num_kp": "202782",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "512678"
+          "vote_num_imdb": "512823"
         }
       }
     },
@@ -99,9 +659,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_468940.jpg",
         "rating": {
           "rating_kp": "5.78",
-          "vote_num_kp": "93585",
+          "vote_num_kp": "93748",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "165523"
+          "vote_num_imdb": "165556"
         }
       }
     },
@@ -134,9 +694,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_350.jpg",
         "rating": {
           "rating_kp": "8.115",
-          "vote_num_kp": "139088",
+          "vote_num_kp": "139185",
           "rating_imdb": "8.7",
-          "vote_num_imdb": "1038849"
+          "vote_num_imdb": "1039072"
         }
       }
     },
@@ -204,9 +764,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1060.jpg",
         "rating": {
           "rating_kp": "7.031",
-          "vote_num_kp": "62517",
+          "vote_num_kp": "62557",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "383801"
+          "vote_num_imdb": "383867"
         }
       }
     },
@@ -239,9 +799,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_786958.jpg",
         "rating": {
           "rating_kp": "6.593",
-          "vote_num_kp": "271222",
+          "vote_num_kp": "271267",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "254473"
+          "vote_num_imdb": "254543"
         }
       }
     },
@@ -274,9 +834,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843147.jpg",
         "rating": {
           "rating_kp": "6.463",
-          "vote_num_kp": "111203",
+          "vote_num_kp": "111573",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "286506"
+          "vote_num_imdb": "286671"
         }
       }
     },
@@ -308,10 +868,10 @@
         "time": "6780",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_902939.jpg",
         "rating": {
-          "rating_kp": "7.16",
-          "vote_num_kp": "171061",
+          "rating_kp": "7.161",
+          "vote_num_kp": "171153",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "451027"
+          "vote_num_imdb": "451217"
         }
       }
     },
@@ -344,9 +904,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_602749.jpg",
         "rating": {
           "rating_kp": "6.885",
-          "vote_num_kp": "84295",
+          "vote_num_kp": "84316",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "184330"
+          "vote_num_imdb": "184393"
         }
       }
     },
@@ -379,9 +939,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_252667.jpg",
         "rating": {
           "rating_kp": "6.929",
-          "vote_num_kp": "204632",
+          "vote_num_kp": "204698",
           "rating_imdb": "7",
-          "vote_num_imdb": "713289"
+          "vote_num_imdb": "713419"
         }
       }
     },
@@ -414,9 +974,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_690593.jpg",
         "rating": {
           "rating_kp": "7.072",
-          "vote_num_kp": "228014",
+          "vote_num_kp": "228119",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "527888"
+          "vote_num_imdb": "528044"
         }
       }
     },
@@ -449,9 +1009,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_623658.jpg",
         "rating": {
           "rating_kp": "6.711",
-          "vote_num_kp": "48764",
+          "vote_num_kp": "48789",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "59302"
+          "vote_num_imdb": "59306"
         }
       }
     },
@@ -484,9 +1044,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462487.jpg",
         "rating": {
           "rating_kp": "7.517",
-          "vote_num_kp": "102033",
+          "vote_num_kp": "102051",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "579846"
+          "vote_num_imdb": "579938"
         }
       }
     },
@@ -519,9 +1079,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_463738.jpg",
         "rating": {
           "rating_kp": "7.404",
-          "vote_num_kp": "127353",
+          "vote_num_kp": "127392",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "499833"
+          "vote_num_imdb": "499909"
         }
       }
     },
@@ -554,9 +1114,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_734349.jpg",
         "rating": {
           "rating_kp": "6.866",
-          "vote_num_kp": "100757",
+          "vote_num_kp": "100769",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "231103"
+          "vote_num_imdb": "231149"
         }
       }
     },
@@ -588,10 +1148,10 @@
         "time": "6360",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843789.jpg",
         "rating": {
-          "rating_kp": "6.411",
-          "vote_num_kp": "118690",
+          "rating_kp": "6.412",
+          "vote_num_kp": "118821",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "199129"
+          "vote_num_imdb": "199159"
         }
       }
     },
@@ -624,9 +1184,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462358.jpg",
         "rating": {
           "rating_kp": "7.658",
-          "vote_num_kp": "217511",
+          "vote_num_kp": "217559",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "651922"
+          "vote_num_imdb": "652004"
         }
       }
     },
@@ -658,10 +1218,10 @@
         "time": "7080",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_893487.jpg",
         "rating": {
-          "rating_kp": "5.21",
-          "vote_num_kp": "80811",
+          "rating_kp": "5.211",
+          "vote_num_kp": "80834",
           "rating_imdb": "4.6",
-          "vote_num_imdb": "93525"
+          "vote_num_imdb": "93543"
         }
       }
     },
@@ -694,9 +1254,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_419200.jpg",
         "rating": {
           "rating_kp": "6.913",
-          "vote_num_kp": "191165",
+          "vote_num_kp": "191202",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "529613"
+          "vote_num_imdb": "529694"
         }
       }
     },
@@ -729,9 +1289,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_824437.jpg",
         "rating": {
           "rating_kp": "7.142",
-          "vote_num_kp": "198725",
+          "vote_num_kp": "198808",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "195761"
+          "vote_num_imdb": "195813"
         }
       }
     },
@@ -764,9 +1324,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_922572.jpg",
         "rating": {
           "rating_kp": "7.151",
-          "vote_num_kp": "6017",
+          "vote_num_kp": "6018",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "76732"
+          "vote_num_imdb": "76791"
         }
       }
     },
@@ -799,9 +1359,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_688832.jpg",
         "rating": {
           "rating_kp": "4.403",
-          "vote_num_kp": "177370",
+          "vote_num_kp": "177408",
           "rating_imdb": "4.1",
-          "vote_num_imdb": "300485"
+          "vote_num_imdb": "300512"
         }
       }
     },
@@ -834,9 +1394,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8033.jpg",
         "rating": {
           "rating_kp": "7.529",
-          "vote_num_kp": "118771",
+          "vote_num_kp": "118799",
           "rating_imdb": "7",
-          "vote_num_imdb": "255194"
+          "vote_num_imdb": "255219"
         }
       }
     },
@@ -869,9 +1429,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_781.jpg",
         "rating": {
           "rating_kp": "7.917",
-          "vote_num_kp": "70608",
+          "vote_num_kp": "70630",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "257178"
+          "vote_num_imdb": "257220"
         }
       }
     },
@@ -904,9 +1464,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_582101.jpg",
         "rating": {
           "rating_kp": "6.727",
-          "vote_num_kp": "317244",
+          "vote_num_kp": "317298",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "430432"
+          "vote_num_imdb": "430505"
         }
       }
     },
@@ -939,9 +1499,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_713051.jpg",
         "rating": {
           "rating_kp": "6.71",
-          "vote_num_kp": "59344",
+          "vote_num_kp": "59368",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "129757"
+          "vote_num_imdb": "129780"
         }
       }
     },
@@ -974,7 +1534,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_808093.jpg",
         "rating": {
           "rating_kp": "6.166",
-          "vote_num_kp": "24608",
+          "vote_num_kp": "24613",
           "rating_imdb": "5.7",
           "vote_num_imdb": "61033"
         }
@@ -1009,9 +1569,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_980011.jpg",
         "rating": {
           "rating_kp": "6.74",
-          "vote_num_kp": "42388",
+          "vote_num_kp": "42403",
           "rating_imdb": "7",
-          "vote_num_imdb": "134444"
+          "vote_num_imdb": "134485"
         }
       }
     },
@@ -1044,9 +1604,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_688.jpg",
         "rating": {
           "rating_kp": "8.043",
-          "vote_num_kp": "384263",
+          "vote_num_kp": "384651",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "564278"
+          "vote_num_imdb": "564403"
         }
       }
     },
@@ -1079,9 +1639,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5056.jpg",
         "rating": {
           "rating_kp": "6.81",
-          "vote_num_kp": "114724",
+          "vote_num_kp": "114740",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "217835"
+          "vote_num_imdb": "217841"
         }
       }
     },
@@ -1114,9 +1674,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_673428.jpg",
         "rating": {
           "rating_kp": "7.17",
-          "vote_num_kp": "66758",
+          "vote_num_kp": "66817",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "122217"
+          "vote_num_imdb": "122244"
         }
       }
     },
@@ -1149,9 +1709,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_978838.jpg",
         "rating": {
           "rating_kp": "6.493",
-          "vote_num_kp": "79785",
+          "vote_num_kp": "79801",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "171644"
+          "vote_num_imdb": "171685"
         }
       }
     },
@@ -1187,566 +1747,6 @@
           "vote_num_kp": "325",
           "rating_imdb": "5.5",
           "vote_num_imdb": "769"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "484611",
-      "date": "1598259686",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Исход: Цари и боги",
-        "orig": "Exodus: Gods and Kings",
-        "alter": "",
-        "year": "2014",
-        "country": "Великобритания, Испания, США",
-        "director": "Ридли Скотт",
-        "genre": "боевик,фэнтези,драма,приключения",
-        "actors": "Кристиан Бэйл, Джоэл Эдгертон, Джон Туртурро, Аарон Пол, Бен Мендельсон, Мария Вальверде, Сигурни Уивер, Бен Кингсли, Исаак Эндрюс, Хиам Аббасс",
-        "description": "Ветхозаветная история о великом пророке Моисее и освобождении еврейского народа из египетского плена. Моисей появился на свет в те времена, когда фараон приказал убивать всех новорожденных мальчиков еврейского происхождения. Чтобы спасти его, мать положила малыша в корзину из тростника и отправила вниз по Нилу. \r\n\r\nРебенка нашла дочь фараона, которая усыновила его и растила рядом с Рамсесом - будущим фараоном. Много лет спустя, став мужчиной, Моисей бежит из Египта, а затем возвращается туда по велению Господа, чтобы избавить свой народ от оков рабства...",
-        "slogan": "Он бросил вызов империи и изменил мир",
-        "premiere": "3 декабря 2014",
-        "age": "12",
-        "time": "9000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_484611.jpg",
-        "rating": {
-          "rating_kp": "6.553",
-          "vote_num_kp": "86332",
-          "rating_imdb": "6",
-          "vote_num_imdb": "160989"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "544",
-      "date": "1598259686",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Инопланетянин",
-        "orig": "E.T. the Extra-Terrestrial",
-        "alter": "",
-        "year": "1982",
-        "country": "США",
-        "director": "Стивен Спилберг",
-        "genre": "фантастика,драма,семейный",
-        "actors": "Генри Томас, Дрю Бэрримор, Ди Уоллес-Стоун, Питер Койот, Роберт МакНотон, К. Ч. Мартел, Шон Фрай, Си Томас Хауэлл, Эрика Элениак, Дэвид М. О’Делл",
-        "description": "Инопланетянин прилетает на землю в составе научно-исследовательской группы с мирными намерениями. Специалисты из NASA замечают приближение летающей тарелки и решают, что обязаны отловить хотя бы одну из инопланетных тварей. Несчастные существа улетают так спешно, что забывают захватить одного из коллег.",
-        "slogan": "The Story that Touched the World!",
-        "premiere": "26 мая 1982",
-        "age": "6",
-        "time": "6900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_544.jpg",
-        "rating": {
-          "rating_kp": "7.776",
-          "vote_num_kp": "65774",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "377234"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "915139",
-      "date": "1598259686",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Многоголосый",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Машина войны",
-        "orig": "War Machine",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Дэвид Мишо",
-        "genre": "комедия,драма,военный",
-        "actors": "Брэд Питт, Дэниэл Беттс, Джон Магаро, Эмори Коэн, АрДжей Сайлер, Тофер Грейс, Энтони Майкл Холл, Энтони Хэйес, Николас Мод, Паоло Гаспарини",
-        "description": "Генерал Стэнли Маккристал - одиозная фигура в истории антитеррористических операций США. Стремительный взлёт и досрочная отставка из-за скандальной статьи Rolling Stone в 2010 году стали одним из самых обсуждаемых в политических кулуарах событий, вызвав массу слухов и предположений. Фильм основан на документальной книге репортёра Майкла Гастингса и посвящён афганскому периоду в военной карьере Маккристала.",
-        "slogan": "From the producers of the Big Short comes a story about the politics of war",
-        "premiere": "26 мая 2017",
-        "age": "0",
-        "time": "7320",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_915139.jpg",
-        "rating": {
-          "rating_kp": "6.069",
-          "vote_num_kp": "3522",
-          "rating_imdb": "6",
-          "vote_num_imdb": "42610"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "762225",
-      "date": "1598259686",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Многоголосый",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Дивергент, глава 2: Инсургент",
-        "orig": "Insurgent",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Роберт Швентке",
-        "genre": "боевик,фантастика,триллер,приключения",
-        "actors": "Шейлин Вудли, Тео Джеймс, Кейт Уинслет, Джай Кортни, Энсел Элгорт, Майлз Теллер, Зои Кравиц, Мекхай Файфер, Наоми Уоттс, Октавия Спенсер",
-        "description": "В новой главе антиутопии об обществе, где все расставлено по полочкам, а любая индивидуальность подлежит искоренению, Трис должна найти способ борьбы со страшной системой, уничтожающей ее близких. Кто из них на очереди? Она узнает все больше страшных подробностей, стоящих за кажущимся порядком, и уже не может не видеть, что в ее мире пора что-то менять. Но главное в этой борьбе - справиться с расколом, который враг порождает в ее собственной душе.",
-        "slogan": "В этом мире пора что-то менять",
-        "premiere": "11 марта 2015",
-        "age": "12",
-        "time": "7140",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_762225.jpg",
-        "rating": {
-          "rating_kp": "6.073",
-          "vote_num_kp": "140015",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "220765"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "807640",
-      "date": "1598259686",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Защитник",
-        "orig": "Concussion",
-        "alter": "",
-        "year": "2015",
-        "country": "Великобритания, Австралия, США",
-        "director": "Питер Ландесман",
-        "genre": "драма,спорт",
-        "actors": "Уилл Смит, Алек Болдуин, Альберт Брукс, Гугу Эмбата-Ро, Дэвид Морс, Арлисс Ховард, Майк О’Мэлли, Эдди Марсан, Хилл Харпер, Адевале Акинойе-Агбаже",
-        "description": "В Америке один за одним неожиданно и загадочно умирают знаменитые спортсмены. Молодой, но талантливый патологоанатом хочет докопаться до истины, однако не всем нужна правда.",
-        "slogan": "Even Legends Need a Hero",
-        "premiere": "10 ноября 2015",
-        "age": "16",
-        "time": "7380",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_807640.jpg",
-        "rating": {
-          "rating_kp": "6.766",
-          "vote_num_kp": "23527",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "88467"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "409194",
-      "date": "1598259685",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Эволюция Борна",
-        "orig": "The Bourne Legacy",
-        "alter": "",
-        "year": "2012",
-        "country": "США, Япония",
-        "director": "Тони Гилрой",
-        "genre": "боевик,триллер,приключения",
-        "actors": "Джереми Реннер, Рэйчел Вайс, Эдвард Нортон, Стейси Кич, Оскар Айзек, Желько Иванек, Донна Мерфи, Майкл Чернус, Кори Столл, Элизабет Марвел",
-        "description": "В игре всегда несколько фигур. Одна из них - Джейсон Борн, другая - совершенный агент Аарон Кросс. Их возможности безграничны. Но даже у идеального оружия бывают сбои...",
-        "slogan": "В игре всегда несколько фигур",
-        "premiere": "30 июля 2012",
-        "age": "16",
-        "time": "8100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_409194.jpg",
-        "rating": {
-          "rating_kp": "6.604",
-          "vote_num_kp": "70494",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "287582"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "276638",
-      "date": "1598259685",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Мумия: Гробница Императора Драконов",
-        "orig": "The Mummy: Tomb of the Dragon Emperor",
-        "alter": "",
-        "year": "2008",
-        "country": "США, Германия, Китай",
-        "director": "Роб Коэн",
-        "genre": "боевик,ужасы,триллер,фэнтези,приключения",
-        "actors": "Брендан Фрейзер, Джет Ли, Мария Белло, Джон Ханна, Мишель Йео, Люк Форд, Изабелла Люн, Энтони Вон, Расселл Вонг, Лиам Каннингэм",
-        "description": "Заколдованный волшебницей, безжалостный китайский император-дракон должен провести вечность в забвении. Его 10 000 воинов превратились в терракотовых воинов. Однако когда искатель приключений Алекс О`Коннелл случайно пробуждает властителя от вечной спячки, он вынужден искать помощи у единственных людей, которые знают, как справиться с воскресшими мертвецами: у своих родителей.\r\n\r\nМонарх возвращается к жизни, и наши герои понимают, что его сила за эту тысячу лет только увеличилась. Мумия готова поднять всю Азию в борьбе за мировое господство... если О`Коннеллы ее не остановят.",
-        "slogan": "Приключение, неподвластное времени",
-        "premiere": "30 июля 2008",
-        "age": "12",
-        "time": "6720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_276638.jpg",
-        "rating": {
-          "rating_kp": "6.148",
-          "vote_num_kp": "71009",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "152350"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "944708",
-      "date": "1598259685",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Прочь",
-        "orig": "Get Out",
-        "alter": "",
-        "year": "2017",
-        "country": "Япония, США",
-        "director": "Джордан Пил",
-        "genre": "ужасы,триллер,детектив",
-        "actors": "Дэниэл Калуя, Эллисон Уильямс, Кэтрин Кинер, Брэдли Уитфорд, Калеб Лэндри Джонс, Маркус Хендерсон, Бетти Гэбриел, Лакит Стэнфилд, Стивен Рут, Лил Релл",
-        "description": "Знакомство с родителями подружки не предвещает молодому фотографу из Нью-Йорка ничего хорошего, ведь семья девушки принадлежит к элитному обществу и живет в уединенном загородном доме. Если бы он только знал истинную причину своего приглашения, то немедленно бросился бы прочь...",
-        "slogan": "Знакомство с родителями не всегда заканчивается свадьбой",
-        "premiere": "23 января 2017",
-        "age": "18",
-        "time": "6240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_944708.jpg",
-        "rating": {
-          "rating_kp": "7.095",
-          "vote_num_kp": "180252",
-          "rating_imdb": "7.7",
-          "vote_num_imdb": "505248"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "452899",
-      "date": "1598259685",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Трансформеры 3: Темная сторона Луны",
-        "orig": "Transformers: Dark of the Moon",
-        "alter": "",
-        "year": "2011",
-        "country": "США",
-        "director": "Майкл Бэй",
-        "genre": "боевик,фантастика,приключения",
-        "actors": "Шайа ЛаБаф, Роузи Хантингтон-Уайтли, Джош Дюамель, Джон Туртурро, Патрик Демпси, Фрэнсис МакДорманд, Кен Жонг, Алан Тьюдик, Джон Малкович, Тайриз Гибсон",
-        "description": "Американское правительство долго скрывало тайну первой высадки человека на Луну. Оказывается, 20 июля 1969 года совершив посадку на Луне, американские астронавты обнаружили разбившийся корабль автоботов и останки роботов. Программу засекретили, но спустя сорок лет она вновь всплыла, как камень преткновения в отношениях людей и автоботов. Сем Уитвики и его новая подружка Карли оказываются в самом эпицентре новой глобальной заварушки с участием десептиконов и автоботов, в основу которого положена тайна, которую хранит темная сторона Луны.",
-        "slogan": "Последний шанс цивилизации",
-        "premiere": "25 июня 2011",
-        "age": "12",
-        "time": "9240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_452899.jpg",
-        "rating": {
-          "rating_kp": "6.843",
-          "vote_num_kp": "175157",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "387461"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "407636",
-      "date": "1598259685",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Гарри Поттер и Дары Смерти: Часть II",
-        "orig": "Harry Potter and the Deathly Hallows: Part 2",
-        "alter": "",
-        "year": "2011",
-        "country": "США, Великобритания",
-        "director": "Дэвид Йейтс",
-        "genre": "фэнтези,детектив,драма,приключения",
-        "actors": "Дэниэл Рэдклифф, Руперт Гринт, Эмма Уотсон, Хелена Бонем Картер, Робби Колтрейн, Уорвик Дэвис, Рэйф Файнс, Майкл Гэмбон, Джон Хёрт, Джейсон Айзекс",
-        "description": "В грандиозной последней главе битва между добрыми и злыми силами мира волшебников перерастает во всеобщую войну. Ставки ещё никогда не были так высоки, а поиск убежища - столь сложен. И быть может именно Гарри Поттеру придется пожертвовать всем в финальном сражении с Волан-де-Мортом. Способен ли наш герой спасти мир? И всё закончится здесь.",
-        "slogan": "Все закончится",
-        "premiere": "7 июля 2011",
-        "age": "12",
-        "time": "7800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_407636.jpg",
-        "rating": {
-          "rating_kp": "8.099",
-          "vote_num_kp": "418954",
-          "rating_imdb": "8.1",
-          "vote_num_imdb": "778940"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "87672",
-      "date": "1598259685",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Ультиматум Борна",
-        "orig": "The Bourne Ultimatum",
-        "alter": "",
-        "year": "2007",
-        "country": "США, Германия, Франция, Испания",
-        "director": "Пол Гринграсс",
-        "genre": "боевик,триллер,детектив",
-        "actors": "Мэтт Дэймон, Джулия Стайлз, Дэвид Стрэтэйрн, Джоан Аллен, Пэдди Консидайн, Эдгар Рамирес, Альберт Финни, Скотт Гленн, Том Гэллоп, Кори Джонсон",
-        "description": "Он хотел одного - исчезнуть. Вместо этого за Борном теперь охотятся люди, которые сделали его таким, какой он есть. Он потерял память и человека, которого любил. Но его не удается сдержать даже новому поколению профессиональных убийц. У него только одна цель: вернуться к началу и узнать, кем он был, Джейсон Борн.",
-        "slogan": "Вспомнить все. Не прощать ничего",
-        "premiere": "25 июля 2007",
-        "age": "16",
-        "time": "6900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_87672.jpg",
-        "rating": {
-          "rating_kp": "7.748",
-          "vote_num_kp": "116407",
-          "rating_imdb": "8",
-          "vote_num_imdb": "608564"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "373391",
-      "date": "1598259685",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Трансформеры: Месть падших",
-        "orig": "Transformers: Revenge of the Fallen",
-        "alter": "",
-        "year": "2009",
-        "country": "США",
-        "director": "Майкл Бэй",
-        "genre": "боевик,фантастика,приключения",
-        "actors": "Шайа ЛаБаф, Меган Фокс, Джош Дюамель, Тайриз Гибсон, Джон Туртурро, Рамон Родригес, Кевин Данн, Джули Уайт, Изабель Лукас, Джон Бенжамин Хикки",
-        "description": "Прошло два года с тех пор, как юный Сэм Уитвикки спас Вселенную, предотвратив глобальную битву между враждующими воинственными расами инопланетных роботов. Несмотря на свои героические подвиги, Сэм остается обычным подростком с обычными проблемами - поступлением в колледж и родителями. Разумеется, отъезд будет тяжело воспринят лучшим другом, роботом - телохранителем Бамблби.\r\n\r\nСэм изо всех сил пытается забыть о конфликте в Мишн Сити и вернуться к нормальной жизни. Однако битва между Автоботами и Десептиконами, несмотря на гриф полной секретности, многое изменила...",
-        "slogan": "Месть неминуема",
-        "premiere": "19 июня 2009",
-        "age": "12",
-        "time": "9000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_373391.jpg",
-        "rating": {
-          "rating_kp": "7.128",
-          "vote_num_kp": "183873",
-          "rating_imdb": "6",
-          "vote_num_imdb": "387028"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1263777",
-      "date": "1598258795",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Внуки для новичков",
-        "orig": "Enkel für Anfänger",
-        "alter": "",
-        "year": "2020",
-        "country": "Германия",
-        "director": "Вольфганг Гроос",
-        "genre": "комедия",
-        "actors": "Марен Кройман,Хайнер Лаутербах,Барбара Зукова,Полина Рожински,Julius Weckauf,Тим Оливер Шульц,Паула Каленберг,Юлия Кошиц,Астрид Эберт,Доминик Ракке",
-        "description": "Группа пенсионеров пытается сбежать от скуки повседневной жизни и обращается в специальное агентство, чтобы стать приёмными бабушками и дедушками для детей.",
-        "slogan": "",
-        "premiere": "6 февраля 2020",
-        "age": "0",
-        "time": "6240",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYTk1ZDkwNGYtNDRjMS00Y2NiLThhOWUtMDkzZDY3NzdmNjM3XkEyXkFqcGdeQXVyNTY0NzUxNA@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "46",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "506"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1158236",
-      "date": "1598255972",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Цицерон",
-        "orig": "Çiçero",
-        "alter": "",
-        "year": "2019",
-        "country": "Турция",
-        "director": "Сердар Акар",
-        "genre": "боевик,драма,криминал,история",
-        "actors": "Эрдал Бешикчиолу,Бурджу Бириджик,Эртан Сабан,Мурат Гарибагаоглу,Тамер Левент,Мехмет Улай,Чигдем Онат,Левент Юльген,Мехмет Эсен,Селен Озтюрк",
-        "description": "Албанец по происхождению, с детства живущий в Турции, Ильяс Базна работал слугой в британском посольстве Анкары. Как-то в его руки попадает ценная информация, и он продает ее немцам. Шпионская деятельность Базны, которому они дают ему кличку «Цицерон», приносит огромную пользу фашистам. однако все не так просто – Ильяс Базна на самом деле служил турецкому правительству.",
-        "slogan": "",
-        "premiere": "18 января 2019",
-        "age": "0",
-        "time": "7560",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1158236.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "48",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "5357"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1147254",
-      "date": "1598245216",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Вечная красота",
-        "orig": "Eternal Beauty",
-        "alter": "",
-        "year": "2019",
-        "country": "Великобритания",
-        "director": "Крэйг Робертс",
-        "genre": "драма,мелодрама,комедия",
-        "actors": "Дэвид Тьюлис,Билли Пайпер,Салли Хокинс,Пенелопа Уилтон,Морфидд Кларк,Роберт Пью,Элис Лоу,Роберт Арамайо,Эшли Макгуайр,Banita Sandhu",
-        "description": "Джейн — хрупкая, но в то же время неудержимо жизнерадостная женщина, которая слышит голоса и имеет параноидальные фантазии. Вдобавок к этому, симптомы шизофрении усугубляются её отвратительной эгоистичной семьёй. Джейн поставили диагноз «параноидальная шизофрения» в 20 лет — после того как жених бросил её у алтаря. Проведя большую часть жизни в психиатрической больнице, где применялась шоковая терапия, Джейн решает прекратить приём лекарств, которых явно слишком много благодаря стараниям родственников. Хотя это и означает, что она начинает видеть огромных пауков, ползающих повсюду, и начинает отрывать крошечные полоски обоев, Джейн также чувствует себя более живой и взбудораженной. Однажды Джейн знакомится с начинающим музыкантом Майком, который также имеет серьёзные психические проблемы. Вдвоём они веселятся и познают жизнь по-своему, трогательно-неуклюже, но с нерушимым запасом настойчивости и уверенности в счастье.",
-        "slogan": "I&#x27;m in my oils",
-        "premiere": "8 октября 2019",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1147254.jpg",
-        "rating": {
-          "rating_kp": "5.867",
-          "vote_num_kp": "268",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "1248"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "959717",
-      "date": "1598217311",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Последнее убийство",
-        "orig": "The Last Kill",
-        "alter": "",
-        "year": "2016",
-        "country": "Великобритания",
-        "director": "Tony Oldham",
-        "genre": "триллер,драма,криминал",
-        "actors": "Ayesha Casely-Hayford,Kathleen Cranham,Крис Данн,Николас Фруин,Chrisentia Gonzales,Alex Harvey,Jack Hawks,Gareth Lawrence,Badr Luqman,Alice Marshall",
-        "description": "Убийство, мотив и главного подозреваемого нельзя скрывать вечно.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "5160",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNjVhMzNkMWQtMDllYy00OGZjLWFlMDYtMDY4ZDdiODg2ZjMwXkEyXkFqcGdeQXVyMzY3NzQxMDM@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "1",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
         }
       }
     }
