@@ -2,6 +2,318 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1134027",
+      "date": "1575373210",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Рикки Раппер и Силач",
+        "orig": "Risto Räppääjä ja pullistelija",
+        "alter": "",
+        "year": "2019",
+        "country": "Финляндия",
+        "director": "Маркус Лехмусруусу",
+        "genre": "семейный",
+        "actors": "Силму Стольберг,Луми Каллио,Ээлис Кесяляйнен,Юлерми Райямаа,Памела Тола,Тимо Лавикайнен,Uolevi Ojala,Дженни Хакала,Aki Rumbin,Ninni Korsow",
+        "description": "Рикки и его лучшая подруга Нелли Нудлхед, а также их неразлучный сосед Леннарт Линдберг отправились хорошенечко отдохнуть на турбазу. Там они встречают Билла и Сильвестра Пентинена, отца и сына, которые готовятся к соревнованию силачей. Нелли неожиданно проявляет интерес к мужским забавам. В то же время Рикки и Леннарт хотят показать, что они не цыплята, и просят тетю Фрэн подготовить их к соревнованиям по армрестлингу.",
+        "slogan": "",
+        "premiere": "15 февраля 2019",
+        "age": "6",
+        "time": "5040",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1134027.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "56",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "72"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1139849",
+      "date": "1575372440",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "SuperЗять",
+        "orig": "Le gendre de ma vie",
+        "alter": "",
+        "year": "2018",
+        "country": "Франция",
+        "director": "Франсуа Дезанья",
+        "genre": "комедия",
+        "actors": "Кад Мерад, Полин Этьен, Жюли Гайе, Франсуа Деблок, Забу Брайтман, Гийом Лаббе, Хлоя Жуанне, Луиз Колдефи, Жереми Лопез, Беранжер Криеф",
+        "description": "Если папа - псих, который в каждом твоём случайном знакомом видит своего будущего зятя - это большая проблема! Твоя старшая сестра доведена папиными выходками до отчаяния и решает скрыть свою свадьбу. А младшая уже вовсю борется за права женщин. И вы решаете его проучить...",
+        "slogan": "Женись на моей дочке, чувак",
+        "premiere": "19 декабря 2018",
+        "age": "16",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1139849.jpg",
+        "rating": {
+          "rating_kp": "6.046",
+          "vote_num_kp": "6242",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "408"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "462353",
+      "date": "1575371910",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "LostFilm",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "13",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080
+        }
+      },
+      "info": {
+        "rus": "Титаны",
+        "orig": "Titans",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Брэд Андерсон, Кэрол Бенкер, Джон Фоусет",
+        "genre": "боевик,фантастика,фэнтези,драма,приключения",
+        "actors": "Тиган Крофт, Брентон Туэйтс, Анна Диоп, Райан Поттер, Алан Ричсон, Минка Келли, Каррен Уолтерс, Конор Лесли, Томасо Санелли, Рид Бирни",
+        "description": "В надежде остановить своего отца - древнего демона Тригона - обладательница невероятных способностей девушка Рэйвен обращается за помощью к Робину. Бывший напарник Бэтмена теперь сам вершит правосудие на улицах Готэма, но, чтобы остановить зло, Рэйвен и Робину понадобится подмога.",
+        "slogan": "",
+        "premiere": "3 октября 2018",
+        "age": "0",
+        "time": "2700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462353.jpg",
+        "rating": {
+          "rating_kp": "7.081",
+          "vote_num_kp": "9955",
+          "rating_imdb": "7.7",
+          "vote_num_imdb": "69505"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "797709",
+      "date": "1575299023",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Одной левой",
+        "orig": "Одной левой",
+        "alter": "",
+        "year": "2015",
+        "country": "Россия",
+        "director": "Армен Ананикян, Виталий Рейнгеверц",
+        "genre": "комедия,фэнтези,мелодрама",
+        "actors": "Дмитрий Нагиев, Полина Гагарина, Роман Ладнев, Константин Крюков, Михаил Галустян, Ян Цапник, Наталья Костенева, Константин Юшкевич, Арман Ананикян, Илана Юрьева",
+        "description": "Макс - успешный скульптор. Он убежденный холостяк. У него нет отбоя от девушек и выгодных заказов. Привычный ход жизни нарушает собственная правая рука Макса. Она перестает слушаться его и ведет себя, как рука избалованной девушки. Друзья, клиенты и поклонницы думают, что Макс сошел с ума. Но причина не в этом, в его руку вселилась душа незнакомки. Справится ли герой одной левой?",
+        "slogan": "",
+        "premiere": "15 мая 2015",
+        "age": "12",
+        "time": "4740",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_797709.jpg",
+        "rating": {
+          "rating_kp": "5.279",
+          "vote_num_kp": "21230",
+          "rating_imdb": "4.4",
+          "vote_num_imdb": "414"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1261546",
+      "date": "1575297514",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кругосветное путешествие Элькано и Магеллана",
+        "orig": "Elcano y Magallanes. La primera vuelta al mundo",
+        "alter": "",
+        "year": "2019",
+        "country": "Испания",
+        "director": "Анхель Алонсо",
+        "genre": "мультфильм,мелодрама,приключения",
+        "actors": "Кико Хауреги,Иньяки Бераэче,Айнцане Круэйрас,Хосе Вера,Андер Вильдосола Гала,Кандидо Уранга,Ксавьер Алькиза,Джон Саманьего,Мартин Забала,Манью Элисондо",
+        "description": "Севилья, 1519 год. Прославленный адмирал Фернандо Магеллан снаряжает пять кораблей, чтобы отплыть к экзотическим островам. Путешествие обещает быть опасным и больше похожим на авантюру. Позже к команде присоединяется молодой искатель приключений Хуан Себастьян Элькано, горе-капитан, потерявший свое единственное судно и едва не угодивший за решетку. Вместе им предстоит преодолеть все трудности на пути к величайшим открытиям.",
+        "slogan": "",
+        "premiere": "23 марта 2019",
+        "age": "6",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1261546.jpg",
+        "rating": {
+          "rating_kp": "5.31",
+          "vote_num_kp": "563",
+          "rating_imdb": "4.2",
+          "vote_num_imdb": "298"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1046065",
+      "date": "1575297346",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Бобот и энергия Вселенной",
+        "orig": "Бобот и энергия Вселенной",
+        "alter": "",
+        "year": "2018",
+        "country": "Украина",
+        "director": "Максим Ксенда",
+        "genre": "фантастика,приключения,семейный",
+        "actors": "Тарас Шевченко, Виктор Григорьев, Владимир Ращук, Арсен Шавлюк, Иванна Бородай, Игор Мирошниченко",
+        "description": "Из-за мощного взрыва на Солнце на всей Земле может исчезнуть электроэнергия. Электромагнитное поле Земли - щит, построенный людьми, - формируется специальными энергетическими Станциями, одна из которых была отключена Мусорщиками - неизвестными существами. 12-летний Вадик попадает в круговорот событий, и на его плечи ложится миссия спасения мира. Ему на помощь приходит Бобот - трансформаторная будка, носитель Энергии Вселенной. Вместе они пытаются предотвратить катастрофу.",
+        "slogan": "",
+        "premiere": "30 августа 2018",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1046065.jpg",
+        "rating": {
+          "rating_kp": "4.611",
+          "vote_num_kp": "266",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "137"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1083108",
+      "date": "1575279536",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Они ползут за тобой",
+        "orig": "Them That Follow",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Бриттани Поултон, Dan Madison Savage",
+        "genre": "триллер",
+        "actors": "Кейтлин Дивер, Уолтон Гоггинс, Оливия Колман, Льюис Пуллман, Томас Манн, Элис Энглерт, Джим Гэффиган, Доминик Кансельер, Энни Тедеско, Брэдли Галло",
+        "description": "В глубине Аппалачей запрещенные отношения заставляют дочь пастора противостоять смертельной традиции ее общины.",
+        "slogan": "We All Have Our Sins",
+        "premiere": "27 января 2019",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1083108.jpg",
+        "rating": {
+          "rating_kp": "5.038",
+          "vote_num_kp": "663",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "2879"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1057175",
+      "date": "1575217675",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Герой Нарасима Редди",
+        "orig": "Sye Raa Narasimha Reddy",
+        "alter": "",
+        "year": "2019",
+        "country": "Индия",
+        "director": "Сурендра Редди",
+        "genre": "история,военный,биография,боевик,драма",
+        "actors": "Чирандживи,Наянтара,Амитабх Баччан,Виджай Сетхупатхи,Таманна Бхатия,Судип,Анушка Шетти,Оскар Скагерберг,Рави Кишан,Нассер",
+        "description": "Индия, 1846 год. Сын бывшего феодала поднимает крестьянское восстание против новых порядков британских колонизаторов.",
+        "slogan": "",
+        "premiere": "27 сентября 2019",
+        "age": "0",
+        "time": "10020",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1057175.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "273",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "6545"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "983921",
       "date": "1575212919",
       "camrip": "0",
@@ -134,7 +446,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_744766.jpg",
         "rating": {
           "rating_kp": "6.708",
-          "vote_num_kp": "4491",
+          "vote_num_kp": "4501",
           "rating_imdb": "7.3",
           "vote_num_imdb": "17086"
         }
@@ -204,7 +516,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1074272.jpg",
         "rating": {
           "rating_kp": "5.835",
-          "vote_num_kp": "3235",
+          "vote_num_kp": "3241",
           "rating_imdb": "5.5",
           "vote_num_imdb": "819"
         }
@@ -469,9 +781,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_401522.jpg",
         "rating": {
           "rating_kp": "8.583",
-          "vote_num_kp": "148033",
+          "vote_num_kp": "148132",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "612687"
+          "vote_num_imdb": "612880"
         }
       }
     },
@@ -647,7 +959,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_504439.jpg",
         "rating": {
           "rating_kp": "7.333",
-          "vote_num_kp": "7748",
+          "vote_num_kp": "7751",
           "rating_imdb": "6.4",
           "vote_num_imdb": "23282"
         }
@@ -938,9 +1250,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_277565.jpg",
         "rating": {
           "rating_kp": "7.988",
-          "vote_num_kp": "32264",
+          "vote_num_kp": "32272",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "34634"
+          "vote_num_imdb": "34642"
         }
       }
     },
@@ -999,7 +1311,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_891439.jpg",
         "rating": {
           "rating_kp": "7.133",
-          "vote_num_kp": "4526",
+          "vote_num_kp": "4528",
           "rating_imdb": "8",
           "vote_num_imdb": "21746"
         }
@@ -1412,9 +1724,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_306084.jpg",
         "rating": {
           "rating_kp": "8.604",
-          "vote_num_kp": "317091",
+          "vote_num_kp": "317280",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "732597"
+          "vote_num_imdb": "732821"
         }
       }
     },
@@ -1446,8 +1758,8 @@
         "time": "6780",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1280594.jpg",
         "rating": {
-          "rating_kp": "5.415",
-          "vote_num_kp": "1789",
+          "rating_kp": "5.414",
+          "vote_num_kp": "1797",
           "rating_imdb": "5.1",
           "vote_num_imdb": "28"
         }
@@ -1482,9 +1794,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_596985.jpg",
         "rating": {
           "rating_kp": "6.163",
-          "vote_num_kp": "57942",
+          "vote_num_kp": "57955",
           "rating_imdb": "6",
-          "vote_num_imdb": "53180"
+          "vote_num_imdb": "53251"
         }
       }
     },
@@ -1516,10 +1828,10 @@
         "time": "0",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_922029.jpg",
         "rating": {
-          "rating_kp": "6.498",
-          "vote_num_kp": "28456",
+          "rating_kp": "6.499",
+          "vote_num_kp": "28480",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "17716"
+          "vote_num_imdb": "17729"
         }
       }
     },
@@ -1622,9 +1934,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_303.jpg",
         "rating": {
           "rating_kp": "7.157",
-          "vote_num_kp": "69456",
+          "vote_num_kp": "69486",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "205060"
+          "vote_num_imdb": "205089"
         }
       }
     },
@@ -1657,7 +1969,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_81965.jpg",
         "rating": {
           "rating_kp": "6.58",
-          "vote_num_kp": "33052",
+          "vote_num_kp": "33061",
           "rating_imdb": "5.4",
           "vote_num_imdb": "51916"
         }
@@ -1692,7 +2004,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_566549.jpg",
         "rating": {
           "rating_kp": "7.445",
-          "vote_num_kp": "16858",
+          "vote_num_kp": "16869",
           "rating_imdb": "6.3",
           "vote_num_imdb": "203"
         }
@@ -1727,7 +2039,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_842910.jpg",
         "rating": {
           "rating_kp": "7.302",
-          "vote_num_kp": "26124",
+          "vote_num_kp": "26169",
           "rating_imdb": "7.2",
           "vote_num_imdb": "6405"
         }
@@ -1797,7 +2109,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1114960.jpg",
         "rating": {
           "rating_kp": "6.941",
-          "vote_num_kp": "3328",
+          "vote_num_kp": "3333",
           "rating_imdb": "6.5",
           "vote_num_imdb": "169"
         }
@@ -1832,7 +2144,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_993213.jpg",
         "rating": {
           "rating_kp": "5.85",
-          "vote_num_kp": "22005",
+          "vote_num_kp": "22011",
           "rating_imdb": "5.6",
           "vote_num_imdb": "817"
         }
@@ -1867,7 +2179,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1145272.jpg",
         "rating": {
           "rating_kp": "7.33",
-          "vote_num_kp": "3111",
+          "vote_num_kp": "3114",
           "rating_imdb": "7.5",
           "vote_num_imdb": "6629"
         }
@@ -1901,8 +2213,8 @@
         "time": "5100",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1041723.jpg",
         "rating": {
-          "rating_kp": "6.529",
-          "vote_num_kp": "18956",
+          "rating_kp": "6.531",
+          "vote_num_kp": "18968",
           "rating_imdb": "5.9",
           "vote_num_imdb": "10491"
         }
@@ -1936,8 +2248,8 @@
         "time": "5400",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1209780.jpg",
         "rating": {
-          "rating_kp": "7.487",
-          "vote_num_kp": "14523",
+          "rating_kp": "7.501",
+          "vote_num_kp": "14575",
           "rating_imdb": "6.6",
           "vote_num_imdb": "1416"
         }
@@ -1972,9 +2284,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462466.jpg",
         "rating": {
           "rating_kp": "6.667",
-          "vote_num_kp": "71644",
+          "vote_num_kp": "71666",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "246153"
+          "vote_num_imdb": "246211"
         }
       }
     },
@@ -2007,7 +2319,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462626.jpg",
         "rating": {
           "rating_kp": "7.101",
-          "vote_num_kp": "18841",
+          "vote_num_kp": "18845",
           "rating_imdb": "7.1",
           "vote_num_imdb": "46389"
         }
@@ -2042,9 +2354,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3997.jpg",
         "rating": {
           "rating_kp": "6.906",
-          "vote_num_kp": "21584",
+          "vote_num_kp": "21599",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "89022"
+          "vote_num_imdb": "89037"
         }
       }
     },
@@ -2077,9 +2389,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_729.jpg",
         "rating": {
           "rating_kp": "7.763",
-          "vote_num_kp": "70298",
+          "vote_num_kp": "70314",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "174155"
+          "vote_num_imdb": "174187"
         }
       }
     },
@@ -2112,9 +2424,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_863.jpg",
         "rating": {
           "rating_kp": "7.829",
-          "vote_num_kp": "83621",
+          "vote_num_kp": "83639",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "398772"
+          "vote_num_imdb": "398897"
         }
       }
     },
@@ -2147,9 +2459,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_750.jpg",
         "rating": {
           "rating_kp": "7.513",
-          "vote_num_kp": "94721",
+          "vote_num_kp": "94739",
           "rating_imdb": "7",
-          "vote_num_imdb": "314235"
+          "vote_num_imdb": "314289"
         }
       }
     },
@@ -2182,9 +2494,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_392557.jpg",
         "rating": {
           "rating_kp": "7.104",
-          "vote_num_kp": "75073",
+          "vote_num_kp": "75084",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "163707"
+          "vote_num_imdb": "163728"
         }
       }
     },
@@ -2217,9 +2529,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_12330.jpg",
         "rating": {
           "rating_kp": "7.256",
-          "vote_num_kp": "43187",
+          "vote_num_kp": "43207",
           "rating_imdb": "6",
-          "vote_num_imdb": "98068"
+          "vote_num_imdb": "98086"
         }
       }
     },
@@ -2252,9 +2564,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5594.jpg",
         "rating": {
           "rating_kp": "7.545",
-          "vote_num_kp": "42194",
+          "vote_num_kp": "42210",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "177563"
+          "vote_num_imdb": "177617"
         }
       }
     },
@@ -2322,289 +2634,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3665.jpg",
         "rating": {
           "rating_kp": "6.567",
-          "vote_num_kp": "50458",
+          "vote_num_kp": "50467",
           "rating_imdb": "5.5",
           "vote_num_imdb": "131763"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "919978",
-      "date": "1574683727",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Двухголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Переводчик",
-        "orig": "Un traductor",
-        "alter": "",
-        "year": "2018",
-        "country": "Куба,Канада",
-        "director": "Родриго Барриусо,Sebastián Barriuso",
-        "genre": "драма",
-        "actors": "Родриго Санторо,Марисель Альварес,Йоандра Суарес,Nikita Semenov,Jorge Carlos Perez Herrera,Геннадий Долганов,Milda Gecaite,Эслинда Нуньес,Освальдо Доимеадиос,Laura Mia Ravelo Hernandez",
-        "description": "Для прохождения лучевой терапии на Кубу приезжают дети после ядерной катастрофы в Чернобыле. Малин, учитель русской литературы Гаванского Университета, вынужден на время расстаться со своей работой, чтобы стать переводчиком в больнице. Вырванному из привычного мира, ему придется столкнуться с трудностями и постараться найти ответы на многие вопросы. Фильм основан на реальных событиях.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_919978.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "74",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "699"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1048297",
-      "date": "1574674640",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Медовый месяц",
-        "orig": "Elizabeth Harvest",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Себастьян Гутьеррес",
-        "genre": "фантастика,триллер",
-        "actors": "Эбби Ли, Киран Хайндс, Карла Гуджино, Мэттью Бирд, Дилан Бейкер",
-        "description": "Элизабет всегда мечтала очаровать достойного человека, и чтобы он увёз её подальше ото всех уродств этого мира. И вот мечта сбывается - девушка выходит замуж за блестящего учёного Генри, на много лет её старше. Тот привозит жену в свой особняк, и говорит, что все в этом доме - для неё, кроме одной комнаты, в которую нельзя заходить ни в коем случае. Прислуга относится к новой хозяйке с почтением, но та чувствует, что что-то не так. Однажды, когда супруг отлучается по делам, Элизабет решает выяснить, что же это за загадочная запретная комната.",
-        "slogan": "",
-        "premiere": "10 марта 2018",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1048297.jpg",
-        "rating": {
-          "rating_kp": "5.691",
-          "vote_num_kp": "3901",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "7126"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1246996",
-      "date": "1574638874",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Неожиданный свидетель",
-        "orig": "Faan zeoi jin coeng",
-        "alter": "",
-        "year": "2019",
-        "country": "Гонконг",
-        "director": "Эндрю Фун",
-        "genre": "триллер,криминал,детектив",
-        "actors": "Луис Ку,Джессика Хестер Сюань,Луис Чхён,Патрик Там,Филип Кюн,Сэм Ли,Энди Он,Фиона Сит",
-        "description": "Операция по обезвреживанию грабителей ювелирного магазина закончилась кровавой бойней, а главарь банды смог скрыться. Однако это станет только началом череды криминальных и запутанных событий, в которых не все так очевидно, как казалось полицейским на первый взгляд.",
-        "slogan": "",
-        "premiere": "12 октября 2019",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1246996.jpg",
-        "rating": {
-          "rating_kp": "5.941",
-          "vote_num_kp": "102",
-          "rating_imdb": "6",
-          "vote_num_imdb": "529"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1298703",
-      "date": "1574589797",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Тайна омелы",
-        "orig": "The Mistletoe Secret",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Терри Инграм",
-        "genre": "драма",
-        "actors": "Келли Пиклер,Тайлер Хайнс,Кристофер Расселл,Патрик Даффи,Беверли Эллиотт,Адриан Неблетт,Марк Доцлав,Marlea Cleveland",
-        "description": "Писатель приезжает в небольшой городок в поисках идеального рождества, и встречает очаровательную хозяйку закусочной. Всё бы ничего, но давно хранимый писателем секрет грозит разрушить всё хорошее. Удасться ли героям преодолеть беды и встретить Рождество?",
-        "slogan": "",
-        "premiere": "10 ноября 2019",
-        "age": "0",
-        "time": "0",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNjQzY2Y0NDQtNTk4YS00OWU4LWFkMDQtZTVlODBlMTE3NTc3XkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "42",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "891"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "940704",
-      "date": "1574589558",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Ниже нас",
-        "orig": "Beneath Us",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Max Pachman",
-        "genre": "ужасы,триллер",
-        "actors": "Линн Коллинс,Риго Санчес,Хосуэ Агирре,Джеймс Таппер,Роберто «Санс» Санчес,Thomas Chavira,Николас Гонсалес,Эди Ганем,Эндрю Бёрлинсон,Дэвид Кастро",
-        "description": "Каждый день сотни рабочих без документов садятся в машины к незнакомцам, обещающим хорошие деньги за выполнение работы. Компания мексиканцев нанимается к богатой американке ремонтировать домик для гостей, не представляя, каким кошмаром для них это обернётся.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://m.media-amazon.com/images/M/MV5BODE0NWRjMjItMDFmYS00OTMwLThjYzctZDNiNjVjODM1MWRjXkEyXkFqcGdeQXVyMTg2MDM2NjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-        "rating": {
-          "rating_kp": "5.236",
-          "vote_num_kp": "257",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "1415"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1252988",
-      "date": "1574589416",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Рыцарь перед Рождеством",
-        "orig": "The Knight Before Christmas",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Моника Митчелл",
-        "genre": "мелодрама,фэнтези",
-        "actors": "Ванесса Энн Хадженс,Эммануэль Шрики,Джош Уайтхаус,Harry Jarvis,Мими Джианопулос,Элла Кеньон,Andrea Senior,Джейкоб Соли,Оливия Гуданец,Telysa Chandler",
-        "description": "Средневековый рыцарь сэр Коул переносится в современный Огайо, где знакомится со школьной учительницей Брук. Она поможет ему разобраться в хитросплетениях высокотехнологического общества и выполнить возложенную на него миссию, а он напомнит ей о силе любви.",
-        "slogan": "",
-        "premiere": "21 ноября 2019",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1252988.jpg",
-        "rating": {
-          "rating_kp": "5.936",
-          "vote_num_kp": "1805",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "15220"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "702904",
-      "date": "1574555087",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Куда ты пропала, Бернадетт?",
-        "orig": "Where'd You Go, Bernadette",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Ричард Линклейтер",
-        "genre": "драма,комедия,детектив",
-        "actors": "Кейт Бланшетт,Джуди Грир,Кристен Уиг,Тройэн Эвери Беллисарио,Билли Крудап,Лоренс Фишбёрн,Стив Зан,Меган Маллалли,Клаудия Дурмит,Йоуханнес Хёйкьюр Йоуханнессон",
-        "description": "У Бернадетт, очаровательной женщины и талантливого архитектора, есть всё: прекрасный дом, замечательная дочь, успешный и любящий муж. Хоть она и выбивается из &laquo;безупречной&raquo; компании соседских мамаш, никто не мог представить, что в один прекрасный день Бернадетт просто исчезнет без следа. Она отправляется на поиски себя, пытаясь обрести счастье на краю света.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_702904.jpg",
-        "rating": {
-          "rating_kp": "6.778",
-          "vote_num_kp": "15312",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "18208"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "77421",
-      "date": "1574505017",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Звездная битва: Сквозь пространство и время",
-        "orig": "Thru the Moebius Strip",
-        "alter": "",
-        "year": "2005",
-        "country": "Китай",
-        "director": "Гленн Чайка",
-        "genre": "мультфильм,фантастика,приключения",
-        "actors": "Джонатан Тейлор Томас, Крис Маркетт, Марк Хэмилл, Майкл Дорн, Андреа Леон, Пери Гилпин, Келли Мартин, Дэниэл Дэвис, Ди Брэдли Бейкер, Джон ДеМита",
-        "description": "Физик и изобретатель Саймон Вейр создал портал, позволяющий перемещаться во времени и пространстве. Во время эксперимента он попадает в ловушку и оказывается на далекой изолированной планете.\r\n\r\nСемь лет спустя, его 14-летний сын, Джек Вейр, находчивый и изобретательный паренек, так и не смирившийся с тем, что его отец пропал без вести, находит портал и попадает на планету Рафикка, ровно на 27, 2 миллиона световых лет назад. Там Джек узнает, что его отец - узник королевства, управляемого гигантскими инопланетянами, верящими в волшебство и живущим по рыцарским законам средневековья...",
-        "slogan": "",
-        "premiere": "30 декабря 2005",
-        "age": "12",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77421.jpg",
-        "rating": {
-          "rating_kp": "5.56",
-          "vote_num_kp": "355",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "508"
         }
       }
     }

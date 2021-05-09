@@ -2,6 +2,286 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1272313",
+      "date": "1579395876",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Буйный",
+        "orig": "Nanpokhan girok",
+        "alter": "",
+        "year": "2019",
+        "country": "Корея Южная",
+        "director": "Ха Вон-джун",
+        "genre": "боевик,криминал",
+        "actors": "Чон Ду-хон, Рю Док-хван, Со Ын-а, Чон И-гап, Ким Са-гвон, Ким Хэ-ин, Юн Сын-хун, Ли Хэ-ён",
+        "description": "Бывший детектив, который живет с застрявшим лезвием ножа в голове, северокорейский перебежчик и женщина, чья сестра оказалась в лапах мафии, разыскивают преступного босса с целью отомстить.",
+        "slogan": "",
+        "premiere": "11 июля 2019",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1272313.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "111",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "56"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1263025",
+      "date": "1579395856",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Темно, почти ночь",
+        "orig": "Ciemno, prawie noc",
+        "alter": "",
+        "year": "2019",
+        "country": "Польша",
+        "director": "Борис Ланкош",
+        "genre": "детектив,драма,криминал",
+        "actors": "Магдалена Целецка, Рафаль Маковяк, Модест Руциньски, Ежи Треля, Элиза Рыцембель, Антонина Литвиняк, Влодзимеж Дыла, Рома Гонщёровска, Александра Конечна, Nikola Karwowska",
+        "description": "Когда силезский город Валбжих потрясает серия таинственных исчезновений детей, туда приезжает журналистка Алиция Табор. Спустя годы она возвращается в родные края. Упрямая журналистка хочет познакомиться с семьями пропавших без вести и отгадать загадку, перед которой полиция оказалась бессильна. В ходе частного расследования Алиция выходит на след драматических событий, которые начались несколько десятилетий тому назад, и теперь женщине придется противостоять новой угрозе, а также тому, от чего она убегала всю свою взрослую жизнь.",
+        "slogan": "Zostalo malo czasu, by przerwac krag zla",
+        "premiere": "18 марта 2019",
+        "age": "0",
+        "time": "6840",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1263025.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "42",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "504"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1254819",
+      "date": "1579395847",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Трава зеленее",
+        "orig": "Grass is Greener",
+        "alter": "",
+        "year": "2019",
+        "country": "",
+        "director": "Фэб Файв Фредди",
+        "genre": "документальный",
+        "actors": "Би-Рил, Стивен Хагер, Дэмиэн Марли, Снуп Догг",
+        "description": "Grass Is Greener - это новый документальный фильм от Netflix , рассказывает историю марихуаны в США, тревоги и паранойи пятидесятых годов в сравнении с текущим временем: легализация марихуаны в различных государствах, рождению субкультуры, связанной с курением и криминализацией на расовой основе.",
+        "slogan": "",
+        "premiere": "20 апреля 2019",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1254819.jpg",
+        "rating": {
+          "rating_kp": "7.324",
+          "vote_num_kp": "280",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "1143"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1253805",
+      "date": "1579395838",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Однажды в Дэдвуде",
+        "orig": "Once Upon a Time in Deadwood",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Рене Перез",
+        "genre": "вестерн",
+        "actors": "Robert Bronzi, Майкл Паре, Карин Браунс, Лорен Комптон, Chris Matteis, George Merino, Джефф Миллер, Джастин Хоукинс, J.D. Angstadt, Tony Jackson",
+        "description": "Будучи отравлленным смертельным ядом, бывшему полковнику не остается иного выбора, как отправиться на спасение сестры богатой наследницы.",
+        "slogan": "",
+        "premiere": "1 октября 2019",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTBmM2Q1MGUtOWQ5My00MDkwLWFhODMtZWM4NDZmZDZlOGM0XkEyXkFqcGdeQXVyNjg0MzUyNTg@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "24",
+          "rating_imdb": "2.8",
+          "vote_num_imdb": "218"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1248563",
+      "date": "1579395827",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Убийца за кулисами",
+        "orig": "Staged Killer",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Крис Рэй",
+        "genre": "триллер",
+        "actors": "Кришелл Стаус, Николь Бильдербак, Джейсон Долли, Дэррин Девитт Хенсон, Чарли О’Коннелл, Чести Бальестерос, Деклан Джойс, Лиман Чен, Пит Джонсон, Джош Нанкио",
+        "description": "Когда бывший соведущий, Джейк Эверетт возвращается в утреннее телешоу Наоми, успех телепередачи начинает расти, но личная жизнь девушки стремительно рушится.",
+        "slogan": "",
+        "premiere": "25 июня 2019",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2JhZDExOGYtOTcwZS00YWExLWFmM2MtZWVhNTAyOTJkMTBmXkEyXkFqcGdeQXVyMTQyNDk2NzE@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": "3.4",
+          "vote_num_imdb": "218"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1246421",
+      "date": "1579395824",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Джесси",
+        "orig": "Jessie",
+        "alter": "",
+        "year": "2019",
+        "country": "Индия",
+        "director": "Aswani Kumar V.",
+        "genre": "ужасы,триллер",
+        "actors": "Sritha Chandana, Pavani Gangireddy, Abhinav Gomatam, Vimal Krishna, Атул Кулкарни, Abhishek Maharshi, Purnima Maudgil, Ashima Narwal, Archana Shastry, Кабир",
+        "description": "Действие фильма происходит в заброшенном особняке, в котором команда профессиональных охотников за призраками проводит паранормальное расследование, чтобы раскрыть тайну двух сестер Джесси и Эми…",
+        "slogan": "Believe nothing you hear and only half of what you see!",
+        "premiere": "15 марта 2019",
+        "age": "0",
+        "time": "6360",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjc1Njc1MTMtNmMxNS00OTgxLTgzY2YtYjlhYzJkMGRmNjgwXkEyXkFqcGdeQXVyODYzMzY3Mzc@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "19",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "381"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1243995",
+      "date": "1579395816",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Шторм P",
+        "orig": "P Storm",
+        "alter": "",
+        "year": "2019",
+        "country": "Гонконг, Китай",
+        "director": "Дэвид Лам",
+        "genre": "боевик,детектив,криминал",
+        "actors": "Луис Ку, Кевин Чэн, Рэймонд Лам, Гордон Лам, Крисси Чау, Джулиан Чун, Ай Вэй, Дада Чан, Чэнь Мань-Но, Деон Чун",
+        "description": "Уильям Люк, главный следователь, отправляется в тюрьму под прикрытием, чтобы расследовать дело о взятничестве.",
+        "slogan": "",
+        "premiere": "4 апреля 2019",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1243995.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "46",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "531"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1238620",
+      "date": "1579395809",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Чистый лист",
+        "orig": "Blank",
+        "alter": "",
+        "year": "2019",
+        "country": "Индия",
+        "director": "Behzad Khambata",
+        "genre": "боевик,триллер",
+        "actors": "Санни Деол, Karan Kapadia, Каранвир Шарма, Ишита Дутта, Rashika Pradhan, Хемант Чаудхари, Шаджи Чаудхари, Комал Чабрия, Санджай Гурбаксани, Джамиль Кхан",
+        "description": "После аварии мужчину доставляют в больницу, где обнаруживают на его груди бомбу. Кто он? Террорист-смертник или человек, которому насильно вживили опасную взрывчатку? Связан ли он с новой террористической организацией?",
+        "slogan": "",
+        "premiere": "3 мая 2019",
+        "age": "0",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1238620.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "28",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "912"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1237985",
       "date": "1579395808",
       "camrip": "0",
@@ -31,7 +311,7 @@
           "rating_kp": "0",
           "vote_num_kp": "46",
           "rating_imdb": "5.2",
-          "vote_num_imdb": "163"
+          "vote_num_imdb": "164"
         }
       }
     },
@@ -273,8 +553,8 @@
         "time": "6840",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1206600.jpg",
         "rating": {
-          "rating_kp": "7.349",
-          "vote_num_kp": "577",
+          "rating_kp": "7.364",
+          "vote_num_kp": "578",
           "rating_imdb": "7.3",
           "vote_num_imdb": "446"
         }
@@ -871,7 +1151,7 @@
           "rating_kp": "0",
           "vote_num_kp": "108",
           "rating_imdb": "4.8",
-          "vote_num_imdb": "1487"
+          "vote_num_imdb": "1497"
         }
       }
     },
@@ -1044,7 +1324,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115078.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "100",
+          "vote_num_kp": "101",
           "rating_imdb": "6",
           "vote_num_imdb": "1003"
         }
@@ -1464,297 +1744,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1049076.jpg",
         "rating": {
           "rating_kp": "6.22",
-          "vote_num_kp": "567",
+          "vote_num_kp": "568",
           "rating_imdb": "6.5",
           "vote_num_imdb": "1251"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1048746",
-      "date": "1579395427",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Плохой коп",
-        "orig": "Akjilgyeongchal",
-        "alter": "",
-        "year": "2019",
-        "country": "Корея Южная",
-        "director": "Ли Джон-бом",
-        "genre": "боевик,триллер,детектив,криминал",
-        "actors": "Ли Сон-гюн, Чон Со-ни, Пак Хэ-джун, Сон Ён-чхан, Пак Пён-ын, Им Хён-гук, Ким Мин-джэ, Квон Хан-соль, Ли Ю-ён, Чон Га-рам",
-        "description": "Беспринципный полицейский Чо Пиль-хо не гнушается грязными способами заработка - берёт взятки и даже работает в паре с грабителем. А когда к нему вплотную подбираются детективы из отдела внутренних расследований, Пиль-хо вынуждает своего криминального напарника обчистить полицейский склад вещдоков. Но во время ограбления происходит мощный взрыв и пожар - грабитель погибает, а сам Пиль-хо теряет сознание на месте преступления. Очнувшись в больнице, он узнаёт, что начальник в бешенстве, а отдел внутренних расследований радостно потирает руки, и теперь плохому копу придётся очень сильно постараться, чтобы выкрутиться из этой ситуации.",
-        "slogan": "",
-        "premiere": "20 марта 2019",
-        "age": "0",
-        "time": "7620",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1048746.jpg",
-        "rating": {
-          "rating_kp": "6.482",
-          "vote_num_kp": "414",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "1585"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1048023",
-      "date": "1579395424",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Присяжные",
-        "orig": "Baesimwondeul",
-        "alter": "",
-        "year": "2019",
-        "country": "Корея Южная",
-        "director": "Хон Сын-ван",
-        "genre": "комедия,детектив,драма,криминал",
-        "actors": "Мун Со-ри, Пак Хён-щик, Пэк Су-джан, Чо Су-хян, Чо Хан-чхоль, Ким Ми-гён, Юн Гён-хо, Со Джон-ён, Ким Хон-пха, Со Хён-у",
-        "description": "2008 год. Впервые в судебной истории Южной Кореи восемь гражданских присяжных участвуют в заседании по уголовному делу. Обвиняемый уже сознался в преступлении, поэтому их задача - решить, какой срок он получит. Процесс привлекает повышенное внимание прессы. Председатель районного суда желает отчитаться перед начальством, назначенная судья стремится к повышению, а присяжный номер 8, попавший на это место взамен отсутствующего, кажется, единственный, кто хочет разобраться - виновен подсудимый или нет.",
-        "slogan": "",
-        "premiere": "15 мая 2019",
-        "age": "0",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1048023.jpg",
-        "rating": {
-          "rating_kp": "7.176",
-          "vote_num_kp": "258",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "609"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1043628",
-      "date": "1579395416",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Король велосипеда Ом Бок-тон",
-        "orig": "Jajeonchawang Eom Bok-dong",
-        "alter": "",
-        "year": "2019",
-        "country": "Корея Южная",
-        "director": "Ким Ю-сон",
-        "genre": "история,драма,биография,спорт",
-        "actors": "Рэйн, Кан Со-ра, Ли Бом-су, Мин Хё-рин, Ким Хи-вон, Ко Чхан-сок, Ли Щи-он, Пак Чин-джу, Сон Джэ-хо, Пак Кын-хён",
-        "description": "История жизни легендарного корейского велогонщика Ом Бок-тона, национальной корейской звезды времен японской оккупации. В 1913 году молодой Бок-тон был обычным разносчиком газет, когда впервые принял участие в профессиональной велогонке. Пройдёт всего несколько лет, и звезда Кёнсона будет вызывать ненависть у конкурентов-японцев и радость в сердце у всего корейского народа.",
-        "slogan": "",
-        "premiere": "27 февраля 2019",
-        "age": "0",
-        "time": "6960",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1043628.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "70",
-          "rating_imdb": "6",
-          "vote_num_imdb": "61"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1043120",
-      "date": "1579395414",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Темное чувство",
-        "orig": "Dark Sense",
-        "alter": "",
-        "year": "2019",
-        "country": "Великобритания",
-        "director": "Magnus Wake",
-        "genre": "триллер",
-        "actors": "Джеймс Робинсон, Гордон Кеннеди, Шиван Редмонд, Джим Старджон, Ким Аллан, Шэрон Янг, Shane O'Meara, Маргарет Энн Бэйн, Кенни Блит, Керн Фалконер",
-        "description": "Саймон, молодой человек с удивительными способностями, выслеживает серийного убийцу, сражаясь не только со своими собственными проблемами, но и с спецслужбами, которые решили, что Саймон слишком опасен, чтобы оставаться на свободе.",
-        "slogan": "",
-        "premiere": "17 мая 2019",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMDcxM2Q3YTUtNWJjMC00NGVkLWE5ZDMtOWIzMmQ0NGE3OGNhXkEyXkFqcGdeQXVyNTM0MTQyOTM@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "10",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "287"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1030398",
-      "date": "1579395402",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Берсерк",
-        "orig": "Berserk",
-        "alter": "",
-        "year": "2019",
-        "country": "Австралия",
-        "director": "Риз Уэйкфилд",
-        "genre": "триллер,фэнтези",
-        "actors": "Эрин Мориарти, Джеймс Родэй, Нора Арнезедер, Ник Кэннон, Риз Уэйкфилд, Джек Фалахи, Dolly Gray",
-        "description": "Трое друзей узнают, что ни один из них ни разу в жизни не сталкивался с чувством настоящего страха. Однажды ночью они решают исправить это недоразумение и жестко разыгрывают друг друга.",
-        "slogan": "",
-        "premiere": "5 апреля 2019",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1030398.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "48",
-          "rating_imdb": "3.8",
-          "vote_num_imdb": "224"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1022040",
-      "date": "1579395397",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Шкуры",
-        "orig": "Skin in the Game",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Адиса Джонс",
-        "genre": "триллер",
-        "actors": "Гидеон Адлон, Элизабет Арнуа, Сэмми Ханратти, Анхелика Селая, Эрика Эш, Гэйл Бин, Синтия Кармона, Меган МакГоун, Джей Хайрон, Stefanée Martin",
-        "description": "Похищенная на окраине города пятнадцатилетняя Дэни оказывается взаперти дома в подпольном мире торговли людьми. Разочаровавшись в бездействии полиции, её мать с помощью бывшей проститутки отправляется на улицы в попытках найти свою дочь, пока не стало слишком поздно.",
-        "slogan": "",
-        "premiere": "27 марта 2019",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1022040.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "18",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "189"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1017397",
-      "date": "1579395394",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "2",
-      "episodes": {
-        "1": {
-          "1": 720,
-          "2": 720
-        }
-      },
-      "info": {
-        "rus": "Меня зовут Мохаммед Али",
-        "orig": "What's My Name: Muhammad Ali",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Антуан Фукуа",
-        "genre": "документальный,биография,спорт",
-        "actors": "Билл Косби, Джим Браун, Арета Франклин, Осси Дэвис, Мухаммед Али, Стив Аллен, Дик Каветт, Джордж Формен, Берри Горди, Джо Фрейзер",
-        "description": "6 февраля 1967 года Мохаммед Али избивал Эрни Террелла на стадионе в Хьюстоне. Всякий раз он отказывался наносить решающий удар, который бы отправил соперника в нокаут, - и всякий раз спрашивал у Террелла: «Как меня зовут?». Али был по-настоящему зол: перед схваткой Террелл уж слишком назойливо называл его старым именем - Кассиус Клей.\r\n\r\nКлей сменил имя за три года до этого поединка, фактически став первым мусульманином-суперзвездой в истории поп-культуры. Сторонник чернокожего исламского радикала Малькольма Икс, демонстративно отказавшийся воевать во Вьетнаме, Али был великим бойцом не только на ринге, но и за его пределами.",
-        "slogan": "",
-        "premiere": "28 апреля 2019",
-        "age": "0",
-        "time": "9900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1017397.jpg",
-        "rating": {
-          "rating_kp": "7.915",
-          "vote_num_kp": "782",
-          "rating_imdb": "8.5",
-          "vote_num_imdb": "1725"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1000985",
-      "date": "1579395382",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Она – всего лишь тень",
-        "orig": "She's Just a Shadow",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Адам Шерман",
-        "genre": "триллер,драма,криминал",
-        "actors": "Тао Окамото, Харука Абэ, Кихиро, Кентес Асака, Мерседес Максвелл, Маркус Джонсон, Харуна Аянэ, Мики Кертис, Норико Арай, Райиа Бароуди",
-        "description": "Японской сутенерше, её проституткам и преступному миру, с которым она имеет дело, приходится столкнуться с сумасшедшим маньяком, который убивает её девочек, привязывая их к железнодорожным путям.",
-        "slogan": "",
-        "premiere": "19 июля 2019",
-        "age": "0",
-        "time": "7080",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1000985.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "23",
-          "rating_imdb": "4",
-          "vote_num_imdb": "180"
         }
       }
     }
