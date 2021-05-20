@@ -2,6 +2,356 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1009467",
+      "date": "1578668567",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Сезонные поздравления",
+        "orig": "Season's Greetings",
+        "alter": "",
+        "year": "2016",
+        "country": "Канада",
+        "director": "Аллан Хэрмон",
+        "genre": "комедия",
+        "actors": "Лаура Белл Банди,Кэйси Мандерсон,Вив Ликок,Кэрри Гензел,Калын Майлс,Мэтти Финочио,Линда Дарлоу,Гари Хетерингтон,Драм Гаррет,Gareth Smart",
+        "description": "Корпоративная встряска происходит во время праздников и нарушает планы любящей кошек сотрудницы, которая довольна своей работой.",
+        "slogan": "",
+        "premiere": "11 декабря 2016",
+        "age": "0",
+        "time": "0",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1009467.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "27",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "620"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "806674",
+      "date": "1578658580",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Гость на Рождество",
+        "orig": "Guess Who's Coming to Christmas",
+        "alter": "",
+        "year": "2013",
+        "country": "Канада",
+        "director": "Кристоффер Табори",
+        "genre": "комедия,мелодрама",
+        "actors": "Дрю Лаше, МакКензи Портер, Элли Харви, Питер ЛаКруа, Эван Бёрд, Мэтт Уорд, Оливия Ченг, Бренда Кричлоу, Рэнди Чевелдэйв, Диана Банг",
+        "description": "Уставший от жизни рокер соглашается выступить на рождественском концерте в маленьком городе. Вскоре его покоряет тихая и спокойная местная жизнь.",
+        "slogan": "",
+        "premiere": "8 декабря 2013",
+        "age": "12",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_806674.jpg",
+        "rating": {
+          "rating_kp": "5.943",
+          "vote_num_kp": "321",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "575"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1113039",
+      "date": "1578617501",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Перспектива",
+        "orig": "Prospect",
+        "alter": "",
+        "year": "2018",
+        "country": "Канада, США",
+        "director": "Кристофер Колдуэлл, Зик Эрл",
+        "genre": "фантастика,триллер,драма",
+        "actors": "Софи Тэтчер, Педро Паскаль, Джей Дюпласс, Luke Pitzrick, Arthur Deranleau, Андре Ройо, Alex McCauley, Doug Dawson, Krista Johnson, Brian Gunter",
+        "description": "Отец с дочерью отправляются на отдалённую планету, где планируют собирать драгоценные камни, сокрытые в глубине лесов. Добыв один, они натыкаются на двух опасных конкурентов. Из-за недопонимания и жадности между ними происходит перестрелка, в результате которой один из встреченных и отец погибают. Теперь, чтобы выжить на враждебной планете с ядовитой атмосферой, девушке придётся сотрудничать с оставшимся в живых незнакомцем.",
+        "slogan": "No One Survives Alone",
+        "premiere": "10 марта 2018",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1113039.jpg",
+        "rating": {
+          "rating_kp": "6.261",
+          "vote_num_kp": "9661",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "23097"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "918727",
+      "date": "1578617442",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Смотри по сторонам",
+        "orig": "Better Watch Out",
+        "alter": "",
+        "year": "2016",
+        "country": "Австралия, США",
+        "director": "Крис Пековер",
+        "genre": "комедия,триллер,криминал",
+        "actors": "Оливия ДеДжонг, Леви Миллер, Эд Оксенбульд, Алекс Микич, Дакре Монтгомери, Патрик Варбертон, Вирджиния Мэдсен, Александра Матуско, Джорджия Холлэнд, Бо Андре",
+        "description": "В доме на тихой пригородной улочке няня пытается защитить двенадцатилетнего мальчика от взломщиков, но вскоре обнаруживает, что это далеко не обыкновенное вторжение.",
+        "slogan": "You Might Be Home But You're Not Alone",
+        "premiere": "22 сентября 2016",
+        "age": "18",
+        "time": "5340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_918727.jpg",
+        "rating": {
+          "rating_kp": "6.392",
+          "vote_num_kp": "7916",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "32946"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1189592",
+      "date": "1578617238",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Чёрный и синий",
+        "orig": "Black and Blue",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Деон Тейлор",
+        "genre": "боевик,триллер,драма,криминал",
+        "actors": "Майк Колтер,Фрэнк Грилло,Рейд Скотт,Наоми Харрис,Бо Напп,Тайриз Гибсон,Кеннет Кинт Брайан,Нафиса Уильямс,Майкл Пападжон,Нельсон Бонилья",
+        "description": "Новобранец Полицейский Нового Орлеана вынужден сбалансировать свою личность как чернокожей женщины после того, как она стала свидетелем двух коррумпированных полицейских, совершивших убийство.",
+        "slogan": "The truth made her a target",
+        "premiere": "21 сентября 2019",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1189592.jpg",
+        "rating": {
+          "rating_kp": "6.367",
+          "vote_num_kp": "9270",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "17745"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "989978",
+      "date": "1578617086",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кокаиновый барон",
+        "orig": "Running with the Devil",
+        "alter": "",
+        "year": "2019",
+        "country": "Колумбия,США",
+        "director": "Джейсон Кэбелл",
+        "genre": "криминал,боевик,комедия,триллер,драма",
+        "actors": "Николас Кейдж,Лоренс Фишбёрн,Барри Пеппер,Наталия Рейес,Адам Голдберг,Коул Хаузер,Лесли Бибб,Питер Фачинелли,Клифтон Коллинз мл.,Тейт Флетчер",
+        "description": "Груз кокаина следует из Мексики через США в Канаду. Когда партия не достигает цели, лидер картеля Босс посылает своих верных помощников &amp;#151; Повара и Мужика &amp;#151; разобраться, как работает сеть поставщиков.",
+        "slogan": "Из Колумбии за 24 часа",
+        "premiere": "12 сентября 2019",
+        "age": "18",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_989978.jpg",
+        "rating": {
+          "rating_kp": "5.477",
+          "vote_num_kp": "6288",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "6694"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "711068",
+      "date": "1578574787",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "7 осколков во времени",
+        "orig": "7 Splinters in Time",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Gabriel Judet-Weinshel",
+        "genre": "фантастика,триллер,детектив",
+        "actors": "Эммануэль Шрики, Акива Шаффер, Остин Пендлтон, Сара Соколович, Ал Сапиенца, Линн Коэн, Эдоардо Баллерини, Эшли Н. Андерсон, Лорен Фокс, Giuliana Carullo",
+        "description": "Детектив расследует странное убийство и вскоре узнает, что жертвой оказывается он сам. Дальше он обнаруживает несколько клонов самого себя, и все они недружелюбны к нему.",
+        "slogan": "",
+        "premiere": "3 марта 2018",
+        "age": "0",
+        "time": "4500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_711068.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "373",
+          "rating_imdb": "3.3",
+          "vote_num_imdb": "536"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "996782",
+      "date": "1578568558",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Исцеляющая",
+        "orig": "Harmony",
+        "alter": "Гармония",
+        "year": "2018",
+        "country": "Австралия",
+        "director": "Кори Пирсон",
+        "genre": "фэнтези,триллер,мелодрама",
+        "actors": "Джессика Фалькхолт,Имон Фэррен,Джером Мейер,Жаклин Маккензи,Лес Чэнтери,Антоньетте Иесуэ,Льюис Фиц-Джералд,Тесса Джеймс,Дин Кирвуд,Тириел Мора",
+        "description": "Хармони — девушка, обладающая невероятным даром. С самого рождения у нее проявилась способность забирать через прикосновение боль и страх у людей. Но все эти людские страдания концентрируются в ней, принося невыносимые мучения. И, чтобы уравновесить накопленный страх и противостоять постоянно растущему шторму отрицательной энергии, девушке нужно ощутить настоящую любовь — самое главное чувство во Вселенной…",
+        "slogan": "Even in love, there's fear",
+        "premiere": "4 октября 2018",
+        "age": "16",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_996782.jpg",
+        "rating": {
+          "rating_kp": "5.836",
+          "vote_num_kp": "5079",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "980"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "916367",
+      "date": "1578562700",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Петсон и Финдус 2. Лучшее на свете Рождество",
+        "orig": "Pettersson und Findus 2 - Das schönste Weihnachten überhaupt",
+        "alter": "",
+        "year": "2016",
+        "country": "Германия",
+        "director": "Али Самади Ахади",
+        "genre": "семейный,мультфильм,комедия",
+        "actors": "Али Самади Ахади,Али Н. Аскин,Petra Beck,Marlene Bleek,Tom Dewulf,Antes Finley,Макс Хербрехтер,Hanna Krajci,Штефан Курт,Andreas Langsch",
+        "description": "Старик Петсон и кот Финдус живут в маленьком доме на краю шведской деревни. Однажды Петсон пообещал Финдусу лучшее на свете Рождество, но в процессе подготовки все пошло не так. Финдус боится, что праздник придется отменить и старается всеми силами помочь другу &#151; на свой манер. Множество приключений предстоит пережить главным героям фильма, их соседям и друзьям, прежде, чем случится обещанный праздник и такое веселье, которое захватит всех вокруг!",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "0",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_916367.jpg",
+        "rating": {
+          "rating_kp": "6.443",
+          "vote_num_kp": "369",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "296"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1094895",
+      "date": "1578562378",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Не доверяй никому",
+        "orig": "Trust No 1",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Daron Niemerow",
+        "genre": "боевик",
+        "actors": "Дуглас Руйяр,Бриттон Пурвис,Чарльз Джусто,Ryan Rouillard,Michele Gomez,Michael Zammito,Scott D Gold,Брэдфорд Экхарт,Пол Блэк,Eric Boles",
+        "description": "Офицер Брэдли расследует то, что кажется на первый взгляд серийным убийством, но быстро осознает, что всё куда сложнее. Не находя ответов, он идет на крайние меры - просит брата о помощи.",
+        "slogan": "You can't hide the truth",
+        "premiere": "5 апреля 2019",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTNjMDE2YjctZDI1Ni00NzY0LTg1NzEtMWFhYWU3ZDc5NDQwXkEyXkFqcGdeQXVyMjk1ODM0NTk@._V1_SY1000_CR0,0,708,1000_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "215",
+          "rating_imdb": "2.6",
+          "vote_num_imdb": "105"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "981110",
       "date": "1578561979",
       "camrip": "0",
@@ -99,7 +449,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_478869.jpg",
         "rating": {
           "rating_kp": "5.279",
-          "vote_num_kp": "14785",
+          "vote_num_kp": "14789",
           "rating_imdb": "4.9",
           "vote_num_imdb": "25155"
         }
@@ -203,8 +553,8 @@
         "time": "1020",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258094.jpg",
         "rating": {
-          "rating_kp": "7.098",
-          "vote_num_kp": "7281",
+          "rating_kp": "7.099",
+          "vote_num_kp": "7289",
           "rating_imdb": "7.1",
           "vote_num_imdb": "41"
         }
@@ -239,7 +589,7 @@
         "poster": "https://st.kp.yandex.net/images/film/64017.jpg",
         "rating": {
           "rating_kp": "8.339",
-          "vote_num_kp": "3195",
+          "vote_num_kp": "3197",
           "rating_imdb": "8.4",
           "vote_num_imdb": "17193"
         }
@@ -553,8 +903,8 @@
         "time": "5700",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_822446.jpg",
         "rating": {
-          "rating_kp": "5.632",
-          "vote_num_kp": "12170",
+          "rating_kp": "5.633",
+          "vote_num_kp": "12181",
           "rating_imdb": "5.9",
           "vote_num_imdb": "6865"
         }
@@ -729,9 +1079,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1007986.jpg",
         "rating": {
           "rating_kp": "6.883",
-          "vote_num_kp": "49120",
+          "vote_num_kp": "49155",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "694"
+          "vote_num_imdb": "695"
         }
       }
     },
@@ -824,10 +1174,10 @@
         "time": "3480",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_928407.jpg",
         "rating": {
-          "rating_kp": "7.91",
-          "vote_num_kp": "2755",
+          "rating_kp": "7.909",
+          "vote_num_kp": "2758",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "12086"
+          "vote_num_imdb": "12098"
         }
       }
     },
@@ -927,7 +1277,7 @@
           "rating_kp": "7.902",
           "vote_num_kp": "2835",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "9064"
+          "vote_num_imdb": "9065"
         }
       }
     },
@@ -1002,7 +1352,7 @@
           "rating_kp": "7.903",
           "vote_num_kp": "25447",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "65963"
+          "vote_num_imdb": "65978"
         }
       }
     },
@@ -1183,9 +1533,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_582476.jpg",
         "rating": {
           "rating_kp": "7.974",
-          "vote_num_kp": "21941",
+          "vote_num_kp": "21959",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "113749"
+          "vote_num_imdb": "113762"
         }
       }
     },
@@ -1268,9 +1618,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_696973.jpg",
         "rating": {
           "rating_kp": "7.985",
-          "vote_num_kp": "19646",
+          "vote_num_kp": "19650",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "89430"
+          "vote_num_imdb": "89452"
         }
       }
     },
@@ -1331,9 +1681,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_820513.jpg",
         "rating": {
           "rating_kp": "7.986",
-          "vote_num_kp": "8428",
+          "vote_num_kp": "8433",
           "rating_imdb": "8",
-          "vote_num_imdb": "65983"
+          "vote_num_imdb": "65995"
         }
       }
     },
@@ -1415,9 +1765,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_682468.jpg",
         "rating": {
           "rating_kp": "8.038",
-          "vote_num_kp": "91421",
+          "vote_num_kp": "91483",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "232608"
+          "vote_num_imdb": "232662"
         }
       }
     },
@@ -1508,9 +1858,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843207.jpg",
         "rating": {
           "rating_kp": "8.049",
-          "vote_num_kp": "29412",
+          "vote_num_kp": "29433",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "59060"
+          "vote_num_imdb": "59073"
         }
       }
     },
@@ -1599,9 +1949,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_518075.jpg",
         "rating": {
           "rating_kp": "8.08",
-          "vote_num_kp": "35095",
+          "vote_num_kp": "35175",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "100412"
+          "vote_num_imdb": "100429"
         }
       }
     },
@@ -1661,9 +2011,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_958500.jpg",
         "rating": {
           "rating_kp": "8.1",
-          "vote_num_kp": "50840",
+          "vote_num_kp": "50864",
           "rating_imdb": "8.6",
-          "vote_num_imdb": "227135"
+          "vote_num_imdb": "227258"
         }
       }
     },
@@ -1722,9 +2072,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_968767.jpg",
         "rating": {
           "rating_kp": "8.103",
-          "vote_num_kp": "33360",
+          "vote_num_kp": "33377",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "44275"
+          "vote_num_imdb": "44291"
         }
       }
     },
@@ -1936,9 +2286,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_505748.jpg",
         "rating": {
           "rating_kp": "8.119",
-          "vote_num_kp": "31180",
+          "vote_num_kp": "31185",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "154211"
+          "vote_num_imdb": "154234"
         }
       }
     },
@@ -1981,9 +2331,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1174230.jpg",
         "rating": {
           "rating_kp": "8.144",
-          "vote_num_kp": "8343",
+          "vote_num_kp": "8347",
           "rating_imdb": "8.9",
-          "vote_num_imdb": "98250"
+          "vote_num_imdb": "98299"
         }
       }
     },
@@ -2085,9 +2435,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_723959.jpg",
         "rating": {
           "rating_kp": "8.303",
-          "vote_num_kp": "54740",
+          "vote_num_kp": "54776",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "129513"
+          "vote_num_imdb": "129546"
         }
       }
     },
@@ -2172,360 +2522,10 @@
         "time": "5940",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1179577.jpg",
         "rating": {
-          "rating_kp": "6.642",
-          "vote_num_kp": "12046",
+          "rating_kp": "6.644",
+          "vote_num_kp": "12079",
           "rating_imdb": "6.4",
           "vote_num_imdb": "825"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "843104",
-      "date": "1578397554",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Крампус",
-        "orig": "Krampus",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Майкл Догерти",
-        "genre": "комедия,ужасы,фэнтези",
-        "actors": "Эмджей Энтони, Адам Скотт, Тони Коллетт, Стефания Оуэн, Криста Штадлер, Кончата Феррелл, Эллисон Толман, Дэвид Кокнер, Маверик Флэк, Куеени Сэмюэл",
-        "description": "История о демоне, который во время Рождества выискивает непослушных детей, чтобы наказать их.",
-        "slogan": "В этом году Санта Клаус не придёт",
-        "premiere": "30 ноября 2015",
-        "age": "16",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843104.jpg",
-        "rating": {
-          "rating_kp": "5.767",
-          "vote_num_kp": "24680",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "65213"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "84052",
-      "date": "1578397430",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Счастливого Рождества",
-        "orig": "Joyeux Noël",
-        "alter": "",
-        "year": "2005",
-        "country": "Франция, Германия, Великобритания, Бельгия, Румыния, Норвегия, Япония, США",
-        "director": "Кристиан Карион",
-        "genre": "мелодрама,история,драма,военный",
-        "actors": "Дайан Крюгер, Бенно Фюрман, Гийом Кане, Гари Льюис, Даниэль Брюль, Дэни Бун, Алекс Фернс, Стивен Робертсон, Бернар Ле Кок, Томас Шмаузер",
-        "description": "В канун Рождества 1914 года четверо людей пережили незабываемое. Шотландский священник, французский лейтенант, немецкий тенор и его возлюбленная оказались в самом сердце спонтанного братства, возникшего между траншеями немцев, англичан и французов. \r\n\r\nРужья были оставлены на дне окопов, а сами солдаты и офицеры вышли навстречу друг другу, чтобы обменяться сигаретами, разделить шоколад и пожелать друг другу: «Счастливого Рождества!»",
-        "slogan": "Декабрь 1914 года. История, которая не попала в учебники",
-        "premiere": "16 мая 2005",
-        "age": "12",
-        "time": "6660",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_84052.jpg",
-        "rating": {
-          "rating_kp": "7.819",
-          "vote_num_kp": "9243",
-          "rating_imdb": "7.7",
-          "vote_num_imdb": "28242"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "79440",
-      "date": "1578397180",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Духи Рождества",
-        "orig": "A Christmas Carol",
-        "alter": "",
-        "year": "1999",
-        "country": "США",
-        "director": "Дэвид Хью Джонс",
-        "genre": "фэнтези,драма",
-        "actors": "Патрик Стюарт, Ричард Э. Грант, Джоэл Грей, Иэн МакНис, Саския Ривз, Десмонд Баррит, Бернард Ллойд, Доминик Уэст, Тревор Пикок, Лиз Смит",
-        "description": "Похоронив своего давнего друга и партнера по бизнесу, Эбенезер Скрудж, и так не отличавшийся особой душевной добротой, впал в уныние и возненавидел весь окружающий мир.\r\n\r\nОсобенно достается его верному и безответному помощнику Бобу Крэтчиту. Но когда в рождественскую ночь Скруджу являются духи Рождества, они открывают ему глаза на его прошлое, настоящее и будущее. Скрудж понимает, что в погоне за богатством лишился самого главного: счастья любить и быть любимым.\r\n\r\nУмоляя духов дать ему второй шанс, Скрудж обещает изменить образ жизни и навсегда «впустить Рождество к себе в сердце»...",
-        "slogan": "In just one night, he has seen his past, his present, and his future... and they've all come back to haunt him",
-        "premiere": "5 декабря 1999",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_79440.jpg",
-        "rating": {
-          "rating_kp": "7.575",
-          "vote_num_kp": "2746",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "8591"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1115622",
-      "date": "1578345543",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Долгий день уходит в ночь",
-        "orig": "Di qiu zui hou de ye wan",
-        "alter": "",
-        "year": "2018",
-        "country": "Китай, Франция",
-        "director": "Би Гань",
-        "genre": "мелодрама,детектив,драма",
-        "actors": "Тан Вэй, Хуан Цзюэ, Сильвия Чан, Ли Хунчи, Чэнь Юнчжун, Ло Фэйян, Цзэн Мэйхуэйцзы, Чун-хао Туан, Yanmin Bi, Се Лисюнь",
-        "description": "Ло Иву возвращается в родной город на похороны отца. 12 лет назад у него здесь был роман с девушкой друга, и с тех пор она поселилась в его воспоминаниях, желаниях и даже кошмарах. Теперь для Иву в поисках той женщины прошлое смешивается с настоящим, а реальность - с вымыслом.",
-        "slogan": "",
-        "premiere": "15 мая 2018",
-        "age": "0",
-        "time": "8280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115622.jpg",
-        "rating": {
-          "rating_kp": "7.08",
-          "vote_num_kp": "727",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "6838"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1112265",
-      "date": "1578335972",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Старые шпионские игры",
-        "orig": "Spider in the Web",
-        "alter": "Паук в паутине",
-        "year": "2019",
-        "country": "Великобритания, Израиль",
-        "director": "Эран Риклис",
-        "genre": "триллер",
-        "actors": "Бен Кингсли, Моника Беллуччи, Итай Тиран, Ицик Коэн, Филип Пеетерс, Хильде Ван Мигхем, Макрам Хури, Марсель Хенсема, Люк Винс, Stilian Keli",
-        "description": "В свое время Адерет был одним из лучших секретных агентов в мире. Но время идёт, и вот уже начальство считает его слишком старым и отправляет шпиона в вынужденную отставку. Последний шанс восстановить былую репутацию появляется благодаря секретной операции, которая наводит Адерета на след поставщика химического оружия. Пока он выслеживает Анджелу, руководство посылает за ним молодого оперативника Дэниэла. Вновь ввязавшись в знакомую игру в кошки-мышки, старый разведчик постепенно понимает, что из охотника превратился в жертву.",
-        "slogan": "",
-        "premiere": "30 августа 2019",
-        "age": "0",
-        "time": "6780",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYzhlM2M1MzgtNWYxYS00NzAzLWJmZDctMDgwY2U0NTM1OTY1XkEyXkFqcGdeQXVyMzk3MDM3OA@@.jpg",
-        "rating": {
-          "rating_kp": "4.894",
-          "vote_num_kp": "766",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "1443"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1232546",
-      "date": "1578330910",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Велотачки",
-        "orig": "Bikes",
-        "alter": "",
-        "year": "2018",
-        "country": "Испания",
-        "director": "Мануэль Х. Гарсиа",
-        "genre": "мультфильм,семейный,спорт",
-        "actors": "Карлос Латре, Анабель Алонсо, Мария Кьероль",
-        "description": "Добро пожаловать в Споксвилль! Небольшой городок, затерявшийся среди живописных гор, лесов и озер, в котором живут самые разные... велосипеды. Это и горный велик Спиди - смелый и быстрый почтальон, и его лучшие друзья - байк Пиньон, мечтающий стать режиссером, веселый велосипедный насос Гэсси, владеющий автомастерской, и прелестная вело-леди Монтана, которая всегда говорит только то, что думает. Волшебный и образцовый городок, наполненный чистейшим воздухом, перестает быть идеальным, когда появляется незваный гость с двигателем...",
-        "slogan": "Весёлые приключения на колесах",
-        "premiere": "5 апреля 2019",
-        "age": "6",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1232546.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "674",
-          "rating_imdb": "4.3",
-          "vote_num_imdb": "79"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1200178",
-      "date": "1578330759",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Последнее желание",
-        "orig": "The Final Wish",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Тимоти Вудворд мл.",
-        "genre": "ужасы",
-        "actors": "Лин Шэй, Майкл Уэлш, Мелисса Болона, Спенсер Лок, Тони Тодд, Каиви Лайман, Джонатан Даниэль Браун, Жан Эли, Кристофер Мюррэй, Дуглас Тейт",
-        "description": "Закончив не самую лучшую юридическую школу, Аарон никак не может устроиться на приличную работу в Чикаго по специальности. Парень впадает в отчаяние от долгов и безнадёжности, когда узнаёт о смерти отца, и теперь ему надо ехать домой в провинцию утешать скорбящую мать. Разбирая отцовские вещи, он решает выставить часть на распродажу, но мать устраивает из-за этого истерику. Втихаря выбрав ценную на вид антикварную урну, Аарон оставляет её себе в надежде продать через интернет, когда вдруг его жизнь начинает меняться в лучшую сторону.",
-        "slogan": "",
-        "premiere": "17 октября 2018",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1200178.jpg",
-        "rating": {
-          "rating_kp": "4.615",
-          "vote_num_kp": "1006",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "3120"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1190650",
-      "date": "1578330714",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ты, должно быть, убийца",
-        "orig": "You Might Be the Killer",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Бретт Симмонс",
-        "genre": "комедия,ужасы,детектив",
-        "actors": "Фрэн Кранц, Элисон Хэннигэн, Бриттани С. Холл, Дженна Харви, Брайан Прайс, Патрик Р. Уокер, Джек Мурильо, Сара Катрин Беллами, Savannah DesOrmeaux, Кэрол Джин Уэллс",
-        "description": "Сэм устроил летний лагерь на участке, который принадлежит его семье много лет. Но что-то пошло не так, и парень обнаруживает себя убегающим от маньяка в маске, который уже зверски покрошил его друзей. Сэм звонит подруге Чак, работнице магазина комиксов и большой специалистке по слэшерам, а та, задав несколько наводящих вопросов, делает ужасающее открытие - Сэм и есть убийца. Теперь парень пытается восполнить пробелы в памяти и выяснить, как же это так вышло.",
-        "slogan": "It's Summer Camp. What did you expect?",
-        "premiere": "21 сентября 2018",
-        "age": "0",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1190650.jpg",
-        "rating": {
-          "rating_kp": "5.702",
-          "vote_num_kp": "726",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "4512"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1189410",
-      "date": "1578330697",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Смерть на воде",
-        "orig": "Dead in the Water",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Шелдон Уилсон",
-        "genre": "ужасы,фантастика,триллер",
-        "actors": "Брэндон Оре, Никол Бушери, Николь Фортуин, Бьянка Симон Мэнни, Скай Расселл, Таня ван Граан, Кристина Виссер, Эми Луиз Уилсон",
-        "description": "Члены женского экипажа морского судна вынуждены бороться против неизвестного врага, попавшего к ним на борт во время сильного шторма в тысяче километров от берега.",
-        "slogan": "",
-        "premiere": "27 октября 2018",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1189410.jpg",
-        "rating": {
-          "rating_kp": "4.226",
-          "vote_num_kp": "225",
-          "rating_imdb": "3.9",
-          "vote_num_imdb": "474"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1187922",
-      "date": "1578330688",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Снежные гонки",
-        "orig": "Racetime",
-        "alter": "",
-        "year": "2018",
-        "country": "Канада",
-        "director": "Бенуа Годбут, Жан-Франсуа Пуле, Франсуа Бриссон",
-        "genre": "мультфильм,комедия,приключения",
-        "actors": "Соня Болл, Люсинда Дэвис, Тод Феннел, Ноэль Фишер, Доун Форд, Анджела Галуппо, Холли Дж. Франкель, Elizabeth Macrae, Сатине Скарлет Монтас, Дон Шеперд",
-        "description": "В маленькой живописной деревушке на заснеженных горных склонах Канады детвора устраивает настоящее спортивное состязание - гонки! Каждый участник подходит к делу со всей ответственностью и сам мастерит себе санки. Но, как и в любом другом виде спорта, в снежных гонках не обходится без обмана, ведь победить хочет каждый!",
-        "slogan": "Кто здесь рулит?",
-        "premiere": "7 декабря 2018",
-        "age": "6",
-        "time": "4920",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1187922.jpg",
-        "rating": {
-          "rating_kp": "5.586",
-          "vote_num_kp": "1489",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "405"
         }
       }
     }

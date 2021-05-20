@@ -2,6 +2,356 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1079144",
+      "date": "1573809174",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Нью-Йоркская Академия современного танца",
+        "orig": "Free Dance",
+        "alter": "",
+        "year": "2018",
+        "country": "Румыния,США",
+        "director": "Майкл Дамиан",
+        "genre": "мелодрама",
+        "actors": "Джейн Сеймур,Томас Доэрти,Эйс Бхатти,Juliet Doherty,Кика Маркам,Джошуа Синклер-Эванс,Harry Jarvis,Джулия Намани,Найджел Литго,Йорген Макена",
+        "description": "Молодой хореограф ставит новую постановку, и судьба его знакомит с талантливой танцовщицей и новатором-пианистом для самого ожидаемого бродвейского шоу в Нью-Йорке.",
+        "slogan": "Dream Big. Dance Free",
+        "premiere": "13 сентября 2018",
+        "age": "0",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1079144.jpg",
+        "rating": {
+          "rating_kp": "7.029",
+          "vote_num_kp": "644",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "1435"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1051239",
+      "date": "1573808920",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Война Беннетта",
+        "orig": "Bennett's War",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Алекс Ранаривело",
+        "genre": "спорт",
+        "actors": "Майкл Роарк,Трэйси Д. Эдкинс,Али Афшар,Эллисон Пейдж Нист,Хантер Клоудус,Брандо Итон,Tony Panterra,Майкл Кинг,Тейлор Калупа,Антон Фэйр",
+        "description": "После того, как молодой солдат с армейским мотоциклетным отрядом подорвался на управляемой мине, он получает медицинскую помощь и возвращается домой с переломом спины и ноги. Несмотря ни на что, он продолжает тренироваться, чтобы сделать нереальное возвращение в качестве гонщика на соревнованиях по мотокроссу, заручившись поддержкой своей семьи.",
+        "slogan": "Coming home was only the beginning",
+        "premiere": "30 августа 2019",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1051239.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "46",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "672"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1049510",
+      "date": "1573808819",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Николь",
+        "orig": "Noelle",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Марк Лоуренс",
+        "genre": "фэнтези,комедия,семейный",
+        "actors": "Анна Кендрик,Ширли Маклейн,Билл Хейдер,Кингсли Бен-Адир,Джули Хэгерти,Билли Айкнер,Масео Смедли,Диана-Мария Рива,Энтони Конечни,Майкл Гросс",
+        "description": "Дочь Санта-Клауса Николь вынуждена заняться семейным делом вместо папы.",
+        "slogan": "Saving Christmas together? Oh, joy",
+        "premiere": "8 ноября 2019",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1049510.jpg",
+        "rating": {
+          "rating_kp": "6.024",
+          "vote_num_kp": "930",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "17455"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1113139",
+      "date": "1573766532",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Игра с огнем",
+        "orig": "Burn",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Mike Gan",
+        "genre": "триллер",
+        "actors": "Тильда Кобэм-Херви, Джош Хатчерсон, Сьюки Уотерхаус, Гарри Шам мл., Шайло Фернандес, Джим Девоти, Джон Д. Хикман, Стив Гарфанти, Winter-Lee Holland, Уэйн Пайл",
+        "description": "История развернется вокруг работницы заправки Мелинды, которая страдает от одиночества и завидует своей более успешной коллеге Шейле. Когда мелкий преступник Билли врывается на заправку в надежде украсть немного наличных, Мелинда видит в этом отличный шанс избавиться от опостылевшей напарницы.",
+        "slogan": "Адская ночь",
+        "premiere": "23 августа 2019",
+        "age": "18",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1113139.jpg",
+        "rating": {
+          "rating_kp": "5.585",
+          "vote_num_kp": "2549",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "3669"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "455188",
+      "date": "1573752802",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Рыцарь дня",
+        "orig": "Knight and Day",
+        "alter": "",
+        "year": "2010",
+        "country": "США",
+        "director": "Джеймс Мэнголд",
+        "genre": "комедия,боевик,мелодрама,приключения",
+        "actors": "Том Круз, Кэмерон Диаз, Питер Сарсгаард, Хорди Молья, Виола Дэвис, Пол Дано, Фальк Хеншел, Марк Блукас, Ленни Лофтин, Мэгги Грэйс",
+        "description": "Случайная встреча в аэропорту одинокой женщины Джун Хэвенс и обаятельного агента Миллера приводит к тому, что им приходится вместе колесить по всему свету, спасаясь от наемных убийц и пытаясь уберечь от коварных злодеев мощную батарею, которая является уникальным источником энергии.\r\n\r\nПопадая в бесчисленные передряги и постоянно находясь на волоске от смерти, Джун все время мучается в догадках, кто же на самом деле ее неугомонный спутник - спаситель человечества, предатель или просто-напросто сумасшедший...",
+        "slogan": "",
+        "premiere": "16 июня 2010",
+        "age": "12",
+        "time": "6540",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_455188.jpg",
+        "rating": {
+          "rating_kp": "6.99",
+          "vote_num_kp": "109872",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "182458"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "3608",
+      "date": "1573752669",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "С широко закрытыми глазами",
+        "orig": "Eyes Wide Shut",
+        "alter": "",
+        "year": "1999",
+        "country": "Великобритания, США",
+        "director": "Стэнли Кубрик",
+        "genre": "триллер,детектив,драма",
+        "actors": "Том Круз, Николь Кидман, Сидни Поллак, Мария Рихардсон, Раде Шербеджия, Тодд Филд, Винесса Шоу, Скай Дюмон, Фэй Мастерсон, Лили Собески",
+        "description": "Билл и Элис Харфорд - супружеская пара, производящая впечатление счастливых людей, живущих своей размеренной жизнью в полном достатке. Но за фасадом идеальных отношений скрываются потоки ревности, неудовлетворенности, тайных желаний и жажды чего-то запредельного. \r\n\r\nПервый шаг делает Элис, рассказывая мужу о своих фантазиях. Терзаемый ревностью Билл идет дальше, выходя за рамки мыслей и слов. Он наяву отправляется в пьянящую сексуальную одиссею, ведомый соблазном и щекочущими нервы переживаниями. Если бы в начале пути он знал, что пределом его мечтаний станет возможность вернуться к своей привычной семейной жизни, он бы не поверил, ведь искушение вкусить запретный плод было слишком сильно...",
+        "slogan": "Cruise. Kidman. Kubrick",
+        "premiere": "13 июля 1999",
+        "age": "16",
+        "time": "9540",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3608.jpg",
+        "rating": {
+          "rating_kp": "7.543",
+          "vote_num_kp": "87183",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "309360"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "271897",
+      "date": "1573752621",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Львы для ягнят",
+        "orig": "Lions for Lambs",
+        "alter": "",
+        "year": "2007",
+        "country": "США",
+        "director": "Роберт Редфорд",
+        "genre": "триллер,драма,военный",
+        "actors": "Роберт Редфорд, Мэрил Стрип, Том Круз, Майкл Пенья, Эндрю Гарфилд, Питер Берг, Кевин Данн, Дерек Люк, Ларри Бейтс, Кристофер Мэй",
+        "description": "В одно время в этом мире разворачивается несколько историй: 1) Сенатор с Капитолийского холма защищает свою позицию в отношении кризиса американской кампании в Афганистане от прессинга назойливого журналиста, сделавшего себе имя на этой войне... 2) Профессор, преподающий политологию, старается убедить подающего хорошие надежды студента не бросать учебу, приводя в пример двух бывших студентов, ушедших в армию... 3) Совершенно случайно эти два студента сейчас находятся в Афганистане под огнем талибов...",
+        "slogan": "За что ты готов постоять? За что ты готов бороться? Во имя чего ты живешь? Во имя чего готов умереть?",
+        "premiere": "18 октября 2007",
+        "age": "16",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_271897.jpg",
+        "rating": {
+          "rating_kp": "6.785",
+          "vote_num_kp": "7971",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "47884"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "6764",
+      "date": "1573752582",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Последний самурай",
+        "orig": "The Last Samurai",
+        "alter": "",
+        "year": "2003",
+        "country": "США, Новая Зеландия, Япония",
+        "director": "Эдвард Цвик",
+        "genre": "боевик,драма,военный",
+        "actors": "Кэн Ватанабэ, Том Круз, Коюки, Уильям Этертон, Тони Голдуин, Билли Коннолли, Чэд Линдберг, Тимоти Сполл, Ситиносукэ Накамура, Хироюки Санада",
+        "description": "Действие разворачивается в Японии 70-ых годов девятнадцатого века. Капитан Нейтон Альгрен, уважаемый американский военный офицер, нанят Императором Японии для обучения первой армии Страны Восходящего Солнца современному искусству ведения боевых действий.\r\n\r\nИмператор пытается искоренить древних воинов-самураев, готовясь к более прозападной политике правительства...",
+        "slogan": "In the face on an enemy, in the Heart of One Man, Lies the Soul of a Warrior",
+        "premiere": "22 ноября 2003",
+        "age": "16",
+        "time": "9240",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6764.jpg",
+        "rating": {
+          "rating_kp": "8.068",
+          "vote_num_kp": "159798",
+          "rating_imdb": "7.7",
+          "vote_num_imdb": "405717"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "477647",
+      "date": "1573752336",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Гостья",
+        "orig": "The Host",
+        "alter": "",
+        "year": "2013",
+        "country": "США, Швейцария",
+        "director": "Эндрю Никкол",
+        "genre": "фантастика,мелодрама,драма",
+        "actors": "Сирша Ронан, Макс Айронс, Джейк Эйбел, Дайан Крюгер, Уильям Хёрт, Чандлер Кентербери, Фрэнсис Фишер, Скотт Лоуренс, Бойд Холбрук, Мустафа Харрис",
+        "description": "Земля - в опасности! Наше место скоро займут Души - лишенные плотской оболочки пришельцы, вытесняющие из человеческих тел разум и замещающие его разумом собственным. Большая часть человечества уже погибла. Немногие выжившие скрываются в жалкой попытке отсрочить неизбежное... Теперь Душа пытается захватить тело юной Мелани. Однако происходит неожиданное: Мелани и ее Душа вынуждены сосуществовать в одном теле. Гостье надлежало выследить и выдать землян-повстанцев, с которыми связана Мелани, но она помогает своей носительнице.",
+        "slogan": "Самый странный из миров",
+        "premiere": "22 марта 2013",
+        "age": "12",
+        "time": "7500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_477647.jpg",
+        "rating": {
+          "rating_kp": "6.373",
+          "vote_num_kp": "63383",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "111675"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "462342",
+      "date": "1573752296",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Воды слонам!",
+        "orig": "Water for Elephants",
+        "alter": "",
+        "year": "2011",
+        "country": "США",
+        "director": "Френсис Лоуренс",
+        "genre": "мелодрама,драма",
+        "actors": "Риз Уизерспун, Роберт Паттинсон, Кристоф Вальц, Пол Шнайдер, Джим Нортон, Хэл Холбрук, Марк Повинелли, Ричард Брэйк, Стивен Монро Тейлор, Кен Фори",
+        "description": "Времена Великой депрессии. Студент-ветеринар Якоб бросает учебу после того, как его родители погибают, и присоединяется к «Benzini Brothers», самому грандиозному цирковому шоу на Земле. Там он начинает работать ветеринаром, а заодно и влюбляется в прекрасную наездницу Марлену, которая, правда, замужем за Августом, харизматичным, но жестоким дрессировщиком.",
+        "slogan": "Жизнь – это самое удивительное шоу на свете",
+        "premiere": "15 апреля 2011",
+        "age": "16",
+        "time": "6960",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462342.jpg",
+        "rating": {
+          "rating_kp": "7.551",
+          "vote_num_kp": "83733",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "112203"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "484439",
       "date": "1573751742",
       "camrip": "0",
@@ -99,7 +449,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_424516.jpg",
         "rating": {
           "rating_kp": "6.142",
-          "vote_num_kp": "51447",
+          "vote_num_kp": "51454",
           "rating_imdb": "5.7",
           "vote_num_imdb": "1573"
         }
@@ -136,7 +486,7 @@
           "rating_kp": "8.291",
           "vote_num_kp": "377728",
           "rating_imdb": "8.6",
-          "vote_num_imdb": "1475924"
+          "vote_num_imdb": "1476145"
         }
       }
     },
@@ -169,9 +519,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_104992.jpg",
         "rating": {
           "rating_kp": "7.578",
-          "vote_num_kp": "252656",
+          "vote_num_kp": "252797",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "379547"
+          "vote_num_imdb": "379612"
         }
       }
     },
@@ -204,9 +554,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_197863.jpg",
         "rating": {
           "rating_kp": "7.696",
-          "vote_num_kp": "122621",
+          "vote_num_kp": "122637",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "258497"
+          "vote_num_imdb": "258526"
         }
       }
     },
@@ -241,7 +591,7 @@
           "rating_kp": "7.744",
           "vote_num_kp": "179785",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "299348"
+          "vote_num_imdb": "299378"
         }
       }
     },
@@ -309,9 +659,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_13469.jpg",
         "rating": {
           "rating_kp": "7.01",
-          "vote_num_kp": "106624",
+          "vote_num_kp": "106637",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "117100"
+          "vote_num_imdb": "117101"
         }
       }
     },
@@ -344,9 +694,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_624156.jpg",
         "rating": {
           "rating_kp": "6.481",
-          "vote_num_kp": "43795",
+          "vote_num_kp": "43802",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "34294"
+          "vote_num_imdb": "34297"
         }
       }
     },
@@ -381,7 +731,7 @@
           "rating_kp": "7.28",
           "vote_num_kp": "111274",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "113195"
+          "vote_num_imdb": "113198"
         }
       }
     },
@@ -451,7 +801,7 @@
           "rating_kp": "6.891",
           "vote_num_kp": "40219",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "124861"
+          "vote_num_imdb": "124866"
         }
       }
     },
@@ -484,7 +834,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_683516.jpg",
         "rating": {
           "rating_kp": "6.513",
-          "vote_num_kp": "37380",
+          "vote_num_kp": "37394",
           "rating_imdb": "6.2",
           "vote_num_imdb": "89005"
         }
@@ -519,9 +869,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_429827.jpg",
         "rating": {
           "rating_kp": "6.541",
-          "vote_num_kp": "110163",
+          "vote_num_kp": "110185",
           "rating_imdb": "6",
-          "vote_num_imdb": "233295"
+          "vote_num_imdb": "233325"
         }
       }
     },
@@ -554,7 +904,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_403783.jpg",
         "rating": {
           "rating_kp": "6.817",
-          "vote_num_kp": "36590",
+          "vote_num_kp": "36603",
           "rating_imdb": "6.1",
           "vote_num_imdb": "33066"
         }
@@ -589,9 +939,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7975.jpg",
         "rating": {
           "rating_kp": "6.896",
-          "vote_num_kp": "72150",
+          "vote_num_kp": "72157",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "169786"
+          "vote_num_imdb": "169793"
         }
       }
     },
@@ -624,9 +974,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_395060.jpg",
         "rating": {
           "rating_kp": "6.631",
-          "vote_num_kp": "144732",
+          "vote_num_kp": "144746",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "250785"
+          "vote_num_imdb": "250800"
         }
       }
     },
@@ -661,7 +1011,7 @@
           "rating_kp": "5.622",
           "vote_num_kp": "63239",
           "rating_imdb": "5.3",
-          "vote_num_imdb": "118571"
+          "vote_num_imdb": "118605"
         }
       }
     },
@@ -694,7 +1044,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_272002.jpg",
         "rating": {
           "rating_kp": "7.013",
-          "vote_num_kp": "16368",
+          "vote_num_kp": "16375",
           "rating_imdb": "7.1",
           "vote_num_imdb": "32709"
         }
@@ -729,9 +1079,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_934130.jpg",
         "rating": {
           "rating_kp": "7.254",
-          "vote_num_kp": "76774",
+          "vote_num_kp": "76788",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "24161"
+          "vote_num_imdb": "24163"
         }
       }
     },
@@ -764,7 +1114,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_586297.jpg",
         "rating": {
           "rating_kp": "6.792",
-          "vote_num_kp": "39176",
+          "vote_num_kp": "39183",
           "rating_imdb": "6.4",
           "vote_num_imdb": "84059"
         }
@@ -799,7 +1149,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_464279.jpg",
         "rating": {
           "rating_kp": "6.521",
-          "vote_num_kp": "25737",
+          "vote_num_kp": "25749",
           "rating_imdb": "6",
           "vote_num_imdb": "92208"
         }
@@ -834,9 +1184,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3442.jpg",
         "rating": {
           "rating_kp": "8.029",
-          "vote_num_kp": "244225",
+          "vote_num_kp": "244273",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "495655"
+          "vote_num_imdb": "495717"
         }
       }
     },
@@ -869,9 +1219,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_929348.jpg",
         "rating": {
           "rating_kp": "7.76",
-          "vote_num_kp": "124118",
+          "vote_num_kp": "124198",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "103372"
+          "vote_num_imdb": "103391"
         }
       }
     },
@@ -904,9 +1254,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_86573.jpg",
         "rating": {
           "rating_kp": "7.177",
-          "vote_num_kp": "33590",
+          "vote_num_kp": "33593",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "34852"
+          "vote_num_imdb": "34856"
         }
       }
     },
@@ -939,9 +1289,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5059.jpg",
         "rating": {
           "rating_kp": "8.03",
-          "vote_num_kp": "218838",
+          "vote_num_kp": "218876",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "218634"
+          "vote_num_imdb": "218666"
         }
       }
     },
@@ -974,9 +1324,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_38905.jpg",
         "rating": {
           "rating_kp": "7.588",
-          "vote_num_kp": "276194",
+          "vote_num_kp": "276414",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "436763"
+          "vote_num_imdb": "436814"
         }
       }
     },
@@ -1009,9 +1359,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_491724.jpg",
         "rating": {
           "rating_kp": "7.709",
-          "vote_num_kp": "205530",
+          "vote_num_kp": "205578",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "430817"
+          "vote_num_imdb": "430865"
         }
       }
     },
@@ -1044,9 +1394,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_760565.jpg",
         "rating": {
           "rating_kp": "6.779",
-          "vote_num_kp": "56108",
+          "vote_num_kp": "56142",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "122246"
+          "vote_num_imdb": "122260"
         }
       }
     },
@@ -1079,9 +1429,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_687670.jpg",
         "rating": {
           "rating_kp": "6.517",
-          "vote_num_kp": "108874",
+          "vote_num_kp": "108877",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "219025"
+          "vote_num_imdb": "219041"
         }
       }
     },
@@ -1114,9 +1464,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_675631.jpg",
         "rating": {
           "rating_kp": "5.893",
-          "vote_num_kp": "88280",
+          "vote_num_kp": "88287",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "134574"
+          "vote_num_imdb": "134611"
         }
       }
     },
@@ -1149,7 +1499,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_88147.jpg",
         "rating": {
           "rating_kp": "5.849",
-          "vote_num_kp": "31164",
+          "vote_num_kp": "31166",
           "rating_imdb": "5.9",
           "vote_num_imdb": "57701"
         }
@@ -1184,7 +1534,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1048345.jpg",
         "rating": {
           "rating_kp": "6.058",
-          "vote_num_kp": "12175",
+          "vote_num_kp": "12178",
           "rating_imdb": "5.6",
           "vote_num_imdb": "554"
         }
@@ -1253,8 +1603,8 @@
         "time": "8040",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1199561.jpg",
         "rating": {
-          "rating_kp": "6.515",
-          "vote_num_kp": "12890",
+          "rating_kp": "6.516",
+          "vote_num_kp": "12898",
           "rating_imdb": "6.5",
           "vote_num_imdb": "1828"
         }
@@ -1289,9 +1639,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_463046.jpg",
         "rating": {
           "rating_kp": "6.891",
-          "vote_num_kp": "119389",
+          "vote_num_kp": "119414",
           "rating_imdb": "7",
-          "vote_num_imdb": "364726"
+          "vote_num_imdb": "364765"
         }
       }
     },
@@ -1324,9 +1674,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_580679.jpg",
         "rating": {
           "rating_kp": "6.247",
-          "vote_num_kp": "39039",
+          "vote_num_kp": "39048",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "42579"
+          "vote_num_imdb": "42589"
         }
       }
     },
@@ -1359,9 +1709,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_461972.jpg",
         "rating": {
           "rating_kp": "7.459",
-          "vote_num_kp": "134559",
+          "vote_num_kp": "134610",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "230972"
+          "vote_num_imdb": "230992"
         }
       }
     },
@@ -1394,359 +1744,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_424266.jpg",
         "rating": {
           "rating_kp": "7.138",
-          "vote_num_kp": "262285",
+          "vote_num_kp": "262431",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "297715"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "405514",
-      "date": "1573668269",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Затащи меня в Ад",
-        "orig": "Drag Me to Hell",
-        "alter": "",
-        "year": "2009",
-        "country": "США",
-        "director": "Сэм Рэйми",
-        "genre": "ужасы,триллер",
-        "actors": "Элисон Ломан, Джастин Лонг, Лорна Рэвер, Дилип Рао, Дэвид Пэймер, Адриана Барраса, Челси Росс, Регги Ли, Молли Чик, Бояна Новакович",
-        "description": "Кристина Браун живет в Лос-Анжелесе, работает в банке, оформляя клиентам ссуды, у нее обаятельный и любящий бойфренд, профессор Клэй Далтон. Все складывается хорошо и, казалось, что жизнь удалась..., но только до тех пор, пока в банке не появляется некая миссис Гануш с просьбой об отсрочке ипотечного кредита.\\n\r\n\\n\r\nКристина и рада бы пойти навстречу старой женщине, но перед ней маячит возможность занять более высокую должность в банке, и она отказывает старухе. В ответ, та накладывает на нее проклятие, и жизнь девушки превращается в непрерывный кошмар. Теперь помочь Кристине может только провидица Шаун Сэн Дена.",
-        "slogan": "Christine Brown has a good job, a great boyfriend, and a bright future. But in three days, she's going to hell",
-        "premiere": "15 марта 2009",
-        "age": "16",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_405514.jpg",
-        "rating": {
-          "rating_kp": "6.113",
-          "vote_num_kp": "65877",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "190206"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "37547",
-      "date": "1573668127",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Наркоз",
-        "orig": "Awake",
-        "alter": "",
-        "year": "2007",
-        "country": "США",
-        "director": "Джоби Харольд",
-        "genre": "триллер,мелодрама,драма,криминал",
-        "actors": "Хейден Кристенсен, Джессика Альба, Терренс Ховард, Лена Олин, Кристофер Макдональд, Сэм Робардс, Арлисс Ховард, Фишер Стивенс, Джорджина Чапмэн, Дэвид Харбор",
-        "description": "У миллиардера Клэя Бересфорда серьёзные проблемы с сердцем, поэтому ему необходима пересадка. Донор найден, операция начинается. Пациенту вводят наркоз, но происходит непредвиденное: Клэй не засыпает, всё слышит и понимает, но не может говорить и двигаться. В ходе операции он понимает, что врачи хотят его убить, чтобы заполучить его деньги.",
-        "slogan": "Каждый год 21 миллион человек оперируются под наркозом. Один из 700 остаётся в сознании. Когда они планировали убийство её мужа, они не думали, что он один из них",
-        "premiere": "14 ноября 2007",
-        "age": "16",
-        "time": "5040",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_37547.jpg",
-        "rating": {
-          "rating_kp": "7.56",
-          "vote_num_kp": "84383",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "73015"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "290751",
-      "date": "1573667988",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Зеленый Шершень",
-        "orig": "The Green Hornet",
-        "alter": "",
-        "year": "2011",
-        "country": "США",
-        "director": "Мишель Гондри",
-        "genre": "комедия,боевик,фантастика,триллер,криминал",
-        "actors": "Сет Роген, Джей Чоу, Кристоф Вальц, Кэмерон Диаз, Том Уилкинсон, Дэвид Харбор, Эдвард Джеймс Олмос, Джэми Харрис, Чад Л. Коулмэн, Эдвард Ферлонг",
-        "description": "Сын медиамагната прожигает жизнь в вечных пьянках и бесчисленных случайных связях. Но после неожиданной смерти отца он наконец осознает бесцельность своего существования и решает это изменить. Вместе с верным помощником они становятся супергероями, которые борются с преступностью ее же методами, совершенно не считаясь с законом.",
-        "slogan": "Героям закон не писан!",
-        "premiere": "12 января 2011",
-        "age": "12",
-        "time": "7140",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_290751.jpg",
-        "rating": {
-          "rating_kp": "6.022",
-          "vote_num_kp": "64845",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "156210"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "462669",
-      "date": "1573667717",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Санктум",
-        "orig": "Sanctum",
-        "alter": "",
-        "year": "2010",
-        "country": "США, Австралия",
-        "director": "Алистер Грирсон",
-        "genre": "триллер,драма,приключения",
-        "actors": "Ричард Роксбург, Йоан Гриффит, Риз Уэйкфилд, Элис Паркинсон, Дэниэл Уилли, Кристофер Джеймс Бэйкер, Элисон Крэтчли, Крамер Кэйн, Эндрю Хансен, Джон Гарвин",
-        "description": "Группа дайверов предпринимает очень рискованную экспедицию в самую большую систему пещер на Земле - невероятно красивую и почти недоступную. Неожиданный тропический шторм вынуждает их спуститься глубоко в пещеры. Единственное спасение для исследователей - найти неизвестный второй выход к морю, преодолевая неистовую стихию бушующих вод, коварные ловушки подземелий и смертельный ужас.",
-        "slogan": "Единственное спасение - глубина",
-        "premiere": "3 февраля 2011",
-        "age": "16",
-        "time": "6540",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462669.jpg",
-        "rating": {
-          "rating_kp": "6.703",
-          "vote_num_kp": "65376",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "53987"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "445148",
-      "date": "1573667598",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Палата",
-        "orig": "The Ward",
-        "alter": "",
-        "year": "2010",
-        "country": "США",
-        "director": "Джон Карпентер",
-        "genre": "ужасы,триллер,детектив",
-        "actors": "Эмбер Хёрд, Мэми Гаммер, Даниэль Панабэйкер, Лора Ли, Линдси Фонсека, Мика Бурем, Джаред Харрис, Сали Сейлер, Сузанна Берни, Дэн Андерсон",
-        "description": "Кристен проходит лечение в психиатрической лечебнице. Вместе с ней проходят лечение еще четыре девушки. По ночам, когда больница погружается во тьму, она слышит странные пугающие звуки и понимает, что они тут не одни. Одна за другой девушки начинают исчезать, и Кристен понимает, что должна как можно скорее выбраться отсюда. Пытаясь сбежать, она понимает, что истинная природа звуков намного ужаснее, чем могло показаться вначале.",
-        "slogan": "Only Sanity Can Keep You Alive",
-        "premiere": "13 сентября 2010",
-        "age": "16",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_445148.jpg",
-        "rating": {
-          "rating_kp": "5.903",
-          "vote_num_kp": "24627",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "40714"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1957",
-      "date": "1573667557",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Перл Харбор",
-        "orig": "Pearl Harbor",
-        "alter": "",
-        "year": "2001",
-        "country": "США",
-        "director": "Майкл Бэй",
-        "genre": "боевик,мелодрама,история,драма,военный",
-        "actors": "Бен Аффлек, Джош Хартнетт, Кейт Бекинсейл, Кьюба Гудинг мл., Алек Болдуин, Джон Войт, Колм Фиор, Том Сайзмор, Юэн Бремнер, Майкл Шеннон",
-        "description": "Эта история двух друзей - летчиков. Их судьбы переплавились в топке Второй мировой войны. Их чувства были опалены языками великой страсти. Огонь стал для них вторым домом.\r\n\r\nМир рушился, прошлое скрылось в сумерках пожарищ, и теперь за будущее должен был бороться каждый, на земле и на небе, в дружбе и вражде.",
-        "slogan": "December 7, 1941 The day America stood still!",
-        "premiere": "21 мая 2001",
-        "age": "12",
-        "time": "10980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1957.jpg",
-        "rating": {
-          "rating_kp": "7.917",
-          "vote_num_kp": "160934",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "314872"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "463802",
-      "date": "1573667514",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Быстрее пули",
-        "orig": "Faster",
-        "alter": "",
-        "year": "2010",
-        "country": "США",
-        "director": "Джордж Тиллман мл.",
-        "genre": "боевик,триллер,драма,криминал",
-        "actors": "Дуэйн Джонсон, Билли Боб Торнтон, Оливер Джексон-Коэн, Карла Гуджино, Мэгги Грэйс, Мун Бладгуд, Лестер Спейт, Адевале Акинойе-Агбаже, Мэтт Джералд, Майк Эппс",
-        "description": "После десяти лет, проведенных в тюрьме, у Драйвера одна цель: выследить и уничтожить людей, замешанных в жестоком убийстве его брата. Наконец-то обретя свободу, он готов пойти на все, чтобы выполнить свою жестокую миссию и разделаться с теми, кто попал в его черный список.\\n\r\n\\n\r\nИспытать радость отмщения Драйверу мешают полицейский-ветеран и наемный убийца, каждый из которых имеет свою причину свести с ним счеты. Теперь охота ведется на охотника...",
-        "slogan": "Правосудие не для всех",
-        "premiere": "24 ноября 2010",
-        "age": "18",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_463802.jpg",
-        "rating": {
-          "rating_kp": "6.661",
-          "vote_num_kp": "31612",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "101978"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "518063",
-      "date": "1573667314",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Толстяк на ринге",
-        "orig": "Here Comes the Boom",
-        "alter": "",
-        "year": "2012",
-        "country": "США",
-        "director": "Фрэнк Корачи",
-        "genre": "комедия,спорт",
-        "actors": "Кевин Джеймс, Сальма Хайек, Генри Уинклер, Грег Джерманн, Бас Раттен, Гари Валентайн, Джейк Зурус, Регги Ли, Марк ДеллаГротт, Джо Роган",
-        "description": "Скотт Восс - 42-летний школьный учитель. Когда руководство урезает бюджет школы и грозит увольнением учителю музыки, Скотт решается на отчаянный шаг: чтобы заработать денег, он участвует в подпольных боях без правил... преимущественно в роли боксерской груши. \r\n\r\nУченики и коллеги Восса, среди которых обворожительная школьная медсестра Белла, уверены: Скотт сошел с ума, и эта безумная затея обернется для него большими неприятностями. Мог ли кто-то предположить, что неуклюжий толстяк-неудачник станет всеобщей сенсацией и источником вдохновения для целой школы?",
-        "slogan": "Юмор в тяжёлом весе",
-        "premiere": "10 октября 2012",
-        "age": "12",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_518063.jpg",
-        "rating": {
-          "rating_kp": "6.955",
-          "vote_num_kp": "34594",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "86857"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "3797",
-      "date": "1573667181",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Адвокат дьявола",
-        "orig": "The Devil's Advocate",
-        "alter": "",
-        "year": "1997",
-        "country": "США, Германия",
-        "director": "Тейлор Хэкфорд",
-        "genre": "триллер,детектив,драма",
-        "actors": "Киану Ривз, Аль Пачино, Шарлиз Терон, Джеффри Джонс, Джудит Айви, Конни Нильсен, Крэйг Т. Нельсон, Тамара Тюни, Рубен Сантьяго-Хадсон, Дебра Монк",
-        "description": "В Нью-Йорк по приглашению главы крупного юридического концерна прибывает Кевин Ломакс, молодой адвокат. До этого он был известен тем, что защищал исключительно негодяев и притом не проиграл ни одного процесса. На новом месте работы он вполне счастлив, он живет в роскошной квартире с любящей женой, его окружают интересные люди.",
-        "slogan": "У зла свой путь к победе",
-        "premiere": "13 октября 1997",
-        "age": "16",
-        "time": "8640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3797.jpg",
-        "rating": {
-          "rating_kp": "8.16",
-          "vote_num_kp": "310372",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "338551"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "427198",
-      "date": "1573667047",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Социальная сеть",
-        "orig": "The Social Network",
-        "alter": "",
-        "year": "2010",
-        "country": "США",
-        "director": "Дэвид Финчер",
-        "genre": "драма",
-        "actors": "Джесси Айзенберг, Эндрю Гарфилд, Джастин Тимберлейк, Арми Хаммер, Макс Мингелла, Рашида Джонс, Бренда Сонг, Руни Мара, Брайан Бартер, Джозеф Маццелло",
-        "description": "В фильме рассказывается история создания одной из самых популярных в Интернете социальных сетей - Facebook. Оглушительный успех этой сети среди пользователей по всему миру навсегда изменил жизнь студентов-однокурсников гарвардского университета, которые основали ее в 2004 году и за несколько лет стали самыми молодыми мультимиллионерами в США.",
-        "slogan": "Нельзя завести 500 миллионов друзей, не нажив ни одного врага",
-        "premiere": "24 сентября 2010",
-        "age": "12",
-        "time": "7200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_427198.jpg",
-        "rating": {
-          "rating_kp": "7.729",
-          "vote_num_kp": "258571",
-          "rating_imdb": "7.7",
-          "vote_num_imdb": "638246"
+          "vote_num_imdb": "297745"
         }
       }
     }

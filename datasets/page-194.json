@@ -2,6 +2,479 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "731475",
+      "date": "1601034632",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Моя Госпожа",
+        "orig": "My Mistress",
+        "alter": "",
+        "year": "2013",
+        "country": "Австралия",
+        "director": "Стивен Лэнс",
+        "genre": "мелодрама,драма",
+        "actors": "Харрисон Гилбертсон, Эммануэль Беар, Анна Райан, Рубен Нэш, Хью Паркер, Рэйчел Блейк, Малкольм Кеннард, Робин Мур, Монетт Ли, Джон Рейнольдс",
+        "description": "Красивые и невинные отношения, завязавшиеся между романтичным подростком и француженкой, склонной к садомазохизму, вскоре становятся очень опасными...",
+        "slogan": "Love hurts",
+        "premiere": "14 августа 2014",
+        "age": "18",
+        "time": "6240",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_731475.jpg",
+        "rating": {
+          "rating_kp": "5.93",
+          "vote_num_kp": "4903",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "1582"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "893885",
+      "date": "1601034601",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Роковое влечение",
+        "orig": "Éperdument",
+        "alter": "",
+        "year": "2015",
+        "country": "Франция, Бельгия",
+        "director": "Пьер Годо",
+        "genre": "мелодрама,драма",
+        "actors": "Адель Экзаркопулос, Гийом Гальенн, Стефани Клео, Альенор Пуасон, Сирьель Мартинес, Сэльма Мансури, Сабила Муссадек, Жюли Мулье, Мари Ривьер, Марилин Ивен",
+        "description": "Его жизнь была беззаботной и счастливой - прекрасная работа, любящая жена, дочь. Но он готов потерять все ради нее. Кто она? Невинная девушка или сексуальная искусительница, легко манипулирующая мужчинами?",
+        "slogan": "To Live. To Lose Reason. To Love",
+        "premiere": "25 февраля 2016",
+        "age": "18",
+        "time": "6600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_893885.jpg",
+        "rating": {
+          "rating_kp": "5.677",
+          "vote_num_kp": "3369",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "1511"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "34184",
+      "date": "1601034573",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Одноголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Тихие дни в Клиши",
+        "orig": "Jours tranquilles à Clichy",
+        "alter": "",
+        "year": "1990",
+        "country": "Франция,Италия,Германия",
+        "director": "Клод Шаброль",
+        "genre": "драма",
+        "actors": "Эндрю МакКарти,Найджел Хэверс,Барбара Де Росси,Стефани Тчоу-Котта,Изольда Барт,Ева Гримальди,Анна Гальена,Гвидитта Дель Веккьо,Стефан Одран,Марио Адорф",
+        "description": "Американский начинающий писатель Генри Миллер приезжает в Париж, чтобы написать там свою первую книгу. Вскоре он знакомится с проводящим всё свое время за развлечениями Альфредом и начинает вести вместе с ним праздную жизнь. Через некоторое время оба одновременно женятся на шуточной свадьбе на молоденькой нимфетке Колетт и, уже втроем, отправляются в свадебное путешествие.",
+        "slogan": "",
+        "premiere": "9 мая 1990",
+        "age": "18",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_34184.jpg",
+        "rating": {
+          "rating_kp": "4.767",
+          "vote_num_kp": "330",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "588"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "79904",
+      "date": "1601034528",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Дикость 2",
+        "orig": "Wild Things 2",
+        "alter": "",
+        "year": "2004",
+        "country": "США",
+        "director": "Джек Перез",
+        "genre": "триллер,детектив,драма,криминал",
+        "actors": "Сьюзэн Уорд, Кэти Стюарт, Лайла Арсиери, Дорит Вольф, Бретт Гилберт, Майкл Чиффо, Линден Эшби, Джо Майкл Бурк, Чад Гордон, Энтони Джон Дэнисон",
+        "description": "17-летняя школьница Бритни готовится вступить в права наследства после смерти своего отчима, но в последний момент происходит непредвиденное: ее одноклассница Майя внезапно предоставляет неопровержимые доказательства того, что законной наследницей является она.\r\n\r\nА речь идет о миллионах долларов! Столь неправдоподобный поворот событий привлекает внимание страховой компании, и та присылает следователя - разобраться в этом странном деле.\r\n\r\nИ точно, вскоре перед героем начинают проступать контуры гениального преступного сговора хитрых девиц. Вот только, поддавшись сексуальным чарам порочных юных аферисток, детектив вступает в игру по их правилам, чем ставит на карту не только свою карьеру, но и саму жизнь...",
+        "slogan": "You'll never guess what's beneath the surface",
+        "premiere": "23 февраля 2004",
+        "age": "16",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_79904.jpg",
+        "rating": {
+          "rating_kp": "5.808",
+          "vote_num_kp": "2201",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "6863"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "707217",
+      "date": "1601034499",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Иван Царевич и Серый Волк 2",
+        "orig": "Иван Царевич и Серый Волк 2",
+        "alter": "",
+        "year": "2013",
+        "country": "Россия",
+        "director": "Владимир Торопчин",
+        "genre": "мультфильм,фэнтези,приключения,семейный",
+        "actors": "Никита Ефремов, Татьяна Бунина, Иван Охлобыстин, Михаил Боярский, Ирина Рахманова, Александр Боярский, Екатерина Гороховская, Елена Шульман, Максим Сергеев, Любовь Владимирова",
+        "description": "В Тридевятом царстве, где живут наши герои - тишь, да благодать. Иван женился на Василисе, и «жили они долго и счастливо», да не тут-то было. Иван целыми днями пропадает с Волком на службе - укрепляет рубежи и оборонную мощь, мечтает перевести стрелки часов на семь часов назад, чтобы меньше спать, и больше работать. А Василисе - скучно, как всем девушкам, ей хочется романтики, ну, такой, как в сказках. И тогда она решает организовать свое похищение... Однако, когда такое бывало, что в сказках все получалось так, как задумывалось?",
+        "slogan": "Любимые герои, новые приключения",
+        "premiere": "26 декабря 2013",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_707217.jpg",
+        "rating": {
+          "rating_kp": "5.301",
+          "vote_num_kp": "66476",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "480"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "497678",
+      "date": "1601034440",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "Baibako",
+      "max_qual": "1080",
+      "last_season": "4",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720
+        },
+        "2": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720
+        },
+        "3": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720
+        },
+        "4": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        }
+      },
+      "info": {
+        "rus": "Налет",
+        "orig": "Braquo",
+        "alter": "",
+        "year": "2009",
+        "country": "Франция",
+        "director": "Ксавьер Палю, Оливье  Маршаль, Фредерик Шёндёрфер",
+        "genre": "триллер,криминал",
+        "actors": "Жан-Юг Англад, Жозеф Малерба, Кароль Роше, Жоффруа Тьебо, Николя Дювошель, Изабель Рено, Ален Фиглаж, Жоэль Лефрансуа, Самюэль Ле Бьян, Валери Сибилия",
+        "description": "Главные герои сериала - четверо сотрудников судебной полиции Парижского региона. Их жизнь резко меняется, когда их друг и коллега Макс, несправедливо обвиненный, совершает самоубийство. С этого момента четверка начинает вести собственное расследование, чтобы восстановить справедливость и честное имя друга - даже если при этом им приходится рисковать и обходить закон...",
+        "slogan": "",
+        "premiere": "12 октября 2009",
+        "age": "16",
+        "time": "3000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_497678.jpg",
+        "rating": {
+          "rating_kp": "7.73",
+          "vote_num_kp": "1534",
+          "rating_imdb": "8",
+          "vote_num_imdb": "3628"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "31884",
+      "date": "1601034391",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Турецкие наслаждения",
+        "orig": "Turks fruit",
+        "alter": "",
+        "year": "1973",
+        "country": "Нидерланды",
+        "director": "Пол Верховен",
+        "genre": "мелодрама,драма",
+        "actors": "Моник ван де Вен, Рутгер Хауэр, Тонни Хюрдеман, Вим ван ден Бринк, Ганс Боскамп, Дольф де Врис, Манфред де Граф, Дик Схеффер, Марьоль Флоре, Берт Дейкстра",
+        "description": "Ничто не предвещало того, что встреча Эрика и Ольги продлится дольше нескольких часов. Эротическое приключение на заднем сидении автомобиля становится началом безграничной роковой любви, натуралистичные проявления которой лицемерно отвергаются общественной моралью.",
+        "slogan": "This is the indulgence of passion",
+        "premiere": "22 февраля 1973",
+        "age": "18",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_31884.jpg",
+        "rating": {
+          "rating_kp": "7.497",
+          "vote_num_kp": "3952",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "10195"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "394392",
+      "date": "1601034347",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Любовница",
+        "orig": "Aein",
+        "alter": "",
+        "year": "2005",
+        "country": "Корея Южная",
+        "director": "Ким Тхэ-ын",
+        "genre": "мелодрама,драма",
+        "actors": "Сон Хён-а, Чо Дон-хёк, Кым Дон-хён, Чан Дэ-сон, Чи Дэ-хан, Ким Е-рён, Ли Джэ-хо",
+        "description": "Может ли одна случайная встреча, которая началась как флирт в лифте и закончится через 24 часа, перерасти в любовь всей жизни? А если эта встреча происходит накануне свадьбы? И с женихом она уже семь лет? Все началось как игра, но почему тогда ей с ним так легко и уютно, так просто и непринужденно? А дома ждет проверенный и надежный человек. Ей предстоит нелегкий выбор: уверенность в завтрашнем дне или незнакомец, который вскружил ей голову.",
+        "slogan": "",
+        "premiere": "8 декабря 2005",
+        "age": "18",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_394392.jpg",
+        "rating": {
+          "rating_kp": "6.929",
+          "vote_num_kp": "449",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "922"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "21186",
+      "date": "1601034316",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ядовитый плющ: Новое совращение",
+        "orig": "Poison Ivy: The New Seduction",
+        "alter": "",
+        "year": "1996",
+        "country": "США",
+        "director": "Курт Фосс",
+        "genre": "триллер,драма",
+        "actors": "Джейми Прессли, Меган Эдвардс, Майкл Де Барр, Грег Вон, Сьюзен Тиррел, Тенайа Эрих, Тришали Харди, Сабрина Кристи, Мерет Ван Камп, Грегори Виньолле",
+        "description": "Вайлет, подросшая дочь служанки, много лет назад выгнанной из дома мистером Гриром, решила отомстить за поруганную честь своей мамочки. Она явилась в роскошный особняк Гриров и хитростью поселилась в нем. Эта девица сумела войти в их налаженную жизнь и перевернула все верх дном.",
+        "slogan": "The stunning sequel",
+        "premiere": "20 мая 1997",
+        "age": "18",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_21186.jpg",
+        "rating": {
+          "rating_kp": "5.246",
+          "vote_num_kp": "862",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "3962"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "165163",
+      "date": "1601029806",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Шайка доберманов",
+        "orig": "The Doberman Gang",
+        "alter": "",
+        "year": "1972",
+        "country": "США",
+        "director": "Байрон Чуднов",
+        "genre": "боевик,комедия,криминал",
+        "actors": "Байрон Мейб,Хэл Рид,Джули Пэрриш,Симми Боу,Джо Д’Амор,Джон Тулл,Джей Пэкстон,Джон Стронг,Дайан Прайор,Клайд Апперсон",
+        "description": "После неудачного ограбления мелкий мошенник и бывшая официантка решили, что украсть деньги самим им вряд ли удастся. Тогда вместе с парочкой друзей, они начинают тренировать нескольких доберманов и теперь в лапах собак успех будущего ограбления.",
+        "slogan": "Trained To Commit The Most Incredible Caper Ever Conceived",
+        "premiere": "29 марта 1973",
+        "age": "0",
+        "time": "5220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_165163.jpg",
+        "rating": {
+          "rating_kp": "6.64",
+          "vote_num_kp": "70",
+          "rating_imdb": "6",
+          "vote_num_imdb": "939"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1189670",
+      "date": "1601027101",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Тень звезды",
+        "orig": "Тень звезды",
+        "alter": "",
+        "year": "2020",
+        "country": "Россия",
+        "director": "Дмитрий Губарев",
+        "genre": "музыка,драма,мелодрама,детектив",
+        "actors": "Павел Прилучный,Александра Черкасова-Служитель,Кирилл Нагиев,Юлия Франц,Владимир Сычев,Павел Штонденко,Надежда Мельникова,Владислав Спирин,Кристина Бойцова",
+        "description": "Популярный рэпер приезжает на гастроли в Питер. Его обожают и ждут фанаты,  он на пике славы, он уверен в себе.  Вместе со звездой приезжают его менеджер, музыканты и девушка. \r\n\r\nНеожиданно на музыканта совершается покушение. Ему чудом удаётся избежать смерти, но его менеджер решает нанять охранника. Складывается так, что охранником оказывается… девушка.  Она — профессионал своего дела, но в брутальном мире рэпа женщине приходится сложно. Телохранитель разбирается в запутанных отношениях звезды и понимает, что каждый из окружения рэпера мог бы желать его смерти. В решающий момент «бодигард» спасает ему жизнь. Однако, она узнала слишком много, и музыканту приходит время спасать своего телохранителя.",
+        "slogan": "",
+        "premiere": "20 августа 2020",
+        "age": "16",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1189670.jpg",
+        "rating": {
+          "rating_kp": "5.093",
+          "vote_num_kp": "1781",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "18"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "771193",
+      "date": "1601024657",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "LostFilm",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "3",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080
+        }
+      },
+      "info": {
+        "rus": "Мастер побега",
+        "orig": "The Escape Artist",
+        "alter": "Сухим из воды",
+        "year": "2013",
+        "country": "Великобритания",
+        "director": "Брайан Уэлш",
+        "genre": "триллер,драма",
+        "actors": "Дэвид Теннант, Тоби Кеббелл, Софи Оконедо, Эшли Дженсен, Брид Бреннан, Тони Гарднер, Энтон Лессер, Рой Мэрсден, Стивен Уайт, Гас Барри",
+        "description": "Уилл Бертон - талантливый младший адвокат, обладающий несравненным интеллектом и невероятным обаянием. Он специализируется на делах по тяжким уголовным преступлениям. Как адвокат, он пользуется большим спросом, так как не проиграл ни одного дела. Но он оправдывает главного подозреваемого в деле об ужасном убийстве, и это приводит к неожиданным пугающим последствиям...",
+        "slogan": "Even serial killers deserve a defense",
+        "premiere": "29 октября 2013",
+        "age": "18",
+        "time": "10800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_771193.jpg",
+        "rating": {
+          "rating_kp": "7.648",
+          "vote_num_kp": "5449",
+          "rating_imdb": "7.7",
+          "vote_num_imdb": "5503"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "817372",
       "date": "1601024568",
       "camrip": "0",
@@ -111,10 +584,10 @@
         "time": "0",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1233464.jpg",
         "rating": {
-          "rating_kp": "7.088",
-          "vote_num_kp": "10482",
+          "rating_kp": "7.087",
+          "vote_num_kp": "10492",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "42332"
+          "vote_num_imdb": "42353"
         }
       }
     },
@@ -320,10 +793,10 @@
         "time": "3900",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1338255.jpg",
         "rating": {
-          "rating_kp": "8.282",
-          "vote_num_kp": "1886",
+          "rating_kp": "8.281",
+          "vote_num_kp": "1887",
           "rating_imdb": "8.8",
-          "vote_num_imdb": "3336"
+          "vote_num_imdb": "3348"
         }
       }
     },
@@ -442,7 +915,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_940680.jpg",
         "rating": {
           "rating_kp": "6.356",
-          "vote_num_kp": "76876",
+          "vote_num_kp": "76899",
           "rating_imdb": "6.6",
           "vote_num_imdb": "275"
         }
@@ -545,8 +1018,8 @@
         "time": "1440",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1171650.jpg",
         "rating": {
-          "rating_kp": "5.88",
-          "vote_num_kp": "11642",
+          "rating_kp": "5.879",
+          "vote_num_kp": "11654",
           "rating_imdb": "5.4",
           "vote_num_imdb": "104"
         }
@@ -648,9 +1121,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_744776.jpg",
         "rating": {
           "rating_kp": "7.349",
-          "vote_num_kp": "53340",
+          "vote_num_kp": "53360",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "115982"
+          "vote_num_imdb": "115995"
         }
       }
     },
@@ -717,10 +1190,10 @@
         "time": "5940",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1179073.jpg",
         "rating": {
-          "rating_kp": "6.353",
-          "vote_num_kp": "15437",
+          "rating_kp": "6.354",
+          "vote_num_kp": "15471",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "24779"
+          "vote_num_imdb": "24796"
         }
       }
     },
@@ -753,9 +1226,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2928.jpg",
         "rating": {
           "rating_kp": "7.626",
-          "vote_num_kp": "91797",
+          "vote_num_kp": "91807",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "234884"
+          "vote_num_imdb": "234915"
         }
       }
     },
@@ -788,9 +1261,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_506066.jpg",
         "rating": {
           "rating_kp": "6.07",
-          "vote_num_kp": "221393",
+          "vote_num_kp": "221435",
           "rating_imdb": "6",
-          "vote_num_imdb": "96950"
+          "vote_num_imdb": "96963"
         }
       }
     },
@@ -858,7 +1331,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1229309.jpg",
         "rating": {
           "rating_kp": "3.551",
-          "vote_num_kp": "2397",
+          "vote_num_kp": "2399",
           "rating_imdb": "3.4",
           "vote_num_imdb": "987"
         }
@@ -928,9 +1401,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_725190.jpg",
         "rating": {
           "rating_kp": "8.336",
-          "vote_num_kp": "252264",
+          "vote_num_kp": "252298",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "737904"
+          "vote_num_imdb": "738088"
         }
       }
     },
@@ -963,7 +1436,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1201726.jpg",
         "rating": {
           "rating_kp": "5.853",
-          "vote_num_kp": "359",
+          "vote_num_kp": "360",
           "rating_imdb": "6.5",
           "vote_num_imdb": "667"
         }
@@ -998,9 +1471,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_972796.jpg",
         "rating": {
           "rating_kp": "5.556",
-          "vote_num_kp": "6174",
+          "vote_num_kp": "6180",
           "rating_imdb": "6",
-          "vote_num_imdb": "32858"
+          "vote_num_imdb": "32883"
         }
       }
     },
@@ -1068,9 +1541,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_261636.jpg",
         "rating": {
           "rating_kp": "6.97",
-          "vote_num_kp": "219987",
+          "vote_num_kp": "220054",
           "rating_imdb": "7",
-          "vote_num_imdb": "610741"
+          "vote_num_imdb": "610835"
         }
       }
     },
@@ -1174,8 +1647,8 @@
         "rating": {
           "rating_kp": "0",
           "vote_num_kp": "9",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "110"
+          "rating_imdb": "5",
+          "vote_num_imdb": "112"
         }
       }
     },
@@ -1348,7 +1821,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_838222.jpg",
         "rating": {
           "rating_kp": "6.615",
-          "vote_num_kp": "2907",
+          "vote_num_kp": "2910",
           "rating_imdb": "6.8",
           "vote_num_imdb": "20849"
         }
@@ -1420,7 +1893,7 @@
           "rating_kp": "6.39",
           "vote_num_kp": "190",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "2412"
+          "vote_num_imdb": "2415"
         }
       }
     },
@@ -1488,7 +1961,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_14305.jpg",
         "rating": {
           "rating_kp": "7.247",
-          "vote_num_kp": "7611",
+          "vote_num_kp": "7615",
           "rating_imdb": "6.6",
           "vote_num_imdb": "14292"
         }
@@ -1523,9 +1996,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_14287.jpg",
         "rating": {
           "rating_kp": "7.739",
-          "vote_num_kp": "50205",
+          "vote_num_kp": "50207",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "27480"
+          "vote_num_imdb": "27496"
         }
       }
     },
@@ -1592,430 +2065,10 @@
         "time": "7860",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_784.jpg",
         "rating": {
-          "rating_kp": "7.203",
-          "vote_num_kp": "27651",
+          "rating_kp": "7.204",
+          "vote_num_kp": "27658",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "57830"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2471",
-      "date": "1600953308",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Лето в поисках «Корвета»",
-        "orig": "Corvette Summer",
-        "alter": "",
-        "year": "1978",
-        "country": "США",
-        "director": "Мэттью Роббинс",
-        "genre": "комедия,приключения",
-        "actors": "Марк Хэмилл,Энни Поттс,Юджин Роч,Уильям Брайант,Ричард МакКензи,Ким Милфорд,Филип Брунс,Дэнни Бонадьюс,Albert Insinnia,Джейн А. Джонстон",
-        "description": "Парень любит проектировать и строить экзотические автомобили. При средней школе он собрал со свалки, сделал из рухляди шикарный автомобиль своей мечты «Corvette», вскоре его угоняют, парень отправляется на увлекательные поиски своего авто, его ждет куча приключений и новая любовь.",
-        "slogan": "And he thought fast cars were a thrill...",
-        "premiere": "2 июня 1978",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2471.jpg",
-        "rating": {
-          "rating_kp": "6.698",
-          "vote_num_kp": "126",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "2848"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "24968",
-      "date": "1600948803",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Под песком",
-        "orig": "Sous le sable",
-        "alter": "",
-        "year": "2000",
-        "country": "Франция, Япония",
-        "director": "Франсуа Озон",
-        "genre": "детектив,драма",
-        "actors": "Шарлотта Рэмплинг, Бруно Кремер, Жак Ноло, Александра Стюарт, Пьер Вернье, Андре Таинси, Майя Гоглер, Дамьен Аббу, Давид Португэ, Пьер Субестре",
-        "description": "Многие годы супруги Мари и Жан проводят свой отпуск в приморской области Ланды, на западе Франции. В один из дней муж Мари неожиданно исчез. Что это: странная, глупая и нелепая смерть - или спланированный сумасшедший поступок?",
-        "slogan": "Can love vanish without a trace?",
-        "premiere": "11 сентября 2000",
-        "age": "16",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_24968.jpg",
-        "rating": {
-          "rating_kp": "7.051",
-          "vote_num_kp": "2792",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "8371"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "6801",
-      "date": "1600947010",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Воспитание Риты",
-        "orig": "Educating Rita",
-        "alter": "",
-        "year": "1983",
-        "country": "Великобритания",
-        "director": "Льюис Гилберт",
-        "genre": "драма,комедия",
-        "actors": "Майкл Кейн,Джули Уолтерс,Майкл Уильямс,Морин Липман,Джинэнн Краули,Малкольм Дуглас,Годфри Куигли,Дирбла Моллой,Патрик Дэйли,Ким Форчен",
-        "description": "Умеренно пьющий профессор-филолог средних лет дает уроки замужней парикмахерше, типичной кокни, которая во что бы то ни стало хочет стать светской дамой.",
-        "slogan": "A comedy about a teacher and a very memorable student",
-        "premiere": "16 июня 1983",
-        "age": "0",
-        "time": "6660",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6801.jpg",
-        "rating": {
-          "rating_kp": "7.278",
-          "vote_num_kp": "739",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "13001"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1566",
-      "date": "1600947005",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Основные цвета",
-        "orig": "Primary Colors",
-        "alter": "",
-        "year": "1998",
-        "country": "США,Франция,Великобритания,Германия,Япония",
-        "director": "Майк Николс",
-        "genre": "драма",
-        "actors": "Джон Траволта,Эмма Томпсон,Билли Боб Торнтон,Кэти Бейтс,Адриан Лестер,Мора Тирни,Ларри Хэгмэн,Дайан Лэдд,Пол Гилфойл,Rebecca Walker",
-        "description": "Вымышленная политическая драма о президентской гонке Джека Стэнтона, бабника, губернатора-южанина, сражающегося с демократическими кандидатами в 1992 году.\r\n\r\nРассказ ведется от лица менеджера кампании, афроамериканца. Показана закулисная возня, интриги, шантаж видеозаписями, незаконным ребенком, употреблением кокаина, приводами в полицию и нелегальными сделками с недвижимостью. Основная идея фильма в том, что даже достойные претенденты вынуждены идти на аморальные поступки, чтобы добиться успеха в этом изматывающем политическом шоу, превратившемся для американцев, падких до скандалов, в чистое развлечение.",
-        "slogan": "West Video",
-        "premiere": "4 июня 1998",
-        "age": "0",
-        "time": "8580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1566.jpg",
-        "rating": {
-          "rating_kp": "6.521",
-          "vote_num_kp": "1053",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "27593"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "722885",
-      "date": "1600940701",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "От звонка до звонка",
-        "orig": "Starred Up",
-        "alter": "",
-        "year": "2013",
-        "country": "Великобритания",
-        "director": "Дэвид Маккензи",
-        "genre": "драма,криминал",
-        "actors": "Джек О’Коннелл, Бен Мендельсон, Руперт Френд, Сэм Спруэлл, Энтони Уэльс, Дэвид Аджала, Питер Фердинандо, Томми МакДоннел, Гершвин Эсташ мл., Эшли Чин",
-        "description": "Проблемного и невероятно жестокого подростка переводят в тюрьму для взрослых, где он встречает своего отца...",
-        "slogan": "We're all different on the inside",
-        "premiere": "30 августа 2013",
-        "age": "18",
-        "time": "6360",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_722885.jpg",
-        "rating": {
-          "rating_kp": "6.74",
-          "vote_num_kp": "7469",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "43972"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1200087",
-      "date": "1600915516",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Легенда о Пяти",
-        "orig": "The Legend of the Five",
-        "alter": "",
-        "year": "2020",
-        "country": "Австралия",
-        "director": "Джоэнн Сэмюэл",
-        "genre": "фэнтези,драма,детектив,приключения",
-        "actors": "Лорен Эспозито,Gabi Sproule,Ли Скотт,Nicholas Andrianakos,Deborah An,Бет Чемпион,Тириел Мора,Alex Woodward,Джорджия Адамсон,Eric James Gravolin",
-        "description": "Во время скучной поездки в музей группа школьников случайно сталкивается с невероятным волшебным миром. Теперь им предстоит противостоять многовековому злу, желающему уничтожить Землю.",
-        "slogan": "",
-        "premiere": "25 июня 2020",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYmM1MTJhZjMtNmZjMi00MWM1LWE4MTctZmEzMDQ0NTMyMTIzXkEyXkFqcGdeQXVyMTE5NDk4NjU2.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "27",
-          "rating_imdb": "3",
-          "vote_num_imdb": "237"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "424994",
-      "date": "1600914106",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Лига справедливости",
-        "orig": "Justice League",
-        "alter": "",
-        "year": "2017",
-        "country": "США, Канада, Великобритания",
-        "director": "Зак Снайдер",
-        "genre": "боевик,фантастика,фэнтези,приключения",
-        "actors": "Бен Аффлек, Генри Кавилл, Эми Адамс, Галь Гадот, Эзра Миллер, Джейсон Момоа, Рэй Фишер, Джереми Айронс, Дайан Лэйн, Конни Нильсен",
-        "description": "Брюс Уэйн, вдохновленный самопожертвованием Супермена, вновь обретает веру в человечество. Он заручается поддержкой новой союзницы, Дианы Принс, чтобы сразиться с еще более могущественным противником. Бэтмен и Чудо-Женщина быстро набирают команду сверхлюдей для борьбы с пробудившейся угрозой. Но несмотря на уникальный состав отряда супергероев - Бэтмен, Чудо-Женщина, Аквамен, Киборг и Флэш, - быть может, спасать планету от вторжения катастрофических масштабов уже слишком поздно.",
-        "slogan": "Нельзя спасти мир в одиночку",
-        "premiere": "26 октября 2017",
-        "age": "16",
-        "time": "6600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_424994.jpg",
-        "rating": {
-          "rating_kp": "6.075",
-          "vote_num_kp": "161904",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "413790"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1156814",
-      "date": "1600871405",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Только по любви",
-        "orig": "Solo el Amor",
-        "alter": "",
-        "year": "2018",
-        "country": "Аргентина",
-        "director": "Andy Caballero,Диего Корсини",
-        "genre": "драма,мелодрама,музыка",
-        "actors": "Франко Масини,Yamila Saud,Факундо Гамбанде,Викторио Д’Алессандро,Андреа Фриджерио,Херардо Романо,Bautista Lena,Josefina Ramírez,Ноэль Шахрис,Daiana Hernández",
-        "description": "Вокалист группы, стремящейся добиться успеха, вдохновлённый встречей с девушкой - адвокатом, сочиняет песню и взлетает на вершину славы.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://m.media-amazon.com/images/M/MV5BODY2N2Q5ZTAtZWJjNS00MjliLTg5YTQtYjEwOWI3YmJhNWExXkEyXkFqcGdeQXVyMTE0NzMwMjU@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "53"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1237557",
-      "date": "1600871405",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Табу",
-        "orig": "Tabu: Mengusik Gerbang Iblis",
-        "alter": "",
-        "year": "2019",
-        "country": "Индонезия",
-        "director": "Angling Sagaran",
-        "genre": "ужасы",
-        "actors": "Angga Yunanda,Isel Fricella,Bastian Steel,Agatha Chelsea,Rayn Wijaya,Elina Joerg,Alfie Alfandi,Mona Ratuliu,Radja Nasution,Laksmi Notokusumo",
-        "description": "Шесть школьных приятелей отправляются в запретный лес, чтобы пофотографировать призраков, но они нарушают все правила и их начинает преследовать нечто злое и неотвратимое.",
-        "slogan": "",
-        "premiere": "24 января 2019",
-        "age": "0",
-        "time": "5760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1237557.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "14",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "37"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1144049",
-      "date": "1600870513",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Август в Мадриде",
-        "orig": "La virgen de agosto",
-        "alter": "",
-        "year": "2019",
-        "country": "Испания",
-        "director": "Хонас Труэба",
-        "genre": "драма",
-        "actors": "Итсасо Арана,Вито Санс,Изабель Штоффель,Джо Манхон,María Herrador,Luis Alberto Heras,Микеле Уррос,Naiara Carmona,Simon Pritchard,Violeta Rebollo",
-        "description": "Еве 33 года, она решает остаться в Мадриде тогда, когда все оттуда уезжают из-за жары. Она была актрисой, но теперь снова ищет себя. Она временно живет в квартире у знакомого, гуляет по городу, встречается с друзьями, знакомится с новыми. Этот август станет станет для неё новой точкой отсчёта.",
-        "slogan": "",
-        "premiere": "1 августа 2019",
-        "age": "0",
-        "time": "7500",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1144049.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "30",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "788"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "437410",
-      "date": "1600866850",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Темный рыцарь: Возрождение легенды",
-        "orig": "The Dark Knight Rises",
-        "alter": "",
-        "year": "2012",
-        "country": "Великобритания, США",
-        "director": "Кристофер Нолан",
-        "genre": "боевик,фантастика,триллер,драма,криминал",
-        "actors": "Кристиан Бэйл, Том Харди, Энн Хэтэуэй, Джозеф Гордон-Левитт, Марион Котийяр, Гари Олдман, Морган Фриман, Майкл Кейн, Мэттью Модайн, Бен Мендельсон",
-        "description": "Восемь лет назад Бэтмен растворился в ночи, превратившись из героя в беглеца. Приняв на себя вину за смерть прокурора Харви Дента, он пожертвовал всем. Вместе с комиссаром Гордоном они решили, что так будет лучше для всех. Пока преступность была раздавлена антикриминальным актом Дента, ложь действовала.\r\n\r\nТем не менее, еще опаснее становится появление нового врага Бэйна, чье лицо закрыто маской. Он разворачивает в Готэме чудовищную деятельность, и это вынуждает Брюса Уэйна выйти из импровизированного изгнания. Однако даже надев свой костюм, Бэтмен может проиграть Бэйну. Но с появлением хитрой воровки по прозвищу Женщина - Кошка с загадочным прошлым всё меняется.",
-        "slogan": "И разгорится пламя",
-        "premiere": "16 июля 2012",
-        "age": "16",
-        "time": "9900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_437410.jpg",
-        "rating": {
-          "rating_kp": "8.137",
-          "vote_num_kp": "366675",
-          "rating_imdb": "8.4",
-          "vote_num_imdb": "1543973"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "797823",
-      "date": "1600866028",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дневник девочки-подростка",
-        "orig": "The Diary of a Teenage Girl",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Мариэль Хеллер",
-        "genre": "комедия,мелодрама,драма",
-        "actors": "Бел Паули, Уилли, Кристен Уиг, Эбби Уэйт, Александр Скарсгард, Миранда Бэйли, Карсон Д. Мелл, Джон Парсонс, Мадлен Уотерс, Остин Лион",
-        "description": "История девочки-подростка, живущей в Сан-Франциско в 70-е годы, которая завела интрижку с бойфрендом своей мамы.",
-        "slogan": "",
-        "premiere": "24 января 2015",
-        "age": "18",
-        "time": "6120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_797823.jpg",
-        "rating": {
-          "rating_kp": "6.162",
-          "vote_num_kp": "6873",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "30166"
+          "vote_num_imdb": "57841"
         }
       }
     }
