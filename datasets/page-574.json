@@ -2,6 +2,461 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1147530",
+      "date": "1572563772",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Я – Пол Уокер",
+        "orig": "I Am Paul Walker",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Адриан Байтенхайс",
+        "genre": "документальный",
+        "actors": "Пол Уокер, Тайриз Гибсон, Роб Коэн, Коуди Уокер, Эрик МакАртур, Уэйн Крэймер, Калеб Уокер, Мэтт Любер, Окли Леман, Paul Walker III",
+        "description": "Рассказ о жизни и карьере популярного актёра Пола Уокера.",
+        "slogan": "",
+        "premiere": "11 августа 2018",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1147530.jpg",
+        "rating": {
+          "rating_kp": "8.042",
+          "vote_num_kp": "1238",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "829"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1041862",
+      "date": "1572563469",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Тройная угроза",
+        "orig": "Triple Threat",
+        "alter": "",
+        "year": "2019",
+        "country": "Таиланд, Китай, США",
+        "director": "Джесси Джонсон",
+        "genre": "боевик,триллер,криминал",
+        "actors": "Тони Джа, Ико Уайс, Тайгер Чэнь, Скотт Эдкинс, Селина Джейд, Майкл Биспинг, Майкл Джей Уайт, Моника Мок, Яанин Висмитананда, Доминик Ванденберг",
+        "description": "Где-то в джунглях Таиланда отряд наёмников проводит операцию по спасению своего главаря, объявленного террористом. В процессе они убивают всех встречных, и заминировав лагерь, оставляют умирать своих: тайца Паю и китайца Фэя. Этим двоим удаётся спастись и, чтобы заработать, они участвуют в боях без правил, где на них и выходит Джака - выживший после нападения на лагерь боец, мечтающий отомстить за смерть жены. Выпив с новым знакомым, с утра Паю и Фэй попадают в полицейский участок. В это время уже знакомый нам отряд наёмников пытается убить китайскую наследницу миллионов Сянь, которая хочет потратить своё состояние на развитие региона и этим положить конец преступности. Почти все телохранители девушки убиты, а сама она чудом добирается до того самого полицейского участка, где содержатся Паю и Фэй.",
+        "slogan": "",
+        "premiere": "19 марта 2019",
+        "age": "16",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1041862.jpg",
+        "rating": {
+          "rating_kp": "5.358",
+          "vote_num_kp": "7926",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "10027"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1100959",
+      "date": "1572563423",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Путь домой",
+        "orig": "A Dog's Way Home",
+        "alter": "",
+        "year": "2019",
+        "country": "Китай, США",
+        "director": "Чарльз Мартин Смит",
+        "genre": "мелодрама,семейный",
+        "actors": "Брайс Даллас Ховард, Эшли Джадд, Эдвард Джеймс Олмос, Александра Шипп, Джона Хауэр-Кинг, Кристофер Бауэр, Бэрри Уотсон, Мотелл Джин Фостер, Уэс Стьюди, Джон Кассини",
+        "description": "Что делать, если тебя и твоего любимого хозяина разделяют сотни километров? Белла знает ответ: она обязательно вернется домой, чего бы ей это ни стоило. И путь ее будет полон невероятных приключений, опасностей и удивительных открытий.",
+        "slogan": "Её ведёт не поводок, а любовь",
+        "premiere": "10 января 2019",
+        "age": "6",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1100959.jpg",
+        "rating": {
+          "rating_kp": "7.233",
+          "vote_num_kp": "41853",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "15681"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1045061",
+      "date": "1572563310",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Море соблазна",
+        "orig": "Serenity",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания, США",
+        "director": "Стивен Найт",
+        "genre": "фантастика,триллер,детектив,драма",
+        "actors": "Мэттью МакКонахи, Энн Хэтэуэй, Дайан Лэйн, Джейсон Кларк, Джимон Хонсу, Джереми Стронг, Шарлотта Батлер, Дэвид Батлер, Рафаэль Сайех, Майкл Ричард",
+        "description": "Палящее солнце Карибских островов, верный корабль и жизнь, полная риска - его стихия. Единственная женщина, которую он любил, вышла замуж за миллиардера и живет на вилле в Майами. Неожиданно она вновь появляется в его жизни и умоляет о защите. С этой минуты знакомые воды превратятся в море соблазна...",
+        "slogan": "На острове никто не умирает, пока играет по правилам",
+        "premiere": "24 января 2019",
+        "age": "18",
+        "time": "6360",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045061.jpg",
+        "rating": {
+          "rating_kp": "6.047",
+          "vote_num_kp": "38566",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "37476"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1044981",
+      "date": "1572563216",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Рожденный стать королем",
+        "orig": "The Kid Who Would Be King",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания, США",
+        "director": "Джо Корниш",
+        "genre": "боевик,фэнтези,приключения,семейный",
+        "actors": "Луис Эшборн Серкис, Денис Гоф, Дин Чауму, Том Тейлор, Рианна Доррис, Нэйтан Стюарт-Джарретт, Нома Думезвени, Ребекка Фергюсон, Марк Боннар, Энгус Имри",
+        "description": "Повседневные проблемы 12-летнего Алекса отходят на второй план после того, как он находит легендарный Экскалибур. И теперь, когда меч короля Артура оказывается в руках самого неудачливого подростка в Британии, начинается грандиозное приключение, в ходе которого Алекс и его друзья должны остановить злую средневековую волшебницу Моргану и не дать ей уничтожить мир.",
+        "slogan": "Зло будет наказано",
+        "premiere": "16 января 2019",
+        "age": "6",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1044981.jpg",
+        "rating": {
+          "rating_kp": "5.753",
+          "vote_num_kp": "11008",
+          "rating_imdb": "6",
+          "vote_num_imdb": "15080"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1115286",
+      "date": "1572563091",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Винная страна",
+        "orig": "Wine Country",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Эми Полер",
+        "genre": "комедия",
+        "actors": "Эми Полер, Рэйчел Дрэч, Ана Гастейер, Майя Рудольф, Пола Пелл, Эмили Спайви, Джей Ларсон, Тина Фей, Майя Эрскин, Рэйчел Хэмилтон",
+        "description": "Сюжет сериала развернется вокруг нескольких подруг, которые решили отдохнуть в винодельческом городе Напа и отметить юбилей одной из них. Однако из-за количества выпитого алкоголя девушки теряют контроль над ситуацией.",
+        "slogan": "Friendship is a Trip",
+        "premiere": "8 мая 2019",
+        "age": "16",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115286.jpg",
+        "rating": {
+          "rating_kp": "5.594",
+          "vote_num_kp": "1038",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "19475"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1108581",
+      "date": "1572562962",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Чего хотят мужчины",
+        "orig": "What Men Want",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Адам Шенкман",
+        "genre": "комедия,фэнтези,мелодрама",
+        "actors": "Тараджи П. Хенсон, Кристен Ледлоу, Джош Бренер, Келлан Латс, Джейсон Джонс, Джастин Альварез, Крис Витаск, Макс Гринфилд, Пол Брайан Джонсон, Брайан Босворт",
+        "description": "Али Дэвис - успешный менеджер спортивных звезд, продвижению по карьере которой постоянно мешают коллеги-мужчины. Получив возможность слышать мысли мужчин, она использует свой талант, чтобы изменить правила игры и заключить контракт с молодым и талантливым бейсболистом.",
+        "slogan": "She Can Hear Men's Thoughts. Let the Games Begin",
+        "premiere": "10 января 2019",
+        "age": "0",
+        "time": "7020",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1108581.jpg",
+        "rating": {
+          "rating_kp": "5.966",
+          "vote_num_kp": "16872",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "25276"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1208049",
+      "date": "1572562909",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Детектив из школы Бикслер Вэлли",
+        "orig": "Bixler High Private Eye",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Лесли Колинс Смалл",
+        "genre": "приключения",
+        "actors": "Джейс Норман, Эриель Мартин, Самия Вомак, Майк С. Нельсон, Эдди Агирре, Эд Бегли мл., Эшли Мишель Бреннер, Мартин Клебба, Уинстон А. Маршалл, Мэтт Митчелл",
+        "description": "Подросток Ксандер ДеВитт приезжает к своему деду, чтобы найти пропавшего три месяца назад отца. Ксандер - одиночка, но по воле случая ему приходится работать со своей новой одноклассницей Кензи.",
+        "slogan": "",
+        "premiere": "21 января 2019",
+        "age": "0",
+        "time": "3960",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1208049.jpg",
+        "rating": {
+          "rating_kp": "5.386",
+          "vote_num_kp": "403",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "258"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "996027",
+      "date": "1572562830",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Игры разумов",
+        "orig": "The Professor and the Madman",
+        "alter": "Гений и безумец",
+        "year": "2018",
+        "country": "Ирландия",
+        "director": "Фарад Сафиниа",
+        "genre": "триллер,детектив,драма,биография",
+        "actors": "Мэл Гибсон, Шон Пенн, Натали Дормер, Дженнифер Эль, Йоан Гриффит, Эдди Марсан, Джереми Ирвин, Стив Куган, Лоуренс Фокс, Стивен Диллэйн",
+        "description": "Англия середины XIX века. Оксфордский профессор Джеймс Мюррей работает над первым в истории словарем английского языка, а его главным соратником становится заключенный психиатрической клиники для особо опасных преступников - доктор Уильям Майнор. Гений Майнор или сумасшедший, хитроумный преступник, ведущий дерзкую игру, чтобы вырваться на свободу, или одержимый ученый? И кто тогда Мюррей: верный друг, жертва манипуляции или организатор сговора?",
+        "slogan": "Гений или сумасшедший? Преступник или жертва?",
+        "premiere": "16 мая 2018",
+        "age": "16",
+        "time": "7440",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_996027.jpg",
+        "rating": {
+          "rating_kp": "7.251",
+          "vote_num_kp": "57038",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "38551"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1165994",
+      "date": "1572562637",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ритмы",
+        "orig": "Beats",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Крис Робинсон",
+        "genre": "драма",
+        "actors": "Халил Эвередж, Ивэн Джей Симпсон, Эшли Джексон, Ахмад Николас Фергюсон, Узо Адуба, Меган Суза, Джереми Филлипс, Ариана Бёркс, Скай Спаркс, Энтони Андерсон",
+        "description": "Действие фильма происходит в Чикаго, в центре сюжета - страдающий агорафобией 17-летний талантливый диджей-самоучка и бывший музыкальный менеджер, которым предстоит справиться с призраками своего прошлого и вместе отправиться в погоню за славой.",
+        "slogan": "Rise Above The Noise",
+        "premiere": "19 июня 2019",
+        "age": "0",
+        "time": "6540",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1165994.jpg",
+        "rating": {
+          "rating_kp": "6.111",
+          "vote_num_kp": "529",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "4505"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1022484",
+      "date": "1572562298",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Амундсен",
+        "orig": "Amundsen",
+        "alter": "",
+        "year": "2019",
+        "country": "Норвегия",
+        "director": "Эспен Сандберг",
+        "genre": "история,драма,биография,приключения",
+        "actors": "Кэтрин Уотерстон, Пол Сверре Валхейм Хаген, Мадс Сьёгард Петтерсен, Тронд Эспен Сейм, Йонас Страндт Гравли, Фритьоф Сохэйм, Кристиан Рубек, Оле Кристоффер Эртвог, Ида Урсин-Хольм, Руби Дагналл",
+        "description": "Молодой норвежский путешественник грезит об открытии неизведанных полярных земель. В погоне за мечтой и грандиозными свершениями герой жертвует всем: семейными узами, дружбой, любовью всей жизни. Получая взамен ледяные пустыни, бездонные трещины, нечеловеческий холод, метели и вечную мерзлоту.",
+        "slogan": "Сквозь тайны вечного холода",
+        "premiere": "15 февраля 2019",
+        "age": "12",
+        "time": "7500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1022484.jpg",
+        "rating": {
+          "rating_kp": "6.243",
+          "vote_num_kp": "5597",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "3207"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "716021",
+      "date": "1572562240",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "В упор",
+        "orig": "Point Blank",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Джо Линч",
+        "genre": "боевик,триллер,криминал",
+        "actors": "Энтони Маки, Фрэнк Грилло, Марша Гей Харден, Кристиан Кук, Тейона Паррис, Борис МакГайвер, Карли Тамборски, Мин Ван, Маркис Мур, Лиа Хаттон Бисмор",
+        "description": "Неизвестные проникают в дом врача скорой помощи Пола и похищают его беременную жену. Чтобы ее вернуть, Полу нужно освободить преступника, попавшего в его больницу.",
+        "slogan": "A Hell of a Day. A Hell of a Pair",
+        "premiere": "12 июля 2019",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_716021.jpg",
+        "rating": {
+          "rating_kp": "5.761",
+          "vote_num_kp": "2569",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "12603"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1137773",
+      "date": "1572562024",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Призраки Шэрон Тейт",
+        "orig": "The Haunting of Sharon Tate",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Дэниэл Фаррандс",
+        "genre": "ужасы,триллер,драма",
+        "actors": "Хилари Дафф, Джонатан Беннетт, Лидия Хёрст, Павел Шайда, Райан Каргилл, Белла Поупэ, Файвел Стюарт, Тайлер Джонсон, Бен Меллиш",
+        "description": "Беременная супруга Романа Полански и ожидающая его возвращения из Европы, 26-летняя голливудская актриса Шэрон Тейт страдает от видений ее скорой смерти.",
+        "slogan": "Based on a True Story of one of the most Horrific Murders in History",
+        "premiere": "5 апреля 2019",
+        "age": "18",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1137773.jpg",
+        "rating": {
+          "rating_kp": "4.589",
+          "vote_num_kp": "1167",
+          "rating_imdb": "2.8",
+          "vote_num_imdb": "3520"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1228403",
       "date": "1572561897",
       "camrip": "0",
@@ -63,10 +518,10 @@
         "time": "6540",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1165249.jpg",
         "rating": {
-          "rating_kp": "6.231",
-          "vote_num_kp": "2725",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "1177"
+          "rating_kp": "6.241",
+          "vote_num_kp": "2752",
+          "rating_imdb": "6",
+          "vote_num_imdb": "1180"
         }
       }
     },
@@ -169,9 +624,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1018804.jpg",
         "rating": {
           "rating_kp": "5.95",
-          "vote_num_kp": "21738",
+          "vote_num_kp": "21745",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "19482"
+          "vote_num_imdb": "19489"
         }
       }
     },
@@ -308,7 +763,7 @@
         "time": "5700",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1152350.jpg",
         "rating": {
-          "rating_kp": "4.2",
+          "rating_kp": "4.203",
           "vote_num_kp": "3260",
           "rating_imdb": "4.5",
           "vote_num_imdb": "5388"
@@ -344,7 +799,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1269608.jpg",
         "rating": {
           "rating_kp": "6.277",
-          "vote_num_kp": "4813",
+          "vote_num_kp": "4815",
           "rating_imdb": "6.6",
           "vote_num_imdb": "8854"
         }
@@ -379,7 +834,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1044281.jpg",
         "rating": {
           "rating_kp": "4.291",
-          "vote_num_kp": "7449",
+          "vote_num_kp": "7452",
           "rating_imdb": "4.4",
           "vote_num_imdb": "12301"
         }
@@ -414,7 +869,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1201649.jpg",
         "rating": {
           "rating_kp": "4.959",
-          "vote_num_kp": "2191",
+          "vote_num_kp": "2192",
           "rating_imdb": "4.6",
           "vote_num_imdb": "4107"
         }
@@ -449,9 +904,9 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BM2FmMGNiODgtNTAyMy00N2VlLWEyODEtNDViMmRkZDA5Nzc3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg",
         "rating": {
           "rating_kp": "6.431",
-          "vote_num_kp": "6580",
+          "vote_num_kp": "6581",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "11548"
+          "vote_num_imdb": "11565"
         }
       }
     },
@@ -484,7 +939,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1170198.jpg",
         "rating": {
           "rating_kp": "4.863",
-          "vote_num_kp": "1126",
+          "vote_num_kp": "1128",
           "rating_imdb": "4.2",
           "vote_num_imdb": "561"
         }
@@ -554,7 +1009,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1127012.jpg",
         "rating": {
           "rating_kp": "6.78",
-          "vote_num_kp": "7346",
+          "vote_num_kp": "7350",
           "rating_imdb": "6.4",
           "vote_num_imdb": "3140"
         }
@@ -589,7 +1044,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112619.jpg",
         "rating": {
           "rating_kp": "6.186",
-          "vote_num_kp": "4217",
+          "vote_num_kp": "4219",
           "rating_imdb": "6.4",
           "vote_num_imdb": "8243"
         }
@@ -624,7 +1079,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1236319.jpg",
         "rating": {
           "rating_kp": "6.631",
-          "vote_num_kp": "6196",
+          "vote_num_kp": "6198",
           "rating_imdb": "6.2",
           "vote_num_imdb": "1088"
         }
@@ -694,7 +1149,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1048681.jpg",
         "rating": {
           "rating_kp": "5.307",
-          "vote_num_kp": "11947",
+          "vote_num_kp": "11953",
           "rating_imdb": "5",
           "vote_num_imdb": "22053"
         }
@@ -763,10 +1218,10 @@
         "time": "6960",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1144300.jpg",
         "rating": {
-          "rating_kp": "6.881",
-          "vote_num_kp": "31451",
+          "rating_kp": "6.882",
+          "vote_num_kp": "31458",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "122445"
+          "vote_num_imdb": "122506"
         }
       }
     },
@@ -799,7 +1254,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_652758.jpg",
         "rating": {
           "rating_kp": "6.231",
-          "vote_num_kp": "29287",
+          "vote_num_kp": "29291",
           "rating_imdb": "5.8",
           "vote_num_imdb": "23737"
         }
