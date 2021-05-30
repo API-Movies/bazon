@@ -2,6 +2,496 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1115288",
+      "date": "1573663933",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Пятнадцать минут войны",
+        "orig": "L'Intervention",
+        "alter": "",
+        "year": "2019",
+        "country": "Франция, Бельгия",
+        "director": "Фред Гривуа",
+        "genre": "боевик,история,драма,военный",
+        "actors": "Альбан Ленуар, Ольга Куриленко, Себастьян Лаланн, Давид Муржиа, Микаэль Абитбуль, Гийом Лаббе, Бен Кура, Венсан Перес, Жозиан Баласко, Кевин Лэйн",
+        "description": "1976 год. Сомалийские мятежники угоняют школьный автобус, пассажиры которого - 21 французский ученик и американский учитель, и увозят его к нейтральной зоне на границе между французской колонией и Сомали. Французский капитан Андре Жерваль получает задание возглавить команду снайперов для оперативного спасения заложников. Когда переговоры терпят неудачу, Жерваль и его ребята становятся единственными, кто может спасти их жизнь.",
+        "slogan": "",
+        "premiere": "30 января 2019",
+        "age": "16",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115288.jpg",
+        "rating": {
+          "rating_kp": "6.455",
+          "vote_num_kp": "6101",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "2317"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "929513",
+      "date": "1573661975",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "В Кейптаунском порту…",
+        "orig": "В Кейптаунском порту…",
+        "alter": "",
+        "year": "2019",
+        "country": "Россия",
+        "director": "Александр Велединский",
+        "genre": "драма",
+        "actors": "Евгений Ткачук, Владимир Стеклов, Александр Робак, Юрий Кузнецов, Сергей Сосновский, Светлана Хомич, Ангелина Притуманова, Анфиса Черных, Виталий Кищенко, Юрий Ваксман",
+        "description": "Моряк, Пахан и Салажонок. Они встретились лишь однажды, летом 1945, на Дальнем Востоке, с оружием в руках и с серьезными намерениями. Все закончилось перестрелкой, и каждый из участников уверен, что убил двух других. Однако судьба подарила всем им долгую, насыщенную событиями жизнь. Пройдет более полувека и в один из дней в разных точках Земли произойдут события, связанные с той роковой встречей лета 1945, а зритель узнает, как круто изменила она жизнь каждого героя и не только.",
+        "slogan": "",
+        "premiere": "13 ноября 2019",
+        "age": "16",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_929513.jpg",
+        "rating": {
+          "rating_kp": "5.665",
+          "vote_num_kp": "2281",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "37"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1207972",
+      "date": "1573661749",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Спасатели Малибу",
+        "orig": "Malibu Rescue: The Movie",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Сэвидж Стив Холланд",
+        "genre": "комедия,боевик,приключения,семейный",
+        "actors": "Рикардо Уртадо, Бреанна Иде, Джеки Р. Джейкобсон, Эбби Доннелли, Алкоя Брансон, ДжиТи Нил, Кертис Армстронг, Йен Зиринг, Джереми Ховард, Джефф Мичам",
+        "description": "Целеустремленные юные спасатели соревнуются с местными детьми-снобами за право занять спасательную вышку на пляже в Малибу.",
+        "slogan": "",
+        "premiere": "13 мая 2019",
+        "age": "0",
+        "time": "4080",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1207972.jpg",
+        "rating": {
+          "rating_kp": "4.867",
+          "vote_num_kp": "302",
+          "rating_imdb": "5",
+          "vote_num_imdb": "1033"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1204296",
+      "date": "1573661435",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Экскурсия",
+        "orig": "Excursion",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания",
+        "director": "Martin Grof",
+        "genre": "фантастика,триллер,детектив",
+        "actors": "Джонни Миндлин, Richard Canal, Sophie Wilson, Джип Тёрнер, Джерил Бёрджесс",
+        "description": "Преданный сторонник чехословацкой коммунистической партии посещает самого себя в Лондоне будущего, чтобы убедиться, что социализм всё ещё процветает.",
+        "slogan": "Don't create a paradox",
+        "premiere": "20 апреля 2019",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1204296.jpg",
+        "rating": {
+          "rating_kp": "4.402",
+          "vote_num_kp": "390",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "1588"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1154641",
+      "date": "1573661365",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Идеальное свидание",
+        "orig": "The Perfect Date",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Кристофер Нельсон",
+        "genre": "комедия,мелодрама",
+        "actors": "Ной Сентинео, Лора Марано, Одисеас Георгиадис, Камила Мендес, Мэтт Уолш, Джо Крест, Кэрри Лазар, Алекс Биглейн, Блейн Керн, Зак Стейнер",
+        "description": "Чтобы накопить на обучение в Йельском университете, Брукс создаёт мобильное приложение, благодаря которому любая девушка сможет арендовать его в качестве бойфренда на один вечер. По мере того, как он встречается с разными девушками, он начинает понимать чего же на самом деле хочет от этой жизни.",
+        "slogan": "He's whoever you want him to be",
+        "premiere": "12 апреля 2019",
+        "age": "0",
+        "time": "5340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1154641.jpg",
+        "rating": {
+          "rating_kp": "6.101",
+          "vote_num_kp": "9829",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "34313"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1126670",
+      "date": "1573659237",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "После свадьбы",
+        "orig": "After the Wedding",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Барт Фрейндлих",
+        "genre": "драма",
+        "actors": "Мишель Уильямс,Билли Крудап,Джулианна Мур,Уилл Чейз,Эбби Куинн,Эжи Робертсон,Дорис Маккарти,Сьюзэн Блэкуэлл,Иса Дэвис,Алекс Исола",
+        "description": "Изабель посвятила свою жизнь помощи другим. Она узнает, что женщина, возглавляющая многомиллионную корпорацию, готова пожертвовать ей огромную сумму. Их встреча в Нью-Йорке проходит успешно, но все меняется, когда Изабель случайно встречает ее мужа. Она еще не знает, что кто-то начал игру чужими судьбами, в которой правда окажется опаснее лжи.",
+        "slogan": "Every family has a secret",
+        "premiere": "24 января 2019",
+        "age": "0",
+        "time": "6720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1126670.jpg",
+        "rating": {
+          "rating_kp": "6.227",
+          "vote_num_kp": "3570",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "6430"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1209307",
+      "date": "1573584244",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дылда",
+        "orig": "Tall Girl",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Зинга Стюарт",
+        "genre": "комедия",
+        "actors": "Ava Michelle, Сабрина Карпентер, Анджела Кинси, Стив Зан, Пэрис Берелс, Гриффин Глюк, Luke Eisner, Эми Ле, Кэнди Брукс, Келли Мурта",
+        "description": "Джоди, самая высокая девушка в школе, всегда чувствовала себя неловко в собственной шкуре. Но после многих лет насмешек и избегания внимания любой ценой, Джоди, наконец, решает обрести уверенность в себе.",
+        "slogan": "When you don't fit in, stand tall",
+        "premiere": "13 сентября 2019",
+        "age": "0",
+        "time": "6060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1209307.jpg",
+        "rating": {
+          "rating_kp": "6.138",
+          "vote_num_kp": "7536",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "18746"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1049514",
+      "date": "1573584015",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Трудности выживания",
+        "orig": "Трудности выживания",
+        "alter": "",
+        "year": "2019",
+        "country": "Россия",
+        "director": "Евгений Торрес",
+        "genre": "комедия,мелодрама",
+        "actors": "Василий Бриченко, Елизавета Кононова, Ян Цапник, Артем Маркарьян, Анна Ардова, Александр Самойленко, Николай Фоменко, Надежда Сысоева, Александр Носков, Максим Важов",
+        "description": "Начинающая журналистка Нина в погоне за сенсацией отправляется на необитаемый остров, где, по слухам, живет миллионер-затворник. Баркас со съёмочной группой попадает в жуткий шторм, и Нина приходит в сознание уже на пустынном берегу. К счастью, это именно тот остров, который ей был нужен, а значит, она оказалась в надежных руках молодого и симпатичного героя своего репортажа. Но только Нина еще не подозревает, что на самом деле это ее коллега, местный журналист, которому просто нужна была горячая тема, и он её выдумал. А ещё он ничего не смыслит в выживании...",
+        "slogan": "Выживем… если не прибьём друг друга!",
+        "premiere": "24 ноября 2019",
+        "age": "16",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1049514.jpg",
+        "rating": {
+          "rating_kp": "5.035",
+          "vote_num_kp": "4882",
+          "rating_imdb": "3.4",
+          "vote_num_imdb": "45"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1066685",
+      "date": "1573583927",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Демонолог",
+        "orig": "The Demonologist",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Дж.М. Стелли",
+        "genre": "ужасы",
+        "actors": "Брайан Краузе, Лара Грайс, Джаред Банкенс, Томас Мерфи, Скотт Аллен Перри, Manon Pages, Ронда Дентс, Джефф Пирсон, Кейт Туманова, Джаред Антолайн",
+        "description": "Детектив, расследующий серию убийств, выходит на группу людей, желающих воскресить короля тьмы.",
+        "slogan": "",
+        "premiere": "1 января 2019",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1066685.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "252",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "618"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1093221",
+      "date": "1573578871",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Проклятие «Мэри»",
+        "orig": "Mary",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Майкл Гои",
+        "genre": "ужасы",
+        "actors": "Гари Олдман,Эмили Мортимер,Мануэль Рульфо,Стефани Скотт,Хлоя Перрин,Оуэн Тиг,Дженнифер Эспозито,Дуглас Урбански,Клер Бирн,Майкл Лэндис",
+        "description": "Морская полиция подбирает в открытом море выживших после пожара на прогулочной яхте &amp;#151; женщину средних лет Сару и двух её дочерей. Сара сразу сознаётся, что она сожгла судно, ведь, по её словам, у неё не было другого выхода &amp;#151; в яхте обитал злой дух. Всё началось с того, что её муж Дэвид купил на полицейском аукционе эту лодку, точно такую, какая была у его отца. Мужчина надеялся начать собственный бизнес, а яхта &amp;laquo;Мэри&amp;raquo; должна была стать счастливым билетом для него и его семьи.",
+        "slogan": "Evil Lives Just Beneath the Surface",
+        "premiere": "23 августа 2019",
+        "age": "18",
+        "time": "5040",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1093221.jpg",
+        "rating": {
+          "rating_kp": "4.707",
+          "vote_num_kp": "2674",
+          "rating_imdb": "4.4",
+          "vote_num_imdb": "3295"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1162626",
+      "date": "1573569117",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Команда мечты",
+        "orig": "Команда мечты",
+        "alter": "",
+        "year": "2019",
+        "country": "Россия",
+        "director": "Филипп Абрютин, Максим Зыков",
+        "genre": "комедия,мелодрама,приключения,семейный,спорт",
+        "actors": "Ян Цапник, Роман Мадянов, Юрий Стоянов, Владимир Сычев, Анна Чурина, Катерина Мирошкина, Тагир Метшин, Ксения Золотова, Макар Абрютин, Сергей Качанов",
+        "description": "История спортивного комментатора Степана Вершинина, которого из-за вспыльчивого характера увольняют с телеканала. В поисках новой работы он попадает на юношеские соревнования по конному спорту, где встречает юных жокеев, современных Ромео и Джульетту - Артура и Катю, которым предстоит выбор - победа или любовь. Самому Вершинину тоже придется найти ответ на самый сложный вопрос, что для него важнее, - его семья и любовь или карьера и прежняя слава?",
+        "slogan": "Счастье ближе, чем кажется",
+        "premiere": "29 августа 2019",
+        "age": "6",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1162626.jpg",
+        "rating": {
+          "rating_kp": "5.252",
+          "vote_num_kp": "1469",
+          "rating_imdb": "4.1",
+          "vote_num_imdb": "21"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1209752",
+      "date": "1573568959",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дорогой папа",
+        "orig": "Дорогой папа",
+        "alter": "",
+        "year": "2019",
+        "country": "Россия",
+        "director": "Михаил Расходников",
+        "genre": "комедия,семейный",
+        "actors": "Владимир Вдовиченков, Валентина Ляпина, Владимир Сычев, Ирина Пегова, Николай Шрайбер, Иева Андреевайте, Игорь Ясулович, Юлия Сулес, Варвара Малкова, Андрей Пермяков",
+        "description": "Владелец ведущей торговой сети Вадим Дюмин привык добиваться своего любыми способами. Обаяние и продуманный план помогают ему найти китайского инвестора, готового стать партнером в компании Вадима, оформленной когда-то на его маму. Вот только, оказалось, она завещала акции своей внучке, его дочери... Которую Вадим бросил, когда ей было 2 года.\r\n\r\nТеперь Вадим должен поехать в свой родной маленький город, найти бывшую жену и дочь и убедить их отказаться от наследства на сумму... где-то полмиллиарда долларов. Вадим уверен, что его обаяние и манипуляции сработают и здесь, но в мире дочери его методы не работают, и слово «дорогой» здесь совсем не про деньги.",
+        "slogan": "Богатый тоже плачет",
+        "premiere": "13 сентября 2019",
+        "age": "12",
+        "time": "4980",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1209752.jpg",
+        "rating": {
+          "rating_kp": "5.957",
+          "vote_num_kp": "3976",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "68"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1091939",
+      "date": "1573568179",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Маленькие чудовища",
+        "orig": "Little Monsters",
+        "alter": "",
+        "year": "2019",
+        "country": "Австралия, Великобритания, США",
+        "director": "Абе Форсайт",
+        "genre": "комедия,ужасы",
+        "actors": "Лупита Нионго, Джош Гад, Стивен Пикок, Кэт Стюарт, Александр Инглэнд, Надя Таунсенд, Феликс Уильямсон, Маршалл Напье, Генри Никсон, Джейсон Чонг",
+        "description": "Учительница начальных классов везёт группу детей за город на экскурсию, когда на местности происходит вспышка зомби-вируса. Чтобы спастись и не травмировать детскую психику, женщина убеждает малышей в том, что все эти зомби, кровь, кишки - ненастоящие, а всё происходящее - просто игра. Странная, но весёлая. И вот тот дядя корчится не от боли, а от радости. И не корчится, а смеётся.",
+        "slogan": "Playtime is over",
+        "premiere": "27 января 2019",
+        "age": "18",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1091939.jpg",
+        "rating": {
+          "rating_kp": "5.902",
+          "vote_num_kp": "10892",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "14417"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1022462",
+      "date": "1573567974",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Зачетный препод 3",
+        "orig": "Fack ju Göhte 3",
+        "alter": "",
+        "year": "2017",
+        "country": "Германия",
+        "director": "Бора Дагтекин",
+        "genre": "комедия",
+        "actors": "Элиас ЭмБарек, Катя Риман, Йелла Хаазе, Сандра Хюллер, Макс фон дер Грёбен, Уши Глас, Гизем Эмре, Арам Арами, Лукас Райбер, Руна Грайнер",
+        "description": "Классному руководителю Зэку Мюллеру достался класс с самыми трудными подростками в Германии. Не проходит и дня, чтобы эти молодые отпрыски чего-нибудь не отмочили. Если бы не криминальное прошлое Зэка, ему бы ни за что с ними не управиться. Но этот год обещает быть особенным. На носу итоговые экзамены, а никто из учеников ни в зуб ногой в материале. А все потому, что накануне с ними побеседовал школьный специалист по профориентации и окончательно отбил у ребят охоту хоть что-то делать. Сумеет ли Зэки помочь ребятам найти мотивацию и вернуть веру в себя?",
+        "slogan": "",
+        "premiere": "26 октября 2017",
+        "age": "16",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1022462.jpg",
+        "rating": {
+          "rating_kp": "6.198",
+          "vote_num_kp": "14420",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "5154"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "799533",
       "date": "1573567668",
       "camrip": "0",
@@ -29,7 +519,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_799533.jpg",
         "rating": {
           "rating_kp": "4.893",
-          "vote_num_kp": "2604",
+          "vote_num_kp": "2606",
           "rating_imdb": "4.5",
           "vote_num_imdb": "8012"
         }
@@ -64,9 +554,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_591790.jpg",
         "rating": {
           "rating_kp": "6.413",
-          "vote_num_kp": "18561",
+          "vote_num_kp": "18567",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "19018"
+          "vote_num_imdb": "19034"
         }
       }
     },
@@ -99,7 +589,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_493768.jpg",
         "rating": {
           "rating_kp": "6.873",
-          "vote_num_kp": "172350",
+          "vote_num_kp": "172385",
           "rating_imdb": "6.2",
           "vote_num_imdb": "3028"
         }
@@ -134,7 +624,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1176435.jpg",
         "rating": {
           "rating_kp": "6.417",
-          "vote_num_kp": "12657",
+          "vote_num_kp": "12660",
           "rating_imdb": "6.2",
           "vote_num_imdb": "451"
         }
@@ -169,7 +659,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_652659.jpg",
         "rating": {
           "rating_kp": "6.496",
-          "vote_num_kp": "90223",
+          "vote_num_kp": "90232",
           "rating_imdb": "5.4",
           "vote_num_imdb": "1413"
         }
@@ -204,7 +694,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1178267.jpg",
         "rating": {
           "rating_kp": "7.712",
-          "vote_num_kp": "16857",
+          "vote_num_kp": "16862",
           "rating_imdb": "7.2",
           "vote_num_imdb": "271"
         }
@@ -239,7 +729,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115467.jpg",
         "rating": {
           "rating_kp": "5.276",
-          "vote_num_kp": "18115",
+          "vote_num_kp": "18124",
           "rating_imdb": "4.7",
           "vote_num_imdb": "685"
         }
@@ -274,9 +764,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_61438.jpg",
         "rating": {
           "rating_kp": "7.032",
-          "vote_num_kp": "60786",
+          "vote_num_kp": "60829",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "137865"
+          "vote_num_imdb": "137889"
         }
       }
     },
@@ -309,9 +799,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6035.jpg",
         "rating": {
           "rating_kp": "7.272",
-          "vote_num_kp": "98145",
+          "vote_num_kp": "98164",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "198496"
+          "vote_num_imdb": "198522"
         }
       }
     },
@@ -344,9 +834,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3679.jpg",
         "rating": {
           "rating_kp": "7.348",
-          "vote_num_kp": "100483",
+          "vote_num_kp": "100500",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "205069"
+          "vote_num_imdb": "205110"
         }
       }
     },
@@ -379,9 +869,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_178579.jpg",
         "rating": {
           "rating_kp": "7.148",
-          "vote_num_kp": "101346",
+          "vote_num_kp": "101401",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "194922"
+          "vote_num_imdb": "194932"
         }
       }
     },
@@ -414,9 +904,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_39577.jpg",
         "rating": {
           "rating_kp": "7.722",
-          "vote_num_kp": "237140",
+          "vote_num_kp": "237708",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "377017"
+          "vote_num_imdb": "377078"
         }
       }
     },
@@ -449,9 +939,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4619.jpg",
         "rating": {
           "rating_kp": "7.233",
-          "vote_num_kp": "83086",
+          "vote_num_kp": "83096",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "225021"
+          "vote_num_imdb": "225048"
         }
       }
     },
@@ -484,9 +974,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6037.jpg",
         "rating": {
           "rating_kp": "7.083",
-          "vote_num_kp": "48192",
+          "vote_num_kp": "48200",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "155705"
+          "vote_num_imdb": "155747"
         }
       }
     },
@@ -519,9 +1009,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462667.jpg",
         "rating": {
           "rating_kp": "5.469",
-          "vote_num_kp": "27553",
+          "vote_num_kp": "27565",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "40470"
+          "vote_num_imdb": "40478"
         }
       }
     },
@@ -554,7 +1044,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_645087.jpg",
         "rating": {
           "rating_kp": "5.707",
-          "vote_num_kp": "53868",
+          "vote_num_kp": "53874",
           "rating_imdb": "5.6",
           "vote_num_imdb": "130604"
         }
@@ -589,9 +1079,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6039.jpg",
         "rating": {
           "rating_kp": "7.973",
-          "vote_num_kp": "275716",
+          "vote_num_kp": "275832",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "353877"
+          "vote_num_imdb": "353948"
         }
       }
     },
@@ -626,7 +1116,7 @@
           "rating_kp": "7.742",
           "vote_num_kp": "139501",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "286825"
+          "vote_num_imdb": "286882"
         }
       }
     },
@@ -659,9 +1149,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_391772.jpg",
         "rating": {
           "rating_kp": "7.808",
-          "vote_num_kp": "237676",
+          "vote_num_kp": "237743",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "340904"
+          "vote_num_imdb": "340951"
         }
       }
     },
@@ -696,7 +1186,7 @@
           "rating_kp": "7.778",
           "vote_num_kp": "47692",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "44464"
+          "vote_num_imdb": "44470"
         }
       }
     },
@@ -731,7 +1221,7 @@
           "rating_kp": "6.442",
           "vote_num_kp": "63024",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "69876"
+          "vote_num_imdb": "69877"
         }
       }
     },
@@ -766,7 +1256,7 @@
           "rating_kp": "6.439",
           "vote_num_kp": "77851",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "170869"
+          "vote_num_imdb": "170896"
         }
       }
     },
@@ -799,9 +1289,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_461934.jpg",
         "rating": {
           "rating_kp": "5.221",
-          "vote_num_kp": "53108",
+          "vote_num_kp": "53120",
           "rating_imdb": "5.1",
-          "vote_num_imdb": "78782"
+          "vote_num_imdb": "78783"
         }
       }
     },
@@ -834,9 +1324,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_506251.jpg",
         "rating": {
           "rating_kp": "7.11",
-          "vote_num_kp": "88936",
+          "vote_num_kp": "88953",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "205164"
+          "vote_num_imdb": "205190"
         }
       }
     },
@@ -869,9 +1359,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2602.jpg",
         "rating": {
           "rating_kp": "7.595",
-          "vote_num_kp": "101793",
+          "vote_num_kp": "101945",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "271024"
+          "vote_num_imdb": "271064"
         }
       }
     },
@@ -939,9 +1429,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_591792.jpg",
         "rating": {
           "rating_kp": "7.407",
-          "vote_num_kp": "103600",
+          "vote_num_kp": "103676",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "193480"
+          "vote_num_imdb": "193512"
         }
       }
     },
@@ -974,7 +1464,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_662337.jpg",
         "rating": {
           "rating_kp": "6.147",
-          "vote_num_kp": "50076",
+          "vote_num_kp": "50095",
           "rating_imdb": "6.3",
           "vote_num_imdb": "160870"
         }
@@ -1009,9 +1499,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_471628.jpg",
         "rating": {
           "rating_kp": "6.844",
-          "vote_num_kp": "109170",
+          "vote_num_kp": "109180",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "425984"
+          "vote_num_imdb": "426029"
         }
       }
     },
@@ -1044,7 +1534,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_470447.jpg",
         "rating": {
           "rating_kp": "6.855",
-          "vote_num_kp": "37088",
+          "vote_num_kp": "37095",
           "rating_imdb": "6.3",
           "vote_num_imdb": "24356"
         }
@@ -1079,9 +1569,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_468444.jpg",
         "rating": {
           "rating_kp": "6.882",
-          "vote_num_kp": "62945",
+          "vote_num_kp": "62956",
           "rating_imdb": "6",
-          "vote_num_imdb": "64079"
+          "vote_num_imdb": "64085"
         }
       }
     },
@@ -1114,7 +1604,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5548.jpg",
         "rating": {
           "rating_kp": "7.454",
-          "vote_num_kp": "9046",
+          "vote_num_kp": "9047",
           "rating_imdb": "6.8",
           "vote_num_imdb": "49019"
         }
@@ -1148,10 +1638,10 @@
         "time": "8880",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_607928.jpg",
         "rating": {
-          "rating_kp": "6.916",
-          "vote_num_kp": "44910",
+          "rating_kp": "6.915",
+          "vote_num_kp": "44920",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "37492"
+          "vote_num_imdb": "37497"
         }
       }
     },
@@ -1219,9 +1709,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4378.jpg",
         "rating": {
           "rating_kp": "8.087",
-          "vote_num_kp": "69114",
+          "vote_num_kp": "69133",
           "rating_imdb": "7",
-          "vote_num_imdb": "103340"
+          "vote_num_imdb": "103380"
         }
       }
     },
@@ -1254,499 +1744,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_669564.jpg",
         "rating": {
           "rating_kp": "5.27",
-          "vote_num_kp": "2354",
+          "vote_num_kp": "2358",
           "rating_imdb": "4.9",
           "vote_num_imdb": "5168"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "994865",
-      "date": "1573511866",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мертвец из Тумстоуна 2",
-        "orig": "Dead Again in Tombstone",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Роэль Рейн",
-        "genre": "вестерн",
-        "actors": "Джейк Бьюзи, Дэнни Трехо, Элисия Ротару, Дин МакДермотт, Натаниель Арканд, Питер Скаген, Джо Норман Шоу, Джон Тирни, Leslie Hucul, Чад Стэнли Мартин",
-        "description": "Герреро Эрнандес, вынужденный прислужник дьявола, снова отправляется в мир живых, и поездка обещает быть чертовски захватывающей. На сей раз Герреро предстоит защищать похищенную реликвию от лап Джексона Бумера и его банды, но Джексон ни перед чем не остановится ради того, чтобы воскресить своих собратьев из мёртвых и устроить ад на земле. Герреро придётся использовать все свои тёмные силы, чтобы победить Бумера и найти искупление... или снова умереть.",
-        "slogan": "",
-        "premiere": "11 сентября 2017",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_994865.jpg",
-        "rating": {
-          "rating_kp": "4.511",
-          "vote_num_kp": "299",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "1045"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "970873",
-      "date": "1573511745",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Роковое искушение",
-        "orig": "The Beguiled",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "София Коппола",
-        "genre": "триллер,драма",
-        "actors": "Колин Фаррелл, Николь Кидман, Кирстен Данст, Эль Фаннинг, Уна Лоуренс, Энгаури Райс, Эддисон Рики, Эмма Ховард, Уэйн Пер, Мэтт Стори",
-        "description": "Закрытый пансион для девушек был надежно спрятан от внешнего мира до того дня, пока искавший помощи и укрытия молодой человек не ступил за его ворота. С этого мгновения таинственный особняк оказался в плену рокового искушения...",
-        "slogan": "Innocent, until betrayed",
-        "premiere": "24 мая 2017",
-        "age": "18",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_970873.jpg",
-        "rating": {
-          "rating_kp": "6.06",
-          "vote_num_kp": "20545",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "53569"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1047310",
-      "date": "1573510965",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Сладостный край",
-        "orig": "Sweet Country",
-        "alter": "",
-        "year": "2017",
-        "country": "Австралия",
-        "director": "Уорвик Торнтон",
-        "genre": "триллер,история,драма,вестерн,криминал,приключения",
-        "actors": "Брайан Браун, Luka Magdeline Cole, Shanika Cole, Мэтт Дэй, Тремейн Дулан, Trevon Doolan, Анни Финстерер, Натасия Гори Фурбер, Гибсон Джон, Ивен Лесли",
-        "description": "Австралия, 1920-е годы. Защищаясь от пьяного разъяренного землевладельца, абориген Сэм убивает его и вместе с женой пускается в бега. Так как местный служитель закона сержант Флетчер уверен, что белый землевладелец был хорошим человеком, то решает любой ценой изловить беглеца и доставить его к виселице.",
-        "slogan": "Justice seen to be done just isn't enough",
-        "premiere": "6 сентября 2017",
-        "age": "0",
-        "time": "6780",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1047310.jpg",
-        "rating": {
-          "rating_kp": "6.297",
-          "vote_num_kp": "630",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "7693"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1059373",
-      "date": "1573510885",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Побег заключенного 614",
-        "orig": "The Escape of Prisoner 614",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Zach Golden",
-        "genre": "комедия,боевик,криминал,приключения",
-        "actors": "Рон Перлман, Мартин Старр, Джейк Макдорман, Джордж Сэмпл, Энди Энимал, Ральф Кашен, Джон Д. Хикман, Сондра Джеймс, Дэйв Кениг, Уэйн Пайл",
-        "description": "В тихом захолустном американском городишке без дела скучают двое помощников шерифа. Вот уже много лет в городе не происходило ничего криминального. Шериф готовится сократить штат за ненадобностью, но вдруг из тюрьмы другого города сбегает очень неудобный заключённый...",
-        "slogan": "Tail 'em. Nail 'em. Jail 'em",
-        "premiere": "27 апреля 2018",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1059373.jpg",
-        "rating": {
-          "rating_kp": "5.184",
-          "vote_num_kp": "358",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "727"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2037",
-      "date": "1573510839",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Танцующий с волками",
-        "orig": "Dances with Wolves",
-        "alter": "",
-        "year": "1990",
-        "country": "США, Великобритания",
-        "director": "Кевин Костнер",
-        "genre": "драма,вестерн,приключения",
-        "actors": "Кевин Костнер, Мэри МакДоннелл, Грэм Грин, Родни А. Грант, Флойд «Ред Кроу» Уэстермен, Танту Кардинал, Роберт Пасторелли, Чарльз Роккет, Мори Чайкин, Джимми Херман",
-        "description": "Действие фильма происходит в США во времена Гражданской войны. Лейтенант американской армии Джон Данбар после ранения в бою просит перевести его на новое место службы ближе к западной границе США. Место его службы отдалённый маленький форт. Непосредственный его командир покончил жизнь самоубийством, а попутчик Данбара погиб в стычке с индейцами после того, как довез героя до места назначения. Людей, знающих, что Данбар остался один в форте и должен выжить в условиях суровой природы, и в соседстве с кажущимися негостеприимными коренными обитателями Северной Америки, просто не осталось. Казалось, он покинут всеми. Постепенно лейтенант осваивается, он ведет записи в дневнике...",
-        "slogan": "Lt. John Dunbar is about to discover the frontier...within himself",
-        "premiere": "19 октября 1990",
-        "age": "16",
-        "time": "10860",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2037.jpg",
-        "rating": {
-          "rating_kp": "8.111",
-          "vote_num_kp": "56060",
-          "rating_imdb": "8",
-          "vote_num_imdb": "245503"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8190",
-      "date": "1573510791",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "На несколько долларов больше",
-        "orig": "Per qualche dollaro in più",
-        "alter": "",
-        "year": "1965",
-        "country": "Италия, Испания, Германия (ФРГ)",
-        "director": "Серджио Леоне",
-        "genre": "боевик,драма,вестерн",
-        "actors": "Клинт Иствуд, Ли Ван Клиф, Джан Мария Волонте, Марио Брега, Луиджи Пистилли, Альдо Самбрель, Клаус Кински, Бенито Стефанелли, Луис Родригес Палильо, Панос Пападопулос",
-        "description": "Заработать несколько лишних долларов честным путем на диком Западе не проблема, если у тебя есть проверенный кольт и разрешение властей на отстрел бандитов. Этим путем и идут бок о бок профессиональные охотники за головами негодяев «Человек без имени» и полковник Мортимер, общая цель которых - преступная банда мексиканца Индио.",
-        "slogan": "It's the second motion picture of its kind! It won't be the last!",
-        "premiere": "18 декабря 1965",
-        "age": "16",
-        "time": "7800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8190.jpg",
-        "rating": {
-          "rating_kp": "8.16",
-          "vote_num_kp": "50809",
-          "rating_imdb": "8.2",
-          "vote_num_imdb": "237050"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "916303",
-      "date": "1573510584",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Запах дождя и молнии",
-        "orig": "The Scent of Rain & Lightning",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Блейк Роббинс",
-        "genre": "детектив,драма,вестерн",
-        "actors": "Мэгги Грэйс, Майка Монро, Бонни Беделиа, Джастин Чатвин, Марк Веббер, Логан Миллер, Уилл Пэттон, Брэд Картер, Аарон Пул, Конуэй",
-        "description": "Когда молодая женщина узнает, что убийцу ее родителей выпустили из тюрьмы, она сталкивается с тем, что ей снова приходится залечивать старые раны. В этом процессе она познает разрушительную силу ненависти и понимает истинную цену семейных секретов.",
-        "slogan": "Based on a New York Times best-selling novel",
-        "premiere": "25 марта 2017",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_916303.jpg",
-        "rating": {
-          "rating_kp": "5.667",
-          "vote_num_kp": "245",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "787"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "349",
-      "date": "1573510536",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Хороший, плохой, злой",
-        "orig": "Il Buono, il brutto, il cattivo",
-        "alter": "",
-        "year": "1966",
-        "country": "Италия, Испания, Германия (ФРГ)",
-        "director": "Серджио Леоне",
-        "genre": "вестерн",
-        "actors": "Клинт Иствуд, Ли Ван Клиф, Илай Уоллак, Альдо Джуффре, Луиджи Пистилли, Рада Рассимов, Энцо Петито, Клаудио Скаркилли, Джон Барта, Ливио Лоренцон",
-        "description": "В разгар гражданской войны таинственный стрелок скитается по просторам Дикого Запада. У него нет ни дома, ни друзей, ни компаньонов, пока он не встречает двоих незнакомцев, таких же безжалостных и циничных.\r\n\r\nПо воле судьбы трое мужчин вынуждены объединить свои усилия в поисках украденного золота. Но совместная работа - не самое подходящее занятие для таких отъявленных бандитов, как они. Компаньоны вскоре понимают, что в их дерзком и опасном путешествии по разоренной войной стране самое важное - никому не доверять и держать пистолет наготове, если хочешь остаться в живых.",
-        "slogan": "Для этих трех мужчин гражданская война - не ад, для них она - учебка!",
-        "premiere": "23 декабря 1966",
-        "age": "16",
-        "time": "10680",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_349.jpg",
-        "rating": {
-          "rating_kp": "8.514",
-          "vote_num_kp": "129577",
-          "rating_imdb": "8.8",
-          "vote_num_imdb": "700899"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8455",
-      "date": "1573510437",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "За пригоршню долларов",
-        "orig": "Per un pugno di dollari",
-        "alter": "",
-        "year": "1964",
-        "country": "Италия, Испания, Германия (ФРГ)",
-        "director": "Серджио Леоне",
-        "genre": "вестерн",
-        "actors": "Клинт Иствуд, Джан Мария Волонте, Марианна Кох, Вольфганг Лукши, Зигхардт Рупп, Йозеф Эггер, Antonio Prieto, Хосе Кальво, Маргарита Лосано, Даниэль Мартин",
-        "description": "В маленьком городке идет война между двумя влиятельными семействами, которых абсолютно не интересует закон. Герой Клинта Иствуда - человек без имени, умеющий стрелять без промаха...",
-        "slogan": "A Fistful of Dollars is the first motion picture of its kind. It won't be the last!",
-        "premiere": "12 сентября 1964",
-        "age": "16",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8455.jpg",
-        "rating": {
-          "rating_kp": "8.005",
-          "vote_num_kp": "39698",
-          "rating_imdb": "8",
-          "vote_num_imdb": "201417"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "10862",
-      "date": "1573510392",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Вздерни их повыше",
-        "orig": "Hang 'Em High",
-        "alter": "",
-        "year": "1968",
-        "country": "США",
-        "director": "Тед Пост",
-        "genre": "драма,вестерн",
-        "actors": "Клинт Иствуд, Ингер Стивенс, Эд Бегли, Пэт Хингл, Бен Джонсон, Чарльз МакГроу, Рут Уайт, Брюс Дерн, Алан Хейл мл., Арлин Голонка",
-        "description": "Джеда Купера ошибочно приняли за грабителя и убийцу, угнавшего чужой скот. Продажный судья Уилсон приговорил героя к «суду линча» через повешение. Раненый Ковбой чудом остался жив, только потому, что местный шериф подрезал веревку...",
-        "slogan": "Eastwood is Judge, Jury and Executioner!",
-        "premiere": "31 мая 1968",
-        "age": "16",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_10862.jpg",
-        "rating": {
-          "rating_kp": "7.194",
-          "vote_num_kp": "2692",
-          "rating_imdb": "7",
-          "vote_num_imdb": "36016"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2567",
-      "date": "1573510300",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Два мула для сестры Сары",
-        "orig": "Two Mules for Sister Sara",
-        "alter": "",
-        "year": "1969",
-        "country": "Мексика, США",
-        "director": "Дон Сигел",
-        "genre": "мелодрама,вестерн,военный,приключения",
-        "actors": "Ширли МакЛейн, Клинт Иствуд, Мануэль Фабрегас, Альберто Морин, Армандо Сильвестре, Джон Келли, Давид Поваль, Ада Карраско, Панчо Кордова, Хосе Чавес",
-        "description": "Вестерн о человеке без имени, охотнике за удачей, который помогает монахине избежать смертельных опасностей при переходе через мексиканскую пустыню.\r\n\r\nВ пути герои примыкают к повстанцам и у них созревает план совместно захватить французский форт. Повстанцы борются за свободу, а наш герой преследует только одну цель - золото...",
-        "slogan": "CLINT EASTWOOD...the deadliest man alive...takes on a whole army with two guns and a fistful of dynamite!",
-        "premiere": "13 марта 1970",
-        "age": "12",
-        "time": "6960",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2567.jpg",
-        "rating": {
-          "rating_kp": "7.298",
-          "vote_num_kp": "3236",
-          "rating_imdb": "7",
-          "vote_num_imdb": "24366"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8470",
-      "date": "1573510253",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Бродяга высокогорных равнин",
-        "orig": "High Plains Drifter",
-        "alter": "",
-        "year": "1973",
-        "country": "США",
-        "director": "Клинт Иствуд",
-        "genre": "драма,вестерн",
-        "actors": "Клинт Иствуд, Верна Блум, Марианна Хилл, Митчелл Райан, Джек Джинг, Стефан Гираш, Тед Хартли, Билли Кертис, Джеффри Льюис, Скотт Уолкер",
-        "description": "Человек без имени нанят жителями небольшого городка для защиты от троих бандитов, только что выпущенных из тюрьмы, где они сидели за преступления, совершенные как раз в этом городке.",
-        "slogan": "Welcome to Hell",
-        "premiere": "6 апреля 1973",
-        "age": "16",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8470.jpg",
-        "rating": {
-          "rating_kp": "7.339",
-          "vote_num_kp": "4101",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "50875"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "7209",
-      "date": "1573510146",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Джо Кидд",
-        "orig": "Joe Kidd",
-        "alter": "",
-        "year": "1972",
-        "country": "США",
-        "director": "Джон Стёрджес",
-        "genre": "вестерн",
-        "actors": "Клинт Иствуд, Роберт Дювалл, Джон Сэксон, Дон Страуд, Стелла Гарсиа, Джеймс Вейнрайт, Пол Косло, Грегори Уэлкотт, Дик Ван Паттен, Линн Марта",
-        "description": "Джо Кидд - бывший охотник за головами, один из лучших стрелков Дикого Запада. От богатого, нечистого на руку землевладельца Фрэнка Гарлана поступает привычное для Кидда предложение: разыскать и обезвредить преступника. \\n\r\n\\n\r\nНа этот раз это мексиканский бунтовщик Луис Чам, убежденный, что Гарлан незаконно завладел его землей. И теперь Чам и его помощники с оружием в руках защищают свои владения. Кидду предстоит разобраться, кто же все-таки прав и чьи интересы ему следует защищать. Ведь Джо Кидд всегда стоял на стороне закона.",
-        "slogan": "If you're looking for trouble - - - he's JOE KIDD",
-        "premiere": "19 июля 1972",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7209.jpg",
-        "rating": {
-          "rating_kp": "6.877",
-          "vote_num_kp": "1199",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "16958"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "502302",
-      "date": "1573483300",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Президент Линкольн: Охотник на вампиров",
-        "orig": "Abraham Lincoln: Vampire Hunter",
-        "alter": "",
-        "year": "2012",
-        "country": "США",
-        "director": "Тимур Бекмамбетов",
-        "genre": "боевик,ужасы,фэнтези,вестерн",
-        "actors": "Бенджамин Уокер, Доминик Купер, Энтони Маки, Мэри Элизабет Уинстэд, Руфус Сьюэлл, Мартон Чокаш, Джимми Симпсон, Джозеф Моул, Робин МакЛиви, Эрин Уоссон",
-        "description": "Сюжет фильма раскрывает тайную жизнь Величайшего Президента Америки Авраама Линкольна - любящего мужа и отца днем и беспощадного убийцу вампиров ночью. Армия кровопийц, которым он бросил вызов, растет с каждым днем. Сможет ли президент великой страны противостоять полчищам вампиров и спасти свою семью и народ от неминуемой гибели?..",
-        "slogan": "Президент днём. Охотник ночью",
-        "premiere": "18 июня 2012",
-        "age": "16",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_502302.jpg",
-        "rating": {
-          "rating_kp": "5.923",
-          "vote_num_kp": "66458",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "150359"
         }
       }
     }
