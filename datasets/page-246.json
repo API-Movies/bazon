@@ -2,6 +2,531 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "730715",
+      "date": "1594713120",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Гора девственности",
+        "orig": "Fúsi",
+        "alter": "",
+        "year": "2014",
+        "country": "Исландия, Дания",
+        "director": "Дагюр Каури",
+        "genre": "драма",
+        "actors": "Гуннар Йонссон, Ильмюр Кристьяунсдоуттир, Сигюрйоун Кьяртанссон, Маргрет Хельга Йоханнсдоттир, Franziska Una Dagsdóttir, Аднар Йоунссон, Thorir Sæmundsson, Торстейнн Гуннарссон, Фридрик Фридрикссон, Вальтер Гримссон",
+        "description": "43-летний мужчина всё ещё живёт со своей матерью. Он словно в спячке идёт туда, куда его ведёт монотонная жизнь. Появление деятельной Альмы и 8-летней Херы нарушает его холостяцкие привычки.",
+        "slogan": "",
+        "premiere": "9 февраля 2015",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_730715.jpg",
+        "rating": {
+          "rating_kp": "7.178",
+          "vote_num_kp": "2281",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "8018"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "989968",
+      "date": "1594712946",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Токийский гуль",
+        "orig": "Tokyo guru",
+        "alter": "",
+        "year": "2017",
+        "country": "Япония",
+        "director": "Кэнтаро Хагивара",
+        "genre": "боевик,ужасы,фантастика,триллер",
+        "actors": "Масатака Кубота, Фумика Симидзу, Нобуюки Судзуки, Хиёри Сакурада, Ё Оидзуми, Ю Аои, Кунио Мураи, Каи Огасавара, Сюнъя Сираиси, Сёко Аида",
+        "description": "На студента Кэна Канэки напал гуль. Парню удалось спастись, когда на монстра упала металлическая конструкция и убила его. Обоих доставляют в больницу и Кэну пересаживают органы гуля.",
+        "slogan": "Human and ghoul. The one and only existence who knows the two worlds",
+        "premiere": "3 июля 2017",
+        "age": "0",
+        "time": "7140",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_989968.jpg",
+        "rating": {
+          "rating_kp": "5.918",
+          "vote_num_kp": "7300",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "3261"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1166722",
+      "date": "1594712822",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Контрольный список",
+        "orig": "Watch List",
+        "alter": "",
+        "year": "2019",
+        "country": "Филиппины,США,Канада",
+        "director": "Бен Рекхи",
+        "genre": "триллер,драма,криминал",
+        "actors": "Артур Акуна,Алессандра де Росси,Джейк Макапагал",
+        "description": "Фильм основан на реальных событиях рассказывает о безнаказанных убийствах на Филиппинах. Летом 2016 года в Маниле избранный президент Родриго Дутерте начал кампанию против торговли наркотиками под названием \"Операция Токханг ( Убить Всех)\" пообещав избирателям расправиться с наркоторговлей и криминалом. Теперь он претворяет страшное обещание в жизнь, охота на людей идет полным ходом.",
+        "slogan": "",
+        "premiere": "7 июня 2019",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjRhMzUyNzEtOGUzNC00MDFmLThjMmItNmJiNWIyZmU4MWZmXkEyXkFqcGdeQXVyNjE2MjUwNTk@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "71",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "196"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1123144",
+      "date": "1594712817",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Юзеры",
+        "orig": "The Yousers",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Даррен Браун",
+        "genre": "триллер",
+        "actors": "Will Bennett,Deborah Chenault-Green,Лулу Даль,Алисия Джей Фиэрс,Demaris Harvey,Дэниэл Джеффрис,Гроувер МакКэнтс,Schantel McCrary,Kevin McGaffey,Ребекка Доун",
+        "description": "Жена, подозревающая своего мужа в неверности, начинает преследовать его предполагаемую любовницу.",
+        "slogan": "",
+        "premiere": "1 мая 2018",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTIwMzcyZTgtMzI0MS00MzBhLTg1MGQtMjcyZWZhZDY2YjM1XkEyXkFqcGdeQXVyMzUxMjA5Nzc@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "263303",
+      "date": "1594712705",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Таинственная карта",
+        "orig": "Naksha",
+        "alter": "",
+        "year": "2006",
+        "country": "Индия",
+        "director": "Сачин Баджадж",
+        "genre": "фэнтези,боевик,триллер,детектив,приключения",
+        "actors": "Санни Деол,Вивек Оберой,Самира Редди,Джеки Шрофф,Сухасини Малай,Навни Парихар,Лилипут,Мридула Чандрашекар,Кавери Гхош,Гарри Джош",
+        "description": "Приключенческая картина о поисках древних сокровищ, съемки которой проходили в самых экзотических уголках мира (Новая Зеландия, Бангкок и др.). Динамичный сюжет о волшебной карте, которая ведет к таинственному храму в горах, сочетается с романтической линией между главными персонажами Вивека Обероя и Самиры Редди. Болливуд можно поздравить с возрождением на более высоком технологическом уровне жанра историко-приключенческих лент в стиле «Самраат» и «Как три мушкетера».",
+        "slogan": "Мьюзик-Трейд",
+        "premiere": "8 сентября 2006",
+        "age": "12",
+        "time": "7680",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_263303.jpg",
+        "rating": {
+          "rating_kp": "6.721",
+          "vote_num_kp": "115",
+          "rating_imdb": "3.3",
+          "vote_num_imdb": "1064"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "821429",
+      "date": "1594711806",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Драконы Камелота",
+        "orig": "Dragons of Camelot",
+        "alter": "",
+        "year": "2014",
+        "country": "США",
+        "director": "Марк Л. Лестер",
+        "genre": "фэнтези",
+        "actors": "Александра Эванс, Марк Гриффин, James Nitti, Сандра Дарнелл, Том Латимер, Селина Джиллз, Эндрю Джарвис, Craig Ryder, Ник Корнуолл, Уильям Хув",
+        "description": "Королевство Камелота погружено в тьму после смерти благородного короля Артура. Правление перешло в руки жестокой колдуньи, сестры Морган. Командуя тремя могущественными драконами с помощью темной магии, она охотится на оставшихся рыцарей Круглого стола. Юный Галахад понимает, что для того, чтобы добиться успеха, он должен найти других рыцарей и отца, Ланселота, который был в изгнании в течение многих лет. Только тогда они смогут вернуться в Камелот, убить Морган и ее драконов и спасти леди Гвиневер и волшебника Мерлина.",
+        "slogan": "",
+        "premiere": "24 декабря 2014",
+        "age": "0",
+        "time": "5220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_821429.jpg",
+        "rating": {
+          "rating_kp": "3.923",
+          "vote_num_kp": "121",
+          "rating_imdb": "2.3",
+          "vote_num_imdb": "304"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "103730",
+      "date": "1594711805",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Искушение замужней женщины",
+        "orig": "Murder",
+        "alter": "",
+        "year": "2004",
+        "country": "Индия",
+        "director": "Анураг Басу",
+        "genre": "триллер,драма",
+        "actors": "Малика Шерават,Ашмит Патель,Эмран Хашми,Кашмира Шах,Радж Зутши,Шиба Чадха,Крш Чавла,Шабнам Джарна Башак,Динеш Сингх,Удай Тикекар",
+        "description": "Симран счастливо живет в Бангкоке с мужем-бизнесменом Судхиром и пятилетним сыном Кабиром. Заграница и бесконечная занятость мужа надоедают Симран и она хочет открыть новые грани жизни. Она встречает давнего приятеля Санни.\r\n\r\nОн, как и она, одинок. Их одиночество соединяет, их страсть и желание ослепляет. Мимолетняя связь переросла в постоянную интрижку, но Симран начинает мучить совесть.\r\n\r\nСудхир не может не заметить ухудшение отношений с женой и в конечном итоге он разоблачает ее ложь и измену. Ему приходится столкнуться лицом к лицу с Санни и в конечном итоге это разрушит жизни всех героев...",
+        "slogan": "She is married, lonely, and having an affair....",
+        "premiere": "2 апреля 2004",
+        "age": "12",
+        "time": "7800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_103730.jpg",
+        "rating": {
+          "rating_kp": "7.08",
+          "vote_num_kp": "474",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "3753"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1041183",
+      "date": "1594711805",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Шериф",
+        "orig": "Boangwan",
+        "alter": "",
+        "year": "2017",
+        "country": "Корея Южная",
+        "director": "Ким Хён-джу",
+        "genre": "комедия,криминал",
+        "actors": "Ли Сон-мин, Чо Джин-ун, Ким Сон-гюн, Ким Джон-су, Чо У-джин, Лим Хён-сон, Пэ Джон-нам, Ким Хе-ын, Ким Бён-ок, Ким Гван-гю",
+        "description": "В 2011 году в Тэджоне большой фанат Чоу Юнь-Фата, своенравный детектив Чхве Дэ-хо, не дождавшись подкрепления, решает лично схватить драгдилера, которого они с напарником давно поджидали в засаде. Результат плачевный - дилер сбежал, напарник тяжело ранен, а к рыбе покрупнее, азиатскому наркобарону по кличке Попай, снова никаких зацепок. На месте преступления обнаружился наркокурьер, отец-одиночка, отчаянно нуждавшийся в деньгах, которого Дэ-хо пожалел и посоветовал, как получить срок поменьше. Самого детектива Чхве после этого инцидента уволили из полиции.\r\n\r\nЧерез 5 лет Дэ-хо живёт в Пусане и считает себя местным шерифом - ни одно дело не должно ускользнуть от его всевидящего ока. Когда вдруг в их тихом районе обнаруживаются точно такой же метамфетамин, какой поставлял Попай, а приезжий богатый бизнесмен и инвестор Чон-джин оказывается тем самым отсидевшим наркокурьером, бывший детектив Чхве решает, что совпадений не бывает, и начинает слежку за Чон-джином.",
+        "slogan": "",
+        "premiere": "3 мая 2017",
+        "age": "0",
+        "time": "6900",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1041183.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "72",
+          "rating_imdb": "6",
+          "vote_num_imdb": "153"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1012370",
+      "date": "1594709105",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Наше зло",
+        "orig": "Mal Nosso",
+        "alter": "",
+        "year": "2017",
+        "country": "Бразилия",
+        "director": "Самуэль Гали",
+        "genre": "драма,триллер,ужасы",
+        "actors": "Fernando Cardoso,Ricardo Casella,Reinaldo Colmanetti,Валдеррама дос Сантос,Адемир Эстевес,Maria Galves,Maria Clara Gonçalves,Gabriela Grecco,Antony Mello,Sonia Moreno",
+        "description": "Мужчина средних лет по имени Артур встречается с киллером и даёт ему заказ на убийство: вручает конверт с авансом и флешкой, где хранится пароль от счёта с оставшейся суммой. После этого киллер знакомится с двумя девушками и убивает их просто ради удовольствия. А позже, выполнив полученный накануне заказ, открывает флешку и обнаруживает там видео, в котором Артур рассказывает ему свою историю.",
+        "slogan": "",
+        "premiere": "28 марта 2018",
+        "age": "16",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1012370.jpg",
+        "rating": {
+          "rating_kp": "5.654",
+          "vote_num_kp": "198",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "584"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "839237",
+      "date": "1594704622",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Люпен III: Могила Дайскэ Дзигэна",
+        "orig": "Lupin the IIIrd: Jigen Daisuke no Bohyou",
+        "alter": "Люпен III. Могила Дзигэна Дайскэ",
+        "year": "2014",
+        "country": "Япония",
+        "director": "Такэси Коикэ",
+        "genre": "аниме,приключения,мультфильм",
+        "actors": "Ричард Эпкар, Акио Хиросэ, Киёси Кобаяси, Канъити Курита, Эрика Линдбек, Марика Минасэ, Кандзи Обана, Джемисон Прайс, Миюки Савасиро, Кит Силверштейн",
+        "description": "Прелестные сестры Лалы, Нана и Момо переводятся в ту же школу, что и Рито. Туда же, с целью прожить спокойную жизнь переводится Миа. Момо продолжает лелеять мечту создания для Рито гарема и делает все для этого, втягивая даже золотую тьму, более известную как Ями. Рито продолжает мучиться с выбором, проводя безмятежные дни в школе, как всегда попадая в довольно эротично-любовные неприятности. И как раз в это время появляется мистический враг, противостоящий Ями и охотящийся за Рито.",
+        "slogan": "So long, Jigen",
+        "premiere": "21 июня 2014",
+        "age": "0",
+        "time": "3060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_839237.jpg",
+        "rating": {
+          "rating_kp": "7",
+          "vote_num_kp": "193",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "615"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1200504",
+      "date": "1594684806",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Жизнь по-новому",
+        "orig": "Tutta un'altra vita",
+        "alter": "",
+        "year": "2019",
+        "country": "Италия",
+        "director": "Алессандро Понди",
+        "genre": "комедия",
+        "actors": "Энрико Бриньяно,Илария Спада,Паола Миначчони,Маурицио Ломбарди,Моника Валлерини,Даниэла Террери,Gabriele Lustri,Giordano Di Cola,Росселла Брешия,Паоло Сассанелли",
+        "description": "Джанни - недовольный жизнью таксист, которому однажды выпадает шанс провести время на вилле миллиардера, пока тот в отпуске.",
+        "slogan": "",
+        "premiere": "12 сентября 2019",
+        "age": "0",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1200504.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "14",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "320"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1068790",
+      "date": "1594683935",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Большой день",
+        "orig": "The Big Day",
+        "alter": "",
+        "year": "2018",
+        "country": "Великобритания",
+        "director": "Доун Шадфорт",
+        "genre": "короткометражка,драма,комедия",
+        "actors": "Дженнифер Беа,Эмма Харбор,Patrick Draper,Alyssia Jarvis,Cal Jones,Isla Lay",
+        "description": "Когда лучшие друзья тревожного жениха случайно нанимают на его мальчишник проститутку, им приходится прятать её от невесты и её эксцентричных подружек, пока нагрянувший сутенёр не сорвал свадьбу и не уничтожил все надежды Майка на их счастливое совместное будущее с Дженни.",
+        "slogan": "",
+        "premiere": "13 января 2018",
+        "age": "0",
+        "time": "1080",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzRkNzk1YmQtYTkzNS00OWVkLWIxZmYtMWYwNWM3NGFhMTEwXkEyXkFqcGdeQXVyODg4OTM5NzQ@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": "6",
+          "vote_num_imdb": "5"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1186473",
+      "date": "1594683930",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Те, кто могут",
+        "orig": "Those Who Can't",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Laron Green",
+        "genre": "драма",
+        "actors": "Asha Etchison,Iya M. Brown,Kia Yvette Clayton,Jessica Love,Tianna Rae Johnson,Keshaun Dees,Schylar Westbrook,Саладин,Tim Dowd,Donna Glaesener",
+        "description": "Группа учительниц во главе с директрисой берут на себя подпольное руководство неблагополучной школой, находясь на стороне учеников и проводя в школе самосуд над плохими коллегами и родителями. Об этой ситуации узнаёт ФБР и начинает расследование. Что станет с бойкими учительницами и их главарём-директрисой?",
+        "slogan": "",
+        "premiere": "1 марта 2019",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWQ2M2UzNmMtOTliOS00YWY4LTg1OGMtYjQxNzZiYjY2YmFjXkEyXkFqcGdeQXVyODEzMDExMjU@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "4",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "10"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1171930",
+      "date": "1594683924",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Конец путешествия, начало мира",
+        "orig": "Tabi no owari, sekai no hajimari",
+        "alter": "",
+        "year": "2019",
+        "country": "Япония,Узбекистан,Катар",
+        "director": "Киёси Куросава",
+        "genre": "драма",
+        "actors": "Токио Эмото,Рё Касэ,Ацуко Маэда,Адиз Раджабов,Сёта Сомэтани",
+        "description": "Ёко, репортёр развлекательного шоу, отправляется на съемки в Узбекистан, где встречает местных жителей и знакомится с культурой страны.",
+        "slogan": "",
+        "premiere": "14 июня 2019",
+        "age": "0",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1171930.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "38",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "1131"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1205255",
+      "date": "1594683012",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Меланхолик",
+        "orig": "Merankorikku",
+        "alter": "",
+        "year": "2018",
+        "country": "Япония",
+        "director": "Сэйдзи Танака",
+        "genre": "драма,криминал",
+        "actors": "Ёдзи Минагава,Ёсимото Исодзаки,Мэбуки Ёсида,Макото Хада,Масанобу Яда,Ясуюки Хамая,Стефани Эрианн,Юта Окубо,Кэйдзи Ямасита,Хироко Синкай",
+        "description": "Выпускник Токийского университета Кадзухико после окончания никогда не работал на хорошей работе, а исключительно на подработках. Однажды он устраивается в общественную баню рядом с домом, где как-то встретил бывшую одноклассницу, и вскоре узнаёт о заведении страшную правду. Оказывается, хозяин связан с боссом якудза, который использует баню, чтобы убивать там людей и избавляться от трупов.",
+        "slogan": "",
+        "premiere": "27 октября 2018",
+        "age": "0",
+        "time": "6840",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1205255.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "26",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "275"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1163487",
       "date": "1594683006",
       "camrip": "0",
@@ -274,7 +799,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1371128.jpg",
         "rating": {
           "rating_kp": "5.836",
-          "vote_num_kp": "517",
+          "vote_num_kp": "518",
           "rating_imdb": "5.5",
           "vote_num_imdb": "627"
         }
@@ -449,7 +974,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1230558.jpg",
         "rating": {
           "rating_kp": "4.388",
-          "vote_num_kp": "3859",
+          "vote_num_kp": "3860",
           "rating_imdb": "4.1",
           "vote_num_imdb": "1355"
         }
@@ -484,7 +1009,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_678323.jpg",
         "rating": {
           "rating_kp": "7.791",
-          "vote_num_kp": "16628",
+          "vote_num_kp": "16661",
           "rating_imdb": "7.7",
           "vote_num_imdb": "6016"
         }
@@ -543,9 +1068,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112559.jpg",
         "rating": {
           "rating_kp": "6.592",
-          "vote_num_kp": "3993",
+          "vote_num_kp": "3995",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "27397"
+          "vote_num_imdb": "27406"
         }
       }
     },
@@ -578,9 +1103,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1111229.jpg",
         "rating": {
           "rating_kp": "4.537",
-          "vote_num_kp": "6704",
+          "vote_num_kp": "6706",
           "rating_imdb": "3.8",
-          "vote_num_imdb": "10557"
+          "vote_num_imdb": "10562"
         }
       }
     },
@@ -1071,9 +1596,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_161268.jpg",
         "rating": {
           "rating_kp": "6.989",
-          "vote_num_kp": "205956",
+          "vote_num_kp": "206147",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "86088"
+          "vote_num_imdb": "86110"
         }
       }
     },
@@ -1106,7 +1631,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1266757.jpg",
         "rating": {
           "rating_kp": "4.28",
-          "vote_num_kp": "2554",
+          "vote_num_kp": "2555",
           "rating_imdb": "4.1",
           "vote_num_imdb": "5414"
         }
@@ -1140,8 +1665,8 @@
         "time": "5100",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1178289.jpg",
         "rating": {
-          "rating_kp": "6.351",
-          "vote_num_kp": "2920",
+          "rating_kp": "6.352",
+          "vote_num_kp": "2922",
           "rating_imdb": "5.5",
           "vote_num_imdb": "97"
         }
@@ -1281,9 +1806,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1297850.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "53",
+          "vote_num_kp": "54",
           "rating_imdb": "4.4",
-          "vote_num_imdb": "160"
+          "vote_num_imdb": "161"
         }
       }
     },
@@ -1666,568 +2191,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_586624.jpg",
         "rating": {
           "rating_kp": "5.964",
-          "vote_num_kp": "14006",
+          "vote_num_kp": "14009",
           "rating_imdb": "5.8",
           "vote_num_imdb": "36373"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "839822",
-      "date": "1594372837",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Безумный, печальный, плохой",
-        "orig": "Shinchozombimanhwa",
-        "alter": "",
-        "year": "2014",
-        "country": "Корея Южная",
-        "director": "Хан Джи-сын,Ким Тхэ-ён,Рю Сын-ван",
-        "genre": "ужасы",
-        "actors": "Ли Дэвид,Пак Чон-мин,Сон Су-хён,Пак Ки-ун,Ким Су-ан,Пак Ми-хён,Ан Гиль-ган,Хван Бён-гук,Ли Чхо-хи,Ким Дон-ён",
-        "description": "Три истории. «Призрак». Основано на реальном случае убийства. Двух подростков просит убить человека их партнёр по онлайн-игре.\r\n\r\n«Я тебя видел». Зомби-эпидемия превратила множество людей в зомби, но медицина научилась возвращать людей обратно к жизни. Излеченные не помнят ничего из того периода, когда они были зомби, и относятся к ним, как к людям второго сорта.\r\n\r\n«Пикник». 8-летняя девочка очень любит и всегда заботится о своём 6-летнем братике, который страдает аутизмом. Единственное, чем она может себя побаловать - это почитать комиксы под одеялом. Однажды брат портит её любимую книжку с комиксами.",
-        "slogan": "",
-        "premiere": "1 мая 2014",
-        "age": "0",
-        "time": "7020",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_839822.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "22",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "19"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "880581",
-      "date": "1594372437",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Когда ты перестанешь любить меня",
-        "orig": "Cuando dejes de quererme",
-        "alter": "",
-        "year": "2018",
-        "country": "Испания,Аргентина",
-        "director": "Игорь Легаррета",
-        "genre": "триллер,драма,криминал,детектив",
-        "actors": "Флоренция Торренте,Мики Эспарбе,Эдуардо Бланко,Хоакин Климент,Антонио Дечент,Энеко Сагардов,Кандидо Уранга,Хосеан Бенгоэчеа,Мигель Оярсун,Itziar Aizpuru",
-        "description": "Девушка возвращается на свою родину, в Страну Басков, чтобы узнать, кто убил её отца.",
-        "slogan": "Sólo el amor justifica un pecado",
-        "premiere": "16 февраля 2018",
-        "age": "0",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_880581.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "32",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "233"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1201704",
-      "date": "1594372178",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Подлодка вампиров",
-        "orig": "Subferatu",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Пэт Пента",
-        "genre": "ужасы,комедия",
-        "actors": "Джереми Моллер,Майк Дули,Майкл Рид,Пэт Пента,Мартин Краузе,Nate Pringle,John Gardner,Chelsea Tolle,Thomas Nichols,Robert Pidde",
-        "description": "Небольшой круизный лайнер терпит крушение в районе побережья Пуэрто-Рико, на помощь приходит странная подводная лодка времён Второй мировой войны со зловещим грузом на борту.",
-        "slogan": "High In Iron. Low On Air. In Too Deep",
-        "premiere": "1 мая 2020",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTVmY2QyNDItNjBmYy00NTMyLWE4YzItZmFmMGU1YzdiOGU5XkEyXkFqcGdeQXVyNTIwODkzNjc@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "35",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "97"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "45017",
-      "date": "1594372163",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Кубанские казаки",
-        "orig": "Кубанские казаки",
-        "alter": "",
-        "year": "1949",
-        "country": "СССР",
-        "director": "Иван Пырьев",
-        "genre": "комедия,мюзикл",
-        "actors": "Сергей Лукьянов, Марина Ладынина, Александр Хвыля, Владлен Давыдов, Владимир Володин, Екатерина Савинова, Андрей Петров, Владимир Дорофеев, Елена Савицкая, Валентина Телегина",
-        "description": "На колхозной ярмарке встречаются представители двух процветающих кубанских колхозов - Галина Пересветова и Гордей Ворон. Они любят друг друга, но скрывают свои чувства, ведь Галина и Гордей - давние конкуренты. Они соревнуются в трудовых подвигах, и главное для каждого из них - вывести свой колхоз на первое место.",
-        "slogan": "",
-        "premiere": "26 февраля 1950",
-        "age": "0",
-        "time": "6900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45017.jpg",
-        "rating": {
-          "rating_kp": "7.413",
-          "vote_num_kp": "10162",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "318"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1283482",
-      "date": "1594370009",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Навстречу пустоте",
-        "orig": "Into The Void",
-        "alter": "",
-        "year": "2019",
-        "country": "Канада",
-        "director": "Jordan Cantello",
-        "genre": "ужасы",
-        "actors": "Иоан Себастьян Тирлуи,Molly Dyson,Bill McNaughton,Cory Hawkes,Keegan Meyer,A.J. Birtwistle,Aleksandra Koel,Линли Сабрян,Vaughan Winmill,Grant Vlahovic",
-        "description": "Выживший после нашествия пандемии, Джош сбегает из поселения, чтобы помочь бывшей девушке. Парню предстоит лицом к лицу встретиться с миром отчаявшихся людей и кровожадных зомби, параллельно противостоя прошлому, которое ходит за ним по пятам.",
-        "slogan": "",
-        "premiere": "21 сентября 2019",
-        "age": "0",
-        "time": "5040",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNzgxYzExNWItYjZhOS00YzQxLTg1N2ItZmEyNzZmYjYzMmNhXkEyXkFqcGdeQXVyMTEyMjg3Mjk@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "14",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "537"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1141094",
-      "date": "1594308605",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Тегеран — город любви",
-        "orig": "Tehran: City of Love",
-        "alter": "",
-        "year": "2018",
-        "country": "Иран,Великобритания,Нидерланды",
-        "director": "Али Джаберансари",
-        "genre": "драма",
-        "actors": "Фору Гаджабагли,Мехди Саки,Амир Хессам Бахтиари,Бехназ Джафари",
-        "description": "Три одиноких человека, каждый по-своему, ищут свою любовь. Это непросто в любом большом городе, а тем более - в Тегеране. Толстая портье из отеля использует сексуальный голос, чтобы соблазнять мужчин, которые едва ли взглянули бы на нее в реальной жизни. Бывший чемпион по бодибилдингу работает тренером в спортзале. Когда его нанимает подающий надежды молодой спортсмен, он полностью посвящает себя клиенту. Певца, зарабатывающего пением на похоронах, бросает невеста. По совету друга он учится петь на свадьбах - это амплуа пользуется у женщин гораздо более высоким спросом.",
-        "slogan": "",
-        "premiere": "14 октября 2018",
-        "age": "0",
-        "time": "6120",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTk1MWVhN2EtMTcxYy00MzRlLWJmYjUtZWMzNTgxY2JjMjc4XkEyXkFqcGdeQXVyMjA1MzE4NDA@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "27",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "218"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1056543",
-      "date": "1594305008",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Мош",
-        "orig": "Mosh",
-        "alter": "",
-        "year": "2019",
-        "country": "Доминикана",
-        "director": "Juan Antonio Bisono",
-        "genre": "драма",
-        "actors": "Дамиан Алькасар,Эктор Анибал,María Rebecca Dalmasí,Richarson Díaz,Рита Индиана,Omar Augusto Luis,Винсент Сантос,Изабель Спенсер",
-        "description": "16-летняя Мош пытается найти себе в мире танцев, одновременно помогая матери с терминальной стадией рака и двоюродному брату, который связался с торговцами наркотиками.",
-        "slogan": "",
-        "premiere": "24 ноября 2019",
-        "age": "0",
-        "time": "6120",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMzBhYTc5MjktNzhkMi00OWMwLWFiMDItM2NhOGU0MTI3YTM3XkEyXkFqcGdeQXVyODU4MjAxOQ@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "8.1",
-          "vote_num_imdb": "10"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1290995",
-      "date": "1594287222",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "AniLibria",
-      "max_qual": "720",
-      "last_season": "1",
-      "last_episode": "12",
-      "episodes": {
-        "1": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720,
-          "10": 720,
-          "11": 720,
-          "12": 720
-        }
-      },
-      "info": {
-        "rus": "Плеяда семи звёзд",
-        "orig": "Shichisei no Subaru",
-        "alter": "",
-        "year": "2018",
-        "country": "Япония",
-        "director": "Ёсито Нисёдзи",
-        "genre": "аниме,мультфильм,боевик,фэнтези",
-        "actors": "Агата Ёсими,Нагата Харуна,Ёсияма Ю,Коно Кодзи,Хиросэ Томохито,Амисаки Рёко,Инада Маки,Ватанабэ Маюми,Ямамото Юмико",
-        "description": "Во всемирно известной MMORPG-игре \"Union\" существовала легендарная команда Субару, состоящая из друзей начальной школы. В мгновение ока команда заработала славу за свои бесподобные способности к обращению с системой Sense, лежащей в основе игры. Однако, в самой игре произошёл инцидент, в результате которого погиб один из игроков. По этой причине игра Union прекратила своё существование.\r\nШесть лет спустя, один из ключевых игроков команды Субару, Амо Харуто, превратился в безнадёжного старшеклассника. За это время он сильно изменился, в итоге оставшись и без друзей, и без амбиций. Одноклассник просит Харуто зарегистрироваться в новой игре \"Re'Union\", что приводит к воссоединению, в которое сложно поверить. Он встречает бывшую подругу по игре, по совместительству его бывшую одноклассницу, Кугу Асахи. Та самая девушка, погибшая шесть лет назад, была здесь, в игре. Харуто не мог поверить своим глазам. Он думал, что либо она ошибка системы, либо у него что-то не так с головой. Но девушка, кажется, и правда в игре. С воссоединения их пары и начинается новая легенда.",
-        "slogan": "",
-        "premiere": "6 июля 2018",
-        "age": "0",
-        "time": "1440",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1290995.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "99",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "101"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "789127",
-      "date": "1594287125",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Не вижу зла 2",
-        "orig": "See No Evil 2",
-        "alter": "",
-        "year": "2014",
-        "country": "США",
-        "director": "Джен Соска, Сильвия Соска",
-        "genre": "ужасы",
-        "actors": "Глен Джейкобс, Даниэль Харрис, Кэтрин Изабель, Челан Симмонс, Каж-Эрик Эриксен, Грейстон Холт, Ли Мадждуб, Майкл Эклунд, Риз Александр, Келли-Рут Мерсье",
-        "description": "Кошмар, закончившийся в первом фильме, продолжается: Джейкоб Гуднайт восстает из мертвых в городском морге, после смертельной резни в отеле «Блэкуэлл». Работающей в этом морге патологоанатому Эми и ее друзьям, устроившими ей вечеринку в честь ее дня рождения, придется бороться с невменяемым психопатом, который вновь начинает забирать их одного за другим.",
-        "slogan": "You Will Pay for Your Sins",
-        "premiere": "21 октября 2014",
-        "age": "18",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_789127.jpg",
-        "rating": {
-          "rating_kp": "4.16",
-          "vote_num_kp": "2858",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "6337"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "910332",
-      "date": "1594283067",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "У нас есть мясо",
-        "orig": "Tenemos la carne",
-        "alter": "",
-        "year": "2016",
-        "country": "Мексика",
-        "director": "Эмильяно Роча Минтер",
-        "genre": "ужасы,фэнтези,драма",
-        "actors": "Ноэ Эрнандес,Мария Эволи,Diego Gamaliel,Габино Родригес,Mar&iacute;a Cid",
-        "description": "Брат и сестра оказываются в плену у сумасшедшего садиста. Он их силой втягивает в тошнотворную карусель из секса и разврата: инцест, некрофилия, каннибализм и насилие.",
-        "slogan": "",
-        "premiere": "2 февраля 2016",
-        "age": "18",
-        "time": "4740",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_910332.jpg",
-        "rating": {
-          "rating_kp": "4.348",
-          "vote_num_kp": "404",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "2358"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1007035",
-      "date": "1594283024",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        }
-      },
-      "info": {
-        "rus": "Шуберт",
-        "orig": "Шуберт",
-        "alter": "",
-        "year": "2017",
-        "country": "Россия",
-        "director": "Евгений Бедарев",
-        "genre": "триллер,детектив",
-        "actors": "Алексей Воробьев, Александра Богданова, Стас Шмелев, Павел Крайнов, Владимир Бутенко, Александр Галибин, Любовь Козий, Дмитрий Комов, Константин Самоуков, Евгений Рубаха",
-        "description": "Александр Бертенев обладает феноменальным даром - он «слухач», «акустик», способный улавливать звуки, которые не слышны обычному человеку. По записи телефонного разговора он с точностью определяет где, когда и во сколько состоялась беседа. Бертенев некоторое время работал в антитеррористической группе, но из-за роковой ошибки был вынужден покинуть органы.\r\n\r\nОднажды трагические обстоятельства вновь приводят Александра в спецслужбу. У Бертенева убивают жену Ольгу, а вскоре он выясняет, что его супруга, которую он считал обычным психологом, вела двойную жизнь и оставила после своей смерти загадочные звуковые шифры.",
-        "slogan": "",
-        "premiere": "26 марта 2018",
-        "age": "16",
-        "time": "3000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1007035.jpg",
-        "rating": {
-          "rating_kp": "5.921",
-          "vote_num_kp": "1027",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "837399",
-      "date": "1594282263",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Запри меня, свяжи его",
-        "orig": "Wan mei jia qi 168",
-        "alter": "",
-        "year": "2014",
-        "country": "Китай",
-        "director": "Джеффри Лау",
-        "genre": "комедия,мелодрама,приключения",
-        "actors": "Фрэнки Чин,Чэнь Болинь,Мишель Чэнь,Хэ Цзюн,Вивиан Сюй,Кара Хуэй,Цзян Мэнцзе,Ли Цзин,Ван Сюэбин,Харриет Ен",
-        "description": "Тиффани - актриса, карьера которой не задалась, зато на съемочной площадке Тиффани встретила любимого человека, с которым счастлива уже 8 лет. Однажды, вернувшись домой, Тиффани застает в своей квартире незнакомца, который показывает ей видео с похищением ее мужа. Незнакомец требует, чтобы Тиффани неделю побыла его женой и тогда он отпустит ее мужа...",
-        "slogan": "",
-        "premiere": "4 марта 2014",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_837399.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "14",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "37"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "779397",
-      "date": "1594282024",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Бродяга Кэнсин: Великий киотский пожар",
-        "orig": "Rurôni Kenshin: Kyôto Taika-hen",
-        "alter": "",
-        "year": "2014",
-        "country": "Япония",
-        "director": "Кэиси Отомо",
-        "genre": "боевик,драма",
-        "actors": "Такэру Сато, Тацуя Фудзивара, Рюносукэ Камики, Юсукэ Исэя, Тао Цутия, Ю Аои, Эми Такэи, Масахару Фукуяма, Мин Танака, Ёсукэ Эгути",
-        "description": "На этот раз Кэнсин вступает в противостояние с самим Макото Сисио - злодеем, вознамерившимся свергнуть правительство Мэйдзи и подчинить себе всю Японию. Судьба страны висит на волоске, и скиталец-самурай Химура вновь берет в руки меч, к которому он поклялся никогда не прикасаться снова.",
-        "slogan": "Revenge of the fallen assassin",
-        "premiere": "1 августа 2014",
-        "age": "0",
-        "time": "8340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_779397.jpg",
-        "rating": {
-          "rating_kp": "7.215",
-          "vote_num_kp": "1715",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "12344"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "9285",
-      "date": "1594280704",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Только не без моей дочери",
-        "orig": "Not Without My Daughter",
-        "alter": "",
-        "year": "1991",
-        "country": "США",
-        "director": "Брайан Гилберт",
-        "genre": "триллер,драма",
-        "actors": "Салли Филд, Альфред Молина, Шила Розенталь, Рошан Сет, Сара Бэдел, Мони Рей, Жорж Коррафас, Мэри Нелл Сантакрок, Эд Грейди, Марк Гоуэн",
-        "description": "Героиня фильма - американка Бетти Махмуди - замужем за американским врачом-анестезиологом иранского происхождения доктором Махмуди. У них есть четырехлетняя дочь Матоб. У Муди начинаются проблемы на работе, и он решает съездить в Иран на две недели навестить родственников. Перед отъездом он клянется на священном Коране, что никогда не запретит жене с дочерью уехать обратно, как только они захотят.",
-        "slogan": "In 1984, Betty Mahmoody's husband took his wife and daughter to meet his family in Iran. He swore they would be safe. They would be happy. They would be free to leave.  He lied",
-        "premiere": "11 января 1991",
-        "age": "12",
-        "time": "6960",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9285.jpg",
-        "rating": {
-          "rating_kp": "7.411",
-          "vote_num_kp": "445",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "12551"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "404318",
-      "date": "1594280703",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Разыскивается жених",
-        "orig": "Dulha Mil Gaya",
-        "alter": "",
-        "year": "2010",
-        "country": "Индия",
-        "director": "Мудассар Азиз",
-        "genre": "комедия",
-        "actors": "Сушмита Сен, Фардин Кхан, Ишита, Шах Рукх Кхан, Сучитра Пиллай-Малик, Ховард Роузмейер, Мохит Чадда, Парикшит Сахни, Бина Как, Тара Шарма",
-        "description": "Донсай - молодой жизнерадостный молодой человек, для которого не существует понятий «брак» и «долгосрочные отношения». Самара - скромная пенджабская девушка, для которой очень важна семья. Шимер - гламурная дива, для которой любовь и отношения не так важны в жизни, как независимость и успех. Паван Радж Ганди - миллиардер, чье сердце все еще остается гораздо больше, чем его банковский счет.",
-        "slogan": "",
-        "premiere": "8 января 2010",
-        "age": "12",
-        "time": "9120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_404318.jpg",
-        "rating": {
-          "rating_kp": "7.717",
-          "vote_num_kp": "2336",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "2486"
         }
       }
     }

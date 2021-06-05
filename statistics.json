@@ -1993,5 +1993,24 @@
       "world-art": 0,
       "none": 0
     }
+  },
+  {
+    "date": 1622851200,
+    "movies": {
+      "all": 24326,
+      "kinopoisk": 24304,
+      "imdb": 0,
+      "tmdb": 0,
+      "world-art": 0,
+      "none": 0
+    },
+    "tv": {
+      "all": 4573,
+      "kinopoisk": 4325,
+      "imdb": 0,
+      "tmdb": 0,
+      "world-art": 0,
+      "none": 0
+    }
   }
 ]
