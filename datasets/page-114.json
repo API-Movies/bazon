@@ -2,6 +2,759 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1328345",
+      "date": "1613587597",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "Baibako",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        }
+      },
+      "info": {
+        "rus": "Мы встретились в Стамбуле",
+        "orig": "Bir Baskadir",
+        "alter": "Различие / Ethos / Bir Başkadır",
+        "year": "2020",
+        "country": "Турция",
+        "director": "Беркун Ойя",
+        "genre": "триллер,драма",
+        "actors": "Ойкю Караель,Фатих Артман,Фунда Эрйигит,Дефне Каялар,Сеттар Танрыоген,Тюлин Озен,Биге Онал,Göktug Yildirim,Neil Vanides,Gokhan Yikilkan",
+        "description": "Судьба сводит восемь людей, каждый из которых имеет разный социальный статус, религию и является приверженцем определенной, непохожей друг на друга культуры.",
+        "slogan": "",
+        "premiere": "12 ноября 2020",
+        "age": "0",
+        "time": "2940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1328345.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "206",
+          "rating_imdb": "8.6",
+          "vote_num_imdb": "22706"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1262089",
+      "date": "1613587449",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEBRip",
+      "translation": "OZZ",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "6",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720
+        }
+      },
+      "info": {
+        "rus": "Неприятности с Мэгги Коул",
+        "orig": "The Trouble with Maggie Cole",
+        "alter": "",
+        "year": "2020",
+        "country": "Великобритания",
+        "director": "Бен Грегор",
+        "genre": "драма,комедия",
+        "actors": "Марк Хип,Дон Френч,Emily Reid,Джули Хесмондал,Вики Пеппердин,Rocco Padden,Hollie Edwin,Гвинет Киворт,Артур Макбейн,Джо Лэйтон",
+        "description": "Мэгги Коул – жительница британской глубинки – наслаждается тишиной и покоем сельской местности. У неё прекрасные отношения с соседями, длящиеся уже не один год подряд. Героиня сериала «Неприятности с Мэгги Коул» вполне довольна своей жизнью и не планирует её менять.\r\n\r\nОднажды Мэгги приглашают на радио, чтобы рассказать о себе, своих знакомых и их сельском быте. Она с радостью принимает приглашение, даже не подозревая, что этот шаг сделает её героиней крупнейшего деревенского скандала.<br /><br />Перед интервью Мэгги понимает, что сильно нервничает и не может взять себя в руки. Пытаясь успокоиться, она налегает на алкоголь, но теряет контроль над собой и сильно пьянеет. Во время интервью у Мэгги развязывается язык, и она начинает сплетничать о своих соседях, делясь с ведущим едкими сплетнями.\r\n\r\nНа следующее утро героиня сериала «Неприятности с Мэгги Коул» просыпается с сильным чувством вины за прошлый вечер. Ей хочется всё исправить, но ситуация быстро выходит из-под контроля, создавая новые конфликты. Сплетни, рассказанные Мэгги в первой серии, приводят к необратимым последствиям, разрушая покой сельских жителей и вскрывая много неожиданного.",
+        "slogan": "",
+        "premiere": "4 марта 2020",
+        "age": "0",
+        "time": "2760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1262089.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "29",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "708"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1332910",
+      "date": "1613587299",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEBRip",
+      "translation": "WestFilm",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "6",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720
+        }
+      },
+      "info": {
+        "rus": "Летиция",
+        "orig": "Laëtitia",
+        "alter": "",
+        "year": "2019",
+        "country": "Франция",
+        "director": "Жан-Ксавье де Листрад",
+        "genre": "триллер,драма,криминал,биография",
+        "actors": "Marie Colomb,Sophie Breyer,Янник Шуара,Сэм Карманн,Кевин Азиз,Ноам Моргенштерн,Клотильд Молле,Аликс Пуасон,Гийом Марке,Сириль Декур",
+        "description": "Восемнадцатилетняя Летиция бесследно пропадает в провинциальном Порнике в один из январских дней. Ранним утром её скутер находят брошенным перед домом. Местная полиция во главе с присланным из центра следователем реконструирует последние часы девушки и устанавливает главного подозреваемого, однако тело найти они не могут.",
+        "slogan": "",
+        "premiere": "13 сентября 2019",
+        "age": "0",
+        "time": "2880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1332910.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "24",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "99"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1273012",
+      "date": "1613587102",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEBRip",
+      "translation": "KerobTV",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "9",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720
+        }
+      },
+      "info": {
+        "rus": "Скажи мне кто я",
+        "orig": "Dime quién soy",
+        "alter": "",
+        "year": "2020",
+        "country": "Испания",
+        "director": "Эдуард Кортес",
+        "genre": "драма",
+        "actors": "Ирена Эсколар,Ориол Пла,Пьер Кивитт,Мария Пиа Кальцоне,Уилл Кин,Пабло Дерки,Штефан Вейнерт,Лана Влади,Мар Ульдемолинс,Итсасо Арана",
+        "description": "Мадрид, 1988 год. Альберт Джеймс оставляет на столе биографию Хавьера, успешного публициста. Это история и матери Хавьера Амелии Гарайо. Прежде чем их судьбы объединятся вновь, Амелии предстоит долгое путешествие, которое начинается в Мадриде 1934 года.",
+        "slogan": "",
+        "premiere": "4 декабря 2020",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1273012.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "17",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "400"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1435467",
+      "date": "1613585875",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "HDTVRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "4",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080
+        }
+      },
+      "info": {
+        "rus": "Преимущество двух слонов",
+        "orig": "Преимущество двух слонов",
+        "alter": "",
+        "year": "2019",
+        "country": "Россия",
+        "director": "Александра Бутько",
+        "genre": "мелодрама,детектив",
+        "actors": "Юрий Батурин,Олег Алмазов,Наталья Высочанская,Сергей Ходьков,Валентина Гарцуева,Андрей Олефиренко,Игорь Сигов,Руслан Чернецкий,Юлианна Михневич,Вероника Пляшкевич",
+        "description": "Лика – слабая женщина, жизнью которой управляют богатый отец и властный муж. Она привыкла подчиняться. Ведь её мужчины лучше знают, как надо! Благодаря жёсткой дисциплине и мужскому воспитанию её дочь Женя делает поразительные успехи в шахматах. А вот старший сын Володя, которого она воспитывала сама, вырос сущим наказанием. Муж Лики уверен – рано или поздно парень вляпается в настоящие проблемы. Его предсказание сбывается самым невероятным и страшным образом...",
+        "slogan": "",
+        "premiere": "3 октября 2020",
+        "age": "0",
+        "time": "2700",
+        "poster": "https://i.piccy.info/i9/0e94ddab2d8cead534a7da95728a38e8/1613585588/74194/1414327/36651dva_slona.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "43",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1277297",
+      "date": "1613585810",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEBRip",
+      "translation": "ColdFilm",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "1",
+      "episodes": {
+        "1": {
+          "1": 720
+        }
+      },
+      "info": {
+        "rus": "Тебе не спрятаться",
+        "orig": "No te puedes esconder",
+        "alter": "",
+        "year": "2019",
+        "country": "Мексика",
+        "director": "Алехандро Бассано,Marcela Sevilla,Мануэль Санабрия",
+        "genre": "боевик,криминал",
+        "actors": "Бланка Сото,Эдуардо Норьега,Иван Санчес,Марибель Верду,Саманта Сикеирос,Patricia Guirado,Хорхе Бош,Хэлли Ким,Пере Понсе,Питер Вайвз Ньюи",
+        "description": "Медсестра вместе с дочерью уезжает из Мексики от мужа-наркоторговца. Они переезжают в Испанию, однако даже там им угрожает опасность.",
+        "slogan": "",
+        "premiere": "30 сентября 2019",
+        "age": "0",
+        "time": "2640",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjM2YzAxNDUtMGU5MS00OTQ0LTllNzEtNjU3MWQ3OWU5MTg2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX426_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "36",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "860"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1041937",
+      "date": "1613584831",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720
+        }
+      },
+      "info": {
+        "rus": "Я – твоя судьба",
+        "orig": "Boku, Unmei no Hito desu",
+        "alter": "Я - мужчина, предназначенный тебе судьбой / Я — твоя судьба / Я - твоя судьба / I'm Your Destiny",
+        "year": "2017",
+        "country": "Япония",
+        "director": "Рюити Иномата, Наоко Комуро, Томохиро Такахаси",
+        "genre": "комедия",
+        "actors": "Кадзуя Камэнаси, Фумино Кимура, Синносукэ Мицусима, Нанао, Ю Савабэ, Эрико Ватанабэ, Мая Окано, Кодзи Окура, Сэминосукэ Мурасуги, Мако Исино",
+        "description": "Макото и Харуко - оба 29-летние и одинокие. С самого детства они время от времени чудесным образом они пересекаются, и всегда это происходит в самых неожиданных местах. Однажды Макото предстаёт перед Харуко, которая работает рядом с его офисом. «Доброе утро! Я - мужчина, предназначенный тебе судьбой» - заявляет он ей в их первую официальную встречу. С этого провального знакомства и начинается их история.",
+        "slogan": "",
+        "premiere": "15 апреля 2017",
+        "age": "0",
+        "time": "3240",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjZjM2MxMjQtNmE5Ny00MTA2LWE0MjItZjlhZTRkYTVjNzRmXkEyXkFqcGdeQXVyNzMwOTY2NTI@.jpg",
+        "rating": {
+          "rating_kp": "7.02",
+          "vote_num_kp": "128",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "666"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1179113",
+      "date": "1613584594",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "NewStudio",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        }
+      },
+      "info": {
+        "rus": "Притворство",
+        "orig": "The Act",
+        "alter": "Акт",
+        "year": "2019",
+        "country": "США",
+        "director": "Лор де Клермон-Тоннер, Стивен Пит, Адам Аркин",
+        "genre": "ужасы,драма,криминал",
+        "actors": "Патриша Аркетт, Джои Кинг, Хлоя Севиньи, Анна-София Робб, Кэлам Уорси, Джинни Камерон, Стив Култер, Brayhia Marshall, Bruno Rose, BettyLynn Allison",
+        "description": "Джипси Бланшар пытается разорвать токсичные отношения с чрезмерно опекающей её матерью Ди-Ди. Борясь за свою свободу, Джипси узнаёт страшные секреты, один из которых становится поводом для убийства.",
+        "slogan": "Everyone Will Know",
+        "premiere": "20 марта 2019",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1179113.jpg",
+        "rating": {
+          "rating_kp": "7.572",
+          "vote_num_kp": "29119",
+          "rating_imdb": "8",
+          "vote_num_imdb": "20991"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1245260",
+      "date": "1613584434",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "AniLibria",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Закат эпохи фей",
+        "orig": "Fairy Gone",
+        "alter": "",
+        "year": "2019",
+        "country": "Япония",
+        "director": "Кэнъити Судзуки",
+        "genre": "аниме,боевик,фэнтези,мультфильм",
+        "actors": "Кана Итиносэ,Томоаки Маэно,Аяка Фукухара,Ёсимаса Хосоя",
+        "description": "Мария живёт в мире, где после войны между феями и людьми прошло уже девять лет. Феи могли завладевать телами животных, наделяя их сверхъестественными способностями, а люди пересаживали органы этих животных, чтобы использовать способность частичного призыва фей в качестве оружия. Тяжелое военное время закончилось, и бывшие солдаты начали становиться преступниками или работать на правительство. Из-за нестабильной политической ситуации некоторые становятся террористами, а Мария - частью организации «Доротея», которая расследует и предотвращает преступления, связанные с феями.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "1380",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1245260.jpg",
+        "rating": {
+          "rating_kp": "5.507",
+          "vote_num_kp": "297",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "289"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1129712",
+      "date": "1613584369",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "LostFilm",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        }
+      },
+      "info": {
+        "rus": "Комендантский час",
+        "orig": "Curfew",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания",
+        "director": "Колм МакКарти, Кристофер Смит",
+        "genre": "боевик,фантастика,триллер,драма,криминал",
+        "actors": "Фиби Фокс, Энди Ошо, Эйми-Ффион Эдвардс, Билли Зейн, Малачи Кирби, Гуз Кхан, Айк Беннетт, Джейсон Торпе, Джесси Ромео, Элайджа Роуэн",
+        "description": "Когда на землю опускается тьма, люди вынуждены скрываться по домам, потому что на улице действует комендантский час. Он призван оградить жителей от вируса, поразившего мир, но кое-кто считает, что такие ограничения - слишком большая цена. Теперь 25 команд вынуждены соперничать друг с другом в смертельной уличной гонке, приз в которой - это свобода.",
+        "slogan": "",
+        "premiere": "22 февраля 2019",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1129712.jpg",
+        "rating": {
+          "rating_kp": "6.101",
+          "vote_num_kp": "915",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "1597"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1177490",
+      "date": "1613584286",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "Baibako",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        }
+      },
+      "info": {
+        "rus": "Вдова",
+        "orig": "The Widow",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания",
+        "director": "Оливер Блэкберн, Сэмюэл Донован",
+        "genre": "триллер",
+        "actors": "Кейт Бекинсейл, Алекс Кингстон, Бабс Олусанмокун, Чарльз Дэнс, Luiana Bonfim, Оулавюр Дарри Оулафссон, Джеки Идо, Барт Фаш, Мэттью Ле Невез, Shalom Nyandiko",
+        "description": "Муж Джоржии погиб в результате авиакатастрофы. Ну, или так все считают, ведь его тела среди погибших не обнаружилось. Постепенно женщина понимает, что всё гораздо сложнее, чем кажется на первый взгляд, и отправляется в опасное путешествие на поиски пропавшего супруга.",
+        "slogan": "",
+        "premiere": "1 марта 2019",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1177490.jpg",
+        "rating": {
+          "rating_kp": "6.465",
+          "vote_num_kp": "1021",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "8664"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "468184",
+      "date": "1613583909",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Про любоff",
+        "orig": "Про любоff",
+        "alter": "",
+        "year": "2010",
+        "country": "Россия",
+        "director": "Ольга Субботина",
+        "genre": "мелодрама",
+        "actors": "Фёдор Бондарчук, Ольга Сутулова, Оксана Фандера, Мария Машкова, Евгений Стычкин, Андрей Кузичев, Юозас Будрайтис, Анна Старшенбаум, Екатерина Вуличенко, Владимир Руга",
+        "description": "У девушки Даши, приехавшей с подругой «покорять» Москву, редкая специальность - преподаватель техники речи, а жизнь - самая обыкновенная: съемная квартира, невысокие гонорары и занятия с утра до вечера. Однажды Даша получает выгодное предложение - дать уроки преуспевающему бизнесмену Владу, участвующему в политических выборах. У героев начинается бурный роман. Но случайная встреча с женой Влада заставляет Дашу взглянуть на происходящее совсем с другой стороны. И Влад оказывается совсем не героем романа и вовсе не мужчиной мечты...",
+        "slogan": "",
+        "premiere": "30 сентября 2010",
+        "age": "16",
+        "time": "6360",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_468184.jpg",
+        "rating": {
+          "rating_kp": "6.199",
+          "vote_num_kp": "10976",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "252"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "10711",
+      "date": "1613583906",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Невидимые полосы",
+        "orig": "Invisible Stripes",
+        "alter": "",
+        "year": "1939",
+        "country": "США",
+        "director": "Ллойд Бэйкон",
+        "genre": "фильм-нуар,драма,криминал",
+        "actors": "Джордж Рафт,Джейн Брайан,Уильям Холден,Хамфри Богарт,Флора Робсон,Пол Келли,Ли Патрик,Генри О’Нилл,Фрэнки Томас,Морони Олсен",
+        "description": "Клифф и Чак вместе выходят из тюрьмы. Клифф хочет покончить со своим криминальным прошлым, устраивается на работу, но работодатели не хотят держать условно-досрочно освобожденного. Поэтому он вынужден пойти к Чаку в поисках заработка. После неудачного ограбления Чак со своей бандой прячется в гараже, принадлежащем брату Клиффа, Тиму, который соглашается «прикрыть» их, поскольку думает, что в ограблении участвовал Клифф...",
+        "slogan": "Three Men and a Girl... Bound by Invisible Ties - Branded by Invisible Stripes",
+        "premiere": "30 декабря 1939",
+        "age": "0",
+        "time": "4860",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_10711.jpg",
+        "rating": {
+          "rating_kp": "6.648",
+          "vote_num_kp": "105",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "1476"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "45488",
+      "date": "1613583906",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Через тернии к звездам",
+        "orig": "Через тернии к звездам",
+        "alter": "",
+        "year": "1980",
+        "country": "СССР",
+        "director": "Ричард Викторов, Николай Викторов",
+        "genre": "фантастика",
+        "actors": "Елена Метелкина, Вадим Ледогоров, Улдис Лиелдидж, Елена Фадеева, Вацлав Дворжецкий, Надежда Семенцова, Александр Лазарев, Александр Михайлов, Борис Щербаков, Игорь Ледогоров",
+        "description": "XXIII век. В таинственных и малоизведанных глубинах Вселенной патрульный звездолет «Пушкин» обнаруживает космический корабль неизвестной землянам конструкции. Корабль мертв. Среди погибших инопланетян исследователи случайно обнаруживают искусственного человека - девушку Нийю, обладающую уникальными способностями - она может мгновенно перемещаться в пространстве, длительное время обходиться без воздуха, одним лишь мановением руки может отбрасывать от себя людей, и любые предметы...",
+        "slogan": "",
+        "premiere": "21 мая 1982",
+        "age": "6",
+        "time": "8880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45488.jpg",
+        "rating": {
+          "rating_kp": "7.278",
+          "vote_num_kp": "13205",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "1202"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1331849",
+      "date": "1613581209",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Мёд и вино",
+        "orig": "Honey and Wine",
+        "alter": "",
+        "year": "2020",
+        "country": "Великобритания",
+        "director": "Хенк Орион",
+        "genre": "драма,комедия",
+        "actors": "Хенк Орион,Адам Морс,Grace Denny,Sonya Seva,Gabriella Jerram,Brian Dives,Clive Coen,Elina Gavare,Mollie Fowler,Babs Doodkorte",
+        "description": "Отправившись в командировку, Стив встречает работницу эскорт-услуг Аманду, в которой он находит гораздо больше, чем просто красоту и сексуальность.",
+        "slogan": "",
+        "premiere": "24 декабря 2020",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzcxODI0ZWItZmNjMC00NDNiLWE4MjMtZGZmMWYxMmMwNGQzXkEyXkFqcGdeQXVyNjUwMTg4NzA@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "3.9",
+          "vote_num_imdb": "104"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1442153",
+      "date": "1613574033",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Дженнифер Энистон: Больше, чем друзья",
+        "orig": "Jennifer Aniston: More Than Friends",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Danielle Winter",
+        "genre": "биография",
+        "actors": "Джон Энистон,Шэрон Фейнголд,Роб Шутер",
+        "description": "Популярная голливудская актриса Дженнифер Энистон считается актрисой разного жанра. Известная по всему миру ролью Рейчел в культовом сериале \"Друзья\", она может справиться с любой ролью, однако её путь к успеху не был лёгким. Несмотря на неустроенную личную жизнь, она является одной из самых высокооплачиваемых актрис Голливуда, а её талант ценят миллионы поклонников по всему миру.",
+        "slogan": "More Than Friends",
+        "premiere": "30 июля 2020",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWFhNzFhYWEtMjJhNy00NjBlLTg2MDEtYzI1ODhmNzliYzU2XkEyXkFqcGdeQXVyMTA1NTIxMzA3.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "18",
+          "rating_imdb": "3.8",
+          "vote_num_imdb": "50"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1378382",
+      "date": "1613574029",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Путь",
+        "orig": "The Process",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Jake Fay",
+        "genre": "драма,музыка",
+        "actors": "Jason Gervacio,Adam Lawn,Marvin St-Jean,Кори Тейшейра,Samantha Valletta,Kaleo Jacobs,Taciane Santos,Vac Harris,Donnell Haynes,Andeth Man",
+        "description": "Трое лучших друзей работают на износ ради известности в местных кругах рэп-индустрии.",
+        "slogan": "",
+        "premiere": "24 сентября 2020",
+        "age": "0",
+        "time": "6240",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzEzYjY4YTQtMTIyZi00NDA5LWJjNjQtNjk3ZWRkOWZjNWI2XkEyXkFqcGdeQXVyMTA5MzI3ODMx.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "48"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1292702",
       "date": "1613574020",
       "camrip": "0",
@@ -110,10 +863,10 @@
         "time": "2580",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1291310.jpg",
         "rating": {
-          "rating_kp": "7.288",
-          "vote_num_kp": "15228",
+          "rating_kp": "7.287",
+          "vote_num_kp": "15261",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "43811"
+          "vote_num_imdb": "43897"
         }
       }
     },
@@ -148,7 +901,7 @@
           "rating_kp": "0",
           "vote_num_kp": "46",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "1104"
+          "vote_num_imdb": "1111"
         }
       }
     },
@@ -215,8 +968,8 @@
         "time": "5820",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1331265.jpg",
         "rating": {
-          "rating_kp": "6.401",
-          "vote_num_kp": "16364",
+          "rating_kp": "6.4",
+          "vote_num_kp": "16385",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -286,7 +1039,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_542567.jpg",
         "rating": {
           "rating_kp": "5.329",
-          "vote_num_kp": "7052",
+          "vote_num_kp": "7056",
           "rating_imdb": "4.1",
           "vote_num_imdb": "21613"
         }
@@ -386,7 +1139,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BY2FkYTczN2QtOWFiNy00M2E3LWIxYjgtZTdkMzc1NjhmMGM0XkEyXkFqcGdeQXVyNjExODE1MDc@.jpg",
         "rating": {
           "rating_kp": "7.056",
-          "vote_num_kp": "1345",
+          "vote_num_kp": "1346",
           "rating_imdb": "8",
           "vote_num_imdb": "754"
         }
@@ -456,9 +1209,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1093170.jpg",
         "rating": {
           "rating_kp": "6.778",
-          "vote_num_kp": "49423",
+          "vote_num_kp": "49442",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "232639"
+          "vote_num_imdb": "232773"
         }
       }
     },
@@ -596,7 +1349,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1445206.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "274",
+          "vote_num_kp": "286",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -630,10 +1383,10 @@
         "time": "6000",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1080192.jpg",
         "rating": {
-          "rating_kp": "6.649",
-          "vote_num_kp": "8137",
+          "rating_kp": "6.655",
+          "vote_num_kp": "8151",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "582"
+          "vote_num_imdb": "584"
         }
       }
     },
@@ -665,8 +1418,8 @@
         "time": "5940",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7379.jpg",
         "rating": {
-          "rating_kp": "5.93",
-          "vote_num_kp": "538",
+          "rating_kp": "5.926",
+          "vote_num_kp": "539",
           "rating_imdb": "5.6",
           "vote_num_imdb": "4400"
         }
@@ -700,10 +1453,10 @@
         "time": "7260",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_938643.jpg",
         "rating": {
-          "rating_kp": "7.121",
-          "vote_num_kp": "106283",
+          "rating_kp": "7.122",
+          "vote_num_kp": "106382",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "196786"
+          "vote_num_imdb": "196842"
         }
       }
     },
@@ -736,9 +1489,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_466844.jpg",
         "rating": {
           "rating_kp": "6.601",
-          "vote_num_kp": "122540",
+          "vote_num_kp": "122587",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "238799"
+          "vote_num_imdb": "238830"
         }
       }
     },
@@ -824,7 +1577,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1313575.jpg",
         "rating": {
           "rating_kp": "6.816",
-          "vote_num_kp": "244",
+          "vote_num_kp": "245",
           "rating_imdb": "7.1",
           "vote_num_imdb": "472"
         }
@@ -998,8 +1751,8 @@
         "time": "5100",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_43058.jpg",
         "rating": {
-          "rating_kp": "6.459",
-          "vote_num_kp": "3761",
+          "rating_kp": "6.46",
+          "vote_num_kp": "3763",
           "rating_imdb": "5.7",
           "vote_num_imdb": "218"
         }
@@ -1139,7 +1892,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1338925.jpg",
         "rating": {
           "rating_kp": "5.731",
-          "vote_num_kp": "167",
+          "vote_num_kp": "168",
           "rating_imdb": "6.1",
           "vote_num_imdb": "976"
         }
@@ -1247,650 +2000,6 @@
           "vote_num_kp": "175",
           "rating_imdb": 0,
           "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1413294",
-      "date": "1613478085",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Личинки на острове. Фильм",
-        "orig": "The Larva Island Movie",
-        "alter": "Остров личинок",
-        "year": "2020",
-        "country": "Корея Южная",
-        "director": "Byoung-Wook Ahn",
-        "genre": "мультфильм",
-        "actors": "Hong Bum-ki,Kang Shi Hyun,Эдди Ли",
-        "description": "Две личинки, которые невероятно дружны между собой, по стечению обстоятельств оказываются на необитаемом острове. Любой бы на их месте испытывал истинный ужас. Но эти приятели находят в здешних безлюдных краях ни только еду и воду, но и новых друзей, представителей дикого, животного мира.",
-        "slogan": "",
-        "premiere": "23 июля 2020",
-        "age": "0",
-        "time": "5340",
-        "poster": "https://m.media-amazon.com/images/M/MV5BN2RmMGExZmYtZmIxNS00MWVkLThiMjAtMGI2YjE0MTNiZWE2XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "500"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1164118",
-      "date": "1613478073",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Тёмные углы",
-        "orig": "Dark Corners",
-        "alter": "",
-        "year": "2021",
-        "country": "Великобритания",
-        "director": "Ричард Парри",
-        "genre": "триллер",
-        "actors": "Т’Ниа Миллер,Навид Негабан,Жюли Драй,Сэм Хэзелдайн,Дэннис Сторхой,Ричард Хув,Брайан Бовелл,Дани Вериссимо,Ричард Гловер,Юсси Ватанен",
-        "description": "Восходящая звезда футбола Джек Стракан получает травму и оказывается выброшен из большого спорта. Не желая уходить из футбола, он решает участвовать в строительстве стадиона и занимает деньги у бывшего сутенёра своей девушки - владельца ночных клубов, Карима. Однако, дела идут не так хорошо, как хотелось бы и Джек вступает в конфликт с преступным миром, теряет свою девушку и становится я изгоем.",
-        "slogan": "",
-        "premiere": "5 февраля 2021",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZjRjY2E0MTktMGQ4Ni00NmVlLTgzNjktOWM3ZGJmNzE3YTQ5XkEyXkFqcGdeQXVyMjEwNTAwODc@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "3",
-          "rating_imdb": "3.8",
-          "vote_num_imdb": "49"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1237485",
-      "date": "1613478067",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Вера. Надежда. Любовь",
-        "orig": "Faith.Hope.Love",
-        "alter": "",
-        "year": "2021",
-        "country": "США",
-        "director": "Майкл Флинн",
-        "genre": "драма",
-        "actors": "Скаут Смит,Мэйсон Д. Дэвис,Kelsie Elena,Kenna Lynn Stewart,Купер Саттон,Логан Роган,Alex Diaz",
-        "description": "Шесть студентов колледжа отвечают на мэйл от, как они думают, известного автора Оскара Филдинга. После чего обнаруживают, что их собрали вместе на зимние выходные в домике, расположенном в Роки-Маунтин. Им известно только, что они приехали помогать Филдингу в исследовании для новой книги. В процессе шестеро незнакомцев открывают для себя, что разговоры о любви, отношениях, вере, прошлых трудностях и конфликтах приводят к раскрытию их настоящих и того, во что они верят.",
-        "slogan": "",
-        "premiere": "1 февраля 2021",
-        "age": "0",
-        "time": "6900",
-        "poster": "https://m.media-amazon.com/images/M/MV5BY2JiNzZiN2EtODEyYS00YmUzLTlkNGItNjQyM2RkN2U5NjgzXkEyXkFqcGdeQXVyMjY2NDc0OTQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "28"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "23202",
-      "date": "1613478049",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Безумный секс",
-        "orig": "Sessomatto",
-        "alter": "",
-        "year": "1973",
-        "country": "Италия",
-        "director": "Дино Ризи",
-        "genre": "комедия",
-        "actors": "Лаура Антонелли,Джанкарло Джаннини,Альберто Лионелло,Дуилио Дель Прете,Паула Борбони,Карла Манчини,Лино Пуглиси,Синция Романадзи,Франка Сканьетти,Пиппо Старнацца",
-        "description": "Комедия из девяти эпизодов повествующая о любви, сексе и браке в Италии середины — 70-тых.",
-        "slogan": "Swept Away», plays 8 beauties",
-        "premiere": "20 декабря 1973",
-        "age": "16",
-        "time": "6960",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_23202.jpg",
-        "rating": {
-          "rating_kp": "6.362",
-          "vote_num_kp": "298",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "531"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1101252",
-      "date": "1613478045",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Как я стал…",
-        "orig": "Как я стал…",
-        "alter": "",
-        "year": "2018",
-        "country": "Россия",
-        "director": "Павел Мирзоев",
-        "genre": "драма",
-        "actors": "Павел Табаков, Ольга Лерман, Роза Хаируллина, Сергей Пускепалис, Софья Синицына, Денис Власенко, Анастасия Щеглова, Полина Степанова",
-        "description": "Становление личности. Взросление. Первая любовь. Первое предательство. Первое столкновение с реальной жизнью. Москва. Наши дни.",
-        "slogan": "",
-        "premiere": "14 ноября 2018",
-        "age": "16",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1101252.jpg",
-        "rating": {
-          "rating_kp": "5.659",
-          "vote_num_kp": "1852",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "29"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1309166",
-      "date": "1613478043",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Китобой",
-        "orig": "Китобой",
-        "alter": "The whaler boy / Kitoboy",
-        "year": "2020",
-        "country": "Россия,Польша,Бельгия",
-        "director": "Филипп Юрьев",
-        "genre": "драма,приключения",
-        "actors": "Владимир Онохов,Кристина Асмус,Владимир Любимцев,Мария Чупринская,Арье Вортхальтер,Лазиза Увайдуллаева,Николай Татато",
-        "description": "Все меняется в жизни юного чукотского охотника Лёшки с появлением в поселке интернета. Он влюбляется - впервые и сильно - в молчаливую девушку из видеочата. Узнав, что она живет в Детройте, Лешка решается на самый отчаянный поступок в своей жизни.",
-        "slogan": "",
-        "premiere": "8 октября 2020",
-        "age": "16",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1309166.jpg",
-        "rating": {
-          "rating_kp": "6.446",
-          "vote_num_kp": "28627",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1332239",
-      "date": "1613478043",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Небеса подождут",
-        "orig": "Gott, du kannst ein Arsch sein",
-        "alter": "Бог, какой ты придурок",
-        "year": "2020",
-        "country": "Германия",
-        "director": "Андре Эркау",
-        "genre": "драма,мелодрама,комедия",
-        "actors": "Синье Ирслингер,Макс Хубахер,Тиль Швайгер,Хайке Макач,Нуала Баух,Юрген Фогель,Йонас Холденриедер,Бенно Фюрман,Жасмин Герат,Дитмар Бер",
-        "description": "Штеффи всего 16, её жизнь только начинается: первая любовь, выпускной, поездка с классом в Париж. Но после неожиданного вердикта врачей всё это придется отменить: Штеффи ждет серьезное лечение в больнице. Однако жизнь у человека всего одна, и молодость тоже дается один раз. Как быть, если ты ещё ничего толком не успел попробовать в этой жизни?",
-        "slogan": "",
-        "premiere": "14 января 2021",
-        "age": "16",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1332239.jpg",
-        "rating": {
-          "rating_kp": "6.472",
-          "vote_num_kp": "689",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "181"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1351775",
-      "date": "1613478042",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Страйдер",
-        "orig": "Strider",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Марк Льюис",
-        "genre": "спорт",
-        "actors": "Yelena Friedman,Мэгги Александр,Скотт Льюис,Аманда Николс,Tobin Cleary,Landan Cleary",
-        "description": "Благодаря случайному стечению обстоятельств одинокая девушка-подросток Джоди встречает Ханну, тренера по бегу. Вместе они начинают готовиться к крупнейшему спортивному соревнованию на Восточном побережье.",
-        "slogan": "Two Women. One Competition. One Summer to make it all happen",
-        "premiere": "11 июня 2020",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYzRlYTdkNzctZGYyNy00NDY1LWJjODQtMzU1MWYwZmMyMjRhXkEyXkFqcGdeQXVyNjMxMDA3Ng@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "6",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "29"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1398294",
-      "date": "1613478035",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Возвращение на кровавую ферму",
-        "orig": "Return to Splatter Farm",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Jeff Kirkendall,Марк Полония",
-        "genre": "ужасы,триллер",
-        "actors": "Даниэль Донахью,Nico Bryant,Мэл Хефлин,Мари ДеЛоренцо,Джеймс Келли,Jeff Kirkendall,Christopher Beacom,Tony Brown,James Carolus,Мария Дэвис",
-        "description": "Спустя тридцать лет после печально известных убийств на \"Ферме смерти\" в сельской Пенсильвании серийные убийства снова начинают происходить.",
-        "slogan": "Jeremy Has Returned",
-        "premiere": "10 ноября 2020",
-        "age": "0",
-        "time": "4260",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMDY1OWU2YmItMTgyMi00ZDY3LWE4MzYtZTgwNDdlOTkyN2U2XkEyXkFqcGdeQXVyMjc0Nzk1Mg@@._V1_FMjpg_UY908_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "11",
-          "rating_imdb": "3",
-          "vote_num_imdb": "104"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1409579",
-      "date": "1613478035",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Намасте, вахала!",
-        "orig": "Namaste Wahala",
-        "alter": "",
-        "year": "2020",
-        "country": "Нигерия",
-        "director": "Hamisha Daryani Ahuja",
-        "genre": "мелодрама",
-        "actors": "Ини Дима Окодзиэ,Руслаан Мумтаз,Richard Mofe-Damijo,Joke Silva,Осас Игодаро,Anee Icha,Сухата Сегал,Koye Kekere Ekun,Ibrahim Suleiman,Imoh Eboh",
-        "description": "Смешно, сложно и с надрывом - именно так вопреки категорическим протестам родителей разворачивается межрасовая история любви этой пары. Девушка из Нигерии и парень из Индии не позволят культурным различиям помешать их роману.",
-        "slogan": "",
-        "premiere": "1 декабря 2020",
-        "age": "0",
-        "time": "6360",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTdhNGM5NmQtNzQ4YS00MmM0LWEzZTAtNDIwMTBhZGYyZjU2XkEyXkFqcGdeQXVyMzM0OTc4NQ@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "808"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "863958",
-      "date": "1613477857",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Норман",
-        "orig": "Norman",
-        "alter": "",
-        "year": "2021",
-        "country": "США,Великобритания",
-        "director": "Joel Guelzo",
-        "genre": "фантастика,триллер,приключения",
-        "actors": "Стивен Бирдж,Джерри Чессер,Meme Hussey,Алекс Миллер,Michael Wrape,Melissa Yowell",
-        "description": "Путешественник во времени Норман оказывается в ловушке прошлого, ставя под угрозу жизнь как в прошлом, так и в будущем. Ему придётся изобрести путь назад в будущее, пока мир не рухнул.",
-        "slogan": "",
-        "premiere": "2 февраля 2021",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_863958.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "39",
-          "rating_imdb": "3.6",
-          "vote_num_imdb": "302"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1253157",
-      "date": "1613477826",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Новамедиа",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        }
-      },
-      "info": {
-        "rus": "Ваша честь",
-        "orig": "Your Honor",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Эдвард Бергер",
-        "genre": "триллер,драма,криминал",
-        "actors": "Брайан Крэнстон,Хантер Дуэн,Майкл Стулбарг,Хоуп Дэвис,София Блэк-Д’Элиа,Исайя Уитлок мл.,Тони Кёрран,Лилли Кэй,Кармен Эджого,Бенжамин Флорес мл.",
-        "description": "Сын влиятельного и успешного судьи сбивает пешехода и скрывается с места преступления, в результате чего семья оказывается втянутой в опасную игру из лжи и обмана, ведь погибший был сыном местного криминального босса.",
-        "slogan": "",
-        "premiere": "7 декабря 2020",
-        "age": "0",
-        "time": "2400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1253157.jpg",
-        "rating": {
-          "rating_kp": "7.51",
-          "vote_num_kp": "13904",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "34119"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "6291",
-      "date": "1613477732",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Одноголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Все в выигрыше",
-        "orig": "Everybody Wins",
-        "alter": "",
-        "year": "1989",
-        "country": "Великобритания,США",
-        "director": "Карел Рейш",
-        "genre": "триллер,драма,детектив",
-        "actors": "Дебра Уингер,Ник Нолти,Уилл Пэттон,Джудит Айви,Кэтлин Уилхойт,Джек Уорден,Фрэнк Конверс,Фрэнк Милитери,Steven Skybell,Мэри Луиза Уилсон",
-        "description": "После знакомства с Анджелой Криспини у частного детектива Тома О`Тула наступили странные времена. Начатое им с неохотой дело об убийстве все сильнее и сильнее затягивало своей таинственностью. Пока не поглотило его целиком.\r\n\r\nЗаинтригованный сообщением Анджелы о том, что она знает истинного убийцу, он не может добыть ни одного факта и, поначалу, обескуражен внезапной замкнутостью людей,  предлагавших ему свою помощь. Кое-что начинает проясняться, когда он узнает, что Анджела была в близких отношениях со многими местными влиятельными людьми...",
-        "slogan": "Cinema Prestige",
-        "premiere": "19 января 1990",
-        "age": "16",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6291.jpg",
-        "rating": {
-          "rating_kp": "5.12",
-          "vote_num_kp": "123",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "1075"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "271708",
-      "date": "1613475494",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Оригинал",
-      "max_qual": "480",
-      "info": {
-        "rus": "Зверобой",
-        "orig": "Зверобой",
-        "alter": "",
-        "year": "1990",
-        "country": "СССР",
-        "director": "Андрей Ростоцкий",
-        "genre": "вестерн,приключения",
-        "actors": "Андрей Хворов, Павел Абдалов, Эдуард Мурашов, Елена Кондулайнен, Ольга Машная, Георгий Пицхелаури, Наталья Табакова, Сергей Лодзейский, Всеволод Хабаров, Владимир Епископосян",
-        "description": "Пока французы и англичане сражались за североамериканские территории, индейские племена гуронов и делаваров также дрались между собой за свои родные земли. И в этой войне благородной и отважный Чингачгук, один из лучших воинов-делаваров, проявлял чудеса героизма.",
-        "slogan": "",
-        "premiere": "",
-        "age": "6",
-        "time": "8580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_271708.jpg",
-        "rating": {
-          "rating_kp": "7.563",
-          "vote_num_kp": "3472",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "91"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1113115",
-      "date": "1613474853",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "9",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080
-        }
-      },
-      "info": {
-        "rus": "Воспитывая Диона",
-        "orig": "Raising Dion",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Нима Барнетт, Рэйчел Голдберг, Dennis A. Liu",
-        "genre": "фантастика,драма",
-        "actors": "Алиша Вейнрайт, Ja'Siah Young, Sammi Haney, Гэвин Мунн, J Harrison Ghee, Moriah Brown, Дэна Гурье, Джастис Лик, Victor Sho, Skyler Elyse Philpot",
-        "description": "История о темнокожей матери-одиночке Николь Риз, которая после гибели мужа растит малолетнего сына Диона. Рутинные семейные хлопоты осложняются тем, что мальчик обладает широким набором крайне изменчивых сверхспособностей: от превращения в невидимку до метания файерболов. На плечи Николь ложится дополнительная ответственность - сохранить суперсилы Диона в тайне.",
-        "slogan": "",
-        "premiere": "4 октября 2019",
-        "age": "0",
-        "time": "3000",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZTgyYjZjMzktNjk1OC00ZDdmLThmODEtNzUxMzcyY2Y1YzBmXkEyXkFqcGdeQXVyMjMzNTEyMzk@.jpg",
-        "rating": {
-          "rating_kp": "6.075",
-          "vote_num_kp": "575",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "9295"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "89595",
-      "date": "1613474780",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "DVDRip",
-      "translation": "Оригинал",
-      "max_qual": "480",
-      "last_season": "1",
-      "last_episode": "12",
-      "episodes": {
-        "1": {
-          "1": 480,
-          "2": 480,
-          "3": 480,
-          "4": 480,
-          "5": 480,
-          "6": 480,
-          "7": 480,
-          "8": 480,
-          "9": 480,
-          "10": 480,
-          "11": 480,
-          "12": 480
-        }
-      },
-      "info": {
-        "rus": "Участок",
-        "orig": "Участок",
-        "alter": "",
-        "year": "2003",
-        "country": "Россия",
-        "director": "Александр Баранов",
-        "genre": "комедия,криминал",
-        "actors": "Сергей Безруков, Алексей Булдаков, Павел Деревянко, Татьяна Догилева, Юрий Кузнецов, Роман Мадянов, Семен Морозов, Мария Порошина, Нина Русланова, Александр Семчев",
-        "description": "Милиционер Павел Кравцов - человек довольно странный. Если ему приходится на кого-то надеть наручники, он при этом извиняется и справшивает, не жмет ли. Он честолюбив, но честен; он молод, но задумчив. С такими задатками в городской милиции карьеру не очень-то сделаешь. Вот и попадает насквозь городской человек старший лейтенант Кравцов в глухое село Анисовку обычным участковым.\r\n\r\nЧто-то вроде ссылки или не очень почетной командировки. Да еще ссора с женой на почве непонимания ею преданности Кравцова профессии, когда профессия (в лице начальства) не очень-то держится за него...\r\n\r\nОставив все и взяв с собой только любимую собаку Цезаря, породы бладхаунд, Кравцов приезжает в Анисовку и начинает обживаться в селе...",
-        "slogan": "Русский народный детектив",
-        "premiere": "8 декабря 2003",
-        "age": "12",
-        "time": "37440",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_89595.jpg",
-        "rating": {
-          "rating_kp": "7.698",
-          "vote_num_kp": "85991",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "435"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "5429",
-      "date": "1613473604",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Горец 3: Последнее измерение",
-        "orig": "Highlander III: The Sorcerer",
-        "alter": "Горец 3: Чародей",
-        "year": "1994",
-        "country": "Великобритания, Франция, Канада",
-        "director": "Эндрю Морахэн",
-        "genre": "боевик,фантастика,фэнтези,мелодрама",
-        "actors": "Кристофер Ламберт, Марио Ван Пиблз, Дебора Кара Ангер, Мако, Рауль Трухильо, Жан-Пьерр Перуссе, Мартин Ньюфелд, Фредерик Й. Окимура, Дэниэл До, Габриэль Какон",
-        "description": "Бессмертный воин Коннор Маклауд вновь вызван на поединок, на этот раз своим самым могущественным врагом, Колдуном Кейном, заточенным под мистической горой в Японии 300 лет назад и достигшим невероятной магической силы.\r\n\r\nНичего не подозревающие археологи освобождают Кейна. Для того, чтобы править миром колдуну нужна магическая энергия, которую он сможет получить только убив Горца. Маклауд скрывается в родные горы Шотландии, чтобы подготовиться к решающей битве и выковать новый меч в старинной кузнице.\r\n\r\nОн встречает Алекс, ученую из музея Античной Истории. Много лет назад в другой жизни Алекс и Маклауд любили друг друга. Алекс пытается его поддержать, окончательно разгадав мистическое предназначение сражения Горца с Колдуном, которое может положить конец вечной войне за магическую энергию, сверхъестественное могущество и абсолютную власть над миром.",
-        "slogan": "One man was choosen to protect all that is good.  Now an enemy from the past journeys time to challenge him in the present",
-        "premiere": "30 ноября 1994",
-        "age": "16",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5429.jpg",
-        "rating": {
-          "rating_kp": "5.739",
-          "vote_num_kp": "6130",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "20115"
         }
       }
     }

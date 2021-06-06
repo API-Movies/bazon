@@ -2012,5 +2012,24 @@
       "world-art": 0,
       "none": 0
     }
+  },
+  {
+    "date": 1622937600,
+    "movies": {
+      "all": 24339,
+      "kinopoisk": 24318,
+      "imdb": 0,
+      "tmdb": 0,
+      "world-art": 0,
+      "none": 0
+    },
+    "tv": {
+      "all": 4573,
+      "kinopoisk": 4325,
+      "imdb": 0,
+      "tmdb": 0,
+      "world-art": 0,
+      "none": 0
+    }
   }
 ]
