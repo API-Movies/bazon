@@ -2,6 +2,388 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1179238",
+      "date": "1599909176",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Лига справедливости против Смертоносной пятерки",
+        "orig": "Justice League vs. the Fatal Five",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Сэм Лью",
+        "genre": "мультфильм,боевик,фантастика,фэнтези",
+        "actors": "Элиес Габел, Дайан Герреро, Кевин Конрой, Сьюзэн Эйзенберг, Джордж Ньюберн, Даниэла Бобадилла, Кевин Майкл Ричардсон, Ноэль Фишер, Питер Джессоп, Том Кенни",
+        "description": "Судьба Земли висит на волоске и Лиге придется столкнуться с новой командой суперзлодеев, путешествующих во времени, которая прибывает в Метрополис в поисках Джессики Круз, начинающего Зеленого Фонаря. С ее помощью Мано, Убеждатель и Тарок собираются освободить еще двоих членов команды, Изумрудную Императрицу и Валидуса.",
+        "slogan": "Has the Justice League met its match?",
+        "premiere": "29 марта 2019",
+        "age": "0",
+        "time": "4620",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1179238.jpg",
+        "rating": {
+          "rating_kp": "6.084",
+          "vote_num_kp": "1294",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "7915"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "922165",
+      "date": "1599904433",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Бэтмен: Убийственная шутка",
+        "orig": "Batman: The Killing Joke",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Сэм Лью",
+        "genre": "мультфильм,боевик,фантастика,триллер,драма,криминал",
+        "actors": "Кевин Конрой, Марк Хэмилл, Тара Стронг, Рэй Уайз, Джон Ди Маджио, Робин Аткин Даунс, Брайан Джордж, Джон Пол Карлиак, Эндрю Кисино, Нолан Норт",
+        "description": "Бэтмен появляется в клинике Аркхем, где выясняет, что Джокер сумел бежать из-под охраны. Этот опасный пациент был под наблюдением, но теперь его функции развлекать лечебницу переданы другому. Тот в роли клоуна, не отдающего себе отчета в последствиях происходящего. Джокер на свободе и намерен показать окружающим, на что способен. Ошибались те, кто считал его умалишенным. Мир вокруг сошел с ума, а у Джокера есть свои планы и способы их реализации. Парк аттракционов, давно не функционирующий, куплен беглецом из клиники за копейки. Это первый шаг на пути к мечте. Джеймс Гордон становится помощником Джокера. Почему именно он? Гордон олицетворяет собой честь и мораль в Готэме, прогнившем насквозь...",
+        "slogan": "The madness begins",
+        "premiere": "22 июля 2016",
+        "age": "18",
+        "time": "4320",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_922165.jpg",
+        "rating": {
+          "rating_kp": "6.729",
+          "vote_num_kp": "11821",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "51280"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "78424",
+      "date": "1599901670",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Принц и нищий",
+        "orig": "The Prince and the Pauper",
+        "alter": "",
+        "year": "1990",
+        "country": "США",
+        "director": "Джордж Скрибнер",
+        "genre": "мультфильм,комедия,короткометражка,приключения,семейный",
+        "actors": "Уэйн Оллвэйн, Билл Фармер, Артур Бергхардт, Тони Ансельмо, Чарльз Адлер, Фрэнк Уэлкер, Элвия Оллман, Тим Эйстер, Анджело Бруно Кракофф, Рой Дотрис",
+        "description": "Всем известная история принца и нищего, но теперь в исполнении Микки Мауса!",
+        "slogan": "",
+        "premiere": "16 ноября 1990",
+        "age": "0",
+        "time": "1500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_78424.jpg",
+        "rating": {
+          "rating_kp": "7.499",
+          "vote_num_kp": "658",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "3140"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "748788",
+      "date": "1599900505",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "SDI Media",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "5",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080
+        }
+      },
+      "info": {
+        "rus": "Свет и тень",
+        "orig": "Lightfields",
+        "alter": "",
+        "year": "2013",
+        "country": "Великобритания",
+        "director": "Дэймон Томас",
+        "genre": "детектив,драма",
+        "actors": "Дакота Блю Ричардс, Александр Эйз, Майкл Бирн, Антония Кларк, Люси Коху, Карла Кроум, Лейла де Меса, Уэйн Фоскетт, Джилл Халфпенни, Сэм Хэзелдайн",
+        "description": "Мистическая драма, повествующая о трех семьях, в разное время живших на отдаленной ферме Лайтфилдс, в английском графстве Саффолк. Все эти люди связаны между собой ужасной трагедией, которая случилась в один роковой вечер с 17-летней Люси. Долгие годы всех этих людей мучает чувство вины, жалости, некой незавершенности. Сюжет получает новый оборот спустя почти 70 лет после того трагического случая, когда на ферму вновь приезжает самый близкий для погибшей девушки человек. Тут-то и обнаружится, что призрак Люси все это время жил в их старом доме, и еще не раз напомнит о себе всем его нынешним обитателям..",
+        "slogan": "She can&#x27;t move out until they move on...",
+        "premiere": "27 февраля 2013",
+        "age": "0",
+        "time": "2760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_748788.jpg",
+        "rating": {
+          "rating_kp": "6.953",
+          "vote_num_kp": "788",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "908"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1007455",
+      "date": "1599900370",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Baibako",
+      "max_qual": "1080",
+      "last_season": "4",
+      "last_episode": "7",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        },
+        "3": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        },
+        "4": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080
+        }
+      },
+      "info": {
+        "rus": "Три процента",
+        "orig": "3%",
+        "alter": "",
+        "year": "2016",
+        "country": "Бразилия",
+        "director": "Dani Libardi, Jotagá Crema, Сезар Шарлони",
+        "genre": "боевик,фантастика,триллер,драма",
+        "actors": "Джоао Мигель, Бьянка Компрату, Ванеза Оливейра, Родольфо Валенте, Мишел ди Соза, Зезе Мотта, Селсо Фратески, Мэл Фронковиак, Лусиана Паэс, Сэмюэл де Ассис",
+        "description": "Будущее, в котором мир разделён на две части: одни богатые, другие - нищие. Распределение происходит в результате строгого и кропотливого отбора под названием «Процесс». В двадцать лет каждому человеку дается шанс, избранные не возвращаются назад. Но их всего - три процента.",
+        "slogan": "Equality is a convincing illusion",
+        "premiere": "25 ноября 2016",
+        "age": "0",
+        "time": "2940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1007455.jpg",
+        "rating": {
+          "rating_kp": "6.736",
+          "vote_num_kp": "3133",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "22635"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1343926",
+      "date": "1599900215",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "16",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720,
+          "14": 720,
+          "15": 720,
+          "16": 720
+        }
+      },
+      "info": {
+        "rus": "Продавец на полставки",
+        "orig": "Pyeonuijeom saetbyeoli",
+        "alter": "",
+        "year": "2020",
+        "country": "Корея Южная",
+        "director": "Ли Мён-у",
+        "genre": "мелодрама,комедия",
+        "actors": "Чи Чхан-ук,Ким Ю-джон,Хан Сон-хва,То Сан-у,Сольбин,Ким Мин-гю,Со Е-хва,Чи Чхан,Ым Мун-сок,Ли Бён-джун",
+        "description": "Четыре года назад Чхве Дэ-хён познакомился компанией отвязных старшеклассниц и даже покупал им сигареты, а теперь мужчина уволился из большой компании, держит небольшой магазин, и ему требуется продавец на ночные смены. Внезапно встретив одну из тех девушек, Дэ-хён берёт её на работу.",
+        "slogan": "",
+        "premiere": "19 июня 2020",
+        "age": "0",
+        "time": "4200",
+        "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/709b7314-e43f-4d17-a5f2-aa90cedc8d33/600x900",
+        "rating": {
+          "rating_kp": "7.313",
+          "vote_num_kp": "976",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "1259"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1395418",
+      "date": "1599900133",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "IdeaFilm",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "6",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080
+        }
+      },
+      "info": {
+        "rus": "Биохакеры",
+        "orig": "Biohackers",
+        "alter": "",
+        "year": "2020",
+        "country": "Германия",
+        "director": "Кристиан Диттер",
+        "genre": "фантастика,триллер,драма",
+        "actors": "Луна Ведлер,Томас Пренн,Джессика Шварц,Adrian Julius Tillmann,Sebastian Jakob Doppelbauer,Каро Культ,Jing Xiang,Nina Zorzi,Cristina Andrione,Sebastian Gerasch",
+        "description": "Одаренная студентка биофака Мия знакомится с преподавательницей Лоренц и её подопечными. Они проводят странноватые и, вероятно, не вполне законные эксперименты – заставляют мышь излучать зеленый свет в темноте, а растения у них превращаются в музыкальные инструменты. Мия интересует лабораторией не просто так – девушка подозревает, что Лоренц причастна к гибели её родственника.",
+        "slogan": "",
+        "premiere": "20 августа 2020",
+        "age": "0",
+        "time": "2640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1395418.jpg",
+        "rating": {
+          "rating_kp": "6.397",
+          "vote_num_kp": "602",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "6280"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1352413",
+      "date": "1599899508",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "ViruseProject",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "6",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080
+        }
+      },
+      "info": {
+        "rus": "Кровавая поездка",
+        "orig": "Blodtur",
+        "alter": "",
+        "year": "2020",
+        "country": "Норвегия",
+        "director": "Гер Хеннинг Хопланд,Атле Кнудсен",
+        "genre": "ужасы",
+        "actors": "Дагни Бэкер Джонсен,Erlend Rødal Vikhagen,Беньямин Хельстад,Сюннёве Макоди Лунд,Хенрик Рафаелсен,Харальд Розенстрём,Simen Bostad,Mette Spjelkavik Enoksen,Nami Kitagawa Aam,Ингрид Йоргенсен Драгланд",
+        "description": "Молчаливый водитель везёт обреченных пассажиров в неизвестном направлении.",
+        "slogan": "",
+        "premiere": "13 марта 2020",
+        "age": "0",
+        "time": "0",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1352413.jpg",
+        "rating": {
+          "rating_kp": "6.067",
+          "vote_num_kp": "524",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "3015"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "540",
       "date": "1599899391",
       "camrip": "0",
@@ -29,9 +411,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_540.jpg",
         "rating": {
           "rating_kp": "8.264",
-          "vote_num_kp": "245828",
+          "vote_num_kp": "245889",
           "rating_imdb": "8",
-          "vote_num_imdb": "422779"
+          "vote_num_imdb": "422810"
         }
       }
     },
@@ -76,9 +458,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_463366.jpg",
         "rating": {
           "rating_kp": "7.211",
-          "vote_num_kp": "4004",
+          "vote_num_kp": "4005",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "27702"
+          "vote_num_imdb": "27724"
         }
       }
     },
@@ -132,8 +514,8 @@
         "time": "3900",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1009086.jpg",
         "rating": {
-          "rating_kp": "8.041",
-          "vote_num_kp": "1851",
+          "rating_kp": "8.038",
+          "vote_num_kp": "1853",
           "rating_imdb": "8.6",
           "vote_num_imdb": "6132"
         }
@@ -229,9 +611,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_89514.jpg",
         "rating": {
           "rating_kp": "7.972",
-          "vote_num_kp": "393626",
+          "vote_num_kp": "394173",
           "rating_imdb": "8",
-          "vote_num_imdb": "656515"
+          "vote_num_imdb": "656580"
         }
       }
     },
@@ -299,7 +681,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_924360.jpg",
         "rating": {
           "rating_kp": "6.471",
-          "vote_num_kp": "2101",
+          "vote_num_kp": "2104",
           "rating_imdb": "6.3",
           "vote_num_imdb": "7088"
         }
@@ -334,9 +716,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_322.jpg",
         "rating": {
           "rating_kp": "8.153",
-          "vote_num_kp": "432313",
+          "vote_num_kp": "432483",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "566857"
+          "vote_num_imdb": "566935"
         }
       }
     },
@@ -404,9 +786,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_739642.jpg",
         "rating": {
           "rating_kp": "7.179",
-          "vote_num_kp": "121740",
+          "vote_num_kp": "121775",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "203993"
+          "vote_num_imdb": "204021"
         }
       }
     },
@@ -474,7 +856,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1162784.jpg",
         "rating": {
           "rating_kp": "5.145",
-          "vote_num_kp": "810",
+          "vote_num_kp": "812",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -614,9 +996,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_280172.jpg",
         "rating": {
           "rating_kp": "8.194",
-          "vote_num_kp": "426877",
+          "vote_num_kp": "426940",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "681211"
+          "vote_num_imdb": "681292"
         }
       }
     },
@@ -718,10 +1100,10 @@
         "time": "6420",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_837530.jpg",
         "rating": {
-          "rating_kp": "7.563",
-          "vote_num_kp": "244713",
+          "rating_kp": "7.564",
+          "vote_num_kp": "244964",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "284999"
+          "vote_num_imdb": "285081"
         }
       }
     },
@@ -754,7 +1136,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045679.jpg",
         "rating": {
           "rating_kp": "5.872",
-          "vote_num_kp": "3189",
+          "vote_num_kp": "3191",
           "rating_imdb": "5.5",
           "vote_num_imdb": "5298"
         }
@@ -789,7 +1171,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_577532.jpg",
         "rating": {
           "rating_kp": "6.882",
-          "vote_num_kp": "985",
+          "vote_num_kp": "987",
           "rating_imdb": "7.1",
           "vote_num_imdb": "3299"
         }
@@ -1104,7 +1486,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1338272.jpg",
         "rating": {
           "rating_kp": "5.603",
-          "vote_num_kp": "8963",
+          "vote_num_kp": "8969",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1174,9 +1556,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8408.jpg",
         "rating": {
           "rating_kp": "7.871",
-          "vote_num_kp": "349202",
+          "vote_num_kp": "349365",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "562556"
+          "vote_num_imdb": "562631"
         }
       }
     },
@@ -1209,9 +1591,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_512883.jpg",
         "rating": {
           "rating_kp": "7.916",
-          "vote_num_kp": "203612",
+          "vote_num_kp": "203651",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "311563"
+          "vote_num_imdb": "311588"
         }
       }
     },
@@ -1244,9 +1626,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_744987.jpg",
         "rating": {
           "rating_kp": "6.717",
-          "vote_num_kp": "128301",
+          "vote_num_kp": "128355",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "281650"
+          "vote_num_imdb": "281685"
         }
       }
     },
@@ -1279,7 +1661,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_623778.jpg",
         "rating": {
           "rating_kp": "6.15",
-          "vote_num_kp": "2239",
+          "vote_num_kp": "2240",
           "rating_imdb": "6.1",
           "vote_num_imdb": "7873"
         }
@@ -1397,9 +1779,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_596451.jpg",
         "rating": {
           "rating_kp": "7.102",
-          "vote_num_kp": "55451",
+          "vote_num_kp": "55508",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "105059"
+          "vote_num_imdb": "105073"
         }
       }
     },
@@ -1432,9 +1814,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_839646.jpg",
         "rating": {
           "rating_kp": "7.155",
-          "vote_num_kp": "104544",
+          "vote_num_kp": "104612",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "81156"
+          "vote_num_imdb": "81179"
         }
       }
     },
@@ -1502,9 +1884,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_280961.jpg",
         "rating": {
           "rating_kp": "7.895",
-          "vote_num_kp": "79330",
+          "vote_num_kp": "79380",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "52992"
+          "vote_num_imdb": "53003"
         }
       }
     },
@@ -1537,9 +1919,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_775276.jpg",
         "rating": {
           "rating_kp": "8.285",
-          "vote_num_kp": "561372",
+          "vote_num_kp": "561773",
           "rating_imdb": "8",
-          "vote_num_imdb": "446805"
+          "vote_num_imdb": "446882"
         }
       }
     },
@@ -1572,289 +1954,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1118427.jpg",
         "rating": {
           "rating_kp": "6.911",
-          "vote_num_kp": "11303",
+          "vote_num_kp": "11305",
           "rating_imdb": "6.7",
           "vote_num_imdb": "23226"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "916759",
-      "date": "1599775704",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Идеальный голос 3",
-        "orig": "Pitch Perfect 3",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Триш Си",
-        "genre": "комедия",
-        "actors": "Анна Кендрик, Ребел Уилсон, Бриттани Сноу, Анна Кэмп, Хейли Стайнфелд, Эстер Дин, Хана Мэй Ли, Келли Джакл, Шелли Регнер, Крисси Фит",
-        "description": "История о коллективе юных и амбициозных певиц, которых ожидают новые вызовы и испытания на пути к успеху и широкому признанию.",
-        "slogan": "Last Call, Pitches",
-        "premiere": "20 декабря 2017",
-        "age": "16",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_916759.jpg",
-        "rating": {
-          "rating_kp": "6.121",
-          "vote_num_kp": "9746",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "57886"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1311768",
-      "date": "1599774307",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Небеременная",
-        "orig": "Unpregnant",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Рэйчел Голденберг",
-        "genre": "драма,комедия",
-        "actors": "Шугар Лин Бирд,Джанкарло Эспозито,Хейли Лу Ричардсон,Мэри МакКормак,Брекин Мейер,Барби Феррейра,Рамона Янг,Кара Ройстер,Алекс МакНиколл,Дензель Лав",
-        "description": "17-летняя Вероника узнает, что беременна. Это переворачивает ее мир и ставит под угрозу все, о чем она мечтала, — поступление в престижный колледж и всю дальнейшую карьеру. Единственным человеком, к которому девушка может обратиться за помощью, оказывается ее школьная приятельница Бейли, вместе с которой они отправляются в безумное путешествие.",
-        "slogan": "",
-        "premiere": "10 сентября 2020",
-        "age": "0",
-        "time": "6240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1311768.jpg",
-        "rating": {
-          "rating_kp": "6.48",
-          "vote_num_kp": "421",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "5451"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "258328",
-      "date": "1599755739",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "История игрушек: Большой побег",
-        "orig": "Toy Story 3",
-        "alter": "",
-        "year": "2010",
-        "country": "США",
-        "director": "Ли Анкрич",
-        "genre": "мультфильм,комедия,фэнтези,приключения,семейный",
-        "actors": "Том Хэнкс, Тим Аллен, Джоан Кьюсак, Нед Битти, Дон Риклз, Майкл Китон, Уоллес Шоун, Джон Ратценбергер, Эстель Харрис, Джон Моррис",
-        "description": "Энди почти 18 лет, ему остаётся 3 дня до отправки в колледж, в то время как его игрушки, в том числе Вуди и Базз Лайтер, гадают о своём будущем.\r\n\r\nКуда забросит их судьба? На чердак, на свалку или, может быть, в детский сад «Солнышко»?\r\n\r\nСобытия развиваются в самом неожиданном направлении, и приключения полюбившихся героев продолжаются!",
-        "slogan": "The Breakout Comedy Of The Summer",
-        "premiere": "12 июня 2010",
-        "age": "6",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258328.jpg",
-        "rating": {
-          "rating_kp": "7.815",
-          "vote_num_kp": "180758",
-          "rating_imdb": "8.2",
-          "vote_num_imdb": "772397"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1011033",
-      "date": "1599746447",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Американская морская свинка: Жертвоприношение",
-        "orig": "American Guinea Pig: Sacrifice",
-        "alter": "",
-        "year": "2017",
-        "country": "Италия",
-        "director": "Poison Rouge",
-        "genre": "ужасы",
-        "actors": "Flora Giannattasio,Roberto Scorza",
-        "description": "Стремясь углубиться в бездонное царство членовредительства, Даниель запирается в ванной и начинает эзотерический разговор о крови и страданиях с богиней Иштар. Откроет ли его жертва путь к просветлению?",
-        "slogan": "",
-        "premiere": "1 марта 2017",
-        "age": "0",
-        "time": "3600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1011033.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "16",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "153"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "987405",
-      "date": "1599746439",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "По-настоящему: одно лето из жизни бейсболисток",
-        "orig": "Hardball: The Girls of Summer",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Мэттью Темпл",
-        "genre": "документальный",
-        "actors": "Фрэнсис Форд Коппола,Stacy Piagno,Kelsie Whitmore",
-        "description": "Документальный фильм расскажет о борьбе американских спортсменок за право играть в бейсбол в стране, где этот вид спорта является национальным, но до последнего времени оставался исключительно прерогативой мужчин.",
-        "slogan": "",
-        "premiere": "24 сентября 2019",
-        "age": "0",
-        "time": "4500",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMmZhNzI3YjUtMTdkMy00MTAxLWI0YmEtNjZiOGFkMzEyYmY1XkEyXkFqcGdeQXVyNTU1MjUzODQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "0",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "25"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1368785",
-      "date": "1599746429",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Секреты в лесу",
-        "orig": "Off the Grid",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Сара Ломан",
-        "genre": "триллер",
-        "actors": "Бриттани Андервуд,Тейлор Фрэй,Джим Клок,Кэбби Бордерс,Майк Капоцци,Отем Федеричи,Мэри Кэрриг,Маккензи Уотсон",
-        "description": "Сандра надеется на романтический отдых со своим новым парнем. Но выходные превращаются в ад, когда она знакомится с его отцом.",
-        "slogan": "Amongst the Trees, Danger is Everywhere",
-        "premiere": "30 августа 2020",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYmM4ZjA2YzQtZTQ1Ny00YzFjLWJmM2YtNTIwYTg2ZWQxOTEwXkEyXkFqcGdeQXVyNjgzMjQ0MTA@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "20",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "167"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1346466",
-      "date": "1599746419",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Cекреты женского общества",
-        "orig": "Sorority Secrets",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Дамиан Ромэй",
-        "genre": "триллер",
-        "actors": "Дункан Бар,Abigail Baldwin,Шэйна Бенардо,Gabriel Bonilla,Cara Calderaio,Эллен Маргарит Калливан,Marie Debrey,Emily-Rose Fabian,Серафин Фалькон,Элизабетта Фантоне",
-        "description": "Испытывающая финансовые трудности студентка Кэсси Томпсон вступает в женское общество своего университета. Когда её сёстры начинают погибать, она берёт на себя ответственность узнать, в чём же дело.",
-        "slogan": "Can You Keep a Secret?",
-        "premiere": "29 августа 2020",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BODBkMzJjMDctNzBmYy00NWUwLTlhZDktOTA0MmMxY2Y1NDI5XkEyXkFqcGdeQXVyNTYxMjExMzY@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "26",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "154"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1301832",
-      "date": "1599746412",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Глубина",
-        "orig": "The Deep End",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Emma Grace Wright",
-        "genre": "короткометражка,драма",
-        "actors": "Бо Райт,Amy Wright,Tommy Sullivan,Ethan Shumate,Amy Todd,Bay Allebach,Jack Bivins,Eli Bright,Emma Faith,Xander Fulcher",
-        "description": "Бо хочет быть таким как все, но большинство его сверстников не хотят принимать к себе в компанию ребенка с синдромом Дауна. Неожиданное приглашение от незнакомого мальчика в корне меняет его мировоззрение и придает уверенность в себе и завтрашнем дне.",
-        "slogan": "",
-        "premiere": "5 сентября 2019",
-        "age": "0",
-        "time": "600",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZjZlODI4ZmYtM2U1Yy00ODExLWEzMjItYzA2MWJlNWVjN2RlXkEyXkFqcGdeQXVyMjM1MTc1NjM@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "37"
         }
       }
     }

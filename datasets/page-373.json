@@ -2,6 +2,251 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1025938",
+      "date": "1582099014",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Моя дочь пропала",
+        "orig": "My Daughter Is Missing",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Тамар Халперн",
+        "genre": "боевик,триллер",
+        "actors": "Миранда Рэйсон, Эммет Джей Скэнлэн, Sophie Robertson, Йована Стоилькович, Милан Цуцилович, Fedor Djordjevic, Arnaud Humbert, Ivona Kustudic, Срджан Пантелич, Милена Павлович",
+        "description": "Сара, бывший хакер, а теперь специалист по интернет-безопасности, приехала в Белград для участия в конференции по киберпреступности. В это время сербская картель, занимающаяся торговлей людьми, похищает дочь Сары и ее подругу. Сможет ли она спасти девочек, пока не стало слишком поздно?",
+        "slogan": "",
+        "premiere": "1 июня 2017",
+        "age": "0",
+        "time": "5220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1025938.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "30",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "213"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1025911",
+      "date": "1582099013",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Артур и Клэр",
+        "orig": "Arthur & Claire",
+        "alter": "",
+        "year": "2017",
+        "country": "Германия, Австрия, Нидерланды",
+        "director": "Мигель Александр",
+        "genre": "комедия,драма",
+        "actors": "Флоренс Касумба, Райнер Бок, Ханна Хекстра, Йозеф Хадер, Эррол Тротман-Хэйрвуд, Гай Клеменс, Стелла МакКаскер, Matthias Emberger, Рубен Бринкман, Джереми Миликер",
+        "description": "Артур едет в Амстердам в своё последнее путешествие в жизни, но там он встречает Клэр, которая тоже больше не видит смысла жить. Сможет ли одна ночь изменить что-то для них?",
+        "slogan": "",
+        "premiere": "25 сентября 2017",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODZmNDJlNTgtMWIzNi00N2EzLThjZTItZGQ3ZGY4OGY1NmQ4XkEyXkFqcGdeQXVyMjQ3NzUxOTM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "28",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "569"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1025692",
+      "date": "1582099011",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Армия и Куп",
+        "orig": "Army & Coop",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Dennis Hefter",
+        "genre": "комедия",
+        "actors": "Хит С. Хейн, Кали Джун, Ben Hilzer, Gary J. Neuger, Gary John Miller, Тревор Уилсон, Ella Madison, Karen Thomas, Уолтер Анарук, Nanci Van Fleet",
+        "description": "Майкл «Армия» Армстронг, ветеран национальной хоккейной лиги, был отстранен за выходку в прямом эфире. Любовь всей его жизни Джен бросила его. Майкл борется со своими пороками и пытается измениться, ведь в конечном счете он должен противостоять главному противнику - самому себе.",
+        "slogan": "You win some. You lose most",
+        "premiere": "8 марта 2018",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1025692.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "9",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "76"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1025168",
+      "date": "1582099006",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Что воды оставили позади",
+        "orig": "Los Olvidados",
+        "alter": "",
+        "year": "2017",
+        "country": "Аргентина, Новая Зеландия",
+        "director": "Лучиано Онетти, Николас Онетти",
+        "genre": "ужасы",
+        "actors": "German Baudino, Паула Браска, Мирта Буснелли, Викторио Д’Алессандро, Дамиан Дрейсик, Чучо Фернандес, Tamara Garzón, Пабло Гиса Кёстингер, Ивэн Лид, Виктория Мауретте",
+        "description": "Группа документалистов отправляется в разрушенный наводнением город Эпекуэн. Они снимают фильм и берут интервью у девушки Карлы, которая в детстве жила в этом теперь уже городе-призраке. Заправившись и прибыв на место, киношники обнаруживают, что топливный шланг их минивэна перерезан, но не придают этому значения, и группа разделяется.",
+        "slogan": "",
+        "premiere": "11 октября 2017",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1025168.jpg",
+        "rating": {
+          "rating_kp": "3.739",
+          "vote_num_kp": "335",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "2399"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1025089",
+      "date": "1582099004",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Охотничьи земли",
+        "orig": "Hunting Lands",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Зак Уилкокс",
+        "genre": "триллер,драма,криминал",
+        "actors": "Маршалл Кук, Джо Раффа, Keyna Reynolds, Калеб Риттенхаус, Брук Малкинс, Шелби Брунн, Николь Синалья, Эприл Кроуэлл, Danny O'Donnell, Joseph Stewart",
+        "description": "Ветеран затворник Фрэнк Олсен жаждет сбежать от шума современного мира. Но однажды, несмотря на все его усилия, мир дает о себе знать. Фрэнк становится свидетелем того, как мужчина выбрасывает полумертвую жену в снег в лесу и решает прийти ей на помощь.",
+        "slogan": "These woods just are",
+        "premiere": "3 марта 2018",
+        "age": "0",
+        "time": "4980",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWQyMWJjNzMtNmEzMC00YTg2LWE3MDYtYTBlMjk4MDY5YjM2XkEyXkFqcGdeQXVyMzI0MDE4OQ@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "18",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "185"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1024509",
+      "date": "1582098999",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Море сводит с ума",
+        "orig": "Blue My Mind",
+        "alter": "",
+        "year": "2017",
+        "country": "Швейцария",
+        "director": "Лиза Брюльманн",
+        "genre": "фэнтези,драма",
+        "actors": "Luna Wedler, Zoë Pastelle Holthuizen, Регула Граувилер, Georg Scharegg, Лу Хальтиннер, Yael Meier, David Oberholzer, Una Rusca, Timon Kiefer, Benjamin Dangel",
+        "description": "15-летняя Мия переводится в новую школу и сразу же старается подружиться с самыми крутыми, по её мнению, девчонками в классе. Когда её тело начинает меняться, Мия, не найдя поддержки у родителей и врачей, решает вести разгульную жизнь с новыми друзьями.",
+        "slogan": "",
+        "premiere": "24 сентября 2017",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1024509.jpg",
+        "rating": {
+          "rating_kp": "5.934",
+          "vote_num_kp": "374",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "2440"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1024222",
+      "date": "1582098995",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Психопаты",
+        "orig": "Psychedelic Psychopaths",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Tom Zarzecki",
+        "genre": "ужасы",
+        "actors": "Patrice Burton, Lucia Romero, Tom Zarzecki, Криспин Розенкранц, Masood Ahmad, Jonathan Arroya, Troy Canady, Jhonnatan Cano, Anthony Carrillo, Рэй Рэй Чейз",
+        "description": "Проведя оккультный ритуал, четыре друга стали замечать, что люди вокруг них начинают погибать. Однако отличить реальность от галлюцинаций оказывается не так просто, как хотелось бы.",
+        "slogan": "",
+        "premiere": "11 января 2019",
+        "age": "0",
+        "time": "4860",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmIwZjY5M2UtY2Q4OC00ZmJjLWFmMjQtYzA1M2YzOWE1NGZjXkEyXkFqcGdeQXVyMzY3ODY5MDA@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "8",
+          "rating_imdb": "3",
+          "vote_num_imdb": "26"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1023992",
       "date": "1582098992",
       "camrip": "0",
@@ -203,8 +448,8 @@
         "time": "5220",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1023329.jpg",
         "rating": {
-          "rating_kp": "5.239",
-          "vote_num_kp": "730",
+          "rating_kp": "5.333",
+          "vote_num_kp": "732",
           "rating_imdb": "5.7",
           "vote_num_imdb": "53"
         }
@@ -694,7 +939,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1021409.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "127",
+          "vote_num_kp": "128",
           "rating_imdb": "6.6",
           "vote_num_imdb": "958"
         }
@@ -799,9 +1044,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1021190.jpg",
         "rating": {
           "rating_kp": "4.841",
-          "vote_num_kp": "188",
+          "vote_num_kp": "189",
           "rating_imdb": "4.7",
-          "vote_num_imdb": "533"
+          "vote_num_imdb": "534"
         }
       }
     },
@@ -870,8 +1115,8 @@
         "rating": {
           "rating_kp": "0",
           "vote_num_kp": "66",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "727"
+          "rating_imdb": "4.1",
+          "vote_num_imdb": "728"
         }
       }
     },
@@ -1396,7 +1641,7 @@
           "rating_kp": "0",
           "vote_num_kp": "191",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "2648"
+          "vote_num_imdb": "2660"
         }
       }
     },
@@ -1502,251 +1747,6 @@
           "vote_num_kp": "72",
           "rating_imdb": "6",
           "vote_num_imdb": "1236"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1016025",
-      "date": "1582098874",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Байонет",
-        "orig": "Bayoneta",
-        "alter": "",
-        "year": "2018",
-        "country": "Мексика, Финляндия",
-        "director": "Кисса Террасас",
-        "genre": "драма",
-        "actors": "Бронтис Ходоровски, Мириам Бальдерас, Лаура Бирн, Ярмо Эско, Harrison Jones, Илкка Койвула, Dom Lamar, Луис Херардо Мендес, Йунас Саартамо, Вилле Виртанен",
-        "description": "Мигель &quot;Байонета&quot; Галиндез - боксер в отставке из Тихуаны, который живет в тесной квартире в Финляндии. Когда его будущее начинает расти, желание искупления привлекает его обратно на ринг.",
-        "slogan": "",
-        "premiere": "21 октября 2018",
-        "age": "0",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1016025.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "12",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "479"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1015967",
-      "date": "1582098872",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Интриго: Смерть автора",
-        "orig": "Intrigo: Death of an Author",
-        "alter": "",
-        "year": "2018",
-        "country": "Швеция, США, Германия",
-        "director": "Даниэль Альфредсон",
-        "genre": "триллер,детектив,драма,криминал",
-        "actors": "Бен Кингсли, Тува Новотны, Майкл Бирн, Вероника Феррес, Даниэла Лавендер, Бенно Фюрман, Аннамария Серда, Сандра Дикинсон, Джейсон Риддингтон, Эрик Йоханссон",
-        "description": "К переводчику Дэвиду попадает рукопись зарубежного автора, которую тот запретил издавать в оригинале незадолго до своего самоубийства. Дэвид обнаруживает связь между неопубликованным романом и собственным прошлым. Параллели становятся всё тревожнее, когда всплывает история о его жене, пропавшей без вести.",
-        "slogan": "",
-        "premiere": "11 октября 2018",
-        "age": "0",
-        "time": "6360",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYzViZTIzZGQtYmNmOS00MjRlLTliMWQtNWZhOWYxZTFiODBiXkEyXkFqcGdeQXVyMDg2ODAyMQ@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "97",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "691"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1015929",
-      "date": "1582098869",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "3 дня с Роми Шнайдер",
-        "orig": "3 Tage in Quiberon",
-        "alter": "",
-        "year": "2018",
-        "country": "Германия, Австрия, Франция",
-        "director": "Эмили Атеф",
-        "genre": "биография",
-        "actors": "Мари Баумер, Биргит Минихмайр, Чарли Хюбнер, Роберт Гвиздек, Дени Лаван, Ян Груэль, Кристофер Буххольц, Вики Крипс, Винсент Фюрик, Луи Байлак",
-        "description": "1981 год. Роми Шнайдер - актриса с мировым именем, чья карьера началась в 15 лет, - уединяется в фешенебельном отеле, чтобы избавиться от депрессии. Здесь, поддерживаемая близкой подругой, она дает свое последнее в жизни интервью для журнала «Штерн». Откровенный разговор с амбициозным журналистом раскрывает неожиданные стороны Роми Шнайдер. Эта ослепительная женщина, которую многие уже считали сломленной, оказалась полна страсти и надежд.",
-        "slogan": "",
-        "premiere": "19 февраля 2018",
-        "age": "16",
-        "time": "6900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1015929.jpg",
-        "rating": {
-          "rating_kp": "6.542",
-          "vote_num_kp": "588",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "1235"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1015924",
-      "date": "1582098867",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Папочка",
-        "orig": "Daddy Issues",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Амара Кэш",
-        "genre": "драма",
-        "actors": "Мэдисон Лоулор, Монтана Мэннинг, Эндрю Пифко, Камала Джонс, Джоди Харрисон, Сет Кэссел, Монте Маркэм, Ронни Дж. Кларк, Lissa Danshaw, J.J. Hawkins",
-        "description": "Майя, квир-художница, влюбляется до беспамятства в сексуальную модницу Жасмин. Ничего не предвещает беды, пока Майя не узнаёт о страстных отношениях Жасмин с её тайным папочкой.",
-        "slogan": "Follow your dreams or they'll chase you forever",
-        "premiere": "14 июля 2018",
-        "age": "0",
-        "time": "4860",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1015924.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "58",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "663"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1015802",
-      "date": "1582098865",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Между нами, девочками",
-        "orig": "Qualcosa di nuovo",
-        "alter": "",
-        "year": "2016",
-        "country": "Италия",
-        "director": "Кристина Коменчини",
-        "genre": "комедия",
-        "actors": "Паола Кортеллези, Микаэла Рамаццотти, Эдуардо Вальдарнини, Элеонора Данко, Клаудио Паллитто, Массимилиано Росси, Кьяра Скалисе",
-        "description": "Лучия и Мария дружат со школы. Они разные настолько, что не могут друг без друга. Лучия - правильная и строгая, Мария - яркая и позитивная. И в отношениях с мужчинами то же: Лучия поставила крест на личной жизни после неудачного замужества, а Мария готова пустить в свою постель первого встречного. Все меняется, когда в жизни подруг появляется 19-летний Лука. Картина раскрывает все грани женской дружбы, переворачивая с ног на голову привычный ход вещей.",
-        "slogan": "О чем говорят женщины?",
-        "premiere": "13 октября 2016",
-        "age": "16",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1015802.jpg",
-        "rating": {
-          "rating_kp": "6.059",
-          "vote_num_kp": "1052",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "529"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1015796",
-      "date": "1582098864",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Фарисей",
-        "orig": "Pharisee",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Tim Novotny",
-        "genre": "ужасы",
-        "actors": "Theresa Byron, Джеймс Л. Эдвардс, Дерек Талиб, John Maslowski, Kevin Winstead, Ron George, Бенни Бензино, Джордан Грейтак, Tim Hale, Richard Phillis",
-        "description": "В городе начали пропадать люди. Виной тому одинокий вампир Фарисей. Вместе с Зои, проституткой с непростым прошлым, он пытается снова обрести смысл жизни.",
-        "slogan": "Love is for suckers",
-        "premiere": "30 сентября 2018",
-        "age": "0",
-        "time": "7200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1015796.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "28",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "35"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1015614",
-      "date": "1582098861",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Жизнеобеспечение",
-        "orig": "3 Days with Dad",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Ларри Кларк",
-        "genre": "комедия",
-        "actors": "Джули Энн Эмери, Лесли Энн Уоррен, Дж.К. Симмонс, Брайан Деннехи, Эми Ландекер, Дэвид Кокнер, Джон Грайз, Сэм Трэммелл, Том Арнольд, Майк О’Мэлли",
-        "description": "Семья убежденных католиков Миллсов готовится к смерти своего престарелого отца Боба. Он еще жив, но диагноз безнадежен, и времени осталось немного. Место Боба должен занять его сын Эдди, который не готов к ответственности. Особенно, когда дело касается его отношений с мачехой и неизбежного вопроса, кто в нужный момент отключит отца от аппарата жизнеобеспечения.",
-        "slogan": "",
-        "premiere": "13 сентября 2019",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjU0MTY2MTctMTgyNS00ZjkxLWEzNDEtYmE5ZWI2MGFhMWJmXkEyXkFqcGdeQXVyMTg0MTI3Mg@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "15",
-          "rating_imdb": "4.1",
-          "vote_num_imdb": "199"
         }
       }
     }

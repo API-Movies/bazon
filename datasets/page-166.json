@@ -2,6 +2,333 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "766149",
+      "date": "1607608575",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "LostFilm",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Сосны",
+        "orig": "Wayward Pines",
+        "alter": "Уэйуорд Пайнс",
+        "year": "2015",
+        "country": "США",
+        "director": "Джефф Т. Томас, Зал Батманглидж, Тим Хантер",
+        "genre": "фантастика,триллер,детектив,драма",
+        "actors": "Мэтт Диллон, Шиван Фэллон, Тоби Джонс, Шаннин Соссамон, Хоуп Дэвис, Том Стивенс, Чарли Тахэн, Карла Гуджино, Мелисса Лео, Джейсон Патрик",
+        "description": "Агент секретной службы Итан Берк приезжает в пасторальный городок Уэйуорд Пайнс в Айдахо, чтобы найти двух пропавших фэбээровцев. Но расследование вместо ответов приносит лишь новые вопросы. Что же происходит в Уэйуорд Пайнс?",
+        "slogan": "A place to die for",
+        "premiere": "14 мая 2015",
+        "age": "18",
+        "time": "2640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_766149.jpg",
+        "rating": {
+          "rating_kp": "7.007",
+          "vote_num_kp": "17616",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "52649"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "40047",
+      "date": "1607608466",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Меня все еще зовут Троица",
+        "orig": "...continuavano a chiamarlo Trinità",
+        "alter": "",
+        "year": "1971",
+        "country": "Италия",
+        "director": "Энцо Барбони",
+        "genre": "комедия,вестерн",
+        "actors": "Теренс Хилл, Бад Спенсер, Янти Соммер, Энцо Тарашо, Гарри Кэри мл., Пупо Де Люка, Джессика Даблин, Дана Гиа, Эмилио Делле Пьяне, Энцо Фьермонте",
+        "description": "Братья клянутся своему умирающему отцу, что они станут настоящими «плохими парнями», но всегда будут заботиться друг о друге. Они выполняют обещание и примыкают к торговцам оружием, окопавшимся в небольшом монастыре.\r\n\r\nК сожалению, сами торговцы почему-то принимают Троицу и Бамбино за федеральных агентов и планируют их укокошить... А тем временем братья обнаруживают, что могут стать владельцами 50 тысяч долларов...",
+        "slogan": "Those Trinity Boys Are Back!",
+        "premiere": "21 октября 1971",
+        "age": "12",
+        "time": "7020",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_40047.jpg",
+        "rating": {
+          "rating_kp": "7.309",
+          "vote_num_kp": "1213",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "14799"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1017967",
+      "date": "1607607904",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Необыкновенная история на Рождество",
+        "orig": "The Man Who Invented Christmas",
+        "alter": "Человек, который изобрел Рождество",
+        "year": "2017",
+        "country": "Ирландия, Канада",
+        "director": "Бхарат Наллури",
+        "genre": "комедия,драма",
+        "actors": "Дэн Стивенс, Марк Шриер, Патрик Джозеф Бернс, Мириам Маргулис, Морфидд Кларк, Джастин Эдвардс, Козимо Фуско, Jasper Hughes Cotter, James Heffernan, Aleah Lennon",
+        "description": "После череды профессиональных неудач молодой писатель Чарльз Диккенс решает написать и на собственные средства выпустить «Рождественскую песнь».",
+        "slogan": "How Charles Dickens wrote 'A Christmas Carol' and created a tradition",
+        "premiere": "10 ноября 2017",
+        "age": "0",
+        "time": "6240",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1017967.jpg",
+        "rating": {
+          "rating_kp": "7.064",
+          "vote_num_kp": "4166",
+          "rating_imdb": "7",
+          "vote_num_imdb": "13807"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "915974",
+      "date": "1607607730",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Сын Иосифа",
+        "orig": "Le fils de Joseph",
+        "alter": "",
+        "year": "2016",
+        "country": "Франция,Бельгия",
+        "director": "Эжен Грин",
+        "genre": "драма",
+        "actors": "Виктор Эзенфис,Наташа Ренье,Фабрицио Ронджоне,Матьё Амальрик,Мария де Медейруш,Юлия Гро де Гаске,Жак Боннаффе,Кристель Про,Адриен Мишо,Louise Moaty",
+        "description": "15-летний Венсан не желает мучить крыс с одноклассниками и продавать сперму в интернете. Он живет с матерью и жаждет найти своего отца. А находит издателя со скверным характером.",
+        "slogan": "",
+        "premiere": "12 февраля 2016",
+        "age": "0",
+        "time": "6780",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_915974.jpg",
+        "rating": {
+          "rating_kp": "6.972",
+          "vote_num_kp": "189",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "790"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1174220",
+      "date": "1607604301",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Чёрный дрозд",
+        "orig": "Blackbird",
+        "alter": "",
+        "year": "2019",
+        "country": "США,Великобритания",
+        "director": "Роджер Мишелл",
+        "genre": "драма",
+        "actors": "Кейт Уинслет,Сэм Нил,Миа Васиковска,Рэйн Уилсон,Сьюзен Сарандон,Бекс Тейлор-Клаус,Линдси Дункан,Энсон Бун",
+        "description": "Они решили отметить Рождество… летом. Мать семейства, умирающая от неизлечимой болезни, в последний раз собирает дома всю семью. Но уйти из жизни она хочет на своих условиях. И все идет по плану, пока наружу не выходят давние противоречия, неразрешенные конфликты и семейные тайны.",
+        "slogan": "",
+        "premiere": "22 октября 2020",
+        "age": "18",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1174220.jpg",
+        "rating": {
+          "rating_kp": "6.438",
+          "vote_num_kp": "1145",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "2995"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "839355",
+      "date": "1607591571",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Астерикс: Земля Богов",
+        "orig": "Astérix: Le domaine des dieux",
+        "alter": "",
+        "year": "2014",
+        "country": "Франция, Бельгия",
+        "director": "Луи Клиши, Александр Астье",
+        "genre": "мультфильм,комедия,фэнтези,приключения",
+        "actors": "Роже Карель, Лоран Дойч, Лоран Лафитт, Александр Астье, Ален Шаба, Эли Семун, Жеральдин Накаш, Артюс де Пенгерн, Лионель Астье, Франсуа Морель",
+        "description": "Астерикс и его лучший друг Обеликс продолжают свою многолетнюю борьбу с Цезарем, который хочет наконец-то расправиться с неукротимыми галлами. Вокруг деревни Астерикса Цезарь приказывает построить новый Рим - Землю Богов. В галльской деревне хаос и смятение. Но Астерикс и Обеликс не сдаются!",
+        "slogan": "Самый громкий! Самый остроумный! Самый увлекательный!",
+        "premiere": "26 ноября 2014",
+        "age": "12",
+        "time": "4920",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_839355.jpg",
+        "rating": {
+          "rating_kp": "6.733",
+          "vote_num_kp": "18713",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "12669"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "13675",
+      "date": "1607591538",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDRip",
+      "translation": "Дубляж",
+      "max_qual": "480",
+      "info": {
+        "rus": "Танго втроем",
+        "orig": "Three to Tango",
+        "alter": "",
+        "year": "1999",
+        "country": "Австралия, США",
+        "director": "Дэймон Сантостефано",
+        "genre": "комедия,мелодрама",
+        "actors": "Мэттью Перри, Нив Кэмпбелл, Дилан МакДермотт, Оливер Платт, Силк Козарт, Джон К. МакГинли, Боб Бэлабан, Дебора Раш, Келли Роуэн, Рик Гомес",
+        "description": "Двое начинающих архитекторов борются за утверждение своего первого проекта. Их конкуренты, готовые на все, чтобы пробить свой вариант, обвиняют соперников... в нетрадиционной сексуальной ориентации! Финансирующий проект магнат с радостью принимает псевдо-геев: ему нужен безопасный присмотр за своей любовницей.\r\n\r\nК тому же, защитники прав геев и лесбиянок избирают их «однополой парой года»... Проект принят, известность (хотя и сомнительная) - обеспечена. Раскрыть обман - проиграть все. Но каково главному герою оставаться в этой роли, если он успел по уши влюбиться в девушку, за которой должен следить?",
+        "slogan": "All's fair in the war of love",
+        "premiere": "19 октября 1999",
+        "age": "16",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_13675.jpg",
+        "rating": {
+          "rating_kp": "6.998",
+          "vote_num_kp": "3829",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "18482"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "825923",
+      "date": "1607589744",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "NewStudio",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "13",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720
+        }
+      },
+      "info": {
+        "rus": "Посланники",
+        "orig": "The Messengers",
+        "alter": "",
+        "year": "2015",
+        "country": "США",
+        "director": "Дуан Кларк, Гай Норман Би, Джеймс Л. Конуэй",
+        "genre": "фантастика,детектив,драма",
+        "actors": "Шантель Ван Сантен, Диого Моргадо, Дж.Д. Пардо, Джоэл Кортни, Джон Флетчер, София Блэк-Д’Элиа, Анна Диоп, Крэйг Фрэнк, Madison Dellamea, Бриттани О’Грэйди",
+        "description": "Когда таинственный объект падает на Землю, несколько незнакомцев умирают от энергетического импульса - но затем просыпаются и узнают, что ответственны за предотвращение грядущего Апокалипсиса.",
+        "slogan": "",
+        "premiere": "17 апреля 2015",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_825923.jpg",
+        "rating": {
+          "rating_kp": "6.243",
+          "vote_num_kp": "1954",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "8800"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "823946",
       "date": "1607589679",
       "camrip": "0",
@@ -64,7 +391,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_693168.jpg",
         "rating": {
           "rating_kp": "6.768",
-          "vote_num_kp": "15257",
+          "vote_num_kp": "15259",
           "rating_imdb": "6.6",
           "vote_num_imdb": "33469"
         }
@@ -116,8 +443,8 @@
         "time": "1800",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_942390.jpg",
         "rating": {
-          "rating_kp": "6.102",
-          "vote_num_kp": "825",
+          "rating_kp": "6.107",
+          "vote_num_kp": "826",
           "rating_imdb": "7.1",
           "vote_num_imdb": "390"
         }
@@ -209,7 +536,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1438350.jpg",
         "rating": {
           "rating_kp": "6",
-          "vote_num_kp": "1322",
+          "vote_num_kp": "1334",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -678,7 +1005,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1272376.jpg",
         "rating": {
           "rating_kp": "6.535",
-          "vote_num_kp": "20953",
+          "vote_num_kp": "20957",
           "rating_imdb": "6",
           "vote_num_imdb": "81"
         }
@@ -762,9 +1089,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1309668.jpg",
         "rating": {
           "rating_kp": "6.886",
-          "vote_num_kp": "538",
+          "vote_num_kp": "542",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "3813"
+          "vote_num_imdb": "3842"
         }
       }
     },
@@ -813,7 +1140,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1324140.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "109",
+          "vote_num_kp": "110",
           "rating_imdb": "7.7",
           "vote_num_imdb": "3574"
         }
@@ -1200,7 +1527,7 @@
           "rating_kp": "6.862",
           "vote_num_kp": "1941",
           "rating_imdb": "7",
-          "vote_num_imdb": "15350"
+          "vote_num_imdb": "15357"
         }
       }
     },
@@ -1551,302 +1878,6 @@
           "vote_num_kp": "12",
           "rating_imdb": "4",
           "vote_num_imdb": "188"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1273065",
-      "date": "1607467024",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "LostFilm",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        }
-      },
-      "info": {
-        "rus": "Ромул",
-        "orig": "Romulus",
-        "alter": "",
-        "year": "2020",
-        "country": "Италия",
-        "director": "Микеле Альаикуе,Энрико Мария Артале,Маттео Ровере",
-        "genre": "история",
-        "actors": "Андреа Арканджели,Марианна Фонтана,Франческо Ди Наполи,Эмилио Де Марки,Simon Rizzoni,Джузеппе Скиллачи,Demetra Avincola,Алессандро Кремона,Federico Diust,Daniele Felici",
-        "description": "Действие разворачивается в VIII веке до нашей эры, в примитивном и жестоком мире, в котором судьба человека определяется беспощадной силой природы и волей вездесущих богов. В центре сюжета лежит история трех людей, решивших самим распорядиться своей жизнью, а не безропотно подчиниться судьбе.",
-        "slogan": "",
-        "premiere": "7 ноября 2020",
-        "age": "18",
-        "time": "3300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1273065.jpg",
-        "rating": {
-          "rating_kp": "6.892",
-          "vote_num_kp": "1851",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "1553"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1167022",
-      "date": "1607461209",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Добыча",
-        "orig": "Looted",
-        "alter": "",
-        "year": "2019",
-        "country": "Великобритания",
-        "director": "Rene van Pannevis",
-        "genre": "драма",
-        "actors": "Чарли Палмер Ротуэлл,Томас Тургус,Том Фишер,Моргана Полански,Anders Hayward,Стивен Уппал,Alan Carter,Janet Cowl,Gary Davison,Graham Saxon",
-        "description": "Роб балансирует между угоном автомобилей и заботой о своем умирающем отце. Но одно рискованное дело может испортить всю его жизнь.",
-        "slogan": "",
-        "premiere": "24 ноября 2019",
-        "age": "0",
-        "time": "5340",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYzU0ZDJlNTgtMTVhOC00NWYxLTkzOTQtZTcwYzQ1OTljMWJjXkEyXkFqcGdeQXVyMzAyMjUyMDI@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "183"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1447226",
-      "date": "1607460308",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Рождественский круиз",
-        "orig": "USS Christmas",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Стивен Р. Монро",
-        "genre": "мелодрама",
-        "actors": "Джен Лиллей,Тревор Донован,Барбара Нивен,Стефани Батлер,Бретт Райс,Валери Сью Лав,Эми ЛоЦицеро,Пол Тил,Ник Баста,Сильвия Джеффрис",
-        "description": "Мэдди, репортер Норфолкской газеты, отправляется в рождественский круиз, где встречает красивого офицера военно-морского флота и случайно находит тайну в корабельном архиве.",
-        "slogan": "",
-        "premiere": "28 ноября 2020",
-        "age": "0",
-        "time": "5040",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNjQxNWI0NTgtYzVmMS00ZWVkLWIzMWQtNzhlMjYyNDI4NDk5XkEyXkFqcGdeQXVyNTQ2NjI3NDQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "29",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "865"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1126779",
-      "date": "1607446806",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Наконец женился",
-        "orig": "Finalmente sposi",
-        "alter": "",
-        "year": "2018",
-        "country": "Италия",
-        "director": "Лелло Арена",
-        "genre": "комедия",
-        "actors": "Мелуд Мурад Бенамара,Чиро Черути,Paco De Rosa,Серджо Фришия,Enzo Iuppariello,Моника Лима,Нунциа Скьяно",
-        "description": "Энцо и Моника, после краткого периода популярности из-за участия в реалити-шоу, решают пожениться. Моника мечтает об идеальном браке: все должно быть особенным. Но особенные вещи часто бывают самыми дорогими.",
-        "slogan": "",
-        "premiere": "25 января 2018",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1126779.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "65"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1445486",
-      "date": "1607442315",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Рождество на пять звёзд",
-        "orig": "Five Star Christmas",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Кристи Уилл",
-        "genre": "мелодрама,комедия",
-        "actors": "Бетани Джои Ленц,Виктор Уэбстер,Роберт Уизден,Лаура Солтис,Джей Бразо,Grace Beedie,Блэр Пеннер,Барбара Патрик,Пола Шоу,Сара Эдмондсон",
-        "description": "Когда известный критик появляется на пороге гостиницы отца, семья Рэлстонов притворяется гостями, чтобы получить хорошую рецензию. Люси влюбляется в постояльца Джейка, но не может выдать тайну.",
-        "slogan": "",
-        "premiere": "27 ноября 2020",
-        "age": "0",
-        "time": "5040",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYTUzOGFmOTUtMTJlYS00Njg0LTliY2YtMjJiYWEzZTQxNDlkXkEyXkFqcGdeQXVyOTUyNjcyNA@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "58",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "1145"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1437060",
-      "date": "1607442308",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Рождество под звёздами",
-        "orig": "Christmas by Starlight",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Гари Йэтс",
-        "genre": "драма,мелодрама",
-        "actors": "Кимберли Састад,Пол Кэмпбелл,Даррен Мартенс,Брюс Доусон,Ребекка Стааб,Малкольм Стюарт,Кертис Мур,Джефф Рейс,Адриана О’Нил,Черисса Ричардс",
-        "description": "Уилл - наследник крупной корпорации, которая занимается строительством новых объектов. Его компания собирается снести несколько зданий в одном из районов Чикаго, в числе которых оказывается небольшое кафе под названием \"Старлайт\", где семья Энни вот уже четырнадцать лет подаёт лучшие в городе вафли. В это Рождество Энни намерена сделать всё, чтобы сохранить семейный бизнес.",
-        "slogan": "",
-        "premiere": "26 ноября 2020",
-        "age": "0",
-        "time": "5040",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNjI5ZjJkOTgtYThjMi00ZGVjLWJjZjEtYmY1MjhkNzM1Mzk0XkEyXkFqcGdeQXVyMjQ3NTEwMzE@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "32",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "1043"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1311423",
-      "date": "1607423405",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Сестра",
-        "orig": "Sestra",
-        "alter": "",
-        "year": "2019",
-        "country": "Болгария,Катар",
-        "director": "Svetla Tsotsorkova",
-        "genre": "драма",
-        "actors": "Monika Naydenova,Светла Янчева,Асен Блатечки,Elena Zamyarkova,Валентин Ганев,Иван Савов",
-        "description": "В небольшом болгарском городке мать и две ее дочери пытаются выжить. Младшая дочь часто выдумывает истории, чтобы сделать жизнь интереснее. В конце концов она невольно попадает в паутину собственной лжи.",
-        "slogan": "",
-        "premiere": "24 сентября 2019",
-        "age": "0",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1311423.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "17",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "131"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1235314",
-      "date": "1607409004",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Время года",
-        "orig": "Säsong",
-        "alter": "",
-        "year": "2019",
-        "country": "Швеция",
-        "director": "Джон Скуг",
-        "genre": "драма,приключения",
-        "actors": "Арон Скуг,Агнешка Подсядлик,Билли Астранд,Гитт Перссон,Гжегож Фалковски,Рольф Андерссон,Боссе Андерссон,Артур Краевский,Mateusz Wieclawek,Casper Neiiendam",
-        "description": "Фильм составлен из фрагментов жизни обитателей северной Скании. Одни представляют собой обычные истории, другие — почти мистические повествования. Некоторые герои привлекают к себе больше внимания, как, например, Беата — сезонная работница, впервые приехавшая в Швецию, или Аарон, вернувшийся в родные края с разбитым сердцем. Жизни действующих лиц постепенно сливаются в одно целое с пейзажем.",
-        "slogan": "",
-        "premiere": "30 января 2019",
-        "age": "0",
-        "time": "4260",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1235314.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "14",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "92"
         }
       }
     }

@@ -2,6 +2,251 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "932245",
+      "date": "1581974680",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Первенец",
+        "orig": "The First Born",
+        "alter": "",
+        "year": "2015",
+        "country": "США",
+        "director": "Roy Arwas",
+        "genre": "фантастика,короткометражка",
+        "actors": "Джонатан Кастиль, Nick Jermyn, Kevin Manning, Брэндон Уайт, Тесса Фаррелл",
+        "description": "После неудачной попытки ведущего био-инженера создать великолепное и послушное создания, ему всё же удаётся сгенерировать прототипную модель, но первый неудачный эксперимент всё же даёт о себе знать...",
+        "slogan": "",
+        "premiere": "3 августа 2015",
+        "age": "0",
+        "time": "420",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWIwNThlNjktNmQzOS00NWY4LWFhNzEtMzY5Y2JlOTM3MjE2XkEyXkFqcGdeQXVyMTM0MTM5ODM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "10"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "932168",
+      "date": "1581974677",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Икар: Видение",
+        "orig": "Icaros: A Vision",
+        "alter": "",
+        "year": "2016",
+        "country": "Перу, США",
+        "director": "Leonor Caraballo, Matteo Norzi",
+        "genre": "драма",
+        "actors": "Ана Сесилия Штиглиц, Филиппо Тими, Arturo Izquierdo, Кестенбетса, Lurdes Valles, Dominga Valles, Тейлор Мари Милтон, Disney Lopez, Lizeth Ariana Izquierdo López, Maria Arevalo",
+        "description": "Фильм снятый, как путешествие шамана, погруженный в психоактивное варево, исследует страх и судьбу разума в джунглях.",
+        "slogan": "",
+        "premiere": "16 апреля 2016",
+        "age": "0",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_932168.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "22",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "178"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "932085",
+      "date": "1581974675",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Подвал",
+        "orig": "The Basement",
+        "alter": "",
+        "year": "2017",
+        "country": "Венгрия, США, Великобритания",
+        "director": "Ласло Иллеш, Возо Зольтан Вег",
+        "genre": "ужасы",
+        "actors": "Кэролайн Бултон, Gergo Szekér, Ричард Б. Рифкин, Graham Kitchen, Shawn Clankie, Том Нгуйен, Марина Гера, Такач Залан, Золтан Фюле, Жольт Палль",
+        "description": "Группа иностранных студентов исследует заброшенный подвал в центре Будапешта, но внезапно их приключение превращается в кровавый триллер.",
+        "slogan": "",
+        "premiere": "28 апреля 2017",
+        "age": "0",
+        "time": "4920",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_932085.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "105",
+          "rating_imdb": "3.3",
+          "vote_num_imdb": "409"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "932063",
+      "date": "1581974673",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Сырое",
+        "orig": "Raw",
+        "alter": "",
+        "year": "2016",
+        "country": "Франция, Бельгия, Италия",
+        "director": "Джулия Дюкорно",
+        "genre": "ужасы,драма",
+        "actors": "Геренс Марилье, Элла Рамф, Рабах Наит Уфелла, Лоран Люка, Джоана Прейсс, Були Ланнерс, Марион Верну, Томас Мастин, Marouan Iddoub, Жан-Луи Сбий",
+        "description": "В одной ветеринарной школе есть традиция - проводить ритуал поедания сырого мяса. Молодая вегетарианка, пересилив себя, проходит это испытание и понимает, что не может сопротивляться растущему желанию есть сырое мясо.",
+        "slogan": "What are you hungry for?",
+        "premiere": "14 мая 2016",
+        "age": "18",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_932063.jpg",
+        "rating": {
+          "rating_kp": "6.281",
+          "vote_num_kp": "9461",
+          "rating_imdb": "7",
+          "vote_num_imdb": "62882"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "931620",
+      "date": "1581974668",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Полный провал",
+        "orig": "The Holy Fail",
+        "alter": "",
+        "year": "2018",
+        "country": "Ирландия, США",
+        "director": "Оуэн Дара",
+        "genre": "комедия",
+        "actors": "Оуэн Дара, Джессика Ланкастер, Stephen Wyley, Шон МакНалли, Кевин МакКормак, Máirín Prendergast, Фрэнк Прендергаст, Ричард Уоррен Бэйкер, Martin Blower, Ray Clifford",
+        "description": "Ирландская комедия повествует о четырех друзьях, которые решают ограбить сейф крайне вредного начальника, чтобы отомстить ему за то, что он грабит своих же подчиненных. И всё идёт как по маслу, пока на их пути не возникает проблема намного серьезнее, чем закон.",
+        "slogan": "You have to fight for love......and sometimes steal",
+        "premiere": "4 апреля 2019",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_931620.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "16",
+          "rating_imdb": "3.9",
+          "vote_num_imdb": "133"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "931593",
+      "date": "1581974667",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Связанные кровью",
+        "orig": "Oxalis",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Brian Gottlieb",
+        "genre": "фантастика",
+        "actors": "Эндрю В. Уолкер, Келли Пендиграфт, Дерек Уилсон, Джулиан Уэст, Aleksi Sefanov, Ирунгу Муту, West Walker, Жаклин Антарамиан, Джефф Корбетт, Yurika Foster",
+        "description": "В попытке поймать убийцу своего малолетнего сына, отец-миллионер решается на пугающий научный эксперимент, который приведёт к непредсказуемым последствиям для будущих поколений.",
+        "slogan": "",
+        "premiere": "8 февраля 2018",
+        "age": "0",
+        "time": "0",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_931593.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "20",
+          "rating_imdb": "3.6",
+          "vote_num_imdb": "110"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "931464",
+      "date": "1581974663",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Королева Голливудского бульвара",
+        "orig": "The Queen of Hollywood Blvd",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Орсон Обловитц",
+        "genre": "драма,криминал",
+        "actors": "Розмари Хохшилд, Ана Мулвой-Тен, Роджер Гуэнвёр Смит, Майкл Паркс, Элла Томас, Джон Линдстрём, Джон Скларофф, Орсон Обловитц, Криста Лэнг, Питер Лукас",
+        "description": "Горделивая шестидесятилетняя владелица стрип клуба в Лос Анджелесе попадает в неприятности из-за давнишнего долга перед мафией и оказывается в круговороте насилия и мести на задворках города ангелов.",
+        "slogan": "",
+        "premiere": "1 марта 2017",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_931464.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "29",
+          "rating_imdb": "5",
+          "vote_num_imdb": "232"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "931400",
       "date": "1581974660",
       "camrip": "0",
@@ -416,7 +661,7 @@
           "rating_kp": "4.458",
           "vote_num_kp": "180",
           "rating_imdb": "4.3",
-          "vote_num_imdb": "504"
+          "vote_num_imdb": "507"
         }
       }
     },
@@ -659,9 +904,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_928746.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "64",
+          "vote_num_kp": "65",
           "rating_imdb": "3.9",
-          "vote_num_imdb": "544"
+          "vote_num_imdb": "545"
         }
       }
     },
@@ -904,7 +1149,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_928192.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "164",
+          "vote_num_kp": "166",
           "rating_imdb": "2.7",
           "vote_num_imdb": "325"
         }
@@ -1184,7 +1429,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_927194.jpg",
         "rating": {
           "rating_kp": "5.658",
-          "vote_num_kp": "944",
+          "vote_num_kp": "945",
           "rating_imdb": "5.6",
           "vote_num_imdb": "7775"
         }
@@ -1502,251 +1747,6 @@
           "vote_num_kp": "812",
           "rating_imdb": "6.1",
           "vote_num_imdb": "3231"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "925396",
-      "date": "1581974494",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Дорогая сестра",
-        "orig": "Nong hak",
-        "alter": "",
-        "year": "2016",
-        "country": "Франция, Эстония, Лаос",
-        "director": "Мэтти До",
-        "genre": "ужасы,драма",
-        "actors": "Amphaiphun Phommapunya, Vilouna Phetmany, Тамбет Туйск, Manivanh Boulom, Yannawoutthi Chanthalungsy, Maluly Chanthalangsy, Brandon Hashimoto, Naliphone Siviengxay, Douangmany Soliphanh, Maneevone Chanthalungsy",
-        "description": "Простая девушка из лаосской деревни по имени Нок отправляется в столичный Вьентьян, чтобы стать сиделкой для богатой, но постепенно слепнущей кузины. По мере наступления слепоты сиделка начинает догадываться, что вместе с болезнью её хозяйка приобрела также и способность общаться с миром мертвых. И новый муж сестры - эстонский экспат Джаакоб - имеет к происходящему самое непосредственное отношение.",
-        "slogan": "",
-        "premiere": "25 сентября 2016",
-        "age": "0",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_925396.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "29",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "298"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "925140",
-      "date": "1581974488",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Лагерь «Манна»",
-        "orig": "Camp Manna",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Эрик Скотт Джонсон, Eric Machiela",
-        "genre": "комедия",
-        "actors": "Джимми Татро, Гэри Бьюзи, Джои Морган, Бретт Джонсон, Malie Mason, Уилл Клинджер, Раммел Чан, Бенжамин Чемберлен, Кевин Йон, Chad Mitchell Rodgers",
-        "description": "Ян Флетчер, неверующий, отправляется в христианский лагерь, где он вынужден участвовать в библейской тематической олимпиаде, известной как «Игры Бога».",
-        "slogan": "Prepare to Be Blessed",
-        "premiere": "5 июня 2018",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_925140.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "36",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "82"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "925037",
-      "date": "1581974487",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Налетчики",
-        "orig": "Marauders",
-        "alter": "",
-        "year": "2016",
-        "country": "Канада, США",
-        "director": "Стивен С. Миллер",
-        "genre": "боевик,триллер,детектив,криминал",
-        "actors": "Брюс Уиллис, Кристофер Мелони, Дэйв Батиста, Эдриан Гренье, Джонатон Шек, Лидия Халл, Тайлер Джон Олсон, Кристофер Роб Бауэн, Ричи Чэнс, Крис Хилл",
-        "description": "История об агенте ФБР, который нападает на след преступников, ограбивших банк и отдавших все украденные деньги на благотворительные нужды. Чем дальше продвигается расследование, тем больше главный герой убеждается в том, что у владельца банка имеются собственные секреты.",
-        "slogan": "The rich will pay",
-        "premiere": "1 июля 2016",
-        "age": "18",
-        "time": "6420",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_925037.jpg",
-        "rating": {
-          "rating_kp": "5.318",
-          "vote_num_kp": "5127",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "20873"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "924930",
-      "date": "1581974485",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Разум и машина",
-        "orig": "Mind and Machine",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Брок Хамфри",
-        "genre": "фантастика,триллер,криминал",
-        "actors": "Ариана Гуерра, Орайн Ланда, Sal Rastegar, Бобби Эрнандес, Кристофер Алваренга, Грант Хоубэйкер, Дестини Болдуин, Тиган Джей Бойд, Лиза Уилк, Джейк МакДермотт",
-        "description": "Действия фильма происходят в 2024 году, когда роботы-гуманоиды стали привычными для людей. Преступная организация перепрограммирует женщину-андроида, чтобы использовать ее, как наёмного убийцу.",
-        "slogan": "Programmed to feel. Trained to kill",
-        "premiere": "10 марта 2016",
-        "age": "0",
-        "time": "4200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_924930.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "58",
-          "rating_imdb": "3.1",
-          "vote_num_imdb": "195"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "924860",
-      "date": "1581974484",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Шестой раз",
-        "orig": "Kuudes kerta",
-        "alter": "",
-        "year": "2017",
-        "country": "Финляндия",
-        "director": "Маарит Лалли",
-        "genre": "комедия,мелодрама,драма",
-        "actors": "Пихла Виитала, Антти Луусуаниеми, Дик Идман, Arja Saijonmaa, Аннамайя Туокко, Эско Салминен, Sebastian Rejman, Минна Хаапкюля, Пааво Киннунен, Stig Rästa",
-        "description": "У Анники есть простое правило: не более пяти встреч с одним и тем же мужчиной, потому что на шестой раз, по её словам, могут появиться чувства. Но Рикки сбивает её с толку, и она теряет голову, погружаясь в водоворот страсти. Чем закончатся их свидания, куда заведут их желания, и есть ли между ними настоящая любовь?",
-        "slogan": "About a woman who could say yes, and a man who couldn't say no",
-        "premiere": "6 января 2017",
-        "age": "0",
-        "time": "6540",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_924860.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "46",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "411"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "924837",
-      "date": "1581974483",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "720",
-      "info": {
-        "rus": "Море в огне",
-        "orig": "Fuocoammare",
-        "alter": "",
-        "year": "2016",
-        "country": "Италия, Франция",
-        "director": "Джанфранко Рози",
-        "genre": "документальный",
-        "actors": "Самуэле Пучилло, Mattias Cucina, Самуэле Каруана, Pietro Bartolo, Giuseppe Fragapane, Maria Signorello, Francesco Paterna, Francesco Mannino, Maria Costa",
-        "description": "Размеренная жизнь на острове Лампедуза за последние десятилетия претерпела невероятные изменения. С давних времен соседи Самуэле жили морем, но вот уже 20 лет этот остров служит «вратами» в Европу, куда в поисках свободы и лучшей доли спешат сотни тысяч тех, кто бежит от войн, дискриминации, социальных потрясений и стремится к призрачному счастью в чужой стране.",
-        "slogan": "",
-        "premiere": "13 февраля 2016",
-        "age": "12",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_924837.jpg",
-        "rating": {
-          "rating_kp": "6.115",
-          "vote_num_kp": "943",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "5545"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "924780",
-      "date": "1581974480",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Мои демоны не гнушаются одиночества",
-        "orig": "Mis demonios nunca juraron soledad",
-        "alter": "",
-        "year": "2017",
-        "country": "Мексика",
-        "director": "Jorge Leyva",
-        "genre": "ужасы,триллер,вестерн",
-        "actors": "Мануэль Уриса, Хавьер Годино, Ноэ Эрнандес, Паулетта Эрнандес, Osvaldo Sanchez, Серхио Галиндо",
-        "description": "Мексика. 1854 год. В небольшой хижине, на границе с Аризоной, золотоискатель и его жена становятся жертвами таинственной демонической сущности.",
-        "slogan": "",
-        "premiere": "9 ноября 2017",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_924780.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "25",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "33"
         }
       }
     }

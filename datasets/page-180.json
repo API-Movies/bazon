@@ -2,6 +2,286 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1426696",
+      "date": "1605205805",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Отец. Солдат. Сын",
+        "orig": "Father Soldier Son",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Leslye Davis,Catrin Einhorn",
+        "genre": "документальный",
+        "actors": "Brian Eisch,Isaac Eisch,Joey Eisch,Роксанна Грегори",
+        "description": "Ранение американского солдата, отца-одиночки, в Афганистане сильно сказывается на мирной жизни его семьи.",
+        "slogan": "A Documentary 10 Years in the Making",
+        "premiere": "15 апреля 2020",
+        "age": "0",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1426696.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "11",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "798"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1402916",
+      "date": "1605204905",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Рождественское желание Чарли",
+        "orig": "Charlie's Christmas Wish",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Сью Энн Тейлор,Melissa Holt,Аарон Барский",
+        "genre": "драма,семейный",
+        "actors": "Дайан Лэдд,Ричард Тайсон,Линдси МакКеон,Вернон Уэллс,Тони Хадсон,Джон О’Харли,Эйден Тернер,Эмили Мари Палмер,Френсин Лок,Ethan Trace",
+        "description": "Ветеран Афганистана возвращается домой после долгой службы. Вместе с семьей ему предстоит привыкнуть к новой жизни. Но на Рождество сбываются все мечты, ведь так?",
+        "slogan": "Sometimes it takes a dog to help a vet find his true North",
+        "premiere": "2 ноября 2020",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1402916.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "6",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "61"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "601933",
+      "date": "1605204222",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Территория",
+        "orig": "Территория",
+        "alter": "",
+        "year": "2014",
+        "country": "Россия",
+        "director": "Александр Мельник",
+        "genre": "драма,приключения",
+        "actors": "Константин Лавроненко, Григорий Добрыгин, Егор Бероев, Ксения Кутепова, Евгений Цыганов, Владислав Абашин, Герасим Васильев, Константин Шелестун, Константин Балакирев, Олег Шапков",
+        "description": "Территория - это место, где люди проверяются на прочность. Необозримые пространства, где тундра встречается с ледяными торосами Ледовитого океана. Суровый русский север, которому способны бросить вызов немногие. Геолог Илья Чинков, одержимый идеей найти легендарное золото Территории, собирает команду смельчаков, готовых поставить на карту все, включая собственные жизни.",
+        "slogan": "",
+        "premiere": "25 июня 2015",
+        "age": "12",
+        "time": "9420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_601933.jpg",
+        "rating": {
+          "rating_kp": "7.023",
+          "vote_num_kp": "34705",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "980"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1039457",
+      "date": "1605200409",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Жесткое прошлое",
+        "orig": "The Bygone",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Грэм Филлипс,Паркер Филлипс",
+        "genre": "драма,криминал,детектив",
+        "actors": "Шон Хэтоси,Жаклин Тобони,Ирен Бедард,Джейми МакШейн,Грэм Филлипс,Ричи Костер,Грег Келли,Джералд Токала Клиффорд,Джо Херсли,Сидни Шафер",
+        "description": "Когда молодой владелец ранчо заводит отношения с девушкой из индейского племени Лакота, которая проживает на территории ближайшей резервации, её последующее таинственное исчезновение заставляет главного героя раскрывать душераздирающие детали своего прошлого и осознавать всю тяжесть этого бремени в будущем.",
+        "slogan": "",
+        "premiere": "8 июня 2019",
+        "age": "0",
+        "time": "6900",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1039457.jpg",
+        "rating": {
+          "rating_kp": "5.075",
+          "vote_num_kp": "194",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "1203"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "31831",
+      "date": "1605200161",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кошмар на улице Вязов 2: Месть Фредди",
+        "orig": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+        "alter": "",
+        "year": "1985",
+        "country": "США",
+        "director": "Джек Шолдер",
+        "genre": "ужасы",
+        "actors": "Марк Паттон, Ким Майерс, Роберт Раслер, Клу Гулагер, Хоуп Лэнг, Роберт Инглунд, Маршалл Белл, Мелинда О. Фи, Том МакФедден, Сидни Уолш",
+        "description": "Спустя пять лет в дом, где подростков преследовали кошмары с кровавым убийцей, въезжает новая семья, ничего не подозревающая о дурной славе этого коттеджа. Фрэдди Крюгер вновь возникает в снах юного Джесси Уэлма и пытается завладеть не только его мозгом, но и телом. Подружка Джесси, Лиза, надеется помочь ему избавиться от навязчивого видения. Замечательные спецэффекты и пиротехника обеспечили фильму кассовый успех.",
+        "slogan": "Someone is coming back to Elm Street!",
+        "premiere": "1 ноября 1985",
+        "age": "16",
+        "time": "5220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_31831.jpg",
+        "rating": {
+          "rating_kp": "6.58",
+          "vote_num_kp": "20578",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "62950"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "762778",
+      "date": "1605196894",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Барашек Шон",
+        "orig": "Shaun the Sheep Movie",
+        "alter": "",
+        "year": "2014",
+        "country": "Великобритания, Франция",
+        "director": "Марк Бертон, Ричард Старзак",
+        "genre": "мультфильм,комедия,фэнтези,приключения,семейный",
+        "actors": "Джастин Флетчер, Джон Шпаркс, Омид Джалили, Ричард Веббер, Кейт Харбор, Тим Хэндс, Энди Найман, Саймон Гринолл, Эмма Тейт, Джек Полсон",
+        "description": "Мирная жизнь маленькой овцефермы оказывается под угрозой, когда в результате очередной проказы неутомимого Барашка Шона хозяин фермы попадает в большой город. Вдоволь навеселившись полной свободой и безнаказанностью, Шон и остальное стадо барашков начинают волноваться за Фермера и решают отправиться на его спасение. Замаскировавшись под людей, они едут в большой город, где их ждет самое весёлое и эпическое приключение всей жизни.",
+        "slogan": "Бе-е-е-ежим в кино!",
+        "premiere": "24 января 2015",
+        "age": "0",
+        "time": "4860",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_762778.jpg",
+        "rating": {
+          "rating_kp": "7.39",
+          "vote_num_kp": "17732",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "38202"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "20941",
+      "date": "1605193201",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Двое в городе",
+        "orig": "Deux hommes dans la ville",
+        "alter": "",
+        "year": "1973",
+        "country": "Франция, Италия",
+        "director": "Жозе Джованни",
+        "genre": "драма,криминал",
+        "actors": "Жан Габен, Ален Делон, Мимзи Фармер, Виктор Лану, Сесиль Вассор, Илариа Оккини, Гуидо Альберти, Малка Рибовска, Кристина Фабрега, Жерар Депардье",
+        "description": "Немногословный, неустрашимый герой помогает бывшим преступникам. Не каждому из них под силу освоиться в новой жизни. Но он знает секреты людской психологии. Его подопечный удостоился внеочередной поддержки старшего друга, но у него остался непобедимый враг в полиции...",
+        "slogan": "",
+        "premiere": "25 октября 1973",
+        "age": "12",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_20941.jpg",
+        "rating": {
+          "rating_kp": "8.046",
+          "vote_num_kp": "4328",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "3988"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "668718",
+      "date": "1605193083",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Двое в городе",
+        "orig": "Two Men in Town",
+        "alter": "",
+        "year": "2014",
+        "country": "Франция, Бельгия, Алжир, США",
+        "director": "Рашид Бушареб",
+        "genre": "драма",
+        "actors": "Бренда Блетин, Форест Уитакер, Харви Кейтель, Эллен Бёрстин, Луис Гусман, Рег Э. Кэти, Тим Гини, Сара Минник, Долорес Эредия, Мэттью Пейдж",
+        "description": "Освобождённый из тюрьмы мусульманин заводит дружбу со своим полицейским надзирателем.",
+        "slogan": "One man's freedom is another man's obsession",
+        "premiere": "6 февраля 2014",
+        "age": "0",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_668718.jpg",
+        "rating": {
+          "rating_kp": "5.728",
+          "vote_num_kp": "308",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "2035"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1382067",
       "date": "1605192323",
       "camrip": "0",
@@ -98,10 +378,10 @@
         "time": "7800",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1316549.jpg",
         "rating": {
-          "rating_kp": "7.155",
-          "vote_num_kp": "1606",
+          "rating_kp": "7.161",
+          "vote_num_kp": "1614",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "226"
+          "vote_num_imdb": "227"
         }
       }
     },
@@ -367,7 +647,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_251934.jpg",
         "rating": {
           "rating_kp": "8.037",
-          "vote_num_kp": "1090",
+          "vote_num_kp": "1091",
           "rating_imdb": "8.5",
           "vote_num_imdb": "4106"
         }
@@ -673,9 +953,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_959502.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "181",
+          "vote_num_kp": "183",
           "rating_imdb": "4.2",
-          "vote_num_imdb": "301"
+          "vote_num_imdb": "302"
         }
       }
     },
@@ -707,8 +987,8 @@
         "time": "6720",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_41375.jpg",
         "rating": {
-          "rating_kp": "6.968",
-          "vote_num_kp": "1091",
+          "rating_kp": "6.965",
+          "vote_num_kp": "1094",
           "rating_imdb": "5.9",
           "vote_num_imdb": "92"
         }
@@ -743,7 +1023,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_787.jpg",
         "rating": {
           "rating_kp": "6.925",
-          "vote_num_kp": "10817",
+          "vote_num_kp": "10819",
           "rating_imdb": "6.8",
           "vote_num_imdb": "54860"
         }
@@ -918,7 +1198,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_102138.jpg",
         "rating": {
           "rating_kp": "6.972",
-          "vote_num_kp": "10729",
+          "vote_num_kp": "10730",
           "rating_imdb": "6.4",
           "vote_num_imdb": "20422"
         }
@@ -1058,7 +1338,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3084.jpg",
         "rating": {
           "rating_kp": "7.67",
-          "vote_num_kp": "1825",
+          "vote_num_kp": "1826",
           "rating_imdb": "7.6",
           "vote_num_imdb": "13973"
         }
@@ -1092,8 +1372,8 @@
         "time": "7800",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8349.jpg",
         "rating": {
-          "rating_kp": "7.514",
-          "vote_num_kp": "3981",
+          "rating_kp": "7.513",
+          "vote_num_kp": "3982",
           "rating_imdb": "7.6",
           "vote_num_imdb": "31977"
         }
@@ -1321,7 +1601,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_780306.jpg",
         "rating": {
           "rating_kp": "7.634",
-          "vote_num_kp": "28224",
+          "vote_num_kp": "28230",
           "rating_imdb": "6.7",
           "vote_num_imdb": "237"
         }
@@ -1566,328 +1846,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_575243.jpg",
         "rating": {
           "rating_kp": "6.322",
-          "vote_num_kp": "7208",
+          "vote_num_kp": "7213",
           "rating_imdb": "6.3",
           "vote_num_imdb": "47927"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1203090",
-      "date": "1605105025",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Лифхебберы",
-        "orig": "De liefhebbers",
-        "alter": "",
-        "year": "2019",
-        "country": "Нидерланды",
-        "director": "Анна ван дер Хайди",
-        "genre": "драма",
-        "actors": "Айко Бимстербер,Гай Клеменс,Rebecca de Nooijer,Юрген Делнат,Guido Den Broeder,Sanne-Samina Hanssen,Лиора Катс,Bas Keizer,Ерун Краббе,Тео Маассен",
-        "description": "Когда Лифхебберы узнают о тяжелой болезни отца семейства, им приходится столкнуться лицом к лицу со своими страхами, ошибками и сложными взаимоотношениями.",
-        "slogan": "",
-        "premiere": "10 октября 2019",
-        "age": "0",
-        "time": "5760",
-        "poster": "https://m.media-amazon.com/images/M/MV5BN2E2ZTNjZGYtMTcxNC00MjZmLTg4MDUtNDc5ZGY2YjgzYjQ4XkEyXkFqcGdeQXVyNDQzMTM4ODE@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "280"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1325574",
-      "date": "1605105013",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Спайс бойз",
-        "orig": "Спайс бойз",
-        "alter": "",
-        "year": "2020",
-        "country": "Беларусь",
-        "director": "Владимир Зинкевич",
-        "genre": "триллер,драма",
-        "actors": "Маргарита Аброськина,Александр Головин,Александр Тарасов,Владимир Аверьянов,Анна Андрусенко,Михаил Горевой,Владимир Сычев,Алексей Маслодудов,Андрей Олефиренко,Игорь Шугалеев",
-        "description": "Василиса приезжает в родной городок на свадьбу школьной подруги Инны. Жених с двумя друзьями за день до свадьбы организовывает незапланированный мальчишник в загородном доме. Инне это не нравится, и она едет к жениху выяснить отношения, Василиса решает поддержать подругу и сопровождает Инну. В ходе ссоры Василисе удается примирить молодоженов. Вечеринка набирает обороты, в разгар веселья парни употребляют спайс. Ребят накрывает волной галлюцинаций, и мир вокруг начинает утопать в кровавой пене.",
-        "slogan": "Ты и правда думаешь, что это не может произойти с тобой?",
-        "premiere": "22 октября 2020",
-        "age": "18",
-        "time": "6360",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1325574.jpg",
-        "rating": {
-          "rating_kp": "6.486",
-          "vote_num_kp": "5053",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "175"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1150738",
-      "date": "1605105009",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Тёмная пропасть",
-        "orig": "The Dark Divide",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Том Путнэм",
-        "genre": "драма,комедия,приключения",
-        "actors": "Дэвид Кросс,Дебра Мессинг,Дэвид Кокнер,Камерон Эспозито,Кимбирли Герреро,Гэри Фармер,Айанна Беркшир,Olivia Ritchie,Peyton Dilweg,Тони Дуп",
-        "description": "Основанный на реальных событиях, фильм рассказывает об одиночной экспедиции, предпринятой лепидоптерологом Робертом Пайлом в 1995-ом году в одну из самых диких и неизведанных территорий США.",
-        "slogan": "",
-        "premiere": "18 сентября 2020",
-        "age": "0",
-        "time": "6420",
-        "poster": "https://m.media-amazon.com/images/M/MV5BY2Y5MjE3ZTItOTY1Ny00OGMxLWFkMDAtZjgzZDExZTQ3MGFhXkEyXkFqcGdeQXVyNTE0NTc1Mg@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "18",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "301"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "681987",
-      "date": "1605099427",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Очень голодные игры",
-        "orig": "The Starving Games",
-        "alter": "",
-        "year": "2013",
-        "country": "США",
-        "director": "Джейсон Фридберг, Аарон Зельцер",
-        "genre": "комедия",
-        "actors": "Майара Уолш, Брэнт Догерти, Коди Кристиан, Александрия ДеБерри, Ник Гомес, Лорен Боулз, Дидрих Бадер, Джозеф Авиль, Эштон Ли, Элис Форд",
-        "description": "Храбрая девушка по имени Кантмисс Эвершот вызывается добровольцем для участия в «Играх за хавчик». Однако она даже предположить не могла, чем всё это закончится и кто будет сражаться вместе с ней.",
-        "slogan": "Этот фильм сожжёт ваши калории дотла",
-        "premiere": "31 октября 2013",
-        "age": "16",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_681987.jpg",
-        "rating": {
-          "rating_kp": "3.364",
-          "vote_num_kp": "14299",
-          "rating_imdb": "3.2",
-          "vote_num_imdb": "19407"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "54465",
-      "date": "1605092832",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Рождественская история Микки",
-        "orig": "Mickey's Christmas Carol",
-        "alter": "",
-        "year": "1983",
-        "country": "США",
-        "director": "Барни Мэттинсон, Ричард Рич",
-        "genre": "мультфильм,комедия,фэнтези,короткометражка,семейный",
-        "actors": "Алан Янг, Уэйн Оллвэйн, Хэл Смит, Уилл Райан, Эдди Кэрролл, Патриция Паррис, Дик Биллингсли, Кларенс Нэш, Tasos Kostis",
-        "description": "Римейк классической истории Чарльза Диккенса «Рождественская песня» в котором принимают участие все главные диснеевские персонажи (за исключением Плуто). В главной роли конечно же Микки Маус, до того целых 30 лет не появлявшийся на экране.",
-        "slogan": "He's back! Mickey Mouse - in his first new motion picture in 30 years...",
-        "premiere": "20 октября 1983",
-        "age": "0",
-        "time": "1560",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_54465.jpg",
-        "rating": {
-          "rating_kp": "7.756",
-          "vote_num_kp": "4603",
-          "rating_imdb": "8",
-          "vote_num_imdb": "11054"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "843559",
-      "date": "1605090008",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "HDTVRip",
-      "translation": "Baibako",
-      "max_qual": "720",
-      "last_season": "1",
-      "last_episode": "13",
-      "episodes": {
-        "1": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720,
-          "10": 720,
-          "11": 720,
-          "12": 720,
-          "13": 720
-        }
-      },
-      "info": {
-        "rus": "Олимп",
-        "orig": "Olympus",
-        "alter": "",
-        "year": "2015",
-        "country": "Великобритания, Канада",
-        "director": "Аманда Таппинг, Мартин Вуд, Ник Уиллинг",
-        "genre": "фэнтези",
-        "actors": "Том Йорк, Соня Кэссиди, Сонита Генри, Мэтт Фрюэр, Уэйн Барнс, Грэхэм Шилз, Софиа Локлин Херт, Кэс Анвар, Джон Эммет Трэйси, Алан С. Петерсон",
-        "description": "Несколько храбрых мужчин и женщин изгнали богов в потусторонний мир - место, названное Подземным Миром или Царством Аида. В 2015 г. до нашей эры один неопытный молодой человек отправляется спасать оракула храма Геи. Ему предстоит испытать любовь, предательство, разочарование и изгнание. Пройдя тяжелый путь, он превращается в безжалостного лидера, чету самим богам.",
-        "slogan": "",
-        "premiere": "2 апреля 2015",
-        "age": "0",
-        "time": "2760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843559.jpg",
-        "rating": {
-          "rating_kp": "4.609",
-          "vote_num_kp": "231",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "4972"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "891627",
-      "date": "1605089631",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "LostFilm",
-      "max_qual": "1080",
-      "last_season": "2",
-      "last_episode": "6",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080
-        }
-      },
-      "info": {
-        "rus": "Хроники Франкенштейна",
-        "orig": "The Frankenstein Chronicles",
-        "alter": "",
-        "year": "2015",
-        "country": "Великобритания",
-        "director": "Бенжамин Росс, Alex Gabassi",
-        "genre": "фэнтези,детектив,история,драма,криминал",
-        "actors": "Шон Бин, Ричи Кэмпелл, Том Уорд, Райан Сэмпсон, Эд Стоппард, Элуиз Смит, Ванесса Кирби, Frank Blake, Пол Кеннеди, Мейв Дермоди",
-        "description": "Инспектор полиции Джон Марлотт разыскивает маньяка, возомнившего себя Франкенштейном. Злодей воплощает действия книжного доктора в реальность - создает монстра из частей человеческих тел. Марлотт, обнаруживший одно из ужасных созданий убийцы, вынужден работать тайно и в одиночку бродить по Лондону 19-го века в поисках чудовища.",
-        "slogan": "",
-        "premiere": "11 ноября 2015",
-        "age": "18",
-        "time": "2880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_891627.jpg",
-        "rating": {
-          "rating_kp": "6.948",
-          "vote_num_kp": "1764",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "10378"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "44111",
-      "date": "1605089567",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Оригинал",
-      "max_qual": "480",
-      "info": {
-        "rus": "Дед Мороз и Серый волк",
-        "orig": "Дед Мороз и Серый волк",
-        "alter": "",
-        "year": "1978",
-        "country": "СССР",
-        "director": "Витольд Бордзиловский",
-        "genre": "мультфильм,короткометражка",
-        "actors": "Анатолий Папанов, Борис Владимиров, Георгий Вицин, Мария Виноградова, Маргарита Корабельникова, Ольга Громова",
-        "description": "Новогодние приключения Деда Мороза, Снегурочки и их веселой свиты. Дед Мороз помогает зайчатам избавиться от преследований злого волка и принести из леса чудесную новогоднюю елку.",
-        "slogan": "",
-        "premiere": "",
-        "age": "6",
-        "time": "1020",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44111.jpg",
-        "rating": {
-          "rating_kp": "8.009",
-          "vote_num_kp": "26849",
-          "rating_imdb": "7.7",
-          "vote_num_imdb": "270"
         }
       }
     }

@@ -2,6 +2,286 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "7112",
+      "date": "1594107905",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Молодой Шерлок Холмс",
+        "orig": "Young Sherlock Holmes",
+        "alter": "",
+        "year": "1985",
+        "country": "США",
+        "director": "Барри Левинсон",
+        "genre": "фэнтези,триллер,детектив,приключения",
+        "actors": "Николас Роу,Алан Кокс,Софи Уорд,Энтони Хиггинс,Сьюзен Флитвуд,Фредди Джонс,Найджел Сток,Роджер Эштон-Гриффитс,Эрл Роудс,Брайан Аултон",
+        "description": "В Лондоне происходит серия ужасных и таинственных убийств. Молодой Шерлок Холмс и его новый друг Ватсон приступают к расследованию своего самого первого, но невероятно запутанного и опасного дела...",
+        "slogan": "Before a lifetime of adventure, they had the adventure of a lifetime",
+        "premiere": "4 декабря 1985",
+        "age": "12",
+        "time": "6540",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmE0NTQ5ZjItN2MzNC00NjBhLTg0ZjYtYzFiMzFlMjhjNmNiXkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg",
+        "rating": {
+          "rating_kp": "6.875",
+          "vote_num_kp": "2357",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "19896"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1102365",
+      "date": "1594107905",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Код Красный",
+        "orig": "Red Joan",
+        "alter": "",
+        "year": "2018",
+        "country": "Великобритания",
+        "director": "Тревор Нанн",
+        "genre": "мелодрама,драма,биография",
+        "actors": "Джуди Денч, Софи Куксон, Стивен Кэмпбелл Мур, Том Хьюз, Фредди Гаминара, Лоуренс Спэллман, Тереза Србова, Бен Майлз, Робин Соанс, Кевин Фуллер",
+        "description": "Реальная история русской шпионки, которая предотвратила Третью мировую войну. Британская разведка долгие годы гонялась за ней, ее имя стало легендой, но о ее подвиге мы узнали только сейчас, когда был снят гриф секретности.",
+        "slogan": "Реальная история русской шпионки, предотвратившей Третью мировую войну",
+        "premiere": "7 сентября 2018",
+        "age": "18",
+        "time": "6060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1102365.jpg",
+        "rating": {
+          "rating_kp": "6.798",
+          "vote_num_kp": "10760",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "10297"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "66082",
+      "date": "1594107003",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кинолюбитель",
+        "orig": "Amator",
+        "alter": "",
+        "year": "1979",
+        "country": "Польша",
+        "director": "Кшиштоф Кесьлёвский",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Ежи Штур, Малгожата Забковска, Ева Покас, Стефан Чижевски, Ежи Новак, Тадеуш Брадецкий, Марек Литевка, Богуслав Собчук, Кшиштоф Занусси, Анджей Юрга",
+        "description": "После рождения ребенка Филип покупает 8-миллиметровую камеру и первые любительские опыты посвящает дочери. В маленьком фабричном городке киноманский порыв дилетанта-оператора не остается незамеченным, и вот уже Филип становится личным помощником местного партийного босса.\r\n\r\nС повышением по службе растет и слава любителя; только взгляд его на реальность через объектив становится все более неприятным и беспощадным и все менее устраивающим власть предержащих...",
+        "slogan": "",
+        "premiere": "16 ноября 1979",
+        "age": "16",
+        "time": "6720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_66082.jpg",
+        "rating": {
+          "rating_kp": "7.883",
+          "vote_num_kp": "2307",
+          "rating_imdb": "7.9",
+          "vote_num_imdb": "6628"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1197928",
+      "date": "1594080007",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Ветер",
+        "orig": "Meltem",
+        "alter": "",
+        "year": "2019",
+        "country": "Франция,Греция",
+        "director": "Basile Doganis",
+        "genre": "драма",
+        "actors": "Дафна Патакия,Рабах Наит Уфелла,Lamine Cissokho,Karam Al Kafri,Акис Сакеллариу,Федор Аткин,Koukoulis Konstantinos",
+        "description": "Через год после смерти матери Елена, молодая француженка с греческими корнями возвращается в дом на острове Лесбос, где она проводила в детстве лето. С ней поехали два друга, Нассим и Секу, два парня из пригорода, больше привыкшие к городским лавкам, чем к райским пляжам.",
+        "slogan": "",
+        "premiere": "13 марта 2019",
+        "age": "0",
+        "time": "5220",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2VlZjQwM2QtMGMxZi00M2E4LTljN2ItMDJkNTQwODk0MzcxXkEyXkFqcGdeQXVyNTc5OTMwOTQ@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "9",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "85"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1049670",
+      "date": "1594079114",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Минус на минус даёт плюс",
+        "orig": "Tian sheng bu dui",
+        "alter": "",
+        "year": "2017",
+        "country": "Китай",
+        "director": "Винсент Кок",
+        "genre": "мелодрама,комедия",
+        "actors": "Вик Чоу,Фиона Сит,Рональд Чэн,Джек Као,Майкл Чан,Тиень Ню,Yi-Hang He,Джеки Цай,Joy Sheng,Тай Бо",
+        "description": "Молодой парень наслаждается свободной жизнью. Деньги, поклонницы – что может быть лучше? Но все изменится, когда в его жизнь ураганом влетит эффектная и сексуальная красотка, подосланная его завистливым \"другом\"…",
+        "slogan": "",
+        "premiere": "10 ноября 2017",
+        "age": "0",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1049670.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "13",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "59"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1192599",
+      "date": "1594079109",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Мой парень на таблетках",
+        "orig": "My Boyfriend's Meds",
+        "alter": "",
+        "year": "2020",
+        "country": "Мексика",
+        "director": "Диего Каплан",
+        "genre": "комедия",
+        "actors": "Марко Антонио Агирре,Джейсон Александер,Pamela Almanza,Луис Арриета,Брайан Баумгартнер,Ана Белена,Хайме Камиль,Сандра Эчеверриа,Кевин Холт,Моника Уарте",
+        "description": "Джессика приглашает своего нового парня с собой на курорт, когда вдруг выясняется, что он забыл свои таблетки.",
+        "slogan": "Get Ready for One Crazy Trip",
+        "premiere": "14 февраля 2020",
+        "age": "16",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1192599.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "25",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "364"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1369385",
+      "date": "1594079105",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Птички Предместья",
+        "orig": "Scheme Birds",
+        "alter": "",
+        "year": "2019",
+        "country": "Швеция,Великобритания",
+        "director": "Ellen Fiske,Эллинор Халлин",
+        "genre": "документальный",
+        "actors": "",
+        "description": "Провокационная и захватывающая картина о социальных разочарованиях молодых шотландцев. Глазами юной Джеммы, будущей мамы, мы видим вымирающий индустриальный город. В месте, где ты «либо в залете, либо в пролете», Джемма находит моменты настоящей нежности.",
+        "slogan": "",
+        "premiere": "26 апреля 2019",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmUxMDQ0NmQtYTczMS00MjE5LWJmYjctYmU4Njk3YWNkMDgyXkEyXkFqcGdeQXVyNTM0NTU5Mg@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "20",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "369"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1310361",
+      "date": "1594075509",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Никто не будет спать",
+        "orig": "Ingen skal sove",
+        "alter": "",
+        "year": "2019",
+        "country": "Дания",
+        "director": "Christian Andersen",
+        "genre": "триллер",
+        "actors": "Ивонн Андерсен,Thomas Biehl,Louise Bonde,Jakob Schmidt Clausen,Andreas Bo Isaksen,Lasse Stage Jensen,Simon Kongsted,Maria Winther N&oslash;rgaard,Magnus Haugaard Petersen",
+        "description": "Мария и Йонас сбегают от уголовников и находят убежище на тихой загородной ферме, где живут люди, уставшие от города. Однако вскоре оказывается, что на ферме всё не так мирно, как кажется на первый взгляд.",
+        "slogan": "Survival is more than just instinct",
+        "premiere": "16 ноября 2019",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDE5ZDAxYmUtMDVkMS00YTI1LWE0YjctMzdlNTYzZTQ2MTE5XkEyXkFqcGdeQXVyOTk1MTMyMzE@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "35",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "66"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "917202",
       "date": "1594072805",
       "camrip": "0",
@@ -64,7 +344,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258010.jpg",
         "rating": {
           "rating_kp": "7.172",
-          "vote_num_kp": "4017",
+          "vote_num_kp": "4025",
           "rating_imdb": "7.4",
           "vote_num_imdb": "24"
         }
@@ -204,7 +484,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_56811.jpg",
         "rating": {
           "rating_kp": "7.941",
-          "vote_num_kp": "6200",
+          "vote_num_kp": "6203",
           "rating_imdb": "7.2",
           "vote_num_imdb": "883"
         }
@@ -238,8 +518,8 @@
         "time": "2700",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45214.jpg",
         "rating": {
-          "rating_kp": "8.171",
-          "vote_num_kp": "23681",
+          "rating_kp": "8.17",
+          "vote_num_kp": "23692",
           "rating_imdb": "7.9",
           "vote_num_imdb": "353"
         }
@@ -273,10 +553,10 @@
         "time": "5280",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1291065.jpg",
         "rating": {
-          "rating_kp": "7.259",
-          "vote_num_kp": "15706",
+          "rating_kp": "7.255",
+          "vote_num_kp": "15728",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "186"
+          "vote_num_imdb": "187"
         }
       }
     },
@@ -519,7 +799,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BZWRmZjMzYjEtYTE1MS00ZWNjLThjNDItZTg4YjdhMjE0MDc2XkEyXkFqcGdeQXVyOTA1NDE2NDM@.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "52",
+          "vote_num_kp": "53",
           "rating_imdb": "2.6",
           "vote_num_imdb": "177"
         }
@@ -800,9 +1080,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1032606.jpg",
         "rating": {
           "rating_kp": "8.116",
-          "vote_num_kp": "81874",
+          "vote_num_kp": "81967",
           "rating_imdb": "8.8",
-          "vote_num_imdb": "305425"
+          "vote_num_imdb": "305578"
         }
       }
     },
@@ -940,7 +1220,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_42115.jpg",
         "rating": {
           "rating_kp": "7.932",
-          "vote_num_kp": "19113",
+          "vote_num_kp": "19130",
           "rating_imdb": "7.5",
           "vote_num_imdb": "1283"
         }
@@ -1400,8 +1680,8 @@
         "time": "3000",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1007422.jpg",
         "rating": {
-          "rating_kp": "7.095",
-          "vote_num_kp": "1989",
+          "rating_kp": "7.083",
+          "vote_num_kp": "1991",
           "rating_imdb": "7.6",
           "vote_num_imdb": "12658"
         }
@@ -1522,9 +1802,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7104.jpg",
         "rating": {
           "rating_kp": "7.822",
-          "vote_num_kp": "3210",
+          "vote_num_kp": "3215",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "24580"
+          "vote_num_imdb": "24593"
         }
       }
     },
@@ -1592,289 +1872,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_518047.jpg",
         "rating": {
           "rating_kp": "4.258",
-          "vote_num_kp": "13773",
+          "vote_num_kp": "13776",
           "rating_imdb": "4",
           "vote_num_imdb": "25080"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1060215",
-      "date": "1593803707",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Это любовь",
-        "orig": "C`est ça l`amour",
-        "alter": "",
-        "year": "2018",
-        "country": "Франция,Бельгия",
-        "director": "Клер Бюргер",
-        "genre": "драма,комедия",
-        "actors": "Були Ланнерс,Justine Lacroix,Sarah Henochsberg,Cecile Remy-Boutang,Антония Буреси,C&eacute;lia Mayer,Lorenzo Demanget,Tiago Gandra,Laure Ballarin,Jean-Claude Acquaviva",
-        "description": "С тех пор как ушла жена, Марио вынужден сам вести хозяйство и заботиться о двух дочерях-подростках, что довольно непросто: младшая обижена на отца, так как считает его виновным в уходе матери, а старшая мечтает о независимости. Тем временем Марио ждет, когда его жена вернется домой.",
-        "slogan": "",
-        "premiere": "1 октября 2018",
-        "age": "0",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1060215.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "23",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "523"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "41010",
-      "date": "1593801005",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Оригинал",
-      "max_qual": "480",
-      "info": {
-        "rus": "Антикиллер",
-        "orig": "Антикиллер",
-        "alter": "",
-        "year": "2002",
-        "country": "Россия",
-        "director": "Егор Кончаловский",
-        "genre": "боевик,криминал",
-        "actors": "Гоша Куценко, Михаил Ульянов, Виктор Сухоруков, Евгений Сидихин, Сергей Векслер, Виктория Толстоганова, Александр Белявский, Валентин Голубенко, Иван Бортник, Вячеслав Разбегаев",
-        "description": "Майор Коренев, бывший сотрудник уголовного розыска, был несправедливо осужден. После освобождения герой возвращается в родной город, который захлестнула волна криминальных войн. Столкнувшись с преступным беспределом и гибелью друзей, Коренев решает навести порядок своими методами.",
-        "slogan": "Всё по справедливости...",
-        "premiere": "3 сентября 2003",
-        "age": "16",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_41010.jpg",
-        "rating": {
-          "rating_kp": "6.367",
-          "vote_num_kp": "22043",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "1528"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "300006",
-      "date": "1593789320",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Читай и рыдай",
-        "orig": "Read It and Weep",
-        "alter": "",
-        "year": "2006",
-        "country": "США",
-        "director": "Пол Хоэн",
-        "genre": "драма,комедия,семейный",
-        "actors": "Кей Панабэйкер,Даниэль Панабэйкер,Александра Кросни,Маркиза С. Браун,Эллисон Скальотти,Джейсон Долли,Чад Броски,Том Вирту,Конни Янг,Робин Райкер",
-        "description": "Джейми – милая интеллигентная студентка первого курса. Большую часть времени она проводит в мечтаниях, записывая их в свой дневник. Ее шансы попасть в «высшее общество» школы, в лучшем случае, невелики. Однако у нее есть секретное оружие: острая на язык и саркастичная alter ego по имени Изабелла, которая ходит по холлам и классам школы без тени неуверенности в себе. Она опережает всех врагов Джейми и завоевывает привязанность самого популярного парня в школе. Но жизнь Джейми круто меняется, когда однажды вместо сочинения она по ошибке сдает свой дневник – и учитель делает из него бестселлер...",
-        "slogan": "",
-        "premiere": "29 августа 2010",
-        "age": "6",
-        "time": "5040",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTQxOTg4MDMwNF5BMl5BanBnXkFtZTgwOTE5OTkwMzE@.jpg",
-        "rating": {
-          "rating_kp": "6.11",
-          "vote_num_kp": "1073",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "5214"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1296824",
-      "date": "1593783911",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Момо: монстр из Миссури",
-        "orig": "Momo: The Missouri Monster",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Сет Бридлав",
-        "genre": "документальный,ужасы,драма",
-        "actors": "Cliff Barackman,Lyle Blackburn,Ronald Breedlove,Amy Davies,Adam Duggan,James Bobo Fay,Sara Heddleston,Джанет Джей,Mark Matzke,Sue Matzke",
-        "description": "Летом 1972 года покрытое шерстью, трёхпалое существо бродило по лесам Стар Хилл неподалёку от Луизианы, наводя ужас на местных жителей и привлекая в город зевак и охотников за монстрами.",
-        "slogan": "There's something on Star Hill...",
-        "premiere": "20 сентября 2019",
-        "age": "0",
-        "time": "4920",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNGFhZjUyYWUtZGY3Zi00MzA1LWI1NGMtNDdhMTViOGZiMjAyXkEyXkFqcGdeQXVyNjA3NjM5Njc@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "11",
-          "rating_imdb": "3.9",
-          "vote_num_imdb": "109"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1200008",
-      "date": "1593780307",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Песня Ланг",
-        "orig": "Song Lang",
-        "alter": "",
-        "year": "2018",
-        "country": "Вьетнам",
-        "director": "Леон Ле",
-        "genre": "драма",
-        "actors": "Kim Chi,Isaac,Ву Т. Ле Тхи,Phuong Minh,Хюн Нгок,Bao Chau Nguyen,Тхи Кью Тринх Нгуйен,Lien Binh Phat,Ким Фонг,Huu Quoc",
-        "description": "История неожиданной дружбы, завязавшейся между выбивальщиком долгов и артистом Кайлыонг в Сайгоне девяностых годов.",
-        "slogan": "When art meets life",
-        "premiere": "16 августа 2018",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1200008.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "14",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "496"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "22173",
-      "date": "1593775808",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Техасская резня бензопилой 4: Новое поколение",
-        "orig": "The Return of the Texas Chainsaw Massacre",
-        "alter": "",
-        "year": "1994",
-        "country": "США",
-        "director": "Ким Хенкел",
-        "genre": "комедия,ужасы,триллер",
-        "actors": "Рене Зеллвегер, Мэттью МакКонахи, Роб Джекс, Тони Перенски, Джо Стивенс, Лиза Мари Ньюмайер, Джон Харрисон, Тайлер Коун, Джеймс Гэйл, Крис Килгор",
-        "description": "Все началось в 1973, когда маньяк с бензопилой терроризировал весь мир. Многие годы он молчал... И сейчас его пила взвыла снова!\r\n\r\nВ лесных дебрях незнакомцев поджидает семейка маньяков и психопатов - они не родственники, но составляют клан, объединенный общей страстью к разрушению, боли и смерти.",
-        "slogan": "He's back. You're dead",
-        "premiere": "7 октября 1994",
-        "age": "18",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_22173.jpg",
-        "rating": {
-          "rating_kp": "3.306",
-          "vote_num_kp": "3327",
-          "rating_imdb": "3.3",
-          "vote_num_imdb": "20540"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "21077",
-      "date": "1593775806",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Похороны в Берлине",
-        "orig": "Funeral in Berlin",
-        "alter": "",
-        "year": "1966",
-        "country": "Великобритания",
-        "director": "Гай Хэмилтон",
-        "genre": "триллер",
-        "actors": "Майкл Кейн,Пауль Хубшмид,Оскар Хомолка,Ева Ренци,Гай Доулмен,Хью Бёрден,Хайнц Шуберт,Вольфганг Фёльц,Томас Хольцман,Гюнтер Майснер",
-        "description": "В недавнем прошлом Палмер был настолько ловким аферистом и мошенником, что удостоился чести попасть вместо тюрьмы на службу Ее Величества. На этот раз его посылают в Западный Берлин на встречу с агентом КГБ полковником Стоком, в ведении которого, по неофициальным данным, находится советская агентура в Западной Германии.\r\n\r\nАгент британской разведки Джонни Волкан, старый знакомый Палмера по прошлым делишкам, работающий под прикрытием в Западном Берлине, сообщает, что матерый чекист желает дезертировать и провести остаток дней, выращивая розы в «капиталистическом раю». Палмер должен, убедившись в искренности перебежчика, обеспечить ему безопасный переход на Запад. Неожиданно на сцене появляется израильская разведка в лице роковой красотки Саманты.",
-        "slogan": "It was going to be a lovely funeral. Harry Palmer just hoped it wouldn't be his...",
-        "premiere": "22 декабря 1966",
-        "age": "16",
-        "time": "6120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_21077.jpg",
-        "rating": {
-          "rating_kp": "7.013",
-          "vote_num_kp": "426",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "6253"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "7106",
-      "date": "1593774910",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Папа",
-        "orig": "Dad",
-        "alter": "",
-        "year": "1989",
-        "country": "США",
-        "director": "Гари Дэвид Голдберг",
-        "genre": "драма,семейный,комедия",
-        "actors": "Джек Леммон,Тед Дэнсон,Олимпия Дукакис,Кэти Бейкер,Кевин Спейси,Итан Хоук,Закес Мокае,Дж.Т. Уолш,Питер Майкл Гец,Джон Аписелла",
-        "description": "Преуспевающий бизнесмен с Уолл-стрит Джон узнает о том, что его 75-летний отец Джейк при смерти. Джон возвращается в дом своих родителей и начинает ухаживать за пожилым отцом.\r\n\r\nНесмотря на то, что много лет назад Джон и Джейк пережили тяжелый разрыв, положивший конец их теплым отношениям, неожиданное воссоединение учит их заботиться друг о друге и понимать друг друга заново. И вскоре отец и сын становятся близки друг к другу как никогда раньше&#133;",
-        "slogan": "Sometimes the greatest man you ever meet... is the first one",
-        "premiere": "10 ноября 1989",
-        "age": "0",
-        "time": "7020",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7106.jpg",
-        "rating": {
-          "rating_kp": "6.946",
-          "vote_num_kp": "357",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "4647"
         }
       }
     }

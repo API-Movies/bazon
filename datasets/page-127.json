@@ -2,6 +2,286 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "47281",
+      "date": "1612746566",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Пустая клетка",
+        "orig": "The Naked Cage",
+        "alter": "",
+        "year": "1985",
+        "country": "США",
+        "director": "Пол Николас",
+        "genre": "боевик,триллер,драма,криминал",
+        "actors": "Шэри Шаттак,Энджел Томпкинс,Люсинда Кросби,Стэйси Шаффер,Кристина Уайтакер,Ник Бенедикт,Джон Терлески,Фэйт Минтон,Од Чарльз,Анджела Э. Гиббс",
+        "description": "Заключенную-афроамериканку, уснувшую ночью в прачечной, насилует охранник, после чего она совершает самоубийство — вешается. А затем тот же охранник в карцере пытается изнасиловать главную героиню...",
+        "slogan": "Raw violence and hot rage explode",
+        "premiere": "7 марта 1986",
+        "age": "18",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_47281.jpg",
+        "rating": {
+          "rating_kp": "5.773",
+          "vote_num_kp": "90",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "530"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1334533",
+      "date": "1612738806",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Слепая правда",
+        "orig": "Blind Truth",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Adrianna Bail,Wyatt Buckner",
+        "genre": "детектив",
+        "actors": "Ethan Anderson,Dave Arras,Michael Bail,Tristan Bail,Krissa Bowman,Adrianna Bail,Alexa Chiu,Noah Coyle,Jordan Curtis,Matthew Davey",
+        "description": "Одержимый смертью своего друга, агент ФБР выслеживает убийцу, вернувшегося к убийствам после двадцатипятилетнего перерыва.",
+        "slogan": "",
+        "premiere": "17 ноября 2019",
+        "age": "0",
+        "time": "6300",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTc2NjE1ZWUtMThmNC00MmY3LWJlNWMtZTc2MzBiMzMzMGZmXkEyXkFqcGdeQXVyNjQ0Mjc4ODA@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1395423",
+      "date": "1612737909",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Ассандира",
+        "orig": "Assandira",
+        "alter": "",
+        "year": "2020",
+        "country": "Италия",
+        "director": "Сальваторе Мереу",
+        "genre": "драма",
+        "actors": "Коррадо Джаннетти,Анна Кёниг,Гавино Ледда,Матиас Лир,Самуэле Мей,Alex Robinson,Jana Julia Roth,Марко Зукка",
+        "description": "Страшный пожар уничтожает известную в среде европейского агротуризма ферму Ассандира, затерянную в лесах Сардинии. Полиция пытается выяснить подробности у старого пастуха Костантино, одиноко бродящего под дождём посреди руин. Он только что потерял своего сына Марио, владельца фермы, погибшего в попытке остановить огонь. Он может лишиться внука, которого носит жена Марио, оставшаяся живой, но попавшая в больницу. Путаясь в показаниях и пускаясь в пространные воспоминания, Костантино медленно подводит к загадке пожара.",
+        "slogan": "",
+        "premiere": "6 сентября 2020",
+        "age": "0",
+        "time": "7560",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1395423.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "12",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "114"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1112558",
+      "date": "1612732929",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K WEB-DL",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Ложь",
+        "orig": "The Lie",
+        "alter": "Добро пожаловать в Блумхаус: Ложь / Welcome to the Blumhouse: The Lie",
+        "year": "2020",
+        "country": "США",
+        "director": "Вина Суд",
+        "genre": "триллер,драма",
+        "actors": "Питер Сарсгаард,Мирей Инос,Джои Кинг,Кэс Анвар,Патти Ким,Николас Ли,Девери Джейкобс,Даниэль Кайнд,Алан Ван Спрэнг,Родриго Фернандез-Столл",
+        "description": "Родители 15-летней Кайлы развелись и живут каждый своей личной жизнью, но она никак не может с этим смириться. Однажды по дороге в танцевальный кружок Кайла с отцом берутся подвезти её лучшую подругу Бритни. После происходит странный инцидент - Кайла утверждает, что столкнула Бритни с моста в холодную реку, и та пропала. Теперь напуганные родители будут делать всё возможное, чтобы скрыть этот факт и защитить дочь любой ценой.",
+        "slogan": "",
+        "premiere": "8 сентября 2018",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112558.jpg",
+        "rating": {
+          "rating_kp": "5.931",
+          "vote_num_kp": "3507",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "13403"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1311855",
+      "date": "1612728480",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K WEB-DL",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Ноктюрн",
+        "orig": "Nocturne",
+        "alter": "Добро пожаловать в Блумхаус: Ноктюрн / Welcome to the Blumhouse: Nocturne",
+        "year": "2020",
+        "country": "США",
+        "director": "Zu Quirke",
+        "genre": "ужасы,триллер,детектив",
+        "actors": "Сидни Свини,Жак Колимон,Ji Eun Hwang,Мэдисон Айсмен,Азия Джексон,Брэндон Кинер,Bryce McKinney,Джон Ротмен,Айвен Шоу,Стефон Фуллер",
+        "description": "Застенчивая студентка начинает затмевать в музыке свою более образованную и общительную сестру-близнеца, когда обнаруживает загадочную записную книжку, принадлежавшую недавно умершей однокласснице.",
+        "slogan": "",
+        "premiere": "13 октября 2020",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1311855.jpg",
+        "rating": {
+          "rating_kp": "5.816",
+          "vote_num_kp": "1155",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "6356"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "61455",
+      "date": "1612726131",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Миссия «Серенити»",
+        "orig": "Serenity",
+        "alter": "",
+        "year": "2005",
+        "country": "США",
+        "director": "Джосс Уидон",
+        "genre": "боевик,фантастика,триллер,приключения",
+        "actors": "Нэйтан Филлион, Джина Торрес, Алан Тьюдик, Морена Баккарин, Адам Болдуин, Джуэл Стэйт, Шон Маэр, Саммер Глау, Рон Гласс, Чиветель Эджиофор",
+        "description": "Космический «морской волк» и ветеран Гражданской Галактической войны Малькольм «Мэл» Рейнольдс - теперь всего лишь капитан транспортного корабля. Когда они взяли на борт пассажиров - молодого доктора и его странную сестру с телепатическими способностями, ни он, ни его товарищи не предполагали, в какую историю ввяжутся. Спасаясь сразу от нескольких могущественных врагов - и от военных сил тоталитарного Вселенского Альянса, и от ужасных каннибалов Жнецов, команда корабля даже не догадывалась, какая угроза скрывается на борту «Серенити».",
+        "slogan": "Хорошие, плохие, злые",
+        "premiere": "22 августа 2005",
+        "age": "16",
+        "time": "7140",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_61455.jpg",
+        "rating": {
+          "rating_kp": "7.231",
+          "vote_num_kp": "85188",
+          "rating_imdb": "7.8",
+          "vote_num_imdb": "286313"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "9653",
+      "date": "1612719005",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ночь пугала",
+        "orig": "Night of the Scarecrow",
+        "alter": "",
+        "year": "1995",
+        "country": "США",
+        "director": "Джефф Барр",
+        "genre": "ужасы,фантастика",
+        "actors": "Элизабет Барондес,Джон Месе,Стивен Рут,Брюс Гловер,Дирк Блокер,Ховард Суэйн,Гэри Локвуд,Джон Хоукс,Уильям Дж. Баркер,Мартин Бесвик",
+        "description": "Дух злого колдуна, казненного сотню лет назад, вселяется в пугало. Соломенное чучело отправляется на поиски магической книги, с помощью которой можно восстановить тело чародея. А всех представителей рода человеческого, встречающихся на пути, пугало уничтожает. В жестокости и разнообразии ему не откажешь. Кто-то будет распят, кого-то растерзают и утащат под землю мерзкие щупальца, кому-то зашьют рот ростки зловещих растений.",
+        "slogan": "A terrifying evil is about to be unleashed",
+        "premiere": "8 августа 1995",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9653.jpg",
+        "rating": {
+          "rating_kp": "5.922",
+          "vote_num_kp": "787",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "1077"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1230473",
+      "date": "1612715410",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Ковбойши против птеродактилей",
+        "orig": "Cowgirls vs. Pterodactyls",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Joshua Kennedy",
+        "genre": "боевик",
+        "actors": "Madelyn Wiley,Haley Zega,Carmen Vienhage,Дэни Томпсон,Мартин Бесвик,Jonathan Tamez,Stephanie Marie Baggett,Jairus Esparza,Julian Flores,Guillermo Ochoa",
+        "description": "Когда её мужа утаскивает не понятно откуда взявшийся на Диком Западе птеродактиль, благородная дама и учитель местной школы Ребекка Кроуфорд забывает благородные манеры и собирает группу отчаянных девушек-стрелков, чтобы отправиться на его поиски.",
+        "slogan": "",
+        "premiere": "22 января 2021",
+        "age": "0",
+        "time": "4380",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTBlNGQwYjktM2NhYS00OThiLTlmMDQtZjBhNzk1MGZlYjhlXkEyXkFqcGdeQXVyMzcxOTY0MTU@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": "2.5",
+          "vote_num_imdb": "163"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "34605",
       "date": "1612711856",
       "camrip": "0",
@@ -29,9 +309,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_34605.jpg",
         "rating": {
           "rating_kp": "5.08",
-          "vote_num_kp": "258",
+          "vote_num_kp": "259",
           "rating_imdb": "4.8",
-          "vote_num_imdb": "1927"
+          "vote_num_imdb": "1929"
         }
       }
     },
@@ -133,10 +413,10 @@
         "time": "7260",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_915140.jpg",
         "rating": {
-          "rating_kp": "7.128",
-          "vote_num_kp": "75393",
+          "rating_kp": "7.127",
+          "vote_num_kp": "75406",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "145651"
+          "vote_num_imdb": "145664"
         }
       }
     },
@@ -204,7 +484,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3942.jpg",
         "rating": {
           "rating_kp": "5.981",
-          "vote_num_kp": "271",
+          "vote_num_kp": "273",
           "rating_imdb": "5.4",
           "vote_num_imdb": "2463"
         }
@@ -274,9 +554,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_771793.jpg",
         "rating": {
           "rating_kp": "6.579",
-          "vote_num_kp": "25619",
+          "vote_num_kp": "25636",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "94262"
+          "vote_num_imdb": "94279"
         }
       }
     },
@@ -319,7 +599,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4333369.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "198",
+          "vote_num_kp": "199",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -356,7 +636,7 @@
           "rating_kp": "0",
           "vote_num_kp": "3",
           "rating_imdb": "4.3",
-          "vote_num_imdb": "247"
+          "vote_num_imdb": "275"
         }
       }
     },
@@ -496,7 +776,7 @@
           "rating_kp": "6.09",
           "vote_num_kp": "125",
           "rating_imdb": "6",
-          "vote_num_imdb": "1166"
+          "vote_num_imdb": "1169"
         }
       }
     },
@@ -529,9 +809,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_195334.jpg",
         "rating": {
           "rating_kp": "8.521",
-          "vote_num_kp": "514159",
+          "vote_num_kp": "514218",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "1220670"
+          "vote_num_imdb": "1220798"
         }
       }
     },
@@ -601,7 +881,7 @@
           "rating_kp": "7.789",
           "vote_num_kp": "20788",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "33017"
+          "vote_num_imdb": "33023"
         }
       }
     },
@@ -634,9 +914,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1401241.jpg",
         "rating": {
           "rating_kp": "3.554",
-          "vote_num_kp": "1014",
+          "vote_num_kp": "1015",
           "rating_imdb": "4.4",
-          "vote_num_imdb": "267"
+          "vote_num_imdb": "268"
         }
       }
     },
@@ -774,7 +1054,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BZjBjZjA4ZTctYWY2Mi00ZDlhLTlhMjMtMGEyMWNiNmQxNmRjXkEyXkFqcGdeQXVyMTIyNjg4OTk5.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "284",
+          "vote_num_kp": "286",
           "rating_imdb": "3.2",
           "vote_num_imdb": "216"
         }
@@ -844,7 +1124,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115563.jpg",
         "rating": {
           "rating_kp": "6.051",
-          "vote_num_kp": "1957",
+          "vote_num_kp": "1958",
           "rating_imdb": "6.3",
           "vote_num_imdb": "18477"
         }
@@ -913,10 +1193,10 @@
         "time": "5520",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1273044.jpg",
         "rating": {
-          "rating_kp": "3.951",
-          "vote_num_kp": "4228",
+          "rating_kp": "3.953",
+          "vote_num_kp": "4236",
           "rating_imdb": "3",
-          "vote_num_imdb": "8556"
+          "vote_num_imdb": "8574"
         }
       }
     },
@@ -1019,9 +1299,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_805092.jpg",
         "rating": {
           "rating_kp": "7.893",
-          "vote_num_kp": "28779",
+          "vote_num_kp": "28790",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "117310"
+          "vote_num_imdb": "117356"
         }
       }
     },
@@ -1210,9 +1490,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_326.jpg",
         "rating": {
           "rating_kp": "9.109",
-          "vote_num_kp": "767409",
+          "vote_num_kp": "767510",
           "rating_imdb": "9.3",
-          "vote_num_imdb": "2407221"
+          "vote_num_imdb": "2407612"
         }
       }
     },
@@ -1490,7 +1770,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45121.jpg",
         "rating": {
           "rating_kp": "7.581",
-          "vote_num_kp": "4569",
+          "vote_num_kp": "4573",
           "rating_imdb": "7.1",
           "vote_num_imdb": "212"
         }
@@ -1559,290 +1839,10 @@
         "time": "6000",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1331675.jpg",
         "rating": {
-          "rating_kp": "5.453",
-          "vote_num_kp": "4450",
+          "rating_kp": "5.452",
+          "vote_num_kp": "4453",
           "rating_imdb": "5.9",
           "vote_num_imdb": "18121"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "109044",
-      "date": "1612620679",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Вступая в контакт",
-        "orig": "Joey",
-        "alter": "Джои",
-        "year": "1985",
-        "country": "Германия (ФРГ), США",
-        "director": "Роланд Эммерих",
-        "genre": "боевик,ужасы,фантастика,фэнтези",
-        "actors": "Джошуа Морелл, Ева Крыль, Тэмми Шилдс, Ян Зиролд, Барбара Клейн, Матиас Краус, Джерри Холл, Шон Джонсон, Кристин Геббельс, Рэй Каселонис",
-        "description": "Подросток Джоуи тяжело переживал смерть отца. Однажды вечером, когда все игрушки в комнате Джоуи сами собой задвигались, загудели, завертелись, запрыгали, мальчик понял, что дух отца сообщает ему о своем существовании. Поэтому Джоуи нисколько не удивился, услышав в трубке игрушечного телефона такой родной и такой знакомый голос. Но мальчик не знал, что потусторонние силы, дав знать о себе, гораздо чаще являются носителями Зла, нежели стремятся помочь человеку...",
-        "slogan": "Only he can see it. Only he shares its magic. Only he knows the danger",
-        "premiere": "21 ноября 1985",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_109044.jpg",
-        "rating": {
-          "rating_kp": "4.842",
-          "vote_num_kp": "239",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "1341"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1236742",
-      "date": "1612618202",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дурная слава",
-        "orig": "Infamous",
-        "alter": "Печально известные",
-        "year": "2020",
-        "country": "США",
-        "director": "Джошуа Колдуэлл",
-        "genre": "криминал",
-        "actors": "Белла Торн,Мариса Кохлан,Эмбер Райли,Джейк Мэнли,Билли Блэр,Роберт Питерс,Пол Т. Тейлор,Майкл Сироу,Джои Оглсби,Дэймон Карни",
-        "description": "Двое подростков решили уехать из родного города. Путешествуя по Америке, они грабят магазины и выкладывают видео ограблений в сеть.",
-        "slogan": "",
-        "premiere": "12 июня 2020",
-        "age": "0",
-        "time": "6060",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMGVlOTNkNzItNDFlZi00ZGJmLWI1M2QtZmMzYzY3MzhmZmYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg",
-        "rating": {
-          "rating_kp": "5.194",
-          "vote_num_kp": "813",
-          "rating_imdb": "4.1",
-          "vote_num_imdb": "2376"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "397243",
-      "date": "1612617525",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Выживание мертвецов",
-        "orig": "Survival of the Dead",
-        "alter": "",
-        "year": "2009",
-        "country": "США, Канада",
-        "director": "Джордж А. Ромеро",
-        "genre": "боевик,ужасы",
-        "actors": "Алан Ван Спрэнг, Кеннет Уэлш, Кэтлин Манро, Ричард Фицпатрик, Афина Карканис, Стефано Коласитти, Девон Бостик, Джорис Джарски, Эрик Вулф, Джулиан Ричингс",
-        "description": "Обитатели идиллического островка у берегов Северной Америки подвергаются внезапной атаке зомби. Но отбиваясь от нежити, они, тем не менее, не теряют надежду отыскать средство, которое могло бы вернуть их превратившихся в зомби друзей и родственников в нормальное состояние.",
-        "slogan": "Survival isn't just for the living",
-        "premiere": "9 сентября 2009",
-        "age": "18",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_397243.jpg",
-        "rating": {
-          "rating_kp": "4.671",
-          "vote_num_kp": "2608",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "20539"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1300972",
-      "date": "1612611002",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Раскопки",
-        "orig": "The Dig",
-        "alter": "",
-        "year": "2021",
-        "country": "Великобритания",
-        "director": "Саймон Стоун",
-        "genre": "драма,биография,история",
-        "actors": "Кэри Маллиган,Рэйф Файнс,Лили Джеймс,Джонни Флинн,Бен Чаплин,Кен Стотт,Моника Долан,Аршер Али,Джо Херст,Крис Уилсон",
-        "description": "Вдова Эдит Претти подозревает, что на принадлежащей ей земле спрятаны сокровища. В попытке найти сокрытое она организовывает на территории археологические раскопки.",
-        "slogan": "",
-        "premiere": "29 января 2021",
-        "age": "18",
-        "time": "6720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1300972.jpg",
-        "rating": {
-          "rating_kp": "6.85",
-          "vote_num_kp": "2959",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "57214"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "9518",
-      "date": "1612610333",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Идеально",
-        "orig": "Perfect",
-        "alter": "",
-        "year": "1985",
-        "country": "США",
-        "director": "Джеймс Бриджес",
-        "genre": "драма,мелодрама",
-        "actors": "Джон Траволта,Джейми Ли Кёртис,Энн Де Сальво,Мэрилу Хеннер,Лорейн Ньюмен,Мэтью Рид,Джэнн Уэннер,Раме Эллис,Альма Бельтран,Перла Уолтер",
-        "description": "Бывшая олимпийская чемпионка по плаванию, которой в свое время сильно досталось от журналистов, работает инструктором по аэробике. За ней ухаживает журналист, он должен доказать, что достоин ее любви.",
-        "slogan": "John Travolta and Jamie Lee Curtis work up a sweat together!",
-        "premiere": "15 мая 1985",
-        "age": "0",
-        "time": "6900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9518.jpg",
-        "rating": {
-          "rating_kp": "6.014",
-          "vote_num_kp": "1383",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "4786"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "9606",
-      "date": "1612610065",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Маска",
-        "orig": "Mask",
-        "alter": "",
-        "year": "1985",
-        "country": "США",
-        "director": "Питер Богданович",
-        "genre": "драма,биография",
-        "actors": "Шер,Сэм Эллиотт,Эрик Столц,Эстель Гетти,Ричард А. Дайсарт,Лора Дерн,Миколе Миркурио,Гарри Кэри мл.,Деннис Бёркли,Лоуренс Моносон",
-        "description": "Рокки Деннис - шестнадцатилетний парень, страдающий редкой болезнью костей, превратившей его лицо в маску, чем-то похожую на львиную и вдвое больше обычного лица. Ко всему прочему, болезнь эта неизлечима. Но Рокки из той редкой породы людей, которые ставят на жизнь в любом положении. Рокки умен, наделен добрым, огромным сердцем, он не обозлен на мир, где при первом же взгляде, его ожидает насмешка или отвращение. Он прекрасно учится и легко добивается дружбы и уважения одноклассников. Живет он с матерью - хиппующей рокершей Расти, красивой, отвязной, любящей, пьющей, злоупотребляющей наркотиками, а остальные члены его семьи - это братья-рокеры из банды мотоциклистов, в которой выделяется обаятельный усатый красавец Гар, возможно, его отец.",
-        "slogan": "Neoclassica",
-        "premiere": "8 марта 1985",
-        "age": "16",
-        "time": "7200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9606.jpg",
-        "rating": {
-          "rating_kp": "7.81",
-          "vote_num_kp": "3873",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "26689"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1188124",
-      "date": "1612585805",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Да, бог, да",
-        "orig": "Yes, God, Yes",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Карен Мэйн",
-        "genre": "драма",
-        "actors": "Наталия Дайер,Кристиан Адам,Сьюзэн Блэкуэлл,Алиша Боэ,Донна Линн Чамплин,Myles Evans,Гавриэль Анн Фонтанилья,Zachary Forsythe,Габриэлла Гарсиа,Riley Hough",
-        "description": "Четырнадцатилетняя Элис всегда была примерной католичкой — до тех пор, пока в её жизни не появился невинный, на первый взгляд, интернет-чат. Переписка становилась всё пикантнее, и вскоре Элис поняла, что по-настоящему одержима сексом.",
-        "slogan": "",
-        "premiere": "8 марта 2019",
-        "age": "0",
-        "time": "4680",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1188124.jpg",
-        "rating": {
-          "rating_kp": "5.622",
-          "vote_num_kp": "4615",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "11824"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1929",
-      "date": "1612577976",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Звезда Плейбоя",
-        "orig": "Star 80",
-        "alter": "Звезда 80 / Звезда \"Плейбоя\"",
-        "year": "1983",
-        "country": "США,Германия (ФРГ)",
-        "director": "Боб Фосси",
-        "genre": "драма,биография",
-        "actors": "Мэриэл Хемингуэй,Эрик Робертс,Клифф Робертсон,Кэррол Бейкер,Роджер Рис,Дэвид Кленнон,Джош Мостел,Лиза Гордон,Сидни Миллер,Кит Хефнер",
-        "description": "Как коротка была яркая, но трагическая жизнь «звезды» журнального бизнеса Дороти Стрэттен — «лица обложки» Playboy-80, успевшей стать «девушкой американской мечты», но оказавшейся словно птицей, подстреленной на взлете.\r\n\r\nЭто реально произошедшая историю провинциальной школьницы, в мгновение ока превратившейся в «секс-бомбу», едва вкусившей плоды славы и уже готовившейся к карьере кинозвезды...",
-        "slogan": "",
-        "premiere": "30 марта 1983",
-        "age": "18",
-        "time": "6120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1929.jpg",
-        "rating": {
-          "rating_kp": "6.83",
-          "vote_num_kp": "575",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "5978"
         }
       }
     }

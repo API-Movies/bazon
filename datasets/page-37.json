@@ -2,6 +2,286 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "11853",
+      "date": "1619539806",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Лиловая равнина",
+        "orig": "The Purple Plain",
+        "alter": "",
+        "year": "1954",
+        "country": "Великобритания",
+        "director": "Роберт Пэрриш",
+        "genre": "боевик,драма,приключения,военный",
+        "actors": "Грегори Пек,Уин Мин Тан,Бренда Де Банзи,Бернард Ли,Морис Денэм,Линдон Брук,Энтони Бушнелл,Жозефин Гриффин,Рам Гопал,Дороти Элисон",
+        "description": "Пилот, переживший гибель любимой, долгое время ищет смерти в бою, подвергая опасности своих коллег. В надежде помочь ему обрести новый смысл жизни, доктор знакомит его с бирманской девушкой.",
+        "slogan": "HIS PEAK OF ADVENTURE!",
+        "premiere": "14 сентября 1954",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_11853.jpg",
+        "rating": {
+          "rating_kp": "6.554",
+          "vote_num_kp": "88",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "1946"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "10119",
+      "date": "1619536856",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Холм",
+        "orig": "The Hill",
+        "alter": "",
+        "year": "1965",
+        "country": "Великобритания",
+        "director": "Сидни Люмет",
+        "genre": "драма,военный",
+        "actors": "Шон Коннери,Гарри Эндрюс,Иэн Бэннен,Альфред Линч,Осси Дэвис,Рой Киннер,Джек Уотсон,Иэн Хендри,Майкл Редгрейв,Норман Бёрд",
+        "description": "Действие ленты разворачивается в британском дисциплинарном лагере, затерявшемся в африканской пустыне во времена Второй мировой войны.",
+        "slogan": "They went up like men! They came down like animals!",
+        "premiere": "22 мая 1965",
+        "age": "16",
+        "time": "7380",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_10119.jpg",
+        "rating": {
+          "rating_kp": "7.989",
+          "vote_num_kp": "1316",
+          "rating_imdb": "7.9",
+          "vote_num_imdb": "13063"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1284586",
+      "date": "1619536206",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Скажи мне, когда…",
+        "orig": "Dime Cuándo Tú",
+        "alter": "",
+        "year": "2020",
+        "country": "Мексика",
+        "director": "Херардо Гатика",
+        "genre": "комедия",
+        "actors": "Эктор Бонилья,Маноло Каро Серрано,Вероника Кастро,Габриэль Нунсио,Людвика Палета,Химена Ромо,Хосе Карлос Руис,Хосе Салоф,Juca Viapri,Хесус Савала",
+        "description": "Трудоголик Уилл бросает свою монотонную жизнь в Лос-Анджелесе, чтобы исполнить последнее желание дедушки — посетить достопримечательности Мехико и влюбиться.",
+        "slogan": "",
+        "premiere": "25 декабря 2020",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://thumbs.filmix.tech/posters/4408/orig/skazhi-mne-kogda-2020_150836.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "10",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "664"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "609417",
+      "date": "1619524820",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Кладбище",
+        "orig": "The Cemetery",
+        "alter": "",
+        "year": "2013",
+        "country": "США",
+        "director": "Адам Албрандт",
+        "genre": "ужасы",
+        "actors": "Дж.Д. Браун,Натали Жан,Адам Хасс,Тим Кронин,Табета Рэй,Билли Грэм,Роберто Ломбарди,Руби ЛаРокка,Victor Bonacore,Гордон Прайс",
+        "description": "Команда исследователей паранормальных явлений должны бороться за свою жизнь после того, как случайно выпустили демона из забытого кладбища.",
+        "slogan": "",
+        "premiere": "12 января 2013",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_609417.jpg",
+        "rating": {
+          "rating_kp": "3.137",
+          "vote_num_kp": "222",
+          "rating_imdb": "4",
+          "vote_num_imdb": "314"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1211600",
+      "date": "1619524727",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Великая Энди",
+        "orig": "Andie The Great",
+        "alter": "",
+        "year": "2017",
+        "country": "Ирландия",
+        "director": "Дэвид Лоуренс,Джош Ромин",
+        "genre": "драма,комедия",
+        "actors": "Жаклин Роббинс,Матрея Скаррвинер,Джессика Маклеод,Джойс Роббинс,Джорджия Браднер,Амеко Экс Масс Кэрролл,Алекс Барима,Анеша Бэйли,Taylor Kare,Фиби Миу",
+        "description": "После того, как Энди выгнали из университета, она возвращается к родителям и пытается найти свое место в мире.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "4380",
+        "poster": "https://thumbs.filmix.tech/posters/3814/orig/velikaya-endi-2017_150834.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "68"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "820701",
+      "date": "1619521201",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Отчаянный ход",
+        "orig": "The Last Full Measure",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Тодд Робинсон",
+        "genre": "драма,военный",
+        "actors": "Элисон Судол,Сэмюэл Л. Джексон,Кристофер Пламмер,Дайан Лэдд,Себастиан Стэн,Брэдли Уитфорд,Эд Харрис,Эми Мэдиган,Джереми Ирвин,Питер Фонда",
+        "description": "Военный медик Уильям Питсенбаргер в ходе специальной операции во время войны во Вьетнаме спас более 60 сослуживцев. Несмотря на героические действия, ему не был присуждён орден Почёта. 30 лет спустя работнику Пентагона поручают разобраться, почему награда не нашла героя. В ходе расследования он натыкается на заговор, покрывающий ошибку высшего руководства армии США.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "0",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_820701.jpg",
+        "rating": {
+          "rating_kp": "6.365",
+          "vote_num_kp": "1190",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "9189"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "849994",
+      "date": "1619520002",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Трумэн",
+        "orig": "Truman",
+        "alter": "",
+        "year": "2015",
+        "country": "Испания, Аргентина",
+        "director": "Сеск Гай",
+        "genre": "комедия,драма",
+        "actors": "Рикардо Дарин, Хавьер Камара, Долорес Фонци, Эдуард Фернандес, Тройло, Алекс Брендемюль, Педро Касабланк, Хосе Луис Гомес, Хавьер Гутьеррес, Эльвира Мингес",
+        "description": "К Хулиану неожиданно из Канады приезжает друг Томас после того, как узнаёт, что тот решает не продолжать борьбу с раком. Двое друзей, вместе с собакой Хулиана по кличке Трумэн, переживают четыре насыщенных дня.",
+        "slogan": "Best Friends Are Forever",
+        "premiere": "12 сентября 2015",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_849994.jpg",
+        "rating": {
+          "rating_kp": "6.524",
+          "vote_num_kp": "295",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "12265"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "784455",
+      "date": "1619519401",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Краденое свидание",
+        "orig": "Man Up",
+        "alter": "",
+        "year": "2015",
+        "country": "Великобритания, Франция",
+        "director": "Бен Палмер",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Лэйк Белл, Саймон Пегг, Рори Киннер, Оливия Уильямс, Офелия Ловибонд, Генри Ллойд-Хьюз, Шэрон Хорган, Стивен Кэмпбелл Мур, Дин-Чарльз Чепмен, Кен Стотт",
+        "description": "Одинокая женщина по ошибке попадает на свидание вслепую, которое помогает ей найти идеального бойфренда.",
+        "slogan": "То время, то место, не та девушка",
+        "premiere": "19 апреля 2015",
+        "age": "16",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_784455.jpg",
+        "rating": {
+          "rating_kp": "6.539",
+          "vote_num_kp": "10110",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "49778"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1211859",
       "date": "1619518801",
       "camrip": "0",
@@ -29,7 +309,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1211859.jpg",
         "rating": {
           "rating_kp": "6.658",
-          "vote_num_kp": "1215",
+          "vote_num_kp": "1217",
           "rating_imdb": "7.2",
           "vote_num_imdb": "22703"
         }
@@ -112,7 +392,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_586685.jpg",
         "rating": {
           "rating_kp": "8.122",
-          "vote_num_kp": "7130",
+          "vote_num_kp": "7133",
           "rating_imdb": "8",
           "vote_num_imdb": "33"
         }
@@ -191,7 +471,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4389698.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "31",
+          "vote_num_kp": "32",
           "rating_imdb": "6.2",
           "vote_num_imdb": "1025"
         }
@@ -226,7 +506,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1212116.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "28",
+          "vote_num_kp": "29",
           "rating_imdb": "3.3",
           "vote_num_imdb": "161"
         }
@@ -331,9 +611,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_667893.jpg",
         "rating": {
           "rating_kp": "4.877",
-          "vote_num_kp": "4928",
+          "vote_num_kp": "4976",
           "rating_imdb": "4.5",
-          "vote_num_imdb": "75"
+          "vote_num_imdb": "76"
         }
       }
     },
@@ -444,10 +724,10 @@
         "time": "7200",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1236515.jpg",
         "rating": {
-          "rating_kp": "7.359",
-          "vote_num_kp": "8576",
+          "rating_kp": "7.367",
+          "vote_num_kp": "8578",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "2371"
+          "vote_num_imdb": "2374"
         }
       }
     },
@@ -480,9 +760,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3447.jpg",
         "rating": {
           "rating_kp": "6.861",
-          "vote_num_kp": "74961",
+          "vote_num_kp": "74988",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "320385"
+          "vote_num_imdb": "320415"
         }
       }
     },
@@ -541,7 +821,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1402774.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "90",
+          "vote_num_kp": "91",
           "rating_imdb": "7.7",
           "vote_num_imdb": "255"
         }
@@ -681,9 +961,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_611822.jpg",
         "rating": {
           "rating_kp": "6.069",
-          "vote_num_kp": "80411",
+          "vote_num_kp": "80497",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "127528"
+          "vote_num_imdb": "127540"
         }
       }
     },
@@ -744,7 +1024,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_986620.jpg",
         "rating": {
           "rating_kp": "7.753",
-          "vote_num_kp": "815",
+          "vote_num_kp": "816",
           "rating_imdb": "8.2",
           "vote_num_imdb": "1168"
         }
@@ -814,9 +1094,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8164.jpg",
         "rating": {
           "rating_kp": "7.285",
-          "vote_num_kp": "32365",
+          "vote_num_kp": "32371",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "121798"
+          "vote_num_imdb": "121867"
         }
       }
     },
@@ -942,7 +1222,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1008496.jpg",
         "rating": {
           "rating_kp": "7.123",
-          "vote_num_kp": "2605",
+          "vote_num_kp": "2609",
           "rating_imdb": "7.6",
           "vote_num_imdb": "2097"
         }
@@ -977,7 +1257,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_271927.jpg",
         "rating": {
           "rating_kp": "7.665",
-          "vote_num_kp": "1179",
+          "vote_num_kp": "1180",
           "rating_imdb": "7.3",
           "vote_num_imdb": "5697"
         }
@@ -1187,7 +1467,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_896656.jpg",
         "rating": {
           "rating_kp": "6.333",
-          "vote_num_kp": "156",
+          "vote_num_kp": "157",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1833,7 +2113,7 @@
         "poster": "https://thumbs.filmix.tech/posters/4809/orig/nekrasivaya-2021_150758.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "197",
+          "vote_num_kp": "199",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1923,7 +2203,7 @@
         "poster": "https://thumbs.filmix.tech/posters/2652/orig/svadebnye-hlopoty-2021_150769.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "20",
+          "vote_num_kp": "21",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -2100,7 +2380,7 @@
           "rating_kp": "4.341",
           "vote_num_kp": "628",
           "rating_imdb": "3.7",
-          "vote_num_imdb": "1472"
+          "vote_num_imdb": "1477"
         }
       }
     },
@@ -2171,286 +2451,6 @@
           "vote_num_kp": "2",
           "rating_imdb": 0,
           "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "745501",
-      "date": "1619412488",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "iСтив",
-        "orig": "iSteve",
-        "alter": "",
-        "year": "2013",
-        "country": "США",
-        "director": "Райан Перез",
-        "genre": "комедия,биография",
-        "actors": "Джастин Лонг,Арт Эванс,Дзюдзо Ёсида,Брайан Хаски,Хорхе Гарсиа,Аллан МакЛеод,Эвин Дас,Ben Parks,Мадлен Вагер,Пол Уолтер Хаузер",
-        "description": "Биографический фильм о жизни Стива Джобса в комической форме.",
-        "slogan": "Think different",
-        "premiere": "15 апреля 2013",
-        "age": "0",
-        "time": "4740",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_745501.jpg",
-        "rating": {
-          "rating_kp": "4.679",
-          "vote_num_kp": "882",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "1124"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "702781",
-      "date": "1619412453",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Летняя ночь в Барселоне",
-        "orig": "Barcelona nit d'estiu",
-        "alter": "",
-        "year": "2013",
-        "country": "Испания",
-        "director": "Дани де ла Орден",
-        "genre": "драма,мелодрама,комедия",
-        "actors": "Франсеск Коломер,Хан Корнет,Жоан Дауза,Лаура де ла Исла,Мики Эспарбе,Сара Эспигуль,Луис Фернандес,Марк Гарсиа Коте,Марта Солер,Мар дель Ойо",
-        "description": "Ночью 18 августа 2013-го года темное небо Барселоны озарила комета Роза, пролетев над землей и погаснув навсегда. В ту же ночь между людьми вспыхивали новые чувства, а у других той же ночью они угасали. Воздух был полон шепотов страсти, нежности, любви и сдавленных слез. В ту ночь под небом прекрасной Барселоны разыгрались шесть любовных историй…",
-        "slogan": "",
-        "premiere": "10 апреля 2014",
-        "age": "16",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_702781.jpg",
-        "rating": {
-          "rating_kp": "6.057",
-          "vote_num_kp": "1544",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "1155"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "694026",
-      "date": "1619412425",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Номад: Начало",
-        "orig": "Nomad the Beginning",
-        "alter": "",
-        "year": "2013",
-        "country": "США",
-        "director": "Томас Диксон",
-        "genre": "фантастика,боевик",
-        "actors": "Клинт Гленн,Мария Асевес,Джошуа Дероше,Брантли Блэк,Джозиа Д. Ли,Винс Лозаньо,Майкл Мэдсен,Дженнифер О’Делл,Наташа Бласик,Chris DeMarco",
-        "description": "Люди из тайной организации, управляющей миром, проводят жуткий эксперимент: с помощью инопланетного гена, введенного человеку, они хотят создать расу рабов, которая будет беспрекословно подчиняться гуманоидам. Один из участников эксперимента выходит из повиновения и сбегает. Он хочет уничтожить главу организации, а помогает ему в этом некто Номад – его голос мужчина постоянно слышит в своей голове...",
-        "slogan": "They&#x27;re already here",
-        "premiere": "3 июля 2013",
-        "age": "16",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_694026.jpg",
-        "rating": {
-          "rating_kp": "3.428",
-          "vote_num_kp": "457",
-          "rating_imdb": "3",
-          "vote_num_imdb": "184"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "780545",
-      "date": "1619412398",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Дурман",
-        "orig": "Nasha",
-        "alter": "",
-        "year": "2013",
-        "country": "Индия",
-        "director": "Амит Сахена",
-        "genre": "триллер,драма",
-        "actors": "Пунам Пандей,Shivam Patil,Vishal Bhonsle,Мохит Чухан,Ranbir Chakma,Sheetal Singh,Rohan Khurana,Чираг Лобо,Tanuka Laghate,Никхил Десаи",
-        "description": "Группа подростков беззаботно проводят свое время в ожидании выпускных экзаменов. На летние каникулы дирекция школы приглашает Аниту, довольно привлекательную девушку, с целью основать драматический кружок и новая учительница мгновенно приковывает внимание ребят...",
-        "slogan": "",
-        "premiere": "26 июля 2013",
-        "age": "18",
-        "time": "7320",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_780545.jpg",
-        "rating": {
-          "rating_kp": "4.675",
-          "vote_num_kp": "94",
-          "rating_imdb": "3.2",
-          "vote_num_imdb": "1211"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "611686",
-      "date": "1619412347",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Спасение Линкольна",
-        "orig": "Saving Lincoln",
-        "alter": "",
-        "year": "2013",
-        "country": "США",
-        "director": "Сальвадор Литвак",
-        "genre": "биография",
-        "actors": "Том Амандес,Лиа Коко,Пенелопа Энн Миллер,Брюс Дэвисон,Крид Брэттон,Сайда Аррика Экулона,Джош Стэмберг,Роберт Крэйгхед,Лью Темпл,Майкл Мейзе",
-        "description": "Фильм основан на подлинной, но малоизвестной истории Уорда Хилла Леймона, бывшего телохранителем президента Авраама Линкольна.\r\n\r\nЛеймон охранял президента во время гражданской войны и сумел предотвратить несколько покушений на его жизнь. Он стал близким другом Линкольна. За несколько дней до 14 апреля 1865 года, когда Джон Уилкс Бут стрелял в Линкольна, Леймон уехал по поручению президента в штат Вирджиния.",
-        "slogan": "The true story of an epic friendship",
-        "premiere": "13 февраля 2013",
-        "age": "16",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_611686.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "55",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "327"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "693970",
-      "date": "1619412300",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Он ушел в воскресенье",
-        "orig": "Un beau dimanche",
-        "alter": "",
-        "year": "2013",
-        "country": "Франция",
-        "director": "Николь Гарсия",
-        "genre": "драма",
-        "actors": "Пьер Рошфор,Луиз Бургуан,Доминик Санда,Дебора Франсуа,Эрик Руф,Бенжамен Лаверн,Mathias Brezot,Оливье Лусто,Ванесса Лиоте,Жан-Пьер Мартен",
-        "description": "Батист работает учителем в школе на юге Франции. Однажды накануне выходных одного из его учеников, Матиаса, забывает забрать из школы его отец. Теперь Батисту приходится самостоятельно отвозить Матиаса к его матери Сандре, работающей на пляже в городке неподалёку. Очарованный красотой Сандры, Батист, узнавший о тяжёлом финансовом положении женщины, решает помочь ей. Но для этого ему придётся вновь вернуться к той жизни, которую он надеялся навсегда оставить в прошлом...",
-        "slogan": "",
-        "premiere": "8 сентября 2013",
-        "age": "16",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_693970.jpg",
-        "rating": {
-          "rating_kp": "5.972",
-          "vote_num_kp": "292",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "818"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "535313",
-      "date": "1619412237",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Перекрёсток",
-        "orig": "Intersections",
-        "alter": "",
-        "year": "2013",
-        "country": "Франция",
-        "director": "Дэвид Маркони",
-        "genre": "боевик,триллер,мелодрама",
-        "actors": "Фрэнк Грилло,Джейми Александер,Рошди Зем,Мари-Жозе Кроз,Мусса Мааскри,Чарли Бьюли,Аффиф Бен Бадра,Карлос Леаль,Габриэлла Райт,Абделила Надиф",
-        "description": "В центре сюжета молодая пара. Однако их брак не так уж безоблачен. У женщины есть любовник на стороне, и с его помощью она разрабатывает план убийства мужа. Но все идет наперекосяк, когда муж и его соперник оказываются вместе на марокканской пустынной дороге после автомобильной катастрофы.",
-        "slogan": "Their lives will never be the same",
-        "premiere": "30 января 2013",
-        "age": "0",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_535313.jpg",
-        "rating": {
-          "rating_kp": "6.456",
-          "vote_num_kp": "601",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "2952"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "769086",
-      "date": "1619412202",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Охотники",
-        "orig": "The Hunters",
-        "alter": "",
-        "year": "2013",
-        "country": "США",
-        "director": "Ниша Ганатра",
-        "genre": "фантастика,фэнтези,приключения",
-        "actors": "Виктор Гарбер,Мишель Форбс,Алекса ПенаВега,Робби Амелл,Кинэн Трэйси,Кира Клавелл,Дэррил Квон,Эрик Брекер,Дэн Пэйн,Алекс Захара",
-        "description": "Семейство археологов разыскивает спрятанные по всему миру артефакты из легенд.",
-        "slogan": "For centuries, a secret organization has protected the world&#x27;s greatest treasures. Meet the next generation",
-        "premiere": "25 октября 2013",
-        "age": "12",
-        "time": "5100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_769086.jpg",
-        "rating": {
-          "rating_kp": "5.523",
-          "vote_num_kp": "924",
-          "rating_imdb": "5",
-          "vote_num_imdb": "3760"
         }
       }
     }

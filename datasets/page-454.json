@@ -2,6 +2,265 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1009475",
+      "date": "1580823867",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Jaskier",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        }
+      },
+      "info": {
+        "rus": "Охота на Унабомбера",
+        "orig": "Manhunt: Unabomber",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Грег Яйтанс",
+        "genre": "драма,криминал",
+        "actors": "Сэм Уортингтон, Джереми Бобб, Бен Вебер, Крис Нот, Пол Беттани, Линн Коллинс, Мартин Фейген, Брайан Ф. О’Бирн, Киша Касл-Хьюз, Марк Дюпласс",
+        "description": "История противостояния офицера ФБР Джима Фицджеральда и опасного преступника Теодора Качински по прозвищу Унабомбер, рассылавшего по почте самодельные бомбы.",
+        "slogan": "",
+        "premiere": "1 августа 2017",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1009475.jpg",
+        "rating": {
+          "rating_kp": "7.636",
+          "vote_num_kp": "4351",
+          "rating_imdb": "8.1",
+          "vote_num_imdb": "53557"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1131523",
+      "date": "1580821789",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Во время войны",
+        "orig": "Mientras dure la guerra",
+        "alter": "",
+        "year": "2019",
+        "country": "Испания,Аргентина",
+        "director": "Алехандро Аменабар",
+        "genre": "драма,военный,история",
+        "actors": "Карра Элехальде,Эдуард Фернандес,Санти Прего,Натали Поса,Фернандо Вальверде,Луис Бермехо,Патриция Лопез,Инма Куэвас,Carlos Serrano-Clark,Луис Саера",
+        "description": "Действие фильма происходит летом 1936. В центре внимания две фигуры – ученый, философ, писатель, университетский профессор Мигель де Унамуно и сомневающийся, не слишком уверенный в себе, боящийся сделать неверный шаг военный по имени Пако, впоследствии ставший известным миру как генерал Франко.",
+        "slogan": "Sometimes silence is the worst lie",
+        "premiere": "6 сентября 2019",
+        "age": "0",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1131523.jpg",
+        "rating": {
+          "rating_kp": "5.966",
+          "vote_num_kp": "134",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "5409"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1226802",
+      "date": "1580814163",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Легионы",
+        "orig": "Legiony",
+        "alter": "",
+        "year": "2019",
+        "country": "Польша",
+        "director": "Дариуш Гаевский",
+        "genre": "военный,драма,мелодрама,история",
+        "actors": "Себастьян Фабияньский,Бартош Гельнер,Wiktoria Wolanska,Мирослав Бака,Ян Фрыч,Гжегож Малецкий,Борис Шиц,Энтони Павлицкий,Пётр Цирвус,Модест Руциньски",
+        "description": "Эта история о вступлении во взрослую жизнь в трудные времена и о взрослении в обществе. Идет первая мировая война, Йозек, дезертир из царской армии, присоединился к легионам и попал в любовный треугольник. Выживет ли он в обеих войнах?",
+        "slogan": "Warto kochac. Warto marzyc. Warto walczyc",
+        "premiere": "16 сентября 2019",
+        "age": "0",
+        "time": "8400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1226802.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "74",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "447"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "900892",
+      "date": "1580813964",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Острый перец в Шимле",
+        "orig": "Shimla Mirchi",
+        "alter": "",
+        "year": "2020",
+        "country": "Индия",
+        "director": "Рамеш Сиппи",
+        "genre": "комедия",
+        "actors": "Раджкумар Рао,Ракул Прит Сингх,Шакти Капур,Канвалджит Сингх,Tarun Wadhwa,Камлеш Гилл,Nita Mohindra,Priya Raina,Zoya Khan,Kamal Sharma",
+        "description": "Ави влюбился и остался в городе, куда приехал отдыхать. Он не может сказать девушке о своих чувствах в лицо, поэтому пишет ей письмо. Но, вопреки всем ожиданиям, девушка использует это письмо, чтобы повысить самооценку матери, заставляя ее думать, что у нее появился тайный поклонник.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "0",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjk3MzFkOGUtMDY4Ny00NzljLTliN2UtZGRhOGUxMTViYTc2XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_SY1000_CR0,0,691,1000_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "37",
+          "rating_imdb": "4.6",
+          "vote_num_imdb": "1310"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1072308",
+      "date": "1580813862",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Похищение Энджи",
+        "orig": "Abduction of Angie",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Дэнни Дж. Бойл",
+        "genre": "триллер,драма,криминал",
+        "actors": "Тамара Браун,Паула Кристенсен,Francis Lloyd Corby,Джозеф Калп,Ричард Дойл,Тесса Эспинола,Лаура Гарднер,Джим Джепсон,Malia Kain,Mark Schaefer",
+        "description": "Семилетнюю Энджи похищает ее дедушка, только что вышедший из тюрьмы. Хоть он и не угражает Энджи физически, Люк невероятно опасен, ведь он убивал в прошлом. Он готов пойти на все, чтобы вновь воссоединить свою семью. Чтобы спасти дочь, Миранда раскрывает темные секреты из своего детства.",
+        "slogan": "",
+        "premiere": "24 сентября 2017",
+        "age": "0",
+        "time": "0",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072308.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "9",
+          "rating_imdb": "4.6",
+          "vote_num_imdb": "36"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1042095",
+      "date": "1580813690",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Кровавый рай",
+        "orig": "Blood Paradise",
+        "alter": "",
+        "year": "2018",
+        "country": "Швеция,США",
+        "director": "Патрик Фрохлих",
+        "genre": "ужасы,комедия,детектив",
+        "actors": "Andie Winter,Патрик Фрохлих,Christer Cavallius,Martina Novak,Бауэр,Rolf Brunnström,Ellinor Berglund,Lars Brunnström,Ingrid Hedström,Greta",
+        "description": "После того, как последний роман оказался не столь успешным, издатель отправляет писательницу в шведскую сельскую местность, чтобы вновь вдохновиться. Совершенно не имея понятия как вести себя в новом окружении, она узнает, насколько опасной может быть жизнь на ферме.",
+        "slogan": "Writing is a dying art",
+        "premiere": "12 ноября 2018",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1042095.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "16",
+          "rating_imdb": "4",
+          "vote_num_imdb": "174"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1064748",
+      "date": "1580749768",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Паваротти",
+        "orig": "Pavarotti",
+        "alter": "",
+        "year": "2019",
+        "country": "США,Великобритания,Франция,Италия",
+        "director": "Рон Ховард",
+        "genre": "документальный,биография,музыка",
+        "actors": "Лучано Паваротти,Пласидо Доминго,Хосе Каррерас,Боно,Адуа Верони,Николетта Мантовани,Мэдлин Рене Монти,Харви Голдсмит,Andrea Griminelli,Анджела Георгиу",
+        "description": "Проделав долгий путь от сына простого пекаря до лучшего тенора в истории, он собирал до 500 тысяч зрителей и дважды попадал в книгу рекордов Гиннеса. Лучано Паваротти по сей день символизирует недосягаемую высоту не только в искусстве, но и в стремлении сделать жизни людей по всему миру лучше.",
+        "slogan": "Голос. Человек. Судьба. Легенда",
+        "premiere": "4 июня 2019",
+        "age": "16",
+        "time": "6840",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1064748.jpg",
+        "rating": {
+          "rating_kp": "7.897",
+          "vote_num_kp": "990",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "2893"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "921496",
       "date": "1580748276",
       "camrip": "0",
@@ -238,10 +497,10 @@
         "time": "0",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_20808.jpg",
         "rating": {
-          "rating_kp": "4.229",
-          "vote_num_kp": "419",
+          "rating_kp": "4.231",
+          "vote_num_kp": "421",
           "rating_imdb": "3.9",
-          "vote_num_imdb": "2373"
+          "vote_num_imdb": "2377"
         }
       }
     },
@@ -309,9 +568,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8035.jpg",
         "rating": {
           "rating_kp": "7.438",
-          "vote_num_kp": "19732",
+          "vote_num_kp": "19736",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "48686"
+          "vote_num_imdb": "48701"
         }
       }
     },
@@ -449,7 +708,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_23576.jpg",
         "rating": {
           "rating_kp": "6.274",
-          "vote_num_kp": "11642",
+          "vote_num_kp": "11644",
           "rating_imdb": "6.7",
           "vote_num_imdb": "233097"
         }
@@ -554,9 +813,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5610.jpg",
         "rating": {
           "rating_kp": "6.124",
-          "vote_num_kp": "967",
+          "vote_num_kp": "968",
           "rating_imdb": "5.1",
-          "vote_num_imdb": "6272"
+          "vote_num_imdb": "6278"
         }
       }
     },
@@ -818,9 +1077,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1200706.jpg",
         "rating": {
           "rating_kp": "6.851",
-          "vote_num_kp": "3148",
+          "vote_num_kp": "3150",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "13050"
+          "vote_num_imdb": "13073"
         }
       }
     },
@@ -957,10 +1216,10 @@
         "time": "6540",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115125.jpg",
         "rating": {
-          "rating_kp": "6.694",
-          "vote_num_kp": "18272",
+          "rating_kp": "6.696",
+          "vote_num_kp": "18312",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "29326"
+          "vote_num_imdb": "29332"
         }
       }
     },
@@ -992,8 +1251,8 @@
         "time": "6300",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1207523.jpg",
         "rating": {
-          "rating_kp": "5.778",
-          "vote_num_kp": "3380",
+          "rating_kp": "5.775",
+          "vote_num_kp": "3386",
           "rating_imdb": "5.9",
           "vote_num_imdb": "6338"
         }
@@ -1028,7 +1287,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_970703.jpg",
         "rating": {
           "rating_kp": "7.073",
-          "vote_num_kp": "3304",
+          "vote_num_kp": "3305",
           "rating_imdb": "7.4",
           "vote_num_imdb": "3882"
         }
@@ -1063,7 +1322,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1128759.jpg",
         "rating": {
           "rating_kp": "6.937",
-          "vote_num_kp": "6739",
+          "vote_num_kp": "6741",
           "rating_imdb": "7.6",
           "vote_num_imdb": "1393"
         }
@@ -1378,7 +1637,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1091323.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "89",
+          "vote_num_kp": "90",
           "rating_imdb": "5.3",
           "vote_num_imdb": "424"
         }
@@ -1485,7 +1744,7 @@
           "rating_kp": "7.623",
           "vote_num_kp": "4392",
           "rating_imdb": "8",
-          "vote_num_imdb": "12690"
+          "vote_num_imdb": "12707"
         }
       }
     },
@@ -1521,251 +1780,6 @@
           "vote_num_kp": "3300",
           "rating_imdb": "7",
           "vote_num_imdb": "23401"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "839449",
-      "date": "1580386649",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Страх темноты",
-        "orig": "The Fear of Darkness",
-        "alter": "",
-        "year": "2014",
-        "country": "Австралия",
-        "director": "Кристофер Фитчетт",
-        "genre": "ужасы,триллер",
-        "actors": "Мейв Дермоди, Пенелопа Митчелл, Аарон Педерсен, Дэмиен Гарви, Марк Леонард Винтер, Кристофер Соммерс, Хелен Ховард, Джейкоб Ирвин, Данниэлла Маркович, Стив Хирст",
-        "description": "Молодой блестящий психолог Сара Фэйтфул берется за расследование таинственного исчезновения студента. Подозрение падает на его девушку - Скай Уильямс. Место происшествия буквально залито кровью, тело молодого человека бесследно исчезло, а Скай не говорит, не говорит ни слова... Сара хочет помочь девушке, но для этого ей придется спуститься в темные глубины подсознания и укротить своих собственных демонов.",
-        "slogan": "Твой кошмар - это реальность",
-        "premiere": "11 апреля 2015",
-        "age": "16",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_839449.jpg",
-        "rating": {
-          "rating_kp": "4.075",
-          "vote_num_kp": "1209",
-          "rating_imdb": "4.1",
-          "vote_num_imdb": "548"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "317889",
-      "date": "1580386611",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Однажды в Вегасе",
-        "orig": "What Happens in Vegas",
-        "alter": "",
-        "year": "2008",
-        "country": "США",
-        "director": "Том Вон",
-        "genre": "комедия,мелодрама",
-        "actors": "Кэмерон Диаз, Эштон Кутчер, Роб Кордри, Лэйк Белл, Джейсон Судейкис, Трит Уильямс, Дирдри О’Коннелл, Мишель Крусик, Деннис Фарина, Зак Галифианакис",
-        "description": "После ночи кутежа в Городе Грехов двое совершенно незнакомых людей просыпаются в одной постели и пытаются восстановить ход событий вечера. Оказывается, они поженились и взяли огромный джек-пот. И вот на свежую голову молодожены (каждый сам про себя) разрабатывают план, как отделаться от своей «второй половины» и получить весь куш. Там, где замешаны деньги, нет места любви. Хотя в Вегасе случается всякое...",
-        "slogan": "Ты везунчик!",
-        "premiere": "22 апреля 2008",
-        "age": "12",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_317889.jpg",
-        "rating": {
-          "rating_kp": "7.247",
-          "vote_num_kp": "120547",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "167137"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "18673",
-      "date": "1580386554",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Тигровая бухта",
-        "orig": "Tiger Bay",
-        "alter": "",
-        "year": "1959",
-        "country": "Великобритания",
-        "director": "Дж. Ли Томпсон",
-        "genre": "триллер,драма,криминал",
-        "actors": "Джон Миллз,Хорст Буххольц,Хейли Миллз,Ивонн Митчелл,Мегс Дженкинс,Энтони Доусон,Джордж Селвэй,Шари,Джордж Пэстелл,Пол Стассино",
-        "description": "Джилли &#151; девочка-сорванец, подглядывая за ссорящейся парочкой, становится свидетельницей случайного рокового выстрела: польский моряк по фамилии Корчинский возвратившийся из плавания в Кардифф, убивает свою подругу в приступе ревности. Джилли подбирает и прячет брошенный пистолет, проникается симпатией к неуравновешенному парню &#151; убийце и хочет ему помочь. Ей удаётся ловко и изобретательно заморочить голову полицейским. Несмотря на прессинг, она не выдаёт убийцу, скрывает правду и изо всех сил защищает моряка&#133;",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_18673.jpg",
-        "rating": {
-          "rating_kp": "7.551",
-          "vote_num_kp": "266",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "2614"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "404346",
-      "date": "1580386322",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Берегитесь, красавицы",
-        "orig": "Bachna Ae Haseeno",
-        "alter": "",
-        "year": "2008",
-        "country": "Индия",
-        "director": "Сиддхарт Ананд",
-        "genre": "комедия,мелодрама,драма",
-        "actors": "Ранбир Капур, Дипика Падукон, Бипаша Басу, Миниша Ламба, Кунал Капур, Хитен Пайнтал, Пунит Иссар, Менекка Арора, Самит Арора, Нташа Бхардвай",
-        "description": "Почему девушки всегда влюбляются не в того парня? Матери предостерегают их от него. Подруги неодобрительно качают головами. Даже разум говорит им: «Беги!». Но нет! У их сердец - другая линия. Они всегда посылают неправильные сигналы. Его имени достаточно, чтобы остановить их умственную работу и начать гонку их сердец. Встречайте, Радж! Он - воплощенная мечта. Кто может обвинить его в том, что он влюбляется так часто, если благоволит любовь. То, что он является покорителем сердец, записано в его ДНК. Мы увидим три истории любви: Радж и Махи, Радж и Радхика, Радж и Гаятри. Разные возлюбленные в разные этапы его жизни. И каждая из них преподает ему маленький урок любви и жизни, учит нежности, сексуальности или смелости. Готовьтесь влюбляться... три раза!",
-        "slogan": "Любить троих тяжёлый крест...",
-        "premiere": "14 августа 2008",
-        "age": "12",
-        "time": "9120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_404346.jpg",
-        "rating": {
-          "rating_kp": "7.837",
-          "vote_num_kp": "1172",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "10647"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "770683",
-      "date": "1580314571",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Каждому свое",
-        "orig": "Everybody Wants Some!!",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Ричард Линклейтер",
-        "genre": "комедия",
-        "actors": "Блейк Дженнер, Джастон Стрит, Райан Гузман, Тайлер Хэклин, Уайатт Рассел, Глен Пауэлл, Темпл Бэйкер, Дж. Куинтон Джонсон, Уилл Бриттейн, Кортни Тейлор",
-        "description": "Джейк поступает в колледж и погружается в порочный водоворот беззаботной жизни Америки 80-х. Он впервые познает вкус свободы и взрослой жизни, пока даже не задумываясь о последствиях.",
-        "slogan": "Here for a Good Time Not a Long Time",
-        "premiere": "11 марта 2016",
-        "age": "12",
-        "time": "7020",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_770683.jpg",
-        "rating": {
-          "rating_kp": "6.445",
-          "vote_num_kp": "11483",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "52740"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "608559",
-      "date": "1580314522",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "И грянул шторм",
-        "orig": "The Finest Hours",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Крэйг Гиллеспи",
-        "genre": "боевик,триллер,история,драма",
-        "actors": "Крис Пайн, Кейси Аффлек, Бен Фостер, Эрик Бана, Холлидей Грейнджер, Джон Ортис, Кайл Галлнер, Джон Магаро, Грэм МакТавиш, Майкл Рэймонд-Джеймс",
-        "description": "Сюжет фильма основан на реальных событиях, произошедших в 1952 году, когда сотрудники береговой охраны в самый разгар шторма, используя деревянные моторные лодки, пытались спасти экипаж двух нефтяных танкеров.",
-        "slogan": "32 survivors, room for 12",
-        "premiere": "27 января 2016",
-        "age": "16",
-        "time": "7020",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_608559.jpg",
-        "rating": {
-          "rating_kp": "6.99",
-          "vote_num_kp": "51644",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "63214"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "3683",
-      "date": "1580314484",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Взвод чудовищ",
-        "orig": "The Monster Squad",
-        "alter": "",
-        "year": "1987",
-        "country": "США",
-        "director": "Фред Деккер",
-        "genre": "ужасы,фэнтези,боевик,комедия",
-        "actors": "Андре Гауэр,Робби Кайджер,Стефен Махт,Дункан Реджер,Том Нунен,Брент Шалем,Райан Ламберт,Эшли Бэнк,Майкл Фаустино,Мэри Эллен Трейнор",
-        "description": "Юные друзья состоят членами клуба, посвященного монстрам. Им, можно сказать, крупно повезло, так как они столкнулись с монстрами в реальной жизни. В их город прибыл сам граф Дракула с чудовищем Франкенштейна, Мумией, Человеком-оборотнем и прочими милашками на поиски амулета, жизненно необходимого для его, графа, существования&#133;",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "0",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3683.jpg",
-        "rating": {
-          "rating_kp": "5.811",
-          "vote_num_kp": "863",
-          "rating_imdb": "7",
-          "vote_num_imdb": "29494"
         }
       }
     }

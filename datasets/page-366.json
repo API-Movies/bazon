@@ -2,6 +2,251 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1067633",
+      "date": "1582099905",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Ходить как пантера",
+        "orig": "Walk Like a Panther",
+        "alter": "",
+        "year": "2018",
+        "country": "Великобритания",
+        "director": "Дэн Кадан",
+        "genre": "комедия",
+        "actors": "Стивен Грэм, Джейсон Флеминг, Джулиан Сэндс, Джилл Халфпенни, Робби Ги, Стивен Томпкинсон, Сью Джонстон, Anthony G Hamer, Andrew Abbott, Джудит Дэвис",
+        "description": "Кучке престарелых рестлеров, широко известных в 1980-ых годах, снова пришлось влезть в свои старые трико, чтобы предотвратить закрытие любимого паба.",
+        "slogan": "Blood, sweat and spandex",
+        "premiere": "9 марта 2018",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTA5NjcwNzcxMjZeQTJeQWpwZ15BbWU4MDY2MTIxNjQz._V1_UX75_CR0,0,75,109_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "31",
+          "rating_imdb": "5",
+          "vote_num_imdb": "497"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1067593",
+      "date": "1582099902",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Все в твоих руках",
+        "orig": "Au bout des doigts",
+        "alter": "",
+        "year": "2018",
+        "country": "Франция, Бельгия",
+        "director": "Людовик Бернард",
+        "genre": "мелодрама,драма",
+        "actors": "Ламбер Вильсон, Кристин Скотт Томас, Жюль Беншетри, Каридья Туре, Эльза Лепуавр, Андре Маркон, Мишель Йонас, Ксавьер Гелфи, Samen Télesphore Teunou, Ванесса Дэвид",
+        "description": "У Матье Малински был секрет - его музыка. Он жил на окраине Парижа и не рассказывал о нем своим друзьям. Участие в мелких кражах почти довело его до тюрьмы. Но он встретил директора Консерватории, и тот предложил ему альтернативу.",
+        "slogan": "",
+        "premiere": "24 августа 2018",
+        "age": "0",
+        "time": "6300",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1067593.jpg",
+        "rating": {
+          "rating_kp": "6.563",
+          "vote_num_kp": "330",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "1240"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1067541",
+      "date": "1582099901",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Революция на Капри",
+        "orig": "Capri-Revolution",
+        "alter": "",
+        "year": "2018",
+        "country": "Италия, Франция",
+        "director": "Марио Мартоне",
+        "genre": "история,драма",
+        "actors": "Марианна Фонтана, Рейну Шолтен ван Ашат, Antonio Folletto, Дженна Тиам, Лола Кламрот, Ludovico Girardello, Джанлука Ди Дженнаро, Максимилиан Дирр, Донателла Финокьяро, Eduardo Scarpetta",
+        "description": "1914 год, Италия вот-вот вступит в войну. На фоне глобальной угрозы, нависшей над миром, на острове Капри бурлят совсем иные страсти. Сюда словно магнитом притягивает молодых романтиков, писателей, художников и революционеров.",
+        "slogan": "",
+        "premiere": "6 сентября 2018",
+        "age": "0",
+        "time": "7320",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1067541.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "92",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "849"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1066733",
+      "date": "1582099894",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Отец года",
+        "orig": "Father of the Year",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Тайлер Спиндел",
+        "genre": "комедия",
+        "actors": "Дэвид Спейд, Нат Факсон, Джои Брагг, Мэтт Шайвли, Бриджит Мендлер, Джеки Сэндлер, Мэри Гиллис, Джаред Сэндлер, Билл Котткамп, Кевин Нилон",
+        "description": "Отношения между друзьями и выпускниками колледжа рушатся, когда они, злоупотребив алкоголем, начинают выяснять, чей же отец победит, если завяжется бой.",
+        "slogan": "They've got one summer to make their kids proud",
+        "premiere": "20 июля 2018",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1066733.jpg",
+        "rating": {
+          "rating_kp": "5.192",
+          "vote_num_kp": "625",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "10432"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1066023",
+      "date": "1582099887",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Съеденные львами",
+        "orig": "Eaten by Lions",
+        "alter": "",
+        "year": "2018",
+        "country": "Великобритания",
+        "director": "Jason Wingard",
+        "genre": "комедия",
+        "actors": "Антонио Аакил, Jack Carroll, Азим Чодри, Джонни Вегас, Вики Пеппердин, Кевин Элдон, Сара Хоар, Нитин Чандра Ганатра, Том Биннс, Стефани Файерман",
+        "description": "После смерти бабушки, единоутробные братья Пит и Омар оказываются перед непростым выбором, так как они хотят жить вместе, но тётя Пита не желает принимать Омара в свою семью. Тогда братья решают отправиться на поиски отца Омара, зная лишь, что его зовут Малик и он живёт в Блэкпуле.",
+        "slogan": "Two boys...three dads",
+        "premiere": "21 июня 2018",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzIyNTk5MWEtNjQyYS00MjkxLTkxMTktNGE2ZmNjOWRkYmIyXkEyXkFqcGdeQXVyNTI1MDI0Mzk@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "13",
+          "rating_imdb": "6",
+          "vote_num_imdb": "610"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1065910",
+      "date": "1582099886",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Столкновение",
+        "orig": "Interference",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Линда Ди Франко",
+        "genre": "детектив,драма,криминал",
+        "actors": "Том Уисдом, Брюс Томас, Виктория Габриэлль Платт, Кейлб Лонг, Леона Парамински, Джейн Тэйни, Дина Морроне, Майкл Шантц, Роми Пак, Данте Палминтери",
+        "description": "Уходящий в отставку детектив пытается установить личность наполовину сожженной женщины, найденной возле лодки окружного прокурора, который преследует серийного детоубийцу.",
+        "slogan": "Who is she?",
+        "premiere": "14 сентября 2018",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1065910.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "27",
+          "rating_imdb": "3.4",
+          "vote_num_imdb": "81"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1065879",
+      "date": "1582099883",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Ужаслэнд 2",
+        "orig": "Terrortory 2",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Кевин Кангас",
+        "genre": "ужасы",
+        "actors": "Stormi Maya, Джордж Стоувер, Уилл Стекман, Ричард Каттинг, Ali Lukowski, Патрик В. Бойер мл., Geoffrey Boggs, Brandon E Hendrickson, Фредерик Кови, Джош Дэвидсон",
+        "description": "Четыре леденящие душу истории, рассказанные мужчиной, путешествующим через страшные земли, известные как Ужаслэнд. На пути вам встрется самые жуткие создания: Улыбающийся Джек, Полуночный Клоун и многие другие.",
+        "slogan": "",
+        "premiere": "1 октября 2018",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1065879.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "45",
+          "rating_imdb": "4.4",
+          "vote_num_imdb": "275"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1065620",
       "date": "1582099881",
       "camrip": "0",
@@ -31,7 +276,7 @@
           "rating_kp": "0",
           "vote_num_kp": "59",
           "rating_imdb": "6",
-          "vote_num_imdb": "553"
+          "vote_num_imdb": "554"
         }
       }
     },
@@ -381,7 +626,7 @@
           "rating_kp": "0",
           "vote_num_kp": "20",
           "rating_imdb": "2.9",
-          "vote_num_imdb": "197"
+          "vote_num_imdb": "198"
         }
       }
     },
@@ -554,9 +799,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1063383.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "76",
+          "vote_num_kp": "77",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "1270"
+          "vote_num_imdb": "1271"
         }
       }
     },
@@ -1044,7 +1289,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1061626.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "271",
+          "vote_num_kp": "272",
           "rating_imdb": "7.2",
           "vote_num_imdb": "4280"
         }
@@ -1361,7 +1606,7 @@
           "rating_kp": "0",
           "vote_num_kp": "28",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "219"
+          "vote_num_imdb": "220"
         }
       }
     },
@@ -1502,251 +1747,6 @@
           "vote_num_kp": "492",
           "rating_imdb": "4.4",
           "vote_num_imdb": "1504"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1058998",
-      "date": "1582099781",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Войны Бессмертных 2: Возрождение",
-        "orig": "The Immortal Wars: Resurgence",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Joe Lujan",
-        "genre": "боевик",
-        "actors": "Эрик Робертс, Минди Робинсон, Билл Оберст мл., Ben Stobber, Наиля Шакирова, Марк Энтони Джастис, Michael Larson, Дэн Фоулкс, Taylor Kilgore, Габриэлла Мартинес",
-        "description": "Продолжение фильма 2018го года, Войны Бессмертных, рассказывает историю постапокалиптического мира. Сопротивление, долгое время зреющее в сердцах девиантов, дало корни. Деспотичное правление сумасшедшего Доминиона пошатнулось, но война ещё не окончена. Повстанцам предстоит тяжелая борьба за свободу.",
-        "slogan": "The war for freedom has just begun!",
-        "premiere": "2 июля 2019",
-        "age": "0",
-        "time": "6720",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZWI5OTY3MGQtNDhmZC00NzRjLWE0YTktMzkyOWZmZGQxNDVhXkEyXkFqcGdeQXVyNTM0NTA5OTE@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "44",
-          "rating_imdb": "2.4",
-          "vote_num_imdb": "171"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1058992",
-      "date": "1582099780",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Шумиха",
-        "orig": "Bad Buzz",
-        "alter": "",
-        "year": "2017",
-        "country": "Франция, Бельгия",
-        "director": "Стефан Казанджян",
-        "genre": "комедия",
-        "actors": "Eric Metzger, Quentin Margot, Мари-Анн Шазель, Разан Джаммаль, Каролин Англад, Оливье Брош, Беранжер Криеф, Fabian Le Gouallec, Paco Falgas, Мельха Бедиа",
-        "description": "На вершине своей карьеры Эрик и Квентин попадают в дурацкую ситуацию, которая становится достоянием общественности и может похоронить их репутацию. Спасти свою шкуру они могут только одним способом: сделать и обнародовать что-нибудь положительное. И на это у них меньше 48 часов...",
-        "slogan": "",
-        "premiere": "21 июня 2017",
-        "age": "0",
-        "time": "4440",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1058992.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "24",
-          "rating_imdb": "2.5",
-          "vote_num_imdb": "121"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1058855",
-      "date": "1582099777",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Уличные огни",
-        "orig": "Street Lights",
-        "alter": "",
-        "year": "2018",
-        "country": "Индия",
-        "director": "Шийам Датт",
-        "genre": "триллер,криминал",
-        "actors": "Маммутти, Сельва Стант, Dharmajan Bolgatty, Хариш Перуманна, Soubin Shahir, Lijo Mol Jose, Раджендран, Рони, Gayathri, Jude Anthany Joseph",
-        "description": "Полицейский Джеймс должен распутать сложную тайну, которая началась с простой мелочи: с кражи ожерелья за 50 миллионов рупий.",
-        "slogan": "",
-        "premiere": "25 января 2018",
-        "age": "0",
-        "time": "7740",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1058855.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "22",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "1193"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1058586",
-      "date": "1582099776",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Игра",
-        "orig": "Le jeu",
-        "alter": "",
-        "year": "2018",
-        "country": "Франция, Бельгия",
-        "director": "Фред Кавайе",
-        "genre": "комедия,драма",
-        "actors": "Беренис Бежо, Сюзанн Клеман, Стефан Де Гродт, Венсан Эльбаз, Грегори Гадебуа, Дория Тилье, Рошди Зем, Флер Фитусси, Тассадит Манди, Мелин Уамар",
-        "description": "Семь лучших друзей со стажем встречаются на ужин, кладут на стол телефоны и соглашаются прилюдно отвечать на все звонки и сообщения, которые поступят во время трапезы.",
-        "slogan": "",
-        "premiere": "5 сентября 2018",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1058586.jpg",
-        "rating": {
-          "rating_kp": "6.361",
-          "vote_num_kp": "666",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "13087"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1057745",
-      "date": "1582099772",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Гордость воина",
-        "orig": "Warrior Pride",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Яная Блэк",
-        "genre": "драма,спорт",
-        "actors": "Alijah Adams, Mike Adams, Bacari Alexander, Hassaan Ayoub, Trevor Ballard, Will Bennett, Deshawndre Black, Рокки Блэк, Tyreese Black, Ron Booth",
-        "description": "Фильм, основанный на реальных событиях, рассказывает о нелёгкой работе главного тренера молодёжной команды по баскетболу. Он должен найти подход к юношам, у каждого из которых непростой характер. Несмотря на разногласия и проблемы, ребята должны сплотиться, стать одной командой и одержать победу.",
-        "slogan": "",
-        "premiere": "18 августа 2018",
-        "age": "0",
-        "time": "8160",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTg2NDQyMjMtYmJlOS00NTI0LWI1MDgtZmZmYThiNWQxY2Y3XkEyXkFqcGdeQXVyNTIyNDYxNg@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "3",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "108"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1057706",
-      "date": "1582099770",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Двухголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Семь дней до Вегаса",
-        "orig": "Walk to Vegas",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Эрик Бальфур",
-        "genre": "комедия",
-        "actors": "Винсент Ван Паттен, Росс МакКолл, Пол Уолтер Хаузер, Эйлин Дэвидсон, Джеймс Ван Паттен, Уилли Гарсон, Лукас Брайант, Дон Старк, Джон О’Харли, Чад Лоу",
-        "description": "Влиятельные люди из Голливуда постоянно развлекаются, делая сумасшедшие ставки. Авантюрист Дьюк ставит на то, что он сможет дойти пешком из Лос-Анжелеса до Лас-Вегаса за семь дней.",
-        "slogan": "Even your friends bet against you",
-        "premiere": "11 января 2019",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://m.media-amazon.com/images/M/MV5BM2VhMmVmZmUtNWZmZC00ZmVkLTllNTYtMjQ5NzNmMjY4Y2M5XkEyXkFqcGdeQXVyNzcwOTIwMA@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "31",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "624"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1057507",
-      "date": "1582099768",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Фолл-Сити",
-        "orig": "Fall City",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Нэйтан Д. Ли",
-        "genre": "мелодрама,драма",
-        "actors": "Дэшил Вульф, Meranda Long, Paul Hobson, Riley Hardy, Тим Трелфал, Carrie Wrigley, Tim Bakke, Thomas Carroll, Скотт Кристофер, Питер Д’Алессио",
-        "description": "Условно освобожденный вор, Джон Прайс, вынужден вернуться в свой родной дождливый городок Фолл Сити на Рождество. Джон встречает мать одиночку, переживающую трудности, и неожиданно находит радость в общении с ней. Она показывает ему истинную доброту, и он начинает выполнять роль отца для её маленькой дочери.",
-        "slogan": "",
-        "premiere": "22 ноября 2018",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZmQ1YWY0ZmQtZTNmNi00NDE5LWE2MDktMjc5NjM4N2IxNTI4XkEyXkFqcGdeQXVyODQyNDI4ODg@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "11",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "255"
         }
       }
     }

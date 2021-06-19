@@ -2,6 +2,298 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "671",
+      "date": "1589448176",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Найти Форрестера",
+        "orig": "Finding Forrester",
+        "alter": "",
+        "year": "2000",
+        "country": "США",
+        "director": "Гас Ван Сент",
+        "genre": "драма",
+        "actors": "Шон Коннери, Роб Браун, Ф. Мюррэй Абрахам, Анна Пэкуин, Баста Раймс, Эйприл Грэйс, Майкл Питт, Майкл Нури, Ричард Истон, Гленн Фицджералд",
+        "description": "Писатель Уильям Форрестер долгие годы прожил в добровольном затворничестве от мира. Последний раз о нем слышали сорок лет назад, когда он выпустил в свет превосходный роман, завоевавший Пулитцеровскую премию. Но с тех пор никому не удалось переступить за порог дома этого отшельника.\r\n\r\nОднако 16-летнему парнишке по имени Джамал Уоллес удается проникнуть в жилище живой легенды и разговорить нелюдимого старца. И это случайная встреча оказывается судьбоносной. Благодаря ей ушедший в себя Форрестер снова обретает вкус к жизни за пределами своей «башни из слоновой кости». А Джамал, талантливый баскетболист, которому светит блестящая спортивная карьера, открывает, что его истинное призвание - литературное творчество...",
+        "slogan": "Встреча, которая меняет всё...",
+        "premiere": "20 декабря 2000",
+        "age": "12",
+        "time": "7860",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_671.jpg",
+        "rating": {
+          "rating_kp": "7.833",
+          "vote_num_kp": "15953",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "83887"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "881455",
+      "date": "1589448077",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ловушка разума",
+        "orig": "The Wave",
+        "alter": "Волна",
+        "year": "2019",
+        "country": "США",
+        "director": "Gille Klabin",
+        "genre": "фантастика",
+        "actors": "Джастин Лонг,Томми Флэнаган,Катя Винтер,Дональд Фэйсон,Шейла Ванд,Сара Минник,Билл Сейдж,Моник Канделария,Ронни Джин Блевинс,Блайт Ховард",
+        "description": "Страховой адвокат начинает принимать загадочный галлюциногенный препарат, который постепенно разрушает его восприятие реальности и выставляет напоказ его жизнь такой, какой она и является на самом деле.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_881455.jpg",
+        "rating": {
+          "rating_kp": "6.197",
+          "vote_num_kp": "18102",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "3906"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1281152",
+      "date": "1589446770",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "NewStudio",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "6",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 1080,
+          "5": 720,
+          "6": 720
+        }
+      },
+      "info": {
+        "rus": "Мисс Скарлет и Герцог",
+        "orig": "Miss Scarlet and the Duke",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Деклан О’Двайр",
+        "genre": "детектив,криминал",
+        "actors": "Кейт Филлипс,Стюарт Мартин,Кэти Бэлтон,Дэнни Мидуинтер,Ансу Кабиа,Мэттью Мэлоун,Эндрю Гауэр,Саймон Ладдерс,Ник Даннинг,Кевин Дойл",
+        "description": "Когда отец Элизы Скарлет умирает, она остаётся без средств к существованию. В такой ситуации единственный выход для женщины — выгодный брак. Но у Элизы есть секретное оружие — детективное агентство её отца. И чтобы преуспеть в мире, которым правят мужчины, ей нужен деловой партнёр. Им становится инспектор из Скотленд-Ярда Уильям Веллингтон.",
+        "slogan": "",
+        "premiere": "31 марта 2020",
+        "age": "0",
+        "time": "0",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1281152.jpg",
+        "rating": {
+          "rating_kp": "7.654",
+          "vote_num_kp": "17940",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "3948"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1165791",
+      "date": "1589406645",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Феникс, Орегон",
+        "orig": "Phoenix, Oregon",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Гари Лунгрен",
+        "genre": "комедия",
+        "actors": "Джеймс ЛеГрос,Джесси Боррего,Лиза Эдельштейн,Дидрих Бадер,Кевин Корригэн,Рейнальдо Гальегос,Luis Rodriguez,Джей Бугарин,Angie Sanchez,Dave Boner",
+        "description": "Двое друзей борются с кризисом среднего возраста и решают открыть боулинг с пиццерией в маленьком городке.",
+        "slogan": "",
+        "premiere": "13 апреля 2019",
+        "age": "16",
+        "time": "6480",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDlhMGRlYzctNWYzOC00NmE3LWE3MWQtNDk4NmNiODUwMTcyXkEyXkFqcGdeQXVyMzQxOTU3NjU@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "28",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "268"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1174436",
+      "date": "1589406486",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Всё дело в связях",
+        "orig": "Who You Know",
+        "alter": "",
+        "year": "2019",
+        "country": "Канада",
+        "director": "Jake Horowitz",
+        "genre": "комедия",
+        "actors": "Дилан Эверетт,Нив Уилсон,Стефен Джофф,Дэвид Хьюлетт,Lisa Truong,Кейт Хьюлетт,Маг Раффман,Нина Иорданова",
+        "description": "Амбициозный молодой сценарист пишет свой лучший сценарий, но на этот раз в реальной жизни, пытаясь через идеальную романтическую комедию подобраться к дочери своего кумира и пробить себе путь в шоу-бизнес.",
+        "slogan": "It's all about who you know... Unless you don't even know yourself",
+        "premiere": "5 ноября 2019",
+        "age": "0",
+        "time": "6420",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGM0YzUwNzYtODc1Zi00YjdlLTgxNmEtNGEzMjRiYzhiYmUxXkEyXkFqcGdeQXVyMjY3OTAzMDI@._V1_SY1000_SX675_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "12",
+          "rating_imdb": "4.6",
+          "vote_num_imdb": "148"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1201353",
+      "date": "1589406310",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Псих",
+        "orig": "Psycho",
+        "alter": "",
+        "year": "2020",
+        "country": "Индия",
+        "director": "Мышкин",
+        "genre": "триллер,криминал",
+        "actors": "Удхаянидхи Сталин,Нитья,Адити Рао Хидари,Рэм,Раджкумар Питчумани,Шаджи,Сингампули,Аадукалам Нарен,Ренука",
+        "description": "Уже несколько лет в городе Коимбатур и его окрестностях орудует серийный убийца, отрубая девушкам головы и выставляя их тела напоказ, а у полиции до сих пор нет никаких зацепок. За популярной радиоведущей Дагини по пятам следует влюблённый в неё слепой парень Гаутам, и после очередной его попытки привлечь внимание предмета своего обожания девушка соглашается встретиться с ним на следующий день. А где &#151; она подскажет в своей передаче. Вот только на место встречи чуть раньше приходит маньяк и похищает Дагини, но решает не убивать её сразу. Теперь у Гаутама есть семь дней, чтобы спасти свою любовь из лап убийцы-психопата.",
+        "slogan": "",
+        "premiere": "24 января 2020",
+        "age": "0",
+        "time": "8580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1201353.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "46",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "2451"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1077110",
+      "date": "1589406243",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Копы",
+        "orig": "Cops",
+        "alter": "",
+        "year": "2018",
+        "country": "Австрия",
+        "director": "Стефан Лукаш",
+        "genre": "драма",
+        "actors": "Лоуренс Рупп,Антон Нури,Мария Хофштаттер,Роланд Дюрингер,Анна Сук,Нико Читта,Дениц Рауниг,Аарон Фриш,Манфред Фюкс,Михаэль Фуйт",
+        "description": "Кристоф &#151; честолюбивый новобранец. Он усердно и одержимо тренируется, чтобы стать частью специального элитного подразделения венской полиции WEGA. Жесткая конкуренция, борьба и давление со стороны сослуживцев &#151; часть его повседневной жизни. Главный инструктор подразделения Константин Благо классически суров со своими подопечными.\r\n\r\nОднажды на дежурстве Кристоф стреляет в психически больного человека, чтобы защитить коллегу. Вынужденная самооборона или страшная ошибка?",
+        "slogan": "",
+        "premiere": "25 января 2018",
+        "age": "18",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1077110.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "37",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "359"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1254108",
+      "date": "1589404316",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Преследуя Молли",
+        "orig": "Chasing Molly",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Josh Sutherland",
+        "genre": "комедия",
+        "actors": "Курт Энгл, Шелли Пэк, Джим Кэшман, Стефани Барклей, Брайан Блэк, Николь Блюме, Nick Brode, Mason Brown, Рэй Корасани, Карри Дэвис",
+        "description": "Молли - мошенница, которая прикидывается экстрасенсом, изгоняющим демонов, чтобы обчищать людям карманы. Но она случайно грабит наркобарона и теперь должна спасти похищенного напарника и себя саму.",
+        "slogan": "",
+        "premiere": "7 мая 2019",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWVkNmQyODYtYTlmNy00ZDA3LTllNWYtODc4NWNmZGFkNDYyXkEyXkFqcGdeQXVyMjAxNjg3NzU@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "22",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "735"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1112186",
       "date": "1589387187",
       "camrip": "0",
@@ -122,7 +414,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1162631.jpg",
         "rating": {
           "rating_kp": "7.143",
-          "vote_num_kp": "11631",
+          "vote_num_kp": "11653",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -173,7 +465,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BODUwZTA2Y2MtM2M1OC00NjMwLThhY2UtOTdjYzA0NWJhODZlXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg",
         "rating": {
           "rating_kp": "7.086",
-          "vote_num_kp": "760",
+          "vote_num_kp": "761",
           "rating_imdb": "6.7",
           "vote_num_imdb": "875"
         }
@@ -360,7 +652,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1244945.jpg",
         "rating": {
           "rating_kp": "7.553",
-          "vote_num_kp": "642",
+          "vote_num_kp": "644",
           "rating_imdb": "7.9",
           "vote_num_imdb": "19612"
         }
@@ -519,7 +811,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_993594.jpg",
         "rating": {
           "rating_kp": "5.709",
-          "vote_num_kp": "1334",
+          "vote_num_kp": "1336",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -566,7 +858,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1311410.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "951",
+          "vote_num_kp": "954",
           "rating_imdb": "6.3",
           "vote_num_imdb": "575"
         }
@@ -781,9 +1073,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_963343.jpg",
         "rating": {
           "rating_kp": "8.056",
-          "vote_num_kp": "51787",
+          "vote_num_kp": "51887",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "56045"
+          "vote_num_imdb": "56109"
         }
       }
     },
@@ -955,10 +1247,10 @@
         "time": "5940",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2570.jpg",
         "rating": {
-          "rating_kp": "7.208",
-          "vote_num_kp": "518",
+          "rating_kp": "7.202",
+          "vote_num_kp": "519",
           "rating_imdb": "6",
-          "vote_num_imdb": "1430"
+          "vote_num_imdb": "1431"
         }
       }
     },
@@ -991,7 +1283,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_12519.jpg",
         "rating": {
           "rating_kp": "7.203",
-          "vote_num_kp": "441",
+          "vote_num_kp": "442",
           "rating_imdb": "7.4",
           "vote_num_imdb": "5744"
         }
@@ -1200,8 +1492,8 @@
         "time": "5460",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045651.jpg",
         "rating": {
-          "rating_kp": "7.4",
-          "vote_num_kp": "2341",
+          "rating_kp": "7.401",
+          "vote_num_kp": "2345",
           "rating_imdb": "7.9",
           "vote_num_imdb": "1799"
         }
@@ -1236,7 +1528,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_42866.jpg",
         "rating": {
           "rating_kp": "8.768",
-          "vote_num_kp": "67003",
+          "vote_num_kp": "67038",
           "rating_imdb": "8.4",
           "vote_num_imdb": "1698"
         }
@@ -1305,9 +1597,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_762381.jpg",
         "rating": {
           "rating_kp": "9.044",
-          "vote_num_kp": "18204",
+          "vote_num_kp": "18207",
           "rating_imdb": "9.3",
-          "vote_num_imdb": "113498"
+          "vote_num_imdb": "113516"
         }
       }
     },
@@ -1350,7 +1642,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_93571.jpg",
         "rating": {
           "rating_kp": "8.137",
-          "vote_num_kp": "11185",
+          "vote_num_kp": "11186",
           "rating_imdb": "7.9",
           "vote_num_imdb": "8342"
         }
@@ -1387,7 +1679,7 @@
           "rating_kp": "7.658",
           "vote_num_kp": "631",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "1822"
+          "vote_num_imdb": "1823"
         }
       }
     },
@@ -1605,10 +1897,10 @@
         "time": "3840",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_818284.jpg",
         "rating": {
-          "rating_kp": "7.986",
-          "vote_num_kp": "23880",
+          "rating_kp": "7.985",
+          "vote_num_kp": "23890",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "132757"
+          "vote_num_imdb": "132823"
         }
       }
     },
@@ -1805,9 +2097,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_880719.jpg",
         "rating": {
           "rating_kp": "8.19",
-          "vote_num_kp": "23527",
+          "vote_num_kp": "23532",
           "rating_imdb": "8",
-          "vote_num_imdb": "30412"
+          "vote_num_imdb": "30431"
         }
       }
     },
@@ -1896,7 +2188,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1171922.jpg",
         "rating": {
           "rating_kp": "7.171",
-          "vote_num_kp": "1927",
+          "vote_num_kp": "1928",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1996,8 +2288,8 @@
         "time": "3060",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_991705.jpg",
         "rating": {
-          "rating_kp": "5.444",
-          "vote_num_kp": "12141",
+          "rating_kp": "5.439",
+          "vote_num_kp": "12145",
           "rating_imdb": "3.7",
           "vote_num_imdb": "46"
         }
@@ -2168,9 +2460,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_839452.jpg",
         "rating": {
           "rating_kp": "7.901",
-          "vote_num_kp": "10933",
+          "vote_num_kp": "10938",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "27155"
+          "vote_num_imdb": "27163"
         }
       }
     },
@@ -2259,9 +2551,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1111776.jpg",
         "rating": {
           "rating_kp": "6.766",
-          "vote_num_kp": "7835",
+          "vote_num_kp": "7834",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "218"
+          "vote_num_imdb": "219"
         }
       }
     },
@@ -2355,7 +2647,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_762087.jpg",
         "rating": {
           "rating_kp": "7.083",
-          "vote_num_kp": "5985",
+          "vote_num_kp": "5986",
           "rating_imdb": "7.6",
           "vote_num_imdb": "38991"
         }
@@ -2458,408 +2750,7 @@
           "rating_kp": "8.541",
           "vote_num_kp": "16730",
           "rating_imdb": "8.7",
-          "vote_num_imdb": "30558"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "95231",
-      "date": "1589285115",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "last_season": "3",
-      "last_episode": "5",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080,
-          "14": 1080,
-          "15": 1080,
-          "16": 1080,
-          "17": 1080,
-          "18": 1080,
-          "19": 1080,
-          "20": 1080,
-          "21": 1080,
-          "22": 1080,
-          "23": 1080,
-          "24": 1080,
-          "25": 1080,
-          "26": 1080,
-          "27": 1080,
-          "28": 1080,
-          "29": 1080,
-          "30": 1080,
-          "31": 1080,
-          "32": 1080,
-          "33": 1080,
-          "34": 1080,
-          "35": 1080,
-          "36": 1080,
-          "37": 1080,
-          "38": 1080,
-          "39": 1080,
-          "40": 1080,
-          "41": 1080,
-          "42": 1080,
-          "43": 1080,
-          "44": 1080,
-          "45": 1080,
-          "46": 1080,
-          "47": 1080
-        },
-        "3": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080
-        }
-      },
-      "info": {
-        "rus": "Чип и Дейл спешат на помощь",
-        "orig": "Chip 'n' Dale Rescue Rangers",
-        "alter": "",
-        "year": "1988",
-        "country": "США",
-        "director": "Алан Заслов, Джон Кимболл, Боб Дзамбони",
-        "genre": "комедия,детектив,приключения,семейный,мультфильм",
-        "actors": "Кори Бертон, Питер Каллен, Джим Каммингс, Тресс МакНилл, Роб Полсен, Синди МакКей, Дэнни Гэнс, Питер Шрум, Дебора Уолли, Алан Оппенхаймер",
-        "description": "Чип и Дейл - самые большие шалуны, которых когда-либо создавала студия Дисней. Эти милые и очаровательные бурундучки вечно попадают в неприятности.",
-        "slogan": "Уолт Дисней Компани СНГ",
-        "premiere": "5 марта 1989",
-        "age": "6",
-        "time": "1320",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_95231.jpg",
-        "rating": {
-          "rating_kp": "8.173",
-          "vote_num_kp": "154770",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "17698"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1120835",
-      "date": "1589284957",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "last_season": "2",
-      "last_episode": "18",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080,
-          "14": 1080,
-          "15": 1080,
-          "16": 1080,
-          "17": 1080,
-          "18": 1080,
-          "19": 1080,
-          "20": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080,
-          "14": 1080,
-          "15": 1080,
-          "16": 1080,
-          "17": 1080,
-          "18": 1080
-        }
-      },
-      "info": {
-        "rus": "Звездные войны: Сопротивление",
-        "orig": "Star Wars Resistance",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Стюарт Ли, Боско ЭнДжи, Серджо Паэс",
-        "genre": "боевик,фантастика,приключения,мультфильм",
-        "actors": "Крис Фрил, Сьюзи МакГрат, Джош Бренер, Скотт Лоуренс, Bucket, Мирна Веласко, Джейсон Богарт Хайтауер, Мэри Элизабет МакГлинн, Бобби Мойнахан, Джим Рэш",
-        "description": "Кадзуда Сионо - молодой пилот, недавно вступивший в ряды Сопротивления под командованием генерала Леи. Несмотря на юный возраст, Кадзуде поручают важное задание - разведать, чем занимается Первый орден.",
-        "slogan": "Some heroes stick to the plan. Others just wing it",
-        "premiere": "1 апреля 2019",
-        "age": "6",
-        "time": "1800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1120835.jpg",
-        "rating": {
-          "rating_kp": "5.462",
-          "vote_num_kp": "1164",
-          "rating_imdb": "5",
-          "vote_num_imdb": "4565"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1321582",
-      "date": "1589281937",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Викинг Вик",
-        "orig": "Vic the Viking and the Magic Sword",
-        "alter": "",
-        "year": "2019",
-        "country": "Германия,Франция,Бельгия",
-        "director": "Эрик Казес",
-        "genre": "мультфильм,боевик,комедия,приключения,семейный",
-        "actors": "Деклан Миле-Хауэлл,Давид Шааль,Оуэн Фрост,Виолет Такер Стил,Джон Ченсер,Тим Бентинк,Дэвид Гудж,Роланд Стоун,Эва Сэвэдж,Дитмар Бер",
-        "description": "Юноша по имени Вик, несмотря на свой небольшой рост, всегда мечтал отправиться в дальнее плавание, прямо как его отец &#151; вождь могущественного клана викингов. И вот судьба дает Вику шанс проявить себя, когда его мать попадает в золотой плен бога Локи. Чтобы снять зловещие чары неопытному викингу предстоит отправиться в захватывающее и опасное путешествие к вратам города богов &#151; самому Асгарду.",
-        "slogan": "",
-        "premiere": "18 декабря 2019",
-        "age": "6",
-        "time": "4620",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1321582.jpg",
-        "rating": {
-          "rating_kp": "5.396",
-          "vote_num_kp": "1507",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "215"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "56094",
-      "date": "1589281861",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Доставка любви",
-        "orig": "Poh wai ji wong",
-        "alter": "",
-        "year": "1994",
-        "country": "Гонконг",
-        "director": "Лик-Чи Ли",
-        "genre": "комедия",
-        "actors": "Стивен Чоу,Кристи Чунг,Нг Ман-Тат,Филип Чань,Джо Чэн,Ка Сэнг Чэн,Джеки Чун,Радиум Чун,Билли Чоу,Пол Чунь",
-        "description": "Cкромный зануда-доставщик Хо Кам-Ан больше всего страдает от собственной трусости, из-за чего его обижают все, кому не лень. Но любому терпению приходит конец, и для Хо этот момент наступает, когда он, влюбившись в студентку школы дзюдо Лили, получает по мозгам от ее троглодита-учителя. Преисполненный решимости изменить свою жизнь, Хо встречает уличного торговца, берущегося за определенную плату обучить его древнему и тайному искусству кунг-фу, чтобы тот мог постоять за себя. Однако &laquo;наставник&raquo; оказывается обычным аферистом, а Хо уже вызвал на бой до смерти нового ухажера Лили, мастера каратэ из Японии.",
-        "slogan": "",
-        "premiere": "3 февраля 1994",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_56094.jpg",
-        "rating": {
-          "rating_kp": "6.954",
-          "vote_num_kp": "145",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "2875"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2954",
-      "date": "1589281807",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Лорел Каньон",
-        "orig": "Laurel Canyon",
-        "alter": "",
-        "year": "2002",
-        "country": "США",
-        "director": "Лиза Холоденко",
-        "genre": "драма",
-        "actors": "Фрэнсис МакДорманд, Кристиан Бэйл, Кейт Бекинсейл, Наташа МакЭлхоун, Алессандро Нивола, Лу Барлоу, Расселл Поллард, Имаад Васиф, Микки Петралия, Мелисса Де Суза",
-        "description": "Закончив учебу в Гарварде, Сэм и его подруга Алекс отправляются в Лос-Анджелес, чтобы заняться научной работой в доме матери Сэма - Джейн, которая должна быть в отъезде. Но их ждет не очень приятный сюрприз: Джейн дома, более того - она приютила рок-группу, от которой пытается получить новый хит для своей звукозаписывающей компании.\r\n\r\nВольный нрав Джейн и ее отвязной тусовки смущает и раздражает «правильного» Сэма, а вскоре его жизнь и вовсе превращается в хаос, когда он замечает, что Алекс больше нравится компания Джейн и шумные вечеринки, чем ее диссертация о жизни насекомых...",
-        "slogan": "On the road to the perfect life, Sam &#38; Alex took a little detour",
-        "premiere": "18 мая 2002",
-        "age": "16",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2954.jpg",
-        "rating": {
-          "rating_kp": "6.251",
-          "vote_num_kp": "2275",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "16106"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1209666",
-      "date": "1589280758",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Как Аслы",
-        "orig": "Asli Gibidir",
-        "alter": "",
-        "year": "2019",
-        "country": "Турция",
-        "director": "Али Йорганджиоглу",
-        "genre": "комедия",
-        "actors": "Джанер Озюртлу,Тойган Аваноглу,Asli Turanli,Туна Орхан,Melis Isiten,Ахмет Олгун Сюнеар,Asli Inandik,Седа Тюркмен,Айтен Унджуоглу,Енис Арикан",
-        "description": "Аслы – милая мечтательница, которая с детства хочет стать актрисой. Она попадает в агентство, в котором люди заказывают актёров, играющих в реальной жизни. Аслы придётся сыграть много ролей, и в итоге она найдёт свою единственную роль и любовь.",
-        "slogan": "",
-        "premiere": "25 января 2019",
-        "age": "0",
-        "time": "5760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1209666.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "19",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "1054"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1201318",
-      "date": "1589280570",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Охота на любовь",
-        "orig": "LOVEní",
-        "alter": "",
-        "year": "2019",
-        "country": "Чехия",
-        "director": "Карел Янак",
-        "genre": "мелодрама,комедия",
-        "actors": "Эстер Гейслерова,Якуб Прахар,Eva Kramerová,Мартин Писарик,Вероника Жилкова,Ондржей Малый,Романа Госчикова,Ярослав Плесл,Яна Швандова,Премысль Палек",
-        "description": "Элишку у алтаря бросает жених. Бедная девушка какое-то время не может прийти в себя, а потом решает, что её жизнь принадлежит только ей, и она сама должна искать своё счастье.",
-        "slogan": "",
-        "premiere": "21 марта 2019",
-        "age": "0",
-        "time": "6360",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMGJhZTgyY2YtYWQzNi00YWMxLWJkYTgtNzA4OGIxMmIyOGY4XkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_SY1000_CR0,0,712,1000_AL_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "10",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "117"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1201577",
-      "date": "1589280448",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Невинность",
-        "orig": "La innocència",
-        "alter": "",
-        "year": "2019",
-        "country": "Испания",
-        "director": "Лусия Алемани",
-        "genre": "драма",
-        "actors": "Сония Альмарча,Carmen Arrufat,Джоэль Боскед,Josh Climent,Laura Fernández,Bogdan Florin Guilescu,Серхи Лопес,Лайя Маруль,Лидия Морено",
-        "description": "Алисия наслаждается летом со своими друзьями. Но ей приходится скрывать свои отношения с парнем и это приводит к неприятным последствиям.",
-        "slogan": "",
-        "premiere": "23 сентября 2019",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1201577.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "24",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "399"
+          "vote_num_imdb": "30569"
         }
       }
     }

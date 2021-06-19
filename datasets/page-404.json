@@ -2,6 +2,251 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "816657",
+      "date": "1581944747",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Краун-Хайтс",
+        "orig": "Crown Heights",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Мэтт Раскин",
+        "genre": "мелодрама,драма,криминал",
+        "actors": "Люк Форбс, Лакит Стэнфилд, Адриан Ленокс, Ннамди Асомуга, Марша Стефани Блейк, James Udom, Мохаммед Али, Натали Пол, Зэк Гренье, Patrick Walsh",
+        "description": "10 апреля 1980 года на улицах Краун-Хайтс прозвучал выстрел, повлекший за собой десятки лет судебных разбирательств в поисках справедливости. Колин Уорнер был арестован за преступление, которое не совершал. Он стал жертвой глубоко прогнившей системы, где никто не желает даже выслушать обвиняемого. Безвинно осужденный Колин постепенно теряет надежду на положительный исход, а его лучший друг Карл Кинг посвящает свою жизнь борьбе за свободу Колина, не сдаваясь на протяжении долгих лет.",
+        "slogan": "How Far Would You Go for Justice?",
+        "premiere": "23 января 2017",
+        "age": "18",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_816657.jpg",
+        "rating": {
+          "rating_kp": "6.266",
+          "vote_num_kp": "131",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "2233"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "816644",
+      "date": "1581944745",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Плохой Фрэнк",
+        "orig": "Bad Frank",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Тони Джеминарио",
+        "genre": "триллер,драма",
+        "actors": "Кевин Интердонато, Аманда Клэйтон, Том Сайзмор, Brandon Heitkamp, Расс Руссо, Брайан О’Хэллоран, Рэй «Бум Бум» Манчини, Линн Манчинелли, Paola Grande, Nino Bless",
+        "description": "Фрэнк Пирс ведёт, казалось бы, совсем не примечательную жизнь. Но когда призраки прошлого снова дают о себе знать, и у Фрэнка отнимают то, что ему дорого, маска здравомыслия спадает, обнажая его истинную сущность.",
+        "slogan": "A Man can Only Hold so much Inside",
+        "premiere": "3 июля 2017",
+        "age": "0",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_816644.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "30",
+          "rating_imdb": "5",
+          "vote_num_imdb": "614"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "816064",
+      "date": "1581944741",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Мать-волчица",
+        "orig": "Wolf Mother",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Эрик Питер Карлсон",
+        "genre": "триллер,криминал",
+        "actors": "Том Сайзмор, Неджарра Таунсенд, Дуэйн Джонсон, Мэри Кэри, Мария Олсен, Стефани Пирсон, Констанс Бреннеман, Дуглас Беннетт, Дэйв Вескио, Лиа Коко",
+        "description": "В попытке исправить своё криминальное прошлое когда-то успешная голливудская старлетка, ставшая проституткой, и мелкий вор-женоненавистник намереваются разобраться с делом о похищении ребёнка в Сан-Франциско.",
+        "slogan": "Living For One Good Deed",
+        "premiere": "2 июня 2016",
+        "age": "18",
+        "time": "7020",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_816064.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "46",
+          "rating_imdb": "4.4",
+          "vote_num_imdb": "517"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "815842",
+      "date": "1581944736",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Грязные копы",
+        "orig": "Dirty",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Daniel Ringey",
+        "genre": "триллер,криминал",
+        "actors": "Роджер Гуэнвёр Смит, Пол Элиа, Энтони Джон Дэнисон, Адриан Гаета, Кристин Минтер, Александра Пол, Чаз Боно, Дэвид Фолсом, Дэвид Соболев, Гари Стургис",
+        "description": "Джейсон, покладистый правильный парень, накануне свадьбы вляпывается в увеселительную поездку к морю со своим дедом, отставным генералом с легким нравом, бурной фантазией и вполне определенными потребностями… И, похоже, дедские каникулы изменят жизнь Джейсона навсегда!",
+        "slogan": "Just because you get your hands dirty, doesn't mean you are",
+        "premiere": "12 июля 2016",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_815842.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "18",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "76"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "815733",
+      "date": "1581944734",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Жаркий поцелуй",
+        "orig": "Burning Kiss",
+        "alter": "",
+        "year": "2018",
+        "country": "Австралия",
+        "director": "Robbie Studsor",
+        "genre": "триллер",
+        "actors": "Лайам Грэхэм, Элисон Уолкер, Richard Mellick, Кристи Систранк, Nina Deasley, Chloe Brown, Сара Филиппи, Christie Snell",
+        "description": "Фильм представляет собой нуар-коктейль из психоделики и пессимизма, с добавлением запутанной интриги. Неожиданное появление незнакомца раскрывает страшную тайну и усложняет отношения между отцом и дочерью.",
+        "slogan": "If you live in shadows, you burn in the sun",
+        "premiere": "24 ноября 2018",
+        "age": "0",
+        "time": "4860",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_815733.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "14",
+          "rating_imdb": "4",
+          "vote_num_imdb": "145"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "815283",
+      "date": "1581944733",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Жизнь на анаболиках",
+        "orig": "Anabolic Life",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Лэндон Уильямс",
+        "genre": "триллер,спорт",
+        "actors": "Chris Levine, Шэрон Лоуренс, Дэниэл Болдуин, Луис Ферриньо мл., Софи Симмонс, Джастон Стрит, Кали Маскл, П.Дж. Маршалл, Cameron Barsanti, Ноэль Гульеми",
+        "description": "Одержимость желанием набрать мышечную массу и создать идеальное тело вкупе с беспросветной жизнью толкают Адама в пучину анаболических стероидов, лжи и преступлений.",
+        "slogan": "A feature film...on Steroids",
+        "premiere": "5 декабря 2017",
+        "age": "0",
+        "time": "5340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_815283.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "45",
+          "rating_imdb": "6",
+          "vote_num_imdb": "279"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "813725",
+      "date": "1581944717",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Возрастающий страх",
+        "orig": "Rising Fear",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Томас Гетти",
+        "genre": "боевик",
+        "actors": "Curtis Caldwell, Чак Гетти, Томас Гетти, Дэниэл Каттнер, Phil Lewis, Eamon McGee, Жослин Миэн, Kirsten Meenan, Joel Neff, David Roush",
+        "description": "Бывший морской пехотинец, обвиняемый во взрыве бомбы, должен разыскать того, кто организовал террористический акт. Вскоре он обнаруживает заговор, который угрожает стране. Тот, который вынудит его выбрать между свободой миллионов и собственным выживанием.",
+        "slogan": "The right man. The wrong number. The fear begins",
+        "premiere": "30 мая 2016",
+        "age": "0",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_813725.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "51",
+          "rating_imdb": "3.8",
+          "vote_num_imdb": "358"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "812723",
       "date": "1581944706",
       "camrip": "0",
@@ -206,7 +451,7 @@
           "rating_kp": "0",
           "vote_num_kp": "67",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "695"
+          "vote_num_imdb": "698"
         }
       }
     },
@@ -379,7 +624,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_810243.jpg",
         "rating": {
           "rating_kp": "3.717",
-          "vote_num_kp": "55795",
+          "vote_num_kp": "55806",
           "rating_imdb": "3.9",
           "vote_num_imdb": "990"
         }
@@ -624,7 +869,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_809182.jpg",
         "rating": {
           "rating_kp": "3.77",
-          "vote_num_kp": "478",
+          "vote_num_kp": "479",
           "rating_imdb": "4.1",
           "vote_num_imdb": "1130"
         }
@@ -729,7 +974,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_808962.jpg",
         "rating": {
           "rating_kp": "5.953",
-          "vote_num_kp": "2909",
+          "vote_num_kp": "2913",
           "rating_imdb": "6.4",
           "vote_num_imdb": "2645"
         }
@@ -1116,7 +1361,7 @@
           "rating_kp": "5.439",
           "vote_num_kp": "193",
           "rating_imdb": "5.2",
-          "vote_num_imdb": "819"
+          "vote_num_imdb": "824"
         }
       }
     },
@@ -1151,7 +1396,7 @@
           "rating_kp": "0",
           "vote_num_kp": "94",
           "rating_imdb": "3.3",
-          "vote_num_imdb": "887"
+          "vote_num_imdb": "890"
         }
       }
     },
@@ -1502,251 +1747,6 @@
           "vote_num_kp": "1406",
           "rating_imdb": "5.4",
           "vote_num_imdb": "6261"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "806754",
-      "date": "1581944478",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Красивые",
-        "orig": "The Beautiful Ones",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Джесси Джонсон",
-        "genre": "триллер,детектив,драма,криминал",
-        "actors": "Росс МакКолл, Брайан Ти, Фернанда Андраде, Джули Уорнер, Эд Лотер, Эрик Робертс, Мо Анути, Нина Бергман, Фаузи Брахими, Violet Boudicca Johnson",
-        "description": "Гангстер из семьи мафиози влюбляется не в ту женщину. В ходе бандитских разборок и раздела территории ему приходится применить все свои умения, чтобы спасти ее от людей, которых он когда-то называл братьями.",
-        "slogan": "Romeo and Juliet played out against the Los Angeles underworld",
-        "premiere": "",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_806754.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "41",
-          "rating_imdb": "4.3",
-          "vote_num_imdb": "133"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "806740",
-      "date": "1581944476",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Возможности управления",
-        "orig": "Creative Control",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Бенжамин Дикинсон",
-        "genre": "фантастика,драма",
-        "actors": "Бенжамин Дикинсон, Нора Зеетнер, Дэн Гилл, Алексия Расмуссен, Регги Уоттс, Гэвин МакИннесс, Пол Манза, Кэти Эйзенберг, Химаншу Сури, Мередит Хагнер",
-        "description": "История разворачивается в недалеком будущем. Герой фильма используя новейшую технологию дополнительной реальности заводит роман с девушкой... своего лучшего друга.",
-        "slogan": "A story about virtually everything",
-        "premiere": "14 марта 2015",
-        "age": "0",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_806740.jpg",
-        "rating": {
-          "rating_kp": "5.339",
-          "vote_num_kp": "174",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "2085"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "806726",
-      "date": "1581944475",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "720",
-      "info": {
-        "rus": "Те, кого нельзя целовать",
-        "orig": "Naomi and Ely's No Kiss List",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Кристин Хангги",
-        "genre": "комедия,мелодрама,драма",
-        "actors": "Виктория Джастис, Пирсон Фод, Мэттью Даддарио, Райан Уорд, Гриффин Ньюман, Моника Коулмэн, Дэн Флаэрти, Gary Betsworth, Дин Капика, Марианн Хэйгэн",
-        "description": "Главные герои - Наоми и ее друг-гей Илай. Нерушимость своей дружбы парочка решает скрепить составлением списка знакомых, с которыми дело не должно дойти до интимных отношений. Но в один прекрасный день Илай целует бойфренда Наоми, и дружбе приходит конец.",
-        "slogan": "She's just a girl who loves a boy who loves a boy",
-        "premiere": "17 июля 2015",
-        "age": "0",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_806726.jpg",
-        "rating": {
-          "rating_kp": "6.129",
-          "vote_num_kp": "2144",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "9707"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "806386",
-      "date": "1581944467",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Маленькая Англия",
-        "orig": "Mikra Anglia",
-        "alter": "",
-        "year": "2013",
-        "country": "Греция",
-        "director": "Пантелис Вулгарис",
-        "genre": "мелодрама,драма",
-        "actors": "Penelope Tsilika, Sofia Kokkali, Aneza Papadopoulou, Андреас Константину, Maximos Moumouris, Vasilis Vasilakis, Кристос Калаврузос, Евангелия Адреадаки, Эйрини Инглеси, Angeliki Papathemeli",
-        "description": "Сюжет повествует о судьбе семьи с греческого острова Андрос. Мечта любой девушки острова - выйти замуж за капитана и обрести положение в обществе и богатство. Но ведет ли такой путь к счастью?",
-        "slogan": "One home, one secret, one man, two sisters",
-        "premiere": "5 декабря 2013",
-        "age": "0",
-        "time": "7920",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_806386.jpg",
-        "rating": {
-          "rating_kp": "7.038",
-          "vote_num_kp": "166",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "6580"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "806259",
-      "date": "1581944458",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Последний рейс",
-        "orig": "Last Flight",
-        "alter": "",
-        "year": "2014",
-        "country": "Китай",
-        "director": "Винсент Чжоу",
-        "genre": "триллер",
-        "actors": "Эд Вествик, Чжу Чжу, Леон Ли, Кэри Каземи, Йохан Хельф, Линьлинь Цзянь, Диди Цянь, Эмили Сансири, Александр Уинтерс",
-        "description": "Когда Боинг 747 отправляется в последний полет, взлетая с небольшого тихоокеанского острова, начинают происходить необычные вещи. У пассажиров начинается паника, а капитан и главный стюард пытаются провести расследование.",
-        "slogan": "Это круче турбулентности",
-        "premiere": "21 марта 2014",
-        "age": "18",
-        "time": "5160",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_806259.jpg",
-        "rating": {
-          "rating_kp": "3.818",
-          "vote_num_kp": "1075",
-          "rating_imdb": "3.1",
-          "vote_num_imdb": "226"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "806151",
-      "date": "1581944455",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Ускорение",
-        "orig": "Boost",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Nathan Gabaeff",
-        "genre": "боевик,драма,криминал",
-        "actors": "Дэнни Трехо, Денай Гарсиа, Трент Гарретт, Роб Нэгл, Майкл Флорес, Эрин Салливан, Джастин Дрей, Джонатан ЛаВалли, H.C. Fletcher, Граци ДиПаоло",
-        "description": "Простой мужчина вёл размеренный образ жизни, работал на скучнейшей работе, обитал в простом и уютном доме и разъезжал по городу на стареньком автомобиле. В один прекрасный день он открыл багажник своей машины и увидел запакованную человеческую почку. Этот орган можно продать на чёрном рынке за очень большие деньги, в которых мужчина отчаянно нуждался. Но герой не подумал, что неизвестные преступники просто ошиблись авто, и когда до них дойдёт осознание своей оплошности, они сделают всё, чтобы вернуть свой товар.",
-        "slogan": "Everyone has a price",
-        "premiere": "6 апреля 2016",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_806151.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "91",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "586"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "805759",
-      "date": "1581944452",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Дубляж",
-      "max_qual": "720",
-      "info": {
-        "rus": "Пропитанный отбеливателем",
-        "orig": "Soaked in Bleach",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Бен Статлер",
-        "genre": "документальный,криминал",
-        "actors": "Дэниэл Робак, Сара Скотт, Аугуст Эмерсон, Тайлер Брайан, Джули Ланкастер, Джерри Хаук, Стивен Эллисон, Мэнди Хендерсон, Пэт Асанти, Сейди Лопес",
-        "description": "Фильм исследует возможность того, что смерть Курта Кобейна не была фактическим самоубийством.",
-        "slogan": "The death of an icon comes to life",
-        "premiere": "1 июня 2015",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_805759.jpg",
-        "rating": {
-          "rating_kp": "7.015",
-          "vote_num_kp": "1209",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "11220"
         }
       }
     }

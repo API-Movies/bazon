@@ -2,6 +2,286 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "60421",
+      "date": "1613084887",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Сумасброды",
+        "orig": "Screwballs",
+        "alter": "Идиоты",
+        "year": "1983",
+        "country": "Канада",
+        "director": "Рафал Зелински",
+        "genre": "комедия",
+        "actors": "Питер Келеган,Кент Дойтерс,Линда Спешл,Алан Девё,Линда Шэйн,Джейсон Уоррен,Джим Коберн,Терреа Смит,Донни Боус,Кимберли Брукс",
+        "description": "Пятеро учеников T & A High School собираются вместе, чтобы соблазнить девственницу класса по прозвищу «Непорочный куст»...",
+        "slogan": "The Raunchiest '80s Sex Comedy of Them All!",
+        "premiere": "1 апреля 1983",
+        "age": "16",
+        "time": "4920",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_60421.jpg",
+        "rating": {
+          "rating_kp": "5.087",
+          "vote_num_kp": "206",
+          "rating_imdb": "4.6",
+          "vote_num_imdb": "2973"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1154821",
+      "date": "1613084406",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Приватный чат",
+        "orig": "PVT CHAT",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Ben Hozie",
+        "genre": "драма",
+        "actors": "Джулия Фокс,Heather Allison,Nikki Belfiglio,Austin Brown,Аттикус Кэйн,Michelle Chu,Andrew Clark,Oliver David,Ally Davis,Buddy Duress",
+        "description": "Джек - игроман из в Нью-Йорка, который зациклился на Скарлет, вебкамщице из Сан-Франциско. Его одержимость достигает точки кипения, когда фантазия материализуется в реальность, и Джек видит Скарлет на дождливой улице Чайнатауна.",
+        "slogan": "An erotic drama where love, loneliness, and yearning play out online and IRL",
+        "premiere": "21 августа 2020",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1154821.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "55",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "543"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "883264",
+      "date": "1613083511",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Безликий",
+        "orig": "Faceless",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Марсель Сармиенто",
+        "genre": "триллер",
+        "actors": "Терри Серпико,Александра Эссоу,Брендан Секстон III,Каллен Мосс,Клэйтон Ланди,Блейк Роббинс,Кимберли Крэндолл,Джонни Уиншер,Ришар Айлор,Дэвид Коэн",
+        "description": "Напуганный и сбитый с толку человек приходит в сознание в больничной палате и понимает, что ему сделали операции по пересадке лица. Мучаясь от странных воспоминаний, после реабилитации он выписывается из больницы. Когда с ним знакомится загадочная рыжеволосая женщина Софи, жизнь становится ещё более запутанной. Теперь его преследует мужчина в капюшоне, от него отворачиваются близкие, а прохожие смотрят на него косо. Начав пить, он вступает в конфликт с человеком, у которого нет лица! Теперь ему придется выяснить, в чём дело, и кому он так нужен, пока не поздно.",
+        "slogan": "",
+        "premiere": "15 января 2021",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjEyODEyZTQtYjA3NC00MWU4LTlmYjgtZDFlNTZlMTNlMmFiXkEyXkFqcGdeQXVyNjA1NDAzMw@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "31",
+          "rating_imdb": "3.7",
+          "vote_num_imdb": "151"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "13655",
+      "date": "1613081569",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Линия смерти",
+        "orig": "Party Line",
+        "alter": "Телефонные знакомства",
+        "year": "1988",
+        "country": "США",
+        "director": "Уильям Уэбб",
+        "genre": "триллер",
+        "actors": "Ричард Хэтч,Шон Уэзерли,Лейф Гаррет,Грета Блэкберн,Ричард Раундтри,Джеймс О’Салливан,Теренс МакГоверн,Шелли Плэйс,Patricia Patts,Тара Хатчинс",
+        "description": "Состоятельный бездельник из Беверли Хиллз Сет Бенсон, используя свою очаровательную сестру Анжелину в качестве «приманки», убивает, а затем грабит ее «телефонных» клиентов. Иногда он делает это без помощи сестры, иногда убивает не ради денег. И постепенно противостояние с полицией превращается для него в игру.",
+        "slogan": "Монолит",
+        "premiere": "",
+        "age": "18",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_13655.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "34",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "302"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "34273",
+      "date": "1613081415",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Бабушкин дом",
+        "orig": "Grandmother's House",
+        "alter": "",
+        "year": "1988",
+        "country": "США",
+        "director": "Питер Рейдер",
+        "genre": "ужасы",
+        "actors": "Эрик Фостер,Ким Валентайн,Лен Лессер,Ида Ли,Бринк Стивенс,Майкл Робинсон,Craig Yerman,David Donham,Джоан-Кэрол Бенсен,Анджела О’Нилл",
+        "description": "После смерти отца маленькие дети остались сиротами и теперь отправляются жить к бабушке с дедушкой. Но в новом доме явно что-то не так.",
+        "slogan": "She&#x27;ll Spoil You To Death!",
+        "premiere": "16 декабря 1988",
+        "age": "18",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_34273.jpg",
+        "rating": {
+          "rating_kp": "5.295",
+          "vote_num_kp": "231",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "1101"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4299212",
+      "date": "1613078914",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Красная точка",
+        "orig": "Red Dot",
+        "alter": "",
+        "year": "2021",
+        "country": "Швеция",
+        "director": "Alain Darborg",
+        "genre": "триллер,драма",
+        "actors": "Йоханнес Кунке,Нанна Блонделл,Анастасиос Соулис,Каллед Мустонен,Томас Ханзон,Анна Ацарате,Tomas Bergström,Melvin Solin,Johan Hedman,Per Mårthans",
+        "description": "Семейная пара идет в поход, чтобы возродить угасшие чувства. Однако на них открывает охоту загадочный стрелок.",
+        "slogan": "",
+        "premiere": "11 февраля 2021",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzhhN2U5NWQtNDA2Yi00ZDc5LWFlMDMtYjRkZmU5NGM5MzA4XkEyXkFqcGdeQXVyODc0OTEyNDU@.jpg",
+        "rating": {
+          "rating_kp": "5.491",
+          "vote_num_kp": "1355",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "11091"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "31214",
+      "date": "1613078337",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Убийство в американском стиле",
+        "orig": "Killing American Style",
+        "alter": "",
+        "year": "1990",
+        "country": "США,Канада",
+        "director": "Амир Шерван",
+        "genre": "боевик,триллер,криминал",
+        "actors": "Харольд Даймонд,Джим Браун,Роберт З’Дар,Хоселито Рескобер,Джон Линч,Вероника Пол,Джимми Уильямс,G. Alexander Virdon,Бретт Джонстон,Buck Striker",
+        "description": "Четверо бандитов совершают вооруженное ограбление, но их сдает охранник, давший наводку. Через него их всех и «вычисляют» полицейские. Брат одного из них организует дерзкое нападение на специальный автобус, перевозивший преступников в тюрьму. Оказавшись на свободе, они захватывают богатый особняк с двумя красивыми девушками и мальчиком. Хозяин дома, специалист по боевым искусствам, вынужден выполнять все приказы подонков.",
+        "slogan": "There are all kinds of killings. The best is American style",
+        "premiere": "",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_31214.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "24",
+          "rating_imdb": "3.9",
+          "vote_num_imdb": "489"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "13576",
+      "date": "1613072284",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Посланник смерти",
+        "orig": "Messenger of Death",
+        "alter": "",
+        "year": "1988",
+        "country": "США",
+        "director": "Дж. Ли Томпсон",
+        "genre": "боевик,триллер,криминал,детектив",
+        "actors": "Чарльз Бронсон,Триш Ван Девере,Лоуренс Лакинбилл,Дэниэл Бензали,Мэрлин Хэссет,Чарльз Диркоп,Джефф Кори,Джон Айрленд,Пенни Пейсер,Джин Дэвис",
+        "description": "Однажды к заброшенному в захолустье, где-то в глубине Америки, дому бесшумно подъехала машина и остановилась там, где играют дети. Чем-то зловещим и ужасным веяло от ее облика и от человека, который не спеша вылез из нее. И детишки, смутно почувствовав суеверный подсознательный страх, попятились от незнакомца. Но его лица они не запомнят.\r\n\r\nВыстрелом в упор, по одному на каждого, он прикончит их хладнокровно и без сожаления. И также, не тратя лишних патронов, уничтожит женщин, оставшихся в доме... А спустя некоторое время отважный репортер (Бронсон) начнет собственное расследование о секте мормонов.",
+        "slogan": "What the cops can&#x27;t do, he will",
+        "premiere": "16 сентября 1988",
+        "age": "16",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_13576.jpg",
+        "rating": {
+          "rating_kp": "5.823",
+          "vote_num_kp": "204",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "2631"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1030277",
       "date": "1613069110",
       "camrip": "0",
@@ -117,7 +397,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_445307.jpg",
         "rating": {
           "rating_kp": "6.089",
-          "vote_num_kp": "411",
+          "vote_num_kp": "412",
           "rating_imdb": "6",
           "vote_num_imdb": "3124"
         }
@@ -513,9 +793,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_178707.jpg",
         "rating": {
           "rating_kp": "8.227",
-          "vote_num_kp": "322378",
+          "vote_num_kp": "322508",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "400011"
+          "vote_num_imdb": "400071"
         }
       }
     },
@@ -903,7 +1183,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_584956.jpg",
         "rating": {
           "rating_kp": "7.559",
-          "vote_num_kp": "51657",
+          "vote_num_kp": "51664",
           "rating_imdb": "6.4",
           "vote_num_imdb": "71"
         }
@@ -987,10 +1267,10 @@
         "time": "2580",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_582208.jpg",
         "rating": {
-          "rating_kp": "6.119",
-          "vote_num_kp": "17086",
+          "rating_kp": "6.118",
+          "vote_num_kp": "17140",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "18862"
+          "vote_num_imdb": "18889"
         }
       }
     },
@@ -1047,9 +1327,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1290944.jpg",
         "rating": {
           "rating_kp": "7.593",
-          "vote_num_kp": "3518",
+          "vote_num_kp": "3520",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "6738"
+          "vote_num_imdb": "6749"
         }
       }
     },
@@ -1116,8 +1396,8 @@
         "time": "4620",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1113011.jpg",
         "rating": {
-          "rating_kp": "7.152",
-          "vote_num_kp": "95435",
+          "rating_kp": "7.15",
+          "vote_num_kp": "95655",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1168,7 +1448,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_939795.jpg",
         "rating": {
           "rating_kp": "6.235",
-          "vote_num_kp": "812",
+          "vote_num_kp": "814",
           "rating_imdb": "6.9",
           "vote_num_imdb": "2659"
         }
@@ -1272,10 +1552,10 @@
         "time": "7080",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1281108.jpg",
         "rating": {
-          "rating_kp": "6.612",
-          "vote_num_kp": "8249",
+          "rating_kp": "6.611",
+          "vote_num_kp": "8256",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "65687"
+          "vote_num_imdb": "65745"
         }
       }
     },
@@ -1342,8 +1622,8 @@
         "time": "5580",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112681.jpg",
         "rating": {
-          "rating_kp": "6.143",
-          "vote_num_kp": "1471",
+          "rating_kp": "6.13",
+          "vote_num_kp": "1480",
           "rating_imdb": "7.2",
           "vote_num_imdb": "12795"
         }
@@ -1573,7 +1853,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1344489.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "54",
+          "vote_num_kp": "56",
           "rating_imdb": "5.8",
           "vote_num_imdb": "184"
         }
@@ -1680,7 +1960,7 @@
           "rating_kp": "7.419",
           "vote_num_kp": "530",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "1249"
+          "vote_num_imdb": "1253"
         }
       }
     },
@@ -1712,8 +1992,8 @@
         "time": "4980",
         "poster": "https://m.media-amazon.com/images/M/MV5BYzZhMGEwZjYtMjkxYS00NGNkLTk3MGMtMmNjYjY3OTkwZWUzXkEyXkFqcGdeQXVyMDA4NzMyOA@@.jpg",
         "rating": {
-          "rating_kp": "5.176",
-          "vote_num_kp": "837",
+          "rating_kp": "5.174",
+          "vote_num_kp": "839",
           "rating_imdb": "3.6",
           "vote_num_imdb": "457"
         }
@@ -1890,7 +2170,7 @@
           "rating_kp": "0",
           "vote_num_kp": "80",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "454"
+          "vote_num_imdb": "458"
         }
       }
     },
@@ -2092,9 +2372,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_397220.jpg",
         "rating": {
           "rating_kp": "7.954",
-          "vote_num_kp": "15041",
+          "vote_num_kp": "15045",
           "rating_imdb": "8",
-          "vote_num_imdb": "12893"
+          "vote_num_imdb": "12894"
         }
       }
     },
@@ -2156,290 +2436,10 @@
         "time": "1500",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1177949.jpg",
         "rating": {
-          "rating_kp": "7.731",
-          "vote_num_kp": "1898",
+          "rating_kp": "7.727",
+          "vote_num_kp": "1911",
           "rating_imdb": "8.2",
           "vote_num_imdb": "3059"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1123169",
-      "date": "1612960207",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Все ждут Рождество: Люси против Крампуса",
-        "orig": "Julemandens datter",
-        "alter": "",
-        "year": "2018",
-        "country": "Дания",
-        "director": "Кристиан Дюэкьер",
-        "genre": "семейный",
-        "actors": "Элла Теста Куск,Петер Сейер Винтер,Мартин Бух,Миа Лине,Ульф Пилгаард,Николай Коперникус,Кристиан Халкен,Андерс Бринк Мэдсен,Румле Грюнвольд Фальк,Кристиан Фьёрд",
-        "description": "Чтобы стать первой девочкой, принятой в школу Санта-Клауса, двенадцатилетняя Люсия должна найти лекарство от загадочной болезни, вызванной дьявольским Крампусом.",
-        "slogan": "",
-        "premiere": "8 ноября 2018",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1123169.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "66",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "177"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1022708",
-      "date": "1612959498",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ложные надежды",
-        "orig": "False Hopes",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "David D. Dietrich",
-        "genre": "мелодрама,комедия",
-        "actors": "Джастин Рэй,Кристин Джуарбе,Аарон Гробен,Claire Bermingham,Джеди Боденхамер,Вики Доусон,Victor Marx,Бри Дюплчейн,Дэвид Лаго,Richard Leroy",
-        "description": "Томас всю жизнь искал идеальную девушку. Но встретив двух заинтересовавших его женщин, главный герой понял, что идеальная любовь не всегда является настоящей.",
-        "slogan": "",
-        "premiere": "3 марта 2020",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMmM3OGY1N2EtNDY1ZC00ZDlmLWIxOTMtYjgzZWYyNGZlNTcxXkEyXkFqcGdeQXVyNDIyMDMwNTg@._V1_FMjpg_UY909_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "6",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "99"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1163202",
-      "date": "1612958989",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Забег нагишом",
-        "orig": "Running Naked",
-        "alter": "",
-        "year": "2020",
-        "country": "Великобритания",
-        "director": "Виктор Бюхлер",
-        "genre": "драма",
-        "actors": "Тэмзин Мёрчант,Мэттью МакНалти,Эндрю Гауэр,Ракхи Тхакрар,Саша Паркинсон,Эмма Стэнсфилд,Том Дюран Притчард,Энди Чаплин,Марк Аткин,Nick Wilson",
-        "description": "В подростковом возрасте Марк и Бен познакомились в больнице. С тех пор прошло двадцать лет. Марк стал успешным врачом с репутацией ловеласа, а Бен — затворником-неврастеником, пленником собственных навязчивых ритуалов и дурацких привычек. Несмотря на отличительность их характеров, между мужчинами сформировалась крепкая дружба. Но в один день всё кардинально меняется, когда Марк узнает, что его друг серьезно болен.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNTEwOTM0YjktN2E0NC00ZDVjLWE1NDktNGU1Y2UyOGU4OWU1XkEyXkFqcGdeQXVyMzM2NjY4NQ@@._V1_FMjpg_UY904_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "3",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "152"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "61341",
-      "date": "1612948506",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мужчина по вызову 2",
-        "orig": "Deuce Bigalow: European Gigolo",
-        "alter": "",
-        "year": "2005",
-        "country": "США",
-        "director": "Майк Бигелоу",
-        "genre": "комедия",
-        "actors": "Роб Шнайдер, Эдди Гриффин, Ерун Краббе, Тиль Швайгер, Дуглас Силлс, Карлос Понсе, Чарльз Китинг, Ханна Вербум, Алекс Димитриадес, Костас Соммер",
-        "description": "Дьюс отправляется по приглашению своего бывшего сутенёра на отдых в Амстердам и в итоге понимает, что его вновь хотят вернуть в бизнес эскорт-услуг для женщин. Не то чтобы Дьюс был против - платят неплохо, но, во-первых, у него уже есть постоянная подружка, а во-вторых, у европейских женщин слишком бурная сексуальная фантазия...",
-        "slogan": "Для женщин Европы... цена любви резко понизилась",
-        "premiere": "6 августа 2005",
-        "age": "16",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_61341.jpg",
-        "rating": {
-          "rating_kp": "5.711",
-          "vote_num_kp": "17926",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "49183"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1402117",
-      "date": "1612938606",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Свидание в День святого Валентина",
-        "orig": "Valentines Date",
-        "alter": "",
-        "year": "2021",
-        "country": "США",
-        "director": "Bryan G. Thompson",
-        "genre": "комедия",
-        "actors": "Kathy Thomas-Aldrich,Bryan G. Thompson,Том Чемберлен,Sherrie Prose,Diajesma Orozco,Jeff Ararat,Ronald Gamble,Victor Martinez,Al Matamoros,Эндрю Мэтни",
-        "description": "Семейной паре, стремящейся поскорее положить конец своему браку, придется пережить сумасшедший уик-энд, чтобы получить желанное свидетельство о разводе.",
-        "slogan": "An Un-romantic Comedy",
-        "premiere": "1 января 2021",
-        "age": "0",
-        "time": "5760",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYzY4MzY5OGItNWU0NS00MjViLWI2ZWItNDMzNzUyN2UxY2I0XkEyXkFqcGdeQXVyNDE4MzQxMDc@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "3",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "70"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1274833",
-      "date": "1612912512",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Война наркокартелей",
-        "orig": "Narco Sub",
-        "alter": "",
-        "year": "2021",
-        "country": "США",
-        "director": "Шон Веллинг",
-        "genre": "боевик,драма,криминал",
-        "actors": "Tom Vera,Том Сайзмор,Ли Мэйджорс,Роберт ЛаСардо,Jim Jimenez,Jon Fiore,Jen Barbeito,Alexis Arnold,Sydney Ruddock,Johnny Ray Gibbs",
-        "description": "Возрождение карибских нарко-маршрутов приводит к власти пару в стиле Бонни и Клайда.",
-        "slogan": "",
-        "premiere": "5 февраля 2021",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMGY1NzhmM2ItNmRiMi00NGQ0LTk1NTEtNzNjYTRhN2JmODAzXkEyXkFqcGdeQXVyMjAxODMxOTc@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "50",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "1468"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1392571",
-      "date": "1612912508",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Застреленный",
-        "orig": "Gunned Down",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "VaShawn Dixon",
-        "genre": "драма",
-        "actors": "Nick Alexander,Esteban Arellano,Arman Bayatpour,Mallory Brewer,Theola Bright,Evony Brown,Myeisha Byrd,Nye Byrd,Jemyris Causey,Taurean Chapman",
-        "description": "В утопающем в преступности городе шайка контрабандистов случайно убивает тайного информатора ФБР, что запускает цепочку роковых событий.",
-        "slogan": "What Happens When The Gun is The Main Character ...?",
-        "premiere": "28 июня 2020",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZDY4NjJjOTUtOWI3Yi00MWUzLWEzNTAtODA1MzA5ZjY5MWI1XkEyXkFqcGdeQXVyNzY0MzE5ODk@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "1",
-          "rating_imdb": "3.6",
-          "vote_num_imdb": "33"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1264364",
-      "date": "1612897207",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Дрифтлесс",
-        "orig": "Driftless",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Харпер Филбин",
-        "genre": "драма,криминал,приключения",
-        "actors": "Моник Канделария,Мики О’Салливан,Samantha Ipema,Дженнифер Джелсема,Майк Стэнли,Nathalie Galde,Sheri Beth Dusek,Дон Кохрэн,Джо Андерсон,Рэйчел Трэйси",
-        "description": "После того, как из-за нехватки бюджета власти США приняли решение о закрытии национального парка Дрифтлесс в День независимости, местным рейнджерам не остается иного выбора, кроме как защищать парк от людей, а людей друг от друга.",
-        "slogan": "",
-        "premiere": "10 сентября 2020",
-        "age": "0",
-        "time": "4500",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZWY2ODRjM2QtZmE0MC00ZTA0LWFlODEtN2QwZWY5NWE3YjBlXkEyXkFqcGdeQXVyMTIzNTI5NTM1.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "80"
         }
       }
     }

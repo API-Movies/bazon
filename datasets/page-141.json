@@ -2,6 +2,348 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1428888",
+      "date": "1610716604",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "ColdFilm",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "3",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720
+        }
+      },
+      "info": {
+        "rus": "Тайна Эммы Филдинг",
+        "orig": "Emma Fielding Mysteries",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Кевин Фэйр",
+        "genre": "детектив",
+        "actors": "Кортни Торн-Смит,Джеймс Таппер,Марк Вэлли,Адам ДиМарко,Тесс Аткинс,Кристал Балинт,Крэйг Марч,Шэрон Тейлор,Джанет Киддер,Питер Брайант",
+        "description": "Эмма Филдинг - прекрасный археолог. Она работает, не покладая рук. Главная героиня уверена в своих силах всегда действует так, как считает нужным. Женщина целеустремленно работает над очередными раскопкам, однако неожиданно натыкается на труп человека, который явно был спрятан не так давно. Как оказалось, очередное убийство - это весьма запутанное и непонятное дело. В ходе этих событий героиня несколько раз поменяет собственный статус. Сначала она будет проходить свидетелем, а после станет подозреваемой и даже жертвой. Больше всего Эмме понравиться находиться в статусе детектива, который расследует преступление. Она постарается понять, что же именно стало причиной убийства несчастного. Параллельно главная героиня продолжает заниматься раскопками, пытаясь найти хоть какие-то следы первой колонии европейцев, заселивших новую землю. Что же будет дальше в этой увлекательной истории?",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://thumbs.filmix.tech/posters/orig/tayna-emmy-filding-2017_148281_0.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "818883",
+      "date": "1610716098",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "AniLibria",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "13",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080
+        }
+      },
+      "info": {
+        "rus": "Бездомный бог",
+        "orig": "Noragami",
+        "alter": "",
+        "year": "2014",
+        "country": "Япония",
+        "director": "Тамура Котаро, Цуёси Хида, Сюдзи Мияхара",
+        "genre": "аниме,комедия,боевик,фэнтези,драма,приключения,мультфильм",
+        "actors": "Хироси Камия, Маая Утида, Юки Кадзи, Bryn Apprill, Джейсон Либрехт, Мика Солусод, Аки Тоёсаки, Миюки Савасиро, Дзюн Фукуяма, Даисукэ Оно",
+        "description": "Малоизвестный бог без собственного храма решает помогать каждому встречному в любых желаниях, чтобы получить хоть какое то признание. Однажды он спасает от смерти девушку из состоятельной семьи...",
+        "slogan": "",
+        "premiere": "5 января 2014",
+        "age": "0",
+        "time": "1440",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_818883.jpg",
+        "rating": {
+          "rating_kp": "7.963",
+          "vote_num_kp": "32246",
+          "rating_imdb": "7.9",
+          "vote_num_imdb": "12091"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "46789",
+      "date": "1610715297",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "12 стульев",
+        "orig": "12 стульев",
+        "alter": "",
+        "year": "1971",
+        "country": "СССР",
+        "director": "Леонид Гайдай",
+        "genre": "комедия,криминал,приключения",
+        "actors": "Арчил Гомиашвили, Сергей Филиппов, Михаил Пуговкин, Наталья Крачковская, Наталья Воробьева, Гликерия Богданова-Чеснокова, Нина Гребешкова, Юрий Никулин, Наталья Варлей, Клара Румянова",
+        "description": "Во время революции и последовавшего за ней краткого периода военного коммунизма многие прятали свои ценности как можно надежнее. И вот Ипполит Матвеевич Воробьянинов, бывший Старгородский предводитель дворянства и светский лев, а ныне - скромный делопроизводитель ЗАГСа, узнает от умирающей тещи, что некогда она спрятала свои бриллианты и жемчуга в общей сложности на 150 000 золотых рублей под обивку одного из двенадцати стульев гостиного гарнитура работы известного мастера Гамбса.\r\n\r\nБросив все, Воробьянинов бросается на поиски стульев, в чем ему, конечно же, небескорыстно, берется помочь молодой авантюрист, «великий комбинатор» Остап Бендер. Найти следы разрозненного гарнитура непросто. Не облегчает положения и то, что перед смертью теща Воробьянинова открыла тайну сокровищ и своему исповеднику, отцу Федору, всю жизнь мечтавшему о собственном свечном заводике в Самаре...",
+        "slogan": "Amerika Be Seated!",
+        "premiere": "21 июня 1971",
+        "age": "6",
+        "time": "9180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_46789.jpg",
+        "rating": {
+          "rating_kp": "8.24",
+          "vote_num_kp": "195042",
+          "rating_imdb": "8.3",
+          "vote_num_imdb": "6058"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "713202",
+      "date": "1610711123",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мэрдок Скрэмбл: Третье истощение",
+        "orig": "Mardock Scramble: The Third Exhaust",
+        "alter": "",
+        "year": "2012",
+        "country": "Япония",
+        "director": "Сусуму Кудо",
+        "genre": "аниме,мультфильм,фантастика,приключения",
+        "actors": "Мэгуми Хаясибара, Норито Ясима, Исобэ Цутому, Хироки Тоути, Даисукэ Оно, Кадзуя Накаи, Тосико Фудзита, Такая Хаси, Susan O. Koozin, Маргарет МакДональд",
+        "description": "Рун Балот, ставшая киборгом окончательно сталкивается со своим бывшим хозяином Шелом, чтобы, наконец, поставить в своей истории жирную точку.",
+        "slogan": "",
+        "premiere": "29 сентября 2012",
+        "age": "0",
+        "time": "3900",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_713202.jpg",
+        "rating": {
+          "rating_kp": "6.422",
+          "vote_num_kp": "329",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "676"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "622835",
+      "date": "1610710216",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мэрдок Скрэмбл",
+        "orig": "Marudukku sukuranburu: Asshuku",
+        "alter": "",
+        "year": "2010",
+        "country": "Япония",
+        "director": "Сусуму Кудо",
+        "genre": "аниме,мультфильм,фантастика,приключения",
+        "actors": "Мэгуми Хаясибара, Норито Ясима, Исобэ Цутому, Хироки Тоути, Томохиро Ваки, Норио Вакамото, Кэнта Миякэ, Мика Канаи, Кадзуя Накаи, Масахико Танака",
+        "description": "«Почему я?..» - последнее о чём подумала молодая проститутка Рун Балот. Её человеческая жизнь оборвалась, рабыня опасного картёжника Шела погибла от его же руки. На этом её история бы и закончилась, если бы не одно но - девушка стала киборгом. Получив силу, она желает расквитаться с Шелом и его помощником Бойледом.",
+        "slogan": "",
+        "premiere": "6 ноября 2010",
+        "age": "0",
+        "time": "4140",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_622835.jpg",
+        "rating": {
+          "rating_kp": "6.827",
+          "vote_num_kp": "733",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "1358"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1237959",
+      "date": "1610704024",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "LostFilm",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "6",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080
+        }
+      },
+      "info": {
+        "rus": "Трансформеры: Война за Кибертрон",
+        "orig": "Transformers: War for Cybertron",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Гэвин Хайнайт",
+        "genre": "мультфильм,короткометражка,фантастика,боевик",
+        "actors": "Эдвард Боско,Брук Чалмерс,Jake Foushee,Тодд Хаберкорн,Шон Хоукинс,Jason Marnocha,Билл Роджерс,Linsay Rousseau,Кит Силверштейн,Фрэнк Тодаро",
+        "description": "В разгар непрекращающейся войны на планете Кибертрон армии добра и зла сталкиваются, когда ищут источник своей силы. Возможно, это не та жизнь, которую они себе представляли, но это жизнь, за которую стоит бороться.",
+        "slogan": "",
+        "premiere": "30 июля 2020",
+        "age": "0",
+        "time": "1500",
+        "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/c4a78336-c8c7-438d-a5f5-1f232f000a00/600x900",
+        "rating": {
+          "rating_kp": "6.292",
+          "vote_num_kp": "461",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "2614"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "726773",
+      "date": "1610700302",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дом",
+        "orig": "Home",
+        "alter": "",
+        "year": "2013",
+        "country": "США",
+        "director": "Николас МакКарти",
+        "genre": "ужасы",
+        "actors": "Ная Ривера, Каталина Сандино Морено, Эшли Рикардс, Ник Эверсман, Майкл Масси, Марк Стегер, Уайатт Рассел, Дэниэл Робак, Джен Броберг, Эршад Аслам",
+        "description": "Девушка расследует череду странных происшествий в доме. Оказывается, предыдущий арендатор совершенно случайно вызвал дьявола.",
+        "slogan": "It's looking for a home",
+        "premiere": "9 марта 2014",
+        "age": "0",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_726773.jpg",
+        "rating": {
+          "rating_kp": "4.563",
+          "vote_num_kp": "647",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "6856"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "29798",
+      "date": "1610699407",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "«Штуки» над Лондоном",
+        "orig": "La battaglia d'Inghilterra",
+        "alter": "",
+        "year": "1969",
+        "country": "Италия,Франция,Испания",
+        "director": "Энцо Дж. Кастеллари",
+        "genre": "драма,военный",
+        "actors": "Фредерик Стэффорд,Ван Джонсон,Франсиско Рабаль,Ида Галли,Луиджи Пистилли,Ренцо Пальмер,Луис Давила,Кристиан Хэй,Жак Бертье,Тереса Химпера",
+        "description": "Картина описывает драматические события 1940-го года. Фашистская Германия несет угрозу всему миру, Англия противостоит ей, но постоянные вражеские диверсии и провокации противника истощают силы страны. И на фоне всего этого - нормальные человеческие взаимоотношения...",
+        "slogan": "A true story written in flame and fury !",
+        "premiere": "20 сентября 1969",
+        "age": "0",
+        "time": "6600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_29798.jpg",
+        "rating": {
+          "rating_kp": "5.269",
+          "vote_num_kp": "70",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "467"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1074525",
       "date": "1610691306",
       "camrip": "0",
@@ -99,7 +441,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1260096.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "377",
+          "vote_num_kp": "378",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -379,9 +721,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_955968.jpg",
         "rating": {
           "rating_kp": "5.879",
-          "vote_num_kp": "25810",
+          "vote_num_kp": "25813",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "43259"
+          "vote_num_imdb": "43264"
         }
       }
     },
@@ -414,7 +756,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1318989.jpg",
         "rating": {
           "rating_kp": "5.731",
-          "vote_num_kp": "2863",
+          "vote_num_kp": "2864",
           "rating_imdb": "5.4",
           "vote_num_imdb": "8113"
         }
@@ -448,8 +790,8 @@
         "time": "5700",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_962077.jpg",
         "rating": {
-          "rating_kp": "5.351",
-          "vote_num_kp": "313",
+          "rating_kp": "5.417",
+          "vote_num_kp": "320",
           "rating_imdb": "4.8",
           "vote_num_imdb": "464"
         }
@@ -519,9 +861,9 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BYzY2NWQyZmYtMTU1OC00NmRlLWJkNjItN2E5NGNkZmZiMTc1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX844_.jpg",
         "rating": {
           "rating_kp": "7.199",
-          "vote_num_kp": "239",
+          "vote_num_kp": "241",
           "rating_imdb": "7",
-          "vote_num_imdb": "1561"
+          "vote_num_imdb": "1567"
         }
       }
     },
@@ -588,10 +930,10 @@
         "time": "5160",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1233185.jpg",
         "rating": {
-          "rating_kp": "5.659",
-          "vote_num_kp": "239",
+          "rating_kp": "5.644",
+          "vote_num_kp": "244",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "796"
+          "vote_num_imdb": "800"
         }
       }
     },
@@ -623,8 +965,8 @@
         "time": "5520",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1338020.jpg",
         "rating": {
-          "rating_kp": "7.166",
-          "vote_num_kp": "8905",
+          "rating_kp": "7.17",
+          "vote_num_kp": "8917",
           "rating_imdb": "6.4",
           "vote_num_imdb": "1201"
         }
@@ -889,9 +1231,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1197918.jpg",
         "rating": {
           "rating_kp": "4.688",
-          "vote_num_kp": "2800",
+          "vote_num_kp": "2801",
           "rating_imdb": "5.3",
-          "vote_num_imdb": "702"
+          "vote_num_imdb": "703"
         }
       }
     },
@@ -924,7 +1266,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_322948.jpg",
         "rating": {
           "rating_kp": "8.134",
-          "vote_num_kp": "466",
+          "vote_num_kp": "469",
           "rating_imdb": "7.9",
           "vote_num_imdb": "13136"
         }
@@ -1037,8 +1379,8 @@
         "time": "1800",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1355061.jpg",
         "rating": {
-          "rating_kp": "6.853",
-          "vote_num_kp": "54807",
+          "rating_kp": "6.852",
+          "vote_num_kp": "54842",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1143,7 +1485,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1435459.jpg",
         "rating": {
           "rating_kp": "5.36",
-          "vote_num_kp": "600",
+          "vote_num_kp": "601",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1212,10 +1554,10 @@
         "time": "6120",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1193013.jpg",
         "rating": {
-          "rating_kp": "6.248",
-          "vote_num_kp": "11666",
+          "rating_kp": "6.249",
+          "vote_num_kp": "11677",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "19562"
+          "vote_num_imdb": "19600"
         }
       }
     },
@@ -1566,334 +1908,6 @@
           "vote_num_kp": "4",
           "rating_imdb": "5.9",
           "vote_num_imdb": "41"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1426355",
-      "date": "1610579706",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Мученица Аврора",
-        "orig": "Curse of Aurore",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Mehran Torgoley",
-        "genre": "ужасы,драма,детектив",
-        "actors": "Llana Barron,Алекс Майкл Уилсон,Jordan Kaplan,Agathe Salzmann,Roxane Delisle,Mike D. Smith,David Robert Donatucci,Casey Nolan,Denis Paquin,Louisette Paquin",
-        "description": "Видео, обнаруженное в недрах тёмного интернета, повествует историю трёх начинающих кинематографистов, которые отправляются в Квебек, чтобы написать сценарий для фильма ужасов на основе местной легенды, но сами попадают в ещё более жуткую историю.",
-        "slogan": "",
-        "premiere": "24 июля 2020",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYzgzNzlmMzEtYTZhZi00NWY1LTlhZjAtZmE0ZTJkYWI5ZjEzXkEyXkFqcGdeQXVyNzI1Njk0ODA@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "9",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "220"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1234850",
-      "date": "1610579706",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дорогие товарищи!",
-        "orig": "Дорогие товарищи!",
-        "alter": "",
-        "year": "2020",
-        "country": "Россия",
-        "director": "Андрей Кончаловский",
-        "genre": "драма,история",
-        "actors": "Юлия Высоцкая,Сергей Эрлиш,Юлия Бурова,Андрей Гусев,Владислав Комаров,Дмитрий Костяев,Иван Мартынов,Вячеслав Пигарев,Анатолий Петрунин,Артём Крысин",
-        "description": "1962 год, в советском Новочеркасске – забастовка на главном городском заводе, люди требуют снижения цен на продукты и повышения зарплат. Когда к забастовке присоединяются рабочие других предприятий, правительственная комиссия решает ввести в город армию, и через считанные часы на улицах звучат выстрелы боевыми патронами. Работница парткома Людмила искренне верит в то, что строит коммунистическое общество и возмущается поведением заводских смутьянов. Но когда в бойне на площади без вести пропадает её дочь-подросток, стройная картина мира убежденной коммунистки рушится в одночасье.",
-        "slogan": "",
-        "premiere": "12 ноября 2020",
-        "age": "16",
-        "time": "6960",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1234850.jpg",
-        "rating": {
-          "rating_kp": "7.015",
-          "vote_num_kp": "9881",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "2610"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1149473",
-      "date": "1610576110",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Нашествие киборгов",
-        "orig": "Cyborg Invasion",
-        "alter": "",
-        "year": "2019",
-        "country": "Великобритания",
-        "director": "Марк Моррис",
-        "genre": "фантастика,фэнтези,боевик,приключения",
-        "actors": "Марк Моррис,Айван Мой,Пол Костер,Дэвид Томас Култер,Tristan Pretty,Tatiana Ibba,Джемма Уилкс,Kristina Popova,Simon Clark,Zain Qureshi",
-        "description": "Киборги из будущего используют машину времени, чтобы вернуться и изменить прошлое. Тем временем специальный агент Мэтт Престон пытается им помешать.",
-        "slogan": "",
-        "premiere": "18 июля 2019",
-        "age": "0",
-        "time": "3720",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOGQ0Y2ZmNWItZDNkMy00OThhLTlhMTAtMGFkNWRhMmMyM2NmXkEyXkFqcGdeQXVyMjIzMTM4MzY@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "3.6",
-          "vote_num_imdb": "12"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1063321",
-      "date": "1610568006",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Жёлтая роза",
-        "orig": "Yellow Rose",
-        "alter": "",
-        "year": "2019",
-        "country": "Филиппины,США",
-        "director": "Дайан Парагас",
-        "genre": "драма,музыка",
-        "actors": "Лиа Салонга,Эва Ноблезада,Густаво Гомез,Лайам Бут,Келси Прибильски,Princess Punzalan,Дэйл Уотсон,Либби Виллари,Хит Янг,Кеннет Уэйн Брэдли",
-        "description": "История Гэйл, филиппинского подростка из маленького техасского городка. Ей приходится выбирать между тем, чтобы остаться со своей семьей или покинуть родной дом, чтобы приблизиться к мечте — исполнять кантри.",
-        "slogan": "",
-        "premiere": "2 мая 2019",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1063321.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "20",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "722"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1399018",
-      "date": "1610566211",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Папье-Маше",
-        "orig": "Папье-Маше",
-        "alter": "",
-        "year": "2020",
-        "country": "Россия",
-        "director": "Виталий Суслин",
-        "genre": "комедия,драма",
-        "actors": "Иван Лашин,Татьяна Лашина,Юрий Сидоров,Татьяна Скареднева,Вячеслав Гардер,Шерзод Абдуллаев,Анатолий Бурмистров",
-        "description": "Простой пастух Иван Сергеевич Лашин стал призером «Кинотавра». Жизнь снова течет своим чередом, воспоминания о пальмах, море и магнолиях согревают, но в его судьбе появляются коллекторы, требующие расплаты. Знакомый Участковый предлагает покровительство в обмен на сделку.",
-        "slogan": "",
-        "premiere": "18 декабря 2020",
-        "age": "0",
-        "time": "4620",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1399018.jpg",
-        "rating": {
-          "rating_kp": "5.777",
-          "vote_num_kp": "689",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1108352",
-      "date": "1610563026",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "last_season": "4",
-      "last_episode": "8",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080
-        },
-        "3": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080
-        },
-        "4": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080
-        }
-      },
-      "info": {
-        "rus": "Леденящие душу приключения Сабрины",
-        "orig": "Chilling Adventures of Sabrina",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Роб Шейденгланц, Мэгги Кили, Ли Толанд Кригер",
-        "genre": "ужасы,триллер,фэнтези,детектив,драма",
-        "actors": "Кирнан Шипка, Росс Линч, Люси Дэвис, Чэнс Пердомо, Мишель Гомес, Джаз Синклер, Тати Габриэль, Аделин Рудольф, Ричард Койл, Миранда Отто",
-        "description": "Ведьма Сабрина пытается найти истинную себя между натурами смертной и ведьмы, при этом ей придётся противостоять злым силам, которые угрожают ей, её семье и всему миру людей.",
-        "slogan": "From the executive producers of Riverdale",
-        "premiere": "5 октября 2018",
-        "age": "0",
-        "time": "3600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1108352.jpg",
-        "rating": {
-          "rating_kp": "7.159",
-          "vote_num_kp": "50435",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "81277"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1034603",
-      "date": "1610562608",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Двухголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Вакуум",
-        "orig": "Vakuum",
-        "alter": "",
-        "year": "2017",
-        "country": "Швейцария,Германия",
-        "director": "Christine Repond",
-        "genre": "драма",
-        "actors": "Барбара Ауэр,Laura de Weck,Saladin Dellers,Марина Джеррини,Роберт Хунгер-Бюлер,Matthias Koch,Анна-Катарина Мюллер,Gian Rupf,Йонас Рюегг,Ориана Шраге",
-        "description": "За несколько дней до семейного торжества - 35-летия свадьбы Мередит позвонили со станции переливания крови, где она была донором, и попросили срочно зайти. Оказалось, что в ее крови обнаружен вирус СПИДа. Мередит, женщина строгих правил, не позволявшая себе связей на стороне, поняла, что заразиться могла только от мужа. Она устраивает за ним слежку и вскоре узнает о своем Андрэ много нового. И перед Мередит встает вопрос: как же дальше жить?",
-        "slogan": "",
-        "premiere": "26 ноября 2017",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1034603.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "18",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "171"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1281885",
-      "date": "1610558115",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Моя несносная девушка",
-        "orig": "Yêu Em Bât Châp",
-        "alter": "",
-        "year": "2018",
-        "country": "Вьетнам",
-        "director": "Van Cong Vien",
-        "genre": "мелодрама,комедия",
-        "actors": "Hoai Lam,Ngoc Thanh Tam,Cong Duong,Dam Vinh Hung,Ngoc Thao,Trang Tran",
-        "description": "Молодой парень случайно знакомится с симпатичной девушкой и решает во что бы то ни стало завоевать ее сердце. Однако это оказывается ох как непросто...",
-        "slogan": "",
-        "premiere": "4 апреля 2018",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://m.media-amazon.com/images/M/MV5BM2E5YTE4MmYtZWZkNy00NjU4LTk0MGEtMDdiMmM2ZDQ2OTk4XkEyXkFqcGdeQXVyOTIxNDQ1MTQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "9"
         }
       }
     }

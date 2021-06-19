@@ -2,6 +2,270 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1234387",
+      "date": "1586469282",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "В одной лодке",
+        "orig": "Same Boat",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Крис Роберти",
+        "genre": "комедия,фантастика",
+        "actors": "Крис Роберти,Тоня Гланц,Дэвид Блай,Anto Boros,Дэвид Карл,Jade Daugherty,Кэти Хартман,Evan Kaufman,Леа Рудик,Ben Scheiner",
+        "description": "Путешествующий во времени убийца случайно влюбляется в свою цель на борту круизного лайнера.",
+        "slogan": "A time traveling assassin inadvertently falls in love with his target aboard a cruise ship",
+        "premiere": "3 марта 2019",
+        "age": "0",
+        "time": "4980",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1234387.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "23",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "103"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1083356",
+      "date": "1586469199",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Паэурбомба",
+        "orig": "Powerbomb",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "R. Zachary Shildwachter,B.J. Colangelo",
+        "genre": "триллер",
+        "actors": "Рони Джона,Мэтт Каппикиони,Уэс Аллен,Gregory Iron,Britt Baker,Alexander Cantrell,Cash K. Allen,Джош Миллер,Кристиан Фэйт,Derek Klein",
+        "description": "История независимого рестлера, который решает оставить бои, чтобы проводить больше времени с семьей. Когда об этом узнает его главный фанат, он решает всеми силами помочь своему герою добраться до вершины.",
+        "slogan": "Life is a work",
+        "premiere": "6 марта 2020",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1083356.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "9",
+          "rating_imdb": "3.5",
+          "vote_num_imdb": "57"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "570346",
+      "date": "1586468629",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Холодное высокогорье",
+        "orig": "El páramo",
+        "alter": "",
+        "year": "2011",
+        "country": "Колумбия, Аргентина, Испания",
+        "director": "Хайме Осорио Маркес",
+        "genre": "ужасы,триллер",
+        "actors": "Хуан Пабло Барраган, Алехандро Агиляр, Маурисио Навас, Хуан Давид Рестрепо, Андрес Кастанеда, Нельсон Камайо, Хулио Сезар Валенсиа, Андрес Торрес, Матео Стевель, Даниэла Катц",
+        "description": "Небольшой отряд из девяти человек спешит выяснить почему прервалась связь с одним из отрядов и куда они вообще пропали. В результате разведывательной операции, в деревне солдатами была найдена прикованная к стене женщина. Дальнейшие события, связанные с приступами паранойи, обрушившейся на героев, постоянные ужасные находки и приступы страха, заставляют усомниться в человеческой природе происхождения найденной ими женщины...",
+        "slogan": "Something is out there",
+        "premiere": "7 октября 2011",
+        "age": "0",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_570346.jpg",
+        "rating": {
+          "rating_kp": "4.593",
+          "vote_num_kp": "243",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "1548"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1000595",
+      "date": "1586456440",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "BDRip",
+      "translation": "SDI Media",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "1",
+      "episodes": {
+        "1": {
+          "1": 1080
+        }
+      },
+      "info": {
+        "rus": "Свидетель обвинения",
+        "orig": "The Witness for the Prosecution",
+        "alter": "",
+        "year": "2016",
+        "country": "Великобритания, США",
+        "director": "Джулиан Джаррольд",
+        "genre": "триллер,детектив,драма,криминал",
+        "actors": "Билли Хоул, Ким Кэтролл, Моника Долан, Андреа Райзборо, Тоби Джонс, Роберт Ист, Дэвид Хэйг, Пол Рэди, Карла Лэнгли, Дориан Лок",
+        "description": "В Лондоне 1920-х годов происходит жестокое убийство светской дамы Эмили Френч. Все улики указывают на юного проходимца Леонарда Воула, который убил богатую наследницу, чтобы завладеть ее состоянием. По крайней мере, такую историю рассказывает в суде домоправительница убитой. Однако Леонард уверен, что загадочная хористка Ромейн может доказать его невиновность.",
+        "slogan": "",
+        "premiere": "26 декабря 2016",
+        "age": "18",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1000595.jpg",
+        "rating": {
+          "rating_kp": "6.653",
+          "vote_num_kp": "887",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "4433"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "920082",
+      "date": "1586456084",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Лучшие враги",
+        "orig": "The Best of Enemies",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Робин Бисселл",
+        "genre": "история,драма,биография",
+        "actors": "Тараджи П. Хенсон, Сэм Рокуэлл, Бабу Сизей, Энн Хеч, Уэс Бентли, Ник Сирси, Брюс МакГилл, Джон Галлахер мл., Ник Ковальчук, Гилберт Гленн Браун",
+        "description": "История о невероятной дружбе между чернокожей правозащитницей Энн Атуотер и членом Ку-клукс-клана Клэйборном Эллисом. Они были ожесточёнными противниками, пока не попали в один комитет по решению расового разделения в школе. Давних врагов объединяет забота о будущем своих детей.",
+        "slogan": "Change is worth fighting for",
+        "premiere": "5 апреля 2019",
+        "age": "0",
+        "time": "7980",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_920082.jpg",
+        "rating": {
+          "rating_kp": "7.134",
+          "vote_num_kp": "4508",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "12200"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "406978",
+      "date": "1586455765",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "DVDRip",
+      "translation": "Baibako",
+      "max_qual": "480",
+      "last_season": "1",
+      "last_episode": "6",
+      "episodes": {
+        "1": {
+          "1": 480,
+          "2": 480,
+          "3": 480,
+          "4": 480,
+          "5": 480,
+          "6": 480
+        }
+      },
+      "info": {
+        "rus": "Немного за сорок",
+        "orig": "Fortysomething",
+        "alter": "",
+        "year": "2003",
+        "country": "Великобритания",
+        "director": "Хью Лори, Ник Филлипс",
+        "genre": "комедия,драма",
+        "actors": "Хью Лори, Анна Чэнселлор, Бенедикт Камбербэтч, Нил Генри, Джо Ван Мойланд, Шила Хэнкок, Лолита Чакрабарти, Эмма Фергюсон, Кэрол Харви, Питер Капальди",
+        "description": "Пол Слиппери - довольно нервозный врач-терапевт, более преуспевающий на работе, чем у себя дома. Его жена, Эстель, наконец-то возвращается к работе после многих лет домашнего хозяйства и воспитания трех сыновей. В центре этой семейной комедии - секс: у Пола его нет, он боится, что у его жены он есть, а уж у трех их сыновей он в достатке.",
+        "slogan": "A middle-aged man losing his edge... and his grip!",
+        "premiere": "29 июня 2003",
+        "age": "0",
+        "time": "3000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_406978.jpg",
+        "rating": {
+          "rating_kp": "7.798",
+          "vote_num_kp": "4010",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "2047"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "883748",
+      "date": "1586455593",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кукла",
+        "orig": "The Boy",
+        "alter": "",
+        "year": "2015",
+        "country": "США, Канада, Китай",
+        "director": "Уильям Брент Белл",
+        "genre": "ужасы,триллер,детектив",
+        "actors": "Лорен Кохэн, Руперт Эванс, Джеймс Расселл, Джим Нортон, Диана Хардкэсл, Бен Робсон, Джетт Клине, Лили Патер, Мэттью Уолкер, Стефани Николь Лемелин",
+        "description": "Благополучная английская семья нанимает для своего сына американскую няню. Приехав на новое место работы, няня обнаруживает, что её подопечный вовсе не настоящий мальчик, а кукла в человеческий рост, с которой обращаются, как с живым человеком. Но тревожные события, происходящие после того, как няня нарушает установленные строгие правила, заставляют её поверить в то, что кукла действительно может быть живой.",
+        "slogan": "Каждый ребенок должен быть любим",
+        "premiere": "20 января 2016",
+        "age": "16",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_883748.jpg",
+        "rating": {
+          "rating_kp": "6.063",
+          "vote_num_kp": "53185",
+          "rating_imdb": "6",
+          "vote_num_imdb": "82927"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "799284",
       "date": "1586455123",
       "camrip": "0",
@@ -72,7 +336,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_799284.jpg",
         "rating": {
           "rating_kp": "6.177",
-          "vote_num_kp": "2401",
+          "vote_num_kp": "2402",
           "rating_imdb": "7",
           "vote_num_imdb": "16670"
         }
@@ -117,7 +381,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_991571.jpg",
         "rating": {
           "rating_kp": "6.882",
-          "vote_num_kp": "1140",
+          "vote_num_kp": "1143",
           "rating_imdb": "7.1",
           "vote_num_imdb": "1988"
         }
@@ -166,7 +430,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1237391.jpg",
         "rating": {
           "rating_kp": "6.408",
-          "vote_num_kp": "1493",
+          "vote_num_kp": "1494",
           "rating_imdb": "6.5",
           "vote_num_imdb": "10391"
         }
@@ -215,7 +479,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1236372.jpg",
         "rating": {
           "rating_kp": "7.015",
-          "vote_num_kp": "252",
+          "vote_num_kp": "253",
           "rating_imdb": "7.7",
           "vote_num_imdb": "675"
         }
@@ -311,9 +575,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1297198.jpg",
         "rating": {
           "rating_kp": "6.85",
-          "vote_num_kp": "3548",
+          "vote_num_kp": "3552",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "12512"
+          "vote_num_imdb": "12542"
         }
       }
     },
@@ -504,8 +768,8 @@
         "time": "1320",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_404901.jpg",
         "rating": {
-          "rating_kp": "8.222",
-          "vote_num_kp": "848",
+          "rating_kp": "8.223",
+          "vote_num_kp": "849",
           "rating_imdb": "8.2",
           "vote_num_imdb": "3189"
         }
@@ -549,7 +813,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_818775.jpg",
         "rating": {
           "rating_kp": "7.589",
-          "vote_num_kp": "16027",
+          "vote_num_kp": "16044",
           "rating_imdb": "7.4",
           "vote_num_imdb": "11207"
         }
@@ -698,7 +962,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_38195.jpg",
         "rating": {
           "rating_kp": "6.793",
-          "vote_num_kp": "3029",
+          "vote_num_kp": "3031",
           "rating_imdb": "6.5",
           "vote_num_imdb": "3939"
         }
@@ -732,8 +996,8 @@
         "time": "6600",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1320413.jpg",
         "rating": {
-          "rating_kp": "6.704",
-          "vote_num_kp": "2194",
+          "rating_kp": "6.705",
+          "vote_num_kp": "2196",
           "rating_imdb": "6.9",
           "vote_num_imdb": "48"
         }
@@ -1503,9 +1767,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6177.jpg",
         "rating": {
           "rating_kp": "7.332",
-          "vote_num_kp": "29654",
+          "vote_num_kp": "29662",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "139679"
+          "vote_num_imdb": "139702"
         }
       }
     },
@@ -1540,7 +1804,7 @@
           "rating_kp": "7.093",
           "vote_num_kp": "682",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "23891"
+          "vote_num_imdb": "23899"
         }
       }
     },
@@ -1751,251 +2015,6 @@
           "vote_num_kp": "160",
           "rating_imdb": "6.9",
           "vote_num_imdb": "7163"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "19266",
-      "date": "1586438577",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Рука смерти",
-        "orig": "Shao Lin men",
-        "alter": "",
-        "year": "1976",
-        "country": "Гонконг",
-        "director": "Джон Ву",
-        "genre": "боевик,драма",
-        "actors": "Тао-Лианг Тан,Джеймс Тьен,Вэй Енг,Джеки Чан,Саммо Хун,Джон Ву,Лин Фенг,Картер Вон,Юэнь Бяо,Юэнь Ва",
-        "description": "Далекая эпоха династии Цинь в Китае. Маньчжуры ведут кровавую войну в Китае. Оплотом сопротивления китайского народа становятся воины-монахи монастыря Шаолинь, расположенного на юге страны. Однажды молодой воин-послушник обнаруживает предателей&#133;",
-        "slogan": "",
-        "premiere": "15 июля 1976",
-        "age": "16",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_19266.jpg",
-        "rating": {
-          "rating_kp": "6.459",
-          "vote_num_kp": "999",
-          "rating_imdb": "6",
-          "vote_num_imdb": "1444"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1022630",
-      "date": "1586438572",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Её звали Шабана",
-        "orig": "Naam Shabana",
-        "alter": "",
-        "year": "2017",
-        "country": "Индия",
-        "director": "Shivam Nair",
-        "genre": "боевик,триллер",
-        "actors": "Таапси Панну,Акшай Кумар,Манодж Баджпаи,Тахер Шаббир,Вирендра Саксена,Притхвирадж Сукумаран,Дэнни Дензонгпа,Мадхурима Тули,Мурли Шарма,Анупам Кхер",
-        "description": "Опытный секретный агент Шабана Кхан успела принять участие в разных сложных миссиях. Теперь же ей предстоит найти убийцу своего любимого и отомстить. Вычислить преступника будет невероятно сложно, однако Шабана готова идти до конца, чтобы покарать злодея.",
-        "slogan": "Her story... before Baby",
-        "premiere": "30 марта 2017",
-        "age": "0",
-        "time": "8820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1022630.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "84",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "5890"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "3584",
-      "date": "1586438559",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Лишенный жизни",
-        "orig": "The Minus Man",
-        "alter": "",
-        "year": "1999",
-        "country": "США",
-        "director": "Хэмптон Фанчер",
-        "genre": "триллер,драма,криминал,детектив",
-        "actors": "Оуэн Уилсон,Шерил Кроу,Дуайт Йоакам,Деннис Хейсбёрт,Алекс Уоррен,Мерседес Руэль,Хлоя Блэк,Брайан Кокс,Эрик Мэбиас,Ларри Миллер",
-        "description": "Ванн Сигерт, вежливый и приятный человек, &#151; хладнокровный серийный убийца. Он перемещается по всей стране и выбирает своих жертв из людей, которые жалуются на свою жизнь, тем самым показывая готовность расстаться с ней. Сначала он убивает наркоманку, затем несчастную супружескую пару. Обосновавшись в гостинице, он поджидает новых жертв&#133;",
-        "slogan": "Don't see it alone. Unless you like talking to yourself",
-        "premiere": "25 января 1999",
-        "age": "16",
-        "time": "6660",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3584.jpg",
-        "rating": {
-          "rating_kp": "5.667",
-          "vote_num_kp": "326",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "6399"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "9936",
-      "date": "1586438538",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дикая штучка",
-        "orig": "Something Wild",
-        "alter": "",
-        "year": "1986",
-        "country": "США",
-        "director": "Джонатан Демме",
-        "genre": "триллер,мелодрама,комедия,криминал",
-        "actors": "Джефф Дэниелс,Мелани Гриффит,Рэй Лиотта,Джордж &laquo;Рэд&raquo; Шварц,Лейб Ленски,Трейси Уолтер,Мэгги Т.,Патриция Фалькенхейн,Сэнди МакЛеод,Роберт Риджли",
-        "description": "Девушка по имени Лулу &laquo;похищает&raquo; преуспевающего банкира Чарльза Дриггса, который не заплатил по счёту после обеда в кафе, и впутывает его в странные приключения. Вместе они отправляются в путешествие из Нью-Йорка в Пенсильванию, во время которого сдержанный и серьёзный Чарльз полностью попадает под обаяние независимой и дикой Лулу.",
-        "slogan": "Something Different Something Daring Something Dangerous",
-        "premiere": "7 ноября 1986",
-        "age": "16",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9936.jpg",
-        "rating": {
-          "rating_kp": "6.759",
-          "vote_num_kp": "1004",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "16529"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "230376",
-      "date": "1586438534",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Человек президента: Линия на песке",
-        "orig": "The President's Man: A Line in the Sand",
-        "alter": "",
-        "year": "2002",
-        "country": "США",
-        "director": "Эрик Норрис",
-        "genre": "боевик,триллер,драма",
-        "actors": "Чак Норрис, Джадсон Миллс, Дженнифер Танг, Роксанна Харт, Джоэл Светов, Али Афшар, Том Бэрри, Брюс Нозик, Маз Джобрани, Кэй Бэйли Хатчинсон",
-        "description": "Освободив Первую Леди из рук похитителей-террористов, агент спецслужбы Джошуа МакКорд получает особое задание встать на защиту своей страны. Президент поручает МакКорду выследить и обезопасить террироста, который собирается взорвать в США ядерную бомбу.",
-        "slogan": "Terrorism just met its worst enemy",
-        "premiere": "20 января 2002",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_230376.jpg",
-        "rating": {
-          "rating_kp": "5.524",
-          "vote_num_kp": "460",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "1195"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "20933",
-      "date": "1586438532",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Семь смертей по рецепту",
-        "orig": "7 morts sur ordonnance",
-        "alter": "",
-        "year": "1975",
-        "country": "Франция,Германия (ФРГ),Испания",
-        "director": "Жак Руффио",
-        "genre": "триллер,драма,криминал",
-        "actors": "Мишель Пикколи,Жерар Депардье,Джейн Биркин,Марина Влади,Шарль Ванель,Мишель Оклер,Моник Мелинан,Колин Серро,Антонио Феррандис,Георг Маришка",
-        "description": "В маленький городок приезжает талантливый хирург и открывает свой частный кабинет. Дела его идут успешно, и это очень не нравится владельцам местной клиники. На их совести уже есть самоубийство одного врача, у которого не было отбоя от пациентов. Теперь завистливые конкуренты начинают травлю хирурга и вскоре доводят его до инфаркта&#133;",
-        "slogan": "",
-        "premiere": "3 декабря 1975",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_20933.jpg",
-        "rating": {
-          "rating_kp": "6.068",
-          "vote_num_kp": "196",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "519"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4679",
-      "date": "1586438524",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Хладнокровный",
-        "orig": "Coldblooded",
-        "alter": "",
-        "year": "1995",
-        "country": "США",
-        "director": "Уоллес Володарски",
-        "genre": "боевик,триллер,комедия",
-        "actors": "Джейсон Пристли,Кимберли Уильямс-Пэйсли,Питер Ригерт,Роберт Лоджа,Джей Коген,Джанин Гарофало,Джош Чарльз,Дэвид Энтони Хиггинс,Дорис Грау,Энн Кэрролл",
-        "description": "Козмо когда-то принимал незаконные ставки, но босс, крупный мафиози, решил &laquo;повысить&raquo; его до киллера. График работы удобный &#151; свободного времени навалом. Зарплата высокая. Но Козмо почему-то не обрадовался повышению. Однако с мафией не поспоришь &#151; пришлось ему поступить в ученики к опытному киллеру Стиву.\r\n\r\nОказалось, у Козмо блестящие способности: стопроцентное попадание при стрельбе с обеих рук, молниеносная реакция. Но совесть, оказалось, неприятная штука, да и любимая девушка не в восторге от его занятия. Однако уйти с такой работы, просто написав заявление, как известно нельзя&#133;",
-        "slogan": "Cosmo's planning to get his life in order.  He just has to kill a few people first",
-        "premiere": "21 апреля 1995",
-        "age": "16",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4679.jpg",
-        "rating": {
-          "rating_kp": "7.01",
-          "vote_num_kp": "1095",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "3514"
         }
       }
     }

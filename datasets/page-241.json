@@ -2,6 +2,286 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1091158",
+      "date": "1597677307",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Осколки",
+        "orig": "Fragmentary",
+        "alter": "",
+        "year": "2019",
+        "country": "Австралия,ОАЭ,Великобритания",
+        "director": "Джейс Пиккард",
+        "genre": "ужасы,триллер,криминал",
+        "actors": "Джейс Пиккард,Jacinta Moses,Debbie Neilson,Рени Лим,Helen Shoobert,Сэнди Уинтон,Уэйн Танкс,Felicity Burke,Kate Cameron,Joshua Churchill",
+        "description": "Мужчина верит, что может отправляться в альтернативную реальность под действием алкоголя, чтобы встречаться с любовью своей жизни, которая в его реальности была убита двумя годами ранее.",
+        "slogan": "The problem with drinking is the mourning after!",
+        "premiere": "21 октября 2019",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTA3NjFkNzQtMjg4OS00ZTFlLWJjYjgtNWI0NmY1YjQ4OWViXkEyXkFqcGdeQXVyMTYzNzI2OTU@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "12",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "580"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1196559",
+      "date": "1597674681",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Нимбе: Фильм",
+        "orig": "Nimbe: The Movie",
+        "alter": "",
+        "year": "2019",
+        "country": "Нигерия",
+        "director": "Tope Alake",
+        "genre": "драма",
+        "actors": "Doyin Abiola,Toyin Abraham,Odunlade Adekola,Bukola Beecroft-Shofola,Sani Musa Danja,Molawa Davis,Chimezie Imo,Gbenga Ojerinde,Рэйчил Оконкво,Samuel A. Perry",
+        "description": "Нимбе не находит поддержки ни дома, ни в школе. Родители постоянно ссорятся, а одноклассники травят его. Всё меняется, когда в его жизни появляется старший друг - Ральф, который знакомит подростка с опасным миром наркотиков и преступлений.",
+        "slogan": "Save this society",
+        "premiere": "29 марта 2019",
+        "age": "0",
+        "time": "6600",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2Y1OTk0NWItZjY3My00Njk5LTk5NmYtZTI4MDJmZGVlZTk1XkEyXkFqcGdeQXVyNDExNDk4ODQ@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "4",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "45"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1390937",
+      "date": "1597674677",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Любовь на воздушном шаре",
+        "orig": "Romance in the Air",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Брайан Бру",
+        "genre": "драма,мелодрама",
+        "actors": "Синди Басби,Торранс Кумбс,Sashleigha Brady,David Cleveland Brown,Тим Флинн,Аль Лампкин,Лонзо Лиггинс",
+        "description": "Узнав, что её работа под угрозой, Иден возвращается на озеро Тахо, где она в детстве проводила каждое лето. Там она встречает своего друга детства Райли и понимает, что её прошлое может привести к долгожданному счастливому будущему.",
+        "slogan": "",
+        "premiere": "1 августа 2020",
+        "age": "0",
+        "time": "4860",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTBiNWMtYWRjYS00NGQ5LTk3MjAtYjdiN2U5ZTFlYWQ2XkEyXkFqcGdeQXVyNDk3ODk4OQ@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "25",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "564"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1214688",
+      "date": "1597674601",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Месть солдата",
+        "orig": "A Soldier's Revenge",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Майкл Фейфер",
+        "genre": "вестерн",
+        "actors": "Нил Бледсо,Роб Майес,АннаЛинн МакКорд,Вэл Килмер,Джейк Бьюзи,Майкл Боуэн,Джей Пикетт,Майкл Уэлш,Джеймс Руссо,Питер Шерайко",
+        "description": "Преследуемый ужасами военных лет, Фрэнк Коннор проводит всё своё время за двумя занятиями: пьет виски и ловит беглецов. Однажды у порога его дома оказывается два ребенка, которые отчаянно просят отыскать их пропавшую мать. Фрэнку предстоит лицом к лицу столкнуться со своим прошлым и разобраться с печально известным преступником майором Бриггсом, с которым у него давние счеты.",
+        "slogan": "",
+        "premiere": "16 июня 2020",
+        "age": "0",
+        "time": "8400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1214688.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "170",
+          "rating_imdb": "3.7",
+          "vote_num_imdb": "458"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1097019",
+      "date": "1597671926",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Прощание",
+        "orig": "Khuda Haafiz",
+        "alter": "",
+        "year": "2020",
+        "country": "Индия",
+        "director": "Farouque Kabir",
+        "genre": "боевик,криминал",
+        "actors": "Видьют Джамвал,Shivaleeka Oberoi,Анну Капур,Шив Пандит,Ахана Кумра,Наваб Шах,Гарги Патель,Навдип Томар",
+        "description": "Мужчина спасает жену из сексуального рабства.",
+        "slogan": "",
+        "premiere": "14 августа 2020",
+        "age": "0",
+        "time": "8040",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1097019.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "141",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "16125"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1299940",
+      "date": "1597667412",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Охотники на упырей",
+        "orig": "Ghoul Catchers",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Thomas Finn,Joseph Voce",
+        "genre": "комедия",
+        "actors": "Justin Albinder,Tom Crociata,Thomas Finn,Rosie Flore,Tom Fruehsamer,Michelle Masiello,Chris O&#x27;Connell,Justin Portaro,John Rossi,Brittany Voce",
+        "description": "В двенадцать лет четыре друга ради забавы начали охотиться на упырей. Спустя пятнадцать лет они всё ещё пытаются доказать существование призраков, однако в этот раз им предстоит столкнуться с проблемами личного характера.",
+        "slogan": "",
+        "premiere": "1 июня 2019",
+        "age": "0",
+        "time": "4380",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTIyOWY2ZTItNDYwNi00MjE1LTljNmItZGNmZWJkZTg5NDI0XkEyXkFqcGdeQXVyOTQ5MTUxMTc@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "91"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "944928",
+      "date": "1597665292",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Счастливой охоты",
+        "orig": "Happy Hunting",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Joe Dietsch, Louie Gibson",
+        "genre": "ужасы",
+        "actors": "Мартин Дингл Уолл, Кен Лэлли, Кенни Вормолд, Коннор Уильямс, Гари Штурм, С.Дж. Бэйкер, Джереми Лосон, Michael Tipps, Лизель Хэнсон, Кеннет Биллингс",
+        "description": "Хронический алкоголик Уоррен узнаёт, что мексиканка, с которой он когда-то встречался, умерла, и у неё остался ребёнок. По дороге в Мексику он останавливается в ближайшем к границе городе - захолустной дыре, где местное население раз в год устраивает фестиваль охоты на людей.",
+        "slogan": "Run for your life",
+        "premiere": "24 февраля 2017",
+        "age": "0",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_944928.jpg",
+        "rating": {
+          "rating_kp": "5.318",
+          "vote_num_kp": "446",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "2495"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "597026",
+      "date": "1597665254",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Смертельная гонка 3: Ад",
+        "orig": "Death Race: Inferno",
+        "alter": "",
+        "year": "2013",
+        "country": "США, Германия, ЮАР",
+        "director": "Роэль Рейн",
+        "genre": "боевик,фантастика,триллер",
+        "actors": "Люк Госс, Винг Реймз, Дэнни Трехо, Дюгрей Скотт, Фредерик Колер, Танит Феникс, Робин Шоу, Хлуби Мбоя, Роксана Хейуорд, Барт Фаш",
+        "description": "Карл Лукас по прозвищу Франкенштейн - раскаявшийся преступник, легендарный участник жестокого и кровавого тюремного соревнования под названием Смертельная гонка. Чтобы обрести долгожданную свободу, ему осталось одержать лишь одну победу, но эта гонка опасна как никогда, ведь на этот раз она проходит в пустыне! \\n\r\n\\n\r\nЧтобы доказать свое превосходство, Лукасу предстоит справиться не только с безжалостными соперниками-гонщиками, но и с таинственными влиятельными врагами в смертоносной южно-африканской пустыне.",
+        "slogan": "The rules are simple. Drive or die",
+        "premiere": "20 января 2013",
+        "age": "18",
+        "time": "6300",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_597026.jpg",
+        "rating": {
+          "rating_kp": "5.775",
+          "vote_num_kp": "8225",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "19066"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "863271",
       "date": "1597665198",
       "camrip": "0",
@@ -134,7 +414,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_916603.jpg",
         "rating": {
           "rating_kp": "4.865",
-          "vote_num_kp": "4924",
+          "vote_num_kp": "4927",
           "rating_imdb": "4.2",
           "vote_num_imdb": "439"
         }
@@ -423,7 +703,7 @@
           "rating_kp": "7.762",
           "vote_num_kp": "27248",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "129506"
+          "vote_num_imdb": "129598"
         }
       }
     },
@@ -613,7 +893,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_581768.jpg",
         "rating": {
           "rating_kp": "7.214",
-          "vote_num_kp": "3734",
+          "vote_num_kp": "3738",
           "rating_imdb": "7.4",
           "vote_num_imdb": "4443"
         }
@@ -647,10 +927,10 @@
         "time": "5640",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_926565.jpg",
         "rating": {
-          "rating_kp": "7.745",
-          "vote_num_kp": "6134",
+          "rating_kp": "7.744",
+          "vote_num_kp": "6138",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "22098"
+          "vote_num_imdb": "22099"
         }
       }
     },
@@ -928,7 +1208,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_645261.jpg",
         "rating": {
           "rating_kp": "7.671",
-          "vote_num_kp": "24598",
+          "vote_num_kp": "24600",
           "rating_imdb": "7.4",
           "vote_num_imdb": "36161"
         }
@@ -993,9 +1273,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112179.jpg",
         "rating": {
           "rating_kp": "5.763",
-          "vote_num_kp": "5251",
+          "vote_num_kp": "5253",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "32317"
+          "vote_num_imdb": "32330"
         }
       }
     },
@@ -1028,9 +1308,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_332.jpg",
         "rating": {
           "rating_kp": "8.153",
-          "vote_num_kp": "41743",
+          "vote_num_kp": "41752",
           "rating_imdb": "8.6",
-          "vote_num_imdb": "322393"
+          "vote_num_imdb": "322471"
         }
       }
     },
@@ -1497,9 +1777,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_701756.jpg",
         "rating": {
           "rating_kp": "7.144",
-          "vote_num_kp": "54686",
+          "vote_num_kp": "54730",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "203602"
+          "vote_num_imdb": "203619"
         }
       }
     },
@@ -1881,10 +2161,10 @@
         "time": "6720",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1164484.jpg",
         "rating": {
-          "rating_kp": "5.936",
-          "vote_num_kp": "12576",
+          "rating_kp": "5.938",
+          "vote_num_kp": "12586",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "8156"
+          "vote_num_imdb": "8165"
         }
       }
     },
@@ -1932,486 +2212,9 @@
         "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/3ca886eb-f6c7-410b-8d52-ae9f69af65f8/600x900",
         "rating": {
           "rating_kp": "7.32",
-          "vote_num_kp": "67265",
+          "vote_num_kp": "67299",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "11747"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1263485",
-      "date": "1597475183",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Кубик в Кубе",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "9",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080
-        }
-      },
-      "info": {
-        "rus": "Дивный новый мир",
-        "orig": "Brave New World",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Оуэн Харрис,Ифа Макардл,Андрий Парекх",
-        "genre": "фантастика,драма",
-        "actors": "Олден Эренрайк,Джессика Браун-Финдли,Гарри Ллойд,Нина Сосанья,Джозеф Морган,Кайли Банбери,Сэн Мицудзи,Ханна Джон-Кэймен,Софи Макинтош,Мэттью Обри",
-        "description": "XXVI век, идеальный мир будущего. Здесь всё принадлежат всем, потребление возведено в культ, люди рождаются в инкубаторах и умирают без болезней и старости — а главное, каждый чувствует себя на вершине блаженства благодаря специальной таблетке. Синтетическую гармонию нарушает необычный человек извне, и перед жителями дивного нового мира встает опасный вопрос - верный ли путь к счастью они выбрали.",
-        "slogan": "",
-        "premiere": "16 июля 2020",
-        "age": "18",
-        "time": "2580",
-        "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/3ca886eb-f6c7-410b-8d52-ae9f69af65f8/600x900",
-        "rating": {
-          "rating_kp": "7.32",
-          "vote_num_kp": "67265",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "11747"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1388380",
-      "date": "1597474859",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "IdeaFilm",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "4",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080
-        }
-      },
-      "info": {
-        "rus": "Последний агент УБН",
-        "orig": "The Last Narc",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Тиллер Расселл",
-        "genre": "документальный",
-        "actors": "Hector Berrellez,Geneva Camarena,Jorge Godoy,Phil Jordan,Ramón Lira,René Lopez,Manny Madrano,Conseulo «Chatita» Berrellez,Jaime Kuykendall,Mike Holm",
-        "description": "Документальный сериал, который рассказывает об убийстве агента УБН Энрике «Кики» Камарена.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "2700",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNzgyNWRkNTctYzVjZC00ZjhkLWIxZDYtMzQzZmVhNzU5YWJjXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SY1000_CR0,0,675,1000_AL_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "56",
-          "rating_imdb": "8.7",
-          "vote_num_imdb": "1844"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "821005",
-      "date": "1597474668",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Противостояние: Осада в Мумбаи. 4 дня ужаса",
-        "orig": "One Less God",
-        "alter": "Осада Мумбаи: 4 дня ужаса",
-        "year": "2017",
-        "country": "Австралия, Непал",
-        "director": "Lliam Worthington",
-        "genre": "триллер,драма",
-        "actors": "Joseph Mahler Taylor, Sukhraj Deepak, Mihika Rao, Кабир Сингх, Kieran Kumar, Нэйтан Кэй, Martelle Hammer, Reilly O'Byrne-Inglis, Igor Kreyman, Joseph J.U. Taylor",
-        "description": "Группа туристов из разных стран мира пытается выжить во время осады террористами элитного отеля в Мумбаи.",
-        "slogan": "4 Days of Terror",
-        "premiere": "8 июня 2017",
-        "age": "0",
-        "time": "7680",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_821005.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "267",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "567"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "5525",
-      "date": "1597474607",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Пересменка",
-        "orig": "Swing Shift",
-        "alter": "",
-        "year": "1984",
-        "country": "США",
-        "director": "Джонатан Демме",
-        "genre": "мелодрама,драма,военный",
-        "actors": "Голди Хоун, Курт Рассел, Кристин Лати, Фред Уорд, Эд Харрис, Сади Бонд, Холли Хантер, Пэтти Малони, Лиза Пеликан, Сьюзен Перец",
-        "description": "Вторая Мировая Война. Перл-Харбор. Пятнадцать миллионов американских парней записались добровольцами на войну. Так же поступил и Джек Уолш. А его жена Кэй, как и многие американки, чтобы свести концы с концами, отправилась работать на авиационный завод. Там она заводит интрижку с трубачом «Счастливчиков» Майком. Кэй отчаянно разрывается между одиночеством и долгом перед мужем с одной стороны и влечением к своему новому объекту страсти. Их роман развивается под надежным прикрытием соседки Кэй.",
-        "slogan": "When America marched off to war the women marched into the factory. From then on...nothing was the same",
-        "premiere": "13 апреля 1984",
-        "age": "16",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5525.jpg",
-        "rating": {
-          "rating_kp": "6.398",
-          "vote_num_kp": "479",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "4420"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "681656",
-      "date": "1597474560",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "LostFilm",
-      "max_qual": "1080",
-      "last_season": "5",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080
-        },
-        "3": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080
-        },
-        "4": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        },
-        "5": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        }
-      },
-      "info": {
-        "rus": "Последний корабль",
-        "orig": "The Last Ship",
-        "alter": "",
-        "year": "2014",
-        "country": "США",
-        "director": "Пол Холахан, Джек Бендер, Питер Уэллер",
-        "genre": "боевик,фантастика,триллер,драма,военный",
-        "actors": "Эрик Дэйн, Адам Болдуин, Чарльз Парнелл, Трэвис Ван Винкл, Марисса Нейтлинг, Джоко Симс, Кевин Майкл Мартин, Кристина Элмор, Michael Curran-Dorsano, Бен Чо",
-        "description": "Когда глобальная пандемия уничтожает восемьдесят процентов населения планеты, на плечи экипажа одинокого эсминца ложится задача по спасению человечества от вымирания.",
-        "slogan": "No cure. No country. No surrender",
-        "premiere": "22 июня 2014",
-        "age": "16",
-        "time": "2580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_681656.jpg",
-        "rating": {
-          "rating_kp": "6.235",
-          "vote_num_kp": "4915",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "55125"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "900004",
-      "date": "1597474449",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "HDTVRip",
-      "translation": "LostFilm",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        }
-      },
-      "info": {
-        "rus": "Корпорация",
-        "orig": "Incorporated",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Давид Пастор, Алекс Пастор, Дэвид Гроссман",
-        "genre": "фантастика,триллер,драма,криминал",
-        "actors": "Шон Тил, Эллисон Миллер, Эдди Рамос, Джулия Ормонд, Деннис Хейсбёрт, Дэймон Херриман, Дениза Тонтц, Стефани Белдинг, Дуглас Найбэк, Иэн Трейси",
-        "description": "Главный герой в курсе, что корпорация, которая известна на весь мир, творит полнейший беспредел, оставляя людей без работы и используя свою неограниченную власть в личных целях. Мужчина пытается понять, как работает система правления, которой корпорация, будто марионеток, дергает за ниточки представителей власти. Деньги решают все. Власть решает многое. Но может ли один человек противостоять всему этому беззаконию?",
-        "slogan": "In corp we trust",
-        "premiere": "30 ноября 2016",
-        "age": "0",
-        "time": "2580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_900004.jpg",
-        "rating": {
-          "rating_kp": "6.821",
-          "vote_num_kp": "2250",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "5052"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "716703",
-      "date": "1597474370",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "HDTVRip",
-      "translation": "IdeaFilm",
-      "max_qual": "1080",
-      "last_season": "4",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720
-        },
-        "2": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720,
-          "10": 720
-        },
-        "3": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720,
-          "10": 720,
-          "11": 720,
-          "12": 720
-        },
-        "4": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        }
-      },
-      "info": {
-        "rus": "Ночная смена",
-        "orig": "The Night Shift",
-        "alter": "",
-        "year": "2014",
-        "country": "США",
-        "director": "Тимоти Басфилд, Эрик Ла Салль, Дэвид Бойд",
-        "genre": "мелодрама,драма",
-        "actors": "Оуэн Мэкен, Джилл Флинт, Брендан Фер, Роберт Бэйли мл., ДжейАр Лемон, Альма Сиснерос, Эзоди Гейджер, Кен Люн, Скотт Вулф, Таная Битти",
-        "description": "Профессия врача очень благородна и ценна для жизней людей. Медики – такие же люди со своими проблемами и слабостями, но они просто не имеют права расслабляться и думать о чем-нибудь еще, если каждый день спасают жизни людей. Особенно тяжело приходится врачам, работающим по ночам, ведь это и самим тяжело и больных ночью как ни странно всегда больше. Но эти врачи привыкли к тяготам и лишениям, потому что они все обучались своему делу в армии и еще не то видали. В их работе очень важно делать все очень быстро и точно. Ошибиться нельзя ни на секунду, ни на одно движение, иначе от этого могут зависеть жизни пациентов. Вот так, когда город Сан-Антонио спит и видит сладкие сны, эти мужественные люди борются за спасение людей, попавших в беду, а мы даже не замечаем всего того, что они делают на благо продолжения жизни.",
-        "slogan": "",
-        "premiere": "27 мая 2014",
-        "age": "0",
-        "time": "2520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_716703.jpg",
-        "rating": {
-          "rating_kp": "7.401",
-          "vote_num_kp": "1339",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "11189"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "799433",
-      "date": "1597474304",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "LostFilm",
-      "max_qual": "1080",
-      "last_season": "2",
-      "last_episode": "13",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080
-        }
-      },
-      "info": {
-        "rus": "За Пределами",
-        "orig": "Extant",
-        "alter": "",
-        "year": "2014",
-        "country": "США",
-        "director": "Дэн Лернер, Кристин Мур, Кевин Даулинг",
-        "genre": "фантастика,триллер,драма",
-        "actors": "Холли Берри, Пирс Гэнон, Грэйс Гаммер, Тайлер Хилтон, Горан Вишнич, Линнанн Загер, Хироюки Санада, Джеффри Дин Морган, Майкл О’Нил, Камрин Менхейм",
-        "description": "Молли Уоттс - женщина редкой и необычной неженской профессии, она космонавт. После космической экспедиции, длиною в год, Молли снова дома со своей любимой семьёй: маленьким сынком Итаном и мужем Джоном. Как она этого ждала. Проведя целый год во Вселенной Молли узнает, что она находится в «интересном положении» - срок её беременности около двух месяцев... Как доказать мужу, что совесть её чиста? Как такое могло получиться и кого она носит внутри?..",
-        "slogan": "Life always finds a way",
-        "premiere": "10 июля 2014",
-        "age": "0",
-        "time": "2520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_799433.jpg",
-        "rating": {
-          "rating_kp": "6.52",
-          "vote_num_kp": "4272",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "23467"
+          "vote_num_imdb": "11755"
         }
       }
     }

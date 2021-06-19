@@ -2,6 +2,302 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "698086",
+      "date": "1604001007",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 480,
+          "8": 480,
+          "9": 480,
+          "10": 480
+        }
+      },
+      "info": {
+        "rus": "Дракула",
+        "orig": "Dracula",
+        "alter": "",
+        "year": "2013",
+        "country": "США, Великобритания",
+        "director": "Энди Годдард, Брайан Келли, Ник Мерфи",
+        "genre": "ужасы,мелодрама,драма",
+        "actors": "Джонатан Риз Майерс, Джессика Де Гау, Томас Кречман, Виктория Смёрфит, Оливер Джексон-Коэн, Нонсо Анози, Кэти МакГрат, Бен Майлз, Роберт Баферст, Миклош Баньяи",
+        "description": "Конец 19-го века. Таинственный Дракула прибыл в Лондон, выдавая себя за американского предпринимателя, который хочет привнести современную науку в викторианское общество. Он особенно заинтересован в новой технологии электричества, которая обещает сделать ночь светлее, что полезно для тех, кто избегает солнца...",
+        "slogan": "The legend takes new life",
+        "premiere": "12 января 2014",
+        "age": "16",
+        "time": "2580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_698086.jpg",
+        "rating": {
+          "rating_kp": "7.115",
+          "vote_num_kp": "10485",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "28318"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "230129",
+      "date": "1604000926",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Дубляж",
+      "max_qual": "480",
+      "info": {
+        "rus": "Бэтмен против Дракулы",
+        "orig": "The Batman vs. Dracula",
+        "alter": "",
+        "year": "2005",
+        "country": "США",
+        "director": "Майкл Гогуэн, Сюн Юнь Ким, Сэм Лью",
+        "genre": "мультфильм,боевик,ужасы,триллер",
+        "actors": "Рино Романо, Петер Стормаре, Тара Стронг, Том Кенни, Кевин Майкл Ричардсон, Нил Дункан, Джефф Беннетт, Ричард Грин, Нил Росс, Джеймс Си",
+        "description": "В то время как Готэм Сити спит под прикрытием темноты, вылетают две легендарные мыши. Одна из них превращает город в армию вампиров, а другая пытается сделать все возможное, чтобы предотвратить это событие.\r\n\r\nНо Дракула - зто не просто один из врагов Бэтмена, он обладает сверхъестественными способностями, скоростью и умом. Хотя даже со своим арсеналом технических приспособлений, Черный Рыцарь смертен.",
+        "slogan": "Черный рыцарь и Принц темноты в решающей битве!",
+        "premiere": "18 октября 2005",
+        "age": "0",
+        "time": "4980",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_230129.jpg",
+        "rating": {
+          "rating_kp": "6.46",
+          "vote_num_kp": "3500",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "8908"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "79513",
+      "date": "1604000622",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Князь Дракула",
+        "orig": "Dark Prince: The True Story of Dracula",
+        "alter": "",
+        "year": "2000",
+        "country": "США",
+        "director": "Джо Чаппелль",
+        "genre": "ужасы,триллер,биография",
+        "actors": "Рудольф Мартин,Джейн Марч,Кристофер Брэнд,Питер Уэллер,Роджер Долтри,Майкл Саттон,Рэзван Василеску,Раду Амзулеску,Майя Моргенштерн,Клаудиу Блеонц",
+        "description": "В 1431 году в Трансильвании появился на свет легендарный Влад Цепеш, благородный потомок древнего княжеского рода, прославившийся не только своей боевой доблестью, но и безумной жестокостью, ужасавшей даже его соратников. Освобождая Румынию от гнета чужеземцев и беспощадно мстя им, князь Дракула обезглавливал своих недругов, сажал их на кол и устраивал трапезы, обмакивая хлеб в их дымящуюся кровь.\r\n\r\nНарод, ставший свидетелем этих событий, нарек своего гордого властителя «Колосажателем», описав в преданиях и хрониках правду о кошмарных деяниях могущественного румынского господаря, известного нам, как первый в истории вампир - Дракула.",
+        "slogan": "A blood-thirsty tale of love, lust and vengeance",
+        "premiere": "31 октября 2000",
+        "age": "16",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_79513.jpg",
+        "rating": {
+          "rating_kp": "7.013",
+          "vote_num_kp": "1444",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "2296"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "17176",
+      "date": "1604000449",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дракула 2000",
+        "orig": "Dracula 2000",
+        "alter": "",
+        "year": "2000",
+        "country": "США",
+        "director": "Патрик Люссье",
+        "genre": "боевик,ужасы,триллер,фэнтези",
+        "actors": "Джерард Батлер, Кристофер Пламмер, Джонни Ли Миллер, Джастин Уоддэлл, Витамин Си, Дженнифер Эспозито, Омар Эппс, Шон Патрик Томас, Дэнни Мастерсон, Локлин Манро",
+        "description": "Банда воров проникает в хранилище известного лондонского антиквара Ван Хелсинга. Прихватив добычу, они покидают страну. Ван Хелсинг отправляется по следам грабителей, а за ним его помощник Саймон. В итоге Саймон сталкивается с тем, кто превосходит все ожидания. Его могущество безгранично, а деяния - ужасны. Его имя - Дракула.",
+        "slogan": "19th Century Chills Terrify The 21st Century",
+        "premiere": "22 декабря 2000",
+        "age": "16",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_17176.jpg",
+        "rating": {
+          "rating_kp": "6.101",
+          "vote_num_kp": "17692",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "32471"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "14887",
+      "date": "1604000404",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Дракула 3: Наследие",
+        "orig": "Dracula III: Legacy",
+        "alter": "",
+        "year": "2005",
+        "country": "США, Румыния",
+        "director": "Патрик Люссье",
+        "genre": "ужасы",
+        "actors": "Джейсон Скотт Ли, Стивен Биллингтон, Дайан Нил, Джейсон Лондон, Рутгер Хауэр, Илинка Гойя, Джордж Григоре, Рой Шайдер, Том Кэйн, Александра Уэскорт",
+        "description": "Преследование Дракулы приводит охотников на вампиров - отца Уффици и Люка в Румынию. Где они обнаруживают настоящий ад, в котором развернулось ужасающее кровавое пиршество!",
+        "slogan": "You can't fight it. You can't kill it",
+        "premiere": "12 июля 2005",
+        "age": "18",
+        "time": "5160",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mzg1NTU2Nl5BMl5BanBnXkFtZTcwMDU3ODgyMQ@@.jpg",
+        "rating": {
+          "rating_kp": "4.35",
+          "vote_num_kp": "828",
+          "rating_imdb": "4.6",
+          "vote_num_imdb": "2717"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "7936",
+      "date": "1604000363",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Дракула 2: Вознесение",
+        "orig": "Dracula II: Ascension",
+        "alter": "",
+        "year": "2002",
+        "country": "США, Румыния",
+        "director": "Патрик Люссье",
+        "genre": "ужасы",
+        "actors": "Дженнифер Кролл, Джейсон Скотт Ли, Крэйг Шеффер, Дайан Нил, Хари Пэйтон, Бранд Родерик, Джейсон Лондон, Крис Хантер, Том Кэйн, Джон Лайт",
+        "description": "История о группе студентов-медиков, которые случайно наталкиваются на тело самого печально известного вампира. Когда появляется таинственный незнакомец и предлагает им 300 миллионов долларов за то, чтобы выставить его кровь на аукцион, они едва ли могут отказаться от такого предложения.\r\n\r\nСоблазн богатства вступает в противоречие с невообразимым ужасом... Они еще не знают, что окажутся безжалостно преследуемыми убийцей вампиров из Ватикана.",
+        "slogan": "The terrifying sequel to Dracula 2000",
+        "premiere": "7 июня 2003",
+        "age": "18",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7936.jpg",
+        "rating": {
+          "rating_kp": "5.111",
+          "vote_num_kp": "1225",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "3956"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "8436",
+      "date": "1603998988",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Дракула",
+        "orig": "Dracula",
+        "alter": "",
+        "year": "1931",
+        "country": "США",
+        "director": "Тод Браунинг",
+        "genre": "ужасы,фэнтези",
+        "actors": "Бела Лугоши, Хелен Чандлер, Дэвид Мэннерс, Дуайт Фрай, Эдвард Ван Слоун, Херберт Банстон, Фрэнсис Даде, Джоан Стэндинг, Чарльз К. Джеррард, Анна Бакач",
+        "description": "Агент по недвижимости Ренфилд приезжает в Трансильванию, чтобы подписать с графом Дракулой договор о покупке им старого аббатства Карфакс в Лондоне. Местные жители предупреждают Ренфилда, что замок Дракулы - логово нечисти, но тот игнорирует предупреждения и отправляется в замок. На перевале Борго его подбирает карета с молчаливым кучером. Выглянув по дороге из кареты, Ренфилд видит, что кучер исчез, а над упряжкой машет крыльями летучая мышь...",
+        "slogan": "Carl Laemmle Presents The VAMPIRE THRILLER!",
+        "premiere": "12 февраля 1931",
+        "age": "12",
+        "time": "4500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8436.jpg",
+        "rating": {
+          "rating_kp": "7.314",
+          "vote_num_kp": "8311",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "47807"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "428699",
+      "date": "1603998823",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Евангелион 3.33: Ты (не) исправишь",
+        "orig": "Evangerion shin gekijôban: Kyu",
+        "alter": "Евангелион 3.33: Ты исправишь",
+        "year": "2012",
+        "country": "Япония",
+        "director": "Махиро Маэда, Масаюки, Кадзуя Цурумаки",
+        "genre": "аниме,мультфильм,боевик,фантастика,драма",
+        "actors": "Спайк Спенсер, Джерри Джуэлл, Тиффани Грант, Брина Паленсиа, Эллисон Кит, Коллин Клинкенберд, Трина Нисимура, Кент Уильямс, Джон Свэйзи, Тиа Линн Баллард",
+        "description": "Мир изменился за четырнадцать лет, прошедших со времени Третьего удара. Для Синдзи, который провел все эти годы в коме, знакомство с новым миром после пробуждения оказывается гораздо болезненнее, чем можно было бы представить. Ему предстоит увидеть, куда ведут благие намерения вчерашних союзников и слепая решимость бывших близких друзей. Но под силу ли ему хоть что-то поменять?",
+        "slogan": "",
+        "premiere": "17 ноября 2012",
+        "age": "16",
+        "time": "6360",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_428699.jpg",
+        "rating": {
+          "rating_kp": "6.678",
+          "vote_num_kp": "4519",
+          "rating_imdb": "7",
+          "vote_num_imdb": "10418"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "429015",
       "date": "1603998602",
       "camrip": "0",
@@ -150,9 +446,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1044279.jpg",
         "rating": {
           "rating_kp": "7.994",
-          "vote_num_kp": "38984",
+          "vote_num_kp": "38998",
           "rating_imdb": "8.6",
-          "vote_num_imdb": "191564"
+          "vote_num_imdb": "191639"
         }
       }
     },
@@ -228,9 +524,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_676525.jpg",
         "rating": {
           "rating_kp": "7.122",
-          "vote_num_kp": "10972",
+          "vote_num_kp": "10980",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "37512"
+          "vote_num_imdb": "37513"
         }
       }
     },
@@ -338,7 +634,7 @@
           "rating_kp": "6.903",
           "vote_num_kp": "2488",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "7021"
+          "vote_num_imdb": "7024"
         }
       }
     },
@@ -451,10 +747,10 @@
         "time": "0",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1392764.jpg",
         "rating": {
-          "rating_kp": "7.19",
-          "vote_num_kp": "5796",
+          "rating_kp": "7.183",
+          "vote_num_kp": "5806",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "4120"
+          "vote_num_imdb": "4121"
         }
       }
     },
@@ -487,7 +783,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1207341.jpg",
         "rating": {
           "rating_kp": "5.866",
-          "vote_num_kp": "5730",
+          "vote_num_kp": "5731",
           "rating_imdb": "4.7",
           "vote_num_imdb": "317"
         }
@@ -909,7 +1205,7 @@
           "rating_kp": "0",
           "vote_num_kp": "17",
           "rating_imdb": "3.7",
-          "vote_num_imdb": "130"
+          "vote_num_imdb": "131"
         }
       }
     },
@@ -1047,7 +1343,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1178293.jpg",
         "rating": {
           "rating_kp": "7.122",
-          "vote_num_kp": "1177",
+          "vote_num_kp": "1178",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1257,7 +1553,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45446.jpg",
         "rating": {
           "rating_kp": "8.038",
-          "vote_num_kp": "47131",
+          "vote_num_kp": "47140",
           "rating_imdb": "8",
           "vote_num_imdb": "2192"
         }
@@ -1292,7 +1588,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258016.jpg",
         "rating": {
           "rating_kp": "8.055",
-          "vote_num_kp": "14457",
+          "vote_num_kp": "14456",
           "rating_imdb": "7.8",
           "vote_num_imdb": "484"
         }
@@ -1361,8 +1657,8 @@
         "time": "1200",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45780.jpg",
         "rating": {
-          "rating_kp": "8.694",
-          "vote_num_kp": "63319",
+          "rating_kp": "8.695",
+          "vote_num_kp": "63340",
           "rating_imdb": "8.3",
           "vote_num_imdb": "2850"
         }
@@ -1502,7 +1798,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_43725.jpg",
         "rating": {
           "rating_kp": "7.855",
-          "vote_num_kp": "15846",
+          "vote_num_kp": "15860",
           "rating_imdb": "7.7",
           "vote_num_imdb": "1060"
         }
@@ -1537,7 +1833,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45781.jpg",
         "rating": {
           "rating_kp": "8.737",
-          "vote_num_kp": "77032",
+          "vote_num_kp": "77047",
           "rating_imdb": "8.3",
           "vote_num_imdb": "3116"
         }
@@ -1574,7 +1870,7 @@
           "rating_kp": "8.763",
           "vote_num_kp": "136763",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "3913"
+          "vote_num_imdb": "3912"
         }
       }
     },
@@ -1610,286 +1906,6 @@
           "vote_num_kp": "34825",
           "rating_imdb": "7.9",
           "vote_num_imdb": "1907"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "15377",
-      "date": "1603837828",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Возлюбленные Марии",
-        "orig": "Maria's Lovers",
-        "alter": "",
-        "year": "1984",
-        "country": "США",
-        "director": "Андрей Кончаловский",
-        "genre": "мелодрама,драма",
-        "actors": "Настасья Кински, Джон Сэвэдж, Роберт Митчем, Кит Кэрредин, Анита Моррис, Бад Корт, Карен Янг, Трейси Нельсон, Джон Гудман, Дэнтон Стоун",
-        "description": "Драма по мотивам рассказа Андрея Платонова «Река Потудань». Первый фильм Андрея Кончаловского, сделанный в Голливуде. Солдат возвращается с японской войны к своей любимой. В плену и на фронте он мечтал только о ней, но рядом с Марией он понимает, что утратил мужскую силу и не способен к любви.",
-        "slogan": "They all loved her... too much",
-        "premiere": "3 октября 1984",
-        "age": "16",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_15377.jpg",
-        "rating": {
-          "rating_kp": "7.042",
-          "vote_num_kp": "1213",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "2333"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1403643",
-      "date": "1603837806",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Три драмы",
-        "orig": "Three Dramas",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Jack Foster",
-        "genre": "драма",
-        "actors": "Nia Asanza,Lora Hakason,Kevin Owyang,Lucy Tomasso,Efrem Ramirez Jr.,Brianna Ripkowski,Anthony J. Treme,Ernest Keith Walker,Свит П.",
-        "description": "Три драмы, основанные на произведениях Джона Голсуорси, Сьюзен Гласпелл и Юджина О'Нила.",
-        "slogan": "Anthology Drama based on the works of Pulitzer and Nobel winning authors",
-        "premiere": "",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMWNlM2FhNWQtZjI1OS00NTdlLWFiOTYtYWE4ZGQzNzc0MjczXkEyXkFqcGdeQXVyNjA0NTgwMDY@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "3.6",
-          "vote_num_imdb": "10"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1012504",
-      "date": "1603836027",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Пьяные матросы",
-        "orig": "Brothers in Arms",
-        "alter": "Собратья по оружию",
-        "year": "2017",
-        "country": "США",
-        "director": "Калеб Дж. Филлипс",
-        "genre": "комедия,триллер",
-        "actors": "Ник Тэг, Декстер Маслэнд, Зеф Фостер, Кори де Сильва, Кэтлин Кенион, Джон Уэлш, Colleen J. McShay, Роберт Королак, Abel Lopez",
-        "description": "Четверо приятелей, окончивших школу три года назад, с тех пор только пьют и слоняются без дела. Майкла тяготит, что он ничего не достиг в жизни, и он решает проявить себя, предложив друзьям ограбить банк.",
-        "slogan": "From party animals to career criminals",
-        "premiere": "5 октября 2017",
-        "age": "16",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1012504.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "91",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "136"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1028808",
-      "date": "1603836010",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Аквариум",
-        "orig": "Fishbowl",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Алекса Кинигопулос,Стивен Кинигопулос",
-        "genre": "триллер,драма",
-        "actors": "Khali Addair,Кен Арнольд,Маккензи Эстин,Тони Барбер,Larissa Blair,Конни Боуман,Мария Брум,Бобби Дж. Браун,Виктория Чан,Felicity Clark",
-        "description": "В маленьком городе, полном секретов, три сестры пытаются справиться с утратой матери. А их отец, тем временем, становится всё более помешанным на идее о якобы грядущем конце света.",
-        "slogan": "They call this town the fishbowl; when you climb to the top you just slide right back down",
-        "premiere": "27 октября 2018",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1028808.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "12",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "191"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1442388",
-      "date": "1603836006",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Кошмарные игрушки",
-        "orig": "Toys of Terror",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Николас Версо",
-        "genre": "ужасы",
-        "actors": "Дайо Эд,Georgia Waters,Зои Фиш,Кайана Тереза,Эрни Питтс,Верити Маркс,Мюриэль Хог,Saul Elias,Lauren Marshall,Max Nelson",
-        "description": "Ханна Кэшмен пообещала своей семье веселый рождественский отдых, но когда они приезжают в разваливающийся старый приют в заснеженных лесах Вашингтона, они понимают, что она планирует заниматься ремонтом вместо отдыха, чтобы продать этот дом. Дети, Франклин, Зои и Алисия, бродя по жуткому особняку, находят тайник старых игрушек в заброшенной игровой комнате…",
-        "slogan": "",
-        "premiere": "27 октября 2020",
-        "age": "0",
-        "time": "5340",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMzlhOWE3M2EtMTRkMS00NTlmLWJlNTAtNWQ2YmNjZTZiNTg5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "84",
-          "rating_imdb": "3.7",
-          "vote_num_imdb": "561"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "437479",
-      "date": "1603831501",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Идеальный хозяин",
-        "orig": "The Perfect Host",
-        "alter": "",
-        "year": "2010",
-        "country": "США",
-        "director": "Николас Томнэй",
-        "genre": "триллер,криминал",
-        "actors": "Дэвид Хайд Пирс, Клейн Кроуфорд, Тайриз Аллен, Ник Барнс, Меган Перри, Энни Кэмпбелл, Хелен Редди, Индира Гибсон, Джордж Чунг, Брук Андерсон",
-        "description": "Скрываясь от полиции, грабитель банка втирается в доверие к респектабельному мужчине и напрашивается к нему в гости. Но в тихом омуте черти водятся. Хозяин ожидает гостей на званый ужин, и скоро начнётся самый безумный ад, который придется пережить незадачливому преступнику.",
-        "slogan": "The perfect plan, the perfect girl, the perfect hideout, the perfect meal, the perfect party. In an imperfect world, nothing is perfect",
-        "premiere": "14 апреля 2011",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_437479.jpg",
-        "rating": {
-          "rating_kp": "6.699",
-          "vote_num_kp": "5039",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "25788"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1302575",
-      "date": "1603816202",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Афера века",
-        "orig": "El robo del siglo",
-        "alter": "",
-        "year": "2020",
-        "country": "Аргентина",
-        "director": "Ариэль Виноград",
-        "genre": "комедия,криминал",
-        "actors": "Гильермо Франселья,Диего Перетти,Луис Луке,Пабло Раго,Рафаэль Ферро,Мариано Архенто,Хуан Алари,Джоанна Франселла,Марио Аларкон,Почи Дукассе",
-        "description": "В самом фешенебельном пригороде Буэнос-Айреса пятеро грабителей ворвались в здание банка Рио де Акассусо. Взяв в заложники всех сотрудников и посетителей банка, они начали переговоры с прибывшей полицией. Пока сотни полицейских окружали здание, благодаря хитроумному плану и тщательной подготовке преступникам удалось вынести из хранилища деньги и ценности на общую сумму в более чем 15 миллионов долларов.",
-        "slogan": "La historia del robo que hizo historia",
-        "premiere": "16 января 2020",
-        "age": "0",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1302575.jpg",
-        "rating": {
-          "rating_kp": "6.916",
-          "vote_num_kp": "12303",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "5659"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1408761",
-      "date": "1603810840",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Паук из бездны",
-        "orig": "Hai wu",
-        "alter": "",
-        "year": "2020",
-        "country": "Тайвань",
-        "director": "Джо Цзе",
-        "genre": "ужасы",
-        "actors": "Санни Ван,Рексен Чэн,Элис Ко,Ли Каншэн,Эджи Се,Ли Лижэнь,Эндрю Линь,Цзю Кун",
-        "description": "Группа людей на рыбацкой шхуне оказывается атакована гигантскими морскими пауками выросшими на радиоактивных отходах, в то время, как контрабандист и его друзья-головорезы пытаются начать бунт, чтобы заставить капитана изменить маршрут. 2020 год, может быть хватит уже?",
-        "slogan": "",
-        "premiere": "11 сентября 2020",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1408761.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "57",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "67"
         }
       }
     }

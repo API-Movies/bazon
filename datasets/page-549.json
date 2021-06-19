@@ -2,6 +2,251 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1037867",
+      "date": "1576412017",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Первая мировая",
+        "orig": "The Great War",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Стивен Люк",
+        "genre": "драма,военный,история",
+        "actors": "Рон Перлман,Билли Зейн,Бейтс Уайлдер,Эдгар Дамэйтиан,Уэйд Эверетт,Хирам А. Мюррэй,Эндрю Стекер,Джереми Майкл Перейра,Джордан МакФедден,Райан Дж. Гилмер",
+        "description": "Последние дни Первой мировой войны. Группа американских солдат получает приказ: зайти на вражескую территорию и спасти потерявшийся отряд.",
+        "slogan": "",
+        "premiere": "7 апреля 2019",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1037867.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "73",
+          "rating_imdb": "3.8",
+          "vote_num_imdb": "859"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "922179",
+      "date": "1576411839",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Песнь дьявола",
+        "orig": "A Dark Song",
+        "alter": "Песнь тьмы",
+        "year": "2016",
+        "country": "Ирландия, Великобритания",
+        "director": "Лайам Гэвин",
+        "genre": "ужасы,фэнтези,детектив,драма",
+        "actors": "Стив Орам, Катрин Уокер, Сьюзэн Лунейн, Марк Хубермэн, Нэйтан Воз, Мартина Нунварова, Бреффни О’Коннор, Шила Молони, Руби Кернс, Джон Картон",
+        "description": "София арендует загородный особняк в глуши и приглашает туда для некоего тёмного обряда оккультиста Джозефа. Сначала тот отказывается проводить обряд, но узнав, что женщина потеряла сына и хочет таким образом с ним пообщаться, соглашается. София закупается едой на полгода, оккультист запечатывает соляным кругом дом, и теперь обратного пути нет - что бы ни произошло, они должны довести начатое до конца, прежде чем выйти наружу.",
+        "slogan": "Not everything can be forgiven",
+        "premiere": "8 июля 2016",
+        "age": "18",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_922179.jpg",
+        "rating": {
+          "rating_kp": "5.99",
+          "vote_num_kp": "8616",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "15323"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "313338",
+      "date": "1576411204",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "День Святого Валентина",
+        "orig": "Valentine's Day",
+        "alter": "",
+        "year": "2010",
+        "country": "США",
+        "director": "Гэрри Маршалл",
+        "genre": "комедия,мелодрама",
+        "actors": "Эштон Кутчер, Дженнифер Гарнер, Энн Хэтэуэй, Тофер Грейс, Джейми Фокс, Джессика Бил, Гектор Элизондо, Ширли МакЛейн, Джулия Робертс, Брэдли Купер",
+        "description": "Судьбы многих влюбленных и одиноких сердец в Лос-Анджелесе переплетаются в ожидании одного единственного Дня - Дня Всех Влюбленных - Дня Святого Валентина.",
+        "slogan": "Пусть каждый день будет, как...",
+        "premiere": "5 февраля 2010",
+        "age": "16",
+        "time": "7500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_313338.jpg",
+        "rating": {
+          "rating_kp": "6.725",
+          "vote_num_kp": "65653",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "115433"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "412299",
+      "date": "1576377949",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Побег из Вегаса",
+        "orig": "Get Him to the Greek",
+        "alter": "",
+        "year": "2010",
+        "country": "США",
+        "director": "Николас Столлер",
+        "genre": "комедия,приключения",
+        "actors": "Расселл Брэнд, Джона Хилл, Роуз Бирн, Элизабет Мосс, Шон ’Пи Дидди’ Комбс, Дина Стабб, Лино Фасиоль, Колм Мини, Азиз Ансари, Ник Кролл",
+        "description": "Арон Гринберг получил работу, о которой мечтал всю жизнь. Но он никак не ожидал, что его первым заданием будет привезти из Лондона в Лос-Анджелес строптивую рок-звезду. Альдус Сноу - бывший кумир миллионов, знаменитый рокер и прекрасный музыкант, который после продолжительного пике собирается вернуться на большую сцену. Но его характер испорчен алкоголем и развращен деньгами настолько, что любая промелькнувшая юбка может увлечь его в водоворот зубодробительных приключений, в которых теряется само понятие о времени...",
+        "slogan": "Мы доберемся до вас, если просохнем",
+        "premiere": "25 мая 2010",
+        "age": "16",
+        "time": "6780",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_412299.jpg",
+        "rating": {
+          "rating_kp": "6.568",
+          "vote_num_kp": "41170",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "171638"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "407312",
+      "date": "1576377829",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Нерожденный",
+        "orig": "The Unborn",
+        "alter": "",
+        "year": "2009",
+        "country": "США",
+        "director": "Дэвид С. Гойер",
+        "genre": "ужасы,триллер,детектив,драма",
+        "actors": "Одетт Эннэйбл, Гари Олдман, Кэм Жиганде, Миган Гуд, Идрис Эльба, Джейн Александр, Аттикус Шаффер, Джеймс Римар, Карла Гуджино, К.С. Ли",
+        "description": "Кейси Белл ненавидела свою мать за то, что та ее бросила. Но, когда начинает твориться необъяснимое, Кейси понимает, почему мама ушла. Измученная кошмарами и присутствием злого духа, она обращается к единственному человеку, который, возможно, способен ее спасти - опытному советчику по спиритуальным вопросам, а также известному экзорцисту по имени Сендак.",
+        "slogan": "Он хочет родиться...сейчас",
+        "premiere": "9 января 2009",
+        "age": "16",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_407312.jpg",
+        "rating": {
+          "rating_kp": "5.872",
+          "vote_num_kp": "33667",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "49835"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "406353",
+      "date": "1576377799",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ниндзя-убийца",
+        "orig": "Ninja Assassin",
+        "alter": "",
+        "year": "2009",
+        "country": "Германия, США",
+        "director": "Джеймс МакТиг",
+        "genre": "боевик,триллер",
+        "actors": "Рэйн, Ли Джун, Джонатан Чан-Пинсли, Иль-Ён Ким, Юки Ивамото, Бен Майлз, Наоми Харрис, Сон Ган, Лин Дэн Пэм, Ю Фэнг",
+        "description": "Рейзо - один из самых опасных убийц-ниндзя в мире. Еще ребенком его превратили в профессионального убийцу члены клана «Озуну» - секретной организации, чье существование до сих пор считалось выдумкой. Рейзо, преследуемый муками совести из-за беспощадного убийства своего друга кланом Озуну, сбегает от своих. Но тайные кланы не отпускают «своих» просто так...",
+        "slogan": "Бойся не оружия, а того, кто им владеет",
+        "premiere": "29 сентября 2009",
+        "age": "18",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_406353.jpg",
+        "rating": {
+          "rating_kp": "6.608",
+          "vote_num_kp": "19001",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "69231"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "406340",
+      "date": "1576377796",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Меня зовут Кхан",
+        "orig": "My Name Is Khan",
+        "alter": "",
+        "year": "2010",
+        "country": "Индия, США, ОАЭ",
+        "director": "Каран Джохар",
+        "genre": "драма",
+        "actors": "Шах Рукх Кхан, Каджол, Кэти А. Кин, Кентон Дюти, Бенни Нивз, Кристофер Б. Дункан, Джимми Шергилл, Соня Джехан, Парвин Дабас, Арджун Матур",
+        "description": "Ризван Кхан, мусульманин из Индии, переезжает в Сан-Франциско и живет со своим братом и невесткой. Ризван, страдающий от Синдрома Аспергера, влюбляется в Мандиру. Несмотря на протесты его семьи, они женятся и начинают вместе небольшой бизнес. Они живут счастливо до 11 сентября 2001 года, когда отношение к мусульманам резко меняется. Когда происходит трагедия, Мандира оказывается раздавленной и их отношения дают трещину. Ризван растерян и очень расстроен тем, что любовь всей его жизни покинула его. Чтобы вернуть ее, он предпринимает трогательное и вдохновляющее путешествие через всю Америку.",
+        "slogan": "Обычный человек, необычайное путешествие... во имя любви",
+        "premiere": "11 февраля 2010",
+        "age": "16",
+        "time": "9300",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_406340.jpg",
+        "rating": {
+          "rating_kp": "8.087",
+          "vote_num_kp": "72040",
+          "rating_imdb": "8",
+          "vote_num_imdb": "101027"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "405956",
       "date": "1576377761",
       "camrip": "0",
@@ -64,7 +309,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_405606.jpg",
         "rating": {
           "rating_kp": "6.13",
-          "vote_num_kp": "10575",
+          "vote_num_kp": "10580",
           "rating_imdb": "4.5",
           "vote_num_imdb": "40385"
         }
@@ -99,9 +344,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_404200.jpg",
         "rating": {
           "rating_kp": "6.656",
-          "vote_num_kp": "16232",
+          "vote_num_kp": "16236",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "45223"
+          "vote_num_imdb": "45235"
         }
       }
     },
@@ -134,9 +379,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_403986.jpg",
         "rating": {
           "rating_kp": "6.209",
-          "vote_num_kp": "122153",
+          "vote_num_kp": "122198",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "179779"
+          "vote_num_imdb": "179794"
         }
       }
     },
@@ -169,7 +414,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_402626.jpg",
         "rating": {
           "rating_kp": "6.966",
-          "vote_num_kp": "20570",
+          "vote_num_kp": "20572",
           "rating_imdb": "7",
           "vote_num_imdb": "57589"
         }
@@ -204,9 +449,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_400615.jpg",
         "rating": {
           "rating_kp": "6.856",
-          "vote_num_kp": "50683",
+          "vote_num_kp": "50708",
           "rating_imdb": "7",
-          "vote_num_imdb": "196903"
+          "vote_num_imdb": "197036"
         }
       }
     },
@@ -239,9 +484,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_400599.jpg",
         "rating": {
           "rating_kp": "7.051",
-          "vote_num_kp": "129681",
+          "vote_num_kp": "129720",
           "rating_imdb": "7",
-          "vote_num_imdb": "286491"
+          "vote_num_imdb": "286511"
         }
       }
     },
@@ -274,9 +519,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_400582.jpg",
         "rating": {
           "rating_kp": "7.032",
-          "vote_num_kp": "67658",
+          "vote_num_kp": "67689",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "188916"
+          "vote_num_imdb": "188954"
         }
       }
     },
@@ -346,7 +591,7 @@
           "rating_kp": "7.556",
           "vote_num_kp": "161965",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "207885"
+          "vote_num_imdb": "207907"
         }
       }
     },
@@ -379,7 +624,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_397673.jpg",
         "rating": {
           "rating_kp": "6.518",
-          "vote_num_kp": "33245",
+          "vote_num_kp": "33248",
           "rating_imdb": "6.4",
           "vote_num_imdb": "129362"
         }
@@ -449,9 +694,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_397671.jpg",
         "rating": {
           "rating_kp": "6.894",
-          "vote_num_kp": "112458",
+          "vote_num_kp": "112522",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "170278"
+          "vote_num_imdb": "170281"
         }
       }
     },
@@ -484,7 +729,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_397495.jpg",
         "rating": {
           "rating_kp": "5.151",
-          "vote_num_kp": "9607",
+          "vote_num_kp": "9612",
           "rating_imdb": "2.5",
           "vote_num_imdb": "71257"
         }
@@ -591,7 +836,7 @@
           "rating_kp": "7.145",
           "vote_num_kp": "128303",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "185345"
+          "vote_num_imdb": "185363"
         }
       }
     },
@@ -624,9 +869,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_395058.jpg",
         "rating": {
           "rating_kp": "6.99",
-          "vote_num_kp": "112806",
+          "vote_num_kp": "112810",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "145474"
+          "vote_num_imdb": "145484"
         }
       }
     },
@@ -659,9 +904,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_393872.jpg",
         "rating": {
           "rating_kp": "7.531",
-          "vote_num_kp": "53696",
+          "vote_num_kp": "53700",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "79386"
+          "vote_num_imdb": "79393"
         }
       }
     },
@@ -694,7 +939,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_391815.jpg",
         "rating": {
           "rating_kp": "6.276",
-          "vote_num_kp": "21147",
+          "vote_num_kp": "21151",
           "rating_imdb": "5.9",
           "vote_num_imdb": "89267"
         }
@@ -729,7 +974,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_391367.jpg",
         "rating": {
           "rating_kp": "7.122",
-          "vote_num_kp": "17945",
+          "vote_num_kp": "17953",
           "rating_imdb": "5.4",
           "vote_num_imdb": "2317"
         }
@@ -764,9 +1009,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_390738.jpg",
         "rating": {
           "rating_kp": "7.649",
-          "vote_num_kp": "56363",
+          "vote_num_kp": "56366",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "4914"
+          "vote_num_imdb": "4915"
         }
       }
     },
@@ -798,10 +1043,10 @@
         "time": "6840",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_378140.jpg",
         "rating": {
-          "rating_kp": "7.811",
-          "vote_num_kp": "198964",
+          "rating_kp": "7.812",
+          "vote_num_kp": "199322",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "239852"
+          "vote_num_imdb": "239870"
         }
       }
     },
@@ -836,7 +1081,7 @@
           "rating_kp": "6.933",
           "vote_num_kp": "52499",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "78718"
+          "vote_num_imdb": "78735"
         }
       }
     },
@@ -869,7 +1114,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_373119.jpg",
         "rating": {
           "rating_kp": "5.823",
-          "vote_num_kp": "28370",
+          "vote_num_kp": "28400",
           "rating_imdb": "5.5",
           "vote_num_imdb": "80434"
         }
@@ -904,7 +1149,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_325399.jpg",
         "rating": {
           "rating_kp": "6.228",
-          "vote_num_kp": "12516",
+          "vote_num_kp": "12521",
           "rating_imdb": "6.3",
           "vote_num_imdb": "25577"
         }
@@ -939,9 +1184,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_325393.jpg",
         "rating": {
           "rating_kp": "6.619",
-          "vote_num_kp": "74915",
+          "vote_num_kp": "74929",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "131217"
+          "vote_num_imdb": "131223"
         }
       }
     },
@@ -974,9 +1219,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_320230.jpg",
         "rating": {
           "rating_kp": "7.812",
-          "vote_num_kp": "94125",
+          "vote_num_kp": "94130",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "14499"
+          "vote_num_imdb": "14500"
         }
       }
     },
@@ -1009,9 +1254,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_313524.jpg",
         "rating": {
           "rating_kp": "6.433",
-          "vote_num_kp": "37071",
+          "vote_num_kp": "37076",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "85599"
+          "vote_num_imdb": "85611"
         }
       }
     },
@@ -1046,7 +1291,7 @@
           "rating_kp": "7.041",
           "vote_num_kp": "53309",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "51480"
+          "vote_num_imdb": "51487"
         }
       }
     },
@@ -1079,7 +1324,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_309408.jpg",
         "rating": {
           "rating_kp": "7.844",
-          "vote_num_kp": "101590",
+          "vote_num_kp": "101618",
           "rating_imdb": "7.5",
           "vote_num_imdb": "3327"
         }
@@ -1149,9 +1394,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_281449.jpg",
         "rating": {
           "rating_kp": "7.221",
-          "vote_num_kp": "71900",
+          "vote_num_kp": "71906",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "216941"
+          "vote_num_imdb": "216955"
         }
       }
     },
@@ -1184,9 +1429,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_281040.jpg",
         "rating": {
           "rating_kp": "7.294",
-          "vote_num_kp": "85111",
+          "vote_num_kp": "85118",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "428845"
+          "vote_num_imdb": "428876"
         }
       }
     },
@@ -1254,9 +1499,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_279916.jpg",
         "rating": {
           "rating_kp": "6.8",
-          "vote_num_kp": "46692",
+          "vote_num_kp": "46745",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "63496"
+          "vote_num_imdb": "63499"
         }
       }
     },
@@ -1289,9 +1534,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_279850.jpg",
         "rating": {
           "rating_kp": "7.759",
-          "vote_num_kp": "131018",
+          "vote_num_kp": "131038",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "149268"
+          "vote_num_imdb": "149279"
         }
       }
     },
@@ -1324,9 +1569,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_279627.jpg",
         "rating": {
           "rating_kp": "7.518",
-          "vote_num_kp": "69345",
+          "vote_num_kp": "69355",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "17315"
+          "vote_num_imdb": "17316"
         }
       }
     },
@@ -1359,7 +1604,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_279565.jpg",
         "rating": {
           "rating_kp": "6.776",
-          "vote_num_kp": "23698",
+          "vote_num_kp": "23702",
           "rating_imdb": "6",
           "vote_num_imdb": "31536"
         }
@@ -1429,7 +1674,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_276600.jpg",
         "rating": {
           "rating_kp": "6.367",
-          "vote_num_kp": "12519",
+          "vote_num_kp": "12520",
           "rating_imdb": "6.1",
           "vote_num_imdb": "34293"
         }
@@ -1466,7 +1711,7 @@
           "rating_kp": "7.907",
           "vote_num_kp": "182047",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "572528"
+          "vote_num_imdb": "572592"
         }
       }
     },
@@ -1499,254 +1744,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_276295.jpg",
         "rating": {
           "rating_kp": "7.753",
-          "vote_num_kp": "191020",
+          "vote_num_kp": "191075",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "396619"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "274730",
-      "date": "1576376345",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ларго Винч: Начало",
-        "orig": "Largo Winch",
-        "alter": "",
-        "year": "2008",
-        "country": "Франция, Бельгия",
-        "director": "Жером Салль",
-        "genre": "боевик,триллер,приключения",
-        "actors": "Томер Сисле, Кристин Скотт Томас, Мики Манойлович, Мелани Тьерри, Жильбер Мелки, Карел Роден, Стивен Вэддингтон, Анн Косиньи, Радивойе Буквич, Николя Вод",
-        "description": "Ларго Винч - сирота, усыновленный миллиардером, его приемный отец погибает при загадочных обстоятельствах. В 26 лет Ларго наследует огромную корпорацию и миллиардное состояние. Теперь он - владелец заводов, газет, пароходов. Но большие деньги - большие проблемы. Ларго Винч попадает в первые списки Форбс, и в черные списки конкурентов, на него точат зуб компаньоны и даже самые верные друзья готовы предать. Ларго Винч - принимает бой. Красавец, бунтарь, воин-одиночка - готов пройти огонь, воду и медные трубы, чтобы противостоять заговору и восстановить справедливость.",
-        "slogan": "",
-        "premiere": "12 ноября 2008",
-        "age": "16",
-        "time": "6480",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_274730.jpg",
-        "rating": {
-          "rating_kp": "7.031",
-          "vote_num_kp": "43199",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "13657"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "272225",
-      "date": "1576376290",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Война невест",
-        "orig": "Bride Wars",
-        "alter": "",
-        "year": "2009",
-        "country": "США",
-        "director": "Гари Виник",
-        "genre": "комедия,мелодрама",
-        "actors": "Кейт Хадсон, Энн Хэтэуэй, Брайан Гринберг, Крис Пратт, Стив Хоуи, Кэндис Берген, Кристен Джонстон, Майкл Арден, Виктор Слезак, Келли Коффилд",
-        "description": "Конец дружбе Эммы и Лив кладут их свадьбы, намеченные на один и тот же день. Никто не хочет уступать товарке, и погулять сначала у нее, а потом закатить пир самой. Девушки начинают отчаянную конкуренцию за место проведения торжества, гостей и предоставляемые услуги, не желая ни в чем уступать сопернице...",
-        "slogan": "Подруга подкинула проблем...",
-        "premiere": "5 января 2009",
-        "age": "16",
-        "time": "5340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_272225.jpg",
-        "rating": {
-          "rating_kp": "6.818",
-          "vote_num_kp": "89956",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "101859"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "266758",
-      "date": "1576376151",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Арн: Рыцарь-тамплиер",
-        "orig": "Arn: Tempelriddaren",
-        "alter": "",
-        "year": "2007",
-        "country": "Швеция, Великобритания, Дания, Норвегия, Финляндия, Германия, Марокко",
-        "director": "Петер Флинт",
-        "genre": "боевик,мелодрама,драма,военный,приключения",
-        "actors": "Йоаким Наттерквист, София Хелин, Стеллан Скарсгард, Саймон Кэллоу, Венсан Перес, Биби Андерссон, Микаэл Нюквист, Мирья Турестедт, Морган Аллинг, Свен-Бертиль Таубе",
-        "description": "Арн, сын высокопоставленного шведского дворянина, заканчивает свое монастырское обучение и, в наказание за свою запретную любовь, отправляется в Священные Земли в качестве рыцаря-тамплиера. Там ему суждено принять участие в битве при Хатине и других событиях, связанных с тяжёлыми временами Иерусалимского королевства...",
-        "slogan": "In a Time of War and Betrayal, a Hero Will Rise",
-        "premiere": "17 декабря 2007",
-        "age": "16",
-        "time": "8340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_266758.jpg",
-        "rating": {
-          "rating_kp": "7.04",
-          "vote_num_kp": "7824",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "21397"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "262771",
-      "date": "1576376066",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "99 франков",
-        "orig": "99 francs",
-        "alter": "",
-        "year": "2007",
-        "country": "Франция",
-        "director": "Ян Кунен",
-        "genre": "комедия,драма",
-        "actors": "Жан Дюжарден, Жослин Киврен, Патрик Милле, Ваина Джоканте, Элиза Товати, Николя Марье, Доминик Беттенфельд, Антуан Баслер, Фоско Перинти, Сендрин Орсье",
-        "description": "Октаву нет равных во вселенной: ведь он занимается рекламой! Это он решает, чего вам захочется завтра. Для него «человек - это такой же продукт, как и все остальные». Октав трудится в крупнейшем рекламном агентстве. У него полно денег, женщин и кокаина, но, тем не менее, его терзают сомнения. Две вещи в корне меняют жизнь Октава: роман с Софи, самой красивой сотрудницей агентства, и совещание в гигантском молочном концерне «Мадон» по поводу рекламного ролика. Октав срывается с катушек и решает взбунтоваться против системы, которая его породила, саботируя свою же рекламную кампанию.",
-        "slogan": "Вызов и провокация в каждом кадре",
-        "premiere": "26 сентября 2007",
-        "age": "16",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_262771.jpg",
-        "rating": {
-          "rating_kp": "7.32",
-          "vote_num_kp": "90355",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "18982"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "260342",
-      "date": "1576375911",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "План игры",
-        "orig": "The Game Plan",
-        "alter": "",
-        "year": "2007",
-        "country": "США",
-        "director": "Энди Фикмен",
-        "genre": "комедия,семейный,спорт",
-        "actors": "Дуэйн Джонсон, Мэдисон Петтис, Кира Седжвик, Роселин Санчес, Моррис Честнат, Хэйз МакАртур, Брайан Дж. Уайт, Джамал Дафф, Пейдж Турко, Таббс",
-        "description": "Профессиональный игрок в американский футбол внезапно узнаёт о существовании своей дочери. Появившаяся откуда ни возьмись дочурка помогает спортсмену переквалифицироваться из отвязного холостяка в образцово-показательного папашу.",
-        "slogan": "У него превосходный план игры. Но есть одна проблема...",
-        "premiere": "23 сентября 2007",
-        "age": "12",
-        "time": "6600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_260342.jpg",
-        "rating": {
-          "rating_kp": "7.137",
-          "vote_num_kp": "17030",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "60290"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "260315",
-      "date": "1576375908",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мы из будущего",
-        "orig": "Мы из будущего",
-        "alter": "",
-        "year": "2008",
-        "country": "Россия",
-        "director": "Андрей Малюков",
-        "genre": "боевик,фантастика,история,военный,приключения",
-        "actors": "Данила Козловский, Дмитрий Волкострелов, Владимир Яглыч, Андрей Терентьев, Екатерина Климова, Борис Галкин, Даниил Страхов, Сергей Маховиков, Зоя Буряк, Глория Августинович",
-        "description": "Действие картины разворачивается в двух временных пластах: в наши дни и в годы войны, во время тяжелых оборонительных боев августа 1942-го. Главные герои ленты - четверо «черных следопытов» (людей этой сомнительной профессии называют также «черными копателями») - Борман, Череп, Чуха и Спирт. Они ведут раскопки в тех местах, где когда-то шли бои, чтобы потом продать найденные медали, ордена, документы и немецкое оружие.\r\n\r\nДело это выгодное, но опасное. Однажды на месте раскопок начинает происходить нечто странное: в найденных солдатских книжках, принадлежавших погибшим солдатам Красной армии, вдруг обнаруживаются фотографии самих «следопытов». Пытаясь прийти в себя, коллеги по «черному» бизнесу отправляются купаться в озере и... попадают в 1942 год. В самый разгар тяжелых боев.",
-        "slogan": "",
-        "premiere": "5 марта 2010",
-        "age": "16",
-        "time": "6900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_260315.jpg",
-        "rating": {
-          "rating_kp": "7.21",
-          "vote_num_kp": "116769",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "3572"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "255611",
-      "date": "1576375663",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Искупление",
-        "orig": "Atonement",
-        "alter": "",
-        "year": "2007",
-        "country": "Великобритания, Франция, США",
-        "director": "Джо Райт",
-        "genre": "мелодрама,детектив,драма,военный",
-        "actors": "Кира Найтли, Джеймс Макэвой, Сирша Ронан, Харриет Уолтер, Ромола Гарай, Бренда Блетин, Патрик Кеннеди, Бенедикт Камбербэтч, Джуно Темпл, Дэниэл Мейс",
-        "description": "Действие фильма начинается в 1935 году и разворачивается на фоне Второй мировой войны. Талантливая тринадцатилетняя писательница Бриони Таллис бесповоротно меняет ход нескольких жизней, когда обвиняет любовника старшей сестры в преступлении, которого он не совершал.",
-        "slogan": "Обретенные любовью. Разлученные страхом. Спасенные надеждой",
-        "premiere": "28 августа 2007",
-        "age": "18",
-        "time": "7200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_255611.jpg",
-        "rating": {
-          "rating_kp": "7.986",
-          "vote_num_kp": "139168",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "257730"
+          "vote_num_imdb": "396646"
         }
       }
     }

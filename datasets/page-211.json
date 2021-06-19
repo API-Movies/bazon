@@ -2,6 +2,286 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "428816",
+      "date": "1600851910",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дневники нимфоманки",
+        "orig": "Diario de una ninfómana",
+        "alter": "",
+        "year": "2008",
+        "country": "Испания",
+        "director": "Кристиан Молина",
+        "genre": "мелодрама,драма",
+        "actors": "Белен Фабра, Леонардо Сбаралья, Льюм Баррера, Джеральдин Чаплин, Анхела Молина, Педро Гутьеррес, Хосе Чавес, Хорхе-Ямам Серрано, Антонио Гарридо, Хауме Гарсиа Ариха",
+        "description": "Главная героиня романа - молодая француженка, приехавшая в жаркую Испанию и там пустившаяся во все тяжкие: от бесконечной череды совокуплений в отелях, парках и на кладбищах до работы в борделе.",
+        "slogan": "Она не способна отказаться от секса",
+        "premiere": "17 октября 2008",
+        "age": "18",
+        "time": "6060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_428816.jpg",
+        "rating": {
+          "rating_kp": "6.216",
+          "vote_num_kp": "16794",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "10530"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "730913",
+      "date": "1600851885",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDRip",
+      "translation": "Одноголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Марина",
+        "orig": "Marina",
+        "alter": "",
+        "year": "2013",
+        "country": "Бельгия, Италия",
+        "director": "Стиин Конинкс",
+        "genre": "мелодрама,драма",
+        "actors": "Маттео Симони, Эвелин Босманс, Луиджи Ло Кашио, Донателла Финокьяро, Варре Боргманс, Крис ван ден Дюрпел, Cristiaan Campagna, Marte Bosmans, Maité Redal, Флор Декле",
+        "description": "10-летний мальчик покидает итальянский регион, Калабрию, чтобы отправиться вслед за отцом в далекую и холодную Бельгию в поисках лучшей жизни. Фильм рассказывает удивительную историю маленького мальчика на фоне миграции итальянцев в Бельгию в 50-х годах.",
+        "slogan": "",
+        "premiere": "23 августа 2013",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_730913.jpg",
+        "rating": {
+          "rating_kp": "6.967",
+          "vote_num_kp": "282",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "3408"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1279950",
+      "date": "1600851654",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Одичавший мир",
+        "orig": "A Feral World",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "David Liban",
+        "genre": "ужасы,фантастика,драма",
+        "actors": "Caleb Liban,Danielle Prall,Тимоти МакКрекен,Вивьенн Берсин,Каден Хинкль,Люк Сорге,Mark Canjar,Тревор Уилсон,Gabriana Caleo,Ethan Liban",
+        "description": "В мире после конца света мальчик-сирота случайно встречает женщину, которая пытается найти пропавшую дочь. Вместе им предстоит отправиться в долгое путешествие по разрушенному миру и встретиться к лицом к лицу с жестоким деспотом.",
+        "slogan": "The apocalypse is no place for a boy",
+        "premiere": "",
+        "age": "0",
+        "time": "6240",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmYyNzlhZGUtMjMyZC00NWRjLTg5MjQtZDRjNzZlYmYyM2FkXkEyXkFqcGdeQXVyNDEzNzMxMA@@._V1_SY1000_CR0,0,800,1000_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": "3.7",
+          "vote_num_imdb": "301"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1097604",
+      "date": "1600851523",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Исландия лучше",
+        "orig": "Iceland Is Best",
+        "alter": "",
+        "year": "2020",
+        "country": "Великобритания",
+        "director": "Макс Ньюсом",
+        "genre": "драма",
+        "actors": "Джадд Нельсон,Хелена Мэттссон,Том Мэден,Том Прайор,Атли Оскар Фьяларссон,Стефан Халлур Стефанссон,Инги Храфн Хильмарссон,Торунн Эрна Клаузен,Jasmín Dúfa Pitt,Аднар Йоунссон",
+        "description": "Семнадцатилетняя Сигга хочет уехать из родной рыбацкой деревушки в Исландии в Калифорнию, чтобы учиться там на курсах поэзии. По пути в аэропорт она знакомится с Никки — парнем, только что вернувшимся из Калифорнии. Он хочет отговорить Сиггу от поездки, и девушка в замешательстве откладывает отъезд. У нее возникают чувства к Никки, но влюбленный в нее Джек пытается разрушить зарождающийся роман, что приводит всех троих к личной катастрофе.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "4440",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjNhMjY2YTQtYmU1YS00OTVhLTg4OTMtNmE5NTg0YzgxYjFjXkEyXkFqcGdeQXVyNTM2MTIwODg@._V1_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "15",
+          "rating_imdb": "3.8",
+          "vote_num_imdb": "110"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1412469",
+      "date": "1600829101",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мёртвые",
+        "orig": "The Dead Ones",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Джерами Кастен",
+        "genre": "ужасы",
+        "actors": "Сара Роуз Харпер,Брэндон Зане Уилсон,Кэти Фостер,Torey Garza,Клэр Крамер,Мьюз Уотсон,Амелия Талбот,Майкл Леви,Шеннон Кьюсак,Шэйн Тунни",
+        "description": "Четырёх проблемных учеников старших классов наказали, заставив убираться в школе после ужасающего случая. Но они не одни внутри, вместе с ними в стенах школы оказываются Четыре всадника Апокалипсиса: Чума, Война, Голод и Смерть, и ведут на них охоту. Ученики пытаются выжить, а заодно сталкиваются с травмами своего прошлого, которые пытаются забыть, но вынуждены переживать снова и снова.",
+        "slogan": "",
+        "premiere": "13 апреля 2019",
+        "age": "0",
+        "time": "4380",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1412469.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "29",
+          "rating_imdb": "3.3",
+          "vote_num_imdb": "180"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1202387",
+      "date": "1600827302",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Исследователь Тоби и тайна нашей планеты",
+        "orig": "Checker Tobi und das Geheimnis unseres Planeten",
+        "alter": "",
+        "year": "2019",
+        "country": "Германия",
+        "director": "Мартин Тишнер",
+        "genre": "комедия,приключения",
+        "actors": "Tobias Krell,Esra Bonkowski,Daniela Jansen,Ina Kleitz,Uli Kunz,Улла Ломанн,Karl Nyman,Devaki Patil,Ларс Рудольф",
+        "description": "Тоби собирается разгадать тайну планеты и для этого едет в кругосветное путешествие. Он заглянет в жерло вулкана и библиотеку льда, в воды Тасманских побережий и даже в трущобы Индии.",
+        "slogan": "",
+        "premiere": "31 января 2019",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1202387.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "33",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "119"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1136307",
+      "date": "1600824604",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "(Не)идеальная женщина",
+        "orig": "I gefsi tis agapis",
+        "alter": "",
+        "year": "2018",
+        "country": "Греция",
+        "director": "Акис Полизос",
+        "genre": "фантастика,мелодрама",
+        "actors": "Фанис Муратидис,Димитрис Кицос,Мелиссанти Маю,Фиона Георгиади,Хелена Чарбила,Наташа Эксинтавелони,Альбертос Фаис,Яннис Янулис,Димитрис Гуцаманис,Димитрис Калимерис",
+        "description": "2038-й год. Преуспевающий бизнесмен Арис разочарован в любви. В подарок от друзей он получает нового уникального андроида. Элли выглядит как настоящая женщина: она универсальный помощник, может поддерживать беседу и даже проявлять заботу о своем владельце. В обновлении системы появляются чувства и эмоции. И Арис решает его установить...",
+        "slogan": "",
+        "premiere": "14 февраля 2018",
+        "age": "16",
+        "time": "4440",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1136307.jpg",
+        "rating": {
+          "rating_kp": "6.173",
+          "vote_num_kp": "542",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "170"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1309818",
+      "date": "1600822804",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Бэкман",
+        "orig": "Beckman",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Гэбриел Саблофф",
+        "genre": "боевик",
+        "actors": "Дэвид Э.Р. Уайт,Уильям Болдуин,Берт Янг,Джефф Фэйи,Брайтон Шарбино,Кира Рид Лорш,Даниэль Муане,Джейкоб Мелтон,Ксандер Бэйли,Линетт Дюпри",
+        "description": "Наёмный убийца становится пастором в церкви Лос-Анджелеса, пока глава секты и его приспешники не похищают дочь Бэкмана. Ослеплённый местью он проходит по городу, оставляя кровавый след. Единственное, что может его остановить - новоприобретённая вера.",
+        "slogan": "",
+        "premiere": "22 сентября 2020",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjc3M2YxMWItYzA5Yy00NDkwLTg1NzQtMjQ1OGEyODcwY2UzXkEyXkFqcGdeQXVyMTAxOTkyMTI@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "40",
+          "rating_imdb": "4.2",
+          "vote_num_imdb": "462"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1336647",
       "date": "1600817406",
       "camrip": "0",
@@ -99,9 +379,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_418.jpg",
         "rating": {
           "rating_kp": "8.003",
-          "vote_num_kp": "125831",
+          "vote_num_kp": "126012",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "688458"
+          "vote_num_imdb": "688520"
         }
       }
     },
@@ -134,9 +414,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_111543.jpg",
         "rating": {
           "rating_kp": "8.497",
-          "vote_num_kp": "518256",
+          "vote_num_kp": "518334",
           "rating_imdb": "9",
-          "vote_num_imdb": "2366603"
+          "vote_num_imdb": "2366889"
         }
       }
     },
@@ -309,7 +589,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1392589.jpg",
         "rating": {
           "rating_kp": "6.155",
-          "vote_num_kp": "4652",
+          "vote_num_kp": "4656",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -414,7 +694,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_584248.jpg",
         "rating": {
           "rating_kp": "6.85",
-          "vote_num_kp": "3061",
+          "vote_num_kp": "3063",
           "rating_imdb": "6.5",
           "vote_num_imdb": "4586"
         }
@@ -659,7 +939,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1178399.jpg",
         "rating": {
           "rating_kp": "4.577",
-          "vote_num_kp": "576",
+          "vote_num_kp": "579",
           "rating_imdb": "3.6",
           "vote_num_imdb": "2834"
         }
@@ -694,9 +974,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_743392.jpg",
         "rating": {
           "rating_kp": "6.671",
-          "vote_num_kp": "45602",
+          "vote_num_kp": "45626",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "33133"
+          "vote_num_imdb": "33134"
         }
       }
     },
@@ -729,7 +1009,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6715.jpg",
         "rating": {
           "rating_kp": "7.642",
-          "vote_num_kp": "9450",
+          "vote_num_kp": "9453",
           "rating_imdb": "7.6",
           "vote_num_imdb": "35809"
         }
@@ -939,9 +1219,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_93377.jpg",
         "rating": {
           "rating_kp": "7.605",
-          "vote_num_kp": "141869",
+          "vote_num_kp": "141954",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "473833"
+          "vote_num_imdb": "473897"
         }
       }
     },
@@ -976,7 +1256,7 @@
           "rating_kp": "7.647",
           "vote_num_kp": "106524",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "308717"
+          "vote_num_imdb": "308736"
         }
       }
     },
@@ -1009,9 +1289,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_696247.jpg",
         "rating": {
           "rating_kp": "6.174",
-          "vote_num_kp": "20537",
+          "vote_num_kp": "20539",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "44712"
+          "vote_num_imdb": "44729"
         }
       }
     },
@@ -1429,9 +1709,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_323.jpg",
         "rating": {
           "rating_kp": "7.176",
-          "vote_num_kp": "126416",
+          "vote_num_kp": "126540",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "256552"
+          "vote_num_imdb": "256596"
         }
       }
     },
@@ -1464,305 +1744,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258475.jpg",
         "rating": {
           "rating_kp": "6.698",
-          "vote_num_kp": "92874",
+          "vote_num_kp": "92886",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "411021"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1320862",
-      "date": "1600697721",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Детская игра",
-        "orig": "Choi Thi Chiu",
-        "alter": "",
-        "year": "2017",
-        "country": "Вьетнам",
-        "director": "Nguyen Lam",
-        "genre": "мелодрама,комедия",
-        "actors": "Ким Туен,Труонг Те Винь,Phan Thu Quyên,Truong Thanh Long,Le Ngoc Trinh,Trinh Kim Chi,Mai Huynh,Lê Bình,Huynh Thi Ngoc Lan,Nsut Thanh Dien",
-        "description": "Незадачливый Чыонг напился на свадьбе и друга и перепутал номера в отеле. Теперь девушка по имени Тхи беременна и хочет растить ребёнка одна. Но её родители другого мнения.",
-        "slogan": "",
-        "premiere": "18 октября 2017",
-        "age": "0",
-        "time": "5760",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTViYTcwNWEtMzk3Yi00MTU3LWIzYjAtODI2OWViNzdkNGM0XkEyXkFqcGdeQXVyOTIxNDQ1MTQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "0",
-          "rating_imdb": "3.2",
-          "vote_num_imdb": "6"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "928899",
-      "date": "1600697713",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "IPTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Мэри: Создание принцессы",
-        "orig": "Mary: The Making of a Princess",
-        "alter": "",
-        "year": "2015",
-        "country": "Австралия",
-        "director": "Дженнифер Лиси",
-        "genre": "биография",
-        "actors": "Эмма Хэмилтон,Райан О’Кейн,Гиг Кларк,Рене Смолл,Николас Хоуп,Гарет Ривз,Алин Сумарвата,Джеймс Лагтон,Шэйн Брайант,Леа Пурселл",
-        "description": "Фильм изображает историю романа датского принца и австралийской Золушки, начиная с их знакомства и заканчивая свадьбой, а также превращения Золушки Мэри в принцессу.",
-        "slogan": "",
-        "premiere": "15 ноября 2015",
-        "age": "0",
-        "time": "5340",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNWUwNGYwZTItZDU4YS00NzY3LWE1NGQtY2M0N2MyNWE1OWE2XkEyXkFqcGdeQXVyODY5OTk4MA@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "305"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1210865",
-      "date": "1600697708",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Долли Китти и мерцающие звезды",
-        "orig": "Dolly kitty aur woh chamakte sitare",
-        "alter": "",
-        "year": "2019",
-        "country": "Индия",
-        "director": "Аланкрита Шривастава",
-        "genre": "драма",
-        "actors": "Kumar Amlendu,Сорабх Чаухан,Minim Dey,Бхуми Педнекар,Кюбра Саит,Конкона Сен Шарма",
-        "description": "Разочарованная жена Дели и ее двоюродный брат, только что приехавший в город, преодолевают ужасающие секреты, мечты и тернистую динамику на своих дорогах к свободе.",
-        "slogan": "",
-        "premiere": "4 октября 2019",
-        "age": "0",
-        "time": "7800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1210865.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "12",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "4738"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1301686",
-      "date": "1600697705",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Ты умрешь в 20",
-        "orig": "You Will Die at 20",
-        "alter": "",
-        "year": "2019",
-        "country": "Судан,Франция,Египет,Германия,Норвегия,Катар",
-        "director": "Amjad Abu Alala",
-        "genre": "драма",
-        "actors": "Islam Mubarak,Mustafa Shehata,Moatasem Rashed,Mahmoud Alsarraj,Bonna Khalid,Talal Afifi,Mazin Ahmed,Hassan Ali,Mohamed Khalil,Asjad Mohamed",
-        "description": "Судан. Во время церемонии присвоения имени первенцу мать Сакина обращается за благословлением для своего сына Музамила к пророкам, но получает страшное предсказание: ее сын умрет в 20 лет. Женщина решает, что ее жизнь отныне посвящена оплакиванию горькой судьбы сына и тщательному за ним присмотру. Муж Сакины не выдерживает этого и уходит из дома. Музамил растет под постоянным страхом неминуемой скорой смерти. И вот ему исполняется 19 лет...",
-        "slogan": "",
-        "premiere": "29 августа 2019",
-        "age": "0",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1301686.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "55",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "1799"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "94340",
-      "date": "1600695729",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Оригинал",
-      "max_qual": "480",
-      "info": {
-        "rus": "Проданный смех",
-        "orig": "Проданный смех",
-        "alter": "",
-        "year": "1981",
-        "country": "СССР",
-        "director": "Леонид Нечаев",
-        "genre": "мюзикл,фэнтези,приключения,семейный",
-        "actors": "Павел Кадочников,Александр Продан,Елена Морозова,Анастасия Нечаева,Вадим Белевцев,Наталья Гундарева,Екатерина Васильева,Надежда Румянцева,Юрий Катин-Ярцев,Гасан Мамедов",
-        "description": "После смерти отца Тим Талер, добрый и веселый мальчик, остается со скупой мачехой. Он продает свой смех злому волшебнику в обмен на способность выигрывать любые пари. Но без улыбки и смеха, оказывается, не может быть счастья. Тогда Тим пускается в опасное путешествие, чтобы вернуть смех...",
-        "slogan": "",
-        "premiere": "",
-        "age": "12",
-        "time": "8400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_94340.jpg",
-        "rating": {
-          "rating_kp": "7.564",
-          "vote_num_kp": "2824",
-          "rating_imdb": "7",
-          "vote_num_imdb": "133"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "44861",
-      "date": "1600695648",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Оригинал",
-      "max_qual": "480",
-      "info": {
-        "rus": "Кольца Альманзора",
-        "orig": "Кольца Альманзора",
-        "alter": "",
-        "year": "1977",
-        "country": "СССР",
-        "director": "Игорь Вознесенский",
-        "genre": "фэнтези,боевик,семейный,история",
-        "actors": "Светлана Смирнова,Михаил Кононов,Валентина Талызина,Людмила Дмитриева,Борис Иванов,Федор Никитин,Виктор Павлов,Роман Ткачук,Леонид Каневский,Владимир Фёдоров",
-        "description": "Королева Януария решила выдать обеих дочерей замуж. Но Августа слишком зла, а Алели, как считают все придворные, глупа, потому что говорит то, что думает. И тогда волшебник Альманзор приходит им на помощь. Он предлагает барышням два колечка: обыкновенное золотое и волшебное оловянное, у которого есть двойничок. Алели выбирает второе - и с этих пор садовник Зензивер, владелец второго оловянного колечка, знает все о своей избраннице и спешит сделать ее счастливой...",
-        "slogan": "Азимут",
-        "premiere": "24 марта 1978",
-        "age": "12",
-        "time": "3840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44861.jpg",
-        "rating": {
-          "rating_kp": "6.84",
-          "vote_num_kp": "612",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "30"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "900057",
-      "date": "1600695580",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "NewStudio",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        }
-      },
-      "info": {
-        "rus": "Особое мнение",
-        "orig": "Minority Report",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Грег Биман, Олатунде Осунсанми, Сара Пиа Андерсон",
-        "genre": "боевик,фантастика,драма",
-        "actors": "Миган Гуд, Старк Сэндс, Ник Зано, Дэниэл Лондон, Лаура Риган, Ли Цзюнь Ли, Уилмер Вальдеррама, Дженнифер Чжон, Рид Даймонд, Кристофер Хейердал",
-        "description": "Спустя 10 лет после событий фильма один из трех Провидцев пытается вести «нормальную» человеческую жизнь, но по-прежнему преследуется видениями будущего, когда встречает детектива, преследуемую своим прошлым, которая может помочь найти предназначение его дару.",
-        "slogan": "They see the future. She stops the crime",
-        "premiere": "21 сентября 2015",
-        "age": "0",
-        "time": "2520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_900057.jpg",
-        "rating": {
-          "rating_kp": "5.984",
-          "vote_num_kp": "1420",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "9924"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1122634",
-      "date": "1600695501",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Извращенная пляжная вечеринка",
-        "orig": "Horndogs Beach Party",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Дастин Фергюсон,Энрике Коуту",
-        "genre": "комедия",
-        "actors": "Jared K. Admave,Daiane Azura,Грегори Блэр,Alana Evans,Дастин Фергюсон,Danny Filaccio,Трой Фромин,Вида Родс,Дона Ли Хейсинг,Traver Johnson",
-        "description": "Дасти вместе со своей подругой Кори приезжают в дом ее тетушки на выходные. Чтобы как-то подзаработать, их тетя сдала в аренду половину дома двум прекрасным леди по имени Лорен и Стэйси. Только здесь есть одна небольшая проблемка - нет никаких девушек Лорен и Стэйси, - это самые настоящие парни, только почему-то с женскими именами. Дасти с Кори придется свыкнуться с мыслью, что их выходные будут насыщены мужским вниманием. Почему бы и нет? Возможно, Лорен и Стэйси покажут им настоящее веселье.",
-        "slogan": "Bottoms up and tops down!",
-        "premiere": "29 июня 2018",
-        "age": "0",
-        "time": "4740",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1122634.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "16",
-          "rating_imdb": "1.6",
-          "vote_num_imdb": "105"
+          "vote_num_imdb": "411054"
         }
       }
     }

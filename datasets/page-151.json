@@ -2,6 +2,286 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1069365",
+      "date": "1609348506",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Два пути домой",
+        "orig": "Two Ways to Go West",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Ryan Brookhart",
+        "genre": "драма",
+        "actors": "Джино Кафарелли,Пол Дженнаро,Дрю Кенни,James Liddell,Кэтрин Нардуччи,Леви Трэн",
+        "description": "Молодая женщина с биполярным расстройством пытается исполнить последнюю волю своего дедушки и достучаться до 12-летней дочери, которая не воспринимает её как мать",
+        "slogan": "",
+        "premiere": "17 июля 2020",
+        "age": "0",
+        "time": "4680",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2VkOGYwZTctNGUwMS00YWUxLThkMmEtYWExZDYyODE5YzZlXkEyXkFqcGdeQXVyNTcwMzkyNDE@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "3",
+          "rating_imdb": "3",
+          "vote_num_imdb": "11"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1055250",
+      "date": "1609341375",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Территории",
+        "orig": "Los territorios",
+        "alter": "",
+        "year": "2017",
+        "country": "Аргентина,Бразилия,Палестина",
+        "director": "Иван Грановски",
+        "genre": "драма",
+        "actors": "Иван Грановски,Альберто Ахака,Рафаэль Спрегельбурд,Валерия Луис,Жоана де Верона,Juncal Altzugarai,Barbara Gauvain",
+        "description": "Иван, сын известного аргентинского журналиста, после нападения на газету Шарли Эбдо в Париже отправляется на поиски различных геополитических событий и конфликтов по всему миру.",
+        "slogan": "",
+        "premiere": "29 января 2017",
+        "age": "0",
+        "time": "6060",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjVmNjBhMjItZTRiMi00NGMzLWExOTgtNTRjNjRhNTk1YzI4XkEyXkFqcGdeQXVyMjQ3NzUxOTM@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "3",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "57"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1338253",
+      "date": "1609341375",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Комета Галлея",
+        "orig": "Комета Галлея",
+        "alter": "",
+        "year": "2020",
+        "country": "Россия",
+        "director": "Милена Фадеева",
+        "genre": "комедия,мелодрама",
+        "actors": "Лия Ахеджакова,Анна Михалкова,Аня Чиповская,Антон Шагин,Софья Лукьянова,Павел Прилучный,Максим Лагашкин,Нина Усатова,Максим Жегалин,Светлана Колпакова",
+        "description": "Под Новый год 34-летний физик-астроном Игнат Галлей, увлеченный звездами и работой в горной обсерватории, летит в столицу оформлять развод. В Москве при необычных обстоятельствах Игнат встречает загадочную девушку Таисию Артемьеву и знакомится со всей ее семьей: мамой Юлей, сестрой Дусей и интеллигентной чудаковатой бабушкой Янгой Львовной. Эта встреча переворачивает все с ног наголову в жизни астронома. А в канун Нового года Игнату предстоит принять важное решение, которое изменит не только его жизнь, но и его новых знакомых.",
+        "slogan": "Все случайности не случайны",
+        "premiere": "3 декабря 2020",
+        "age": "12",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1338253.jpg",
+        "rating": {
+          "rating_kp": "5.784",
+          "vote_num_kp": "1567",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1266995",
+      "date": "1609341366",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Заблудшая душа",
+        "orig": "Lost Heart",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Jesse Low",
+        "genre": "драма,комедия,детектив",
+        "actors": "Melissa Anschutz,Дон Мост,Виктория Джексон,Кристин Мари,Джош Перри,DJ Перри,Шэйн Хедждорн,Дин Уэст,Тейлор Дюпуа,Шеррил Деспрес",
+        "description": "Суперзвезда кантри, певица Ханна, переживающая кризис, возвращается в тихий родной городок Лост Харт в Северном Мичигане на похороны отца. Там она встретится с призраками прошлого и возможно, обретёт покой и гармонию в душе.",
+        "slogan": "",
+        "premiere": "17 октября 2020",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTc0MmQ0Y2UtNzdlMi00NWRlLTk3NjItZWE3ZDMxNjgxY2ViXkEyXkFqcGdeQXVyMjY2NDc0OTQ@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "280"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1222326",
+      "date": "1609341347",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Рабочая сила",
+        "orig": "Mano de obra",
+        "alter": "",
+        "year": "2019",
+        "country": "Мексика",
+        "director": "David Zonana",
+        "genre": "драма",
+        "actors": "Луис Алберти,Horacio Celestino,Хьюго Мендоза,Jonathan Sánchez",
+        "description": "У Франсиско брат погиб на стройке, где они вместе работали. Не дождавшись компенсации от владельца здания, он разрабатывает своеобразный план мести.",
+        "slogan": "",
+        "premiere": "9 сентября 2019",
+        "age": "0",
+        "time": "4920",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1222326.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "14",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "305"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1254359",
+      "date": "1609341340",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Идеальное королевское рождество",
+        "orig": "Picture Perfect Royal Christmas",
+        "alter": "",
+        "year": "2020",
+        "country": "Франция,Болгария",
+        "director": "Тодор Чапканов",
+        "genre": "мелодрама,семейный",
+        "actors": "Роксанна МакКи,Дэвид Уиттс,Софи Уорд,Софи Вавасо,Джеймс Вебер-Браун,Яна Маринова,Манал Эль-Фейтури,Атанас Сребрев,Austin Gullett",
+        "description": "Аманда - помощница известного фотографа. Ее начальница получает приглашение сделать фотографии рождественских торжеств в королевстве Пантрея, и Аманда выдает себя за нее. Девушка влюбится в принца Леопольда, но ее происхождение станет преградой на пути их чувств. Или нет?..",
+        "slogan": "",
+        "premiere": "1 декабря 2020",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzIyMzVlMWMtMjI2YS00OTIwLWIzMTMtYjkxNzZjZjQzNThhXkEyXkFqcGdeQXVyOTYyOTIwNjk@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "46",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "217"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1193372",
+      "date": "1609341319",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Рождественские туфельки",
+        "orig": "A Shoe Addict's Christmas",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Майкл Робисон",
+        "genre": "мелодрама",
+        "actors": "Кендес Камерон Буре,Люк МакФарлейн,Джин Смарт,Теника Дэвис,Ванесса Джонсон,Кристиан Бруун,Дэн Уиллмотт,Мария Рикосса,Адам Хертиг,Жан Скин",
+        "description": "Задержавшись на работе в обувном магазине в канун Рождества, Ноэль случайно оказывается заперта в универмаге. Вдруг прямо из неоткуда возникает странная женщина, которая утверждает, что она… ангел-хранитель девушки! Однако на этом сказочные знакомства героини не заканчиваются. В обувном отделе девушке предстоит столкнуться с духами Рождества: прошлого, настоящего и будущего. Поможет ли Ноэль эти сказочные путешествия сквозь праздники вновь обрести истинный дух Рождества и по-новому взглянуть на людей и события?",
+        "slogan": "",
+        "premiere": "25 ноября 2018",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1193372.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "86",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "1979"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1303364",
+      "date": "1609341314",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Красный Чемодан",
+        "orig": "Baggage Red",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Christiano Evans",
+        "genre": "триллер",
+        "actors": "Alessandro Anglani,Simon Bass,Lucia Caporaso,Sabrina Carnevale,Louis Hall,Jack Kountouris,Massimo Polito,Alice Renouf,Roberto Russo,Leonardo Shinh",
+        "description": "Джек и Оливия, выходцы из очень успешных и богатых семей, вступают в брак. Счастливая пара перебирается из Лондона в Сорренто, и там начинается их новая красивая совместная жизнь. Но рай, который они там нашли, постепенно начинает рушиться, когда они узнают о страшной тайне, скрывающейся в самом основании их идеальной жизни. Всё выходит из-под контроля, когда они узнают тёмные секреты своих семей. Смогут ли они пережить и справиться с трудностями и оставить всё плохое позади?",
+        "slogan": "",
+        "premiere": "16 ноября 2020",
+        "age": "0",
+        "time": "5520",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjQ4NDE4ZTMtYTI1YS00YjUzLWFjMTItODJiN2QyZGQ2Zjk0XkEyXkFqcGdeQXVyODUwMjk4NTk@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "4",
+          "rating_imdb": "2.7",
+          "vote_num_imdb": "25"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "6193",
       "date": "1609340409",
       "camrip": "0",
@@ -498,9 +778,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8222.jpg",
         "rating": {
           "rating_kp": "8.042",
-          "vote_num_kp": "94386",
+          "vote_num_kp": "94407",
           "rating_imdb": "8",
-          "vote_num_imdb": "304779"
+          "vote_num_imdb": "304798"
         }
       }
     },
@@ -603,7 +883,7 @@
         "poster": "https://st.kp.yandex.net/images/film/8234.jpg",
         "rating": {
           "rating_kp": "7.638",
-          "vote_num_kp": "3835",
+          "vote_num_kp": "3837",
           "rating_imdb": "7.7",
           "vote_num_imdb": "28006"
         }
@@ -673,7 +953,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_494938.jpg",
         "rating": {
           "rating_kp": "6.574",
-          "vote_num_kp": "9955",
+          "vote_num_kp": "9965",
           "rating_imdb": "6.5",
           "vote_num_imdb": "67065"
         }
@@ -840,9 +1120,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_880629.jpg",
         "rating": {
           "rating_kp": "6.519",
-          "vote_num_kp": "3028",
+          "vote_num_kp": "3031",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "3746"
+          "vote_num_imdb": "3755"
         }
       }
     },
@@ -1312,9 +1592,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1338545.jpg",
         "rating": {
           "rating_kp": "7.097",
-          "vote_num_kp": "5619",
+          "vote_num_kp": "5627",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "6529"
+          "vote_num_imdb": "6543"
         }
       }
     },
@@ -1382,9 +1662,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_972742.jpg",
         "rating": {
           "rating_kp": "5.788",
-          "vote_num_kp": "9635",
+          "vote_num_kp": "9640",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "544"
+          "vote_num_imdb": "546"
         }
       }
     },
@@ -1627,7 +1907,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_42201.jpg",
         "rating": {
           "rating_kp": "7.881",
-          "vote_num_kp": "7537",
+          "vote_num_kp": "7542",
           "rating_imdb": "6.9",
           "vote_num_imdb": "174"
         }
@@ -2011,289 +2291,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258382.jpg",
         "rating": {
           "rating_kp": "7.242",
-          "vote_num_kp": "114810",
+          "vote_num_kp": "114822",
           "rating_imdb": 0,
           "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1417597",
-      "date": "1609248616",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Сладости и пряности на Рождество",
-        "orig": "A Sugar & Spice Holiday",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Дженнифер Лиао",
-        "genre": "драма,мелодрама,комедия",
-        "actors": "Джеки Лаи,Тони Жиру,Ма Ци,Лиллиэн Лим,Карди Вонг,Синди Пайпер,Наоми Тан,Грэйс Сунар,Micah Chen,Аадила Досани",
-        "description": "Юный архитектор Сьюзи возвращается в родной город на Рождество, где решает принять участие в кулинарном конкурсе. Там же она встречает своего школьного друга Билли.",
-        "slogan": "",
-        "premiere": "13 декабря 2020",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://m.media-amazon.com/images/M/MV5BN2JiZGNiOWQtYmY0Ny00MDc1LWFkZmMtMGU0MjQyZTY1M2E1XkEyXkFqcGdeQXVyMzU0Njg0MDI@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "16",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "315"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1391332",
-      "date": "1609248612",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Любовная история и рождественская ёлка",
-        "orig": "A Christmas Tree Love Story",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Бентли Хейман,Rollins Smith",
-        "genre": "мелодрама",
-        "actors": "Эшли Поупелка,Greg Hernandez,Джо Массинджилл,Валери Хайнс",
-        "description": "Двое друзей, которые давно не общались, отправляются на ферму, где продают новогодние ёлки. Во время поездки они вспоминают свое прошлое и размышляют о будущем.",
-        "slogan": "When it comes to love, the details don&#x27;t matter",
-        "premiere": "30 ноября 2020",
-        "age": "0",
-        "time": "4200",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYTc0ZjFjN2ItNjQ4My00OTM4LWFjZDAtNmQ0MTJkYTBjYTdkXkEyXkFqcGdeQXVyOTM2NDA3MDk@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "1",
-          "rating_imdb": "4.1",
-          "vote_num_imdb": "14"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "47076",
-      "date": "1609245903",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Набережная Орфевр",
-        "orig": "Quai des Orfèvres",
-        "alter": "",
-        "year": "1947",
-        "country": "Франция",
-        "director": "Анри-Жорж Клузо",
-        "genre": "драма,криминал",
-        "actors": "Луи Жуве, Симона Ренан, Бернар Блие, Сьюзи Делер, Пьер Ларке, Жанна Фюзье-Жир, Клодин Дюпюи, Шарль Дюллен, Анри Ариюс, Шарль Блаветт",
-        "description": "Жени Лямур выступает с фривольными песенками на сцене театра-варьете «Рай», её муж Морис аккомпанирует ей на рояле. Их подруга Дора Монье оказывает сомнительные услуги старому извращенцу Бриньону: время от времени она фотографирует для него обнаженных девиц.\r\n\r\nБриньон обещает Жени работу в кино, если и она согласится позировать для него. Узнав, что жена отправилась к старику, страшно ревнивый Морис бросается туда же, чтобы убить Бриньона... увы, он обнаруживает там лишь его труп. Считая, что это сделала жена, он срочно фабрикует себе не очень убедительное алиби.\r\n\r\nИнспектор Антуан, грубоватый жесткий полицейский и одновременно заботливый и добрый отец-одиночка, подозревая Мориса, постепенно собирает против него улики...",
-        "slogan": "",
-        "premiere": "9 сентября 1947",
-        "age": "16",
-        "time": "6360",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_47076.jpg",
-        "rating": {
-          "rating_kp": "7.502",
-          "vote_num_kp": "1313",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "5222"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "17946",
-      "date": "1609245056",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Поход Роммеля",
-        "orig": "Raid on Rommel",
-        "alter": "",
-        "year": "1971",
-        "country": "США",
-        "director": "Генри Хэтэуэй",
-        "genre": "драма,военный",
-        "actors": "Ричард Бёртон,Джон Коликос,Clinton Greyn,Вольфганг Прайсс,Даниэль Де Мец,Карл-Отто Альберти,Кристофер Кэри,Джон Орхард,Брук Уильямс,Грег Мюлляви",
-        "description": "Интеллигентный офицер руководит бесстрашной атакой на хорошо защищенное побережье германских войск. Пробравшись в немецкий боевой конвой, капитан Фостер узнает, что боевики надеются связаться с практически полностью уничтоженными и частично помещенными в британский военный госпиталь товарищами, с целью организации их похищения.\r\n\r\nС помощью МакКензи, одного из нападающих боевиков, он клянется провалить миссию противника, которая становится все более сложной из-за присутствия любовницы итальянского генерала.\r\n\r\nФостер и Мак вместе подгоняют банду немцев навстречу боевым силам, которые должны ниспровергнуть их и показать свое искусство захвата - только есть одна заминка в неминуемой встрече с Роммелем.",
-        "slogan": "He took on Rommel... the Sahara... and a unit of untrained men to blow the Desert Fox to hell...",
-        "premiere": "12 февраля 1971",
-        "age": "12",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_17946.jpg",
-        "rating": {
-          "rating_kp": "5.631",
-          "vote_num_kp": "107",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "2092"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "279543",
-      "date": "1609244516",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Год без Санты",
-        "orig": "The Year Without a Santa Claus",
-        "alter": "",
-        "year": "1974",
-        "country": "США",
-        "director": "Джулз Басс,Артур Ранкин мл.",
-        "genre": "мультфильм,мюзикл,фэнтези,комедия,семейный",
-        "actors": "Ширли Бут,Микки Руни,Дик Шоун,Джордж С. Ирвинг,Боб МакФедден,Рода Манн,Брэдли Болк,Рон Маршалл,Колин Даффи,Кристин Винтер",
-        "description": "Миссис Клаус рассказывает о том времени, когда Санта подхватил простуду и решил взять отпуск на Рождество. Два его эльфа, Джингл Беллс и Джангл Беллс, решили отыскать детей, которые убедят Санту, что рождественский дух все ещё важен для всех вокруг. Им нужно пройти Жаркого Скрягу и Снежного Скрягу, чтобы попасть в Саустаун, где никогда не бывает снега на Рождество. Братья Скряги не соглашаются устроить снегопад в Саустауне. Однако Миссис Клаус знает их маму - Мать Природу.",
-        "slogan": "",
-        "premiere": "10 декабря 1974",
-        "age": "0",
-        "time": "3060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_279543.jpg",
-        "rating": {
-          "rating_kp": "5.333",
-          "vote_num_kp": "403",
-          "rating_imdb": "7.7",
-          "vote_num_imdb": "8523"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "823203",
-      "date": "1609244273",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Стэн и Олли",
-        "orig": "Stan & Ollie",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания, Канада, США",
-        "director": "Джон С. Бейрд",
-        "genre": "комедия,драма,биография",
-        "actors": "Стив Куган, Джон Си Райли, Ширли Хендерсон, Нина Арианда, Руфус Джонс, Дэнни Хьюстон, Пепе Бэлдеррама, Джон Хеншоу, Tapiwa Mugweni, Кит Макферсон",
-        "description": "В 1937 году комический дуэт худого британца Стэна Лорела и полного американца Оливера Харди - Стэн и Олли - был на вершине успеха. Съёмки в голливудских фильмах, признание критиков, обожание публики. 1953 год. Дуэт уже не появляется на больших экранах, былой популярности нет, поэтому Стэн и Олли отправляются в британское турне, надеясь, что крупный продюсер придёт на шоу и возьмет их в новый фильм.",
-        "slogan": "The untold story of the world's greatest comedy act",
-        "premiere": "21 октября 2018",
-        "age": "0",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_823203.jpg",
-        "rating": {
-          "rating_kp": "6.39",
-          "vote_num_kp": "814",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "34223"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1289034",
-      "date": "1609235103",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Гвен",
-        "orig": "Gwen",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания",
-        "director": "Уильям МакГрегор",
-        "genre": "ужасы,детектив,история,драма",
-        "actors": "Максин Пик, Ричард Хэррингтон, Элинор Вортингтон-Кокс, Марк Льюис Джонс, Кобна Холдбрук-Смит, Ричард Элфин, Gwion Glyn, Dyfrig Evans, Jodie Innes",
-        "description": "Уэльс, XIX век. Индустриальная революция идёт полным ходом, сминая на своём пути судьбы простых людей, которые не успели адаптироваться к новой экономике. Ферму семьи Гвен одна за другой постигают таинственные напасти, а без отца, который ушёл на войну, и с больной матерью, будущее и само выживание Гвен и её малолетней сестры оказывается под угрозой.",
-        "slogan": "",
-        "premiere": "7 сентября 2018",
-        "age": "18",
-        "time": "5040",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1289034.jpg",
-        "rating": {
-          "rating_kp": "5.311",
-          "vote_num_kp": "272",
-          "rating_imdb": "6",
-          "vote_num_imdb": "2261"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "837",
-      "date": "1609235102",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Паук",
-        "orig": "Spider",
-        "alter": "",
-        "year": "2002",
-        "country": "Канада, Великобритания, Франция",
-        "director": "Дэвид Кроненберг",
-        "genre": "триллер,драма",
-        "actors": "Рэйф Файнс, Миранда Ричардсон, Гэбриел Бирн, Линн Редгрейв, Джон Невилл, Брэдли Холл, Гэри Райнеке, Филип Крэйг, Клифф Сондерс, Тара Эллис",
-        "description": "Проведя 20 лет в доме для умалишенных, странный и нелюдимый Деннис Клег возвращается в мрачные закоулки Ист-Энда, где прошло его детство. Словно паук, он рыщет по паутине воспоминаний, опутавшей его больной разум, заново переживая боль и страх, ставшие его единственными друзьями в родном доме, больше похожем на ад.",
-        "slogan": "Хуже, чем потерять рассудок, может быть только одно - снова обрести его",
-        "premiere": "21 мая 2002",
-        "age": "16",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_837.jpg",
-        "rating": {
-          "rating_kp": "6.9",
-          "vote_num_kp": "9638",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "36078"
         }
       }
     }

@@ -2,6 +2,251 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1394",
+      "date": "1586367023",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ковбой с холмов",
+        "orig": "The Shepherd of the Hills",
+        "alter": "",
+        "year": "1941",
+        "country": "США",
+        "director": "Генри Хэтэуэй",
+        "genre": "драма,мелодрама,приключения,вестерн",
+        "actors": "Джон Уэйн,Бетти Филд,Гарри Кэри,Бьюла Бонди,Джеймс Бартон,Сэмьюэл С. Хайндс,Марджори Майн,Уорд Бонд,Марк Лоуренс,Джон Кволен",
+        "description": "В тихой общине холмистого округа Озарк не принято жаловать чужаков, но когда по соседству поселяется добродушный и загадочный мистер Хоуитт, местные жители вскоре принимают его за своего.",
+        "slogan": "Fury in the wild Ozarks! Hatred unleashed on the 'Trail of the Lonsome Pine'!",
+        "premiere": "18 июля 1941",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1394.jpg",
+        "rating": {
+          "rating_kp": "6.511",
+          "vote_num_kp": "113",
+          "rating_imdb": "7",
+          "vote_num_imdb": "2004"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "119367",
+      "date": "1586367014",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Высота 203",
+        "orig": "203 kochi",
+        "alter": "",
+        "year": "1980",
+        "country": "Япония",
+        "director": "Тосио Масуда",
+        "genre": "драма,военный,история",
+        "actors": "Тацуя Накадаи,Тэрухико Аои,Тосиро Мифунэ,Хисая Морисигэ,Сигэру Кояма,Масако Нацумэ,Масаюки Юхара,Кэнтаро Канеко,Тэцуро Тамба,Макото Сато",
+        "description": "В этом фильме рассказывается об осаде японскими войсками русской крепости Порт-Артур во время русско-японской войны 1905 года.",
+        "slogan": "",
+        "premiere": "2 августа 1980",
+        "age": "0",
+        "time": "11100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_119367.jpg",
+        "rating": {
+          "rating_kp": "6.266",
+          "vote_num_kp": "157",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "230"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1113782",
+      "date": "1586367012",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Лимб",
+        "orig": "Limbo",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Марк Янг",
+        "genre": "ужасы,драма,комедия",
+        "actors": "Скотти Томпсон,Джеймс Пьюрфой,Вероника Картрайт,Питер Джекобсон,Чэд Линдберг,Ричард Рили,Гэбриел Джаррет,Лью Темпл,Ребека Кеннеди,Лорин Кэнни",
+        "description": "После смерти убийца предстаёт перед судом.",
+        "slogan": "One Hell of a Story",
+        "premiere": "6 апреля 2019",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1113782.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "88",
+          "rating_imdb": "5",
+          "vote_num_imdb": "358"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1137143",
+      "date": "1586366968",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Брайан Бэнкс",
+        "orig": "Brian Banks",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Том Шэдьяк",
+        "genre": "драма,биография,спорт",
+        "actors": "Грег Кинниэр,Элдис Ходж,Шерри Шеперд,Мелани Либёрд,Тиффани Дюпон,Мэтт Батталья,Дориан Миссик,Зоша Рокемор,Джино Венто,Дженнифер Пирс Матус",
+        "description": "История футболиста Брайана Бэнкса, который провёл 5 лет за решёткой по сфабрикованному обвинению. После выхода из тюрьмы Бэнкс продолжил бороться за своё честное имя, чтобы исполнить мечту всей своей жизни и попасть в большой спорт, и добился пересмотра приговора.",
+        "slogan": "Falsely accused. Wrongfully convicted. Never defeated",
+        "premiere": "22 сентября 2018",
+        "age": "0",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1137143.jpg",
+        "rating": {
+          "rating_kp": "7.706",
+          "vote_num_kp": "4405",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "5078"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "19103",
+      "date": "1586366960",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Путь Гаучо",
+        "orig": "Way of a Gaucho",
+        "alter": "",
+        "year": "1952",
+        "country": "США",
+        "director": "Жак Турнёр",
+        "genre": "боевик,мелодрама,приключения,вестерн",
+        "actors": "Рори Кэлхун,Джин Тирни,Ричард Бун,Хью Марлоу,Эверет Слоун,Энрике Чайко,Хорхе Вильольдо,Рональд Дюма,Хьюго Манчини,Нестор Йоан",
+        "description": "Аргентина, 1875 год. После совершенного им убийства, молодой Гаучо, как это было принято в те времена, должен был поступить в армию. Однако он сбегает с армейской службы, чтобы стать главарем бандитов. Единственная надежда Гаучо на исправление &#151; его прекрасная невеста Тереза&#133;",
+        "slogan": "Surging with the Fury and Romance of the Argentine Pampas !",
+        "premiere": "10 октября 1952",
+        "age": "0",
+        "time": "5220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_19103.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "44",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "631"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "2793",
+      "date": "1586366953",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Война на бобовом поле Милагро",
+        "orig": "The Milagro Beanfield War",
+        "alter": "",
+        "year": "1988",
+        "country": "США",
+        "director": "Роберт Редфорд",
+        "genre": "фэнтези,драма,комедия",
+        "actors": "Рубен Бладес,Ричард Брэдфорд,Соня Брага,Джули Кармен,Джеймс Гэммон,Мелани Гриффит,Джон Хёрд,Карлос Рикельме,Дэниел Стерн,Чик Веннера",
+        "description": "Фильм основан на романе Джона Николса и рассказывает историю Джо Мондрагона, одинокого «чикано» -мастера на все руки, который организует нелегальный полив своего опаленного засухой бобового поля, используя для этого воду, предназначавшуюся для большого общественно значимого проекта.\r\n\r\nЭта в общем-то мелкая инициатива провоцирует эффект снежного кома, положив начало настоящей круговерти событий, которые будут иметь самые невероятные последствия как для самого Джона, так и для жителей его городка.",
+        "slogan": "Milagro, New Mexico. Population 426.  Nothing had changed here for 300 years.  But there's something about this day...",
+        "premiere": "18 марта 1988",
+        "age": "16",
+        "time": "7020",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2RiNjY5ZmYtOGIzZC00Y2U0LTg0ZWEtY2E3ZDIwY2MxY2NkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+        "rating": {
+          "rating_kp": "6.336",
+          "vote_num_kp": "287",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "5995"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5019",
+      "date": "1586366945",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Нулевой эффект",
+        "orig": "Zero Effect",
+        "alter": "",
+        "year": "1998",
+        "country": "США",
+        "director": "Джейк Кэздан",
+        "genre": "триллер,драма,мелодрама,комедия,криминал,детектив",
+        "actors": "Билл Пуллман,Бен Стиллер,Райан О’Нил,Ким Диккенс,Анджела Фезерстоун,Хью Росс,Сара ДеВисентис,Мэтт О’Тул,Мишель Мариана,Роберт Катимс",
+        "description": "Частный сыщик Дэрил Зеро &#151; не обычный сыщик &#151; его мало интересуют слава и гонорары. Он честен, скромен и одинок. Однако именно он является одним из самых сильных американских сыщиков наших дней.",
+        "slogan": "The world's most private detective",
+        "premiere": "30 января 1998",
+        "age": "16",
+        "time": "6960",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5019.jpg",
+        "rating": {
+          "rating_kp": "5.929",
+          "vote_num_kp": "474",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "13948"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "5369",
       "date": "1586366944",
       "camrip": "0",
@@ -64,9 +309,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_709458.jpg",
         "rating": {
           "rating_kp": "6.824",
-          "vote_num_kp": "860",
+          "vote_num_kp": "862",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "4041"
+          "vote_num_imdb": "4042"
         }
       }
     },
@@ -99,9 +344,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_692861.jpg",
         "rating": {
           "rating_kp": "7.948",
-          "vote_num_kp": "391695",
+          "vote_num_kp": "391830",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "886684"
+          "vote_num_imdb": "886836"
         }
       }
     },
@@ -136,7 +381,7 @@
           "rating_kp": "6.057",
           "vote_num_kp": "60410",
           "rating_imdb": "6",
-          "vote_num_imdb": "44385"
+          "vote_num_imdb": "44390"
         }
       }
     },
@@ -343,10 +588,10 @@
         "time": "7380",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTc4NTMtMDRkMy00YWI1LWE5ZTEtZGMwYWY4MDU5NjU1XkEyXkFqcGdeQXVyMjQzMzQzODY@.jpg",
         "rating": {
-          "rating_kp": "7.63",
-          "vote_num_kp": "1481",
+          "rating_kp": "7.631",
+          "vote_num_kp": "1487",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "6407"
+          "vote_num_imdb": "6419"
         }
       }
     },
@@ -439,10 +684,10 @@
         "time": "3300",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_923464.jpg",
         "rating": {
-          "rating_kp": "6.938",
-          "vote_num_kp": "275",
+          "rating_kp": "6.939",
+          "vote_num_kp": "276",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "6970"
+          "vote_num_imdb": "7000"
         }
       }
     },
@@ -521,7 +766,7 @@
           "rating_kp": "5.826",
           "vote_num_kp": "565",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "8137"
+          "vote_num_imdb": "8141"
         }
       }
     },
@@ -553,10 +798,10 @@
         "time": "5220",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_523086.jpg",
         "rating": {
-          "rating_kp": "5.218",
-          "vote_num_kp": "1649",
+          "rating_kp": "5.217",
+          "vote_num_kp": "1656",
           "rating_imdb": "5.1",
-          "vote_num_imdb": "1475"
+          "vote_num_imdb": "1476"
         }
       }
     },
@@ -658,10 +903,10 @@
         "time": "5760",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1034049.jpg",
         "rating": {
-          "rating_kp": "7.019",
-          "vote_num_kp": "4296",
+          "rating_kp": "7.018",
+          "vote_num_kp": "4298",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "780"
+          "vote_num_imdb": "781"
         }
       }
     },
@@ -931,9 +1176,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1173983.jpg",
         "rating": {
           "rating_kp": "7.905",
-          "vote_num_kp": "8259",
+          "vote_num_kp": "8264",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "63765"
+          "vote_num_imdb": "63784"
         }
       }
     },
@@ -1296,9 +1541,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_589167.jpg",
         "rating": {
           "rating_kp": "7.937",
-          "vote_num_kp": "126319",
+          "vote_num_kp": "126409",
           "rating_imdb": "8",
-          "vote_num_imdb": "282581"
+          "vote_num_imdb": "282626"
         }
       }
     },
@@ -1346,10 +1591,10 @@
         "time": "600",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1174219.jpg",
         "rating": {
-          "rating_kp": "7.671",
-          "vote_num_kp": "14403",
+          "rating_kp": "7.67",
+          "vote_num_kp": "14423",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "4308"
+          "vote_num_imdb": "4313"
         }
       }
     },
@@ -1391,8 +1636,8 @@
         "time": "14160",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1221340.jpg",
         "rating": {
-          "rating_kp": "7.777",
-          "vote_num_kp": "2215",
+          "rating_kp": "7.78",
+          "vote_num_kp": "2219",
           "rating_imdb": "7.8",
           "vote_num_imdb": "25171"
         }
@@ -1827,7 +2072,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_630165.jpg",
         "rating": {
           "rating_kp": "6.685",
-          "vote_num_kp": "64101",
+          "vote_num_kp": "64116",
           "rating_imdb": "5.1",
           "vote_num_imdb": "537"
         }
@@ -1861,8 +2106,8 @@
         "time": "5520",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6137.jpg",
         "rating": {
-          "rating_kp": "7.107",
-          "vote_num_kp": "5946",
+          "rating_kp": "7.106",
+          "vote_num_kp": "5950",
           "rating_imdb": "5.7",
           "vote_num_imdb": "13353"
         }
@@ -1897,9 +2142,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_764347.jpg",
         "rating": {
           "rating_kp": "4.646",
-          "vote_num_kp": "14619",
+          "vote_num_kp": "14628",
           "rating_imdb": "4.1",
-          "vote_num_imdb": "8912"
+          "vote_num_imdb": "8914"
         }
       }
     },
@@ -2002,9 +2247,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_276363.jpg",
         "rating": {
           "rating_kp": "6.921",
-          "vote_num_kp": "88737",
+          "vote_num_kp": "88861",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "211005"
+          "vote_num_imdb": "211037"
         }
       }
     },
@@ -2075,251 +2320,6 @@
           "vote_num_kp": "17",
           "rating_imdb": "6",
           "vote_num_imdb": "229"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8680",
-      "date": "1586273293",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Отряд 10 из Навароне",
-        "orig": "Force 10 from Navarone",
-        "alter": "",
-        "year": "1978",
-        "country": "Великобритания,США",
-        "director": "Гай Хэмилтон",
-        "genre": "боевик,драма,военный",
-        "actors": "Роберт Шоу,Харрисон Форд,Барбара Бах,Эдвард Фокс,Франко Неро,Карл Уэзерс,Ричард Кил,Алан Бэдел,Майкл Бирн,Филип Лэтэм",
-        "description": "Два главных героя &#151; Клифф Мэллори, ставший майором &#151; и его друг-взрывник Миллер выбрасываются с самолета в Югославии, где им предстоит в сотрудничестве с десантным отрядом полковника Барнсби и местными партизанами взорвать крайне важный для немцев мост. Но им противостоит предатель Лесковар&#133;",
-        "slogan": "The Odds Against Them Were 10,000 to 1...But What the Hell!",
-        "premiere": "16 августа 1978",
-        "age": "18",
-        "time": "7080",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8680.jpg",
-        "rating": {
-          "rating_kp": "6.339",
-          "vote_num_kp": "464",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "17011"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4628",
-      "date": "1586273245",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Джеки Браун",
-        "orig": "Jackie Brown",
-        "alter": "",
-        "year": "1997",
-        "country": "США",
-        "director": "Квентин Тарантино",
-        "genre": "триллер,драма,криминал",
-        "actors": "Пэм Гриер, Сэмюэл Л. Джексон, Роберт Форстер, Бриджит Фонда, Майкл Китон, Роберт Де Ниро, Майкл Боуэн, Крис Такер, Лиза Гэй Хэмилтон, Том ’Тайни’ Листер мл.",
-        "description": "Фильм поставлен по роману Элмора Леонарда. Героиня по имени Джекки Браун работает стюардессой и подрабатывает контрабандой наличных денег в страну для торговца оружием. Все складывается отлично до того момента, пока ее не арестовывают федеральные агенты.\r\n\r\nНа свободе она может остаться, только «заложив» торговца. Рисковая девушка принимает решение и «пол-лимона зеленых» присвоить, и от торговца оружием избавиться. А вот останется ли она сама в живых?...",
-        "slogan": "LOOK OUT! caught between the Feds and a cold blooded killer.  With half a million dollars up for grabs.  No one knows how it's going down.  Except for maybe JACKIE BROWN",
-        "premiere": "8 декабря 1997",
-        "age": "16",
-        "time": "9240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4628.jpg",
-        "rating": {
-          "rating_kp": "7.129",
-          "vote_num_kp": "39297",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "323558"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "6855",
-      "date": "1586268719",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Белый клык",
-        "orig": "White Fang",
-        "alter": "",
-        "year": "1991",
-        "country": "США",
-        "director": "Рэндал Клайзер",
-        "genre": "драма,приключения",
-        "actors": "Клаус Мария Брандауэр, Итан Хоук, Сеймур Кэссел, Сьюзэн Хоган, Джеймс Римар, Билл Моусли, Клинт Янгрин, Пий Сэвадж, Аарон Хотч, Чарльз Джимми ст.",
-        "description": "История о волке Белый клык, который остался сиротой, после того как охотник убил его мать и юноше по имени Джек, прибывшем на Клондайк во времена Золотой Лихорадки на участок, оставленный ему в наследство отцом... Джек и Белый Клык то встречаются, то расстаются, то вновь обретают друг друга. Эта захватывающая история дружбы мальчика и волка будет интересна мальчишкам, увлекающимся приключениями.",
-        "slogan": "Where civilization ends, their journey begins",
-        "premiere": "18 января 1991",
-        "age": "12",
-        "time": "6420",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6855.jpg",
-        "rating": {
-          "rating_kp": "7.857",
-          "vote_num_kp": "7000",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "19910"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2610",
-      "date": "1586268241",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Белый шквал",
-        "orig": "White Squall",
-        "alter": "",
-        "year": "1995",
-        "country": "США, Великобритания",
-        "director": "Ридли Скотт",
-        "genre": "драма,приключения",
-        "actors": "Джефф Бриджес, Кэролайн Гудолл, Джон Сэвэдж, Скотт Вулф, Джереми Систо, Райан Филипп, Дэвид Лэшер, Эрик Майкл Коул, Джейсон Мэрсден, Дэвид Селби",
-        "description": "На грани между Жизнью и Смертью рождается мужской характер. Осенью 1960 года парусная бригантина «Альбатрос» под руководством капитана Кристофера Шелдона ушла в кругосветное плавание. Оно могло бы стать чуть ли не круизом, если бы проходило при тихой погоде. \\n\r\n\\n\r\nНо мальчишки, заканчивавшие на борту «Альбатроса» обучение в Океанской академии, знали, сколь обманчивым любит прикидываться океан. Они знали, что в шторм океан перестает быть безбрежным: многометровые волны окружают небольшой кораблик в жажде раздавить его, и куда ни бросишь взгляд - всюду только стена, громадная стена воды. \\n\r\n\\n\r\nОни знали, что в шторм океан перестает быть прозрачным: мутная грязь так и норовит заткнуть твой рот навсегда, чтобы ты нашел свой покой где-нибудь на дне этого страшного зверя. Они знали, что в шторм океан перестает быть тихим: за его ревом не слышен даже собственный вопль, вырывающийся из груди с последним предсмертным хрипом... \\n\r\n\\n\r\nНе всем членам экипажа «Альбатроса» суждено было остаться в живых...",
-        "slogan": "The Adventure Of a Lifetime Turns Into the Ultimate Challenge of Survival!",
-        "premiere": "2 февраля 1996",
-        "age": "12",
-        "time": "7740",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2610.jpg",
-        "rating": {
-          "rating_kp": "7.443",
-          "vote_num_kp": "11867",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "21449"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "696145",
-      "date": "1586267910",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Девушка возвращается одна ночью домой",
-        "orig": "A Girl Walks Home Alone at Night",
-        "alter": "",
-        "year": "2014",
-        "country": "США",
-        "director": "Ана Лили Амирпур",
-        "genre": "ужасы,драма",
-        "actors": "Шейла Ванд, Араш Маранди, Маршалл Манеш, Можан Марно, Амин Наземзадех, Роум Шаданлу, Milad Eghbali, Реза Сиксо Сафаи, Рэй Харатиан, Ана Лили Амирпур",
-        "description": "События разворачиваются в вымышленном иранском городе Бэд Сити, полном проституции и преступлений, смерти и одиночества. Здесь живут вампиры, проститутки, наркоманы, сутенеры, ростовщики и, конечно же, собственный иранский Джеймс Дин.",
-        "slogan": "The first Iranian Vampire Western",
-        "premiere": "19 января 2014",
-        "age": "18",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_696145.jpg",
-        "rating": {
-          "rating_kp": "6.43",
-          "vote_num_kp": "3270",
-          "rating_imdb": "7",
-          "vote_num_imdb": "32335"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "723174",
-      "date": "1586266712",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Одноголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Вернись ко мне",
-        "orig": "Come Back to Me",
-        "alter": "",
-        "year": "2014",
-        "country": "США",
-        "director": "Пол Лейден",
-        "genre": "ужасы,триллер,фэнтези,детектив",
-        "actors": "Кэти Уолдер, Джон Абрахамс, Andrew Beckham, Жанетт Бренч, Кэролайн Клементс, Лаура Гордон, Нэйтан Кийес, Мэтт Пассмор, Брайан Патакка, Стив Риззо",
-        "description": "Молодожены Сара и Джонни переезжают в новый дом, а по соседству живёт немного странный парень Дел. Вскоре после переезда Сару начинают мучить страшные сны, в которых её с мужем жестоко убивают, и каждый раз она ужасе просыпается, и каждый раз оказывается, что это был просто сон.",
-        "slogan": "It's not in her mind anymore",
-        "premiere": "25 июля 2014",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_723174.jpg",
-        "rating": {
-          "rating_kp": "6.12",
-          "vote_num_kp": "2666",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "4948"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "840409",
-      "date": "1586266621",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Эра грядущего дня",
-        "orig": "Age of Tomorrow",
-        "alter": "",
-        "year": "2014",
-        "country": "США",
-        "director": "Джеймс Конделик",
-        "genre": "боевик,фантастика,триллер",
-        "actors": "Келли Ху, Энтони Маркс, Роберт Пикардо, Лэйн Таунсенд, Морган Уэст, Митчелл Карпентер, Ник Стеллейт, Николас Александр, Sarah Karijan, Joseph Price",
-        "description": "В разгар битвы землян с вторженцами из космоса группа астронавтов проникает на главный корабль противника и обнаруживает портал, ведущий в родной мир пришельцев. Правительства Земли решают отправить через портал элитную группу, состоящую из военных и учёных, дабы те пресекли вторжение в самом его корне.",
-        "slogan": "",
-        "premiere": "30 мая 2014",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_840409.jpg",
-        "rating": {
-          "rating_kp": "2.634",
-          "vote_num_kp": "213",
-          "rating_imdb": "2.1",
-          "vote_num_imdb": "2306"
         }
       }
     }

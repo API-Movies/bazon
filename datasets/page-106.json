@@ -2,6 +2,397 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1266502",
+      "date": "1614964502",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Папаши",
+        "orig": "È per il tuo bene",
+        "alter": "",
+        "year": "2020",
+        "country": "Италия",
+        "director": "Роландо Равелло",
+        "genre": "комедия",
+        "actors": "Марко Джаллини,Винченцо Салемме,Джузеппе Баттистон,Изабелла Феррари,Валентина Лодовини,Клаудия Пандольфи,Матильда Джоли,Алис Ферри,Элеонора Трецца,Лорена Чезарини",
+        "description": "Трое отчаявшихся отцов видят, что их худший кошмар сбывается: они убеждены, что их дочери выбрали себе неправильных женихов. Уверенные, что действуют для их же блага, они объединяют усилия, чтобы как можно скорее избавиться от суженых своих дочек.",
+        "slogan": "Они плохого не посоветуют",
+        "premiere": "4 февраля 2021",
+        "age": "16",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1266502.jpg",
+        "rating": {
+          "rating_kp": "5.455",
+          "vote_num_kp": "283",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "738"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1441593",
+      "date": "1614957305",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Дорога вперед",
+        "orig": "The Road Ahead",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "James E. Whitley III",
+        "genre": "короткометражка,боевик",
+        "actors": "Philippe Prosper",
+        "description": "Лиам хочет развестись со своей женой Мией, но он узнает, что у неё рак. Она предлагает ему отправиться в путешествие, и заодно поправить их отношения и своё здоровье.",
+        "slogan": "",
+        "premiere": "7 июля 2020",
+        "age": "0",
+        "time": "120",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWZmMzYzNDgtMDI0MC00OTlhLThmMzktNWQzZWMyNzdhMWM5XkEyXkFqcGdeQXVyNjEzNzczMTE@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1334110",
+      "date": "1614955627",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "16",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 480,
+          "16": 480
+        }
+      },
+      "info": {
+        "rus": "Потерянные",
+        "orig": "Потерянные",
+        "alter": "",
+        "year": "2021",
+        "country": "Россия",
+        "director": "Иван Глубоков",
+        "genre": "детектив,триллер,криминал",
+        "actors": "Александр Робак,Арсений Робак,Наталья Земцова,Татьяна Казючиц,Дмитрий Муляр,Ирина Вербицкая,Кирилл Назаров,Павел Гайдученко,Владимир Нисков,Валерия Бурдужа",
+        "description": "Зорин ловит бандитов в убойном отделе и очень часто «косячит» при их задержании. Его начальник, полковник Смирнова постоянно хлопочет за подчинённого, и однажды ей предлагают решение проблемы. В Управлении, в отделе розыска, есть вакантное место полицейского куратора над командой волонтёров. Никто из сотрудников идти туда не хочет, слишком хлопотно, да и карьеры никакой не сделаешь. Зорин тоже не хочет, даже подумывает уйти из органов, но вдруг узнаёт, что именно этим отрядом руководит его сын Паша. Зорин соглашается. Вместе с Пашей, главным «коммуникатором» Катей и врачом по прозвищу Узи Зорин занимается поиском людей.",
+        "slogan": "",
+        "premiere": "24 февраля 2021",
+        "age": "16",
+        "time": "2940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1334110.jpg",
+        "rating": {
+          "rating_kp": "5.876",
+          "vote_num_kp": "672",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1331334",
+      "date": "1614952348",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Octopus",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "24",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 1080,
+          "16": 1080,
+          "17": 1080,
+          "18": 1080,
+          "19": 1080,
+          "20": 1080,
+          "21": 1080,
+          "22": 1080,
+          "23": 480,
+          "24": 1080
+        }
+      },
+      "info": {
+        "rus": "Алиф",
+        "orig": "Alif",
+        "alter": "",
+        "year": "2019",
+        "country": "Пакистан",
+        "director": "Haseeb Hasan,Khalil-ur-Rehman Qamar",
+        "genre": "драма",
+        "actors": "Hadi Bin Arshad,Хамза Аббаси,Sajjal Ali,Sadaf Kanwal,Kubra Khan,Sajal Ali",
+        "description": "Момин – молодой человек из небогатой семьи. С самого детства он стремился к успеху, невзирая на препятствия и жизненные трудности и с большим трудом, но сумел достичь своей цели. Но когда он этого добился, то внезапно понял, что все его старания ничего не стоят, так как ему не с кем это разделить - он остался совершенно один. В этот трудный момент своей жизни Момин встречает девушку по имени Момина, и понимает, что он не одинок, и любовь позволит ему преодолеть все жизненные трудности.",
+        "slogan": "",
+        "premiere": "5 октября 2019",
+        "age": "0",
+        "time": "2340",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTRjZDEyZjYtZWQ0MS00NjY2LTg4N2MtM2RlNDUxMTBkZDVhXkEyXkFqcGdeQXVyNzE4NzE3NDg@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": "9.3",
+          "vote_num_imdb": "946"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1367815",
+      "date": "1614952272",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "WestFilm",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "6",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080
+        }
+      },
+      "info": {
+        "rus": "Нечеловеческий ресурс",
+        "orig": "Dérapages",
+        "alter": "",
+        "year": "2020",
+        "country": "Франция",
+        "director": "Зиад Дуэри",
+        "genre": "триллер,драма",
+        "actors": "Эрик Кантона,Сюзанн Клеман,Алекс Лутц,Гюстав Керверн,Элис де Ланкесэ,Луиз Колдефи,Адам Нина,Атон,Soraya Garlenq,Карлос Чаин",
+        "description": "57-летний Ален Деламбр — бывший старший руководитель по персоналу, страдающий от шестилетней безработицы. Когда на его резюме обращают внимание в крупной престижной фирме, он готов пойти на любую подлость и низость, чтобы получить заветное место, потому что уверен – если должность будет его, то ему всё простят. Однако всё идет не по плану.",
+        "slogan": "",
+        "premiere": "25 марта 2020",
+        "age": "0",
+        "time": "3060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1367815.jpg",
+        "rating": {
+          "rating_kp": "6.981",
+          "vote_num_kp": "158",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "3241"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1153550",
+      "date": "1614952191",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Пифагор",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Я — убийца",
+        "orig": "I Am a Killer",
+        "alter": "Я - убийца",
+        "year": "2018",
+        "country": "Великобритания",
+        "director": "Ross Young,Зои Хайнс,Джеймс Товелл",
+        "genre": "документальный,криминал",
+        "actors": "Рис Путинас,David Galea,Deandra Buchanan,Justin Dickens,Wayne Doty,Kenneth Foster Jr.,David Lee Lewis,Miguel Angel Martinez,Joshua Nelson,James Robertson",
+        "description": "Заключенные, приговоренные к смерти за убийство первой степени, рассказывают о своих преступлениях.",
+        "slogan": "Ten Killers. One Last Chance To Be Heard",
+        "premiere": "3 августа 2018",
+        "age": "0",
+        "time": "3120",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1153550.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "108",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "3427"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1324487",
+      "date": "1614952066",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Ultradox",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "13",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 1080,
+          "4": 1080,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720
+        }
+      },
+      "info": {
+        "rus": "Молодой Пилсудский",
+        "orig": "Ziuk. Young Pilsudski - Conspirators",
+        "alter": "",
+        "year": "2019",
+        "country": "Польша",
+        "director": "Jaroslaw Marszewski",
+        "genre": "драма,биография,история",
+        "actors": "Гжегож Отребски,Мариуш Килиан,Radoslaw Poplonikowski,Zuzanna Zielinska,Karol Pochec,Joanna Kuberska,Ева Венцель,Kirill Glaz,Павел Крыксуноу,Доминик Бонк",
+        "description": "Когда во время очередного покушения на царя Александра II он погибает, судьбы жителей Королевства Польского круто меняются. Среди них есть молодой бунтовщик Юзеф Пилсудски, который мечтает возродить родину.",
+        "slogan": "",
+        "premiere": "11 ноября 2019",
+        "age": "0",
+        "time": "2700",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2Q4NjM2M2UtNDVkMS00YTUyLTk5ODUtYzkwZTNiNTk0Y2ZjXkEyXkFqcGdeQXVyNzU3OTc3MDM@._V1_FMjpg_UX709_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "7",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "18"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1008195",
+      "date": "1614950186",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Охота на монстра 2",
+        "orig": "Zhuo yao ji 2",
+        "alter": "",
+        "year": "2018",
+        "country": "Китай, Гонконг",
+        "director": "Раман Хуэй",
+        "genre": "комедия,фэнтези,приключения",
+        "actors": "Тони Люн Чу Вай, Бай Байхэ, Цзин Божань, Ли Юйчунь, Тони Ян, Сандра Нг, Эрик Цан",
+        "description": "Поскольку маленький Уба является потомком Короля монстров, за ним снова начинают охоту коварные соплеменники, жаждущие заполучить силу и власть. Спасаясь от преследователей, Уба встречает доброго монстра Бэньбэня и шулера Ту. А тем временем Сяолань и Тяньинь скучают по маленькому монстрику и решают разыскать его во что бы то ни стало.",
+        "slogan": "",
+        "premiere": "16 февраля 2018",
+        "age": "0",
+        "time": "6600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1008195.jpg",
+        "rating": {
+          "rating_kp": "6.104",
+          "vote_num_kp": "559",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "1450"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "21317",
       "date": "1614950111",
       "camrip": "0",
@@ -29,9 +420,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_21317.jpg",
         "rating": {
           "rating_kp": "6.887",
-          "vote_num_kp": "333",
+          "vote_num_kp": "334",
           "rating_imdb": "7",
-          "vote_num_imdb": "887"
+          "vote_num_imdb": "889"
         }
       }
     },
@@ -92,7 +483,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_986620.jpg",
         "rating": {
           "rating_kp": "7.753",
-          "vote_num_kp": "815",
+          "vote_num_kp": "816",
           "rating_imdb": "8.2",
           "vote_num_imdb": "1168"
         }
@@ -207,7 +598,7 @@
         "poster": "https://thumbs.filmix.tech/posters/orig/chernaya-messa-2021_149309_0.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "103",
+          "vote_num_kp": "104",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -301,7 +692,7 @@
         "poster": "https://thumbs.filmix.tech/posters/orig/neprekrasnaya-ledi-2020_149326_0.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "102",
+          "vote_num_kp": "103",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -393,7 +784,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BYzM4NjMwNjQtODQ4Zi00N2I4LTlmNGMtNGJiYzI2NTU5ZmI5XkEyXkFqcGdeQXVyMzE2ODIxNA@@.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "29",
+          "vote_num_kp": "30",
           "rating_imdb": "6.7",
           "vote_num_imdb": "58"
         }
@@ -428,7 +819,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7587.jpg",
         "rating": {
           "rating_kp": "6.727",
-          "vote_num_kp": "907",
+          "vote_num_kp": "908",
           "rating_imdb": "6.5",
           "vote_num_imdb": "11958"
         }
@@ -478,9 +869,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1203040.jpg",
         "rating": {
           "rating_kp": "7.487",
-          "vote_num_kp": "39168",
+          "vote_num_kp": "39251",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "180566"
+          "vote_num_imdb": "180959"
         }
       }
     },
@@ -548,9 +939,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_29951.jpg",
         "rating": {
           "rating_kp": "7.378",
-          "vote_num_kp": "1233",
+          "vote_num_kp": "1234",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "18560"
+          "vote_num_imdb": "18579"
         }
       }
     },
@@ -687,10 +1078,10 @@
         "time": "6960",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1263292.jpg",
         "rating": {
-          "rating_kp": "7.748",
-          "vote_num_kp": "12795",
+          "rating_kp": "7.75",
+          "vote_num_kp": "12809",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "2869"
+          "vote_num_imdb": "2870"
         }
       }
     },
@@ -911,8 +1302,8 @@
         "time": "4200",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1179155.jpg",
         "rating": {
-          "rating_kp": "7.126",
-          "vote_num_kp": "898",
+          "rating_kp": "7.116",
+          "vote_num_kp": "900",
           "rating_imdb": "7.1",
           "vote_num_imdb": "550"
         }
@@ -949,7 +1340,7 @@
           "rating_kp": "0",
           "vote_num_kp": "43",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "1106"
+          "vote_num_imdb": "1107"
         }
       }
     },
@@ -1017,7 +1408,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1390625.jpg",
         "rating": {
           "rating_kp": "6.065",
-          "vote_num_kp": "4214",
+          "vote_num_kp": "4217",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1051,8 +1442,8 @@
         "time": "6420",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1235135.jpg",
         "rating": {
-          "rating_kp": "5.326",
-          "vote_num_kp": "254",
+          "rating_kp": "5.31",
+          "vote_num_kp": "257",
           "rating_imdb": "6.3",
           "vote_num_imdb": "2194"
         }
@@ -1253,7 +1644,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2000114.jpg",
         "rating": {
           "rating_kp": "6.514",
-          "vote_num_kp": "11748",
+          "vote_num_kp": "11759",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1380,7 +1771,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1045622.jpg",
         "rating": {
           "rating_kp": "7.299",
-          "vote_num_kp": "6567",
+          "vote_num_kp": "6570",
           "rating_imdb": "7.5",
           "vote_num_imdb": "843"
         }
@@ -1431,9 +1822,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1100424.jpg",
         "rating": {
           "rating_kp": "7.416",
-          "vote_num_kp": "19777",
+          "vote_num_kp": "19800",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "14587"
+          "vote_num_imdb": "14594"
         }
       }
     },
@@ -1581,7 +1972,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_719940.jpg",
         "rating": {
           "rating_kp": "8.034",
-          "vote_num_kp": "3328",
+          "vote_num_kp": "3333",
           "rating_imdb": "8",
           "vote_num_imdb": "1966"
         }
@@ -1681,7 +2072,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1009424.jpg",
         "rating": {
           "rating_kp": "7.919",
-          "vote_num_kp": "858",
+          "vote_num_kp": "860",
           "rating_imdb": "8.3",
           "vote_num_imdb": "1294"
         }
@@ -1741,328 +2132,6 @@
           "vote_num_kp": "53",
           "rating_imdb": 0,
           "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "999466",
-      "date": "1614878299",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "16",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080,
-          "14": 1080,
-          "15": 1080,
-          "16": 1080
-        }
-      },
-      "info": {
-        "rus": "Перепутанные",
-        "orig": "Перепутанные",
-        "alter": "",
-        "year": "2018",
-        "country": "Россия",
-        "director": "Вячеслав Никифоров,Анарио Мамедов",
-        "genre": "мелодрама",
-        "actors": "Анатолий Белый,Любовь Толкалина,Дарья Калмыкова,Дарья Коныжева,Максим Важов,Кристина Кучеренко,Максим Карушев,Ольга Ковалева,Арсений Лейн,Алёна Кобзарь",
-        "description": "Борис и Ольга Морозовы – состоятельная семейная пара. После планового обследования в медицинском центре они узнают, что их 17-летняя дочь Юля – на самом деле чужой ребенок, которого перепутали в роддоме с другим младенцем. Морозовы наводят справки и выясняют, что их родная дочка – Яна – растет в семье Михайловых. Эта семья и ее быт совсем не похожи на их собственные: Михайловы живут впятером в скромной квартире. В тесноте да не в обиде. Семьи знакомятся друг с другом, и Морозовы решают найти юридическую возможность забрать Яну к себе. Но Михайловых это совершенно не устраивает...",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "2880",
-        "poster": "https://thumbs.filmix.tech/posters/orig/pereputannje-ri-2018_145716_0.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1112872",
-      "date": "1614878077",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "ColdFilm",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "4",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080
-        }
-      },
-      "info": {
-        "rus": "Вновь давным-давно",
-        "orig": "Il était une seconde fois",
-        "alter": "",
-        "year": "2019",
-        "country": "Франция",
-        "director": "Гийом Никлу",
-        "genre": "фантастика,триллер,драма,мелодрама",
-        "actors": "Гаспар Ульель,Фрейя Мавор,Патрик д’Асумсао,Ричард Диллэйн,Claire Sermonne,Ева Йонеско,Thomas Rodriguez,Juliette Joy Anquetil,Ronia Ava,Пол Бэнди",
-        "description": "Венсан получает волшебную коробочку, с помощью которой можно путешествовать в альтернативное прошлое. Он использует эту возможность, чтобы спасти свою потерянную любовь.",
-        "slogan": "",
-        "premiere": "12 февраля 2019",
-        "age": "0",
-        "time": "11520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112872.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "100",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "748"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1311628",
-      "date": "1614877792",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "NewStudio",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "4",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080
-        }
-      },
-      "info": {
-        "rus": "Сестра",
-        "orig": "Because the Night",
-        "alter": "Потому что ночь / The Sister",
-        "year": "2020",
-        "country": "США,Великобритания",
-        "director": "Найал МакКормик",
-        "genre": "триллер,драма,детектив",
-        "actors": "Рассел Тови,Берти Карвел,Амрита Ачария,Нина Туссен-Вайт,Пол Базели,Ивэн Бэйли,Colin Blyth,Аманда Рут,Симон Эшли,Тим Плестер",
-        "description": "На протяжении десяти лет Натан наслаждался счастливым браком и спокойной, размеренной жизнью. Но однажды на его пороге появляется Боб - давно забытый незваный гость, который приносит шокирующие новости, запускающие цепочку катастрофических событий.",
-        "slogan": "",
-        "premiere": "27 октября 2020",
-        "age": "18",
-        "time": "2760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1311628.jpg",
-        "rating": {
-          "rating_kp": "6.168",
-          "vote_num_kp": "1241",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "1876"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "184407",
-      "date": "1614877407",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Дубляж",
-      "max_qual": "480",
-      "info": {
-        "rus": "Дэннис-мучитель 2",
-        "orig": "Dennis the Menace Strikes Again!",
-        "alter": "Осторожно, Деннис!",
-        "year": "1998",
-        "country": "США",
-        "director": "Чарлз Т. Кэнгэнис",
-        "genre": "комедия,семейный",
-        "actors": "Дон Риклз,Джордж Кеннеди,Джастин Купер,Бетти Уайт,Брайан Дойл-Мюррей,Скотт «Кэррот Топ» Томпсон,Дуайр Браун,Хэйди Свидберг,Кит Рис,Жаклин Стайгер",
-        "description": "Неутомимый Деннис снова мучает своего любимого соседа — мистера Уилсона. На день рождения он преподнес соседу сюрприз — запустил жабу в ванну, где тот купался. На самом деле Деннис ничего плохого Уилсону не желает — просто так все выходит у озорного мальчика. В конце концов Деннис даже спасает мистера Уилсона от мошенников, обещавших омолодить старика.",
-        "slogan": "More Mischief. More Menace",
-        "premiere": "14 июля 1998",
-        "age": "0",
-        "time": "4500",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_184407.jpg",
-        "rating": {
-          "rating_kp": "4.346",
-          "vote_num_kp": "1614",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "4282"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1080059",
-      "date": "1614877212",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "2 лея 60 бани",
-        "orig": "2 lei 60",
-        "alter": "",
-        "year": "2017",
-        "country": "Румыния",
-        "director": "Camelia Popa",
-        "genre": "короткометражка,драма",
-        "actors": "Паул Ипате,Сорин Михай,Zita Moldovan,Ana Odagiu,Алин Панк,Codrina Patru,Cristian Priboi,Мария Раду,Valentin Rupita",
-        "description": "Двое заключённых разного возраста выходят из тюрьмы в один день. Впереди их ждёт непростой период адаптации к социальной жизни и поиски работы. Однако, судьба приготовила им очередное испытание, которое определит их дальнейшую судьбу.",
-        "slogan": "",
-        "premiere": "2 июня 2017",
-        "age": "0",
-        "time": "1440",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1080059.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "7",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "18195",
-      "date": "1614877098",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Воздушный охотник",
-        "orig": "Storm Catcher",
-        "alter": "",
-        "year": "1999",
-        "country": "США",
-        "director": "Энтони Хикокс",
-        "genre": "боевик,триллер",
-        "actors": "Дольф Лундгрен,Мистро Кларк,Джон Пеннелл,Роберт Миано,Ивонн Зима,Кайли Бэкс,Джоди Джонс,Роберт Глен Кит,Энтони Хикокс,Кимберли Дейвис",
-        "description": "Джека Холловея — отважного пилота по прозвищу «Воздушный Охотник» — обвинили в государственной измене и краже сверхсекретного оружия.\r\n\r\nЛовко сфабрикованное обвинение лишило его свободы, и только рискованный побег позволил ему вновь оказаться на воле. С помощью верного друга Джэк нападает на след изменников, даже не подозревая, жертвой какого чудовищного заговора он стал.\r\n\r\nОтчаянный храбрец должен пройти через мыслимые и немыслимые испытания, чтобы разоблачить предателей и вернуть свое честное имя.",
-        "slogan": "Ему нет равных ни в воздухе, ни на земле",
-        "premiere": "10 сентября 1999",
-        "age": "16",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_18195.jpg",
-        "rating": {
-          "rating_kp": "5.403",
-          "vote_num_kp": "786",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "1404"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "805625",
-      "date": "1614877069",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Исповедь",
-        "orig": "The Confession",
-        "alter": "",
-        "year": "2011",
-        "country": "США",
-        "director": "Брэд Мирман",
-        "genre": "триллер,драма,криминал",
-        "actors": "Майкл Бадалукко, Патрик Брана, Макс Казелла, Сантойя Филдс, Джон Хёрт, Эми Стартари, Кифер Сазерленд",
-        "description": "Наёмный убийца ведёт теологические беседы со священником о том, почему его жертвы заслуживали смерти.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "3720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_805625.jpg",
-        "rating": {
-          "rating_kp": "7.323",
-          "vote_num_kp": "205",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "841"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "6506",
-      "date": "1614876987",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Летучие мыши",
-        "orig": "Bats",
-        "alter": "",
-        "year": "1999",
-        "country": "США",
-        "director": "Луи Морно",
-        "genre": "ужасы,фантастика,триллер",
-        "actors": "Лу Даймонд Филлипс,Дина Мейер,Боб Гантон,Леон,Карлос Джекотт,Дэвид МакКоннелл,Марсия Дэнгерфилд,Оскар Роулэнд,Тим Уайтакер,Джулиана Джонсон",
-        "description": "Полная луна выходит на ночной небосклон. Но не стоит слишком долго любоваться ее чарующим светом. Очень скоро вас атакует кромешный мрак, и с онемевших от ужаса небес спуститься ожившая тьма, несущая на своих крыльях смерть. Бесчисленные легионы летучих мышей обрушиться на землю кровавым дождем, что бы утолить свою жажду. И даже в самом темном закоулке жителям спящего города не укрыться от вездесущей тьмы...",
-        "slogan": "Columbia/Sony",
-        "premiere": "22 октября 1999",
-        "age": "16",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6506.jpg",
-        "rating": {
-          "rating_kp": "5.274",
-          "vote_num_kp": "412",
-          "rating_imdb": "3.9",
-          "vote_num_imdb": "9860"
         }
       }
     }
