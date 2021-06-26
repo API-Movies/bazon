@@ -2,6 +2,540 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "451",
+      "date": "1612838442",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Непрощенный",
+        "orig": "Unforgiven",
+        "alter": "",
+        "year": "1992",
+        "country": "США",
+        "director": "Клинт Иствуд",
+        "genre": "драма,вестерн",
+        "actors": "Клинт Иствуд, Джин Хэкмен, Морган Фриман, Ричард Харрис, Джеймс Вулветт, Сол Рубинек, Фрэнсис Фишер, Анна Левайн, Дэвид Муччи, Роб Кэмпбелл",
+        "description": "Это история Уильяма Мунни - бывшего хладнокровного убийцы, нашедшего в себе силы покончить с грязным ремеслом. Он стал фермером, завел семью. Но все складывается совсем не так, как хотелось...",
+        "slogan": "It's a hell of a thing, killing a man",
+        "premiere": "3 августа 1992",
+        "age": "16",
+        "time": "7860",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_451.jpg",
+        "rating": {
+          "rating_kp": "7.833",
+          "vote_num_kp": "41740",
+          "rating_imdb": "8.2",
+          "vote_num_imdb": "384042"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "472105",
+      "date": "1612836348",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Полтора шпиона",
+        "orig": "Central Intelligence",
+        "alter": "",
+        "year": "2016",
+        "country": "США, Китай",
+        "director": "Роусон Маршалл Тёрбер",
+        "genre": "комедия,боевик,криминал",
+        "actors": "Дуэйн Джонсон, Кевин Харт, Эми Райан, Даниэль Николет, Джейсон Бейтман, Аарон Пол, Райан Хансен, Тим Гриффин, Тимоти Джон Смит, Сион Келепи",
+        "description": "От лайка в соцсети до спасения мира - один шаг. Сегодня ты френдишь бывшего одноклассника, а завтра - он тащит тебя под пули. Кто ж знал, что заядлый любитель пончиков превратится в похожего на скалу супершпиона.",
+        "slogan": "Они попробуют спасти мир: малыш Харт и скала Джонсон",
+        "premiere": "10 июня 2016",
+        "age": "16",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_472105.jpg",
+        "rating": {
+          "rating_kp": "6.255",
+          "vote_num_kp": "77054",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "164791"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1274303",
+      "date": "1612834629",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "SDI Media",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "3",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080
+        }
+      },
+      "info": {
+        "rus": "Ван Дер Валк",
+        "orig": "Van der Valk",
+        "alter": "",
+        "year": "2020",
+        "country": "Великобритания",
+        "director": "Max Porcelijn,Колин Тиг,Жан ван Де Вельде",
+        "genre": "триллер,драма,криминал",
+        "actors": "Марк Уоррен,Мэйми МакКой,Люк Аллен-Гейл,Эллиот Барнс-Уоррелл,Даррелл Д’Силва,Эмма Филдинг,Мике Либанон,Питер ван Херинген,Frieda Barnhard,Тадж Атвал",
+        "description": "Криминальный Амстердам, детектив, известный по всему миру, и загадки, которые под силу разгадать только ему.",
+        "slogan": "Amsterdam&#x27;s finest detective",
+        "premiere": "1 января 2020",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWJmNDEzZTktYzI1Yi00ODBhLWIwMTYtODlmYzhmMGQxNGMwXkEyXkFqcGdeQXVyMTAwMzM3NDI3.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "124",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "1850"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1356431",
+      "date": "1612830608",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Свинский Брексит",
+        "orig": "Monstrous Disunion",
+        "alter": "",
+        "year": "2021",
+        "country": "Великобритания",
+        "director": "Джексон Батчелор",
+        "genre": "ужасы",
+        "actors": "Jessamie Waldon-Day,Мартин В. Пэйн,Janette Evans,Alexandra Robertshaw,Райан Картер,Connor Mellish,Simon Berry,Джексон Батчелор,Paul Jones,Max Pidgley",
+        "description": "Британцы проводят референдум по поводу выхода из ЕС. Студентка Мэдди с двумя друзьями возвращается в домой на каникулы. Она знает, что семья не разделяет её политических взглядов, но не ожидает, что всё будет настолько плохо. Ее отец злобно шутит, мама суетится, а город как будто населен чудовищными свино-монстрами.",
+        "slogan": "The impact on Britain after the European Membership Referendum might be greater than anyone thought",
+        "premiere": "1 января 2021",
+        "age": "0",
+        "time": "4080",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2IxZmJiOWYtNzQ5OC00Y2JjLWFjYTctMDI1MWUzYTYwYzBmXkEyXkFqcGdeQXVyMTA1ODU0NDE@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "30"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1292296",
+      "date": "1612828044",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "4K WEB-DL",
+      "translation": "Многоголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Тайное общество младших монарших особ",
+        "orig": "Secret Society of Second-Born Royals",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Анна Мастро",
+        "genre": "фэнтези,боевик,комедия,приключения,семейный",
+        "actors": "Элоди Юнг,Скайлар Эстин,Грег Брайк,Julie Nolke,Пейтон Элизабет Ли,Алли Чунг,Изабелла Блейк Томас,Оливия Дибл,Нилс Фитч,Эшли Лиао",
+        "description": "Фильм повествует о приключениях принцессы Сэм, являющейся второй в очереди на трон сказочного королевства Иллирия. Принцесса обнаруживает у себя сверхспособности и оказывается членом тайного общества королевской семьи. Под руководством своего инструктора, Сэм и новый класс новобранцев-принцев и принцесс должны научиться использовать свои силы в секретном тренировочном лагере прежде, чем приступят к выполнению своего главного задания - защите своих королевств.",
+        "slogan": "Born to defend. They just have to learn how",
+        "premiere": "25 сентября 2020",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1292296.jpg",
+        "rating": {
+          "rating_kp": "5.147",
+          "vote_num_kp": "2286",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "4148"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1398864",
+      "date": "1612823412",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Астрал. Онлайн",
+        "orig": "Host",
+        "alter": "Хост",
+        "year": "2020",
+        "country": "Великобритания",
+        "director": "Роб Сэвадж",
+        "genre": "ужасы",
+        "actors": "Хейли Бишоп,Джемма Мур,Эмма Луиз Уэбб,Радина Драндова,Кэролайн Уорд,Алан Эмрис,Патрик Уорд,Эдвард Линар,Джинни Лофтхаус,Сейлан Бакстер",
+        "description": "30 июля 2020 года. Группа сидящих на карантине друзей решает устроить спиритический сеанс через Zoom. Специально нанятая для этой цели медиум советует настроиться на серьёзный лад, но некоторые воспринимают происходящее как шутку, и вскоре дома у всех участников видеоконференции начинают слышаться странные звуки и происходить пугающие события.",
+        "slogan": "Паранормальное живет в сети",
+        "premiere": "21 января 2021",
+        "age": "16",
+        "time": "3420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1398864.jpg",
+        "rating": {
+          "rating_kp": "5.362",
+          "vote_num_kp": "3930",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "21111"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "32609",
+      "date": "1612821800",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ренегат",
+        "orig": "Renegade",
+        "alter": "",
+        "year": "1987",
+        "country": "Италия",
+        "director": "Энцо Барбони",
+        "genre": "комедия,боевик,приключения",
+        "actors": "Теренс Хилл, Роберт Вон, Росс Хилл, Норман Боулер, Дональд Ходсон, Беатрис Пальме, Лиза Энн Рубин, Луиза Манери, Валерия Сабел, Коул С. МакКэй",
+        "description": "Неунывающий забияка и мошенник Люк, уступая просьбе находящегося в тюрьме закадычного друга Лося, соглашается опекать его сына - несовершеннолетнего Мэтта. Вот почему Люк и Мэтт приезжают в богом забытое место, где находятся купленные Лосем земля и дом и где по всей округе почти безраздельно правит всесильная адвокатская контора Лоусона. Разница в возрасте не мешает Люку и Мэтту принять брошенный злодеем Лоусоном вызов...",
+        "slogan": "",
+        "premiere": "27 ноября 1987",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_32609.jpg",
+        "rating": {
+          "rating_kp": "7.331",
+          "vote_num_kp": "655",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "2669"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1389736",
+      "date": "1612814407",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Голые каннибалы кемперы",
+        "orig": "Naked Cannibal Campers",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Шон Донохью",
+        "genre": "ужасы",
+        "actors": "&#x27;Sushi» Xhyvette Holder,Sith Jade,Veronica Raine,Beux Leto,Tony Darrigo,Matt Froonjian,Кейтлин Дэйли,Douglas Mcarthur,Джилл Уайтло,Джейсон Хенне",
+        "description": "Трое лучших друзей собирают свою машину для рыбалки на озере. Они пакуют свои удочки и кучу пива и отправляются в путь. По пути к ним подходят три сексуальных лисицы и предлагают им ужин. Мало что они знают, они обед.",
+        "slogan": "Three best buds head to the lake for a weekend of fishing. Unfortunately they become the bait...",
+        "premiere": "12 декабря 2020",
+        "age": "0",
+        "time": "3720",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDAxYTEzYmQtNjk3ZC00NjhhLTk3M2QtNTdmNWEyMzM2Yzc1XkEyXkFqcGdeQXVyNzI2NjU2MDI@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "14",
+          "rating_imdb": "4.2",
+          "vote_num_imdb": "42"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1346520",
+      "date": "1612812609",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Любовь в шоколаде",
+        "orig": "Love is a Piece of Cake",
+        "alter": "",
+        "year": "2020",
+        "country": "Канада",
+        "director": "Дэвид И. Страссер",
+        "genre": "мелодрама",
+        "actors": "Линдси Горт,Грейстон Холт,Джулия Бенсон,Линдсей Винч,Джейм М. Каллика,Mila Jones,Коллин Вилер,Jo Miro,Кристиан Слоун,Амелия Берстин",
+        "description": "Джесси Дейл всем сердцем любит свою небольшую пекарню и не хочет в ней ничего менять. Но когда появляется угроза того, что здание, в котором находится пекарня, может купить новый владелец, Джесси приходится пойти на всё, чтобы спасти своё любимое место. К тому же, в это же время она пытается строить отношения с замечательным парнем, братом своей клиентки.",
+        "slogan": "",
+        "premiere": "27 июня 2020",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTM4Y2ZjMWMtZjk1ZC00NjdhLWIxNWItZTU4NGU2YTAzNjhmXkEyXkFqcGdeQXVyMTQyNDk2NzE@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "13",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "389"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5023",
+      "date": "1612811748",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Крутые ребята не танцуют",
+        "orig": "Tough Guys Don't Dance",
+        "alter": "Крутые парни не танцуют",
+        "year": "1987",
+        "country": "США",
+        "director": "Норман Мейлер",
+        "genre": "триллер,драма,комедия,криминал,детектив",
+        "actors": "Райан О’Нил,Изабелла Росселлини,Дебра Сэндлунд,Уингз Хаузер,Джон Бедфорд Ллойд,Лоуренс Тирни,Пенн Джиллетт,Фрэнсис Фишер,Р. Патрик Салливан,Джон Снайдер",
+        "description": "Роковая женщина Лоррейн пытается засадить в тюрьму собственного мужа Тима, свалив на него несколько преступлений. Влюбленная в Тима Мадлен пытается ему помочь выпутаться из сетей коварной злодейки.",
+        "slogan": "A story of how dangerous love can be",
+        "premiere": "16 мая 1987",
+        "age": "12",
+        "time": "6600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5023.jpg",
+        "rating": {
+          "rating_kp": "5.37",
+          "vote_num_kp": "107",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "1260"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "8346",
+      "date": "1612810726",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Исчезновение",
+        "orig": "Spoorloos",
+        "alter": "",
+        "year": "1988",
+        "country": "Нидерланды, Франция, Германия (ФРГ)",
+        "director": "Джордж Слёйзер",
+        "genre": "триллер,детектив",
+        "actors": "Бернар-Пьер Доннадье, Гене Бервутс, Иоханна тер Стехе, Гвен Экхаус, Бернадетт Ле Саше, Таня Латарже, Люсиль Гленн, Роже Суза, Каролин Аппере, Пьер Форгет",
+        "description": "Двое влюбленных Рекс и Саския едут из Амстердама во французскую провинцию, чтобы вместе провести отпуск. На одной из заправочных станций Саския решает забежать в магазин за напитками и бесследно исчезает средь бела дня. Проходит три года, и Рекс, у которого к тому времени появилась новая возлюбленная, вдруг решает возобновить поиски Саскии. Он расклеивает плакаты в месте исчезновения девушки, и однажды получает загадочное письмо.",
+        "slogan": "",
+        "premiere": "29 августа 1988",
+        "age": "16",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8346.jpg",
+        "rating": {
+          "rating_kp": "7.214",
+          "vote_num_kp": "3542",
+          "rating_imdb": "7.7",
+          "vote_num_imdb": "34779"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1193108",
+      "date": "1612806306",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Прыжок",
+        "orig": "Chhalaang",
+        "alter": "",
+        "year": "2020",
+        "country": "Индия",
+        "director": "Хансал Мехта",
+        "genre": "драма,комедия",
+        "actors": "Раджкумар Рао,Нушрат Бхаруча,Мохаммед Зишан Айюб,Саурабх Шукла,Сатиш Каушик,Ила Арун,Джэтин Сарна,Балджиндер Каур,Наман Джайн,Garima Kaur",
+        "description": "Фильм \"Прыжок\" - это вдохновляющее путешествие Монту, учителя физкультуры государственной школы, для которого преподавание - это просто работа. Когда обстоятельства ставят на карту всё, что ему дорого, включая Нилу, которую он любит, Монту вынужден делать то, чего никогда не делал - учить. ...",
+        "slogan": "",
+        "premiere": "12 ноября 2020",
+        "age": "0",
+        "time": "8160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1193108.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "19",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "15863"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1178797",
+      "date": "1612800902",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дэниел ненастоящий",
+        "orig": "Daniel Isn`t Real",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Адам Иджипт Мортимер",
+        "genre": "триллер,фэнтези",
+        "actors": "Майлз Роббинс,Патрик Шварценеггер,Саша Лэйн,Мэри Стюарт Мастерсон,Ханна Маркс,Питер МакРобби,Andrew Bridges,Гриффин Роберт Фолкнер,Daniel Marconi,Chase Sui Wonders",
+        "description": "Ещё будучи ребёнком из-за одиночества и постоянно ругающихся родителей Люк стал дружить с мальчиком Дэниелом. Они весело проводили время и постоянно играли, вот только кроме самого Люка Дэниела никто не видел. Однажды воображаемый друг предложил подмешать маме таблеток, после чего та велела сыну запереть Дэниела в кукольном домике и не выпускать. Прошло несколько лет. Студент Люк ухаживает за больной матерью и сам не может похвастаться хорошим психическим здоровьем, когда психолог советует ему освободить Дэниела.",
+        "slogan": "From the Producers of 'Mandy'",
+        "premiere": "9 марта 2019",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1178797.jpg",
+        "rating": {
+          "rating_kp": "5.783",
+          "vote_num_kp": "1250",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "6751"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "512769",
+      "date": "1612800742",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Айсберг",
+        "orig": "Titanic II",
+        "alter": "Титаник 2",
+        "year": "2010",
+        "country": "США",
+        "director": "Шэйн Ван Дайк",
+        "genre": "боевик,триллер,мелодрама,драма,приключения",
+        "actors": "Шэйн Ван Дайк, Мари Уэстбрук, Брюс Дэвисон, Брук Бернс, Мишель Главан, Кэри Ван Дайк, Д.С. Дуглас, Дилан Вокс, Уиттли Джордан, Майлс Крэнфорд",
+        "description": "К 100-летию первоначального рейса знаменитого лайнера приурочили выход в море современного роскошного корабля «Титаник 2». Он должен проделать тот же путь, что и его предшественник. Но в пути его ждет опасность - цунами перемещает айсберг, и он оказывается на пути лайнера. Пассажиры и члены экипажа должны бороться, чтобы избежать печальной участи.",
+        "slogan": "100 years later, lightning strikes twice",
+        "premiere": "7 августа 2010",
+        "age": "16",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_512769.jpg",
+        "rating": {
+          "rating_kp": "1.522",
+          "vote_num_kp": "3848",
+          "rating_imdb": "1.6",
+          "vote_num_imdb": "11062"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "109967",
+      "date": "1612794422",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Одноголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Семья ван Памель",
+        "orig": "Het gezin van Paemel",
+        "alter": "Семья ван Памел",
+        "year": "1987",
+        "country": "Бельгия",
+        "director": "Пауль Каммерманс",
+        "genre": "драма,история",
+        "actors": "Франк Анденбом,Camilia Blereau,Крис Бони,Raymond Bossaerts,Walter Claessens,Ронни Коммиссарис,Harry De Peuter,Juliette Van de Sompel,Франс Ван Де Вельде,Люк Де Уит",
+        "description": "Конец 19-го века. Жесткий и консервативный фермер ван Памел работает, не покладая рук, со всей своей семьей, на арендованной у барона де Вилде земле. Постепенно, из-за серии неудач и острых социальных разногласий, происходит раскол между поколениями в котором ван Памел теряет всё.",
+        "slogan": "",
+        "premiere": "24 февраля 2004",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_109967.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "14",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "241"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1399263",
       "date": "1612792843",
       "camrip": "0",
@@ -39,7 +573,7 @@
         "poster": "https://thumbs.filmix.tech/posters/orig/zakaty-i-rassvety-2021_148812_0.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "139",
+          "vote_num_kp": "141",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -291,7 +825,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5915.jpg",
         "rating": {
           "rating_kp": "6.512",
-          "vote_num_kp": "2711",
+          "vote_num_kp": "2714",
           "rating_imdb": "6.6",
           "vote_num_imdb": "44735"
         }
@@ -326,9 +860,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_11766.jpg",
         "rating": {
           "rating_kp": "7.05",
-          "vote_num_kp": "198",
+          "vote_num_kp": "200",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "1568"
+          "vote_num_imdb": "1570"
         }
       }
     },
@@ -362,8 +896,8 @@
         "rating": {
           "rating_kp": "0",
           "vote_num_kp": "4",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "81"
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "83"
         }
       }
     },
@@ -536,9 +1070,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1112558.jpg",
         "rating": {
           "rating_kp": "5.934",
-          "vote_num_kp": "3624",
+          "vote_num_kp": "3641",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "13451"
+          "vote_num_imdb": "13483"
         }
       }
     },
@@ -606,9 +1140,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_61455.jpg",
         "rating": {
           "rating_kp": "7.231",
-          "vote_num_kp": "85271",
+          "vote_num_kp": "85288",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "286425"
+          "vote_num_imdb": "286441"
         }
       }
     },
@@ -641,7 +1175,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9653.jpg",
         "rating": {
           "rating_kp": "5.922",
-          "vote_num_kp": "789",
+          "vote_num_kp": "791",
           "rating_imdb": "5.3",
           "vote_num_imdb": "1077"
         }
@@ -780,7 +1314,7 @@
         "time": "5460",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_13105.jpg",
         "rating": {
-          "rating_kp": "6.666",
+          "rating_kp": "6.672",
           "vote_num_kp": "361",
           "rating_imdb": "6.4",
           "vote_num_imdb": "2708"
@@ -815,10 +1349,10 @@
         "time": "7260",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_915140.jpg",
         "rating": {
-          "rating_kp": "7.127",
-          "vote_num_kp": "75517",
+          "rating_kp": "7.128",
+          "vote_num_kp": "75540",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "145784"
+          "vote_num_imdb": "145812"
         }
       }
     },
@@ -850,8 +1384,8 @@
         "time": "5760",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1005093.jpg",
         "rating": {
-          "rating_kp": "5.636",
-          "vote_num_kp": "7121",
+          "rating_kp": "5.635",
+          "vote_num_kp": "7127",
           "rating_imdb": "5.4",
           "vote_num_imdb": "17986"
         }
@@ -956,9 +1490,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_771793.jpg",
         "rating": {
           "rating_kp": "6.579",
-          "vote_num_kp": "25727",
+          "vote_num_kp": "25737",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "94367"
+          "vote_num_imdb": "94396"
         }
       }
     },
@@ -1178,7 +1712,7 @@
           "rating_kp": "6.09",
           "vote_num_kp": "125",
           "rating_imdb": "6",
-          "vote_num_imdb": "1169"
+          "vote_num_imdb": "1171"
         }
       }
     },
@@ -1211,9 +1745,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_195334.jpg",
         "rating": {
           "rating_kp": "8.521",
-          "vote_num_kp": "514564",
+          "vote_num_kp": "514619",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "1221774"
+          "vote_num_imdb": "1221939"
         }
       }
     },
@@ -1281,620 +1815,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_194033.jpg",
         "rating": {
           "rating_kp": "7.79",
-          "vote_num_kp": "21008",
+          "vote_num_kp": "21065",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "33059"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1401241",
-      "date": "1612656902",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Заклятье: Новый ритуал",
-        "orig": "La Funeraria",
-        "alter": "",
-        "year": "2020",
-        "country": "Аргентина",
-        "director": "Мауро Иван Ойеда",
-        "genre": "ужасы",
-        "actors": "Луис Мачин,Селеста Герес,Камила Ваккарини",
-        "description": "Похоронное бюро Бернардо располагается рядом с домом, где он живет со своей семьей. Его приемная дочь Эстела стала замечать призраков, которые постоянно устраивают ей сюрпризы. Но однажды в доме появляется злой демон. Эстеле придется раскрыть тайну его происхождения и провести ритуал, чтобы развеять нависшее над домом заклятье.",
-        "slogan": "",
-        "premiere": "15 апреля 2021",
-        "age": "0",
-        "time": "5160",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1401241.jpg",
-        "rating": {
-          "rating_kp": "3.549",
-          "vote_num_kp": "1022",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "275"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1006105",
-      "date": "1612656902",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Имитатор",
-        "orig": "The Mimic",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Томас Ф. Маццотти",
-        "genre": "комедия",
-        "actors": "Томас Садоски,Джейк Робинсон,Остин Пендлтон,Джина Гершон,Джессика Уолтер,М. Эммет Уолш,Мэрилу Хеннер,Тэмми Бланчард,Диди Конн,Мэттью Мехер",
-        "description": "Главный герой подозревает, что его друг может оказаться социопатом. Он идет на все, чтобы разузнать правду о своем приятеле и его жене.",
-        "slogan": "The lighter site of being a sociopath",
-        "premiere": "7 марта 2020",
-        "age": "0",
-        "time": "4860",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTE0NmU5NzctNWJiMi00Y2Q1LTlhYzctNjVkMzczYzhlMTFkXkEyXkFqcGdeQXVyNjUyODA1Mzc@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "13",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "121"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "762081",
-      "date": "1612656003",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Сын юга",
-        "orig": "Son of the South",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Бэрри Александер Браун",
-        "genre": "драма,биография",
-        "actors": "Джулия Ормонд,Люси Хейл,Сиенна Гиллори,Лукас Тилл,Луди Линь,Брайан Деннехи,Джейк Эйбел,Седрик «Развлекатель&#x27;,Майк К. Мэннинг,Лекс Скотт Дэвис",
-        "description": "Монтгомери, штат Алабама. Боб Зеллнер, внук члена Ку-Клукс-Клана должен, наконец, выбрать чью-то сторону. И он присоединяется к Движению за гражданские права чернокожих. Бросая вызов своей семье и мировоззрению белых южан, он борется против социальной несправедливости, угнетения и насилия, чтобы изменить мир. Фильм основан на автобиографии Боба Зеллнера \"Другая сторона Мёрдер-Крик\".",
-        "slogan": "",
-        "premiere": "26 августа 2020",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMzk3MGQ1MGYtOTRlOC00MjJiLTljOTUtNGM1ZTE1Y2VmYmI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "30",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "662"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1179782",
-      "date": "1612651506",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Расплата",
-        "orig": "Payback",
-        "alter": "",
-        "year": "2021",
-        "country": "США",
-        "director": "Джозеф Менш",
-        "genre": "триллер",
-        "actors": "Мэтт Леветт,Тоби Леонард Мур,Анна Барышников,Лев Горн,Раде Шербеджия,Елена Сатине,Борис Ли Крутоног,Давид Вадим,Билл Сейдж,Эри Бэркэн",
-        "description": "Молодой брокер работает на Уолл-стрит, но его отправляют в Лос-Анджелес, где подставляют и отправляют в тюрьму на шесть лет. После освобождения он может думать лишь о мести.",
-        "slogan": "",
-        "premiere": "5 февраля 2021",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://m.media-amazon.com/images/M/MV5BODg2YzczMjUtOWY0Yy00ZGNlLWIzNDAtMTZiZDA3ZGQyMTI2XkEyXkFqcGdeQXVyNTQ3MjE4NTU@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "17",
-          "rating_imdb": "6",
-          "vote_num_imdb": "1914"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1399340",
-      "date": "1612650622",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Красные леса",
-        "orig": "Red Woods",
-        "alter": "",
-        "year": "2021",
-        "country": "США",
-        "director": "Николас Данко",
-        "genre": "ужасы,детектив,приключения",
-        "actors": "Michael Barnett,Brian E. Stead,Jacquelynn Ware,Джастин Роуз,Дженнифер Миллиган,Майкл Крус,Stephanie Swift,Adam Cooley,Debrah Evans,Phil Henderson",
-        "description": "Группа исследователей заброшенных зданий отправляется в леса гор Аппалачи, чтобы поснимать изнутри старые дома, но вместо этого они сами становятся героями другого видео, гораздо более ужасающего.",
-        "slogan": "Their footage was not found. Their bodies were",
-        "premiere": "5 февраля 2021",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZjBjZjA4ZTctYWY2Mi00ZDlhLTlhMjMtMGEyMWNiNmQxNmRjXkEyXkFqcGdeQXVyMTIyNjg4OTk5.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "291",
-          "rating_imdb": "3.2",
-          "vote_num_imdb": "222"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1331982",
-      "date": "1612650606",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ништяк, браток",
-        "orig": "Feels Good Man",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Артур Джонс",
-        "genre": "документальный,комедия",
-        "actors": "Robert Barnes,Саманта Би,Jeremy Blackburn,Сьюзэн Блэкмор,Matt Braynard,Хиллари Клинтон,Стивен Колбер,Joel Finkelstein,Matt Furie,Ursala Furie",
-        "description": "В середине 2000-х художник Мэтт Фьюри рисовал и выкладывал на MySpace комикс про своих друзей, бездельно проживающих жизнь после университета в одном доме. Среди героев был лягушонок по имени Пепе: «Ништяк, браток» — фраза из его репертуара. Примерно через 10 лет Фьюри к своему ужасу обнаружил, что Пепе стал оружием массового медиапоражения — его превратили в героя мемов и символа движения альт-правых, с их демонстративным пренебрежением политкорректностью, этикой и современными табу.",
-        "slogan": "",
-        "premiere": "27 января 2020",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1331982.jpg",
-        "rating": {
-          "rating_kp": "7.25",
-          "vote_num_kp": "434",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "3635"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1115563",
-      "date": "1612650119",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Леди и Бродяга",
-        "orig": "Lady and the Tramp",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Чарли Бин",
-        "genre": "драма,мелодрама,комедия,приключения,семейный",
-        "actors": "Тесса Томпсон,Джастин Теру,Сэм Эллиотт,Эшли Дженсен,Жанель Моне,Бенедикт Вонг,Клэнси Браун,Nate Wonder,Roman Gianarthur,James Bentley",
-        "description": "Картина расскажет историю встречи представительницы высшего общества кокер-спаниеля Леди и дворняги по прозвищу Бродяга.",
-        "slogan": "Be loyal. Be brave. Be loved",
-        "premiere": "12 ноября 2019",
-        "age": "0",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115563.jpg",
-        "rating": {
-          "rating_kp": "6.051",
-          "vote_num_kp": "1966",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "18523"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "965341",
-      "date": "1612649728",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Скорбь",
-        "orig": "Grief",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Chris Mammerelli, Kevin Renwick",
-        "genre": "триллер,драма",
-        "actors": "Kevin Renwick, Джеки Мур, Шон Рассел Херман, Кен Гэмбл, Нельсон Чэн, Nathan Kehn, Tammy Kaitz, Хирам А. Мюррэй, Corinne Nowicki, Landon Renwick",
-        "description": "Скорбящий отец, после смерти сына и расставания с женой, решает свести счеты с жизнью. Но каждый раз ему что-то мешает: то соседи, то риелтор, то полиция, то собственный страх.",
-        "slogan": "There's one thing left to do...",
-        "premiere": "4 июня 2017",
-        "age": "0",
-        "time": "4860",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjM3ODgxNzM0OV5BMl5BanBnXkFtZTgwNTM3MDYzNjM@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "299",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "34"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1273044",
-      "date": "1612645203",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Брешь",
-        "orig": "Breach",
-        "alter": "",
-        "year": "2020",
-        "country": "Канада",
-        "director": "Джон Суитц",
-        "genre": "фантастика,боевик",
-        "actors": "Коуди Кирсли,Брюс Уиллис,Рэйчел Николс,Кассандра Клементи,Джонни Месснер,Кори Лардж,Каллэн Мулвей,Тимоти В. Мерфи,Йохан Урб,Ральф Мёллер",
-        "description": "2242 год. Земля обречена. Среди 50 миллионов избранных, летящих к Новой планете, — молодая пара, у которой должен появиться ребенок. Второй пилот космического корабля Клэй Янг еще не знает, что ему предстоит сразиться с космическим злом, готовым превратить корабль в орудие смерти, и перед ним встанет нелегкий выбор: собственная жизнь или спасение человечества.",
-        "slogan": "В открытом космосе они не одни",
-        "premiere": "17 декабря 2020",
-        "age": "18",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1273044.jpg",
-        "rating": {
-          "rating_kp": "3.945",
-          "vote_num_kp": "4288",
-          "rating_imdb": "3",
-          "vote_num_imdb": "8679"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "805092",
-      "date": "1612644424",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "LostFilm",
-      "max_qual": "1080",
-      "last_season": "5",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080
-        },
-        "3": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080
-        },
-        "4": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        },
-        "5": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        }
-      },
-      "info": {
-        "rus": "Пространство",
-        "orig": "The Expanse",
-        "alter": "",
-        "year": "2015",
-        "country": "США, Канада",
-        "director": "Брек Эйснер, Джефф Вулнаф, Терри МакДонаф",
-        "genre": "фантастика,триллер,детектив,драма",
-        "actors": "Стивен Стрейт, Кэс Анвар, Доминик Типпер, Уэс Чэтэм, Шоре Агдашлу, Фрэнки Адамс, Томас Джейн, Шон Дойл, Флоренс Ванида Фэйвр, Чад Л. Коулмэн",
-        "description": "Через двести лет от дня сегодняшнего некий сыщик, привыкший всё доводить до конца при любых обстоятельствах, в рамках расследования дела об исчезновении молодой женщины оказывается на борту звездолета, капитан которого решает помочь детективу в его непростом деле. Величайший заговор в истории человечества гарантируется, как и его непременное раскрытие.",
-        "slogan": "We&#x27;ve gone too far",
-        "premiere": "23 ноября 2015",
-        "age": "0",
-        "time": "2580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_805092.jpg",
-        "rating": {
-          "rating_kp": "7.894",
-          "vote_num_kp": "28849",
-          "rating_imdb": "8.5",
-          "vote_num_imdb": "117621"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "22005",
-      "date": "1612637682",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Странные захватчики",
-        "orig": "Strange Invaders",
-        "alter": "",
-        "year": "1983",
-        "country": "США",
-        "director": "Майкл Лофлин",
-        "genre": "ужасы,фантастика,детектив",
-        "actors": "Пол Ле Мэт,Нэнси Аллен,Дайана Скаруид,Майкл Лернер,Луиза Флетчер,Уоллес Шоун,Фиона Льюис,Кеннет Тоби,Джун Локхарт,Чарльз Лэйн",
-        "description": "Чарли отправляется искать свою пропавшую жену. Первым делом он приезжает в её родной городок, и с удивлением узнаёт, что в нём никто не знает ни о ней, ни о её родственниках. Что ж, Чарли не находит супругу, зато вскоре встречается с инопланетянами...",
-        "slogan": "Of all the worlds in all the galaxies...why did they pick this one?",
-        "premiere": "16 сентября 1983",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_22005.jpg",
-        "rating": {
-          "rating_kp": "5.076",
-          "vote_num_kp": "130",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "2687"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "5996",
-      "date": "1612637325",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Нэйт и Хейс",
-        "orig": "Nate and Hayes",
-        "alter": "",
-        "year": "1983",
-        "country": "Новая Зеландия, США",
-        "director": "Фердинанд Фэйрфакс",
-        "genre": "комедия,боевик,мелодрама,приключения",
-        "actors": "Томми Ли Джонс, Майкл О’Киф, Макс Фиппс, Дженни Сигроув, Грант Тилли, Питер Роули, Уильям Джонсон, Кейт Харкорт, Рег Рука, Рой Биллинг",
-        "description": "Известный пират и молодой священник начали борьбу против банды головорезов.",
-        "slogan": "Partners in Piracy. Rivals in Romance. Allies in Adventure",
-        "premiere": "18 ноября 1983",
-        "age": "18",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5996.jpg",
-        "rating": {
-          "rating_kp": "6.286",
-          "vote_num_kp": "170",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "2089"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1292344",
-      "date": "1612636629",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Ultradox",
-      "max_qual": "720",
-      "last_season": "1",
-      "last_episode": "10",
-      "episodes": {
-        "1": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720,
-          "10": 720
-        }
-      },
-      "info": {
-        "rus": "Красные фонари",
-        "orig": "Red Light",
-        "alter": "",
-        "year": "2020",
-        "country": "Нидерланды,Бельгия",
-        "director": "Анке Блонде,Wouter Bouvijn",
-        "genre": "драма",
-        "actors": "Кэрис ван Хаутен,Майке Нёвилль,Халина Рейн,Герт Ван Рампелберг,Коэн Де Боу,Роберт де Хог,Йорен Селдеслахтс,Йонас Вермелен,Якоб Дервиг,Надя Эмин",
-        "description": "Три женщины попадают в мир торговли людьми, проституции и организованной преступности, когда у одной из них исчезает муж. Женщины из совершенно разных слоёв общества встречаются в один момент, который для них всех станет поворотным.",
-        "slogan": "",
-        "premiere": "4 декабря 2020",
-        "age": "0",
-        "time": "3000",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjVhN2QxY2EtNjEzMC00ZDdhLWJiZmMtNjc0ZWE5ODRlNThmXkEyXkFqcGdeQXVyMTA4NTg1NTA4._V1_FMjpg_UX878_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "29",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "792"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "788683",
-      "date": "1612634896",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Пропавшие девушки",
-        "orig": "Lost Girls",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Лиз Гарбус",
-        "genre": "триллер,драма,детектив",
-        "actors": "Эми Райан,Томасин МакКензи,Гэбриел Бирн,Дин Уинтерс,Лола Кёрк,Кевин Корригэн,Уна Лоуренс,Мириам Шор,Росаль Колон,Рид Бирни",
-        "description": "Отчаявшись ждать помощи от полиции, женщина берётся лично расследовать исчезновение своей дочери. Одновременно она обнаруживает серию жестоких убийств секс-работниц.",
-        "slogan": "",
-        "premiere": "28 января 2020",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_788683.jpg",
-        "rating": {
-          "rating_kp": "5.817",
-          "vote_num_kp": "1948",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "18420"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "326",
-      "date": "1612632602",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "4K WEB-DL",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Побег из Шоушенка",
-        "orig": "The Shawshank Redemption",
-        "alter": "",
-        "year": "1994",
-        "country": "США",
-        "director": "Фрэнк Дарабонт",
-        "genre": "драма",
-        "actors": "Тим Роббинс, Морган Фриман, Боб Гантон, Уильям Сэдлер, Клэнси Браун, Джил Беллоуз, Марк Ролстон, Джеймс Уитмор, Джеффри ДеМанн, Ларри Бранденбург",
-        "description": "Бухгалтер Энди Дюфрейн обвинен в убийстве собственной жены и ее любовника. Оказавшись в тюрьме под названием Шоушенк, он сталкивается с жестокостью и беззаконием, царящими по обе стороны решетки. Каждый, кто попадает в эти стены, становится их рабом до конца жизни. Но Энди, обладающий живым умом и доброй душой, находит подход как к заключенным, так и к охранникам, добиваясь их особого к себе расположения.",
-        "slogan": "Страх - это кандалы. Надежда - это свобода",
-        "premiere": "10 сентября 1994",
-        "age": "16",
-        "time": "8520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_326.jpg",
-        "rating": {
-          "rating_kp": "9.109",
-          "vote_num_kp": "768224",
-          "rating_imdb": "9.3",
-          "vote_num_imdb": "2410191"
+          "vote_num_imdb": "33067"
         }
       }
     }
