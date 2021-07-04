@@ -2,6 +2,559 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "718628",
+      "date": "1590219956",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "HDTVRip",
+      "translation": "Двухголосый",
+      "max_qual": "720",
+      "last_season": "3",
+      "last_episode": "4",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 480,
+          "3": 480,
+          "4": 480,
+          "5": 480,
+          "6": 480,
+          "7": 480,
+          "8": 480,
+          "9": 480,
+          "10": 480,
+          "11": 480,
+          "12": 480,
+          "13": 480,
+          "14": 480,
+          "15": 480,
+          "16": 480,
+          "17": 480,
+          "18": 480,
+          "19": 480,
+          "20": 480,
+          "21": 480,
+          "22": 480,
+          "23": 480,
+          "24": 480,
+          "25": 480
+        },
+        "2": {
+          "1": 480,
+          "2": 480,
+          "3": 480,
+          "4": 480,
+          "5": 480,
+          "6": 480,
+          "7": 480,
+          "8": 480,
+          "9": 480,
+          "10": 480,
+          "11": 480,
+          "12": 480,
+          "13": 480,
+          "14": 480,
+          "15": 480,
+          "16": 480,
+          "17": 480,
+          "18": 480,
+          "19": 480,
+          "20": 480,
+          "21": 480,
+          "22": 480,
+          "23": 480,
+          "24": 480
+        },
+        "3": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720
+        }
+      },
+      "info": {
+        "rus": "Маги – волшебный лабиринт",
+        "orig": "Magi: The Labyrinth of Magic",
+        "alter": "Маги: Волшебный лабиринт / Маги: Королевство волшебства",
+        "year": "2012",
+        "country": "Япония",
+        "director": "Кодзи Масунари",
+        "genre": "аниме,комедия,боевик,фэнтези,приключения,мультфильм",
+        "actors": "Каори Исихара, Юки Кадзи, Харука Томацу, Эрик Скотт Кимерер, Эрика Мендес, Кристина Валенсуела, Ray Carsillo, Мэттью Мерсер, Люсьен Додж, Даррел Гилбо",
+        "description": "По всему миру «арабских ночей» высятся несокрушимые башни, полные сокровищ и магических предметов. Откуда они взялись - неясно, но любой оставшийся в живых «покоритель донжонов» становится богат и знаменит. Именно такой судьбой грезит веселый Али-Баба, в одно прекрасное утро встретивший малыша, кушавшего в его повозке хозяйские арбузы. Аладдин, юный маг, вырвавшийся из храма, где рос в одиночестве, парнем оказался хорошим, но слегка наивным и жизни не знающим. Если бы не джинн Уго, сидевший во флейте Аладдина, в последующих приключениях ребята точно бы потеряли головы, а так и живы остались, и от злодеев ушли, и красотку прихватили за компанию!",
+        "slogan": "",
+        "premiere": "7 октября 2012",
+        "age": "0",
+        "time": "1500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_718628.jpg",
+        "rating": {
+          "rating_kp": "7.43",
+          "vote_num_kp": "2372",
+          "rating_imdb": "7.8",
+          "vote_num_imdb": "3343"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "679970",
+      "date": "1590219830",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Любовь в словах и картинках",
+        "orig": "Words and Pictures",
+        "alter": "",
+        "year": "2013",
+        "country": "США, Канада, Австралия",
+        "director": "Фред Скеписи",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Клайв Оуэн, Жюльет Бинош, Брюс Дэвисон, Навид Негабан, Эми Бреннеман, Валери Тиан, Адам ДиМарко, Джош Ссеттуба, Джанет Киддер, Кристиан Шайдер",
+        "description": "Учитель английского языка и преподаватель искусства встречаются в престижной подготовительной школе. Между ними складываются непростые взаимоотношения. Более того они положили начало войне - студенты теперь пытаются доказать, что сильнее - слово или изображение. Но настоящая война идет против внутренних демонов преподавателей, пока их души борются за воссоединение...",
+        "slogan": "Is a man worth more than his words, a woman worth more than her pictures?",
+        "premiere": "7 сентября 2013",
+        "age": "16",
+        "time": "6660",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_679970.jpg",
+        "rating": {
+          "rating_kp": "6.812",
+          "vote_num_kp": "3209",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "10199"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1230585",
+      "date": "1590219279",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Мотель &laquo;Акация&raquo;",
+        "orig": "Motel Acacia",
+        "alter": "",
+        "year": "2019",
+        "country": "Филиппины,Малайзия,Сингапур,Индонезия,Хорватия",
+        "director": "Брэдли Лю",
+        "genre": "ужасы",
+        "actors": "Дж.С. Сантос,Ян Бейвут,Николас Сапутра,Agot Isidro,Витхая Пансрингарм,Бронт Паларэ,Талия Цукер,Уильям Ховарт,Перри Дизон,Brian Sy",
+        "description": "Обычный филиппинский парень ДжейСи вынужден принять семейный бизнес и руководить приютом для мигрантов под патронажем правительства. Предполагается, что в учреждении посетители должны получать документы, но вскоре ДжейСи выясняет, что в это место &#151; дом древнего духа, пожирающего людей.",
+        "slogan": "",
+        "premiere": "1 ноября 2019",
+        "age": "0",
+        "time": "5520",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1230585.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "74",
+          "rating_imdb": "3.4",
+          "vote_num_imdb": "222"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1260304",
+      "date": "1590218995",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Ромком",
+        "orig": "Romantic Comedy",
+        "alter": "",
+        "year": "2019",
+        "country": "Великобритания",
+        "director": "Элизабет Сэнки",
+        "genre": "документальный,мелодрама,комедия",
+        "actors": "Джессика Барден,Камерон Кук,Энн Т. Донахью,Симран Ханс,Броди Ланкастер,Чарли Лайн,Eleanor McDowall,Laura Snapes",
+        "description": "В центре сюжета женские образы, ролевые модели и стереотипы, на которых выросло несколько поколений. На примерах десятков классических лент, от &laquo;Красотки&raquo; до комедий Джадда Апатоу, фильм критикует правила ромкомов и раскрывает их главные ловушки. Выясняется, что обожаемые с детства фильмы, будь то &laquo;Когда Гарри встретил Салли&raquo; или &laquo;Бриджет Джонс&raquo;, вложили в нас мифы о любви до гроба и браке как единственном сценарии счастливых отношений, а взаимные манипуляции, отсутствие личных границ и неискренность подаются в них как непременные условия игры.",
+        "slogan": "Musician/writer Elizabeth Sankey dives into the past, present and future of romantic comedies, with the hilarious and thoughtful assistance from a chorus of writers, actors and filmmakers",
+        "premiere": "25 января 2019",
+        "age": "0",
+        "time": "4680",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1260304.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "89",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "381"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "606710",
+      "date": "1590218789",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дневник слабака 3",
+        "orig": "Diary of a Wimpy Kid: Dog Days",
+        "alter": "",
+        "year": "2012",
+        "country": "США, Канада",
+        "director": "Дэвид Бауэрс",
+        "genre": "комедия,семейный",
+        "actors": "Захари Гордан, Стив Зан, Роберт Капрон, Девон Бостик, Рэйчел Харрис, Пейтон Лист, Грэйсон Расселл, Каран Брэр, Лэйн МакНил, Коннор Филдинг",
+        "description": "Школа закончилась и Грэг готов к теплым летним денькам. Точнее был готов до того момента, когда все его далеко идущие планы на лето в одночасье накрылись медным тазом. Чем же он теперь будет заниматься все лето?",
+        "slogan": "Life in the doghouse",
+        "premiere": "3 августа 2012",
+        "age": "12",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_606710.jpg",
+        "rating": {
+          "rating_kp": "6.385",
+          "vote_num_kp": "2033",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "22994"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "793468",
+      "date": "1590218662",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Лес Испытаний",
+        "orig": "Breakdown Forest: Der Mensch ist die Krankheit, wir das Medikament",
+        "alter": "",
+        "year": "2017",
+        "country": "Германия",
+        "director": "Patrick Roy Beckert",
+        "genre": "боевик,триллер",
+        "actors": "Bartholomäus Kowalski,Хабертус Геллер,Оливер Крекель,Thomas Kercmar,Patrick Roy Beckert,Jens Schütte,Назиф Кылыч,Дагмар Мунд,Sheila Rubin,Maximilian Friedmann",
+        "description": "Офицер полиции Леон после неудачной операции оказывается в глухом лесу. Он еще не подозревает, что оказался частью эксперимента братьев Риббек, которые превратят лес в площадку по борьбе за выживание.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "6120",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmRmOTFmZWEtOWJjZi00NWFmLWI3OGUtMTBlZTFlN2M3ZTIzXkEyXkFqcGdeQXVyNTMyNTM5MDM@._V1_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "6",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1193091",
+      "date": "1590218508",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Чувствительная и влюбленная",
+        "orig": "Sensitive and In Love",
+        "alter": "",
+        "year": "2020",
+        "country": "-",
+        "director": "Уилл Харпер",
+        "genre": "драма",
+        "actors": "Alecks Ambayec,Каи Кортес,Билли Рэй Гэллион,Чери Хиль,Карла Хемфрис,Крэйг Лайнс,Алекс Винсент Медина,Bianca Rogoff,Хосе Росете,Raymund Tolentino",
+        "description": "Молодая сверхчувствительная писательница Джессика после увольнения и расставания с парнем уезжает на Филиппины к своему брату в надежде обрести душевный покой.",
+        "slogan": "",
+        "premiere": "29 января 2020",
+        "age": "0",
+        "time": "7380",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTRiZjAwNjMtYzRlYy00ZjlmLTg0OGQtMDYxZjUzMTRiNGQ2XkEyXkFqcGdeQXVyOTExOTQ5MzM@._V1_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "6",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "32"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "573772",
+      "date": "1590218359",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Одноклассники.ru: НаCLICKай удачу",
+        "orig": "Одноклассники.ru: НаCLICKай удачу",
+        "alter": "",
+        "year": "2012",
+        "country": "Россия",
+        "director": "Павел Худяков",
+        "genre": "комедия,мелодрама",
+        "actors": "Пётр Фёдоров, Фёдор Бондарчук, Корнелия Поляк, Сергей Друзьяк, Тимати, Снуп Догг, Сергей Никоненко, Александр Ревва, Ольга Тумайкина, Семён Стругачев",
+        "description": "Круто, когда есть кнопка, на которую жмешь, и все становится по-твоему! Именно такая попала в руки молодому креативщику и тотальному неудачнику Леше. Теперь у него высокооплачиваемая работа, дорогая машина, стильный гардероб и, конечно, идеальная девушка. Достаточно одного клика! Просто надо знать, куда жать!",
+        "slogan": "",
+        "premiere": "12 декабря 2013",
+        "age": "12",
+        "time": "6240",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_573772.jpg",
+        "rating": {
+          "rating_kp": "3.21",
+          "vote_num_kp": "20920",
+          "rating_imdb": "2.6",
+          "vote_num_imdb": "542"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "441271",
+      "date": "1590217801",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Корпорация «Еда»",
+        "orig": "Food, Inc.",
+        "alter": "",
+        "year": "2008",
+        "country": "США",
+        "director": "Роберт Кеннер",
+        "genre": "документальный",
+        "actors": "Эрик Шлоссер, Ричард Лобб, Винс Эдвардс, Кэрол Морисон, Майкл Поллан, Трой Пуш, Ларри Джонсон, Аллен Тренкл, Барбара Ковальчик, Патриция Бак",
+        "description": "Нелестный взгляд на американскую пищевую промышленность и контролирующие её корпорации.",
+        "slogan": "Вы больше никогда не посмотрите на свой ужин прежним взглядом",
+        "premiere": "7 сентября 2008",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_441271.jpg",
+        "rating": {
+          "rating_kp": "7.371",
+          "vote_num_kp": "7475",
+          "rating_imdb": "7.8",
+          "vote_num_imdb": "49711"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4385",
+      "date": "1590216943",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Страх и ненависть в Лас-Вегасе",
+        "orig": "Fear and Loathing in Las Vegas",
+        "alter": "",
+        "year": "1998",
+        "country": "США",
+        "director": "Терри Гиллиам",
+        "genre": "комедия,драма",
+        "actors": "Джонни Депп, Бенисио Дель Торо, Тоби Магуайр, Кристина Риччи, Майкл Джитер, Гэри Бьюзи, Эллен Баркин, Марк Хэрмон, Крэйг Бирко, Кэтрин Хелмонд",
+        "description": "Два приятеля едут в Лас-Вегас. Спортивный обозреватель Рауль Дьюк едет, чтобы осветить знаменитую «Минт 400». Его спутника зовут Доктор Гонзо, и он адвокат. Обзор «Минт 400» из-за непогоды и отсутствия интереса у рецензента оборачивается полным провалом, и Дьюк и Гонзо отправляются в казино.",
+        "slogan": "Buy the ticket, take the ride",
+        "premiere": "15 мая 1998",
+        "age": "18",
+        "time": "7080",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4385.jpg",
+        "rating": {
+          "rating_kp": "7.595",
+          "vote_num_kp": "123843",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "264897"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "578904",
+      "date": "1590216324",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Одноголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Испытание",
+        "orig": "Испытание",
+        "alter": "",
+        "year": "2014",
+        "country": "Россия",
+        "director": "Александр Котт",
+        "genre": "драма",
+        "actors": "Елена Ан, Данила Рассомахин, Карим Пакачаков, Нариман Бекбулатов-Арешев, Эдуард Галкин, Дмитрий Семенов, Юрий Пимкин, Игорь Ливенцов, Мирослав Тузин, Рустем Османов",
+        "description": "Они живут в степи. Отец и дочь. Ничто не может нарушить вечный порядок. Завтра наступает всегда. И каждое утро отец уезжает работать. И она остается одна. Ждать отца. И чувствовать. Двое любят ее. Она любит каждого. Любовь нельзя поделить. \r\n\r\nОднажды решение приходит само. Оттуда, где солнце.",
+        "slogan": "",
+        "premiere": "22 сентября 2014",
+        "age": "16",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_578904.jpg",
+        "rating": {
+          "rating_kp": "6.741",
+          "vote_num_kp": "2094",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "497"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "468558",
+      "date": "1590215778",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "720",
+      "info": {
+        "rus": "Рио, я люблю тебя",
+        "orig": "Rio, Eu Te Amo",
+        "alter": "",
+        "year": "2014",
+        "country": "Бразилия, США, Франция",
+        "director": "Висенте Аморим, Гильермо Арриага, Стефан Эллиотт",
+        "genre": "комедия,фэнтези,мелодрама,драма",
+        "actors": "Бэзил Хоффман, Эмили Мортимер, Родриго Санторо, Бруна Линзмейер, Надин Лабаки, Харви Кейтель, Клаудия Абреу, Фернанда Монтенегро, Эдуардо Стерблитч, Угу Карвана",
+        "description": "Фильм рассказывает об одном из самых удивительных городов Южной Америки - Рио-де-Жанейро. Режиссеры из разных стран сняли десять коротких историй, которые рассказывают о любви. Каждый эпизод посвящен одному из районов города, которые обладают своими неподражаемыми колоритами.",
+        "slogan": "Love happens everywhere. Some love stories only happen in Rio",
+        "premiere": "29 августа 2014",
+        "age": "16",
+        "time": "6240",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_468558.jpg",
+        "rating": {
+          "rating_kp": "5.746",
+          "vote_num_kp": "2436",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "1884"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "422394",
+      "date": "1590215086",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Американские жиголо",
+        "orig": "Cougars Inc.",
+        "alter": "",
+        "year": "2011",
+        "country": "США",
+        "director": "К. Эшер Левин",
+        "genre": "комедия,драма",
+        "actors": "Кайл Галлнер, Сара Хайланд, Джеймс Белуши, Маив Куинлэн, Джей Брайан Уинник, Роберт Белуши, Райан Пинкстон, Кристиан Э. Мерфи, Кэри Каземи, Роум Шаданлу",
+        "description": "Сэм был выгнан из всех школ по всей стране. Когда он узнаёт, что его мать больше не может позволить себе обучать его в школе, он и его друзья начинают своё собственное эскорт обслуживание, Корпорация Пум, чтобы помочь заплатить за его обучение. В этой новой весёлой работе Сэм и его друзья изучают поколение Пум, которые отчаянно пытаются остаться молодыми и каждый урок, который им преподают им нравится всё больше.",
+        "slogan": "It's 10 p.m. Do you know where your mother is?",
+        "premiere": "21 апреля 2011",
+        "age": "16",
+        "time": "4740",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_422394.jpg",
+        "rating": {
+          "rating_kp": "5.236",
+          "vote_num_kp": "1274",
+          "rating_imdb": "5",
+          "vote_num_imdb": "3948"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "208075",
+      "date": "1590214149",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Предчувствие любви",
+        "orig": "Humko Deewana Kar Gaye",
+        "alter": "",
+        "year": "2006",
+        "country": "Индия",
+        "director": "Радж Канвар",
+        "genre": "мелодрама,драма",
+        "actors": "Акшай Кумар, Катрина Каиф, Бипаша Басу, Бхагьяшри, Шерназ Патель, Вивек Шок, Хелен, Махеш Такур, Ранджит, Нина Кулкарни",
+        "description": "Не ждал, Адитья, что, прилетев в Канаду с невестой Сонией, он безумно влюбится в незнакомку Джийю, чей жених Каран богач...",
+        "slogan": "Inspired by a true story",
+        "premiere": "13 апреля 2006",
+        "age": "16",
+        "time": "9300",
+        "poster": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/140x209/film-4001654135._CB470041848_.png",
+        "rating": {
+          "rating_kp": "7.904",
+          "vote_num_kp": "460",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "3981"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "5289",
       "date": "1590212607",
       "camrip": "0",
@@ -149,9 +702,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_840073.jpg",
         "rating": {
           "rating_kp": "8.25",
-          "vote_num_kp": "14395",
+          "vote_num_kp": "14418",
           "rating_imdb": "8.7",
-          "vote_num_imdb": "14421"
+          "vote_num_imdb": "14437"
         }
       }
     },
@@ -183,8 +736,8 @@
         "time": "5460",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_20049.jpg",
         "rating": {
-          "rating_kp": "7.635",
-          "vote_num_kp": "4759",
+          "rating_kp": "7.634",
+          "vote_num_kp": "4764",
           "rating_imdb": "7.9",
           "vote_num_imdb": "72230"
         }
@@ -219,7 +772,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_11500.jpg",
         "rating": {
           "rating_kp": "5.858",
-          "vote_num_kp": "5072",
+          "vote_num_kp": "5073",
           "rating_imdb": "5.2",
           "vote_num_imdb": "10402"
         }
@@ -254,7 +807,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4687.jpg",
         "rating": {
           "rating_kp": "7.876",
-          "vote_num_kp": "12038",
+          "vote_num_kp": "12039",
           "rating_imdb": "6.7",
           "vote_num_imdb": "45122"
         }
@@ -344,9 +897,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_630101.jpg",
         "rating": {
           "rating_kp": "7.179",
-          "vote_num_kp": "12706",
+          "vote_num_kp": "12708",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "84434"
+          "vote_num_imdb": "84437"
         }
       }
     },
@@ -426,7 +979,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_12378.jpg",
         "rating": {
           "rating_kp": "4.946",
-          "vote_num_kp": "2429",
+          "vote_num_kp": "2430",
           "rating_imdb": "4",
           "vote_num_imdb": "7325"
         }
@@ -461,9 +1014,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_557.jpg",
         "rating": {
           "rating_kp": "7.129",
-          "vote_num_kp": "16978",
+          "vote_num_kp": "16979",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "114683"
+          "vote_num_imdb": "114711"
         }
       }
     },
@@ -530,10 +1083,10 @@
         "time": "5280",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_467110.jpg",
         "rating": {
-          "rating_kp": "7.637",
-          "vote_num_kp": "68770",
+          "rating_kp": "7.636",
+          "vote_num_kp": "68789",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "57615"
+          "vote_num_imdb": "57620"
         }
       }
     },
@@ -811,9 +1364,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1170868.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "51",
+          "vote_num_kp": "52",
           "rating_imdb": "4.7",
-          "vote_num_imdb": "418"
+          "vote_num_imdb": "422"
         }
       }
     },
@@ -929,8 +1482,8 @@
         "time": "6060",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_731786.jpg",
         "rating": {
-          "rating_kp": "5.616",
-          "vote_num_kp": "5015",
+          "rating_kp": "5.617",
+          "vote_num_kp": "5046",
           "rating_imdb": "5.8",
           "vote_num_imdb": "19682"
         }
@@ -1000,9 +1553,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3923.jpg",
         "rating": {
           "rating_kp": "7.89",
-          "vote_num_kp": "22167",
+          "vote_num_kp": "22170",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "118319"
+          "vote_num_imdb": "118332"
         }
       }
     },
@@ -1035,9 +1588,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5524.jpg",
         "rating": {
           "rating_kp": "7.144",
-          "vote_num_kp": "7622",
+          "vote_num_kp": "7623",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "88924"
+          "vote_num_imdb": "88962"
         }
       }
     },
@@ -1105,7 +1658,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7282.jpg",
         "rating": {
           "rating_kp": "7.022",
-          "vote_num_kp": "8866",
+          "vote_num_kp": "8867",
           "rating_imdb": "6.2",
           "vote_num_imdb": "63330"
         }
@@ -1175,9 +1728,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7459.jpg",
         "rating": {
           "rating_kp": "7.214",
-          "vote_num_kp": "28464",
+          "vote_num_kp": "28476",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "171887"
+          "vote_num_imdb": "171903"
         }
       }
     },
@@ -1423,496 +1976,6 @@
           "vote_num_kp": "10616",
           "rating_imdb": "6.3",
           "vote_num_imdb": "14509"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "12338",
-      "date": "1590013969",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Армейские приключения",
-        "orig": "In the Army Now",
-        "alter": "",
-        "year": "1994",
-        "country": "США",
-        "director": "Дэниел Питри мл.",
-        "genre": "комедия,военный",
-        "actors": "Поли Шор,Энди Дик,Лори Петти,Дэвид Алан Грир,Эсай Моралес,Линн Уитфилд,Арт ЛаФлёр,Фабиана Уденио,Гленн Моршауэр,Биу Биллингсли",
-        "description": "Закадычные друзья Боунз и Джек вовсе не думали становиться героями. Они записались в резервисты американской армии, чтобы заработать денег и открыть собственный магазин. Но тихой службы в тылу не получилось. Свободный мир опять в опасности, и вот уже бравые вояки отправляются сражаться в Африку.\r\n\r\nЭто совсем не входило в планы Боунза и Джека, которых по уровню героизма в крови обогнал бы и кролик. Но тут, по иронии судьбы, дело обернулось так, что именно этому эксцентричному дуэту предстоит внести основной вклад в победу.",
-        "slogan": "Sleep tight, America! The safety of the free world rests in his hands!",
-        "premiere": "12 августа 1994",
-        "age": "12",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_12338.jpg",
-        "rating": {
-          "rating_kp": "6.511",
-          "vote_num_kp": "966",
-          "rating_imdb": "5",
-          "vote_num_imdb": "12908"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1328267",
-      "date": "1590013887",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Отключка",
-        "orig": "Beullaekaut",
-        "alter": "",
-        "year": "2020",
-        "country": "Корея Южная",
-        "director": "Парк Бонг-Сеоб",
-        "genre": "детектив,криминал,триллер",
-        "actors": "Чон Сан-хун,Но Джон-хён",
-        "description": "Прогорев в бизнесе, Ян Ик-сын работает в Сеуле таксистом. Однажды он просыпается и обнаруживает полную сумку денег, и что самое странное — Ян не может вспомнить, что происходило с ним накануне.",
-        "slogan": "",
-        "premiere": "8 января 2020",
-        "age": "0",
-        "time": "4200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1328267.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "64",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "262003",
-      "date": "1590013857",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Опасная близость: Сражение при Лонгтане",
-        "orig": "Danger Close: The Battle of Long Tan",
-        "alter": "",
-        "year": "2019",
-        "country": "Австралия",
-        "director": "Крив Стендерс",
-        "genre": "история,военный,драма,боевик",
-        "actors": "Трэвис Фиммел,Николас Хэмилтон,Ричард Роксбург,Люк Брейси,Даниэль Уэббер,Мэтт Доран,Стивен Пикок,Ули Латукефу,Александр Инглэнд,Майлс Поллард",
-        "description": "Война во Вьетнаме. Рота в основном неопытных австралийских и новозеландских солдат встречается в битве при Лонгтане с превосходящими силами Вьетконга.",
-        "slogan": "A true story of ordinary boys who become extraordinary men",
-        "premiere": "15 июня 2019",
-        "age": "0",
-        "time": "7080",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_262003.jpg",
-        "rating": {
-          "rating_kp": "6.105",
-          "vote_num_kp": "887",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "10486"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "954980",
-      "date": "1590013789",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Громовой цветок",
-        "orig": "Fleur de Tonnerre",
-        "alter": "",
-        "year": "2016",
-        "country": "Франция,Бельгия",
-        "director": "Стефани Пиллонка",
-        "genre": "триллер,драма",
-        "actors": "Дебора Франсуа,Бенжамин Биолэй,Жонатан Заккаи,Катрин Муше,Blanche François,Федор Аткин,Кристоф Миоссек,Марта Герин Кауфман,Ксавье Матьё,Филипп Пасквини",
-        "description": "История жизни бретонки Элен Жегадо, серийной убийцы, отравившей ядом не менее 70-ти человек.",
-        "slogan": "",
-        "premiere": "24 августа 2016",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_954980.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "29",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "181"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "941126",
-      "date": "1590013711",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Принцессочка",
-        "orig": "Princesita",
-        "alter": "",
-        "year": "2015",
-        "country": "Испания,Аргентина,Чили",
-        "director": "Мариали Ривас",
-        "genre": "",
-        "actors": "Марсело Алонсо,Sara Caballero,Nahuel Cantillano,Stefano Mardones,Мария Грасия Оменя,Аугусто Силва,Isidora Uribe",
-        "description": "12-летняя девочка попадает в секту, возглавляемую Мигелем, которому нужен от нее наследник. Но в планы Мигеля вмешивается одноклассник, в которого девочка влюбляется в школе.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "4260",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_941126.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "11",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1261611",
-      "date": "1590013664",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Лиллиан",
-        "orig": "Lillian",
-        "alter": "",
-        "year": "2019",
-        "country": "Австрия",
-        "director": "Андреас Хорват",
-        "genre": "драма",
-        "actors": "Патриция Планик",
-        "description": "Русская эмигрантка и порноактриса Лиллиан решает пройти пешком США, чтобы вернуться домой. Путь её лежит от Нью-Йорка до Аляски: словно лосось на нересте, она всё время движется наперекор всему, поперёк течения.",
-        "slogan": "",
-        "premiere": "20 мая 2019",
-        "age": "0",
-        "time": "7800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1261611.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "101",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "719"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "607318",
-      "date": "1590013606",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Момент истины",
-        "orig": "Last Moment of Clarity",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Colin Krisel,James Krisel",
-        "genre": "триллер",
-        "actors": "Самара Уивинг,Брайан Кокс,Карли Чаикин,Удо Кир,Хэл Озсэн,Павел Лычников,Николь Ансари-Кокс,Алекс Фернандес,Зак Эйвери,Карл Эдрард",
-        "description": "В центре сюжета — парень по имени Сэм, решивший залечь на дно в Париже, после того как его девушку Джорджию на его же глазах убили гангстеры. Но спустя годы он узнаёт её в голливудской актрисе и отправляется в Лос-Анджелес, преисполненный решимости докопаться до правды, чего бы это ему ни стоило.",
-        "slogan": "The ones we lose are never really gone",
-        "premiere": "19 мая 2020",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_607318.jpg",
-        "rating": {
-          "rating_kp": "4.987",
-          "vote_num_kp": "412",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "1916"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1026096",
-      "date": "1590013522",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Хамелеон",
-        "orig": "Chameleon",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Маркус Мизель",
-        "genre": "триллер,криминал",
-        "actors": "Алисия Ли Уиллис,Каллен Мосс,Фредерик Кив,Fernanda Hay,Том Элпер,Samuel Whitehill,Джоэль Хоган,Сильвия Каль,Маркус Мизель,Дэвид Алан Граф",
-        "description": "Бывший заключённый и его непредсказуемый сообщник устраивают аферы, похищая жён богатых мужчин в пропитанном эгоизмом и алчностью Лос Анджелесе.",
-        "slogan": "",
-        "premiere": "1 октября 2019",
-        "age": "0",
-        "time": "4800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1026096.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "21",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "1055"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1189207",
-      "date": "1590013471",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Английский на среднем уровне",
-        "orig": "Angrezi Medium",
-        "alter": "",
-        "year": "2020",
-        "country": "Индия",
-        "director": "Хоми Ададжаниа",
-        "genre": "комедия",
-        "actors": "Ирфан Кхан,Радхика Мадан,Карина Капур,Дипак Добриял,Димпл Кападиа,Ранвир Шори,Панкадж Трипати,Кику Шарда,Маню Риши,Poorvi Jain",
-        "description": "Отец-одиночка пытается раздобыть крупную сумму, чтобы отправить дочь учиться в Англию.",
-        "slogan": "",
-        "premiere": "11 марта 2020",
-        "age": "0",
-        "time": "8700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1189207.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "180",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "11790"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1046468",
-      "date": "1590013343",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Зизотек",
-        "orig": "Zizotek",
-        "alter": "",
-        "year": "2019",
-        "country": "Греция",
-        "director": "Вардис Маринакис",
-        "genre": "драма,приключения",
-        "actors": "August Lambrou-Negrepontis,Димитрис Ксанопулос,Пинелопи Цилика,Nikos Georgakis,Magda Lekka,Михалис Гоунарис,Никос Зойопулос,Fotis Kariotis,Marietta Pepelasi,Kinthia Plagianou",
-        "description": "После того, как Ясона на ярмарке оставляет мать, он находит убежище в лесной хижине, принадлежащей немому одиночке. Ряд обстоятельств в итоге приводит к тому, что они создают семью - которой так не хватало обоим.",
-        "slogan": "A boy finds family in the hug of a ghost bear",
-        "premiere": "3 июля 2019",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1046468.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "14",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "185"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1230701",
-      "date": "1590013231",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Нежный поцелуй",
-        "orig": "Good Kisser",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Венди Джо Карлтон",
-        "genre": "мелодрама",
-        "actors": "Кари Элисон Ходж,Джулия Эрингер,Кортни МакКалло,Рэйчел Полсон,Картер Родригез",
-        "description": "Дженна и Кейт хотят оживить свой двухлетний роман с помощью соблазнительной незнакомки, которая в итоге обнажает все недостатки в их отношениях.",
-        "slogan": "",
-        "premiere": "17 мая 2019",
-        "age": "0",
-        "time": "4800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1230701.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "20",
-          "rating_imdb": "4.3",
-          "vote_num_imdb": "278"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1109075",
-      "date": "1590013138",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Приключение в небе",
-        "orig": "Sky Raiders",
-        "alter": "",
-        "year": "2019",
-        "country": "Израиль",
-        "director": "Lior Chefetz",
-        "genre": "приключения,семейный",
-        "actors": "Амир Теслер,Hila Natanzon,Арье Шернер,Рики Блих,Нати Равиц,Dor Harari,Uri Blufarb,Аилит Кертц",
-        "description": "Йотам и Ноа, 13-летние школьники, находят на «кладбище самолетов» остатки Мессершмитта - первого истребителя ВВС Израиля. Вместе с Морисом, одиноким стариком, который был летчиком-истребителем в 1950-х годах, они решают отремонтировать самолет и, несмотря ни на что, поднять его в небо на воздушном параде в День независимости.",
-        "slogan": "",
-        "premiere": "11 июля 2019",
-        "age": "0",
-        "time": "6180",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYzE2NmQ4YjMtYmU0Yy00M2U2LWJhYmEtNDg4Njg0ZDcxNDZmXkEyXkFqcGdeQXVyMTA5MzcyNDM@._V1_SY1000_CR0,0,696,1000_AL_.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "13",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "63"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1184873",
-      "date": "1590013068",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Ёжик по имени Людвиг",
-        "orig": "Ludwig the Hedgehog",
-        "alter": "",
-        "year": "2018",
-        "country": "Армения",
-        "director": "Mher Mkrtchyan",
-        "genre": "мелодрама,драма,комедия",
-        "actors": "Arcrun Chobanyan,Ани Казарян,Кристина Овакимян,Георгий Овакимян,Рудик Мартиросян,Жан Ншанян,Нанор Петросян,Гурген Саргсян,Самвел Топалян",
-        "description": "Главный герой - Артур, успешный адвокат. Ему все равно кто его подзащитый, действительно невинный человек или мерзавец. Его единственная цель - это победа. А жизнь для него делит всех на хищников и жертв. И он жертвой быть не собирается.",
-        "slogan": "",
-        "premiere": "14 сентября 2018",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1184873.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "21",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "8"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1220627",
-      "date": "1590012998",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Родилась красивой",
-        "orig": "Born Beautiful",
-        "alter": "",
-        "year": "2019",
-        "country": "Филиппины",
-        "director": "Персивал Инталан",
-        "genre": "комедия",
-        "actors": "Мартин дель Росарио,Паоло Бальестерос,Лу Велосо,Chai Fonacier,Kiko Matos,Akihiro Blanco,Gio Gahol,VJ Mendoza,Juvan Bermil",
-        "description": "После смерти своей лучшей подруги Барбс начинает новую жизнь в качестве мужчины традиционной ориентации Бобби. В этот момент судьба сводит её с бывшим парнем Триши Микеланджело, с её собственным бывшим Грегом и женщиной, которая клянётся, что беременна от Барбс.",
-        "slogan": "Dare to Live. Dare to Love. Dare to be you",
-        "premiere": "23 января 2019",
-        "age": "0",
-        "time": "5760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1220627.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "15",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "101"
         }
       }
     }
