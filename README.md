@@ -1,17 +1,17 @@
-# :tv: Movies and TV `29,676` (bazon)
+# :tv: Movies and TV `29,895` (bazon)
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2021-09-01
-- Movies `24,876`
-  - [x] <a href="https://API-Movies.github.io/bazon/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `24,137`
+### :date: 2021-09-02
+- Movies `25,036`
+  - [x] <a href="https://API-Movies.github.io/bazon/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `24,120`
   - [ ] IMDb IDs `0`
   - [ ] TMDb IDs `0`
   - [ ] World-Art IDs `0`
   - [ ] Shikimori IDs `0`
   - [ ] None IDs `0`
-- TV `4,800`
-  - [x] <a href="https://API-Movies.github.io/bazon/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `4,458`
+- TV `4,859`
+  - [x] <a href="https://API-Movies.github.io/bazon/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `4,497`
   - [ ] IMDb IDs `0`
   - [ ] TMDb IDs `0`
   - [ ] World-Art IDs `0`
