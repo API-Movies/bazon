@@ -2,6 +2,181 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1183656",
+      "date": "1594412104",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Трамвай в Иерусалиме",
+        "orig": "A Tramway in Jerusalem",
+        "alter": "",
+        "year": "2018",
+        "country": "Израиль,Франция",
+        "director": "Амос Гитай",
+        "genre": "драма",
+        "actors": "Ноа,Матьё Амальрик,Elias Amalric,Яэль Абекассис,Керен Мор,Пиппо Дельбонно,Юваль Шарф,Хана Ласло,Ламис Аммар,Мейталь Дохан",
+        "description": "В трамвае, который соединяет несколько районов Иерусалима, собирается целая мозаика людей из разных религиозных и этнических групп.",
+        "slogan": "",
+        "premiere": "3 сентября 2018",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1183656.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "14",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "84"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1230355",
+      "date": "1594388714",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Сфарад",
+        "orig": "Sefarad",
+        "alter": "",
+        "year": "2019",
+        "country": "Португалия",
+        "director": "Луис Исмаэль",
+        "genre": "драма",
+        "actors": "Родриго Сантос,Pedro Galiza,Ana Vargas,Gabriela Relvas,Хорхе Фернандес,Rui Sprangler,Педро Фриаш,Хосе Нето,Simão Ramos,Diogo Balestra",
+        "description": "В 1496 году король Д. Мануэль запретил иудаизм. 400 лет спустя Баррос Басто, капитан португальской армии, принявший иудаизм, и около двадцати еврейских купцов основали еврейскую общину Порту на севере Португалии.",
+        "slogan": "",
+        "premiere": "15 января 2019",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODJlMTk3YWQtODdlZi00OTY5LWI1ZTgtYjhkNmU4NjkxODc3XkEyXkFqcGdeQXVyMjAxNzQ1MjM@._V1_SY999_CR0,0,693,999_AL_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "66"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1173499",
+      "date": "1594386904",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Медовый месяц в Згеже",
+        "orig": "Lune de miel",
+        "alter": "",
+        "year": "2018",
+        "country": "Франция",
+        "director": "Элиз Отценбергер",
+        "genre": "комедия",
+        "actors": "Жюдит Шемла,Артур Игуаль,Брижит Роюан,Изабель Канделье,Антуан Шаппе,Андре Вильм,Evelyn Askolovitch,Symcha Keller,Gloria Manca",
+        "description": "Анна и Адам, молодая пара парижан с еврейскими корнями, впервые отправляются в Польшу. Их пригласили на церемонию, организованную в память об уничтоженной еврейской деревне, в которой родился дед Адама. Сам Адам вовсе не воодушевлен поездкой, однако Анна мечтает посетить места, где жила ее бабушка, и найти родных, которые помогут ей разобраться в прошлом.",
+        "slogan": "Святой Георгий",
+        "premiere": "24 августа 2018",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1173499.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "39",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "113"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "406245",
+      "date": "1594375702",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Злобный тип",
+        "orig": "The Vicious Kind",
+        "alter": "",
+        "year": "2009",
+        "country": "США",
+        "director": "Ли Толанд Кригер",
+        "genre": "драма,комедия",
+        "actors": "Адам Скотт,Бриттани Сноу,Алекс Фрост,Дж.К. Симмонс,Витторио Брам,Билл Бюэлл,Алисия Райнер,Кейт Кригер,Джордан Берков,Энн Гилл",
+        "description": "Калеб – строительный рабочий из провинциального американского городка. Тяжело переживая разрыв отношения со своей давней подругой, Калеб озлобляется на весь мир в целом и на женщин в частности. Поэтому когда в город на день благодарения приезжает его брат со своей девушкой Эммой, он полагает о ней самое худшее и решает помешать их отношениям…",
+        "slogan": "How would you protect someone from their first love?",
+        "premiere": "17 января 2009",
+        "age": "18",
+        "time": "5520",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc0Mjc1MDYwMV5BMl5BanBnXkFtZTcwNzkyMjY2Mw@@.jpg",
+        "rating": {
+          "rating_kp": "6.443",
+          "vote_num_kp": "352",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "7736"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "826675",
+      "date": "1594375537",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "Одноголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Цветок и змея: Ноль",
+        "orig": "Hana to hebi: Zero",
+        "alter": "",
+        "year": "2014",
+        "country": "Япония",
+        "director": "Хадзимэ Хасимото",
+        "genre": "триллер",
+        "actors": "Маико Амано,Норико Хамада,Рина Сакураги,Наоки Кавано,Юити Кимура,Хидэо Сакаки,Даикити Сугавара,Кандзи Цуда,Юки Цудзимото",
+        "description": "Мисаки Амемия, женщина-детектив, вступает в борьбу с подпольным сообществом. Банда похищает женщин и выкладывает мучения на закрытом сайте в прямом эфире. В расследовании она продвигается слишком далеко и сама попадает в ловушку.",
+        "slogan": "",
+        "premiere": "17 мая 2014",
+        "age": "0",
+        "time": "6780",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_826675.jpg",
+        "rating": {
+          "rating_kp": "4.828",
+          "vote_num_kp": "124",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "405"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "890875",
       "date": "1594374129",
       "camrip": "0",
@@ -657,8 +832,8 @@
         "time": "8340",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_779397.jpg",
         "rating": {
-          "rating_kp": "7.187",
-          "vote_num_kp": "2061",
+          "rating_kp": "7.186",
+          "vote_num_kp": "2064",
           "rating_imdb": "7.6",
           "vote_num_imdb": "15250"
         }
@@ -823,10 +998,10 @@
         "time": "3600",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_762172.jpg",
         "rating": {
-          "rating_kp": "6.291",
-          "vote_num_kp": "5994",
+          "rating_kp": "6.289",
+          "vote_num_kp": "6000",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "14390"
+          "vote_num_imdb": "14400"
         }
       }
     },
@@ -878,7 +1053,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1367761.jpg",
         "rating": {
           "rating_kp": "6.662",
-          "vote_num_kp": "1066",
+          "vote_num_kp": "1068",
           "rating_imdb": "6.9",
           "vote_num_imdb": "1103"
         }
@@ -975,10 +1150,10 @@
         "time": "5880",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1253941.jpg",
         "rating": {
-          "rating_kp": "7.497",
-          "vote_num_kp": "14777",
+          "rating_kp": "7.495",
+          "vote_num_kp": "14785",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "2172"
+          "vote_num_imdb": "2173"
         }
       }
     },
@@ -1760,185 +1935,10 @@
         "time": "0",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_917884.jpg",
         "rating": {
-          "rating_kp": "6.495",
-          "vote_num_kp": "5100",
+          "rating_kp": "6.494",
+          "vote_num_kp": "5111",
           "rating_imdb": "6.5",
           "vote_num_imdb": "6314"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "900615",
-      "date": "1594191592",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ликвидаторы",
-        "orig": "Eliminators",
-        "alter": "",
-        "year": "2016",
-        "country": "Великобритания, США",
-        "director": "Джеймс Нанн",
-        "genre": "боевик",
-        "actors": "Скотт Эдкинс, Стю Беннет, Даниэль Кальтаджироне, Джеймс Космо, Ти Глейсер, Оливия Мейс, Мем Ферда, Стивен Маркус, Ник Неверн, Lily Ann Stubbs",
-        "description": "Бывший агент ФБР должен выйти из программы защиты свидетелей, когда в его дом ошибочно вламываются. Это событие заканчивается несколькими трупами и освещается в новостях, и за ним посылают самого опасного наемника в Европе. На кону оказывается жизнь его дочери, теперь отец должен спасти ее, пока за ней не пришли те, кто начал охоту на него.",
-        "slogan": "",
-        "premiere": "6 декабря 2016",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_900615.jpg",
-        "rating": {
-          "rating_kp": "5.5",
-          "vote_num_kp": "929",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "4091"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "20159",
-      "date": "1594191335",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Двухголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Там, где покоится зло",
-        "orig": "Where Sleeping Dogs Lie",
-        "alter": "",
-        "year": "1991",
-        "country": "США",
-        "director": "Чарльз Финч",
-        "genre": "триллер,криминал,детектив",
-        "actors": "Дилан МакДермотт,Том Сайзмор,Шэрон Стоун,Рон Карабацос,Чарльз Финч,Мэри Воронов,Дэвид К. Комбс,Ванна Бонта,Элизабет Уиткрафт,Фиби Стоун",
-        "description": "Молодой писатель с трудом сводит концы с концами и вынужден зарабатывать на жизнь, продавая недвижимость. Одним из его заданий становится продать дом, где, как он выясняет, произошло убийство. Переехав туда, он начинает писать роман «Дневник убийцы», который неожиданно становится зловещей автобиографией.",
-        "slogan": "The truth won't lie still forever",
-        "premiere": "13 ноября 1991",
-        "age": "16",
-        "time": "5700",
-        "poster": "https://m.media-amazon.com/images/M/MV5BN2FjOWQ5ODYtNWM2Mi00MzJjLTgwYjUtNmNhZDYxODc3MDRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg",
-        "rating": {
-          "rating_kp": "5.776",
-          "vote_num_kp": "274",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "905"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "972125",
-      "date": "1594163715",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Подсматривающий",
-        "orig": "Browse",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Майк Тестин",
-        "genre": "триллер",
-        "actors": "Лукас Хаас,Сара Рафферти,Хлоя Бриджес,Эллисон Данбар,Бодхи Элфмэн,Джоселин Донахью,Кен Кирби,Скотт Бэйли,Люк Спенсер Робертс,Мэтт Мерсер",
-        "description": "Одинокий мужчина уверяет себя, что кто-то взломал все его электронные устройства и с их помощью манипулирует им.",
-        "slogan": "",
-        "premiere": "7 июля 2020",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTliMmJlMjMtMGQ4My00ZjlkLTljNWYtZGQzM2FlNjZkMTI2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "24",
-          "rating_imdb": "3.5",
-          "vote_num_imdb": "154"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1391012",
-      "date": "1594163710",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Элвис из дальнего космоса",
-        "orig": "Elvis from Outer Space",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Марв Силверман,Tracy Wuischpard",
-        "genre": "фантастика,комедия,приключения",
-        "actors": "Мартин Коув,Александр Баттерфилд,Фрэнк Кавестани,Дэвид Хэвенер,Дайан Янг,Роберт Миано,Лорен-Элейн Пауэлл,Бэрри Дж. Ретклифф,George Thomas",
-        "description": "Джон Берроуз участвует в знаменитом конкурсе Двойников Элвиса из семидесятых и оказывается так хорош, что остальные участники начинают подозревать неладное. Неужели ЦРУ и пришельцы с Альфа Центавра вернули настоящего Элвиса в Лас-Вегас?",
-        "slogan": "",
-        "premiere": "7 июля 2020",
-        "age": "0",
-        "time": "5460",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNmY5NjUyYmMtM2EzZC00ZGUxLWE1OWItMmJjMjdhMGIyZmFiXkEyXkFqcGdeQXVyNDA3MDgzOTQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "4.1",
-          "vote_num_imdb": "90"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1236546",
-      "date": "1594160105",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Могучий дуб",
-        "orig": "Mighty Oak",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Шон МакНамара",
-        "genre": "драма,комедия",
-        "actors": "Алекса ПенаВега,Рэйвен,Джанел Пэрриш,Карлос ПенаВега,Шон МакНамара,Ник Спано,Бен Милликен,Нана Гана,Томас Каспрович,Дэна Пан",
-        "description": "Через много лет после смерти брата, Джина встречает мальчика – гениального гитариста, который может оказаться реинкарнацией её покойного брата.",
-        "slogan": "It Was His Music. But Was it His Soul?",
-        "premiere": "5 июня 2020",
-        "age": "0",
-        "time": "6120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1236546.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "28",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "148"
         }
       }
     }

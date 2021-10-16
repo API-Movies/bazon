@@ -2,6 +2,217 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1291860",
+      "date": "1593988205",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Моя поп-группа",
+        "orig": "La mia banda suona il pop",
+        "alter": "",
+        "year": "2020",
+        "country": "Италия",
+        "director": "Фаусто Брицци",
+        "genre": "комедия",
+        "actors": "Кристиан Де Сика,Массимо Гини,Анджела Финоккьяро,Паоло Росси,Наташа Стефаненко,Ринат Хисматулин,Диего Абатантуоно,Фабрицио Нарди,Нико Ди Ренцо,Джулио Базе",
+        "description": "Русский олигарх мечтает воссоединить в Петербурге известную итальянскую группу Popcorn, которую любит уже много лет.",
+        "slogan": "",
+        "premiere": "20 февраля 2020",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjlmNDgwOGUtNTRlZS00NTcxLTg3MTQtZWZkYmJiZjczZTYxXkEyXkFqcGdeQXVyMTY5OTQzNzY@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "15",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "173"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "996440",
+      "date": "1593933710",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "3:15 ночи",
+        "orig": "3:15 am",
+        "alter": "",
+        "year": "2018",
+        "country": "Франция",
+        "director": "Fabien Delage,Nicolas Delage,Divine",
+        "genre": "ужасы",
+        "actors": "Lola Dubus,Nicolas Lancelin,L&eacute;o Pochat,Мэтью Лурдел,Аврора Шеффер,Кия,Julia Gratens,Magali Dero&iuml;an-Banoun,Marie-Claire Ar&egrave;nes,Мелани Задех",
+        "description": "Шесть историй произошли в одно и то же время ночи. Шесть историй так не похожих на друг друга. Шесть историй и каждая будоражит.",
+        "slogan": "No one escapes the witching hour",
+        "premiere": "31 октября 2018",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjNhM2JlMTktOWEyZS00ZmM2LTlkOWMtYzFmMGFkMjZkODQyXkEyXkFqcGdeQXVyNjQxMTgxODg@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "32",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "138"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1178826",
+      "date": "1593933613",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Эма: Танец страсти",
+        "orig": "Ema",
+        "alter": "",
+        "year": "2019",
+        "country": "Чили",
+        "director": "Пабло Ларраин",
+        "genre": "драма,музыка",
+        "actors": "Мариана Ди Джироламо,Гаэль Гарсиа Берналь,Сантьяго Кабрера,Хосефина Фьебелькорн,Джаннина Фруттеро,Паола Джаннини,Антония Гизен,Сусана Идальго,Паула Хофманн,Мариана Лойола",
+        "description": "После того, как шокирующий инцидент разрушает ее брак с хореографом Гастоном, танцовщица Эма погружается в мир реггетона &#151; уличного танцевального и музыкального стиля. Новый творческий путь становится для нее одиссеей страсти, желания, освобождения и обретения себя.",
+        "slogan": "",
+        "premiere": "31 августа 2019",
+        "age": "18",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1178826.jpg",
+        "rating": {
+          "rating_kp": "6.12",
+          "vote_num_kp": "1456",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "7441"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "44394",
+      "date": "1593933406",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дежа вю",
+        "orig": "Дежа вю",
+        "alter": "",
+        "year": "1989",
+        "country": "Польша, СССР",
+        "director": "Юлиуш Махульский",
+        "genre": "комедия,криминал",
+        "actors": "Ежи Штур, Владимир Головин, Николай Караченцов, Виктор Степанов, Галина Петрова, Олег Шкловский, Лиза Махульская, Василий Мищенко, Владимир Белоусов, Всеволод Сафонов",
+        "description": "20-е годы. В Америке сухой закон. Подпольные торговцы спиртным, которые понесли убытки из-за предательства некоего Микк Нича - Микиты Ничипорука, решают ему отомстить.\r\n\r\nВ поисках своей жертвы наемный убийца прибывает в Одессу, где Ничипорук организовал самогонный бизнес. И тут у киллера возникают непредвиденные трудности. Одесса - это вам не Америка!..",
+        "slogan": "",
+        "premiere": "18 апреля 1990",
+        "age": "12",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44394.jpg",
+        "rating": {
+          "rating_kp": "7.818",
+          "vote_num_kp": "12898",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "1326"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1032606",
+      "date": "1593932901",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "NewStudio",
+      "max_qual": "1080",
+      "last_season": "3",
+      "last_episode": "8",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        },
+        "3": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        }
+      },
+      "info": {
+        "rus": "Тьма",
+        "orig": "Dark",
+        "alter": "",
+        "year": "2017",
+        "country": "Германия, США",
+        "director": "Баран бо Одар",
+        "genre": "фантастика,триллер,детектив,драма,криминал",
+        "actors": "Оливер Мазуччи, Каролина Эйхгорн, Йордис Трибель, Луис Хофманн, Майя Шёне, Штефан Кампвирт, Шэйни Атиас, Тамар Пелзиг, Daan Lennard Liebrenz, Андреас Пичман",
+        "description": "История четырёх семей, живущих спокойной и размеренной жизнью в маленьком немецком городке. Видимая идиллия рушится, когда бесследно исчезают двое детей и воскресают тёмные тайны прошлого.",
+        "slogan": "",
+        "premiere": "9 сентября 2017",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1032606.jpg",
+        "rating": {
+          "rating_kp": "8.111",
+          "vote_num_kp": "93158",
+          "rating_imdb": "8.8",
+          "vote_num_imdb": "324677"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1254114",
       "date": "1593928802",
       "camrip": "0",
@@ -64,9 +275,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1178053.jpg",
         "rating": {
           "rating_kp": "6.317",
-          "vote_num_kp": "12123",
+          "vote_num_kp": "12176",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "3064"
+          "vote_num_imdb": "3067"
         }
       }
     },
@@ -293,8 +504,8 @@
         "time": "5880",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1291188.jpg",
         "rating": {
-          "rating_kp": "7.349",
-          "vote_num_kp": "296",
+          "rating_kp": "7.346",
+          "vote_num_kp": "297",
           "rating_imdb": "6.6",
           "vote_num_imdb": "153"
         }
@@ -595,7 +806,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1007422.jpg",
         "rating": {
           "rating_kp": "7.086",
-          "vote_num_kp": "2126",
+          "vote_num_kp": "2128",
           "rating_imdb": "7.6",
           "vote_num_imdb": "13237"
         }
@@ -856,7 +1067,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_41010.jpg",
         "rating": {
           "rating_kp": "6.366",
-          "vote_num_kp": "22711",
+          "vote_num_kp": "22717",
           "rating_imdb": "5.6",
           "vote_num_imdb": "1569"
         }
@@ -1808,184 +2019,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1148374.jpg",
         "rating": {
           "rating_kp": "5.809",
-          "vote_num_kp": "9484",
+          "vote_num_kp": "9498",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "13378"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "44540",
-      "date": "1593688509",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Голубая стрела",
-        "orig": "Голубая стрела",
-        "alter": "",
-        "year": "1959",
-        "country": "СССР",
-        "director": "Леонид Эстрин",
-        "genre": "боевик",
-        "actors": "Андрей Гончаров,Генрих Осташевский,Константин Барташевич,Владимир Волчик,Павел Луспекаев,Алексей Максимов,Юрий Боголюбов,Анвар Тураев,Анатолий Кокорин,Борис Новиков",
-        "description": "Офицер Дудник, уходя с пляжа, выбалтывает своей собеседнице время проведения первого испытания новой модели самолета. Шпионка передает новость по рации &#151; и далее события развиваются по схеме, не предусмотренной советскими воинами&#133;",
-        "slogan": "",
-        "premiere": "26 января 1959",
-        "age": "12",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44540.jpg",
-        "rating": {
-          "rating_kp": "6.393",
-          "vote_num_kp": "1061",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "52"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "6781",
-      "date": "1593688506",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Демон снов",
-        "orig": "Dream Demon",
-        "alter": "",
-        "year": "1988",
-        "country": "Великобритания",
-        "director": "Харли Коклисс",
-        "genre": "ужасы",
-        "actors": "Джемма Редгрейв,Кэтлин Уилхойт,Тимоти Сполл,Джимми Наил,Марк Гринстрит,Сьюзен Флитвуд,Аннабель Лэнйон,Николас Грейс,Патрик О’Коннелл,Эндрю Джонс",
-        "description": "Диана готовится вступить в брак с ветераном Фолклендской войны Оливером. Перед свадьбой она ночует в своём старом семейном особняке. Там девушка находит зеркало, глядя в которое испытывает ужас от жутких видений. Она видит своё прошлое, настоящее и будущее словно в калейдоскопе. И, совершенно не зная, каким образом и почему, Диана встречает американскую туристку Дженни Хофманн, которую уже видела в своих кошмарах.",
-        "slogan": "Two women trapped in a savage nightmare... To escape they must confront the",
-        "premiere": "6 октября 1988",
-        "age": "18",
-        "time": "5160",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjg5NzI0YTctNjllYi00MWEwLTg0ZDMtNGI5MTlhZThjMmYyXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg",
-        "rating": {
-          "rating_kp": "4.975",
-          "vote_num_kp": "124",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "853"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "46660",
-      "date": "1593687610",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мне двадцать лет",
-        "orig": "Мне двадцать лет",
-        "alter": "",
-        "year": "1964",
-        "country": "СССР",
-        "director": "Марлен Хуциев",
-        "genre": "драма",
-        "actors": "Валентин Попов,Николай Губенко,Станислав Любшин,Марианна Вертинская,Зинаида Зиновьева,Светлана Старикова,Лев Прыгунов,Светлана Светличная,Петр Щербаков,Андрей Тарковский",
-        "description": "Вернувшись из армии, 20-летний Сергей устраивается на ТЭЦ и вливается в обычную жизнь. Каждый день он встречается и проводит время с друзьями детства &#151; молодым семьянином Славой и весельчаком Николаем, а однажды с первого взгляда влюбляется в незнакомку в автобусе. Эти ребята &#151; первое поколение советских людей, которое сомневается и ищет своё место в жизни.",
-        "slogan": "",
-        "premiere": "18 января 1965",
-        "age": "12",
-        "time": "10500",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_46660.jpg",
-        "rating": {
-          "rating_kp": "8.116",
-          "vote_num_kp": "12625",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "1288"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "64018",
-      "date": "1593686752",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Плохие спят спокойно",
-        "orig": "Warui yatsu hodo yoku nemuru",
-        "alter": "",
-        "year": "1960",
-        "country": "Япония",
-        "director": "Акира Куросава",
-        "genre": "триллер,драма,криминал",
-        "actors": "Тосиро Мифунэ,Масаюки Мори,Кёко Кагава,Тацуя Михаси,Такаси Симура,Ко Нисимура,Такэси Като,Каматари Фудзивара,Тисю Рю,Сэидзи Миягути",
-        "description": "Послевоенная Япония. Сын мстит за смерть отца, высокопоставленного чиновника, который был вынужден совершить самоубийство, взяв на себя чужую вину в соответствии с заключенным ранее джентльменским соглашением.",
-        "slogan": "",
-        "premiere": "15 сентября 1960",
-        "age": "16",
-        "time": "9060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_64018.jpg",
-        "rating": {
-          "rating_kp": "7.614",
-          "vote_num_kp": "876",
-          "rating_imdb": "8",
-          "vote_num_imdb": "12039"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "54341",
-      "date": "1593686741",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Она не пьет, не курит, не клеит парней, но она... болтает!",
-        "orig": "Elle boit pas, elle fume pas, elle drague pas, mais... elle cause!",
-        "alter": "",
-        "year": "1969",
-        "country": "Франция",
-        "director": "Мишель Одиар",
-        "genre": "комедия,криминал",
-        "actors": "Анни Жирардо,Бернар Блие,Мирей Дарк,Жан Ле Пулен,Сим,Мишлин Люссьони,Анисе Альвина,Жан Карме,Робер Дальбан,Эвелин Дресс",
-        "description": "У Жермен, домработницы, есть три клиента: заместитель кассира в кредитном банке, телеведущая и воспитатель детей. Жермен узнаёт их секреты (довольно непристойные). Умело раскрывая эти секреты, она добивается того, что кассир начинает шантажировать телеведущую, которая начинает шантажировать воспитателя, который начинает шантажировать кассира&#133; и так по кругу.",
-        "slogan": "",
-        "premiere": "17 апреля 1970",
-        "age": "0",
-        "time": "4800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_54341.jpg",
-        "rating": {
-          "rating_kp": "6.488",
-          "vote_num_kp": "140",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "515"
+          "vote_num_imdb": "13387"
         }
       }
     }

@@ -2,6 +2,216 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1107085",
+      "date": "1592605817",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Харли",
+        "orig": "Hurley",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Дерек Додж",
+        "genre": "документальный",
+        "actors": "",
+        "description": "Документальный фильм о легендарном гонщике Харли Хейвуде.",
+        "slogan": "",
+        "premiere": "26 марта 2019",
+        "age": "0",
+        "time": "4980",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWU4ZTcxMmUtMmVmMy00ZTRiLThlNWItM2VlZTI3Y2EzYTAzXkEyXkFqcGdeQXVyNDExMzMxNjE@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": "7",
+          "vote_num_imdb": "70"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1149175",
+      "date": "1592600411",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Дыхание в мрамор",
+        "orig": "Kvepavimas i marmura",
+        "alter": "",
+        "year": "2018",
+        "country": "Хорватия,Латвия,Литва",
+        "director": "Гедре Бейнорюте",
+        "genre": "триллер,драма",
+        "actors": "Airida Gintautaite,Sigitas Sidlauskas,Гуна Зариня,Joris Baltrunas,Криступас Циценас,Aldona Dausiene,Vilius Mincinauskas,Stepas Obolevicius,Юрате Онайтите,Inesa Paliutyte",
+        "description": "Изабеле и Людас &#151; семья интеллигентов, живущая за городом и воспитывающая сына Гайлюса. Изабеле уговорила мужа усыновить из детского дома самого проблемного мальчика Илью. Замкнутый и загадочный, он не вписывается в новую семью и постоянно борется за внимание мамы.",
+        "slogan": "",
+        "premiere": "17 марта 2018",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1149175.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "33",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "67"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1331951",
+      "date": "1592594108",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Мисс Свобода",
+        "orig": "Miss Juneteenth",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Чаннинг Годфри Пиплз",
+        "genre": "драма",
+        "actors": "Николь Бахари,Кендрик Сэмпсон,Alexis Chikaeze,Адам Донахи,Earlisha Hackney,Лори Хэйес,Маркус М. Молдин,Лиз Микель,Маргарет Санчез,Stacey A Sheffield",
+        "description": "Бывшая королева красоты и мать-одиночка готовит свою дочь-бунтарку к конкурсу красоты. Кто станет следующей Мисс Свобода?",
+        "slogan": "",
+        "premiere": "24 января 2020",
+        "age": "0",
+        "time": "6180",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTA5ZWU4ZTYtMGY0ZC00M2FkLTlmODktZDJmNGJjZjdhYzEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "50",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "1678"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1291855",
+      "date": "1592577020",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Чувствуй ритм",
+        "orig": "Feel the Beat",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Элисса Даун",
+        "genre": "драма,комедия,семейный",
+        "actors": "София Карсон,Энрико Колантони,Вольфганг Новограц,Марисса Джэрет Винокур,Дэннис Андрес,Джоанна Колон,Донна Линн Чамплин,Брэндон Кайл Гудман,Рекс Ли,Марсия Беннетт",
+        "description": "Провалив бродвейское прослушивание, эгоцентричная танцовщица неохотно возвращается домой и соглашается тренировать команду юных неудачниц для большого конкурса.",
+        "slogan": "",
+        "premiere": "19 июня 2020",
+        "age": "0",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1291855.jpg",
+        "rating": {
+          "rating_kp": "6.447",
+          "vote_num_kp": "4624",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "9816"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "484746",
+      "date": "1592570287",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ирландский маршрут",
+        "orig": "Route Irish",
+        "alter": "",
+        "year": "2010",
+        "country": "Франция,Великобритания,Италия,Испания,Бельгия",
+        "director": "Кен Лоуч",
+        "genre": "боевик,триллер,драма,военный",
+        "actors": "Марк Вомак,Андреа Лоу,Джон Бишоп,Джофф Белл,Джек Форчун,Талиб Расоол,Крэйг Лундберг,Тревор Уильямс,Расселл Андерсон,Джэми Мичи",
+        "description": "История частного охранника в Ираке, который не принимает официальные объяснения по поводу смерти друга и собирается самостоятельно раскрыть правду.",
+        "slogan": "The most dangerous road in the world conceals an even deadlier secret",
+        "premiere": "20 мая 2010",
+        "age": "0",
+        "time": "6540",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_484746.jpg",
+        "rating": {
+          "rating_kp": "6.081",
+          "vote_num_kp": "257",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "4461"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "734179",
+      "date": "1592566121",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Пихтовое сумасшествие",
+        "orig": "Fir Crazy",
+        "alter": "",
+        "year": "2013",
+        "country": "Канада",
+        "director": "Крэйг Прайс",
+        "genre": "мелодрама,комедия,семейный",
+        "actors": "Сара Ланкастер,Эрик Джонсон,Колин Мохри,Грег Кэлдерон,Инга Кадранел,Джон Брегар,Маркус Боубсич,Ришма Малик,Дуэйн Адамс,Марти Адамс",
+        "description": "С самого детства Элиз Макрейнолдс ненавидит Рождество. Все дело в том, что ее отец &#151; владелец небольшого семейного бизнеса по продаже рождественских елей. Поэтому для Элиз Рождество &#151; это пихтовое сумасшествие, когда она должна была на морозе продавать колючие деревья предвкушающим праздник людям. Элиз уже выросла, а Рождество по-прежнему не любит. Однажды ей пришлось вернуться в родной городок, чтобы вновь помогать отцу на елочном базаре, поскольку тот сломал ногу. Эта поездка станет для Элиз настоящим рождественским чудом.",
+        "slogan": "This Christmas, love is just around the corner",
+        "premiere": "24 ноября 2013",
+        "age": "12",
+        "time": "5220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_734179.jpg",
+        "rating": {
+          "rating_kp": "5.814",
+          "vote_num_kp": "140",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "2156"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "298995",
       "date": "1592565848",
       "camrip": "0",
@@ -99,9 +309,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3468.jpg",
         "rating": {
           "rating_kp": "6.014",
-          "vote_num_kp": "7929",
+          "vote_num_kp": "7944",
           "rating_imdb": "6",
-          "vote_num_imdb": "32642"
+          "vote_num_imdb": "32692"
         }
       }
     },
@@ -289,8 +499,8 @@
         "time": "6060",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_447653.jpg",
         "rating": {
-          "rating_kp": "4.251",
-          "vote_num_kp": "27923",
+          "rating_kp": "4.25",
+          "vote_num_kp": "27929",
           "rating_imdb": "4.6",
           "vote_num_imdb": "1081"
         }
@@ -768,9 +978,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_16992.jpg",
         "rating": {
           "rating_kp": "7.412",
-          "vote_num_kp": "13297",
+          "vote_num_kp": "13299",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "57700"
+          "vote_num_imdb": "57718"
         }
       }
     },
@@ -1223,7 +1433,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_859919.jpg",
         "rating": {
           "rating_kp": "4.105",
-          "vote_num_kp": "4253",
+          "vote_num_kp": "4290",
           "rating_imdb": "5.3",
           "vote_num_imdb": "9834"
         }
@@ -1375,9 +1585,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115132.jpg",
         "rating": {
           "rating_kp": "7.527",
-          "vote_num_kp": "3214",
+          "vote_num_kp": "3218",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "16298"
+          "vote_num_imdb": "16313"
         }
       }
     },
@@ -1431,8 +1641,8 @@
         "time": "3120",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_574907.jpg",
         "rating": {
-          "rating_kp": "7.693",
-          "vote_num_kp": "18081",
+          "rating_kp": "7.692",
+          "vote_num_kp": "18093",
           "rating_imdb": "6.8",
           "vote_num_imdb": "196"
         }
@@ -1828,220 +2038,10 @@
         "time": "6180",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843242.jpg",
         "rating": {
-          "rating_kp": "7.108",
-          "vote_num_kp": "3646",
+          "rating_kp": "7.109",
+          "vote_num_kp": "3663",
           "rating_imdb": "6.6",
           "vote_num_imdb": "57"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1189853",
-      "date": "1592412307",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Отель у озера",
-        "orig": "Hotel reikeu",
-        "alter": "",
-        "year": "2020",
-        "country": "Корея Южная",
-        "director": "Юн Ын-гён",
-        "genre": "ужасы,детектив",
-        "actors": "Ли Сэ-ён,Пак Чи-ён,Пак Со-и,Со Ён-джу,Чон Су-джи,Пак Хё-джу,Мун Чхан-гиль,Ё Джун-хван,Ван Сок-хён,Ким Бо-юн",
-        "description": "Старшая сестра отвозит младшую к подруге матери в отель у озера, где начинают происходить странные события.",
-        "slogan": "",
-        "premiere": "29 апреля 2020",
-        "age": "0",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1189853.jpg",
-        "rating": {
-          "rating_kp": "5.453",
-          "vote_num_kp": "428",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "319"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1385217",
-      "date": "1592411410",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Всё возможно. История Сержа Ибаки",
-        "orig": "Anything is Possible: A Serge Ibaka Story",
-        "alter": "",
-        "year": "2019",
-        "country": "Канада",
-        "director": "Travis Wood",
-        "genre": "документальный",
-        "actors": "Serge Ibaka",
-        "description": "Серж Ибака рос в бедности и иногда жил на улицах Браззавиля. Его мама умерла, когда ему было 7, отец попал в тюрьму, когда ему было 12. Несмотря на эти невероятные трудности, он исполнил свою мечту и стал чемпионом НБА. Этот фильм рассказывает о поездке Сержа домой в Конго вместе с кубком чемпиона, но что ещё важнее, фильм доказывает: если хочешь чего-то добиться и идёшь к цели, всё возможно.",
-        "slogan": "",
-        "premiere": "12 декабря 2019",
-        "age": "0",
-        "time": "2820",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZGIwZjI5YWMtMDYxNC00NTFiLWE4NzUtZjFhNTRkNDFiN2FlXkEyXkFqcGdeQXVyMjk4NTI1Mzc@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "1",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "39"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1367803",
-      "date": "1592411406",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Тысяча лиц Дуньцзя",
-        "orig": "Qi men dun jia",
-        "alter": "",
-        "year": "2020",
-        "country": "Китай",
-        "director": "Сян Хшэн,Сян Цюлян",
-        "genre": "боевик,фэнтези",
-        "actors": "Хэ Пэн,Эдди Ко,Диди Линь,Юе Синь,Сунь Цзяолун,Ван Хунцянь,Xu Shaohang,Hao Wu,Jun Yang,Weifeng Rong",
-        "description": "После того, как члены Туманной Секты, спасают простого городского стража Чжоу Туна от неминуемой смерти, он получает в дар некую реликвию под названием \"Цзя\", обучившись владению которой, он сможет подчинить себе древнее волшебство Цимэнь Дунь Цзя и отомстить за отца, сразив самого Царя Демонов Хого.",
-        "slogan": "",
-        "premiere": "19 марта 2020",
-        "age": "0",
-        "time": "5040",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1367803.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "78",
-          "rating_imdb": "6",
-          "vote_num_imdb": "194"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1272276",
-      "date": "1592404213",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Свет",
-        "orig": "The Light",
-        "alter": "",
-        "year": "2019",
-        "country": "Австралия",
-        "director": "Zack Inglis",
-        "genre": "ужасы,триллер,детектив",
-        "actors": "Matthew Arnold,Rosie Oliver,Max Gipson,Kane Anamwong,Samuel Ireland,Claudia Haines-Cappeau,Nicola Kinnane,Mariah O'Dea,Helen Vogiatzakis,Jamie Smith",
-        "description": "В маленьком городке Австралии появляется банда головорезов и начинает терроризировать группу подростков. На что пойдут ребята, чтобы выжить?",
-        "slogan": "Everybody knows everybody",
-        "premiere": "27 октября 2019",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://m.media-amazon.com/images/M/MV5BODAyMTFjMTUtMWY3MS00ZjRlLThhNGEtOWJlNjkwNTEwY2RkXkEyXkFqcGdeQXVyNTAxMTUwNDQ@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "7",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "38"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "78571",
-      "date": "1592388911",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Повар",
-        "orig": "Bawarchi",
-        "alter": "",
-        "year": "1972",
-        "country": "Индия",
-        "director": "Ришикеш Мукхерджи",
-        "genre": "мюзикл,драма,комедия,семейный",
-        "actors": "Раджеш Кханна,Джая Бхадури,Уша Киран,Хариндранатх Чаттопадхяй,А.К. Хангал,Дурга Кхоте,Асрани,Кали Баннерджи,Пайнтал,Раджу Шреста",
-        "description": "Старый Шивнатх возглавлял семью Шарма, но его положение приносило ему больше проблем, чем преимуществ. Семья была большая &#151; взрослые сыновья, их жены и дети, внучка Кришна, которая потеряла родителей в автомобильной катастрофе. Тем не менее, все это составляло семью, разобщенную не по своей воле, страдавшую от разногласий и дисгармонии. \r\n\r\nКогда ситуация в семье достигла апогея, Шивнатх был вынужден смотреть на происходящее с тревогой и беспомощностью, поскольку он боялся, что его дом, его семья разлетятся как колода карт. Когда все, казалось, было потеряно, в доме вдруг появился новый повар. Приготовленные им блюда всегда были по меньшей мере восхитительны, но это был не простой повар&#133;",
-        "slogan": "",
-        "premiere": "7 июля 1972",
-        "age": "0",
-        "time": "7800",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NDIyNzAwOV5BMl5BanBnXkFtZTgwMjk3ODM3NDE@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "40",
-          "rating_imdb": "8",
-          "vote_num_imdb": "3887"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8307",
-      "date": "1592388907",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Леди из Шанхая",
-        "orig": "The Lady from Shanghai",
-        "alter": "",
-        "year": "1947",
-        "country": "США",
-        "director": "Орсон Уэллс",
-        "genre": "триллер,детектив,драма,криминал",
-        "actors": "Рита Хэйворт, Орсон Уэллс, Эверет Слоун, Гленн Андерс, Тед де Корсия, Эрскин Сэнфорд, Гас Шиллинг, Карл Фрэнк, Луис Мэрилл, Эвелин Эллис",
-        "description": "На пустынной ночной аллее нью-йоркского Сентрал Парка Майкл О`Хара расшвыривает бандитов, напавших на Розали Баннистер. Гигант с лицом ребёнка, безработный моряк, он привлекает её своей первобытной мощью, и она предлагает Майклу работу на яхте мужа, преуспевающего адвоката, искалеченного полиомелитом калеки.\r\n\r\nСражённый наповал роковой блондинкой, О’Хара отправляется в плавание. В пути Гризби, деловой партнер Баннистера, обращается к Майклу с весьма загадочным предложением - помочь инсценировать его убийство, для того чтобы тот мог исчезнуть и получить огромную страховку.\r\n\r\nГризби обещает заплатить $5000, с такими деньгами Майкл и Розали смогут бежать и начать новую жизнь. Майкл соглашается и... практически подписывает себе смертный приговор.",
-        "slogan": "One who keeps his nature keeps his original nature in the end",
-        "premiere": "24 декабря 1947",
-        "age": "0",
-        "time": "5220",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNWZkNTYxZjQtN2IwZi00OGExLTg3ZDEtODNjMDFkN2Y5Y2NkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg",
-        "rating": {
-          "rating_kp": "7.57",
-          "vote_num_kp": "3311",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "28798"
         }
       }
     }

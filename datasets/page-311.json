@@ -2,6 +2,181 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "900615",
+      "date": "1594191592",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ликвидаторы",
+        "orig": "Eliminators",
+        "alter": "",
+        "year": "2016",
+        "country": "Великобритания, США",
+        "director": "Джеймс Нанн",
+        "genre": "боевик",
+        "actors": "Скотт Эдкинс, Стю Беннет, Даниэль Кальтаджироне, Джеймс Космо, Ти Глейсер, Оливия Мейс, Мем Ферда, Стивен Маркус, Ник Неверн, Lily Ann Stubbs",
+        "description": "Бывший агент ФБР должен выйти из программы защиты свидетелей, когда в его дом ошибочно вламываются. Это событие заканчивается несколькими трупами и освещается в новостях, и за ним посылают самого опасного наемника в Европе. На кону оказывается жизнь его дочери, теперь отец должен спасти ее, пока за ней не пришли те, кто начал охоту на него.",
+        "slogan": "",
+        "premiere": "6 декабря 2016",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_900615.jpg",
+        "rating": {
+          "rating_kp": "5.5",
+          "vote_num_kp": "929",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "4091"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "20159",
+      "date": "1594191335",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Двухголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Там, где покоится зло",
+        "orig": "Where Sleeping Dogs Lie",
+        "alter": "",
+        "year": "1991",
+        "country": "США",
+        "director": "Чарльз Финч",
+        "genre": "триллер,криминал,детектив",
+        "actors": "Дилан МакДермотт,Том Сайзмор,Шэрон Стоун,Рон Карабацос,Чарльз Финч,Мэри Воронов,Дэвид К. Комбс,Ванна Бонта,Элизабет Уиткрафт,Фиби Стоун",
+        "description": "Молодой писатель с трудом сводит концы с концами и вынужден зарабатывать на жизнь, продавая недвижимость. Одним из его заданий становится продать дом, где, как он выясняет, произошло убийство. Переехав туда, он начинает писать роман «Дневник убийцы», который неожиданно становится зловещей автобиографией.",
+        "slogan": "The truth won't lie still forever",
+        "premiere": "13 ноября 1991",
+        "age": "16",
+        "time": "5700",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2FjOWQ5ODYtNWM2Mi00MzJjLTgwYjUtNmNhZDYxODc3MDRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg",
+        "rating": {
+          "rating_kp": "5.776",
+          "vote_num_kp": "274",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "905"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "972125",
+      "date": "1594163715",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Подсматривающий",
+        "orig": "Browse",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Майк Тестин",
+        "genre": "триллер",
+        "actors": "Лукас Хаас,Сара Рафферти,Хлоя Бриджес,Эллисон Данбар,Бодхи Элфмэн,Джоселин Донахью,Кен Кирби,Скотт Бэйли,Люк Спенсер Робертс,Мэтт Мерсер",
+        "description": "Одинокий мужчина уверяет себя, что кто-то взломал все его электронные устройства и с их помощью манипулирует им.",
+        "slogan": "",
+        "premiere": "7 июля 2020",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTliMmJlMjMtMGQ4My00ZjlkLTljNWYtZGQzM2FlNjZkMTI2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "24",
+          "rating_imdb": "3.5",
+          "vote_num_imdb": "154"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1391012",
+      "date": "1594163710",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Элвис из дальнего космоса",
+        "orig": "Elvis from Outer Space",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Марв Силверман,Tracy Wuischpard",
+        "genre": "фантастика,комедия,приключения",
+        "actors": "Мартин Коув,Александр Баттерфилд,Фрэнк Кавестани,Дэвид Хэвенер,Дайан Янг,Роберт Миано,Лорен-Элейн Пауэлл,Бэрри Дж. Ретклифф,George Thomas",
+        "description": "Джон Берроуз участвует в знаменитом конкурсе Двойников Элвиса из семидесятых и оказывается так хорош, что остальные участники начинают подозревать неладное. Неужели ЦРУ и пришельцы с Альфа Центавра вернули настоящего Элвиса в Лас-Вегас?",
+        "slogan": "",
+        "premiere": "7 июля 2020",
+        "age": "0",
+        "time": "5460",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmY5NjUyYmMtM2EzZC00ZGUxLWE1OWItMmJjMjdhMGIyZmFiXkEyXkFqcGdeQXVyNDA3MDgzOTQ@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "4.1",
+          "vote_num_imdb": "90"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1236546",
+      "date": "1594160105",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Могучий дуб",
+        "orig": "Mighty Oak",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Шон МакНамара",
+        "genre": "драма,комедия",
+        "actors": "Алекса ПенаВега,Рэйвен,Джанел Пэрриш,Карлос ПенаВега,Шон МакНамара,Ник Спано,Бен Милликен,Нана Гана,Томас Каспрович,Дэна Пан",
+        "description": "Через много лет после смерти брата, Джина встречает мальчика – гениального гитариста, который может оказаться реинкарнацией её покойного брата.",
+        "slogan": "It Was His Music. But Was it His Soul?",
+        "premiere": "5 июня 2020",
+        "age": "0",
+        "time": "6120",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1236546.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "28",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "148"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1295414",
       "date": "1594156514",
       "camrip": "0",
@@ -724,8 +899,8 @@
         "time": "5700",
         "poster": "https://m.media-amazon.com/images/M/MV5BYmIxMTdmOWYtMjRkZS00ZjM5LWJjZTYtMTM3Y2NmNzQ3NDJiXkEyXkFqcGdeQXVyNjg0ODE1ODE@.jpg",
         "rating": {
-          "rating_kp": "7.132",
-          "vote_num_kp": "1871",
+          "rating_kp": "7.134",
+          "vote_num_kp": "1873",
           "rating_imdb": "7.1",
           "vote_num_imdb": "12675"
         }
@@ -865,7 +1040,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_66082.jpg",
         "rating": {
           "rating_kp": "7.883",
-          "vote_num_kp": "2381",
+          "vote_num_kp": "2382",
           "rating_imdb": "7.9",
           "vote_num_imdb": "6887"
         }
@@ -1285,7 +1460,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45214.jpg",
         "rating": {
           "rating_kp": "8.178",
-          "vote_num_kp": "24726",
+          "vote_num_kp": "24737",
           "rating_imdb": "7.9",
           "vote_num_imdb": "369"
         }
@@ -1603,217 +1778,6 @@
           "vote_num_kp": "9",
           "rating_imdb": "5.7",
           "vote_num_imdb": "106"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1291860",
-      "date": "1593988205",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Моя поп-группа",
-        "orig": "La mia banda suona il pop",
-        "alter": "",
-        "year": "2020",
-        "country": "Италия",
-        "director": "Фаусто Брицци",
-        "genre": "комедия",
-        "actors": "Кристиан Де Сика,Массимо Гини,Анджела Финоккьяро,Паоло Росси,Наташа Стефаненко,Ринат Хисматулин,Диего Абатантуоно,Фабрицио Нарди,Нико Ди Ренцо,Джулио Базе",
-        "description": "Русский олигарх мечтает воссоединить в Петербурге известную итальянскую группу Popcorn, которую любит уже много лет.",
-        "slogan": "",
-        "premiere": "20 февраля 2020",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZjlmNDgwOGUtNTRlZS00NTcxLTg3MTQtZWZkYmJiZjczZTYxXkEyXkFqcGdeQXVyMTY5OTQzNzY@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "15",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "173"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "996440",
-      "date": "1593933710",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "3:15 ночи",
-        "orig": "3:15 am",
-        "alter": "",
-        "year": "2018",
-        "country": "Франция",
-        "director": "Fabien Delage,Nicolas Delage,Divine",
-        "genre": "ужасы",
-        "actors": "Lola Dubus,Nicolas Lancelin,L&eacute;o Pochat,Мэтью Лурдел,Аврора Шеффер,Кия,Julia Gratens,Magali Dero&iuml;an-Banoun,Marie-Claire Ar&egrave;nes,Мелани Задех",
-        "description": "Шесть историй произошли в одно и то же время ночи. Шесть историй так не похожих на друг друга. Шесть историй и каждая будоражит.",
-        "slogan": "No one escapes the witching hour",
-        "premiere": "31 октября 2018",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjNhM2JlMTktOWEyZS00ZmM2LTlkOWMtYzFmMGFkMjZkODQyXkEyXkFqcGdeQXVyNjQxMTgxODg@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "32",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "138"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1178826",
-      "date": "1593933613",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Эма: Танец страсти",
-        "orig": "Ema",
-        "alter": "",
-        "year": "2019",
-        "country": "Чили",
-        "director": "Пабло Ларраин",
-        "genre": "драма,музыка",
-        "actors": "Мариана Ди Джироламо,Гаэль Гарсиа Берналь,Сантьяго Кабрера,Хосефина Фьебелькорн,Джаннина Фруттеро,Паола Джаннини,Антония Гизен,Сусана Идальго,Паула Хофманн,Мариана Лойола",
-        "description": "После того, как шокирующий инцидент разрушает ее брак с хореографом Гастоном, танцовщица Эма погружается в мир реггетона &#151; уличного танцевального и музыкального стиля. Новый творческий путь становится для нее одиссеей страсти, желания, освобождения и обретения себя.",
-        "slogan": "",
-        "premiere": "31 августа 2019",
-        "age": "18",
-        "time": "6420",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1178826.jpg",
-        "rating": {
-          "rating_kp": "6.12",
-          "vote_num_kp": "1456",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "7441"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "44394",
-      "date": "1593933406",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дежа вю",
-        "orig": "Дежа вю",
-        "alter": "",
-        "year": "1989",
-        "country": "Польша, СССР",
-        "director": "Юлиуш Махульский",
-        "genre": "комедия,криминал",
-        "actors": "Ежи Штур, Владимир Головин, Николай Караченцов, Виктор Степанов, Галина Петрова, Олег Шкловский, Лиза Махульская, Василий Мищенко, Владимир Белоусов, Всеволод Сафонов",
-        "description": "20-е годы. В Америке сухой закон. Подпольные торговцы спиртным, которые понесли убытки из-за предательства некоего Микк Нича - Микиты Ничипорука, решают ему отомстить.\r\n\r\nВ поисках своей жертвы наемный убийца прибывает в Одессу, где Ничипорук организовал самогонный бизнес. И тут у киллера возникают непредвиденные трудности. Одесса - это вам не Америка!..",
-        "slogan": "",
-        "premiere": "18 апреля 1990",
-        "age": "12",
-        "time": "6480",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44394.jpg",
-        "rating": {
-          "rating_kp": "7.818",
-          "vote_num_kp": "12898",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "1326"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1032606",
-      "date": "1593932901",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "NewStudio",
-      "max_qual": "1080",
-      "last_season": "3",
-      "last_episode": "8",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080
-        },
-        "3": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080
-        }
-      },
-      "info": {
-        "rus": "Тьма",
-        "orig": "Dark",
-        "alter": "",
-        "year": "2017",
-        "country": "Германия, США",
-        "director": "Баран бо Одар",
-        "genre": "фантастика,триллер,детектив,драма,криминал",
-        "actors": "Оливер Мазуччи, Каролина Эйхгорн, Йордис Трибель, Луис Хофманн, Майя Шёне, Штефан Кампвирт, Шэйни Атиас, Тамар Пелзиг, Daan Lennard Liebrenz, Андреас Пичман",
-        "description": "История четырёх семей, живущих спокойной и размеренной жизнью в маленьком немецком городке. Видимая идиллия рушится, когда бесследно исчезают двое детей и воскресают тёмные тайны прошлого.",
-        "slogan": "",
-        "premiere": "9 сентября 2017",
-        "age": "0",
-        "time": "3600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1032606.jpg",
-        "rating": {
-          "rating_kp": "8.111",
-          "vote_num_kp": "93072",
-          "rating_imdb": "8.8",
-          "vote_num_imdb": "324542"
         }
       }
     }
