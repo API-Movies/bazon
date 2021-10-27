@@ -2,6 +2,588 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "4399461",
+      "date": "1627116067",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Тропа большой кошки",
+        "orig": "Big Cat Trail",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Бо Йотти",
+        "genre": "ужасы,триллер,комедия",
+        "actors": "Бо Йотти,Лиза Барнс,Катрина Ф Келли,Stew Jetson,Джим Перри,Sophia Okonsky,Frank Haraksin,Billy Brandes,Kyle Kane,Jeff Serdy",
+        "description": "Небольшая компания друзей отправляется в поход, чтобы отдохнуть от повседневной жизни. Наслаждаясь великолепными видами, они не подозревают, какая опасность им грозит. Один за другим молодые люди становятся жертвами кровожадного прирожденного убийцы.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "4560",
+        "poster": "https://thumbs.filmix.tech/posters/0531/orig/tropa-bolshoy-koshki-2021_152812.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": "3.1",
+          "vote_num_imdb": "106"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1389910",
+      "date": "1627115837",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Оборотень",
+        "orig": "Skinwalker",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Роберт Конуэй",
+        "genre": "триллер,вестерн",
+        "actors": "Ева Хэмилтон,Камерон Котечки,Амелия Хаберман,Дэн Хиггинс,Дэниэл Линк,Charlie E Motley,Натаниэл Бёрнс,Liz Manning,Викторио Поуп,Jeff Yazzie",
+        "description": "Разграбив древнее индейское захоронение, двое трапперов случайно освобождают зловещий дух давно умершего индейского шамана, который может вселяться в любое живое существо.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://thumbs.filmix.tech/posters/3322/orig/oboroten-2021_152648.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1393423",
+      "date": "1627115755",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Дом на карантине",
+        "orig": "House of Quarantine",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Митеш Кумар Патель",
+        "genre": "триллер",
+        "actors": "Drew Leatham,Philip P Carlisle,Zoey Walker,Dylan Garcia,Nathan Gayan,Kelcie Weber,James Chavez,Rachel Grace,Chelsea Nicole Howard,Kevin Brown",
+        "description": "Девять человек собираются в одном доме во время пандемии, чтобы снять фильм. После того, как они узнают, что один из них болен, их пребывание в доме превращается в борьбу не на жизнь, а на смерть.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "4860",
+        "poster": "https://thumbs.filmix.tech/posters/0033/orig/dom-na-karantine-2020_152837.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1024648",
+      "date": "1627115661",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "За наблюдениями",
+        "orig": "Behind the Sightings",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Tony Cadwell",
+        "genre": "документальный,ужасы,триллер",
+        "actors": "Jessica Smith,Todd Smith",
+        "description": "Молодая пара супругов-кинематографистов из Северной Каролины, Тодд и Джессика Смит, приступив к созданию документального фильма, в котором они намерены рассказать о странных типах, наряжающихся злобными клоунами, в процессе осознает, что они не просто так наряжены - они реально злобные. Да и вообще маньяки и убийцы.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "4860",
+        "poster": "https://thumbs.filmix.tech/posters/0536/orig/za-nablyudeniyami-2021_152842.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "3",
+          "rating_imdb": "3.4",
+          "vote_num_imdb": "169"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1052834",
+      "date": "1627115422",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "За сценой",
+        "orig": "Offstage Elements",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Фрэнк Лиси",
+        "genre": "драма",
+        "actors": "Майк Старр,Тони Дарроу,Кристофер Манн,Кристина Апонте,Брайан Энтони Уилсон,Карен Джордано,Буч О’Коннелл,Victoria Stevens,Elizabeth Gaynor,Майкл МакФедден",
+        "description": "Пятеро талантливых мужчин среднего возраста больше десяти лет играют в хэви-метал-группе Brass Angel, которую возглавляет вокалист Вик. Поборов позднюю стадию рака, Вик возвращается к своим товарищам, оставив репутацию разгильдяя в прошлом. На сцене он объявляет своим давним поклонникам и участникам группы, что изменился и стал набожным христианином.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "6420",
+        "poster": "https://thumbs.filmix.tech/posters/4057/orig/za-scenoy-2019_152845.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1326496",
+      "date": "1627114500",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Кем я стала?",
+        "orig": "Who Am I Now?",
+        "alter": "",
+        "year": "2021",
+        "country": "Канада",
+        "director": "Louise Lathey",
+        "genre": "драма",
+        "actors": "Барбара Билл,Cameron Paisley,Джоэнна Гаскелл,Alethea Sholomenko,Raphael Lecat,Alicia c. Snee,Elizabeth Young",
+        "description": "Эрин и Алекс знакомятся в курортном городке и сразу же испытывают друг к другу симпатию, неизвестную им до этого. Алекс пытается разобраться в своих чувствах, а Эрин просто подавляет их, не желая признаться, что она любит женщин. Однако, такое отрицание делает их обеих несчастными, наполняет фрустрацией и приводит на путь саморазрушения.",
+        "slogan": "Come out and find yourself",
+        "premiere": "",
+        "age": "0",
+        "time": "5520",
+        "poster": "https://thumbs.filmix.tech/posters/2955/orig/kem-ya-stala-2021_152860.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1210378",
+      "date": "1627114388",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Побег из 2120",
+        "orig": "Escape 2120",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Brian K Bennett",
+        "genre": "фантастика",
+        "actors": "Edward Pritchard,Samantha Ipema,Розмари Пачеко,Paul Kandarian,Дэвид Аффлик,Ulisses Gonsalves,Доминик Кансельер,Шила Болл,Grayson Alexander Miller,Пол Кулис",
+        "description": "Дэйв получает доступ к технологии, позволяющей путешествовать в будущее, используя для этого состояние анабиоза. Но оказавшись в утопическом мире будущего ему придётся столкнуться с гонениями, так как жители этого времени уверены, что он дитя дьявола.",
+        "slogan": "It&#x27;s not where they are going, but when",
+        "premiere": "",
+        "age": "0",
+        "time": "6420",
+        "poster": "https://thumbs.filmix.tech/posters/0741/orig/pobeg-iz-2120-2020_152864.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1001304",
+      "date": "1627114299",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Странновуд",
+        "orig": "Hóllyweird",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Edwin Porres",
+        "genre": "комедия",
+        "actors": "Коуди Рени Камерон,Джейсон Стюарт,Дуглас Спэйн,Michael J. Knowles,Нума Перьер,Бритни Янблад,Санчо Мартин,Рича Шукла,Людвиг Манукян,Дебора Дир",
+        "description": "Два латиноамериканца-аутсайдера пытаются пережить странности голливудского уклада жизни. Одному приходится лгать самому себе, а другому - всему миру.",
+        "slogan": "Some people lie to themselves, other people lie to the world. (Alguna gente se miente, otra gente miente al mundo)",
+        "premiere": "",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://thumbs.filmix.tech/posters/0956/orig/strannovud-2019_152865.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1183652",
+      "date": "1627112886",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Лотерея Страхования Жизни",
+        "orig": "Life Insurance Lottery",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Чак Норфолк",
+        "genre": "комедия",
+        "actors": "Том Лонг,Хейли Хасси,Брэд Поттс,Бразил Джозеф Грисаффи III,Chaney Moore,Лоуренс МакФерсон,Gary Smith,Victoria Yap,Steve Joseph,Роб Мангл",
+        "description": "Неудачник, мечтающий о жизни на острове, вступает в клуб, который соответствует всем его мечтам. Однако, когда его друзья начинают умирать, ему приходится встать перед выбором: заработать больше денег или поймать убийцу.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://thumbs.filmix.tech/posters/1623/orig/lotereya-strahovaniya-zhizni-2019_152867.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1440217",
+      "date": "1627112543",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Просвет",
+        "orig": "Alleyway",
+        "alter": "",
+        "year": "2021",
+        "country": "ЮАР",
+        "director": "Henry Charly",
+        "genre": "боевик,триллер,криминал",
+        "actors": "Luthuli Dlamini,Джек Денварейн,Renos Spanoudes,Bheki Nkosi,Thabisile Zikhali",
+        "description": "Полицейский под прикрытием раскрывает масштабный заговор, в результате которого погибли сотни ВИЧ-инфицированных. Однако вместо вознаграждения он получает тюремный срок по сфабрикованному делу. Но расследование продолжается, как только блюститель порядка оказывается на свободе.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "4080",
+        "poster": "https://thumbs.filmix.tech/posters/2230/orig/prosvet-2021_152877.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "869065",
+      "date": "1627112403",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Странное соседство",
+        "orig": "Strange Company",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Льюис Лесли",
+        "genre": "триллер",
+        "actors": "Билл Оберст мл.,Andrew J Katers,Нисса Фон Рейтер,Чарльз А. Бейрд,Amirah Lee Counts,Kendra Buck,Kate Lowell,Patrick R. Ring,Lily Clibon,Carter J. Cain",
+        "description": "После личной трагедии Коул уезжает в глубинку и живёт один на старой ферме. Однажды у него на пороге появляется странная девушка, которая утверждает, что после яркой вспышки все люди пропали и они единственные, кто остался на Земле. Поняв, что это правда, он пытается решить, как жить дальше и как побороть внутренних демонов.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "4080",
+        "poster": "https://thumbs.filmix.tech/posters/3557/orig/strannoe-sosedstvo-2021_152879.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "4",
+          "rating_imdb": "3",
+          "vote_num_imdb": "34"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1140301",
+      "date": "1627111447",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "480",
+      "info": {
+        "rus": "Исход",
+        "orig": "Exodus",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Логан Стоун",
+        "genre": "фантастика",
+        "actors": "Джими Стэнтон,Джанелл Сноу,Чарльз Гарднер,Джеймс Маккинни,Ханна Клопфер,Закари Госсетт,Дэн Гонон,Грэйс Барнс,Кит Джардин,Джиланне Клаус",
+        "description": "Недалекое будущее. Мир после катастрофы, где безжалостный тоталитарный режим поглощает безумие хаоса. Однажды в руки надсмотрщика Коннора попадает старая VHS-кассета, на которой он находит доказательство существования портала, ведущего в рай. Коннор, бросив все, покидает свой унылый город и отправляется на поиски счастья. По следу Коннора идет лучшая охотница за дезертирами, у которой есть свои планы на портал. Они будут оставаться партнерами, пока это будет выгодно обоим.",
+        "slogan": "The Rapture left them behind. The portal is their last chance",
+        "premiere": "1 апреля 2021",
+        "age": "16",
+        "time": "4500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1140301.jpg",
+        "rating": {
+          "rating_kp": "3.933",
+          "vote_num_kp": "1559",
+          "rating_imdb": "2.7",
+          "vote_num_imdb": "287"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "956189",
+      "date": "1627111004",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ограбление по-джентльменски",
+        "orig": "The Misfits",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Ренни Харлин",
+        "genre": "боевик,триллер,приключения",
+        "actors": "Пирс Броснан,Джейми Чон,Тим Рот,Гермиона Корфилд,Ник Кэннон,Pirat Nithipaisarnsakul,Гонсало Менендес,Адам Стоун,Сэм Калиди,Дэвид Батчелор",
+        "description": "После дерзкого побега из тюрьмы самый известный вор в мире Ричард Пейс заключает сделку с «Командой изгоев», которые грабят богатых и отдают деньги бедным. Под началом бывалого вора-джентльмена новые Робин Гуды нацеливаются на крупнейшее хранилище золотых слитков в мире, владелец которого — Уорнер Шольц — отмывает деньги международных преступников, а по совместительству является давним врагом Пейса. Грабить они будут красиво, задорно и со вкусом — по-джентльменски.",
+        "slogan": "",
+        "premiere": "10 июня 2021",
+        "age": "16",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_956189.jpg",
+        "rating": {
+          "rating_kp": "4.771",
+          "vote_num_kp": "4010",
+          "rating_imdb": "4.2",
+          "vote_num_imdb": "6773"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1427597",
+      "date": "1627083007",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Сердце надежды",
+        "orig": "Heart of Hope",
+        "alter": "",
+        "year": "2021",
+        "country": "Великобритания",
+        "director": "Roydon Turner",
+        "genre": "драма,семейный",
+        "actors": "Colin Blyth,Сара Ли,Шон Нопп,Georgina Hellier,Линда Джин Барри,Connie Kiss Mee,Renato de Fazio",
+        "description": "Айрис - восьмилетняя девочка, которая хочет стать профессиональной балериной, но из-за больного сердца не может танцевать. Болезнь внезапно прогрессирует и весь мир оборачивается против нее. Получится ли у нее пройти прослушивание с помощью лучшего друга и бабушки, семи цветов радуги и собственного богатого воображения? Найдет ли она способ осуществить свою мечту?",
+        "slogan": "",
+        "premiere": "27 июля 2021",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTAyOGFhMDYtMjVkZi00YzM3LTgzNjQtYTMzMDBkMThkYThlXkEyXkFqcGdeQXVyMjU2MDQ0OTA@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "3",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1291223",
+      "date": "1627056017",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "end": "0",
+      "quality": "SATRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "16",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 480,
+          "14": 480,
+          "15": 480,
+          "16": 480
+        }
+      },
+      "info": {
+        "rus": "Хозяйка горы",
+        "orig": "Хозяйка горы",
+        "alter": "",
+        "year": "2020",
+        "country": "Россия",
+        "director": "Екатерина Двигубская",
+        "genre": "мелодрама",
+        "actors": "Анна Снаткина,Виктория Толстоганова,Сергей Перегудов,Евгений Пронин,Дмитрий Власкин,Наталья Аринбасарова,Анастасия Куимова,Олег Вебер,Вероника Пляшкевич,Алексей Коряков",
+        "description": "Небольшой шахтерский поселок Каменный, 90-е годы. Здесь каждый знает легенду о Хозяйке горы — зеленоглазой княжне Марии Тумановой, бывшей владелице изумрудных приисков, которая получила прозвище Василиска. Туманова спрятала в поселке свои сокровища, а перед смертью прокляла всех, кто посмеет ими завладеть… Долгие годы местные с осторожностью произносят даже имя княжны. И только 17-летняя красавица Аленка Кошкина дерзко бросает вызов колдовству Василиски. В тот же день отец девушки находит в шахте шкатулку с драгоценностями. Эта находка приносит жителям одни несчастья. Кто же сможет противостоять колдовству и вернуть счастье и любовь?",
+        "slogan": "",
+        "premiere": "19 июля 2021",
+        "age": "12",
+        "time": "3120",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1291223.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1641",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1322536",
+      "date": "1627053613",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Фильм о любви",
+        "orig": "The Big Love Picture",
+        "alter": "",
+        "year": "2019",
+        "country": "Аргентина",
+        "director": "Sebastián Mega Díaz",
+        "genre": "мелодрама,комедия",
+        "actors": "Гильермо Пфенинг,Николас Фуртадо,Натали Перез,Мария Канале,Джульета Валлина,Ванеса Батера,Pablo Toporosi,Juan Nemirovsky",
+        "description": "Режиссер и актриса, чьи чувства однажды вспыхнули на съемочной площадке, осознают, что их любовь уже не та, что прежде. Паре предстоит преодолеть множество трудностей, чтобы снова разжечь, казалось бы, погасшую искру.",
+        "slogan": "",
+        "premiere": "7 ноября 2019",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDlkM2RkMGMtMWZlZS00NWQ4LTllY2ItNjIyZDYyYjU0NWEwXkEyXkFqcGdeQXVyMjg3MzM4NTU@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "59"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1152254",
       "date": "1627053609",
       "camrip": "0",
@@ -343,10 +925,10 @@
         "time": "7200",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1188841.jpg",
         "rating": {
-          "rating_kp": "5.482",
-          "vote_num_kp": "223",
+          "rating_kp": "5.545",
+          "vote_num_kp": "225",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "187"
+          "vote_num_imdb": "188"
         }
       }
     },
@@ -582,10 +1164,10 @@
         "time": "2580",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_817506.jpg",
         "rating": {
-          "rating_kp": "7.535",
-          "vote_num_kp": "96331",
+          "rating_kp": "7.534",
+          "vote_num_kp": "96395",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "326033"
+          "vote_num_imdb": "326079"
         }
       }
     },
@@ -725,7 +1307,7 @@
           "rating_kp": "6.718",
           "vote_num_kp": "340",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "1630"
+          "vote_num_imdb": "1640"
         }
       }
     },
@@ -830,7 +1412,7 @@
           "rating_kp": "0",
           "vote_num_kp": "1",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "84"
+          "vote_num_imdb": "85"
         }
       }
     },
@@ -865,7 +1447,7 @@
           "rating_kp": "0",
           "vote_num_kp": "39",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "294"
+          "vote_num_imdb": "298"
         }
       }
     },
@@ -935,7 +1517,7 @@
           "rating_kp": "0",
           "vote_num_kp": "15",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "854"
+          "vote_num_imdb": "857"
         }
       }
     },
@@ -1056,10 +1638,10 @@
         "time": "2580",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1355507.jpg",
         "rating": {
-          "rating_kp": "7.382",
-          "vote_num_kp": "2213",
+          "rating_kp": "7.337",
+          "vote_num_kp": "2224",
           "rating_imdb": "5.3",
-          "vote_num_imdb": "2887"
+          "vote_num_imdb": "2894"
         }
       }
     },
@@ -1281,8 +1863,8 @@
         "time": "1380",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1332558.jpg",
         "rating": {
-          "rating_kp": "7.522",
-          "vote_num_kp": "1135",
+          "rating_kp": "7.508",
+          "vote_num_kp": "1139",
           "rating_imdb": "7.7",
           "vote_num_imdb": "1081"
         }
@@ -1491,10 +2073,10 @@
         "time": "7620",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1044589.jpg",
         "rating": {
-          "rating_kp": "6.723",
-          "vote_num_kp": "500",
+          "rating_kp": "6.641",
+          "vote_num_kp": "507",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "1933"
+          "vote_num_imdb": "1983"
         }
       }
     },
@@ -1561,588 +2143,10 @@
         "time": "4920",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4295459.jpg",
         "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "114",
+          "rating_kp": "5.577",
+          "vote_num_kp": "119",
           "rating_imdb": "5.1",
-          "vote_num_imdb": "1465"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "61983",
-      "date": "1626891605",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Происшествие на Саут-стрит",
-        "orig": "Pickup on South Street",
-        "alter": "",
-        "year": "1953",
-        "country": "США",
-        "director": "Сэмюэл Фуллер",
-        "genre": "фильм-нуар,триллер,криминал",
-        "actors": "Ричард Уидмарк,Джин Питерс,Тельма Риттер,Мервин Вай,Ричард Кайли,Уиллис Бучи,Милберн Стоун,Парли Баэр,Джордж Беркли,Чет Бранденбург",
-        "description": "Пленка, которую Кенди везла в метро, содержит государственную тайну, и она находилась под наблюдением правительственных агентов. Они видят, как некий Скип Маккой крадет пленку, но он ускользает от них.\r\n\r\nСтремясь вернуть фильм, Джой, экс-возлюбленный Кенди, и человек, использующий ее как курьера, убеждает ее искать вора. Она разыскивает Скипа через уличные связи, в то время как полицейские находят его вскоре после кражи.",
-        "slogan": "How the F.B.I. took a chance on a B-girl...and won!",
-        "premiere": "27 мая 1953",
-        "age": "18",
-        "time": "4800",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTJmYjMwMWItODMzNC00M2M3LTk1NzEtMjg2YjI1MmFlZDM4XkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg",
-        "rating": {
-          "rating_kp": "7.002",
-          "vote_num_kp": "823",
-          "rating_imdb": "7.7",
-          "vote_num_imdb": "13783"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "3739",
-      "date": "1626886202",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Под прикрытием",
-        "orig": "Deep Cover",
-        "alter": "",
-        "year": "1992",
-        "country": "США",
-        "director": "Билл Дьюк",
-        "genre": "боевик,триллер,криминал",
-        "actors": "Лоренс Фишбёрн, Джефф Голдблюм, Грегори Сьерра, Кларенс Уильямс III, Чарльз Мартин Смит, Лира Энджел, Рене Асса, Брюс Пол Барбо, Билал Башир, Анна Бергер",
-        "description": "Полицейский Рассел Стивенс получает задание внедриться в наркокартель, поставляющий в Лос-Анджелес кокаин. Главой преступной группировки является Антон Гальегос - дилер, действующий от лица наркобарона из Латинской Америки, влиятельного политика Гектора Гузмана. Цель операции - обезвредить владельца картеля. Стивенс начинает свою «карьеру», выступая в роли мелкого дилера. Но вскоре ему предстоит решить очень важный вопрос: на чьей он стороне?",
-        "slogan": "Есть тонкая грань между тем, чтобы ловить преступников и самому стать им",
-        "premiere": "15 апреля 1992",
-        "age": "18",
-        "time": "6420",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3739.jpg",
-        "rating": {
-          "rating_kp": "6.931",
-          "vote_num_kp": "1048",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "10357"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1419201",
-      "date": "1626881414",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ривер",
-        "orig": "River",
-        "alter": "",
-        "year": "2021",
-        "country": "США",
-        "director": "Эмили Госсетт",
-        "genre": "фантастика",
-        "actors": "Кортни Гейнс,Mary Cameron Rogers,Беки Ли Барни,Rob Marshall,Alexandra Rose",
-        "description": "Узнав о смерти матери, Ривер Аллен возвращается в свой родной город. Однако трагическая потеря не прошла для молодой девушки бесследно. После того, как она исчезает на неделю, перепугав своих друзей, она осознает, что потеряла счет времени. Главная героиня перестает понимать, что реально, а что нет. Сможет ли она найти ключ к правде, которая ее спасет, или же ее поглотит безумие?",
-        "slogan": "After vanishing from an encounter in the woods, River embarks on a haunting journey of self-discovery",
-        "premiere": "13 июля 2021",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://thumbs.filmix.tech/posters/2803/orig/river-2021_152646.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "7",
-          "rating_imdb": "2.9",
-          "vote_num_imdb": "161"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1381131",
-      "date": "1626881406",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Гостья",
-        "orig": "The House Guest",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Jonathan Milton",
-        "genre": "триллер",
-        "actors": "Jaye Alexander,Д’Киа Андерсон,Carl Clark,April Melody Rox Dillard,Antrone Harris,Шелтон Джоливетт,J.D. Laguerre,Rocfielle Living,Tamekia Madison,Terrance Mays",
-        "description": "Женатая пара принимает у себя старую подругу жены, которую та не видела много лет. Постепенно гостья начинает соблазнять окружающих, а люди - умирать. Можно ли её остановить, пока не стало поздно?",
-        "slogan": "Be careful who you let in your house!",
-        "premiere": "30 апреля 2020",
-        "age": "0",
-        "time": "4920",
-        "poster": "https://m.media-amazon.com/images/M/MV5BM2Q2YWZiNWItYTcyYy00OTQzLTlkZDktYWYwOTc0ODBhMGYyXkEyXkFqcGdeQXVyMjA4OTUwNDA@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "1",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "13"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1334817",
-      "date": "1626876014",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Сайфер",
-        "orig": "The Cypher",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Letia Solomon",
-        "genre": "короткометражка,драма",
-        "actors": "Akita Barrett,Akita Barrett,Kerrice Brooks,Nigel Cox,Michael Devon,Хуан Джил,Дэвид Хантер мл.,Ava Mone&#x27;t,O&#x27;Shay Neal,Teroy Roberts",
-        "description": "Молодому рэперу Халилу предстоит отстоять свою честь на крупном сайфер-баттле в Филадельфии.",
-        "slogan": "Spit your truth",
-        "premiere": "1 января 2020",
-        "age": "0",
-        "time": "900",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNGY0ZWU4MjktOTAyOS00NjAyLTg0YTMtMGI5MzQ4MjcyN2U2XkEyXkFqcGdeQXVyNTc4MTIyMjg@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "0",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "69"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1288817",
-      "date": "1626876009",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Пан или пропал",
-        "orig": "This or That",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Dennis Harmon",
-        "genre": "мелодрама,комедия",
-        "actors": "Gabriella Arlene,Lewis Bady,Darrin Barber,Terry Bluez,Troy Brookins,Frances Brown,Jazzlyn Brown,Maya Buckner,Anthony Cribs,Runeka Edwards",
-        "description": "Четыре пары собираются на курсе добрачного консультирования у неадекватного психолога, чтобы разобраться со своими проблемами. У пар есть только два выхода - взять себя в руки или навсегда распрощаться со своими партнерами.",
-        "slogan": "They must get it together or forget it forever",
-        "premiere": "4 сентября 2020",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://thumbs.filmix.tech/posters/3133/orig/pan-ili-propal-2020_152824.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "0",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "9"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1321903",
-      "date": "1626876002",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Герцог",
-        "orig": "The Duke",
-        "alter": "",
-        "year": "2020",
-        "country": "Великобритания",
-        "director": "Роджер Мишелл",
-        "genre": "драма,комедия,биография",
-        "actors": "Мэттью Гуд,Хелен Миррен,Анна Максвелл Мартин,Шарлотта Спенсер,Джим Бродбент,Финн Уайтхед,Сиан Клиффорд,Чарльз Эдвардс,Джон Хеффернан,Джеймс Уилби",
-        "description": "Шестидесятилетний водитель такси крадет из Национальной галереи в Лондоне портрет герцога Веллингтона авторства Гойи. После этого вор посылает записку, где объясняет, что вернет шедевр при условии, что правительство страны будет больше средств тратить на помощь пенсионерам.",
-        "slogan": "",
-        "premiere": "4 сентября 2020",
-        "age": "0",
-        "time": "5760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1321903.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "103",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "1009"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4472973",
-      "date": "1626876002",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Бухта морских ежей",
-        "orig": "Sand Dollar Cove",
-        "alter": "",
-        "year": "2021",
-        "country": "США",
-        "director": "Фред Гербер",
-        "genre": "драма,мелодрама",
-        "actors": "Чад Майкл Мюррэй,Элисон Мичалка,Клер Бауэн,Глайннис О’Коннор,Daniel Burns,Мишель Лью Кофлин,Марк Фамиглетти,Shane Hanney,Lily Jane,Amelya Salva",
-        "description": "Проектный менеджер по недвижимости Элли отправляется в небольшой городок на берегу океана, чтобы приобрести у местного жителя участок пляжа, на котором её компания хочет построить роскошный курортный комплекс. Броуди в целом не против продать землю, но с одним условием - старый пирс должен остаться нетронутым. Однако такой расклад не устраивает начальство Элли и пока девушка всеми силами старается переубедить упрямца, она проникается тёплыми чувствами не только к этому живописному местечку, но и к самому Броуди.",
-        "slogan": "Love is a shore thing",
-        "premiere": "26 июня 2021",
-        "age": "0",
-        "time": "5040",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOGQ5ZjlmY2YtOGNjYi00NWNjLTk5OWEtZmI3NDMzZTgxNTY0XkEyXkFqcGdeQXVyMjkwMjY1MjI@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "30",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "683"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4319793",
-      "date": "1626860900",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "SoftBox",
-      "max_qual": "480",
-      "last_season": "1",
-      "last_episode": "12",
-      "episodes": {
-        "1": {
-          "1": 480,
-          "2": 480,
-          "3": 480,
-          "4": 480,
-          "5": 480,
-          "6": 480,
-          "7": 480,
-          "8": 480,
-          "9": 480,
-          "10": 480,
-          "11": 480,
-          "12": 480
-        }
-      },
-      "info": {
-        "rus": "Синяя весна издалека",
-        "orig": "Meolliseo bomyeon pureun bom",
-        "alter": "Зеленая весна вдали / Blue Spring From A Distance / At a Distance / Spring is Green",
-        "year": "2021",
-        "country": "Корея Южная",
-        "director": "-",
-        "genre": "мелодрама",
-        "actors": "Пак Чи-хун,Кан Мин-а,Пэ Ин-хёк,У Да-би,На Ин-у,Со Хи-джон,Ким Хён-мук,Ким Су-гём,Чхве Джон-у,Квон Ын-бин",
-        "description": "История трёх студентов университета: симпатичного первокурсника из богатой семьи, искренней честной девушки с третьего курса и циничного отличника.",
-        "slogan": "",
-        "premiere": "14 июня 2021",
-        "age": "0",
-        "time": "3600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4319793.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "183",
-          "rating_imdb": "8.2",
-          "vote_num_imdb": "389"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1399376",
-      "date": "1626860414",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Охотники на троллей: Восстание титанов",
-        "orig": "Trollhunters: Rise of the Titans",
-        "alter": "",
-        "year": "2021",
-        "country": "США,Мексика",
-        "director": "Йохана Матте,Франциско Руис Веласко,Эндрю Л. Шмидт",
-        "genre": "мультфильм,фэнтези,боевик,драма,комедия,приключения,семейный",
-        "actors": "Татьяна Маслани,Эмиль Хирш,Ник Офферман,Альфред Молина,Грэй Гриффин,Стивен Ян,Келси Грэммер,Ник Фрост,Диего Луна,Джеймс Хун",
-        "description": "Возможно, Аркадия выглядит как обычный город, но она находится на пересечении волшебных и мистических линий, поэтому оказывается в гуще событий, когда между неземными существами — троллями, инопланетянами и магами — возникают раздоры. Герои объединяются, чтобы победить Тайный орден в эпической битве и обрести власть над магией, которая всех связывает.",
-        "slogan": "",
-        "premiere": "21 июля 2021",
-        "age": "6",
-        "time": "6240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1399376.jpg",
-        "rating": {
-          "rating_kp": "6.637",
-          "vote_num_kp": "597",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "3799"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "940122",
-      "date": "1626856202",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "В конце туннеля",
-        "orig": "Al final del túnel",
-        "alter": "",
-        "year": "2015",
-        "country": "Аргентина,Испания",
-        "director": "Родриго Гранде",
-        "genre": "триллер,драма,криминал",
-        "actors": "Леонардо Сбаралья,Пабло Эчарри,Клара Лаго,Федерико Луппи,Uma Salduende,Уолтер Донато,Laura Faienza,Facundo Nahuel Giménez,Хавьер Годино,Эриель Нуньес Ди Кроук",
-        "description": "Банда грабителей пытается сорвать большой куш, построив подземный туннель под банком. Происходящее привлекает внимание Хоакина, парализованного человека в инвалидном кресле, проживающего в соседнем доме. Но он совсем не торопится разоблачать гангстеров, так как считает, что у него появился шанс.",
-        "slogan": "У них был идеальный план ограбления",
-        "premiere": "21 апреля 2016",
-        "age": "0",
-        "time": "7200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_940122.jpg",
-        "rating": {
-          "rating_kp": "6.642",
-          "vote_num_kp": "6961",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "13247"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1193068",
-      "date": "1626856202",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Оккупация: миссия «Дождь»",
-        "orig": "Occupation: Rainfall",
-        "alter": "",
-        "year": "2020",
-        "country": "Австралия",
-        "director": "Люк Спарк",
-        "genre": "боевик,фантастика",
-        "actors": "Темуэра Моррисон,Джейсон Айзекс,Дэниэл Гиллис,Кен Жонг,Дэниэл Юинг,Лоуренс Макор,Джет Трантер,Дена Каплан,Катрина Ристеска,Иззи Стивенс",
-        "description": "Через два года после нападения на Сидней, инопланетяне продолжают добивать остатки выживших, которые в отчаянном последнем рывке попытались отбить столицу Австралии, но потерпели поражение, захватив при этом важные равед.данные: инопланетяне ищут некий \"проект \"Дождь\". Бравый солдат Симмонс и его друг-пришелец Гарри отправляются на поиски таинственного \"Дождя\", пока Амелия вновь пытается примирить между собой враждующие стороны.",
-        "slogan": "",
-        "premiere": "15 июля 2021",
-        "age": "0",
-        "time": "7680",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1193068.jpg",
-        "rating": {
-          "rating_kp": "5.324",
-          "vote_num_kp": "1291",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "13287"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "802938",
-      "date": "1626843006",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "К югу от рая: Эпизод первый. Сестренка",
-        "orig": "South of Heaven: Episode 1 - Little Sister",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Jeff Scott Taylor",
-        "genre": "криминал",
-        "actors": "Mandy Stockholm,Stefanie Vermillion,Ив Бреннер,Брайан Сазерленд,Кристиан Лагадек,Джеффри Бэйкер,Джон Бренч,Daniel Coble,Табита Найт,Anna White",
-        "description": "Джеки Делакруа оказывается в центре смертельной борьбы в поисках убийц своей сестры. Теперь она скрывается от жестокого гангстера и коррумпированного окружного прокурора, которые хотят ее смерти.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "4380",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZjU4YTMyMGEtM2M0Ny00YzdiLWEzNzktNjYzMWY5YTc5YzU3XkEyXkFqcGdeQXVyMjM3MjM4NTY@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1273711",
-      "date": "1626823811",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Отец",
-        "orig": "Bashtata",
-        "alter": "",
-        "year": "2019",
-        "country": "Болгария,Греция",
-        "director": "Кристина Грозева,Петар Вылчанов",
-        "genre": "драма,комедия",
-        "actors": "Иван Барнев,Иван Савов,Таня Шахова,Христофор Недков,Маргита Гошева,Мария Бакалова,Ana Bratoeva,Georgi Damianov,Boyan Doychinov,Elena Mosholova",
-        "description": "Вассил не может оправиться от потери спутницы жизни, жены Валентины. Узнав, что Валя пыталась дозвониться одной из родственниц с того света, Вассил становится одержим идеей выяснить, что за сообщение хотела передать покойная жена. Пока сын Вассила, Павел, пытается привести отца в чувства, тот, по совету экстрасенса, отправляется в лес - искать дух любимой.",
-        "slogan": "",
-        "premiere": "2 июля 2019",
-        "age": "0",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1273711.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "49",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "532"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4493015",
-      "date": "1626823807",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Бессонные ночи: настоящий дом с привидениями",
-        "orig": "The Sleepless Unrest: The Real Conjuring Home",
-        "alter": "",
-        "year": "2021",
-        "country": "США",
-        "director": "Kendall Whelpton,Vera Whelpton",
-        "genre": "документальный,реальное ТВ,ужасы,триллер,детектив",
-        "actors": "Vera Whelpton,Kendall Whelpton,Брайан Мюррэй,Ричел Стрэттон,Cory Heinzen,Джон Хантингтон,Дженнифер Хейнзен",
-        "description": "Документальный фильм о самом таинственном доме с приведениями в Америке. Именно этот дом вдохновил создателей культовой хоррор-трилогии \"Заклятие\". Главные герои \"Бессонных ночей\" — кинематографисты-любители и специалисты по борьбе с паранормальными явлениями. Вооружившись огромным количеством всевозможной техники, они безвылазно проводят в зловещем доме две недели. Главная задача исследователей — собрать неопровержимые доказательства присутствия в особняке потусторонних сил.",
-        "slogan": "The Real Conjuring Home",
-        "premiere": "16 июля 2021",
-        "age": "0",
-        "time": "4860",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4493015.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "14",
-          "rating_imdb": "3.7",
-          "vote_num_imdb": "116"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4470985",
-      "date": "1626813739",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ага",
-        "orig": "Ага",
-        "alter": "",
-        "year": "2021",
-        "country": "Казахстан",
-        "director": "Фархат Серкебаев",
-        "genre": "боевик,триллер",
-        "actors": "Мурат Бисенбин,Азамат Ибраев,Болат Абдильманов,Фархад Абдраимов,Александр Устюгов,Марйам Сатаева,Руслан Каирбаев,Нурсултан Мухаметжанов,Руслан Акылбаев,Руслан Ныгманов",
-        "description": "Бахытжан Абдулаев — бывший меч трех Жузов — после громких дел в прошлом, перенеся утрату близких людей, оставляет криминальный путь. Уединившись в горах, он проживает жизнь отшельником. Однако, весть о жестоком убийстве родного племянника нарушает его спокойствие и идиллию. Баха узнает, что виновником является Сакен — сын местного олигарха Сансызбая, опасного и влиятельного человека, на которого не распространяются законы. Баха принимает решение выйти на тропу войны против самых могущественных и влиятельных кланов трех Жузов. Он готов пойти на все, чтобы восстановить справедливость. Возможно, даже заплатить ценой своей жизни.",
-        "slogan": "",
-        "premiere": "",
-        "age": "16",
-        "time": "5160",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4470985.jpg",
-        "rating": {
-          "rating_kp": "6.518",
-          "vote_num_kp": "16311",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
+          "vote_num_imdb": "1470"
         }
       }
     }
