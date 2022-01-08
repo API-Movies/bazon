@@ -2,6 +2,150 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "446201",
+      "date": "1609005920",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Волшебники из Вэйверли Плэйс в кино",
+        "orig": "Wizards of Waverly Place: The Movie",
+        "alter": "",
+        "year": "2009",
+        "country": "США",
+        "director": "Лев Л. Спиро",
+        "genre": "комедия,фэнтези,драма,приключения,семейный",
+        "actors": "Селена Гомес, Дэвид Генри, Джейк Т. Остин, Дженнифер Стоун, Мария Кэнелс-Баррера, Дэвид ДеЛуис, Стив Валентайн, Ксавьер Торрес, Дженни Элден, Жасмин Каратини",
+        "description": "Семья волшебников Руссо решает провести каникулы на Карибах - именно там Джерри и Тереза встретились в первый раз. Алекс расстроена, поскольку она должна сопровождать свою семью в поездке, а это не входит в её планы. Заклинанием она меняет ход событий прошлого, предотвращая первую встречу своих родителей, и ставит под угрозу существование всей своей семьи. Чтобы отменить действие заклинания, Алекс и Джастин отправляются в невероятное путешествие через джунгли. Тем временем, Макс, младший брат Алекс, прикладывает массу усилий, чтобы родители влюбились друг в друга вновь.",
+        "slogan": "Family vacations can be tricky",
+        "premiere": "28 августа 2009",
+        "age": "6",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_446201.jpg",
+        "rating": {
+          "rating_kp": "6.744",
+          "vote_num_kp": "8867",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "17446"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "400594",
+      "date": "1609005851",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Библиотекарь 3: Проклятие иудовой чаши",
+        "orig": "The Librarian: The Curse of the Judas Chalice",
+        "alter": "",
+        "year": "2008",
+        "country": "США",
+        "director": "Джонатан Фрейкс",
+        "genre": "комедия,боевик,триллер,фэнтези,мелодрама,приключения",
+        "actors": "Ноа Уайли, Брюс Дэвисон, Стана Катик, Боб Ньюхарт, Джейн Куртин, Дикран Тулейн, Джейсон Дуглас, Элизабет Бурвант, Джо Кнезевич, Дэвид Борн",
+        "description": "Третья часть захватывающих приключений Флина Карсена, в которой Флину вновь предстоит спасти мир, но уже от угрожающего всеобщему спокойствию воскрешения Графа Дракулы. Находясь в отпуске, Флин знакомится с умопомрачительной красоткой Симоной, которая совершенно неожиданно для Флина узнает в нем Библиотекаря и обращается к нему за помощью. Вместе они пытаются опередить русского злодея в поисках Чаши Иуды, которая одна способна воскресить к жизни великого вампира.",
+        "slogan": "The world's most unlikely hero is back for his biggest adventure",
+        "premiere": "7 декабря 2008",
+        "age": "16",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_400594.jpg",
+        "rating": {
+          "rating_kp": "6.351",
+          "vote_num_kp": "11883",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "12927"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1284490",
+      "date": "1609002901",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Последняя смена",
+        "orig": "The Last Shift",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Andrew Cohn",
+        "genre": "комедия",
+        "actors": "Ричард Дженкинс,Шэйн Пол МакГи,Эд О’Нил,Эллисон Толман,Да’Вин Джой Рэндольф,Birgundi Baker,Emily Anderson,Джефф Длуголецки,Дано Дюран,Джон Гавлик",
+        "description": "Стенли осталось всего одну смену отработать в забегаловке, но события принимают неожиданный оборот.",
+        "slogan": "",
+        "premiere": "27 января 2020",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjZlYTVkZTMtY2IwNC00MmRiLWEyMjUtZWNmOTY4NjdiOWQ2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg",
+        "rating": {
+          "rating_kp": "5.524",
+          "vote_num_kp": "350",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "2258"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1416701",
+      "date": "1609002016",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Точка и линия на плоскости",
+        "orig": "Point and Line to Plane",
+        "alter": "",
+        "year": "2020",
+        "country": "Канада",
+        "director": "София Богданович",
+        "genre": "короткометражка",
+        "actors": "Дераг Кэмпбелл",
+        "description": "Молодая женщина оплакивает смерть возлюбленного и пытается преодолеть своё горе с помощью различных форм искусства, центральное место среди которых занимает живопись. Картины любимых художников-абстракционистов – Хильмы аф Клинт и Василия Кандинского – становятся для неё связующим звеном между безвозвратно ушедшим прошлым и полным неопределенности будущим.",
+        "slogan": "",
+        "premiere": "23 июля 2020",
+        "age": "0",
+        "time": "1020",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzVhMGUzZTMtNjkzZS00MGE4LTg4ZjMtNTJkMTUxMjNhNDk5XkEyXkFqcGdeQXVyMTIyNTY0NDIx.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "11",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "91"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "38795",
       "date": "1609000486",
       "camrip": "0",
@@ -138,7 +282,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_278221.jpg",
         "rating": {
           "rating_kp": "5.929",
-          "vote_num_kp": "23232",
+          "vote_num_kp": "23259",
           "rating_imdb": "5.5",
           "vote_num_imdb": "8884"
         }
@@ -701,8 +845,8 @@
         "time": "5520",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_999563.jpg",
         "rating": {
-          "rating_kp": "6.788",
-          "vote_num_kp": "19493",
+          "rating_kp": "6.791",
+          "vote_num_kp": "19547",
           "rating_imdb": "6.2",
           "vote_num_imdb": "3139"
         }
@@ -774,7 +918,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_521629.jpg",
         "rating": {
           "rating_kp": "6.307",
-          "vote_num_kp": "5059",
+          "vote_num_kp": "5061",
           "rating_imdb": "5.3",
           "vote_num_imdb": "7302"
         }
@@ -810,7 +954,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_50225.jpg",
         "rating": {
           "rating_kp": "7.744",
-          "vote_num_kp": "35689",
+          "vote_num_kp": "35700",
           "rating_imdb": "6.7",
           "vote_num_imdb": "62343"
         }
@@ -882,9 +1026,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_278156.jpg",
         "rating": {
           "rating_kp": "7.131",
-          "vote_num_kp": "30217",
+          "vote_num_kp": "30237",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "3369"
+          "vote_num_imdb": "3371"
         }
       }
     },
@@ -917,10 +1061,10 @@
         "time": "6900",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843361.jpg",
         "rating": {
-          "rating_kp": "5.88",
-          "vote_num_kp": "4009",
+          "rating_kp": "5.881",
+          "vote_num_kp": "4061",
           "rating_imdb": "5.6",
-          "vote_num_imdb": "1243"
+          "vote_num_imdb": "1245"
         }
       }
     },
@@ -967,10 +1111,10 @@
         "time": "3600",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1278808.jpg",
         "rating": {
-          "rating_kp": "7.324",
-          "vote_num_kp": "20854",
+          "rating_kp": "7.326",
+          "vote_num_kp": "20965",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "94876"
+          "vote_num_imdb": "95083"
         }
       }
     },
@@ -1292,7 +1436,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_661911.jpg",
         "rating": {
           "rating_kp": "6.254",
-          "vote_num_kp": "182045",
+          "vote_num_kp": "182049",
           "rating_imdb": "6.6",
           "vote_num_imdb": "437091"
         }
@@ -1363,10 +1507,10 @@
         "time": "6240",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_794620.jpg",
         "rating": {
-          "rating_kp": "7.593",
-          "vote_num_kp": "18312",
+          "rating_kp": "7.594",
+          "vote_num_kp": "18402",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "4894"
+          "vote_num_imdb": "4897"
         }
       }
     },
@@ -1400,7 +1544,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_61428.jpg",
         "rating": {
           "rating_kp": "5.982",
-          "vote_num_kp": "19924",
+          "vote_num_kp": "19939",
           "rating_imdb": "5.7",
           "vote_num_imdb": "39663"
         }
@@ -1799,150 +1943,6 @@
           "vote_num_kp": "25",
           "rating_imdb": "3.9",
           "vote_num_imdb": "171"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "77260",
-      "date": "1608915861",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Новые приключения Стича",
-        "orig": "Stitch! The Movie",
-        "alter": "",
-        "year": "2003",
-        "country": "США",
-        "director": "Тони Крэйг, Роберт Ганнавей",
-        "genre": "мультфильм,комедия,фантастика,приключения,семейный",
-        "actors": "Дэйви Чейз, Крис Сандерс, Тиа Каррере, Дэвид Огден Стайерз, Кевин МакДональд, Винг Реймз, Ди Брэдли Бейкер, Кевин Майкл Ричардсон, Джефф Беннетт, Кори Бертон",
-        "description": "Мы знаем, что Стич был «Экспериментальным Образцом 626-м» - но интересовала ли Вас когда-нибудь судьба первых 625? На этот раз речь пойдет о новых шутках и проказах веселого и непоседливого инопланетянина, который свалился на планету Земля и прямиком угодил в семью Лило. Теперь Стич, Пликли и Джамба - члены одной семьи.\r\n\r\nНо Лило и Стич еще не знают, что Джамба тайно отправил на Землю всех 625 инопланетных предшественников... и злобный Капитан Ганту намеревается отправить их всех обратно. Все зависит от Лило и Стича, смогут ли они спасти свою инопланетную родню?",
-        "slogan": "Stitch was Experiment 626...meet the other 625!",
-        "premiere": "25 августа 2003",
-        "age": "12",
-        "time": "3600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77260.jpg",
-        "rating": {
-          "rating_kp": "6.64",
-          "vote_num_kp": "3514",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "9358"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "854458",
-      "date": "1608911788",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Белль и Себастьян, приключение продолжается",
-        "orig": "Belle et Sébastien, l'aventure continue",
-        "alter": "Белль и Себастьян: Приключения продолжаются",
-        "year": "2015",
-        "country": "Франция",
-        "director": "Кристиан Дюге",
-        "genre": "приключения,семейный",
-        "actors": "Феликс Боссюэ, Чеки Карио, Тьерри Нёвик, Марго Шателье, Тилан Блондо, Урбен Канселье, Жозеф Малерба, Люди Букен, Джеффри Ноэль, Фридерик Эпо",
-        "description": "Продолжение приключений мальчика Себастьяна и пиренейской горной собаки Белль. В небольшой французский городок Сен-Мартан в горах на границе со Швейцарией вернулась мирная размеренная жизнь, но не вернулась Анжелина. Однажды в городок приходит страшная весть: самолёт, на котором Анжелина возвращалась домой, потерпел крушение где-то в альпийских лесах. Никто, кроме Себастьяна, не верит, что девушка могла спастись. Верные друзья Белль и Себастьян отправляются на поиски Анжелины. Им предстоит пройти через множество испытаний и узнать тайну, которая изменит их жизнь навсегда.",
-        "slogan": "Based on the work by Cécile Aubry",
-        "premiere": "6 октября 2015",
-        "age": "6",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_854458.jpg",
-        "rating": {
-          "rating_kp": "7.576",
-          "vote_num_kp": "11092",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "1387"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "662895",
-      "date": "1608911668",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Имя",
-        "orig": "Le prénom",
-        "alter": "",
-        "year": "2012",
-        "country": "Франция, Бельгия",
-        "director": "Александр де Ла Пательер, Матьё Делапорт",
-        "genre": "комедия,драма",
-        "actors": "Патрик Брюэль, Валери Бенгиги, Шарль Берлинг, Гийом де Тонкедек, Жюдит Эль Зейн, Франсуаза Фабиан, Яннис Леспер, Мирен Прадье, Алексис Леприз, Жюльетт Леван",
-        "description": "Винсент торжествует, т. к. будет отцом в первый раз. Приглашенный на ужин к сестре Елизавете и Пьеру, ее мужу, он встречает Клода, своего друга детства. В ожидании прибытия Анны, его молодой жены, он задает множество вопросов о его будущем отцовстве и правильном настрое... Но когда Винсента спросили о имени для будущего ребенка, его ответ погрузил всех в недоумение...",
-        "slogan": "",
-        "premiere": "23 апреля 2012",
-        "age": "16",
-        "time": "6540",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_662895.jpg",
-        "rating": {
-          "rating_kp": "7.368",
-          "vote_num_kp": "22529",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "16111"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "405450",
-      "date": "1608911552",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Обитель зла: Вырождение",
-        "orig": "Baiohazâdo: Dijenerêshon",
-        "alter": "Biohazard: Degeneration",
-        "year": "2008",
-        "country": "Япония",
-        "director": "Макото Камия",
-        "genre": "мультфильм,боевик,ужасы,фантастика,триллер",
-        "actors": "Пол Мерсье, Элисон Корт, Лора Бэйли, Роджер Крэйг Смит, Криспин Фриман, Мишель Руфф, Майкл Сорич, Салли Саффиоти, Мэри Элизабет МакГлинн, Стивен Блум",
-        "description": "Нападение зомби приносит хаос в аэропорт Харвардвиль. Клэр Рэдфилд и Леон Кеннеди боровшиеся с корпорацией «Umbrella» во время трагедии в Раккун Сити 7 лет назад вновь вернулись. Они готовы к битве с противником который ищет мести после смерти его семьи в Раккун Сити. Смертельный G-вирус выпущен на свободу и рождает нового мутировавшего монстра. Уничтожат ли Клэр и Леон этот вирус до того как история повторится?",
-        "slogan": "1996- The Mansion Experiment",
-        "premiere": "17 октября 2008",
-        "age": "18",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_405450.jpg",
-        "rating": {
-          "rating_kp": "6.786",
-          "vote_num_kp": "14037",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "30759"
         }
       }
     }
