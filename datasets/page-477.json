@@ -2,6 +2,186 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1021779",
+      "date": "1582098948",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Ведьма Лилли спасает Рождество",
+        "orig": "Hexe Lillis eingesacktes Weihnachtsfest",
+        "alter": "",
+        "year": "2017",
+        "country": "Германия",
+        "director": "Вольфганг Гроос",
+        "genre": "комедия,фэнтези,драма,семейный",
+        "actors": "Abdullah Daglioglu, Кристоф Биттенауэр, Герти Драссль, Хедда Эрлебах, Мареза Хёрбигер, Аня Клинг, Michel Komzak, Claudio Magno, Маурицио Магно, Михаэль Миттермейер",
+        "description": "Маленькая ведьма Лилли, несмотря на свои способности, не верит в Святого Николая. Ее постоянно докучает ее младший брат и она хочет вызвать слугу Рупрэхьта, помощника Николая, чтобы наказать брата Леона. Но как только Рупрэхьт приходит в ее мир, все начинает идти не по плану. Сможет ли Лилли вернуть помощника Николая обратно?",
+        "slogan": "",
+        "premiere": "9 ноября 2017",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1021779.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "29",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "77"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1021550",
+      "date": "1582098945",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Парк для медитации",
+        "orig": "Meditation Park",
+        "alter": "",
+        "year": "2017",
+        "country": "Канада",
+        "director": "Мина Шум",
+        "genre": "драма",
+        "actors": "Чжэн Пэйпэй, Ма Ци, Сандра О, Дон МакКеллар, Зак Сантьяго, Дженни Чен, Лиллиэн Лим, Аланна Онг, Шермейн Йео, Лиэн Балабан",
+        "description": "Жизнь немолодой женщины резко меняется, когда она узнаёт тайну своего мужа.",
+        "slogan": "",
+        "premiere": "8 сентября 2017",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1021550.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "36",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "523"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1021409",
+      "date": "1582098942",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Соблазнитель",
+        "orig": "The Charmer",
+        "alter": "",
+        "year": "2017",
+        "country": "Дания, Швеция",
+        "director": "Милад Алами",
+        "genre": "триллер,мелодрама,драма",
+        "actors": "Ардалан Эсмаили, Soho Rezanejad, Ларс Брюгманн, Сусан Таслими, Эльмира Арикан, Хассан Эль Сайед, Стайн Фишер Кристенсен, Амалия Линдегард, Dan Boie Kratfeldt, Austa Lea Jespersen",
+        "description": "Психологическая драма об иранце, приехавшем на заработки в Данию. Он пытается найти способ остаться в стране законно, при этом поддерживать связь с семьей. В его жизни просиходят перемены, но пршлое не отпускает.",
+        "slogan": "",
+        "premiere": "22 сентября 2017",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1021409.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "138",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "1059"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1021379",
+      "date": "1582098940",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Меня зовут Томас",
+        "orig": "My Name Is Thomas",
+        "alter": "",
+        "year": "2018",
+        "country": "Италия",
+        "director": "Теренс Хилл",
+        "genre": "драма",
+        "actors": "Теренс Хилл, Veronica Bitto, Ева Бэстеиро-Бертоли, Francesca Beggio, Гуя Йело, Энди Луотто, Giovanni Malafronte, Мэтт Патрези, Cinzia Susino",
+        "description": "Старый одинокий волк отправляется на своем харлее в Альмерийскую пустыню, чтобы помедитировать за чтением любимой книги. Но планы на уединенный отдых быстро летят в тартарары, когда он выручает из беды Лючию - крайне непредсказуемую молодую девушку, не брезгующую обманом и воровством.",
+        "slogan": "",
+        "premiere": "19 апреля 2018",
+        "age": "0",
+        "time": "5760",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjEzYzdmNmQtNWM0OS00NDk4LTk0MTItNGNjNzQwODY4OTkyXkEyXkFqcGdeQXVyMjU3OTkzNg@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "21",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "582"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1021277",
+      "date": "1582098939",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "И гаснет свет",
+        "orig": "Dim the Fluorescents",
+        "alter": "",
+        "year": "2017",
+        "country": "Канада",
+        "director": "Daniel Warth",
+        "genre": "комедия,драма",
+        "actors": "Claire Armstrong, Naomi Skwarna, Andreana Callegarini-Gradzik, Брендан Обин, Клер МакКоннелл, Т. Грэхэм, Jocelyn Reynolds, Анна Магвайр, Laura Tanguay, Thalia Kane",
+        "description": "Стремящаяся к известности актриса и начинающий драматург растрачивают свою творческую энергию в ролевых демонстрациях для корпоративных обучающих семинаров. Но однажды они получают большой заказ, который должен принести им огромный успех и кучу денег.",
+        "slogan": "",
+        "premiere": "21 января 2017",
+        "age": "0",
+        "time": "7680",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1021277.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "32",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "280"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1021190",
       "date": "1582098937",
       "camrip": "0",
@@ -641,10 +821,10 @@
         "time": "6600",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1017267.jpg",
         "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "220",
+          "rating_kp": "5.84",
+          "vote_num_kp": "224",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "2951"
+          "vote_num_imdb": "2974"
         }
       }
     },
@@ -929,8 +1109,8 @@
         "time": "5580",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1015802.jpg",
         "rating": {
-          "rating_kp": "6.149",
-          "vote_num_kp": "1588",
+          "rating_kp": "6.183",
+          "vote_num_kp": "1613",
           "rating_imdb": "5.7",
           "vote_num_imdb": "595"
         }
@@ -966,7 +1146,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1015796.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "30",
+          "vote_num_kp": "31",
           "rating_imdb": "4.8",
           "vote_num_imdb": "43"
         }
@@ -1040,7 +1220,7 @@
           "rating_kp": "0",
           "vote_num_kp": "48",
           "rating_imdb": "5.2",
-          "vote_num_imdb": "436"
+          "vote_num_imdb": "435"
         }
       }
     },
@@ -1617,186 +1797,6 @@
           "vote_num_kp": "0",
           "rating_imdb": 0,
           "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1013121",
-      "date": "1582098817",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Малыш Спиру",
-        "orig": "Le petit Spirou",
-        "alter": "",
-        "year": "2017",
-        "country": "Франция, Бельгия",
-        "director": "Николя Бери",
-        "genre": "комедия,семейный",
-        "actors": "Sacha Pinault, Lila Poulet, Mahé Laridan, Timothée Moffen, Gwendal Malguid-Salvatore, Пьер Ришар, Наташа Ренье, Франсуа Дамиенс, Гвендолин Гурвенек, Филипп Катрин",
-        "description": "Предки Малыша Спиру до пятого колена были высококлассными портье. Вот и его хотят отдать в закрытую школу профессиональных портье, чтобы династия не прерывалась. Но Малыш Спиру пока не уверен, что готов бросить своих друзей из старой школы и девочку по имени Сюзетт, с которой сидит за одной партой.",
-        "slogan": "",
-        "premiere": "27 августа 2017",
-        "age": "0",
-        "time": "5160",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1013121.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "91",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "359"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1012982",
-      "date": "1582098816",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Дикая молодость",
-        "orig": "Savage Youth",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Майкл Кертис Джонсон",
-        "genre": "драма,криминал",
-        "actors": "Грэйс Виктория Кокс, Текуан Ричмонд, Уилл Бриттейн, Хлоя Ливайн, Саша Фельдман, Митчелл Эдвардс, Джонатан Майкл Траутмэнн, Томас Пэйс, Жавун Бэйкер, Kaci Antkewicz",
-        "description": "Шесть молодых ребят собственными руками губят свои жизни самыми невероятными и глупыми способами.",
-        "slogan": "",
-        "premiere": "22 января 2018",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1012982.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "68",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "397"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1012633",
-      "date": "1582098812",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Певчая птица",
-        "orig": "Songbird",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания",
-        "director": "Джэми Адамс",
-        "genre": "драма",
-        "actors": "Коби Смолдерс, Ричард Элис, Джессика Хайнс, Эмили Атак, Ноэль Кларк, Холли Демпси, Мандип Диллон, Гриффин Данн, Нил Фокс, Дэйзи Хаггард",
-        "description": "Фильм начинается с давнего интервью главной героини - рок-звезды из 90-х, из эпохи Cool Britannia, когда мир пережил крупнейшую британскую культурную экспансию со времен The Beatles. Однако сегодня, двадцать лет спустя, энергия и бесшабашность «старой школы» вызывают недоумение у миллениалов, предпочитающих медитацию и органические смузи. Записавшись после одной особенно буйной вечеринки в университет, вечно молодая главная героиня переживает конфликт поколений и пытается еще раз испытать ощущение первой влюбленности.",
-        "slogan": "",
-        "premiere": "28 июня 2018",
-        "age": "18",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1012633.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "75",
-          "rating_imdb": "4.3",
-          "vote_num_imdb": "568"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1012573",
-      "date": "1582098811",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Игольница",
-        "orig": "Pin Cushion",
-        "alter": "",
-        "year": "2017",
-        "country": "Великобритания",
-        "director": "Дебора Хэйвуд",
-        "genre": "драма",
-        "actors": "Лили Ньюмарк, Джоэнна Скэнлэн, Лорис Скарпа, Sacha Cordy-Nice, Bethany Antonia, Saskia Paige Martin, Sophia Tuckey, Джон Хеншоу, Lennon Bradley, Aury Wayne",
-        "description": "Мать-одиночка Лин носит большую меховую шляпу в виде кошачьей головы, которой ужасно стесняется её дочь. Иона тщетно пытается понравиться авторитетным одноклассницам. Лин понимает, что не может больше оставаться лучшей подружкой для своей дочери, и, в свою очередь, тоже пытается завести друзей, сталкиваясь точно с такими же проблемами. Она выдумывает свой идиллический мирок с кошечками и вязанием - это ее мягкая броня для защиты от жёсткого внешнего мира.",
-        "slogan": "",
-        "premiere": "31 августа 2017",
-        "age": "0",
-        "time": "4920",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1012573.jpg",
-        "rating": {
-          "rating_kp": "6.203",
-          "vote_num_kp": "160",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "1088"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1012295",
-      "date": "1582098808",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Школа Юрского периода",
-        "orig": "Jurassic School",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Марк Аткинс",
-        "genre": "комедия,фэнтези,драма,семейный",
-        "actors": "Gabriel Bennett, Эмбер Патино, Ashton Pulis, Джон Бридделл, Тамара Гудвин, Jhey Castles, Рой Абрамсон, Виктория Клер, Shanynn Samiyah Covington, Lucy Drive",
-        "description": "Мальчик Томми вынужден взять на себя заботу о маленьком динозаврике, которого он создал в результате неудачного научного эксперимента в школе. Он не сразу понимает, что динозавр - это далеко не обычный домашний питомец.",
-        "slogan": "",
-        "premiere": "31 января 2017",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1012295.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "71",
-          "rating_imdb": "3.3",
-          "vote_num_imdb": "381"
         }
       }
     }

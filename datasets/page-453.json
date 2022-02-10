@@ -2,6 +2,186 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "707407",
+      "date": "1583949402",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Викинг",
+        "orig": "Викинг",
+        "alter": "",
+        "year": "2016",
+        "country": "Россия",
+        "director": "Андрей Кравчук",
+        "genre": "история,драма",
+        "actors": "Данила Козловский, Светлана Ходченкова, Максим Суханов, Игорь Петренко, Андрей Смоляков, Владимир Епифанцев, Александра Бортич, Кирилл Плетнёв, Александр Устюгов, Ростислав Бершауэр",
+        "description": "Раннее Средневековье. Время тяжелых мечей и темных законов крови. Правящий род в раздоре. Вина за случайную смерть брата легла на Великого князя. По закону мстить ему должен младший брат - бастард. За отказ убивать он заплатит всем, что у него было, потому что «для мира нужно больше мечей, чем для войны».",
+        "slogan": "Тебе нужно увидеть, чтобы поверить",
+        "premiere": "29 декабря 2016",
+        "age": "18",
+        "time": "7980",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_707407.jpg",
+        "rating": {
+          "rating_kp": "4.536",
+          "vote_num_kp": "94732",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "4620"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "706457",
+      "date": "1583949357",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Скуби-Ду! Искусство борьбы",
+        "orig": "Scooby-Doo! WrestleMania Mystery",
+        "alter": "",
+        "year": "2014",
+        "country": "США",
+        "director": "Брэндон Виетти",
+        "genre": "мультфильм,комедия,детектив,семейный",
+        "actors": "Фрэнк Уэлкер, Минди Кон, Грэй Гриффин, Мэттью Лиллард, Мэри МакКормак, Джон Сина, Майкл Коул, Глен Джейкобс, Тайрус, А.Дж. Ли",
+        "description": "История о путешествиях главных героев в логово рестлмании. Что же такое Рестмалния - это театральные бои на ринге, когда бойцы изображают драку, хотя на самом деле - это лишь одна большая постановка, в этих схватках почти нет ничего опасного. Будут ли они сами участвовать в постановочных боях или же все будет намного серьезнее?",
+        "slogan": "",
+        "premiere": "19 марта 2014",
+        "age": "0",
+        "time": "4980",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_706457.jpg",
+        "rating": {
+          "rating_kp": "6.131",
+          "vote_num_kp": "1923",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "3170"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "6873",
+      "date": "1583949321",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Полное затмение",
+        "orig": "Total Eclipse",
+        "alter": "",
+        "year": "1995",
+        "country": "Франция, Великобритания, Бельгия",
+        "director": "Агнешка Холланд",
+        "genre": "мелодрама,драма",
+        "actors": "Леонардо ДиКаприо, Дэвид Тьюлис, Романа Боренже, Доминик Блан, Феличи Пазотти, Нита Клейн, Джеймс Тьерре, Эммануэль Оппо, Дениз Шалем, Анджей Северин",
+        "description": "История сложных, страстных и в то же время двусмысленных взаимоотношений великих французских поэтов XIX века: Поля Верлена и юного Артюра Рембо. Внутри любовного треугольника разыгрывается подлинная трагедия...",
+        "slogan": "Impassioned by genius. Inflamed by desire. Imprisoned by love",
+        "premiere": "3 ноября 1995",
+        "age": "18",
+        "time": "6660",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6873.jpg",
+        "rating": {
+          "rating_kp": "7.297",
+          "vote_num_kp": "17988",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "15420"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "684131",
+      "date": "1583949252",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Патэма наоборот",
+        "orig": "Sakasama no Patema",
+        "alter": "",
+        "year": "2013",
+        "country": "Япония",
+        "director": "Ясухиро Ёсиура",
+        "genre": "аниме,мультфильм,приключения",
+        "actors": "Юкиё Фудзии, Нобухико Окамото, Синтаро Оохата, Синъя Фукумацу, Масаюки Като, Хироки Ясумото, Маая Утида, Такая Хаси, Хидэюки Умэдзу, Го Синомия",
+        "description": "В результате некой произошедшей в прошлом катастрофы человечество разделилось на два народа. Для первого народа гравитация действует наоборот, и его представители, а также используемые ими вещи, падают в небеса. Однако, эти люди живут под землей, поэтому большой угрозы для них эта особенность не представляет. Для второго народа гравитация действует обычным образом, и он живет на поверхности земли. Жизни этих двух народов практически не пересекаются, и о существовании друг друга большая часть их представителей не знает. Однако, у живущих на поверхности людей есть история о том, что в прошлом грешники улетели на небеса. Поэтому в обществе считается недопустимым смотреть на небо - следует направлять свой взгляд на землю.",
+        "slogan": "Нас спасает притяжение",
+        "premiere": "13 июня 2013",
+        "age": "6",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_684131.jpg",
+        "rating": {
+          "rating_kp": "7.421",
+          "vote_num_kp": "12920",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "8856"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "682934",
+      "date": "1583949203",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Белль",
+        "orig": "Belle",
+        "alter": "",
+        "year": "2013",
+        "country": "Великобритания",
+        "director": "Амма Асанте",
+        "genre": "мелодрама,драма",
+        "actors": "Гугу Эмбата-Ро, Том Уилкинсон, Миранда Ричардсон, Пенелопа Уилтон, Мэттью Гуд, Эмили Уотсон, Лорен Жюльен-Бокс, Наташа Уильямс, Алан МакКенна, Кара Дженкинс",
+        "description": "Сюжет фильма основан на жизни Дайдо Элизабет Белль. Она была внебрачной дочерью капитана королевского флота Джона Линдси, а ее матерью была чернокожая женщина по имени Мария Белль.",
+        "slogan": "",
+        "premiere": "8 сентября 2013",
+        "age": "12",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_682934.jpg",
+        "rating": {
+          "rating_kp": "6.938",
+          "vote_num_kp": "5010",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "29905"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "667907",
       "date": "1583949093",
       "camrip": "0",
@@ -30,7 +210,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_667907.jpg",
         "rating": {
           "rating_kp": "7.409",
-          "vote_num_kp": "14826",
+          "vote_num_kp": "14830",
           "rating_imdb": "6.9",
           "vote_num_imdb": "4172"
         }
@@ -66,9 +246,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_654428.jpg",
         "rating": {
           "rating_kp": "6.185",
-          "vote_num_kp": "15058",
+          "vote_num_kp": "15074",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "21178"
+          "vote_num_imdb": "21181"
         }
       }
     },
@@ -102,9 +282,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_648.jpg",
         "rating": {
           "rating_kp": "6.131",
-          "vote_num_kp": "62047",
+          "vote_num_kp": "62110",
           "rating_imdb": "5.3",
-          "vote_num_imdb": "215810"
+          "vote_num_imdb": "215868"
         }
       }
     },
@@ -138,7 +318,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_638052.jpg",
         "rating": {
           "rating_kp": "6.42",
-          "vote_num_kp": "15628",
+          "vote_num_kp": "15634",
           "rating_imdb": "6.2",
           "vote_num_imdb": "13501"
         }
@@ -282,9 +462,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_582807.jpg",
         "rating": {
           "rating_kp": "6.399",
-          "vote_num_kp": "6319",
+          "vote_num_kp": "6325",
           "rating_imdb": "7",
-          "vote_num_imdb": "10939"
+          "vote_num_imdb": "10950"
         }
       }
     },
@@ -318,9 +498,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_581952.jpg",
         "rating": {
           "rating_kp": "6.793",
-          "vote_num_kp": "76678",
+          "vote_num_kp": "76730",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "55173"
+          "vote_num_imdb": "55183"
         }
       }
     },
@@ -353,8 +533,8 @@
         "time": "4380",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_579927.jpg",
         "rating": {
-          "rating_kp": "5.455",
-          "vote_num_kp": "10916",
+          "rating_kp": "5.456",
+          "vote_num_kp": "10949",
           "rating_imdb": "6.3",
           "vote_num_imdb": "9364"
         }
@@ -390,7 +570,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_572066.jpg",
         "rating": {
           "rating_kp": "5.062",
-          "vote_num_kp": "9558",
+          "vote_num_kp": "9559",
           "rating_imdb": "5.3",
           "vote_num_imdb": "4227"
         }
@@ -462,7 +642,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_570085.jpg",
         "rating": {
           "rating_kp": "6.786",
-          "vote_num_kp": "11756",
+          "vote_num_kp": "11763",
           "rating_imdb": "6.7",
           "vote_num_imdb": "5037"
         }
@@ -498,9 +678,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_565861.jpg",
         "rating": {
           "rating_kp": "6.169",
-          "vote_num_kp": "42223",
+          "vote_num_kp": "42283",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "71039"
+          "vote_num_imdb": "71059"
         }
       }
     },
@@ -534,7 +714,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_534911.jpg",
         "rating": {
           "rating_kp": "4.079",
-          "vote_num_kp": "1479",
+          "vote_num_kp": "1480",
           "rating_imdb": "4.3",
           "vote_num_imdb": "2676"
         }
@@ -570,7 +750,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_518229.jpg",
         "rating": {
           "rating_kp": "4.709",
-          "vote_num_kp": "9939",
+          "vote_num_kp": "9942",
           "rating_imdb": "5",
           "vote_num_imdb": "34872"
         }
@@ -608,7 +788,7 @@
           "rating_kp": "7.941",
           "vote_num_kp": "161648",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "666940"
+          "vote_num_imdb": "667013"
         }
       }
     },
@@ -714,9 +894,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5004.jpg",
         "rating": {
           "rating_kp": "6.839",
-          "vote_num_kp": "4109",
+          "vote_num_kp": "4120",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "9205"
+          "vote_num_imdb": "9210"
         }
       }
     },
@@ -858,7 +1038,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_470170.jpg",
         "rating": {
           "rating_kp": "5.6",
-          "vote_num_kp": "38376",
+          "vote_num_kp": "38381",
           "rating_imdb": "6.8",
           "vote_num_imdb": "284857"
         }
@@ -893,10 +1073,10 @@
         "time": "5880",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_470155.jpg",
         "rating": {
-          "rating_kp": "4.311",
-          "vote_num_kp": "6234",
+          "rating_kp": "4.31",
+          "vote_num_kp": "6248",
           "rating_imdb": "4.5",
-          "vote_num_imdb": "4114"
+          "vote_num_imdb": "4115"
         }
       }
     },
@@ -930,9 +1110,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_467553.jpg",
         "rating": {
           "rating_kp": "6.461",
-          "vote_num_kp": "79808",
+          "vote_num_kp": "79842",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "195503"
+          "vote_num_imdb": "195526"
         }
       }
     },
@@ -968,7 +1148,7 @@
           "rating_kp": "7.383",
           "vote_num_kp": "129918",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "223403"
+          "vote_num_imdb": "223421"
         }
       }
     },
@@ -1001,10 +1181,10 @@
         "time": "7080",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4466.jpg",
         "rating": {
-          "rating_kp": "7.922",
-          "vote_num_kp": "91173",
+          "rating_kp": "7.923",
+          "vote_num_kp": "91344",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "229641"
+          "vote_num_imdb": "229722"
         }
       }
     },
@@ -1038,9 +1218,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44168.jpg",
         "rating": {
           "rating_kp": "8.356",
-          "vote_num_kp": "393933",
+          "vote_num_kp": "394326",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "3739"
+          "vote_num_imdb": "3740"
         }
       }
     },
@@ -1073,10 +1253,10 @@
         "time": "4440",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_424955.jpg",
         "rating": {
-          "rating_kp": "6.259",
-          "vote_num_kp": "3218",
+          "rating_kp": "6.262",
+          "vote_num_kp": "3221",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "2714"
+          "vote_num_imdb": "2722"
         }
       }
     },
@@ -1110,7 +1290,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_424291.jpg",
         "rating": {
           "rating_kp": "6.413",
-          "vote_num_kp": "14874",
+          "vote_num_kp": "14881",
           "rating_imdb": "6.1",
           "vote_num_imdb": "23624"
         }
@@ -1145,8 +1325,8 @@
         "time": "6000",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_422939.jpg",
         "rating": {
-          "rating_kp": "6.643",
-          "vote_num_kp": "20704",
+          "rating_kp": "6.642",
+          "vote_num_kp": "20779",
           "rating_imdb": "6.3",
           "vote_num_imdb": "461"
         }
@@ -1182,7 +1362,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_420470.jpg",
         "rating": {
           "rating_kp": "4.816",
-          "vote_num_kp": "16078",
+          "vote_num_kp": "16083",
           "rating_imdb": "4.6",
           "vote_num_imdb": "25519"
         }
@@ -1218,7 +1398,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_417895.jpg",
         "rating": {
           "rating_kp": "6.626",
-          "vote_num_kp": "21922",
+          "vote_num_kp": "21931",
           "rating_imdb": "6.5",
           "vote_num_imdb": "71881"
         }
@@ -1253,10 +1433,10 @@
         "time": "7620",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_41520.jpg",
         "rating": {
-          "rating_kp": "8.126",
-          "vote_num_kp": "655709",
+          "rating_kp": "8.127",
+          "vote_num_kp": "656302",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "14359"
+          "vote_num_imdb": "14370"
         }
       }
     },
@@ -1290,9 +1470,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_41519.jpg",
         "rating": {
           "rating_kp": "8.254",
-          "vote_num_kp": "776051",
+          "vote_num_kp": "776433",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "20151"
+          "vote_num_imdb": "20153"
         }
       }
     },
@@ -1326,7 +1506,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_403013.jpg",
         "rating": {
           "rating_kp": "6.958",
-          "vote_num_kp": "8337",
+          "vote_num_kp": "8342",
           "rating_imdb": "7",
           "vote_num_imdb": "4365"
         }
@@ -1362,9 +1542,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_402099.jpg",
         "rating": {
           "rating_kp": "7.703",
-          "vote_num_kp": "75201",
+          "vote_num_kp": "75227",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "214543"
+          "vote_num_imdb": "214551"
         }
       }
     },
@@ -1397,8 +1577,8 @@
         "time": "4560",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_400145.jpg",
         "rating": {
-          "rating_kp": "6.533",
-          "vote_num_kp": "1143",
+          "rating_kp": "6.535",
+          "vote_num_kp": "1144",
           "rating_imdb": "5.4",
           "vote_num_imdb": "1470"
         }
@@ -1433,10 +1613,10 @@
         "time": "4320",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_394430.jpg",
         "rating": {
-          "rating_kp": "6.745",
-          "vote_num_kp": "3152",
+          "rating_kp": "6.746",
+          "vote_num_kp": "3158",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "2886"
+          "vote_num_imdb": "2895"
         }
       }
     },
@@ -1470,9 +1650,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_32655.jpg",
         "rating": {
           "rating_kp": "5.744",
-          "vote_num_kp": "55004",
+          "vote_num_kp": "55017",
           "rating_imdb": "5.1",
-          "vote_num_imdb": "119166"
+          "vote_num_imdb": "119177"
         }
       }
     },
@@ -1506,7 +1686,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_308804.jpg",
         "rating": {
           "rating_kp": "7.262",
-          "vote_num_kp": "11102",
+          "vote_num_kp": "11104",
           "rating_imdb": "6.3",
           "vote_num_imdb": "9616"
         }
@@ -1542,7 +1722,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_271800.jpg",
         "rating": {
           "rating_kp": "6.713",
-          "vote_num_kp": "20511",
+          "vote_num_kp": "20521",
           "rating_imdb": "6.4",
           "vote_num_imdb": "13765"
         }
@@ -1577,8 +1757,8 @@
         "time": "5100",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_264829.jpg",
         "rating": {
-          "rating_kp": "6.937",
-          "vote_num_kp": "6049",
+          "rating_kp": "6.938",
+          "vote_num_kp": "6053",
           "rating_imdb": "6.7",
           "vote_num_imdb": "3326"
         }
@@ -1614,189 +1794,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_257337.jpg",
         "rating": {
           "rating_kp": "7.897",
-          "vote_num_kp": "70628",
+          "vote_num_kp": "70652",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "11704"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "251581",
-      "date": "1583941080",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Доктор Дулиттл 3",
-        "orig": "Dr. Dolittle 3",
-        "alter": "",
-        "year": "2006",
-        "country": "США, Канада",
-        "director": "Рич Торн",
-        "genre": "комедия,фэнтези,семейный",
-        "actors": "Кайла Прэтт, Кристен Уилсон, Ховард Уолкер, Джон Эймос, Лучана Карро, Томми Снайдер, Кэлам Уорси, Райан МакДонелл, Шеньер Хундал, Тара Уилсон",
-        "description": "Дочь доктора Дулиттла Майя неожиданно обнаруживает у себя талант отца - возможность разговаривать с животными. Ища себя, она уезжает на ранчо родительского приятеля, где заводит дружбу с местной фауной. И когда девушка узнает, что владельцы соседней земли посягают на собственность приютившего ее хозяина, Майа обращается к своим новым друзьям за помощью...",
-        "slogan": "Какой отец, такая и дочь",
-        "premiere": "11 апреля 2006",
-        "age": "12",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_251581.jpg",
-        "rating": {
-          "rating_kp": "4.763",
-          "vote_num_kp": "2605",
-          "rating_imdb": "4",
-          "vote_num_imdb": "6836"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "229318",
-      "date": "1583940973",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Леди и бродяга 2: Приключения Шалуна",
-        "orig": "Lady and the Tramp II: Scamp's Adventure",
-        "alter": "",
-        "year": "2001",
-        "country": "США, Австралия",
-        "director": "Даррел Руни, Джаннин Руссель",
-        "genre": "мультфильм,мелодрама,мюзикл,приключения,семейный",
-        "actors": "Скотт Вулф, Алисса Милано, Чазз Пальминтери, Джефф Беннетт, Джоди Бенсон, Билл Фагербакки, Микки Руни, Бронсон Пиншо, Кэти Мориарти, Мэри Кэй Бергман",
-        "description": "Продолжение классического диснеевского мультфильма о трогательных отношениях породистой Леди и бездомного пса Бродяги. Они уже родители целой своры щенков - трёх элегантных девочек и одного буйного мальчика по имени Шалун.\r\n\r\nВ поисках риска и «реальной» собачьей жизни Шалун уходит из дома и встречает Энджел, Бастера и его шайку. Вместе с верными друзьями он переживёт множество комичных ситуаций а также столкнётся с опасностями, которые вполне могут ожидать маленького щенка на улицах большого города. Хотя Шалун и нашёл риск, но мысли его возвращаются к дому и родным...",
-        "slogan": "",
-        "premiere": "18 февраля 2001",
-        "age": "0",
-        "time": "4140",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_229318.jpg",
-        "rating": {
-          "rating_kp": "7.055",
-          "vote_num_kp": "8150",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "11654"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2272",
-      "date": "1583940919",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Мертвец",
-        "orig": "Dead Man",
-        "alter": "",
-        "year": "1995",
-        "country": "США, Германия, Япония",
-        "director": "Джим Джармуш",
-        "genre": "фэнтези,драма,вестерн",
-        "actors": "Джонни Депп, Гэри Фармер, Криспин Гловер, Лэнс Хенриксен, Майкл Уинкотт, Юджин Бирд, Джон Хёрт, Роберт Митчем, Игги Поп, Гэбриел Бирн",
-        "description": "После смерти родителей молодой счетовод Уильям Блэйк в надежде найти работу приезжает на Дикий Запад, где по злой воле случая за его голову назначается награда в 500 долларов. Раненого в грудь возле сердца, его выхаживает индеец, которого много лет возили по городам Америки и Англии в качестве живого экспоната. Он принял этого юношу в очках за поэта Уильяма Блэйка, чьи стихи запали в сердце «дикаря», и стал его ангелом-хранителем. А опекаемый, лишившись очков, сам вдруг стал стрелять без промаха, увеличивая стоимость своей головы, оставляя за собой след из трупов лиц, охочих до награды, и приближаясь к тому «месту, откуда приходят и куда возвращаются все духи».",
-        "slogan": "No one can survive becoming a legend",
-        "premiere": "27 мая 1995",
-        "age": "16",
-        "time": "7260",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2272.jpg",
-        "rating": {
-          "rating_kp": "7.838",
-          "vote_num_kp": "68018",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "94892"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "222809",
-      "date": "1583940857",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "12 (Двенадцать)",
-        "orig": "12 (Двенадцать)",
-        "alter": "",
-        "year": "2007",
-        "country": "Россия",
-        "director": "Никита Михалков",
-        "genre": "триллер,детектив,драма,военный,криминал",
-        "actors": "Сергей Маковецкий, Никита Михалков, Сергей Гармаш, Валентин Гафт, Алексей Петренко, Юрий Стоянов, Сергей Газаров, Михаил Ефремов, Алексей Горбунов, Сергей Арцибашев",
-        "description": "История о 12-ти присяжных, обсуждающих, виновен ли 18-летний юноша, обвиняемый в убийстве своего отчима - офицера Российской армии, воевавшего в Чечне.\r\n\r\nВсе улики свидетельствуют против обвиняемого, и одиннадцать из двенадцати человек, собравшихся в школьном спортзале, готовы осудить юношу. Но один из присяжных уверен, что все не так однозначно, как кажется на первый взгляд, и предлагает коллегам более вдумчиво рассмотреть дело.",
-        "slogan": "Для всех и про каждого...",
-        "premiere": "7 сентября 2007",
-        "age": "16",
-        "time": "9180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_222809.jpg",
-        "rating": {
-          "rating_kp": "7.625",
-          "vote_num_kp": "94841",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "14515"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "19287",
-      "date": "1583940804",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Богатенький Ричи",
-        "orig": "Ri¢hie Ri¢h",
-        "alter": "",
-        "year": "1994",
-        "country": "США",
-        "director": "Дональд Питри",
-        "genre": "комедия,семейный",
-        "actors": "Маколей Калкин, Джон Ларрокетт, Эдвард Херрманн, Кристин Эберсоул, Джонатан Хайд, Майкл МакШейн, Челси Росс, Марианджела Пино, Стефи Лайнбург, Майкл Маккароне",
-        "description": "Будучи единственным наследником богатейшего состояния мистера Рича, его сынишка Ричи живет в мире немыслимой роскоши. У него есть все, о чем только может мечтать мальчик этого возраста, все, что можно купить за деньги. Но этой тепличной жизни грозит опасность.\r\n\r\nКоварный мошенник Лоуренс ван Доу решил прикарманить все состояние Ричей и уже придумал хитроумный план. И пока старшие Ричи, в результате авиакатастрофы оказавшиеся в открытом море в лодке, ждут спасения, молодой Ричи с помощью новых друзей и верного пса по кличке Доллар раскрывает замысел и спасает семейное достояние. Для себя же Ричи открывает одну истину - настоящая дружба стоит гораздо больше, чем все его состояние.",
-        "slogan": "An adventure so big... even the world's wealthiest pre-teenager can't afford to miss it!",
-        "premiere": "21 декабря 1994",
-        "age": "12",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_19287.jpg",
-        "rating": {
-          "rating_kp": "6.596",
-          "vote_num_kp": "37063",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "67832"
+          "vote_num_imdb": "11706"
         }
       }
     }

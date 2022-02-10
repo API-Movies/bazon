@@ -2,6 +2,186 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1003272",
+      "date": "1582098483",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "[Груз]",
+        "orig": "[Cargo]",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "James Dylan",
+        "genre": "триллер,криминал",
+        "actors": "Марк Элиот, Даника Филдс, J.C. Maçek III, Хосе Росете, Matthew Rosvally, Рон Томпсон, Корбин Тимбрук, Марк Вуд",
+        "description": "Мужчина просыпается запертым в грузовом контейнере с одним телефоном. Похитители дают ему 24 часа, чтобы заплатить им выкуп в размере 10 миллионов долларов, иначе он и его жена погибнут.",
+        "slogan": "Anthony Peterson has 24 hours of air, a cell phone, and no way out",
+        "premiere": "17 июля 2018",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1003272.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "24",
+          "rating_imdb": "2.7",
+          "vote_num_imdb": "406"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1003150",
+      "date": "1582098480",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Планетарианка: Звездный странник",
+        "orig": "Planetarian: Hoshi no Hito",
+        "alter": "",
+        "year": "2016",
+        "country": "Япония",
+        "director": "Наокацу Цуда",
+        "genre": "аниме,мультфильм,фантастика",
+        "actors": "Даисукэ Оно, Keiko Suzuki",
+        "description": "В поисках припасов и всего полезного, Кузуя попадает в здание планетария, где встречает Хошино Юмеми, робота-хоста. Здесь он и остается, чтобы починить проектор звездного неба...Но только ли поэтому?",
+        "slogan": "",
+        "premiere": "3 сентября 2016",
+        "age": "0",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1003150.jpg",
+        "rating": {
+          "rating_kp": "7.819",
+          "vote_num_kp": "527",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "155"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1003148",
+      "date": "1582098478",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Кудоку: Мясорубка",
+        "orig": "Kodoku: Mitoboru mashin",
+        "alter": "",
+        "year": "2017",
+        "country": "Япония",
+        "director": "Ёсихиро Нисимура",
+        "genre": "комедия,боевик,ужасы,фантастика,триллер",
+        "actors": "Томори Абэ, Кэнсукэ Асихара, Сатоси Эисима, Гоки, Ёта Кавасэ, Рири Коба, Рима Мацуда, Масанори Мимото, Саяко Накоси, Сэминосукэ Мурасуги",
+        "description": "Страшные пришельцы-паразиты, проникнувшие на Землю, начали порабощать людей самым жутким способом: дело в том, что паразиты поселяются в тело человека и полностью берут его под контроль, превращая даже самого мирного жителя планеты в настоящее смертоносное оружие. Главный герой картины понял, что заразился от пришельца, но пока что у него есть время, чтобы остановить заражение, но для этого нужно объявить войну пришельцам. И так как мужчине в этой мире есть за кого отдавать свою жизнь, то пришельцам не поздоровится, потому что они столкнутся в ближайшее время с очень опасным врагом в лице героя.",
+        "slogan": "",
+        "premiere": "11 марта 2017",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1003148.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "172",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "495"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1002755",
+      "date": "1582098476",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Петра",
+        "orig": "Petra",
+        "alter": "",
+        "year": "2018",
+        "country": "Испания, Франция, Дания",
+        "director": "Хайме Росалес",
+        "genre": "драма",
+        "actors": "Барбара Ленни, Алекс Брендемюль, Joan Botey, Мариса Паредес, Петра Мартинес, Карме Пла, Ориол Пла, Чема дель Барко, Натали Мандуно, Elsa Burgos",
+        "description": "После смерти матери Петра отправляется на поиски своего отца, которого никогда не видела. Отец оказывается известным скульптором, стареющим, эгоцентричным и жестоким. Петра также знакомится со своим сводным братом Лукасом.",
+        "slogan": "",
+        "premiere": "10 мая 2018",
+        "age": "0",
+        "time": "6420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1002755.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "43",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "1060"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1002736",
+      "date": "1582098474",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Стерва",
+        "orig": "Bitch",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Марианна Пока",
+        "genre": "комедия,триллер,драма",
+        "actors": "Марианна Пока, Джейсон Риттер, Джейми Кинг, Брайтон Шарбино, Рио Манджини, Кингстон Фостер, Джейсон Мэйбаум, Соль Родригес, Лииса Ли, Кэролайн Аарон",
+        "description": "Домохозяйка Джилл Харт находится на грани нервного срыва - муж редко бывает дома, да ещё и изменяет, дети ни в грош не ставят, относятся к матери как к прислуге. Женщина даже хотела повеситься на люстре, но никто даже не обратил внимания на обвалившийся светильник. И тогда в один прекрасный день Джилл пропадает. А обнаруживается в собственном подвале - на четвереньках, без одежды, и общается она теперь исключительно лаем и рычанием.",
+        "slogan": "Bring a chew toy",
+        "premiere": "20 января 2017",
+        "age": "0",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1002736.jpg",
+        "rating": {
+          "rating_kp": "5.031",
+          "vote_num_kp": "162",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "1863"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1002723",
       "date": "1582098471",
       "camrip": "0",
@@ -174,7 +354,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1001698.jpg",
         "rating": {
           "rating_kp": "5.897",
-          "vote_num_kp": "457",
+          "vote_num_kp": "463",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -390,7 +570,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1000889.jpg",
         "rating": {
           "rating_kp": "5.872",
-          "vote_num_kp": "1322",
+          "vote_num_kp": "1324",
           "rating_imdb": "5.3",
           "vote_num_imdb": "1122"
         }
@@ -1506,9 +1686,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_998654.jpg",
         "rating": {
           "rating_kp": "5.899",
-          "vote_num_kp": "239",
+          "vote_num_kp": "240",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "2594"
+          "vote_num_imdb": "2606"
         }
       }
     },
@@ -1617,186 +1797,6 @@
           "vote_num_kp": "17",
           "rating_imdb": "4.8",
           "vote_num_imdb": "343"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "998432",
-      "date": "1582098362",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Облачный мальчик",
-        "orig": "Cloudboy",
-        "alter": "",
-        "year": "2017",
-        "country": "Бельгия, Швеция, Норвегия, Нидерланды",
-        "director": "Meikeminne Clinckspoor",
-        "genre": "семейный",
-        "actors": "Герт Ван Рампелберг, Сара Соммерфельд, Миккель Гауп, Ayla Gáren Audhild P. Nutti, Даан Руфтхуфт, Joakim Nils Tomas Trägårdh",
-        "description": "Двенадцатилетнего городского мальчика Ниласа отправляют на лето в Лапландию, где его мать и ее новая семья живут среди оленеводов-саамов. Наладить контакт с Ниласом удается только его сводной сестре Сунне. Вместе они отправляются в путешествие по магическому лесу.",
-        "slogan": "",
-        "premiere": "5 апреля 2017",
-        "age": "0",
-        "time": "4680",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_998432.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "32",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "177"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "998394",
-      "date": "1582098359",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Взлеты и падения: Красный дождь",
-        "orig": "High & Low: the Red Rain",
-        "alter": "",
-        "year": "2016",
-        "country": "Япония",
-        "director": "Юдаи Ямагути",
-        "genre": "боевик,драма",
-        "actors": "Ноэмиэ Накаи, Акира Онодэра, Такуми Саито, Такахиро, Хирооми Тосака",
-        "description": "Год назад три брата Мамия контролировали весь город, но что-то случилось, и старший Такэру скрылся в неизвестном направлении. Масаки и Хирота были уверены, что он обязательно появится на ежегодной поминальной службе, посвященной их родителям, но только вместо брата пришел совсем незнакомый человек. Он сказал, что знает где они могут найти Такэру. Но только сначала они должны абсолютно точно решить для себя - нужно ли им это знание.",
-        "slogan": "",
-        "premiere": "8 октября 2016",
-        "age": "0",
-        "time": "6600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_998394.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "62",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "270"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "998007",
-      "date": "1582098346",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Расскажи мне, как я умру",
-        "orig": "Tell Me How I Die",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Донн Дж. Виола",
-        "genre": "триллер",
-        "actors": "Нэйтан Кресс, Вирджиния Гарднер, Кирби Блисс Блэнтон, Райан Хига, Марк Фурз, Итан Пек, Уильям Мапотер, Марк Ролстон, Марни Алексенбург, Кристофер Аллен",
-        "description": "Когда студенты колледжа соглашаются принять участие в загадочном эксперименте, а добрый доктор скрывает от них информацию о возможных побочных эффектах - жди беды. И главные герои ужастика испытали последствия контролируемого употребления наркотиков на своей шкуре. \r\n\r\nДело в том, что счастливчики, побывавшие в затяжном трипе, начали видеть галлюцинации со сценами своей смерти. Поначалу все уверены, что это просто побочные эффекты. Но потом приходит осознание того, что испытуемые умудрились заглянуть туда, куда простым смертным смотреть не следует.",
-        "slogan": "Knowing your fate is a real killer",
-        "premiere": "15 сентября 2016",
-        "age": "0",
-        "time": "6420",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_998007.jpg",
-        "rating": {
-          "rating_kp": "4.837",
-          "vote_num_kp": "676",
-          "rating_imdb": "5",
-          "vote_num_imdb": "4765"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "997681",
-      "date": "1582098336",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Эко-Парк",
-        "orig": "In Echo Park",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Nathaniel Lezra",
-        "genre": "драма,криминал",
-        "actors": "Andrew Asper, Jared Brown, Bryan Michael Nunez, Тимоти Ли ДеПрайст, Коди Сэйнт Анджело, Caroline Ivari, David Meza, Rufino Romero, Christian Vunipola, Дарон МакФарланд",
-        "description": "Столкновение историй уличных панков, влюблённой пары и сальвадорского подростка, завербованного местной бандой. Их жизни переплетаются и образуют рассказ о классовой индентичности в Лос-Анджелесе.",
-        "slogan": "",
-        "premiere": "23 февраля 2018",
-        "age": "0",
-        "time": "4920",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_997681.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "18",
-          "rating_imdb": "4.7",
-          "vote_num_imdb": "87"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "997565",
-      "date": "1582098333",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Фрэнк и Ава",
-        "orig": "Frank and Ava",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Майкл Обловитц",
-        "genre": "история,драма,биография",
-        "actors": "Рико Симонини, Эмили Элисия Лоу, Гарри Дин Стэнтон, Лукас Хаас, Эрик Робертс, Майкл Алаймо, Робин Аркури, Бренда Николь Уолш, Люк Остин, Stephanie Carolina Aviles",
-        "description": "Фрэнк Синатра когда-то был обычным мужчиной, который очень нуждался в любви. Основанный на реальных событиях фильм рассказывает о взаимоотношениях знаменитого певца и актера со звездой Голливуда Авой Гарднер.",
-        "slogan": "They loved each other like a battle to the death",
-        "premiere": "7 декабря 2018",
-        "age": "0",
-        "time": "6600",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYzJmYjA0MzgtN2NmNy00MzNiLThmNjMtZDI0ZjRhNzBlZTdkXkEyXkFqcGdeQXVyODA4MzkyNjM@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "21",
-          "rating_imdb": "3.6",
-          "vote_num_imdb": "155"
         }
       }
     }

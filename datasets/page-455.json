@@ -2,6 +2,186 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "939290",
+      "date": "1583919017",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Прогулка по Риму",
+        "orig": "Una gita a Roma",
+        "alter": "",
+        "year": "2017",
+        "country": "Италия",
+        "director": "Карин Пройа",
+        "genre": "приключения",
+        "actors": "Стефано Амброджи,Фабрицио Аполлони,Лучия Батасса,Пино Борселли,Сильвана Бози,Раффаэль Буранелли,Tea Buranelli,Клаудия Кардинале,Francesca Luce Cardinale,Кьяра Конти",
+        "description": "Франческо исполнилось 9 лет, и семья подарила ему билеты в Рим, чтобы увидеть знаменитую Сикстинскую капеллу. Настал долгожданный день поездки, но непредвиденные проблемы заставляют вернуться из Рима раньше. Франческо не устраивает такой ход вещей, и он решает сбежать от мамы и самостоятельно добраться до Ватикана... Младшая сестра Мария следует за ним, и перед детьми открывается удивительная, полная волшебства и тайн вселенная Вечного города.",
+        "slogan": "Если вы ищете красоту, то вам в Рим!",
+        "premiere": "18 октября 2018",
+        "age": "6",
+        "time": "6600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_939290.jpg",
+        "rating": {
+          "rating_kp": "6.312",
+          "vote_num_kp": "874",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "55"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "828284",
+      "date": "1583869654",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "2012",
+        "orig": "MMXII",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Austin Newman,Остин Ньюман",
+        "genre": "драма,мелодрама,приключения",
+        "actors": "Эшли Догерти,Blake Ryan McGinnis,Sincera Alexander,Robert Smith,Robin Olson,Ингрид Ливингстон,Ray Alger,Энн Эйрс,Tanita Love,Адриан Манчинелли",
+        "description": "Опасаясь за жизнь своей подруги, которая лежит в коме, Патрик находит способ проникнуть в её мир, чтобы вернуть девушку к реальности.",
+        "slogan": "",
+        "premiere": "27 января 2017",
+        "age": "0",
+        "time": "6540",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_828284.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "6",
+          "rating_imdb": "8.2",
+          "vote_num_imdb": "20"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1293597",
+      "date": "1583869163",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Путешествие трех псов",
+        "orig": "It Takes Three",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Эван Трэмел",
+        "genre": "семейный",
+        "actors": "Thomas Carr,Тина Шустер,Jacob Tyler",
+        "description": "Гас, Бэлла и их новый товарищ Дружок отправляются в удивительную поездку через всю страну с целью воссоединить семью и вернуть в дом любовь. Их путешествие становится еще более захватывающим, когда в их планы вмешается коварный кот Жан Царап.",
+        "slogan": "",
+        "premiere": "1 октября 2019",
+        "age": "0",
+        "time": "4440",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDUzZWMzMGQtYzE0My00ODU0LTkzNTctY2QxMTQzNmVjYjUxXkEyXkFqcGdeQXVyMjM3NDgxNw@@._V1_.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "2.9",
+          "vote_num_imdb": "22"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "958532",
+      "date": "1583868875",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Женщина, идущая впереди",
+        "orig": "Woman Walks Ahead",
+        "alter": "Женщина идет впереди",
+        "year": "2017",
+        "country": "США",
+        "director": "Сюзанна Уайт",
+        "genre": "история,драма,вестерн",
+        "actors": "Джессика Честейн, Луиса Краузе, Бутс Сауферлэнд, Чэск Спенсер, Киран Хайндс, Киндалл Чартерс, Сэм Рокуэлл, Джейкоб Браун, Люче Рэйнс, Род Рондо",
+        "description": "Фильм повествует о Кэтрин Уэлдон, овдовевшей художнице из Нью-Йорка, которая приезжает в Северную Дакоту, чтобы нарисовать портрет вождя индейского племени по прозвищу Сидящий Бык. Они черпают все большие силы в общении друг с другом, но вскоре политическая борьба за права коренных народов Америки ставит их дружбу под угрозу. Героям предстоит преодолеть личные разногласия, чтобы вместе защитить земли равнинных индейцев от посягательств правительства США.",
+        "slogan": "Defy your times",
+        "premiere": "10 сентября 2017",
+        "age": "0",
+        "time": "6060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_958532.jpg",
+        "rating": {
+          "rating_kp": "6.728",
+          "vote_num_kp": "1870",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "6713"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "225236",
+      "date": "1583868735",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Джай и Виджай",
+        "orig": "Jai-Vijay",
+        "alter": "",
+        "year": "1977",
+        "country": "Индия",
+        "director": "Л.В. Прасад",
+        "genre": "фэнтези,боевик,драма,приключения",
+        "actors": "Джитендра,Рина Рой,Прем Кришан,Биндия Госвами,Ом Шивпури,Сатиендра Капур,Урмила Бхатт,Рупеш Кумар,Камал Капур,Лалита Павар",
+        "description": "Махараджи княжеств Мальвы, Пушпапури и Панчала, опасаясь разбойников племени Джунга, спрятали сокровища в тайник. Тайна сокровищ заключена в трёх ожерельях, передающихся из поколения в поколение. 200 лет спустя Шамшеру Джунгу удается свергнуть законного махараджу Мальвы Дхарампала Сингха. Махарадже и махарани удалось спастись, но они были разлучены со своими детьми принцами Джаем и Виджаем. Теперь семье предстоит объединиться, свергнуть ненавистного разбойника и найти сокровища.",
+        "slogan": "",
+        "premiere": "11 ноября 1977",
+        "age": "0",
+        "time": "9120",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2RkN2YyY2MtMmJiMy00MTcyLTkyODUtNzEwNzA2Y2QxMTAxXkEyXkFqcGdeQXVyNDQwOTAzNw@@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "18",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "29"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1117089",
       "date": "1583832857",
       "camrip": "0",
@@ -403,10 +583,10 @@
         "time": "3000",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1132285.jpg",
         "rating": {
-          "rating_kp": "7.639",
-          "vote_num_kp": "8596",
+          "rating_kp": "7.641",
+          "vote_num_kp": "8608",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "22996"
+          "vote_num_imdb": "23035"
         }
       }
     },
@@ -458,7 +638,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1275121.jpg",
         "rating": {
           "rating_kp": "5.213",
-          "vote_num_kp": "1717",
+          "vote_num_kp": "1722",
           "rating_imdb": "5.4",
           "vote_num_imdb": "650"
         }
@@ -524,9 +704,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1274280.jpg",
         "rating": {
           "rating_kp": "8.173",
-          "vote_num_kp": "8923",
+          "vote_num_kp": "8932",
           "rating_imdb": "8.8",
-          "vote_num_imdb": "27591"
+          "vote_num_imdb": "27649"
         }
       }
     },
@@ -578,10 +758,10 @@
         "time": "1380",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1272446.jpg",
         "rating": {
-          "rating_kp": "6.159",
-          "vote_num_kp": "4772",
+          "rating_kp": "6.166",
+          "vote_num_kp": "4788",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "2276"
+          "vote_num_imdb": "2282"
         }
       }
     },
@@ -650,10 +830,10 @@
         "time": "1440",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1226631.jpg",
         "rating": {
-          "rating_kp": "7.945",
-          "vote_num_kp": "14648",
+          "rating_kp": "7.947",
+          "vote_num_kp": "14684",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "10732"
+          "vote_num_imdb": "10738"
         }
       }
     },
@@ -718,9 +898,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1235052.jpg",
         "rating": {
           "rating_kp": "7.601",
-          "vote_num_kp": "13513",
+          "vote_num_kp": "13551",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "10422"
+          "vote_num_imdb": "10433"
         }
       }
     },
@@ -789,10 +969,10 @@
         "time": "5640",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1148990.jpg",
         "rating": {
-          "rating_kp": "6.179",
-          "vote_num_kp": "9739",
+          "rating_kp": "6.18",
+          "vote_num_kp": "9770",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "21471"
+          "vote_num_imdb": "21503"
         }
       }
     },
@@ -1042,9 +1222,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1232568.jpg",
         "rating": {
           "rating_kp": "7.154",
-          "vote_num_kp": "3913",
+          "vote_num_kp": "3920",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "3776"
+          "vote_num_imdb": "3777"
         }
       }
     },
@@ -1150,7 +1330,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_972740.jpg",
         "rating": {
           "rating_kp": "5.942",
-          "vote_num_kp": "86114",
+          "vote_num_kp": "86132",
           "rating_imdb": "5.2",
           "vote_num_imdb": "1405"
         }
@@ -1294,7 +1474,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6268.jpg",
         "rating": {
           "rating_kp": "6.881",
-          "vote_num_kp": "6767",
+          "vote_num_kp": "6769",
           "rating_imdb": "7.2",
           "vote_num_imdb": "54341"
         }
@@ -1330,9 +1510,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462240.jpg",
         "rating": {
           "rating_kp": "6.536",
-          "vote_num_kp": "17460",
+          "vote_num_kp": "17474",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "113304"
+          "vote_num_imdb": "113402"
         }
       }
     },
@@ -1366,9 +1546,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_105217.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "67",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "42"
+          "vote_num_kp": "72",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "45"
         }
       }
     },
@@ -1579,9 +1759,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1002686.jpg",
         "rating": {
           "rating_kp": "8.197",
-          "vote_num_kp": "15632",
+          "vote_num_kp": "15651",
           "rating_imdb": "8.6",
-          "vote_num_imdb": "24863"
+          "vote_num_imdb": "24897"
         }
       }
     },
@@ -1692,9 +1872,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_843954.jpg",
         "rating": {
           "rating_kp": "7.742",
-          "vote_num_kp": "14955",
+          "vote_num_kp": "14976",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "29326"
+          "vote_num_imdb": "29340"
         }
       }
     },
@@ -1875,186 +2055,6 @@
           "vote_num_kp": "985",
           "rating_imdb": "5.6",
           "vote_num_imdb": "57"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1228547",
-      "date": "1583431007",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Марафон желаний",
-        "orig": "Марафон желаний",
-        "alter": "",
-        "year": "2020",
-        "country": "Россия",
-        "director": "Даша Чаруша",
-        "genre": "комедия,мелодрама",
-        "actors": "Аглая Тарасова,Кирилл Нагиев,Мария Миногарова,Александр Гудков,Яна Троянова,Павел Деревянко,Юлия Ауг,Екатерина Варнава,Макар Запорожский,Олег Курсачёв",
-        "description": "&laquo;Я хочу нижнее белье из одного комплекта. Я хочу в Париж. Я хочу увидеть мир. Я хочу замуж за любимого. Я хочу новые духи. Я хочу отдать кредит за окна! Я хочу найти паспорт до свадьбы&raquo;&#133; \r\n\r\nУ Марины есть 7 желаний. Но главное &#151; стать счастливой. Однако пересадка в Пулково и неожиданная встреча вносят свои коррективы в ее планы.",
-        "slogan": "",
-        "premiere": "7 февраля 2020",
-        "age": "16",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1228547.jpg",
-        "rating": {
-          "rating_kp": "5.521",
-          "vote_num_kp": "52775",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "883"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1164809",
-      "date": "1583397709",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Девушка в лабиринте",
-        "orig": "L'uomo del labirinto",
-        "alter": "",
-        "year": "2019",
-        "country": "Италия",
-        "director": "Донато Карризи",
-        "genre": "триллер,детектив",
-        "actors": "Дастин Хоффман,Тони Сервилло,Валентина Белле,Виничио Маркиони,Кацярына Шульга,Орландо Синк,Филиппо Дини,Серджо Гроссини,Карла Кассола,Луис Ньекко",
-        "description": "Саманта просыпается со сломанной ногой в комнате без окон. Она дезориентирована и ничего не помнит. Криминальный психолог доктор Грин объясняет испуганной девушке, что её похитили 15 лет назад. Каким-то чудом Саманте удалось бежать, и теперь психологу нужно проникнуть в её разум, чтобы найти похитителя.\r\n\r\nПомимо Грина, случаем Саманты занимается частный детектив Бруно Генко, для которого поиски похитителя — таинственного человека в маске — должны стать последним делом жизни. Попытка разгадать тайну Саманты превращается в гонку в лабиринте, где каждая подсказка может стать ловушкой, а за каждой дверью может таиться смерть.",
-        "slogan": "",
-        "premiere": "30 октября 2019",
-        "age": "16",
-        "time": "7800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1164809.jpg",
-        "rating": {
-          "rating_kp": "6.333",
-          "vote_num_kp": "11283",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "3213"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1005895",
-      "date": "1583397525",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Невозможные чудовища",
-        "orig": "Impossible Monsters",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Nathan Catucci",
-        "genre": "триллер",
-        "actors": "Сантино Фонтана,Деннис Буцикарис,Лайла Робинс,Джеффри Оуэнс,Натали Кнепп,Mercer Boffey,Лянка Грыу,Девика Бисе,Дженнифер Лим,Рио Рокет",
-        "description": "Во время исследования возможностей сна, у участников эксперимента начинают размываться границы между сновидениями и реальностью. После одного из сеансов студентку-участницу группы убивают. Подозрения падают на профессора, так как он — последний, кто видел её живой.",
-        "slogan": "Everyone has nightmares. Most survive",
-        "premiere": "9 марта 2019",
-        "age": "0",
-        "time": "5040",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1005895.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "55",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "5287"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1188475",
-      "date": "1583397390",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Алиса и мэр",
-        "orig": "Alice et le maire",
-        "alter": "",
-        "year": "2019",
-        "country": "Франция,Бельгия",
-        "director": "Николас Пэрисер",
-        "genre": "драма,комедия",
-        "actors": "Фабрис Лукини,Анаис Демустье,Нора Хамзави,Леони Симага,Антуан Райнарц,Мод Уайлер,Александр Стайгер,Паскаль Ренерик,Thomas Rortais,Тома Шаброль",
-        "description": "Мэр Лиона после тридцати лет в политики оказывается в щекотливом положении, у него больше не осталось ни одной стоящей идеи. На помощь к нему приходит новая помощница &#151; молодой и талантливый философ Алиса.",
-        "slogan": "",
-        "premiere": "18 мая 2019",
-        "age": "0",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1188475.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "96",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "2007"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1229872",
-      "date": "1583397094",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Храбрец из Вайкунтхи",
-        "orig": "Ala Vaikunthapurramuloo",
-        "alter": "",
-        "year": "2020",
-        "country": "Индия",
-        "director": "Тривикрам Шринивас",
-        "genre": "боевик,драма",
-        "actors": "Аллу Арджун,Пуджа Хегде,Табу,Джаярам,Сушантх,Мурли Шарма,Ниветха Петхурадж,Навдип,Самудира Кани,Сунил",
-        "description": "25 лет назад, в одном роддоме, подменили двух младенцев из двух совершенно разных семей. Наследник богатой династии, в итоге, воспитывается в семье рабочих среднего класса, а мальчик, который должен был быть на его месте, воспитывается семьей, владеющей целой группой компаний...",
-        "slogan": "",
-        "premiere": "10 января 2020",
-        "age": "0",
-        "time": "9780",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1229872.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "623",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "13002"
         }
       }
     }

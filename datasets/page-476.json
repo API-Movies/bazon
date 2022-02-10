@@ -2,6 +2,186 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1031314",
+      "date": "1582099094",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Канал-стрит",
+        "orig": "Canal Street",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Райан ЛаМарр",
+        "genre": "триллер,драма",
+        "actors": "Лэнс Реддик, Майкелти Уильямсон, Майкл Бич, Джэми Гектор, Джон Седа, Уилл Юн Ли, Мекхай Файфер, Гарри Дж. Ленникс, Тоуни Ньюсом, Ларойс Хоукинс",
+        "description": "Отец темнокожего парня, арестованного за убийство своего белого одноклассника, не верит в его виновность и борется в суде за оправдание сына.",
+        "slogan": "",
+        "premiere": "13 июня 2018",
+        "age": "0",
+        "time": "5340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1031314.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "26",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "322"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1031275",
+      "date": "1582099092",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Чироки Крик",
+        "orig": "Cherokee Creek",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Тодд Дженкинс",
+        "genre": "комедия,ужасы",
+        "actors": "Билли Блэр, Тодд Дженкинс, Джастин Армстронг, Оливия Стем, Justin Duncan, Терри Паркс, Рэй Хосэк, Нелли Скиутто, Джефф Сверинген, Джейсон П. Кендалл",
+        "description": "Холостяцкая вечеринка в лесу становится намного интереснее, когда на неё заглядывает настоящий монстр тусовок.",
+        "slogan": "",
+        "premiere": "26 июля 2018",
+        "age": "0",
+        "time": "6720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1031275.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "50",
+          "rating_imdb": "4",
+          "vote_num_imdb": "610"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1031080",
+      "date": "1582099087",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Миг",
+        "orig": "Blink",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Courtney Glaude",
+        "genre": "драма",
+        "actors": "Marty Blair, Ховард Кэлверт, Malcolm Carter, Courtney Glaude, Pamela Jarmon-Wade, Will Scott, Chasity Sereal, Bianca Siplin, Huberto Villarreal, Dorrian Wilson",
+        "description": "Жертва домашнего насилия осознает, что для выбора в пользу лучшей жизни может быть дан всего один момент, быстрее, чем самый короткий миг.",
+        "slogan": "You are me, or you know me!",
+        "premiere": "7 сентября 2018",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmZiZmIxZjctNzUzYy00NzEwLWFkZmQtNGI5OThhNmUyMjZkXkEyXkFqcGdeQXVyNzAxMDc0NTA@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "70"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1030922",
+      "date": "1582099086",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Детектив с пучком на голове",
+        "orig": "Top Knot Detective",
+        "alter": "",
+        "year": "2017",
+        "country": "Австралия, Япония",
+        "director": "Аарон МакКанн, Доминик Пирс",
+        "genre": "комедия,боевик,фантастика,детектив,драма,криминал",
+        "actors": "Тоси Окудзаки, Маса Ямагути, Маю Ивасаки, Куни Хасимото, Идзуми Вудс, Нубуаки Симамото, Ёдзи Тацута, Синити Мацуда, Оскар Харрис, Ли Лин Чин",
+        "description": "Ведущий передачи об интересных, но неизвестных широкой публике фильмах и сериалах рассказывает о культовом японском сериале 80-х годов про самурая-детектива. Члены съёмочной группы вспоминают его создателя, режиссёра и исполнителя главной роли Такаси Такамото, отношения на съёмочной площадке и о том, как так получилось, что этот великий трэш-сериал больше нельзя посмотреть.",
+        "slogan": "Learn the inside story about the greatest Japanese samurai series, you've never heard of before",
+        "premiere": "1 апреля 2017",
+        "age": "0",
+        "time": "5220",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1030922.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "93",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "347"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1030778",
+      "date": "1582099084",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Песня о Свэй-Лэйк",
+        "orig": "The Song of Sway Lake",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Ари Голд",
+        "genre": "мелодрама,драма,мюзикл",
+        "actors": "Рори Калкин, Роберт Шиэн, Изабель МакНалли, Мэри Бет Пейл, Элизабет Пенья, Джек Фалахи, Брайан Деннехи, Анна Шилдс, Gary Arzberger, John W. Bard",
+        "description": "Действие фильма разворачивается летом 1992 года. Спустя пять месяцев после самоубийства отца, молодой Олли Суэй возвращается в родительский дом, расположенный на берегу живописного озера, чтобы навестить свою бабушку. Вместе со своим другом, русским иммигрантом Николаем, парень планирует украсть из дома ценную пластинку &quot;Свэй-Лэйк&quot;, выпущенную в 1978 году. Олли считает, что отец хотел бы передать эту пластинку именно ему, так как парень уже долгое время является музыкальным коллекционером. Но по приезду судьба вносит в планы друзей собственные коррективы...",
+        "slogan": "",
+        "premiere": "21 июня 2017",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1030778.jpg",
+        "rating": {
+          "rating_kp": "6.066",
+          "vote_num_kp": "170",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "591"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1030221",
       "date": "1582099078",
       "camrip": "0",
@@ -464,7 +644,7 @@
           "rating_kp": "0",
           "vote_num_kp": "179",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "5826"
+          "vote_num_imdb": "5835"
         }
       }
     },
@@ -1040,7 +1220,7 @@
           "rating_kp": "5.955",
           "vote_num_kp": "405",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "2727"
+          "vote_num_imdb": "2732"
         }
       }
     },
@@ -1617,186 +1797,6 @@
           "vote_num_kp": "27",
           "rating_imdb": "3.6",
           "vote_num_imdb": "137"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1021779",
-      "date": "1582098948",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Ведьма Лилли спасает Рождество",
-        "orig": "Hexe Lillis eingesacktes Weihnachtsfest",
-        "alter": "",
-        "year": "2017",
-        "country": "Германия",
-        "director": "Вольфганг Гроос",
-        "genre": "комедия,фэнтези,драма,семейный",
-        "actors": "Abdullah Daglioglu, Кристоф Биттенауэр, Герти Драссль, Хедда Эрлебах, Мареза Хёрбигер, Аня Клинг, Michel Komzak, Claudio Magno, Маурицио Магно, Михаэль Миттермейер",
-        "description": "Маленькая ведьма Лилли, несмотря на свои способности, не верит в Святого Николая. Ее постоянно докучает ее младший брат и она хочет вызвать слугу Рупрэхьта, помощника Николая, чтобы наказать брата Леона. Но как только Рупрэхьт приходит в ее мир, все начинает идти не по плану. Сможет ли Лилли вернуть помощника Николая обратно?",
-        "slogan": "",
-        "premiere": "9 ноября 2017",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1021779.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "29",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "77"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1021550",
-      "date": "1582098945",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Парк для медитации",
-        "orig": "Meditation Park",
-        "alter": "",
-        "year": "2017",
-        "country": "Канада",
-        "director": "Мина Шум",
-        "genre": "драма",
-        "actors": "Чжэн Пэйпэй, Ма Ци, Сандра О, Дон МакКеллар, Зак Сантьяго, Дженни Чен, Лиллиэн Лим, Аланна Онг, Шермейн Йео, Лиэн Балабан",
-        "description": "Жизнь немолодой женщины резко меняется, когда она узнаёт тайну своего мужа.",
-        "slogan": "",
-        "premiere": "8 сентября 2017",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1021550.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "36",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "523"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1021409",
-      "date": "1582098942",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Соблазнитель",
-        "orig": "The Charmer",
-        "alter": "",
-        "year": "2017",
-        "country": "Дания, Швеция",
-        "director": "Милад Алами",
-        "genre": "триллер,мелодрама,драма",
-        "actors": "Ардалан Эсмаили, Soho Rezanejad, Ларс Брюгманн, Сусан Таслими, Эльмира Арикан, Хассан Эль Сайед, Стайн Фишер Кристенсен, Амалия Линдегард, Dan Boie Kratfeldt, Austa Lea Jespersen",
-        "description": "Психологическая драма об иранце, приехавшем на заработки в Данию. Он пытается найти способ остаться в стране законно, при этом поддерживать связь с семьей. В его жизни просиходят перемены, но пршлое не отпускает.",
-        "slogan": "",
-        "premiere": "22 сентября 2017",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1021409.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "137",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "1054"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1021379",
-      "date": "1582098940",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Меня зовут Томас",
-        "orig": "My Name Is Thomas",
-        "alter": "",
-        "year": "2018",
-        "country": "Италия",
-        "director": "Теренс Хилл",
-        "genre": "драма",
-        "actors": "Теренс Хилл, Veronica Bitto, Ева Бэстеиро-Бертоли, Francesca Beggio, Гуя Йело, Энди Луотто, Giovanni Malafronte, Мэтт Патрези, Cinzia Susino",
-        "description": "Старый одинокий волк отправляется на своем харлее в Альмерийскую пустыню, чтобы помедитировать за чтением любимой книги. Но планы на уединенный отдых быстро летят в тартарары, когда он выручает из беды Лючию - крайне непредсказуемую молодую девушку, не брезгующую обманом и воровством.",
-        "slogan": "",
-        "premiere": "19 апреля 2018",
-        "age": "0",
-        "time": "5760",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjEzYzdmNmQtNWM0OS00NDk4LTk0MTItNGNjNzQwODY4OTkyXkEyXkFqcGdeQXVyMjU3OTkzNg@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "21",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "582"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1021277",
-      "date": "1582098939",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "И гаснет свет",
-        "orig": "Dim the Fluorescents",
-        "alter": "",
-        "year": "2017",
-        "country": "Канада",
-        "director": "Daniel Warth",
-        "genre": "комедия,драма",
-        "actors": "Claire Armstrong, Naomi Skwarna, Andreana Callegarini-Gradzik, Брендан Обин, Клер МакКоннелл, Т. Грэхэм, Jocelyn Reynolds, Анна Магвайр, Laura Tanguay, Thalia Kane",
-        "description": "Стремящаяся к известности актриса и начинающий драматург растрачивают свою творческую энергию в ролевых демонстрациях для корпоративных обучающих семинаров. Но однажды они получают большой заказ, который должен принести им огромный успех и кучу денег.",
-        "slogan": "",
-        "premiere": "21 января 2017",
-        "age": "0",
-        "time": "7680",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1021277.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "32",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "280"
         }
       }
     }

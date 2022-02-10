@@ -2,6 +2,186 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1072836",
+      "date": "1582099974",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Голкипер",
+        "orig": "Trautmann",
+        "alter": "",
+        "year": "2018",
+        "country": "Великобритания, Германия",
+        "director": "Маркус Розенмюллер",
+        "genre": "мелодрама,драма,биография,военный,спорт",
+        "actors": "Давид Кросс, Фрейя Мавор, Джон Хеншоу, Гарри Меллинг, Майкл Сока, Дэйв Джонс, Барбара Янг, Хлоя Харрис, Майки Коллинз, Гари Льюис",
+        "description": "Фильм рассказывает необыкновенную историю любви между молодой англичанкой и немецким военнопленным, которые вместе преодолевают предрассудки, враждебное отношение общественности и личную трагедию.",
+        "slogan": "Er kam als Feind... Und wurde ihr Held",
+        "premiere": "1 октября 2018",
+        "age": "16",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072836.jpg",
+        "rating": {
+          "rating_kp": "7.231",
+          "vote_num_kp": "275",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "4852"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1072723",
+      "date": "1582099972",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Дублинский олдскул",
+        "orig": "Dublin Oldschool",
+        "alter": "",
+        "year": "2018",
+        "country": "Ирландия",
+        "director": "Дэйв Тайнен",
+        "genre": "драма",
+        "actors": "Эммет Кирван, Йен Ллойд Андерсон, Шана Керслэйк, Сара Грин, Ciaran Grace, Марк О’Халлоран, Liam Heslin, Стивен Джонс, Leah Minto, Брайан Куинн",
+        "description": "Молодежь ирландской столицы на драйве, в рейвах и в любви. Начинающий диджей Джейсон возобновляет отношения с братом, пути с которым разошлись уже давно. Но постепенно выясняется, что жизни двух братьев не такие уж и разные.",
+        "slogan": "",
+        "premiere": "29 июня 2018",
+        "age": "18",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072723.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "65",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "703"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1072512",
+      "date": "1582099968",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "В ее крови",
+        "orig": "In Her Blood",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Heather Ann McBride",
+        "genre": "триллер",
+        "actors": "Robert Randall, John Vaughan Lemhouse, Doug Anders, Lia Rose Dugal, Erin Emmert, Sarah Elizabeth Greene, Jordyn Johnson, John Jurkowski, Brigitte L. McBride, Zar Oelke",
+        "description": "Четырнадцатилетняя Хэдли и её сестра остались без крыши над головой. Хэдли впервые за долгие годы обратилась за помощью к своему дедушке, только чтобы обнаружить, что на улице намного безопаснее.",
+        "slogan": "Homeless and hungry, 14 year old Hadley reaches out to her grandfather and great aunt for help. She soon discovers it was safer on the streets",
+        "premiere": "",
+        "age": "0",
+        "time": "7380",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072512.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "19",
+          "rating_imdb": "3",
+          "vote_num_imdb": "59"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1072510",
+      "date": "1582099966",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "12",
+        "orig": "The 12",
+        "alter": "Двенадцать",
+        "year": "2017",
+        "country": "Великобритания",
+        "director": "James Whitehill",
+        "genre": "триллер",
+        "actors": "Кристофер Хантер,Джонатан Кут,Miranda Horn,Джорджина Джейн,Kerry Rousell,Филип Риду,Эмили Суэйн,Susan Piper,Kevin Manteaw,Чарльз Эбомели",
+        "description": "Вооруженный смертник берет в заложники прихожан церкви, желая тем самым отомстить пастырю за свою жену и наказать его за грехи.",
+        "slogan": "",
+        "premiere": "30 ноября 2017",
+        "age": "0",
+        "time": "4860",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072510.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "8",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "85"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1072448",
+      "date": "1582099963",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Умрите в один день",
+        "orig": "Die in One Day",
+        "alter": "",
+        "year": "2018",
+        "country": "Италия",
+        "director": "Eros D'Antona",
+        "genre": "ужасы,триллер",
+        "actors": "Катерина Корчинская, Дэвид Уайт, Mirko D'Antona, Cinzia Susino, Бьяджо Сампьетро, Daniela Ladisi, Lisa Marie Picciolo, Dario Grassi, Vincenzo Intermite, Giuseppe Leo",
+        "description": "После неудачного брака, Ричард ищет свою дочь Минди. Он встречает Сашу, начинающую актрису, которая обещает помочь. Но надежда на быстрый заработок превращается в кровавую игру.",
+        "slogan": "",
+        "premiere": "9 августа 2018",
+        "age": "0",
+        "time": "4740",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072448.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "72",
+          "rating_imdb": "4",
+          "vote_num_imdb": "1734"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1072218",
       "date": "1582099962",
       "camrip": "0",
@@ -354,9 +534,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1070560.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "127",
+          "vote_num_kp": "128",
           "rating_imdb": "4.4",
-          "vote_num_imdb": "2204"
+          "vote_num_imdb": "2207"
         }
       }
     },
@@ -641,10 +821,10 @@
         "time": "7080",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1068749.jpg",
         "rating": {
-          "rating_kp": "6.76",
-          "vote_num_kp": "593",
+          "rating_kp": "6.774",
+          "vote_num_kp": "597",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "4477"
+          "vote_num_imdb": "4496"
         }
       }
     },
@@ -1254,9 +1434,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1065007.jpg",
         "rating": {
           "rating_kp": "5.863",
-          "vote_num_kp": "2836",
+          "vote_num_kp": "2842",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "2465"
+          "vote_num_imdb": "2468"
         }
       }
     },
@@ -1290,7 +1470,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1064970.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "116",
+          "vote_num_kp": "122",
           "rating_imdb": "3.8",
           "vote_num_imdb": "491"
         }
@@ -1617,186 +1797,6 @@
           "vote_num_kp": "21",
           "rating_imdb": "4.7",
           "vote_num_imdb": "440"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1063419",
-      "date": "1582099853",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Темнота",
-        "orig": "A Dark Place",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Christopher Pinero",
-        "genre": "драма",
-        "actors": "Люк Бэйнс,Jaron Michael Hawkins,Jazlyn Yoder,Jay Eftimoski,Christopher Donnellon,А. Вероника Диас,Майк Миллер,Кайл Хорн,Natalie Pelletier,Рода Пелл",
-        "description": "Алекс пытается вернуть всё на круги своя, однако ошибки прошлого мешают ему найти работу, из-за чего отношения с его девушкой становятся всё хуже и хуже. Внезапно он встречает своего старого знакомого, который предлагает ему работу и спасает безвыходное положение. Вскоре Алекс узнает тайну, которая запускает чреду ужасных событий.",
-        "slogan": "How far would you go to bury a secret?",
-        "premiere": "27 апреля 2018",
-        "age": "0",
-        "time": "7200",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTYwODFjOTktNjdmMi00MDRhLTg4NGMtNGY1NTU0NDYwY2QzXkEyXkFqcGdeQXVyMDA4NzMyOA@@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "8",
-          "rating_imdb": "4.4",
-          "vote_num_imdb": "143"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1063383",
-      "date": "1582099851",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Помолвка на Рождество",
-        "orig": "Engaging Father Christmas",
-        "alter": "",
-        "year": "2017",
-        "country": "Канада",
-        "director": "Дэвид Уиннинг",
-        "genre": "мелодрама,драма",
-        "actors": "Эрин Краков, Найолл Мэттер, Уэнди Мэлик, Майкл Копса, П. Линн Джонсон, Алийа О’Брайен, Nevis Unipan, Каллум Сигрем Эйрли, Джим Торберн, Бетани Браун",
-        "description": "Миранда возвращается в Вермонт к своей семье, которую нашла всего год назад, и любимому, с которым познакомилась тогда же. Но в аэропорту происходит то, что ставит под угрозу не только будущее самой Миранды, но и репутацию всей её семьи.",
-        "slogan": "",
-        "premiere": "12 ноября 2017",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1063383.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "81",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "1493"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1063294",
-      "date": "1582099850",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Прирожденная наездница",
-        "orig": "Pistachio",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Анна Элизабет Джеймс",
-        "genre": "приключения,семейный",
-        "actors": "Дениз Ричардс, Джозеф Лоуренс, Мадлен Кэрролл, Ник Сирси, Касси Томсон, Эмбер Монтана, Грейс Джонстон, Саманта Миллер, Оливия Джордан, Коннор Макрэйт",
-        "description": "Девочка-подросток Лили с неохотой уезжает на лето из пригорода на ранчо к родственникам. Там она знакомится с Фисташкой - строптивым и необъезженным жеребцом. Лили решает укротить его, заводит новых друзей и участвует в скачках, чтобы вернуть семейные земли и не потерять ставшего бесценным нового друга.",
-        "slogan": "",
-        "premiere": "14 августа 2018",
-        "age": "18",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1063294.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "569",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "231"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1063247",
-      "date": "1582099849",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Гагара",
-        "orig": "Loon",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Эндрю Бассетт, Lilian Langston",
-        "genre": "ужасы,триллер",
-        "actors": "Лекси Анастэйша, Taylor Lennox, Джефф Мэдли, Майя Винн",
-        "description": "Молодожёны отправляются в заброшенную хижину в Монтане, где внезапно встречают чудаковатого соседа. В итоге безмятежный медовый месяц у озера в лесу оборачивается кошмарным испытанием для обоих.",
-        "slogan": "",
-        "premiere": "3 ноября 2017",
-        "age": "0",
-        "time": "4740",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1063247.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "34",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "70"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1063012",
-      "date": "1582099846",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Вудсток или облом",
-        "orig": "Woodstock or Bust",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Leslie Bloom",
-        "genre": "драма",
-        "actors": "Уиллоу Шилдс, Мэг Келли, Тедди Ван Ии, Кори Браниш, Christopher Kozak, Lisa Skvarla, Элайджа Стивенсон, Рейчел Генри, Дженнифер Ланье, Майкл Е. Белл",
-        "description": "Две девушки отправляются на кабриолете на восток, чтобы выступить с концертом на Вудстоке.",
-        "slogan": "",
-        "premiere": "27 апреля 2019",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1063012.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "15",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "176"
         }
       }
     }

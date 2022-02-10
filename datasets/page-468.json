@@ -2,6 +2,186 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1080782",
+      "date": "1582100085",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Настоящий Дон Кихот",
+        "orig": "The True Don Quixote",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Крис Поше",
+        "genre": "комедия",
+        "actors": "Джейкоб Баталон, Тим Блейк Нельсон, Люси Фауст, Дэйв Дэвис, Энн Махони, Брэндон Стэйси, Морган Робертс, Энтони Марбл, Кристин Дэниэл, Сэм Мэлоун",
+        "description": "Тим Блейк Нельсон (Баллада Бастера Скраггса) живёт в безопасности и комфорте, но ему ужасно наскучила его жизнь. В отчаянии, он ищет вдохновения в классических романах. Потрясённый историями былых времён, он начинает считать себя Дон Кихотом. Он отправляется на поиски приключений и славы, при этом не покидая свой знакомый район.",
+        "slogan": "",
+        "premiere": "28 сентября 2019",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1080782.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "22",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "239"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1080758",
+      "date": "1582100083",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Экспо",
+        "orig": "Expo",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Joseph Mbah",
+        "genre": "боевик,драма,криминал",
+        "actors": "Derek Davenport, Richard Lippert, Амелия Хаберман, Shepsut Wilson, Titus Covington, Майкл Альварез, Hayley Vrana, Eric Lettman, Remi Hill, Keith J. Obit",
+        "description": "У бывшего солдата Дерека есть всего три дня, чтобы доказать свою невиновность и спасти похищенную дочь своего клиента или ему придется заплатить за преступление, которого он не совершал.",
+        "slogan": "Three days to die",
+        "premiere": "3 августа 2019",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmQ0NzQxOGItNWM2NS00YWUzLThjNmQtMTU5NTAyZmY5MjdjXkEyXkFqcGdeQXVyNjMwMzc3MjE@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "3199"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1080166",
+      "date": "1582100081",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Талон Фоллс",
+        "orig": "Talon Falls",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Джош Шрив",
+        "genre": "ужасы",
+        "actors": "Brad Bell, Fred Biggs, Lonnie Bloomburg, Matthew Bozone, Krissy Leanne Calouro, Tim Casey, Steven Chaney, Michial Courtney, Kurtis Hage, Josh Iervese",
+        "description": "Четыре подростка, отправившиеся в путешествие, решают поехать в объезд и по пути заскочить в один из обычных для Америки домов с привидениями, что находится в лесах Кентуки. Увидев множество пыток и издевательств, перед ними встал вопрос: не слишком ли это реалистично? Прежде, чем они узнают ответ на свой вопрос, им самим придётся стать частью ужасного аттракциона, который изначально они считали забавным...",
+        "slogan": "",
+        "premiere": "13 октября 2017",
+        "age": "0",
+        "time": "4500",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzgzYjBjZDYtMjRlYi00ZDIyLWJlOTctOWFiYTNjZmViZDYwXkEyXkFqcGdeQXVyNTcwMzkyNDE@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "107",
+          "rating_imdb": "4.4",
+          "vote_num_imdb": "857"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1080161",
+      "date": "1582100079",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Убойный уикенд",
+        "orig": "Fubar",
+        "alter": "",
+        "year": "2018",
+        "country": "Великобритания",
+        "director": "Бен Кент",
+        "genre": "комедия,ужасы",
+        "actors": "Марк Хип, Шон Верей, Дэнни Киррейн, Дэвид Мумени, Timothy Renouf, Перри Фицпатрик, Ивен Макинтош, Jake Abbott, Angie Adler, Луинг Эндрюс",
+        "description": "Группа друзей-неудачников отправляется принять участие в игре, имитирующей выживание во время зомби-апокалипсиса, но неудачное стечение обстоятельств превращает обычную страйкбольную партию в круговорот бредовых и абсурдных событий.",
+        "slogan": "It's all fun and games until some one gets hurt",
+        "premiere": "25 августа 2018",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2YyNDkyOGYtZWEyZC00NWMxLWIyOWEtNDdkY2JlZmExMWU4XkEyXkFqcGdeQXVyNjk5ODE4NjY@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "18",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "639"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1079640",
+      "date": "1582100075",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Психопатка",
+        "orig": "SheChotic",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Леандр Фиори",
+        "genre": "ужасы,детектив,драма",
+        "actors": "Erica Mitchell, Ruby Robledo, Amber Reign, Yasmein Ziyad, Леандр Фиори, Роберт Ди Уоттс, Рут Дэвис, Майя Таи Дорси, Jasmine Jordan, Ясин Абдул",
+        "description": "Всю жизнь Максин преследуют несчастья: изнасилование отчимом, измена собственного парня...Что может еще больше усугубить эту ситуацию? Конечно, раздвоение личности. Альтер-эго Максин не дает покоя и намеревается отомстить ее парню. Сможет ли Максин прийти в себя?",
+        "slogan": "",
+        "premiere": "",
+        "age": "18",
+        "time": "5580",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmE2NGVlOWItYjQyZi00Yjk4LTg4OWUtNjAxMDY0MDlhOWZmXkEyXkFqcGdeQXVyMzI0MzcwMDY@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "35",
+          "rating_imdb": "3",
+          "vote_num_imdb": "95"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1079242",
       "date": "1582100072",
       "camrip": "0",
@@ -66,9 +246,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1079015.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "94",
+          "vote_num_kp": "95",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "37687"
+          "vote_num_imdb": "37823"
         }
       }
     },
@@ -1328,7 +1508,7 @@
           "rating_kp": "0",
           "vote_num_kp": "39",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "584"
+          "vote_num_imdb": "587"
         }
       }
     },
@@ -1617,186 +1797,6 @@
           "vote_num_kp": "61",
           "rating_imdb": "6.9",
           "vote_num_imdb": "993"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1072836",
-      "date": "1582099974",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Голкипер",
-        "orig": "Trautmann",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания, Германия",
-        "director": "Маркус Розенмюллер",
-        "genre": "мелодрама,драма,биография,военный,спорт",
-        "actors": "Давид Кросс, Фрейя Мавор, Джон Хеншоу, Гарри Меллинг, Майкл Сока, Дэйв Джонс, Барбара Янг, Хлоя Харрис, Майки Коллинз, Гари Льюис",
-        "description": "Фильм рассказывает необыкновенную историю любви между молодой англичанкой и немецким военнопленным, которые вместе преодолевают предрассудки, враждебное отношение общественности и личную трагедию.",
-        "slogan": "Er kam als Feind... Und wurde ihr Held",
-        "premiere": "1 октября 2018",
-        "age": "16",
-        "time": "7200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072836.jpg",
-        "rating": {
-          "rating_kp": "7.231",
-          "vote_num_kp": "275",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "4852"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1072723",
-      "date": "1582099972",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Дублинский олдскул",
-        "orig": "Dublin Oldschool",
-        "alter": "",
-        "year": "2018",
-        "country": "Ирландия",
-        "director": "Дэйв Тайнен",
-        "genre": "драма",
-        "actors": "Эммет Кирван, Йен Ллойд Андерсон, Шана Керслэйк, Сара Грин, Ciaran Grace, Марк О’Халлоран, Liam Heslin, Стивен Джонс, Leah Minto, Брайан Куинн",
-        "description": "Молодежь ирландской столицы на драйве, в рейвах и в любви. Начинающий диджей Джейсон возобновляет отношения с братом, пути с которым разошлись уже давно. Но постепенно выясняется, что жизни двух братьев не такие уж и разные.",
-        "slogan": "",
-        "premiere": "29 июня 2018",
-        "age": "18",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072723.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "65",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "703"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1072512",
-      "date": "1582099968",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "В ее крови",
-        "orig": "In Her Blood",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Heather Ann McBride",
-        "genre": "триллер",
-        "actors": "Robert Randall, John Vaughan Lemhouse, Doug Anders, Lia Rose Dugal, Erin Emmert, Sarah Elizabeth Greene, Jordyn Johnson, John Jurkowski, Brigitte L. McBride, Zar Oelke",
-        "description": "Четырнадцатилетняя Хэдли и её сестра остались без крыши над головой. Хэдли впервые за долгие годы обратилась за помощью к своему дедушке, только чтобы обнаружить, что на улице намного безопаснее.",
-        "slogan": "Homeless and hungry, 14 year old Hadley reaches out to her grandfather and great aunt for help. She soon discovers it was safer on the streets",
-        "premiere": "",
-        "age": "0",
-        "time": "7380",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072512.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "19",
-          "rating_imdb": "3",
-          "vote_num_imdb": "59"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1072510",
-      "date": "1582099966",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "12",
-        "orig": "The 12",
-        "alter": "Двенадцать",
-        "year": "2017",
-        "country": "Великобритания",
-        "director": "James Whitehill",
-        "genre": "триллер",
-        "actors": "Кристофер Хантер,Джонатан Кут,Miranda Horn,Джорджина Джейн,Kerry Rousell,Филип Риду,Эмили Суэйн,Susan Piper,Kevin Manteaw,Чарльз Эбомели",
-        "description": "Вооруженный смертник берет в заложники прихожан церкви, желая тем самым отомстить пастырю за свою жену и наказать его за грехи.",
-        "slogan": "",
-        "premiere": "30 ноября 2017",
-        "age": "0",
-        "time": "4860",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072510.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "8",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "85"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1072448",
-      "date": "1582099963",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Умрите в один день",
-        "orig": "Die in One Day",
-        "alter": "",
-        "year": "2018",
-        "country": "Италия",
-        "director": "Eros D'Antona",
-        "genre": "ужасы,триллер",
-        "actors": "Катерина Корчинская, Дэвид Уайт, Mirko D'Antona, Cinzia Susino, Бьяджо Сампьетро, Daniela Ladisi, Lisa Marie Picciolo, Dario Grassi, Vincenzo Intermite, Giuseppe Leo",
-        "description": "После неудачного брака, Ричард ищет свою дочь Минди. Он встречает Сашу, начинающую актрису, которая обещает помочь. Но надежда на быстрый заработок превращается в кровавую игру.",
-        "slogan": "",
-        "premiere": "9 августа 2018",
-        "age": "0",
-        "time": "4740",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1072448.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "72",
-          "rating_imdb": "4",
-          "vote_num_imdb": "1734"
         }
       }
     }

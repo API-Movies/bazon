@@ -2,6 +2,186 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1272616",
+      "date": "1582110050",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Во власти красоты",
+        "orig": "Bellezonismo",
+        "alter": "",
+        "year": "2019",
+        "country": "Испания",
+        "director": "Jordi Arecón",
+        "genre": "комедия",
+        "actors": "Армандо дель Рио, Мигель Кацорла, Elvia Herrera, Янет Гарсиа, Raúl Herrera, Coral Gonzalez, Soledad Lasta, Desiré Pozos, Gemma Amorós, Ivan Nieto Pardillo",
+        "description": "Сократес и Капи - гонщики, участвующие в ралли. Неожиданно парочка заблудилась и оказалась на пустыре посреди гор. Это далеко не безлюдное место оказывается идеальным для расположения Технологичного центра красоты, где можно довести до совершенства внешний вид. Учреждением управляет бывший дизайнер, который изолировал себя от общества в окружении молодых девушек. Сократес узнаёт в одной из них любовь всей своей жизни. Вместе с Капи они решают проникнуть в Центр, чтобы вызволить её.",
+        "slogan": "Una experiencia solo para gente guapa",
+        "premiere": "12 июля 2019",
+        "age": "0",
+        "time": "5820",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmZmMGRmYTUtYmZjNi00Y2JkLWJmZDEtMTkxYTEyYWViNzlhXkEyXkFqcGdeQXVyNjgxNDc2NjI@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "16",
+          "rating_imdb": "2",
+          "vote_num_imdb": "148"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1271886",
+      "date": "1582110048",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Мумия: Перерождение",
+        "orig": "The Mummy Rebirth",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Ку, Джастин Прайс",
+        "genre": "боевик,ужасы",
+        "actors": "Carter, David E. Cazares, Дианна Грэйс Конго, Бриттани Гудвин",
+        "description": "Охотники за сокровищами находят древнюю гробницу и будят муммию, ждавшую много лет возможности вернуться и стереть человечество с лица Земли. Получится ли у героев спасти мир от хаоса?",
+        "slogan": "",
+        "premiere": "13 августа 2019",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1271886.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "59",
+          "rating_imdb": "2.5",
+          "vote_num_imdb": "923"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1270997",
+      "date": "1582110045",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "В сенаторы с Бето",
+        "orig": "Running with Beto",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Давид Модильяни",
+        "genre": "документальный",
+        "actors": "Бето О’Рурк, Эми О’Рурк, Синтия Кано, Джоди Кэйси, Крис Эванс, Дэвид Висонг, Шеннон Гэй, Марсель Макклинтон, Аманда Салас, Тед Крус",
+        "description": "Документальный рассказ о том, как малоизвестный представитель прогрессивных демократов Бето О‘Рурк стал восходящей звездой американской политической арены. В 2019-м он заявил о своем желании участвовать в грядущей президентской гонке. Режиссер целый год снимал предвыборную кампанию О’Рурка за место в сенаторы штата Техас.",
+        "slogan": "",
+        "premiere": "9 марта 2019",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1270997.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "35",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "593"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1265965",
+      "date": "1582110040",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Красное с зеленым",
+        "orig": "Ann Rolls Green",
+        "alter": "",
+        "year": "2018",
+        "country": "Великобритания",
+        "director": "George Perry",
+        "genre": "комедия,драма,приключения",
+        "actors": "Daniel Barnes, Arthur Godden, Archie Hunt, Adam Parsons, George Perry, Kayleigh-Paige Rees",
+        "description": "Невротичная девушка Энн прибегает к помощи своего помешанного кузена (который к тому же исповедует абсолютно бессмысленный религиозный культ) для того, чтобы найти и поймать своего бывшего парня, Фрэнка, бесследно исчезнувшего год назад. Дэнни полагает, что Фрэнк спятил и возомнил себя вторым Иисусом. Но как оказалось, не так просто похитить любимого человека.",
+        "slogan": "",
+        "premiere": "11 июня 2018",
+        "age": "0",
+        "time": "6120",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWI5NDY4OTMtMjJmMC00NGM0LTg1YmUtMmY3YjFkZjkwMmIyXkEyXkFqcGdeQXVyNTkxNTQ3OTA@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "23"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1264251",
+      "date": "1582110037",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "С любовью, ваш Картик",
+        "orig": "Prematho Mee Karthik",
+        "alter": "",
+        "year": "2017",
+        "country": "Индия",
+        "director": "Риши",
+        "genre": "боевик,мелодрама,драма",
+        "actors": "Картикея Гуммаконда, Джанси, Simrat Kaur, Pragathy, Prudvi Raj, Голлапуди Марути Рао, Мурли Шарма",
+        "description": "Гопи Кришна давно покинул свою семью, уехал из Индии и занимается бизнесом в Америке. Узнав о своей болезни, он решает показать сыну Картику страну, в которой родился. Картик не горит желанием путешествовать по патриархальной деревне, но встреча с очаровательной студенткой Анджали навсегда меняет его жизнь...",
+        "slogan": "",
+        "premiere": "17 ноября 2017",
+        "age": "0",
+        "time": "6900",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTQyMGQxMTMtMGFiNy00ODBhLTkyY2QtZTk1MzUwODdhOWMzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "40"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1264104",
       "date": "1582110034",
       "camrip": "0",
@@ -30,7 +210,7 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BMTkyYmMxYTUtZGIxMS00MWUxLTlkOTctN2RiYWY5ZTNlNjhlXkEyXkFqcGdeQXVyNTkzMzg3NDM@.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "150",
+          "vote_num_kp": "151",
           "rating_imdb": "2.1",
           "vote_num_imdb": "497"
         }
@@ -426,7 +606,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1237187.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "199",
+          "vote_num_kp": "200",
           "rating_imdb": "3.5",
           "vote_num_imdb": "504"
         }
@@ -464,7 +644,7 @@
           "rating_kp": "0",
           "vote_num_kp": "168",
           "rating_imdb": "1.8",
-          "vote_num_imdb": "1203"
+          "vote_num_imdb": "1205"
         }
       }
     },
@@ -605,10 +785,10 @@
         "time": "6960",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1236084.jpg",
         "rating": {
-          "rating_kp": "6.891",
-          "vote_num_kp": "2435",
+          "rating_kp": "6.903",
+          "vote_num_kp": "2442",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "319"
+          "vote_num_imdb": "321"
         }
       }
     },
@@ -714,7 +894,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1227794.jpg",
         "rating": {
           "rating_kp": "4.906",
-          "vote_num_kp": "1297",
+          "vote_num_kp": "1299",
           "rating_imdb": "3.4",
           "vote_num_imdb": "17"
         }
@@ -932,7 +1112,7 @@
           "rating_kp": "0",
           "vote_num_kp": "36",
           "rating_imdb": "5.2",
-          "vote_num_imdb": "319"
+          "vote_num_imdb": "321"
         }
       }
     },
@@ -1433,10 +1613,10 @@
         "time": "7020",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1209739.jpg",
         "rating": {
-          "rating_kp": "6.141",
-          "vote_num_kp": "557",
+          "rating_kp": "6.121",
+          "vote_num_kp": "559",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "868"
+          "vote_num_imdb": "871"
         }
       }
     },
@@ -1542,9 +1722,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1205810.jpg",
         "rating": {
           "rating_kp": "5.468",
-          "vote_num_kp": "441",
+          "vote_num_kp": "444",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "2294"
+          "vote_num_imdb": "2301"
         }
       }
     },
@@ -1617,186 +1797,6 @@
           "vote_num_kp": "5",
           "rating_imdb": "6.5",
           "vote_num_imdb": "10"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1203436",
-      "date": "1582109870",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Театр теней",
-        "orig": "Shadowplay",
-        "alter": "",
-        "year": "2019",
-        "country": "Малайзия",
-        "director": "Tony Pietra",
-        "genre": "триллер,фэнтези,детектив",
-        "actors": "Tony Eusoff, Стефен Рахман Хьюз, Гэвин Яп, Tehmina Kaoosji, Juria Hartmans, Сьюзэн Ланкестер, Чако Вадакет, Корина Адри, Megat Sharizal, Khairil M. Bahar",
-        "description": "Когда частный сыщик берет дело по поиску пропавшей студентки, он не подозревает, что ему придётся исследовать тёмные глубины своего разума и раскрыть правду о своём собственном исчезновении в детстве.",
-        "slogan": "",
-        "premiere": "27 августа 2019",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZWZkZjVjMDAtM2ZkNC00NzQyLWI0MTAtNzdlZDc1Y2QyYjM5XkEyXkFqcGdeQXVyMjMwNjEyMTk@.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "839"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1203021",
-      "date": "1582109869",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "60 дней лета",
-        "orig": "60ilui sseonmeo",
-        "alter": "",
-        "year": "2018",
-        "country": "Корея Южная",
-        "director": "-",
-        "genre": "детектив,драма,криминал",
-        "actors": "Чан Гван, Ён Джун-сок, Ан Сын-гюн, Щим Ын-у, Ха Сон-гван",
-        "description": "Современный 70-летний дедуля остаётся с внуком-подростком посте того, как сын сбегает в Америку. Когда в деревне происходит убийство пожилого человека, дед начинает думать, что он - следующий.",
-        "slogan": "",
-        "premiere": "25 октября 2018",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1203021.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "22",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "26"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1202782",
-      "date": "1582109868",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Паскаль: Фильм",
-        "orig": "Paskal: The Movie",
-        "alter": "",
-        "year": "2018",
-        "country": "Малайзия",
-        "director": "Адриан Тэ",
-        "genre": "боевик,драма",
-        "actors": "Adi Afendi, Ammar Alfian, Keoh Chee Ang, Hairul Azreen, Тайгер Чэнь, Jasmine Suraya Chin, Azwan Gaspar, Taufiq Hanafi, Хенли Хий, Sherry Al Jeffry",
-        "description": "Этот фильм, основанный на реальных событиях, повествует о героических подвигах и личных жертвах доблестного спецподразделения ВМС Малайзии ПАСКАЛЬ.",
-        "slogan": "",
-        "premiere": "27 сентября 2018",
-        "age": "0",
-        "time": "6900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1202782.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "124",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "2961"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1202441",
-      "date": "1582109866",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Каратель",
-        "orig": "The Punished",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Рене Перез",
-        "genre": "боевик",
-        "actors": "Роберт Амстлер, Ian Dalziel, Роберт Королак, Lisa Murphy Collins, Лея Перес, Николь Старк",
-        "description": "Вольфганг профессиональный наемник, которого наняла состоятельная женщина, чтобы отомстить за своего внука. Но когда он  встречает маленькую девочку-сироту и местного экскурсовода, он разрывается между привычными для него деньгами за выполненную работу, и вершением справделивости для невинных людей.",
-        "slogan": "",
-        "premiere": "6 августа 2018",
-        "age": "0",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1202441.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "26",
-          "rating_imdb": "2.7",
-          "vote_num_imdb": "95"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1202404",
-      "date": "1582109865",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Игра окончена",
-        "orig": "Game Over",
-        "alter": "",
-        "year": "2019",
-        "country": "Индия, Турция",
-        "director": "Ашвин Сараванан",
-        "genre": "триллер,драма",
-        "actors": "Таапси Панну, Виджей Рамья, Винодхини Ваидинатхан, Аниш Курувилла, Parvathi Malaa, Санчана Натараджан",
-        "description": "Женщина с боязнью темноты сталкивается с серийным убийцей.",
-        "slogan": "We all have two lives. The second one starts when we realise we only have one",
-        "premiere": "13 июня 2019",
-        "age": "0",
-        "time": "6120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1202404.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "98",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "7216"
         }
       }
     }

@@ -2,6 +2,186 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "890011",
+      "date": "1581973626",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Стэнли — человек разнообразия",
+        "orig": "Stanley a Man of Variety",
+        "alter": "",
+        "year": "2016",
+        "country": "Великобритания",
+        "director": "Стивен Куксон",
+        "genre": "комедия",
+        "actors": "Тимоти Сполл",
+        "description": "Игорь - старший менеджер в мебельном салоне, мечтающий о повышении. На следующий день после корпоративной вечеринки он обнаруживает, что салон полностью разгромлен. Сотрудники утверждают, что когда они уходили, всё было в порядке. Игоря это не устраивает, ведь теперь на кону его карьера. Пытаясь выяснить, что же произошло, Игорь узнаёт шокирующие подробности о ночных приключениях своих коллег...",
+        "slogan": "",
+        "premiere": "7 октября 2016",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_791480.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "6",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "75"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "889358",
+      "date": "1581973621",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Убойный огонек",
+        "orig": "Mi gran noche",
+        "alter": "",
+        "year": "2015",
+        "country": "Испания",
+        "director": "Алекс де ла Иглесиа",
+        "genre": "комедия",
+        "actors": "Рафаэль, Марио Касас, Пепон Ниэто, Бланка Суарес, Уго Сильва, Кармен Мачи, Луис Кальехо, Карлос Аресес, Энрике Вильен, Сантьяго Сегура",
+        "description": "Телезапись зрелищного «новогоднего огонька» оборачивается абсолютным сумасшествием, когда череда несчастных случаев обрушивается на съемочную площадку один за другим. Съемочный кран только что разгромил столик с массовкой... включая массовку. Одержимая фанатка шантажирует Адана, сексапильную сверх всякой меры поп-звезду. За легендарным певцом Альфонсо открывает вооруженную охоту сумасшедший автор песен. Один из актеров массовки, Хосе, пытает свое счастье с прекрасной Паломой, однако всех ее мужчин обычно преследуют беды. Тем временем снаружи разъяренная толпа требует ареста бесчестного продюсера шоу. В любой момент все окончательно выйдет из под контроля. Как всегда, «праздник» подкрался незаметно!",
+        "slogan": "",
+        "premiere": "11 сентября 2015",
+        "age": "16",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_889358.jpg",
+        "rating": {
+          "rating_kp": "5.857",
+          "vote_num_kp": "1813",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "4399"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "889267",
+      "date": "1581973619",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Местный",
+        "orig": "Native",
+        "alter": "",
+        "year": "2016",
+        "country": "Великобритания",
+        "director": "Daniel Fitzsimmons",
+        "genre": "фантастика,драма",
+        "actors": "Руперт Грейвз, Элли Кендрик, Лиэнн Бест, Джо Макколей, Поллианна МакИнтош, Дэниэл Броклбэнк, Кьяра Д’Анна, Иэн Харт, John Fitzsimmons",
+        "description": "Двое ученых отбираются для отправки через вселенную к отдаленному источнику сигнала, чтобы выяснить, есть ли там жизнь.",
+        "slogan": "",
+        "premiere": "13 февраля 2016",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_889267.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "44",
+          "rating_imdb": "4.3",
+          "vote_num_imdb": "392"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "889082",
+      "date": "1581973618",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Виселица",
+        "orig": "Hangman",
+        "alter": "",
+        "year": "2015",
+        "country": "Великобритания",
+        "director": "Адам Мэйсон",
+        "genre": "ужасы,триллер",
+        "actors": "Джереми Систо, Кейт Эшфилд, Райан Симпкинс, Тай Симпкинс, Эрик Майкл Коул, Эми Смарт, Росс Патридж, Этан Харрис-Риггс, Винсент Вентреска, Бруно Александр",
+        "description": "Поле возвращения из отпуска семья Миллеров обнаруживает следы проникновения в их дом, после чего они сразу же меняют все замки. Но дальнейшие события переворачивают жизнь этих людей с ног на голову.",
+        "slogan": "Who You Fear Is Already Inside",
+        "premiere": "14 марта 2015",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_889082.jpg",
+        "rating": {
+          "rating_kp": "4.449",
+          "vote_num_kp": "262",
+          "rating_imdb": "4.7",
+          "vote_num_imdb": "2351"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "888717",
+      "date": "1581973609",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "720",
+      "info": {
+        "rus": "Клан",
+        "orig": "El Clan",
+        "alter": "",
+        "year": "2015",
+        "country": "Аргентина, Испания",
+        "director": "Пабло Траперо",
+        "genre": "триллер,драма,криминал",
+        "actors": "Гильермо Франселья, Питер Ланзани, Лили Попович, Гастон Кокьярале, Жизелль Мотта, Франко Масини, Антония Бенгоэкеа, Стефания Кёсль, Рэймонд Эдвард Ли, Фернандо Миро",
+        "description": "Правдивая история клана Пуччио. Эта семья похищала и убивала людей в 1980-х.",
+        "slogan": "La realidad supera a la ficci&oacute;n",
+        "premiere": "13 августа 2015",
+        "age": "18",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_888717.jpg",
+        "rating": {
+          "rating_kp": "6.097",
+          "vote_num_kp": "2646",
+          "rating_imdb": "7",
+          "vote_num_imdb": "13016"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "888359",
       "date": "1581973599",
       "camrip": "0",
@@ -66,7 +246,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_888118.jpg",
         "rating": {
           "rating_kp": "7.002",
-          "vote_num_kp": "428",
+          "vote_num_kp": "443",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -176,7 +356,7 @@
           "rating_kp": "0",
           "vote_num_kp": "43",
           "rating_imdb": "5",
-          "vote_num_imdb": "432"
+          "vote_num_imdb": "433"
         }
       }
     },
@@ -461,10 +641,10 @@
         "time": "7080",
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_886061.jpg",
         "rating": {
-          "rating_kp": "6.967",
-          "vote_num_kp": "2143",
+          "rating_kp": "6.971",
+          "vote_num_kp": "2172",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "5091"
+          "vote_num_imdb": "5118"
         }
       }
     },
@@ -858,7 +1038,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_883918.jpg",
         "rating": {
           "rating_kp": "6.573",
-          "vote_num_kp": "4993",
+          "vote_num_kp": "4995",
           "rating_imdb": "6",
           "vote_num_imdb": "176"
         }
@@ -1038,9 +1218,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_882994.jpg",
         "rating": {
           "rating_kp": "5.67",
-          "vote_num_kp": "962",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "3866"
+          "vote_num_kp": "967",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "3880"
         }
       }
     },
@@ -1290,7 +1470,7 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_882285.jpg",
         "rating": {
           "rating_kp": "2.63",
-          "vote_num_kp": "19351",
+          "vote_num_kp": "19373",
           "rating_imdb": "2.4",
           "vote_num_imdb": "1814"
         }
@@ -1506,9 +1686,9 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_882122.jpg",
         "rating": {
           "rating_kp": "4.366",
-          "vote_num_kp": "612",
+          "vote_num_kp": "616",
           "rating_imdb": "5.1",
-          "vote_num_imdb": "3086"
+          "vote_num_imdb": "3088"
         }
       }
     },
@@ -1617,186 +1797,6 @@
           "vote_num_kp": "19",
           "rating_imdb": "7.1",
           "vote_num_imdb": "47"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "881422",
-      "date": "1581973455",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Экскурсия в Прагу",
-        "orig": "Abschussfahrt",
-        "alter": "",
-        "year": "2015",
-        "country": "Германия",
-        "director": "Tim Trachte",
-        "genre": "комедия",
-        "actors": "Tilman Pörzgen, Крис Таль, Макс фон дер Грёбен, Флориан Круп, Lisa Volz, Лесли-Ванесса Лилл, Тео Требс, Александр Шуберт, Дженни Элверс, Тим Сейфи",
-        "description": "Школьная экскурсия по Праге с учителем должна полностью изменить жизнь четырех друзей. Они так мечтают, что именно в Праге состоится их превращение из подростков во взрослых мужчин. Но согласно всем законам жанра все пойдет не по плану. Они конечно попадут во множество криминальных приключений. Их ждет знакомство с запретными удовольствиями ночной жизни. Разборки со стрельбой, алкоголь, наркотики, драки, травмы и конечно проверка на прочность их мужской дружбы.",
-        "slogan": "",
-        "premiere": "21 мая 2015",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_881422.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "114",
-          "rating_imdb": "4.8",
-          "vote_num_imdb": "785"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "880925",
-      "date": "1581973446",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Хранители душ",
-        "orig": "Body Keepers",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Шелли Коул",
-        "genre": "триллер",
-        "actors": "Trevor Lyons, Austin Allwein, Chantelle Darlena, Meg Smith, Jennifer Cipolla, Tony Sedillo, Taylor Poyfair, Nicholas Lee, Mary Kay Irving, Audrey Jones",
-        "description": "В Недерленде, штат Колорадо, продолжают пропадать дети. Однажды, группа подростков решает взломать сарай, чтобы украсть детали для своего проекта. Там они обнаруживают замороженное тело. Пробудив адскую сущность они узнают, что на самом деле значит &quot;холод, как в аду&quot;",
-        "slogan": "Welcome to Ice Cold Hell",
-        "premiere": "20 декабря 2018",
-        "age": "0",
-        "time": "4920",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_880925.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "45",
-          "rating_imdb": "2.6",
-          "vote_num_imdb": "214"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "880854",
-      "date": "1581973445",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "720",
-      "info": {
-        "rus": "Приговоренные 2: Охота в пустыне",
-        "orig": "The Condemned 2: Desert Prey",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Роэль Рейн",
-        "genre": "боевик,триллер",
-        "actors": "Рэнди Ортон, Эрик Робертс, Уэс Стьюди, Стивен Майкл Квезада, Билл Стинчкомб, Алекс Найт, Дилан Кенин, Майкл Шитс, Дон Бикнелл, Марк Сивертсен",
-        "description": "Уилл Таннер из тех, кто выбрал для себя профессию «охотников за головами». Однажды он попадает в серьезные неприятности: его задерживает полиция, и ему выносят приговор. Его и бывшую его команду вовлекают в игру на выживание под объективами камер в угоду интересам благополучной публики. Ставки сделаны, приговоренные должны проявить в жестких обстоятельствах максимум своих способностей: сражаться и избегать ловушек, быть выносливыми и изобретательными.",
-        "slogan": "",
-        "premiere": "6 ноября 2015",
-        "age": "16",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_880854.jpg",
-        "rating": {
-          "rating_kp": "4.124",
-          "vote_num_kp": "422",
-          "rating_imdb": "4.2",
-          "vote_num_imdb": "2851"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "880750",
-      "date": "1581973440",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Вулкан Ишканул",
-        "orig": "Ixcanul",
-        "alter": "",
-        "year": "2015",
-        "country": "Гватемала, Франция",
-        "director": "Хайро Бустаманте",
-        "genre": "драма",
-        "actors": "Мария Мерседес Корой, María Telón, Manuel Antún, Джусто Лоренцо, Марвин Корой, Фернандо Мартинес",
-        "description": "Мария, 17-летняя девушка из народа какчикель, живет со своими родителями на кофейной плантации у подножия действующего вулкана. Она будет выдана замуж за старшего работника на ферме.\r\n\r\nНо Марию это мало волнует, она стремится открыть для себя мир с другой стороны горы, место, которое она даже не может себе представить. Для достижения своей цели она соблазняет одного работника плантации, который хочет бежать в США.",
-        "slogan": "The exploits of a simple rural existence",
-        "premiere": "7 февраля 2015",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_880750.jpg",
-        "rating": {
-          "rating_kp": "6.68",
-          "vote_num_kp": "260",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "2973"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "880668",
-      "date": "1581973436",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Так и гонять лысого",
-        "orig": "And Punching the Clown",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Григорий Виен",
-        "genre": "комедия",
-        "actors": "Генри Филлипс, Тиг Нотаро, Дж.К. Симмонс, Марк Коэн, Сара Силверман, Эллен Рэтнер, Майк Джадж, Джим Джефферис, Стефани Аллен, Клифтон Коллинз мл.",
-        "description": "Незадачливый сатирик и композитор Генри Филлипс едет в Лос-Анджелес по приглашению ТВ-продюсера, который запускает шоу о жизни неудачника.",
-        "slogan": "Comedy isn't funny",
-        "premiere": "13 марта 2016",
-        "age": "0",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_880668.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "59",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "843"
         }
       }
     }
