@@ -2,16 +2,16 @@
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2022-02-20
-- Movies `27,445`
-  - [x] <a href="https://API-Movies.github.io/bazon/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `25,884`
+### :date: 2022-02-21
+- Movies `27,342`
+  - [x] <a href="https://API-Movies.github.io/bazon/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `26,019`
   - [ ] IMDb IDs `0`
   - [ ] TMDb IDs `0`
   - [ ] World-Art IDs `0`
   - [ ] Shikimori IDs `0`
   - [ ] None IDs `0`
-- TV `5,662`
-  - [x] <a href="https://API-Movies.github.io/bazon/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `5,123`
+- TV `5,765`
+  - [x] <a href="https://API-Movies.github.io/bazon/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `5,230`
   - [ ] IMDb IDs `0`
   - [ ] TMDb IDs `0`
   - [ ] World-Art IDs `0`
