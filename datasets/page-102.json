@@ -2,6 +2,275 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "758612",
+      "date": "1628668955",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Гора Хлои",
+        "orig": "Chloe's Mountain",
+        "alter": "The Cracked Pot",
+        "year": "2021",
+        "country": "США",
+        "director": "Wesley Bristol",
+        "genre": "семейный",
+        "actors": "Адам Тэйер,Lynne Yeaman,Brooklyn Vander Eyk,Wesley Bristol,Kenzie Mae,Isabella Antinoro,Anquenitta Williams,Mike Gugino,Mike Hughes,Caleb Anderson",
+        "description": "Девушка-подросток, автор песен и певица Хлоя, неохотно поступает в христианский университет, а зачем обнаруживает, что путь ей преграждают горы, которые она должна преодолеть, и обрести веру в Бога, что может их сдвинуть.",
+        "slogan": "Ask and you will receive",
+        "premiere": "",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_758612.jpg",
+        "screenshot": "https://b75y.bazonserver.site/video/36226/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "3",
+          "rating_imdb": "4",
+          "vote_num_imdb": "88"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1131184",
+      "date": "1628668890",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Свадебные видеографы Братья Берджерон",
+        "orig": "Bergeron Brothers: Wedding Videographers",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Ben Dietels,Блейк О’Доннелл",
+        "genre": "комедия",
+        "actors": "Фил Нардоззи,Ben Dietels,Дэвид Огродовски,Мэтт Шульц,Christine Mancini,Nikki Nader,Jerry Pietrala,Блейк О’Доннелл,Carrie Shoberg,Sarah Brunner",
+        "description": "Братья Берджерон всегда хотели стать видеографами, но на их пути вставала сама судьба. Но однажды им выпал шанс проявить свой талант и они зацепились за эту возможность, но смогут ли они осчастливить молодоженов?",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "6120",
+        "poster": "https://thumbs.filmix.tech/posters/3200/orig/svadebnye-videografy-bratya-berdzheron-2021_153259.jpg",
+        "screenshot": "https://b75y.bazonserver.site/video/36225/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4364584",
+      "date": "1628668734",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Тень пустыни",
+        "orig": "La sombra del desierto (o el Paraíso perdido)",
+        "alter": "",
+        "year": "2020",
+        "country": "Мексика",
+        "director": "Хуан Мануэль Сепульведа",
+        "genre": "драма",
+        "actors": "",
+        "description": "Мигранты из Мексики и Центральной Америки мечтают пересечь пустыню, где тысячи людей погибли на пути к американской мечте. На этой же территории, возле охраняемой границы, проживает народ папаго — люди пустыни, чье существование оказывается на грани исчезновения из-за наплыва диаспоры.",
+        "slogan": "",
+        "premiere": "10 марта 2020",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://thumbs.filmix.tech/posters/0927/orig/ten-pustyni-2020_153246.jpg",
+        "screenshot": "https://b75y.bazonserver.site/video/36223/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4477136",
+      "date": "1628661608",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Baibako",
+      "max_qual": "2160",
+      "last_season": "1",
+      "last_episode": "4",
+      "episodes": {
+        "1": {
+          "1": 2160,
+          "2": 2160,
+          "3": 2160,
+          "4": 2160
+        }
+      },
+      "info": {
+        "rus": "НЛО",
+        "orig": "UFO",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Пол Краудер,Марк Монро",
+        "genre": "документальный",
+        "actors": "Кевин Дэй, Гари Вурхис, Джей Джей Абрамс, Винни Малхотра, Марк Монро",
+        "description": "Четырехсерийный документальный сериал от Джей Джей Абрамса, Bad Robot и Глена Зиппера исследует увлечение человечества неопознанными летающими объектами. Какие проявления внеземных цивилизаций скрывают американское правительство, прибыльные частные компании и вооруженные силы для продвижения своих собственных интересов?",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "3180",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2QzYjk0NzEtZWM1Zi00MDFhLTgzYWUtNDk3NzQxOWZhZWNjXkEyXkFqcGdeQXVyOTA3MTMyOTk@.jpg",
+        "screenshot": "https://b75y.bazonserver.site/video/36160/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "103",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1341871",
+      "date": "1628638805",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Родство",
+        "orig": "Kin Dread",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Adrian Leon",
+        "genre": "триллер",
+        "actors": "Ethan David Smart,Патрик Купо,Элинор Ганн,Kevin Owyang,Коринна Харни,Айзиа Делл,Paris Anderson,Kristin Cecil,Келли Кристенсен,Кертис Дэвид",
+        "description": "Асоциальный саунд-дизайнер с ретроградной амнезией раскрывает серию убийств в своем доме. Произошедшее вызывает у него воспоминания о таинственном прошлом. Парень спешит остановить убийцу, пока не потерял тех, кого любит.",
+        "slogan": "There&#x27;s nothing scarier than family",
+        "premiere": "8 августа 2021",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2E5M2JhMDctYTFjNy00NTNjLWFlMjItOTk0YTAyOWQ3YTIwXkEyXkFqcGdeQXVyMTA4MTE0MjI0.jpg",
+        "screenshot": "https://b75y.bazonserver.site/video/36222/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "425"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1304210",
+      "date": "1628633416",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Как стать кем-то",
+        "orig": "To Be Someone",
+        "alter": "",
+        "year": "2020",
+        "country": "Великобритания",
+        "director": "Рей Бердис",
+        "genre": "комедия",
+        "actors": "Сэм Гиттинс,Джордж Эпплби,Лесли Эш,Amelia Bath,Перри Бенсон,Kerrieanne Booker,Рей Бердис,Julian Clapton,Sergio Dondi,Christie-Leigh Emby",
+        "description": "Дэнни - любитель ретро музыки, глава семейства и совладелец одного из самых популярных клубов в городе. Дела у него идут отлично, бизнес развивается и казалось бы всё на мази. Но однажды он случайно узнаёт, что его партнёр по бизнесу отдал свою долю местному кровожадному бандиту Майку Уоррену. \"Бешеный\" Майк делает Дэнни предложение - он должен помочь с продажей наркотиков. В случае успеха он получает клуб в полное владение, а в случае неудачи - лишается всего.",
+        "slogan": "",
+        "premiere": "1 апреля 2020",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzY3MTUzNzEtNjkwOS00MTQ5LWE0NzgtMDg1OTc4NWY4ODBiXkEyXkFqcGdeQXVyNDY0MDU5ODc@.jpg",
+        "screenshot": "https://b75y.bazonserver.site/video/36221/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "6",
+          "rating_imdb": "3.8",
+          "vote_num_imdb": "164"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1143167",
+      "date": "1628632208",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Возвращение",
+        "orig": "The Return",
+        "alter": "",
+        "year": "2020",
+        "country": "Канада",
+        "director": "Биджей Верот",
+        "genre": "ужасы,фантастика",
+        "actors": "Ричард Хэрмон,Сара Томпсон,Эко Пориски,Марина Стивенсон Керр,Эрик Атхавале,Гвендолин Коллинс,Зои Фиш,Китон Фиш,Кристен Савацки,Маклин Фиш",
+        "description": "Студент колледжа Роджер возвращается домой после смерти своего отца и понимает, что ужасы детства, от которых он когда-то сбежал, вновь настигают его.",
+        "slogan": "",
+        "premiere": "5 сентября 2020",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1143167.jpg",
+        "screenshot": "https://black.bazonserver.site/video/36220/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "69",
+          "rating_imdb": "4.4",
+          "vote_num_imdb": "448"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1399295",
       "date": "1628625607",
       "camrip": "0",
@@ -253,9 +522,9 @@
         "screenshot": "https://b75y.bazonserver.site/video/36212/poster.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "110",
+          "vote_num_kp": "113",
           "rating_imdb": "6",
-          "vote_num_imdb": "1206"
+          "vote_num_imdb": "1303"
         }
       }
     },
@@ -338,9 +607,9 @@
         "screenshot": "https://zd5q.bazonserver.site/video/25809/poster.jpg",
         "rating": {
           "rating_kp": "8.856",
-          "vote_num_kp": "362366",
+          "vote_num_kp": "362579",
           "rating_imdb": "9.4",
-          "vote_num_imdb": "656850"
+          "vote_num_imdb": "657076"
         }
       }
     },
@@ -430,7 +699,7 @@
         "screenshot": "https://white.bazonserver.site/video/36210/poster.jpg",
         "rating": {
           "rating_kp": "5.604",
-          "vote_num_kp": "1610",
+          "vote_num_kp": "1613",
           "rating_imdb": "4.8",
           "vote_num_imdb": "2414"
         }
@@ -466,10 +735,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8241.jpg",
         "screenshot": "https://b75y.bazonserver.site/video/36202/poster.jpg",
         "rating": {
-          "rating_kp": "6.046",
-          "vote_num_kp": "1015",
+          "rating_kp": "6.045",
+          "vote_num_kp": "1019",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "8469"
+          "vote_num_imdb": "8474"
         }
       }
     },
@@ -549,7 +818,7 @@
         "screenshot": "https://b75y.bazonserver.site/video/36207/poster.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "193",
+          "vote_num_kp": "195",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -667,8 +936,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_278190.jpg",
         "screenshot": "https://brother.bazonserver.site/video/36204/poster.jpg",
         "rating": {
-          "rating_kp": "6.572",
-          "vote_num_kp": "9096",
+          "rating_kp": "6.573",
+          "vote_num_kp": "9120",
           "rating_imdb": "5.6",
           "vote_num_imdb": "14632"
         }
@@ -732,7 +1001,7 @@
         "screenshot": "https://b75y.bazonserver.site/video/36200/poster.jpg",
         "rating": {
           "rating_kp": "6.84",
-          "vote_num_kp": "1630",
+          "vote_num_kp": "1634",
           "rating_imdb": "7.1",
           "vote_num_imdb": "851"
         }
@@ -769,9 +1038,9 @@
         "screenshot": "https://b75y.bazonserver.site/video/36199/poster.jpg",
         "rating": {
           "rating_kp": "6.095",
-          "vote_num_kp": "643",
+          "vote_num_kp": "644",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "5643"
+          "vote_num_imdb": "5646"
         }
       }
     },
@@ -805,10 +1074,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_25298.jpg",
         "screenshot": "https://b75y.bazonserver.site/video/36198/poster.jpg",
         "rating": {
-          "rating_kp": "5.002",
-          "vote_num_kp": "587",
+          "rating_kp": "4.998",
+          "vote_num_kp": "591",
           "rating_imdb": "4.5",
-          "vote_num_imdb": "4663"
+          "vote_num_imdb": "4668"
         }
       }
     },
@@ -935,7 +1204,7 @@
         "screenshot": "https://b75y.bazonserver.site/video/36195/poster.jpg",
         "rating": {
           "rating_kp": "6.326",
-          "vote_num_kp": "4202",
+          "vote_num_kp": "4210",
           "rating_imdb": "6.6",
           "vote_num_imdb": "1654"
         }
@@ -1082,8 +1351,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4374924.jpg",
         "screenshot": "https://b75y.bazonserver.site/video/36190/poster.jpg",
         "rating": {
-          "rating_kp": "7.623",
-          "vote_num_kp": "459",
+          "rating_kp": "7.606",
+          "vote_num_kp": "460",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1156,10 +1425,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1221727.jpg",
         "screenshot": "https://i75t.bazonserver.site/video/36188/poster.jpg",
         "rating": {
-          "rating_kp": "5.574",
-          "vote_num_kp": "14154",
+          "rating_kp": "5.577",
+          "vote_num_kp": "14172",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "11873"
+          "vote_num_imdb": "11879"
         }
       }
     },
@@ -1233,7 +1502,7 @@
           "rating_kp": "0",
           "vote_num_kp": "128",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "1970"
+          "vote_num_imdb": "1993"
         }
       }
     },
@@ -1268,9 +1537,9 @@
         "screenshot": "https://black.bazonserver.site/video/36164/poster.jpg",
         "rating": {
           "rating_kp": "8.022",
-          "vote_num_kp": "339807",
+          "vote_num_kp": "339901",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "468499"
+          "vote_num_imdb": "468541"
         }
       }
     },
@@ -1307,7 +1576,7 @@
           "rating_kp": "6.915",
           "vote_num_kp": "117213",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "203730"
+          "vote_num_imdb": "203753"
         }
       }
     },
@@ -1379,7 +1648,7 @@
         "screenshot": "https://i75t.bazonserver.site/video/36182/poster.jpg",
         "rating": {
           "rating_kp": "4.901",
-          "vote_num_kp": "2469",
+          "vote_num_kp": "2471",
           "rating_imdb": "3.6",
           "vote_num_imdb": "183"
         }
@@ -1489,10 +1758,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_854231.jpg",
         "screenshot": "https://dt2g.bazonserver.site/video/36179/poster.jpg",
         "rating": {
-          "rating_kp": "7.549",
-          "vote_num_kp": "8907",
+          "rating_kp": "7.552",
+          "vote_num_kp": "9106",
           "rating_imdb": "5.2",
-          "vote_num_imdb": "579"
+          "vote_num_imdb": "587"
         }
       }
     },
@@ -1527,7 +1796,7 @@
         "screenshot": "https://i75t.bazonserver.site/video/36178/poster.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "290",
+          "vote_num_kp": "292",
           "rating_imdb": "5.1",
           "vote_num_imdb": "522"
         }
@@ -1564,7 +1833,7 @@
         "screenshot": "https://b75y.bazonserver.site/video/36177/poster.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "334",
+          "vote_num_kp": "335",
           "rating_imdb": "5.3",
           "vote_num_imdb": "657"
         }
@@ -1678,265 +1947,6 @@
           "vote_num_kp": "19",
           "rating_imdb": "6",
           "vote_num_imdb": "3966"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "821005",
-      "date": "1628520602",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Противостояние: Осада в Мумбаи. 4 дня ужаса",
-        "orig": "One Less God",
-        "alter": "Осада Мумбаи: 4 дня ужаса",
-        "year": "2017",
-        "country": "Австралия, Непал",
-        "director": "Lliam Worthington",
-        "genre": "триллер,драма",
-        "actors": "Joseph Mahler Taylor, Sukhraj Deepak, Mihika Rao, Кабир Сингх, Kieran Kumar, Нэйтан Кэй, Martelle Hammer, Reilly O'Byrne-Inglis, Igor Kreyman, Joseph J.U. Taylor",
-        "description": "Группа туристов из разных стран мира пытается выжить во время осады террористами элитного отеля в Мумбаи.",
-        "slogan": "4 Days of Terror",
-        "premiere": "8 июня 2017",
-        "age": "0",
-        "time": "7680",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_821005.jpg",
-        "screenshot": "https://banana.bazonserver.site/video/36171/poster.jpg",
-        "rating": {
-          "rating_kp": "6.117",
-          "vote_num_kp": "420",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "872"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1073758",
-      "date": "1628517602",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Баха",
-        "orig": "Baja",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Тони Видал",
-        "genre": "комедия",
-        "actors": "Джейк Томас, Крис Брошу, Michelle DeShon, Arienne Mandi, Зои Каррафас, Toktam Aboozary, Carissa Bussey, Дита Де Леон, Курт Фуллер, Illyana Jiménez",
-        "description": "Для четверых ребят мексиканская поездка кажется совершенной катастрофой, пока неожиданные свалившиеся чудесные события все не исправят.",
-        "slogan": "Their only plan is going south",
-        "premiere": "13 апреля 2018",
-        "age": "0",
-        "time": "6360",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1073758.jpg",
-        "screenshot": "https://pluton.bazonserver.site/video/36170/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "29",
-          "rating_imdb": "4.5",
-          "vote_num_imdb": "339"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1118955",
-      "date": "1628517022",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Завтра я брошу",
-        "orig": "Tomorrow I Quit",
-        "alter": "",
-        "year": "2020",
-        "country": "Новая Зеландия",
-        "director": "Bertrand Remaut",
-        "genre": "драма",
-        "actors": "Géraldine Creff,Libby Grace,Jimi Hunt,Mustaq Missouri,Френсис Маунтджой,Nicol Munro,Simon Shreeve,Клер Ван Бик,Anne Wentworth",
-        "description": "Фильм рассказывает о непутёвой Марго, которая вечно попадает в разные истории и совершенно не имеет никаких планов на жизнь.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "5040",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTNkNTFiZTgtMDI4MC00NDM0LWI1YzUtYjlkZmU0YjZkNjhkXkEyXkFqcGdeQXVyNzI4OTMzMjY@.jpg",
-        "screenshot": "https://b75y.bazonserver.site/video/36173/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "5",
-          "rating_imdb": "3.7",
-          "vote_num_imdb": "47"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1027983",
-      "date": "1628517014",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Радбод",
-        "orig": "Redbad",
-        "alter": "",
-        "year": "2018",
-        "country": "Нидерланды",
-        "director": "Роэль Рейн",
-        "genre": "история,военный",
-        "actors": "Гийс Нейбр,Лиса Смит,Хуб Стапель,Дерек де Линт,Аус Грейднаус,Петер Фабер,Мэриек Хибинк,Sierd Jan van der Meulen,Майк Виртс,Як Воутерсе",
-        "description": "В 754 году н.э., во время безжалостной кровопролитной войны, родилась легенда о новом предводителе язычников, Радбоде, но в тот же момент, у Франков появилось новое оружие: христианство. Радбоду придётся приложить все силы, чтобы собрать армию Викингов, способную разбить, казалось бы, непобедимого врага.",
-        "slogan": "The road to freedom is paved in blood",
-        "premiere": "28 июня 2018",
-        "age": "0",
-        "time": "9600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1027983.jpg",
-        "screenshot": "https://i75t.bazonserver.site/video/36172/poster.jpg",
-        "rating": {
-          "rating_kp": "6.312",
-          "vote_num_kp": "3828",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "2610"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1341101",
-      "date": "1628516437",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "И снова горько!",
-        "orig": "Hallo Again",
-        "alter": "",
-        "year": "2020",
-        "country": "Германия",
-        "director": "Мэгги Перен",
-        "genre": "мелодрама,комедия",
-        "actors": "Эдин Хасанович,Самуэль Шнайдер,Тим Оливер Шульц,Эмилия Шуле,Алисия фон Риттберг",
-        "description": "Когда Зази получает приглашение на свадьбу ее лучшего друга Филиппа и ее заклятой соперницы Франциски, она решает спасти друга, но ее попытка саботировать свадьбу с треском проваливается. И из-за временной петли это происходит снова и снова.",
-        "slogan": "",
-        "premiere": "17 сентября 2020",
-        "age": "0",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1341101.jpg",
-        "screenshot": "https://b75y.bazonserver.site/video/36168/poster.jpg",
-        "rating": {
-          "rating_kp": "5.966",
-          "vote_num_kp": "1467",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "350"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "778739",
-      "date": "1628516432",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Химия любви",
-        "orig": "Sólo química",
-        "alter": "",
-        "year": "2015",
-        "country": "Испания",
-        "director": "Альфонсо Альбасете",
-        "genre": "мелодрама,комедия",
-        "actors": "Ана Фернандез,Алехо Саурас,Родриго Гирао Диас,Мария Эстеве,Хосе Коронадо,Неус Асенси,Хайме Олиас,Наталия де Молина,Миранда Макаров,Алекс Моннер",
-        "description": "Оли работает в парфюмерном магазине и совсем не знает, что делать дальше в жизни. Единственное, в чем она уверена, это в своей любви к аргентинскому популярному актеру Эрику Сото, молодому человеку, который всю жизнь проводит под прицелом телекамер, на различных мероприятиях и премьерах. Эрик привык к роскошной жизни, где в первую очередь ценится внешность, но Оли чем-то привлекает его внимание. Познакомившись с Эриком, Оли попадает в мир, о котором многие мечтают: роскошь, слава, успех, деньги. Но любовь - это просто химия, которая может свести тебя с человеком, о котором ты и подумать не мог...",
-        "slogan": "",
-        "premiere": "25 апреля 2015",
-        "age": "0",
-        "time": "6660",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_778739.jpg",
-        "screenshot": "https://dt2g.bazonserver.site/video/36167/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "137",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "601"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1388622",
-      "date": "1628516424",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Маржела: Своими словами",
-        "orig": "Martin Margiela: In His Own Words",
-        "alter": "",
-        "year": "2019",
-        "country": "Германия,Бельгия,Франция",
-        "director": "Райнер Хольцемер",
-        "genre": "документальный,биография",
-        "actors": "Мартин Маржела,Карла Содзани,Пьер Ружье,Лидевиж Эделькорт,Кэти Хорин,Жан-Поль Готье,Сандрин Дюма,Карин Ройтфельд,Стелла Исии,Оливье Сайяр",
-        "description": "История Мартина Маржела, одного из самых влиятельных и революционных модельеров своего времени. Дизайнер, никогда не показывавший лицо на публике, прошел путь от ассистента Жан-Поля Готье до креативного директора Hermes и лидера собственного бренда и сформировал узнаваемый радикальный стиль, создав 41 провокационную коллекцию.",
-        "slogan": "",
-        "premiere": "10 июня 2021",
-        "age": "16",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1388622.jpg",
-        "screenshot": "https://i75t.bazonserver.site/video/36166/poster.jpg",
-        "rating": {
-          "rating_kp": "8.107",
-          "vote_num_kp": "2806",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "258"
         }
       }
     }
