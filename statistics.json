@@ -7104,5 +7104,24 @@
       "world-art": 0,
       "none": 0
     }
+  },
+  {
+    "date": 1646870400,
+    "movies": {
+      "all": 27284,
+      "kinopoisk": 27068,
+      "imdb": 0,
+      "tmdb": 0,
+      "world-art": 0,
+      "none": 0
+    },
+    "tv": {
+      "all": 5773,
+      "kinopoisk": 5342,
+      "imdb": 0,
+      "tmdb": 0,
+      "world-art": 0,
+      "none": 0
+    }
   }
 ]
