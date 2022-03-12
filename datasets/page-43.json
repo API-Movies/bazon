@@ -2,6 +2,558 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "962012",
+      "date": "1639699577",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "LostFilm",
+      "max_qual": "1080",
+      "last_season": "6",
+      "last_episode": "5",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 1080,
+          "16": 1080,
+          "17": 1080,
+          "18": 1080,
+          "19": 1080,
+          "20": 1080,
+          "21": 1080,
+          "22": 1080
+        },
+        "3": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 1080,
+          "16": 1080,
+          "17": 1080,
+          "18": 1080,
+          "19": 1080,
+          "20": 1080,
+          "21": 1080,
+          "22": 1080
+        },
+        "4": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 1080,
+          "16": 1080,
+          "17": 1080,
+          "18": 1080,
+          "19": 1080
+        },
+        "5": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 1080,
+          "16": 1080,
+          "17": 1080,
+          "18": 1080,
+          "19": 1080
+        },
+        "6": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080
+        }
+      },
+      "info": {
+        "rus": "Ривердэйл",
+        "orig": "Riverdale",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Ли Толанд Кригер, Кевин Родни Салливан, Мэгги Кили",
+        "genre": "мелодрама,детектив,драма,криминал",
+        "actors": "Лили Рейнхарт, Камила Мендес, Кей Джей Апа, Коул Спроус, Мэделин Петш, Кейси Котт, Марисоль Николс, Мэдхен Амик, Люк Перри, Скит Ульрих",
+        "description": "Сериал расскажет о жизни и приключениях жизнерадостного и никогда не унывающего подростка Арчи Эндрюса, а также Бэтти Купер, Вероники Лодж и их друзей из Ривердэйла. Действие разворачивается в современном мире, а главные герои решают исследовать сокрытую от посторонних сторону жизни маленького мирного городка со всеми его странностями и тёмными тайнами, прячущимися за праздничным фасадом.",
+        "slogan": "A Great Place to Get Away With It All",
+        "premiere": "26 января 2017",
+        "age": "16",
+        "time": "2700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_962012.jpg",
+        "screenshot": "https://t6hu.bazonserver.site/video/15229/poster.jpg",
+        "rating": {
+          "rating_kp": "6.678",
+          "vote_num_kp": "137406",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "137545"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1410203",
+      "date": "1639696855",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "4K WEB-DL",
+      "translation": "Двухголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Столкновение",
+        "orig": "Encounter",
+        "alter": "",
+        "year": "2021",
+        "country": "Великобритания,США",
+        "director": "Майкл Пирс",
+        "genre": "фантастика,триллер",
+        "actors": "Янина Гаванкар,Риз Ахмед,Рори Кокрейн,Октавия Спенсер,Кит Шарабайка,Шэйн МакРей,Бреннан Кил Кук,Антонио Харамильо,Люсиан-Ривер Мираж Чаухан,Joanna Strapp",
+        "description": "Два брата отправляются в путешествие со своим отцом, который пытается защитить их от инопланетной угрозы.",
+        "slogan": "Amazon Prime Video",
+        "premiere": "3 сентября 2021",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1410203.jpg",
+        "screenshot": "https://i75t.bazonserver.site/video/39896/poster.jpg",
+        "rating": {
+          "rating_kp": "5.368",
+          "vote_num_kp": "442",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "8562"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1314674",
+      "date": "1639695081",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Энджел Маунтин",
+        "orig": "Angel Mountain",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Karen Schuback",
+        "genre": "драма",
+        "actors": "Дэниэл Гроган,Каролин Амиге,Megan Elizabeth Barker,Эндрю Джексон мл.,Aiden Anderson,Lynn Cao,Quincy Ricker,Рэнди Дэвисон,Kimberly Wall,Джереми Парр",
+        "description": "Небольшой сельский городок, начало 1950-х годов. Шестнадцатилетний Джимми Харпер вместе с братом и сестрой стараются свести концы с концами и сохранить то, что осталось от семьи. Мать Джимми, Агнес, после загадочной смерти отца забывает про детей и ищет утешения в местных барах и мимолётных связях, отрицая действительность. После частых конфликтов с матерью Колетт, старшая сестра Джимми, уезжает из дома, чтобы выйти замуж. Джимми стоит перед выбором: остаться и помочь матери и младшему брату Винсенту или последовать примеру сестры и покинуть город.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "6300",
+        "poster": "https://thumbs.filmix.tech/posters/0548/orig/endzhel-mauntin-2021_156213.jpg",
+        "screenshot": "https://b75y.bazonserver.site/video/39913/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "225267",
+      "date": "1639695008",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Счастливый конец",
+        "orig": "Haepi endeu",
+        "alter": "",
+        "year": "1999",
+        "country": "Корея Южная",
+        "director": "Чон Джи-у",
+        "genre": "драма,мелодрама,криминал",
+        "actors": "Чхве Мин-сик,Чон До-ён,Чу Джин-мо,Хван Ми-сон,Ким Бён-чхун,Ю Ён-су,Чу Хён,Ju-hee Park",
+        "description": "Мужчина узнает, что жена ему изменяет, и приходит к экстремальному решению проблемы.",
+        "slogan": "",
+        "premiere": "11 декабря 1999",
+        "age": "18",
+        "time": "5940",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_225267.jpg",
+        "screenshot": "https://b75y.bazonserver.site/video/39911/poster.jpg",
+        "rating": {
+          "rating_kp": "6.72",
+          "vote_num_kp": "253",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "1703"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1354102",
+      "date": "1639694543",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "SoftBox",
+      "max_qual": "480",
+      "last_season": "1",
+      "last_episode": "16",
+      "episodes": {
+        "1": {
+          "1": 480,
+          "2": 480,
+          "3": 480,
+          "4": 480,
+          "5": 480,
+          "6": 480,
+          "7": 480,
+          "8": 480,
+          "9": 480,
+          "10": 480,
+          "11": 480,
+          "12": 480,
+          "13": 480,
+          "14": 480,
+          "15": 480,
+          "16": 480
+        }
+      },
+      "info": {
+        "rus": "Гора Чири",
+        "orig": "Jirisan",
+        "alter": "Чирисан / Mount Jiri",
+        "year": "2021",
+        "country": "Корея Южная",
+        "director": "Ли Ын-бок",
+        "genre": "боевик",
+        "actors": "Чон Джи-хён,Чу Джи-хун,Сон Дон-иль,О Джон-сэ,Чо Хан-чхоль,Чон Сок-хо,Ли Га-соп,Ко Мин-щи,Чу Мин-гён,Ким Ён-ок",
+        "description": "Рейнджеры спасают попавших в беду туристов в Национальном парке у горы Чири.",
+        "slogan": "",
+        "premiere": "23 октября 2021",
+        "age": "0",
+        "time": "4200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1354102.jpg",
+        "screenshot": "https://i75t.bazonserver.site/video/38458/poster.jpg",
+        "rating": {
+          "rating_kp": "7.732",
+          "vote_num_kp": "215",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "833"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4702953",
+      "date": "1639694407",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Рождество под звёздами",
+        "orig": "Christmas Beneath the Stars",
+        "alter": "",
+        "year": "2021",
+        "country": "Канада,США",
+        "director": "Лэйн Шефтер",
+        "genre": "мелодрама",
+        "actors": "Ванесса Смит,Стив Белфорд,Maddy Foley,Kym Wyatt McKenzie,Кэти Малони,Ричард Барлоу",
+        "description": "Начинающий фотограф Ханна Рид получает поручение: отправиться в отель под названием Мир Рождества на Аляске, сделать фотографии северного сияния, а ещё оставить отзыв о месте и пребывании в городе. Так у неё будет возможность в будущем попасть в журнал своей мечты. Вместе с тётей девушка приезжает в город и знакомится с местными жителями, а также встречает парня по имени Бэн, который показывает ей красоты Полярного круга и привлекает её внимание.",
+        "slogan": "",
+        "premiere": "1 декабря 2021",
+        "age": "0",
+        "time": "5340",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4702953.jpg",
+        "screenshot": "https://black.bazonserver.site/video/39910/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "8",
+          "rating_imdb": "4.5",
+          "vote_num_imdb": "140"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1291451",
+      "date": "1639694197",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Baibako",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "1",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080
+        },
+        "2": {
+          "1": 1080
+        }
+      },
+      "info": {
+        "rus": "Мистер Мэр",
+        "orig": "Mr. Mayor",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Роберт Кэрлок, Тина Фей",
+        "genre": "комедия",
+        "actors": "Кристиан Анаид,Mike Cabellon,Тед Дэнсон,Кайла Кенеди,Джастис Алан,Ali Alejandra,Olivia Baptista,Рей Борге,Evan A. Dunn,Майк Дж.",
+        "description": "Успешный бизнесмен решил баллотироваться в мэры Лос-Анджелеса. Он побеждает и теперь должен понять, как управлять городом, наладить отношения с дочкой и разобраться с растущей популяцией койотов.",
+        "slogan": "",
+        "premiere": "7 января 2021",
+        "age": "0",
+        "time": "1320",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMThkNDYxMzMtMjI3Zi00YzM2LWE2YjItMjUwNDE3MjE2NjZjXkEyXkFqcGdeQXVyODUxOTU0OTg@.jpg",
+        "screenshot": "https://yq4u.bazonserver.site/video/26928/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "121",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "3711"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4645457",
+      "date": "1639690210",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Энни на сцене",
+        "orig": "Annie Live!",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Lear Debessonet",
+        "genre": "мюзикл,драма,комедия,семейный",
+        "actors": "Гарри Конник мл.,Селина Смит,Тараджи П. Хенсон,Николь Шерзингер,Меган Хилти,Титус Берджесс,Алекс Вонг,Андреа МакАрдл,Бенжамин Джей Дэвис,Алан Той",
+        "description": "Телевизионная постановка знаменитого бродвейского мюзикла Томаса Миана по мотивам комиксов Гарольда Грея \"Маленькая сиротка Энни\". Одиннадцать лет назад малышку Энни оставили под дверью приюта с медальоном и запиской, в которой родители обещают, что обязательно вернутся за девочкой. В стране Великая Депрессия и мало кому есть дело до обездоленных детей. Миллиардер Оливер Уорбакс решает пригласить одного ребёнка-сироту провести рождественские праздники в его доме. Счастливый шанс выпадает Энни. Девочка моментально очаровывает всех обитателей особняка и даже суровый мистер Уорбакс не может устоять пред её чарами. Но как бы ни была прекрасна жизнь под крылом богатого покровителя, больше всего на свете Энни хочет найти своих родителей и мистер Уорбакс намерен ей в этом помочь.",
+        "slogan": "The sun&#x27;ll come out...",
+        "premiere": "2 декабря 2021",
+        "age": "0",
+        "time": "7620",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWNmZDAzMWUtMDVhMy00ZWQ2LTliODMtMGE0MTY0MTg0YmM5XkEyXkFqcGdeQXVyMDA4NzMyOA@@.jpg",
+        "screenshot": "https://i75t.bazonserver.site/video/39909/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "1",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "2093"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "13655",
+      "date": "1639687162",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "4K WEB-DL",
+      "translation": "Одноголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Линия смерти",
+        "orig": "Party Line",
+        "alter": "Телефонные знакомства / Убийца звонит дважды",
+        "year": "1988",
+        "country": "США",
+        "director": "Уильям Уэбб",
+        "genre": "триллер",
+        "actors": "Ричард Хэтч,Шон Уэзерли,Лейф Гаррет,Грета Блэкберн,Ричард Раундтри,Джеймс О’Салливан,Теренс МакГоверн,Шелли Плэйс,Patricia Patts,Тара Хатчинс",
+        "description": "Состоятельный бездельник из Беверли Хиллз Сет Бенсон, используя свою очаровательную сестру Анжелину в качестве «приманки», убивает, а затем грабит ее «телефонных» клиентов. Иногда он делает это без помощи сестры, иногда убивает не ради денег. И постепенно противостояние с полицией превращается для него в игру.",
+        "slogan": "Монолит",
+        "premiere": "",
+        "age": "18",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_13655.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/39898/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "41",
+          "rating_imdb": "4.8",
+          "vote_num_imdb": "407"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4374858",
+      "date": "1639686968",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "SoftBox",
+      "max_qual": "480",
+      "last_season": "1",
+      "last_episode": "20",
+      "episodes": {
+        "1": {
+          "1": 480,
+          "2": 480,
+          "3": 480,
+          "4": 480,
+          "5": 480,
+          "6": 480,
+          "7": 480,
+          "8": 480,
+          "9": 480,
+          "10": 480,
+          "11": 480,
+          "12": 480,
+          "13": 480,
+          "14": 480,
+          "15": 480,
+          "16": 480,
+          "17": 480,
+          "18": 480,
+          "19": 480,
+          "20": 480
+        }
+      },
+      "info": {
+        "rus": "Расположение короля",
+        "orig": "Yeonmo",
+        "alter": "Влюбленность / The King’s Affection",
+        "year": "2021",
+        "country": "Корея Южная",
+        "director": "Сон Хён-ук",
+        "genre": "драма,мелодрама",
+        "actors": "Пак Ын-бин,Роун,Нам Юн-су,Пэ Юн-гён,Чхве Бён-чхан,Ли Пхиль-мо,Чон Чхэ-ён,Пэ Су-бин,Ким Тхэк,Ким Ин-гвон",
+        "description": "Несколько лет назад королевская наложница родила двойню, что расценилось как дурной знак, и король приказал убить младенца-девочку. Но мать спрятала её и все эти годы растила в тайне. Когда мальчик-близнец умирает от болезни, она подменяет сына дочерью — теперь переодетая мужчиной девочка воспитывается во дворце как наследный принц.",
+        "slogan": "",
+        "premiere": "11 октября 2021",
+        "age": "0",
+        "time": "4200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4374858.jpg",
+        "screenshot": "https://b75y.bazonserver.site/video/38115/poster.jpg",
+        "rating": {
+          "rating_kp": "7.54",
+          "vote_num_kp": "290",
+          "rating_imdb": "8",
+          "vote_num_imdb": "2079"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1345986",
       "date": "1639683007",
       "camrip": "0",
@@ -50,10 +602,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1345986.jpg",
         "screenshot": "https://zd5q.bazonserver.site/video/28913/poster.jpg",
         "rating": {
-          "rating_kp": "6.587",
-          "vote_num_kp": "573",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "7884"
+          "rating_kp": "6.583",
+          "vote_num_kp": "581",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "8190"
         }
       }
     },
@@ -87,8 +639,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_535266.jpg",
         "screenshot": "https://t6hu.bazonserver.site/video/39894/poster.jpg",
         "rating": {
-          "rating_kp": "7.358",
-          "vote_num_kp": "13651",
+          "rating_kp": "7.359",
+          "vote_num_kp": "13708",
           "rating_imdb": "7.4",
           "vote_num_imdb": "34238"
         }
@@ -125,9 +677,9 @@
         "screenshot": "https://brother.bazonserver.site/video/39907/poster.jpg",
         "rating": {
           "rating_kp": "6.692",
-          "vote_num_kp": "21502",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "24564"
+          "vote_num_kp": "21510",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "24570"
         }
       }
     },
@@ -216,10 +768,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4402867.jpg",
         "screenshot": "https://i75t.bazonserver.site/video/39545/poster.jpg",
         "rating": {
-          "rating_kp": "8.067",
-          "vote_num_kp": "2929",
+          "rating_kp": "8.066",
+          "vote_num_kp": "2936",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "3239"
+          "vote_num_imdb": "3247"
         }
       }
     },
@@ -431,8 +983,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1414470.jpg",
         "screenshot": "https://pluton.bazonserver.site/video/39902/poster.jpg",
         "rating": {
-          "rating_kp": "6.659",
-          "vote_num_kp": "1120",
+          "rating_kp": "6.699",
+          "vote_num_kp": "1169",
           "rating_imdb": "7.5",
           "vote_num_imdb": "69"
         }
@@ -576,7 +1128,7 @@
         "screenshot": "https://black.bazonserver.site/video/39827/poster.jpg",
         "rating": {
           "rating_kp": "7.524",
-          "vote_num_kp": "1200",
+          "vote_num_kp": "1202",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -683,7 +1235,7 @@
         "screenshot": "https://banana.bazonserver.site/video/19182/poster.jpg",
         "rating": {
           "rating_kp": "7.272",
-          "vote_num_kp": "18617",
+          "vote_num_kp": "18626",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -794,7 +1346,7 @@
         "screenshot": "https://b75y.bazonserver.site/video/39888/poster.jpg",
         "rating": {
           "rating_kp": "7.862",
-          "vote_num_kp": "9026",
+          "vote_num_kp": "9027",
           "rating_imdb": "6.8",
           "vote_num_imdb": "16754"
         }
@@ -1154,8 +1706,8 @@
         "rating": {
           "rating_kp": "0",
           "vote_num_kp": "2",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "39"
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "40"
         }
       }
     },
@@ -1189,10 +1741,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1048214.jpg",
         "screenshot": "https://pluton.bazonserver.site/video/39860/poster.jpg",
         "rating": {
-          "rating_kp": "7.331",
-          "vote_num_kp": "5215",
+          "rating_kp": "7.33",
+          "vote_num_kp": "5225",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "17059"
+          "vote_num_imdb": "17061"
         }
       }
     },
@@ -1227,9 +1779,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/39859/poster.jpg",
         "rating": {
           "rating_kp": "7.712",
-          "vote_num_kp": "29515",
+          "vote_num_kp": "29573",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "93578"
+          "vote_num_imdb": "93677"
         }
       }
     },
@@ -1485,10 +2037,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1313395.jpg",
         "screenshot": "https://brother.bazonserver.site/video/39858/poster.jpg",
         "rating": {
-          "rating_kp": "5.667",
-          "vote_num_kp": "16478",
+          "rating_kp": "5.666",
+          "vote_num_kp": "16491",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "9436"
+          "vote_num_imdb": "9452"
         }
       }
     },
@@ -1633,10 +2185,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_982.jpg",
         "screenshot": "https://black.bazonserver.site/video/39867/poster.jpg",
         "rating": {
-          "rating_kp": "7.314",
-          "vote_num_kp": "703",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "14090"
+          "rating_kp": "7.317",
+          "vote_num_kp": "708",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "14129"
         }
       }
     },
@@ -1671,7 +2223,7 @@
         "screenshot": "https://b75y.bazonserver.site/video/39866/poster.jpg",
         "rating": {
           "rating_kp": "7.741",
-          "vote_num_kp": "1766",
+          "vote_num_kp": "1767",
           "rating_imdb": "8.3",
           "vote_num_imdb": "88551"
         }
@@ -1785,487 +2337,6 @@
           "vote_num_kp": "61",
           "rating_imdb": "7.1",
           "vote_num_imdb": "833"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4473824",
-      "date": "1639579208",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Бабий Яр. Контекст",
-        "orig": "Babi Yar. Context",
-        "alter": "",
-        "year": "2021",
-        "country": "Нидерланды,Украина",
-        "director": "Сергей Лозница",
-        "genre": "документальный",
-        "actors": "",
-        "description": "Сергей Лозница объединился с музеем «Бабий Яр», чтобы собрать исчерпывающее исследование истории киевского урочища, в котором остались навеки похоронены десятки и сотни тысяч человек, расстрелянных нацистами, в том числе огромное количество евреев.",
-        "slogan": "",
-        "premiere": "11 июля 2021",
-        "age": "16",
-        "time": "7260",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4473824.jpg",
-        "screenshot": "https://i75t.bazonserver.site/video/39861/poster.jpg",
-        "rating": {
-          "rating_kp": "8.056",
-          "vote_num_kp": "239",
-          "rating_imdb": "8",
-          "vote_num_imdb": "139"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1139584",
-      "date": "1639579208",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Память",
-        "orig": "Memoria",
-        "alter": "",
-        "year": "2021",
-        "country": "Колумбия,Таиланд,Франция,Германия,Мексика,Катар,Великобритания,Китай,Швейцария",
-        "director": "Апитчатпон Вирасетакул",
-        "genre": "фантастика,драма",
-        "actors": "Тильда Суинтон,Элькин Диас,Жанна Балибар,Хуан Пабло Уррего,Даниэль Хименес Качо,Агнес Брекке,Жеронимо Барон,Констанца Гутьеррез,Дэниэл Торо",
-        "description": "Джессика, специалист по выращиванию орхидей, приезжает в Колумбию, чтобы ухаживать за сестрой, находящейся в состоянии сна. Но и сама Джессика практически теряет покой — ее преследует странный звук, похожий то ли на взрыв, то ли на мощный удар, который тревожит и лишает сна. Пытаясь понять его происхождение, героиня все больше теряет связь с тем, что принято считать реальностью.",
-        "slogan": "",
-        "premiere": "11 ноября 2021",
-        "age": "16",
-        "time": "8160",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1139584.jpg",
-        "screenshot": "https://dt2g.bazonserver.site/video/39862/poster.jpg",
-        "rating": {
-          "rating_kp": "6.456",
-          "vote_num_kp": "3711",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "4292"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4480637",
-      "date": "1639567412",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Рождество с принцем: Королевское дитя",
-        "orig": "Christmas with a Prince: The Royal Baby",
-        "alter": "",
-        "year": "2021",
-        "country": "Канада",
-        "director": "Marco Deufemia",
-        "genre": "мелодрама",
-        "actors": "Hudson Ambrose,Kayla Isabelle Balan,Julia Baldwin,Nadine Bhabha,Пенелопа Коррин,Сюзанн Кир,Джош Дин,Ник Хунслоу,Кейтлин Либ,Эйдан Морено",
-        "description": "Принц Сан Саварре Александр и доктор Таша отправляются в королевский тур по Северной Америке, несмотря на то, что принцесса уже на седьмом месяце беременности. Всё переворачивается с ног на голову, когда королевская пара оказывается в родном городе Таши. Супругам придётся бросить вызов старым традициям, чтобы здоровью ребёнка ничего не угрожало.",
-        "slogan": "",
-        "premiere": "7 ноября 2021",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://thumbs.filmix.tech/posters/1852/orig/rozhdestvo-s-princem-korolevskoe-ditya-2021_156172.jpg",
-        "screenshot": "https://b75y.bazonserver.site/video/39857/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "0",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1088854",
-      "date": "1639567375",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Ночи в Гранаде",
-        "orig": "Granada Nights",
-        "alter": "",
-        "year": "2021",
-        "country": "Великобритания",
-        "director": "Обид Кхан",
-        "genre": "драма",
-        "actors": "Антонио Аакил,Оскар Касас,Куинтесса Суинделл,Вёрджил Брэмли,Tábata Cerezo,Юлиус Фляйшандерль,Laura Frederico,Элис Сандерс,Isabel Guardiola,Эзра Кан",
-        "description": "Турист из Англии по имени Бен переживает расставание с любимой девушкой в чужом городе. Недолго думая, он обзаводится новыми знакомствами и отправляется познавать все прелести студенческой жизни.",
-        "slogan": "You have get lost, before you can be found",
-        "premiere": "20 марта 2021",
-        "age": "0",
-        "time": "5100",
-        "poster": "https://thumbs.filmix.tech/posters/3732/orig/nochinbspv-granade-2020_156162.jpg",
-        "screenshot": "https://b75y.bazonserver.site/video/39856/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "9",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "81"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1433009",
-      "date": "1639567336",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Наркоконтроль",
-        "orig": "Narc",
-        "alter": "",
-        "year": "2021",
-        "country": "США",
-        "director": "Brandon Cornett",
-        "genre": "криминал",
-        "actors": "London Aaron,QuaNae Coleman,Will Coleman,Jason «JaySkillz» Collins,Tristin Fazekas,Ноэль Гульеми,Rene Henry,Antoine Jackson,Ayana Jewel,Ив Лора",
-        "description": "Офицер Трейси Смит семейный человек, которого преследуют кошмары, связанные с детской травмой. Устроившись на службу сотрудником по борьбе с наркотиками Детройта, он понимает, чтобы влиться в коллектив придется приложить не мало усилий.",
-        "slogan": "",
-        "premiere": "25 мая 2021",
-        "age": "0",
-        "time": "7020",
-        "poster": "https://thumbs.filmix.tech/posters/5341/orig/narkokontrol-2021_156167.jpg",
-        "screenshot": "https://b75y.bazonserver.site/video/39855/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "0",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "41"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "586662",
-      "date": "1639565831",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "trailer": "0",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "last_season": "6",
-      "last_episode": "3",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080
-        },
-        "2": {
-          "1": 480,
-          "2": 480,
-          "3": 480,
-          "4": 480
-        },
-        "3": {
-          "1": 480,
-          "2": 480,
-          "3": 480,
-          "4": 480
-        },
-        "4": {
-          "1": 480,
-          "2": 480,
-          "3": 480,
-          "4": 480
-        },
-        "5": {
-          "1": 480,
-          "2": 480,
-          "3": 480,
-          "4": 480
-        },
-        "6": {
-          "1": 480,
-          "2": 480,
-          "3": 480
-        }
-      },
-      "info": {
-        "rus": "Мисс Марпл",
-        "orig": "Agatha Christie's Marple",
-        "alter": "Мисс Марпл Агаты Кристи",
-        "year": "2004",
-        "country": "Великобритания,США",
-        "director": "Чарльз Палмер,Энди Уилсон,Джон Стриклэнд",
-        "genre": "драма,криминал,детектив",
-        "actors": "Джеральдин МакЮэн,Джулия МакКензи,Стивен Чёрчетт,Изабелла Пейрисс,Джоанна Ламли,Герберт Лом,Джон Оуэнс,Грифф Риз Джонс,Иэн Ричардсон,Кристиан Коулсон",
-        "description": "Старая дева, живущая в деревне Св. Марии Мид, помогает своим друзьям и родственникам разгадывать загадочные убийства.",
-        "slogan": "",
-        "premiere": "12 декабря 2004",
-        "age": "12",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_586662.jpg",
-        "screenshot": "https://yq4u.bazonserver.site/video/39854/poster.jpg",
-        "rating": {
-          "rating_kp": "7.494",
-          "vote_num_kp": "9083",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "7975"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "962012",
-      "date": "1639562801",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "1",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "ColdFilm",
-      "max_qual": "1080",
-      "last_season": "6",
-      "last_episode": "5",
-      "episodes": {
-        "3": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720,
-          "10": 720,
-          "11": 720,
-          "12": 720,
-          "13": 720,
-          "14": 720,
-          "15": 720,
-          "16": 720,
-          "17": 720
-        },
-        "4": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 720,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 480,
-          "12": 720,
-          "13": 720,
-          "14": 1080,
-          "15": 720,
-          "16": 720,
-          "17": 720,
-          "18": 720,
-          "19": 720
-        },
-        "5": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 1080,
-          "8": 1080,
-          "9": 720,
-          "10": 720,
-          "11": 720,
-          "12": 720,
-          "13": 1080,
-          "14": 1080,
-          "15": 1080,
-          "16": 1080,
-          "17": 1080,
-          "18": 1080,
-          "19": 720
-        },
-        "6": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080
-        }
-      },
-      "info": {
-        "rus": "Ривердэйл",
-        "orig": "Riverdale",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Ли Толанд Кригер, Кевин Родни Салливан, Мэгги Кили",
-        "genre": "мелодрама,детектив,драма,криминал",
-        "actors": "Лили Рейнхарт, Камила Мендес, Кей Джей Апа, Коул Спроус, Мэделин Петш, Кейси Котт, Марисоль Николс, Мэдхен Амик, Люк Перри, Скит Ульрих",
-        "description": "Сериал расскажет о жизни и приключениях жизнерадостного и никогда не унывающего подростка Арчи Эндрюса, а также Бэтти Купер, Вероники Лодж и их друзей из Ривердэйла. Действие разворачивается в современном мире, а главные герои решают исследовать сокрытую от посторонних сторону жизни маленького мирного городка со всеми его странностями и тёмными тайнами, прячущимися за праздничным фасадом.",
-        "slogan": "A Great Place to Get Away With It All",
-        "premiere": "26 января 2017",
-        "age": "16",
-        "time": "2700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_962012.jpg",
-        "screenshot": "https://zd5q.bazonserver.site/video/27734/poster.jpg",
-        "rating": {
-          "rating_kp": "6.678",
-          "vote_num_kp": "137367",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "137520"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4652668",
-      "date": "1639548608",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Скажи Рождеству Да",
-        "orig": "Saying Yes to Christmas",
-        "alter": "",
-        "year": "2021",
-        "country": "драма",
-        "director": "Грэм Кэмпбелл",
-        "genre": "драма",
-        "actors": "Эрика Курата-Превост,Ромэйн Вейт,Зои Магфорд,Сабрина Грдевич,Ховард Хувер,Катрин Де Севе,Глен Майкл Грант,Ваня Гиусто,Alia DeSantis,Катрин Бёрдон",
-        "description": "Волшебное рождественское желание друга детства заставляет одержимую карьерой Джун отвечать \"да\" на каждое приглашение. И чтобы вновь стать собой, ей приходится расставить приоритеты и заново узнать себя.",
-        "slogan": "",
-        "premiere": "30 ноября 2021",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZGEwZmQ0YjMtOWEwZS00NmZkLTk2NDgtZTNlM2ZkN2Y1NzgyXkEyXkFqcGdeQXVyMTQyNDk2NzE@.jpg",
-        "screenshot": "https://i75t.bazonserver.site/video/39853/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "197"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "276598",
-      "date": "1639538416",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Драйв",
-        "orig": "Drive",
-        "alter": "",
-        "year": "2011",
-        "country": "США",
-        "director": "Николас Виндинг Рефн",
-        "genre": "драма,криминал",
-        "actors": "Райан Гослинг, Кэри Маллиган, Брайан Крэнстон, Альберт Брукс, Оскар Айзек, Кристина Хендрикс, Рон Перлман, Расс Тэмблин, Джефф Вульф, Джеймс Бибери",
-        "description": "Великолепный гонщик - при свете дня он выполняет каскадерские трюки на съёмочных площадках Голливуда, а по ночам ведет рискованную игру. Но один опасный контракт - и за его жизнь назначена награда. Теперь, чтобы остаться в живых и спасти свою очаровательную соседку, он должен делать то, что умеет лучше всего - виртуозно уходить от погони...",
-        "slogan": "Some Heroes Are Real",
-        "premiere": "20 мая 2011",
-        "age": "18",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_276598.jpg",
-        "screenshot": "https://b75y.bazonserver.site/video/39830/poster.jpg",
-        "rating": {
-          "rating_kp": "7.261",
-          "vote_num_kp": "243429",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "611674"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4632924",
-      "date": "1639530016",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Рождество на ферме",
-        "orig": "Christmas on the Farm",
-        "alter": "",
-        "year": "2021",
-        "country": "Австралия",
-        "director": "Кристофер Уикс",
-        "genre": "драма,мелодрама,комедия",
-        "actors": "Николас Браун,Жанетт Кронин,Асмара Файк,Линн Гилмартин,Carie Kawa,Emily Liu,Даррен МакКаллен,Поппи Монтгомери,Peter Phan,Хью Шеридан",
-        "description": "Светская львица из Нью-Йорка Эмми Джонс решила выпустить книгу о своей жизни на ферме, не упомянув, что на самом деле там жила и вела хозяйство её мать Клементин. Директор издательства и её сын заинтересовались книгой девушки и решили прилететь в Австралию, чтобы увидеть её фермерское хозяйство своими глазами. Теперь у Эмми и её верных помощников осталось мало времени, чтобы подготовиться к приезду издателей.",
-        "slogan": "",
-        "premiere": "1 декабря 2021",
-        "age": "0",
-        "time": "5160",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZDkxNTBkMWMtZDcwYS00ZDVlLWIyMjctOTQ4Yjg2NmE2YjZmXkEyXkFqcGdeQXVyMjIzOTA2NDk@.jpg",
-        "screenshot": "https://dt2g.bazonserver.site/video/39852/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "9",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "395"
         }
       }
     }
