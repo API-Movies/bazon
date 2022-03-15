@@ -2,6 +2,80 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "596297",
+      "date": "1578262858",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Остинленд",
+        "orig": "Austenland",
+        "alter": "",
+        "year": "2013",
+        "country": "Великобритания, США",
+        "director": "Джеруша Хесс",
+        "genre": "комедия,мелодрама",
+        "actors": "Кери Рассел, Джей Джей Филд, Брэт МакКензи, Дженнифер Кулидж, Джеймс Кэллис, Джорджия Кинг, Руперт Ванситтарт, Рики Уиттл, Джейн Сеймур, Айда Филд",
+        "description": "В центре сюжета - одинокая женщина около тридцати лет, испытывающая трудности во всех возможных реальных любовных переживаниях своей жизни из-за одержимой влюбленности в мистера Дарси - вымышленного героя классического романа «Гордость и предубеждение» Джейн Остин. Она тратит все свои сбережения на поездку в Англию и встречает там мужчину из своих фантазий.",
+        "slogan": "",
+        "premiere": "18 января 2013",
+        "age": "16",
+        "time": "5820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_596297.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/6101/poster.jpg",
+        "rating": {
+          "rating_kp": "6.553",
+          "vote_num_kp": "4467",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "20439"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "596266",
+      "date": "1578262854",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "В доме",
+        "orig": "Dans la maison",
+        "alter": "",
+        "year": "2012",
+        "country": "Франция",
+        "director": "Франсуа Озон",
+        "genre": "триллер,мелодрама,драма",
+        "actors": "Фабрис Лукини, Эрнст Умоер, Кристин Скотт Томас, Эмманюэль Сенье, Дени Меноше, Бастьен Угетто, Жан-Франсуа Бальмер, Иоланда Моро, Катрин Давенье, Винсент Шмитт",
+        "description": "Разочаровавшись в своих учениках, учитель благоволит лишь мальчику, сидящему за последней партой и сильно выделяющемуся на фоне остальных. Этот ребенок имеет склонность к подглядыванию и однажды решает написать рассказ о семье своего одноклассника, за которой имеет возможность систематически наблюдать.",
+        "slogan": "Думаешь, за тобой не интересно подсматривать?",
+        "premiere": "10 сентября 2012",
+        "age": "16",
+        "time": "6300",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_596266.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/6100/poster.jpg",
+        "rating": {
+          "rating_kp": "7.394",
+          "vote_num_kp": "41873",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "31842"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "596234",
       "date": "1578262845",
       "camrip": "0",
@@ -30,10 +104,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_596234.jpg",
         "screenshot": "https://brother.bazonserver.site/video/6099/poster.jpg",
         "rating": {
-          "rating_kp": "6.173",
-          "vote_num_kp": "6472",
+          "rating_kp": "6.172",
+          "vote_num_kp": "6473",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "9282"
+          "vote_num_imdb": "9287"
         }
       }
     },
@@ -68,7 +142,7 @@
         "screenshot": "https://brother.bazonserver.site/video/6098/poster.jpg",
         "rating": {
           "rating_kp": "7.418",
-          "vote_num_kp": "83007",
+          "vote_num_kp": "83032",
           "rating_imdb": "7.4",
           "vote_num_imdb": "153060"
         }
@@ -179,7 +253,7 @@
         "screenshot": "https://brother.bazonserver.site/video/6095/poster.jpg",
         "rating": {
           "rating_kp": "5.942",
-          "vote_num_kp": "8706",
+          "vote_num_kp": "8715",
           "rating_imdb": "6.1",
           "vote_num_imdb": "22250"
         }
@@ -366,7 +440,7 @@
           "rating_kp": "5.39",
           "vote_num_kp": "1949",
           "rating_imdb": "5.3",
-          "vote_num_imdb": "7007"
+          "vote_num_imdb": "7015"
         }
       }
     },
@@ -438,9 +512,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6088/poster.jpg",
         "rating": {
           "rating_kp": "6.362",
-          "vote_num_kp": "18179",
+          "vote_num_kp": "18187",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "20612"
+          "vote_num_imdb": "20638"
         }
       }
     },
@@ -475,9 +549,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6086/poster.jpg",
         "rating": {
           "rating_kp": "5.647",
-          "vote_num_kp": "32086",
+          "vote_num_kp": "32092",
           "rating_imdb": "5.3",
-          "vote_num_imdb": "46805"
+          "vote_num_imdb": "46829"
         }
       }
     },
@@ -548,10 +622,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_588550.jpg",
         "screenshot": "https://brother.bazonserver.site/video/6084/poster.jpg",
         "rating": {
-          "rating_kp": "4.832",
-          "vote_num_kp": "6399",
+          "rating_kp": "4.833",
+          "vote_num_kp": "6406",
           "rating_imdb": "4.8",
-          "vote_num_imdb": "12998"
+          "vote_num_imdb": "13002"
         }
       }
     },
@@ -588,7 +662,7 @@
           "rating_kp": "6.124",
           "vote_num_kp": "3768",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "26901"
+          "vote_num_imdb": "26913"
         }
       }
     },
@@ -696,10 +770,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_587085.jpg",
         "screenshot": "https://brother.bazonserver.site/video/6080/poster.jpg",
         "rating": {
-          "rating_kp": "5.585",
-          "vote_num_kp": "14332",
+          "rating_kp": "5.584",
+          "vote_num_kp": "14342",
           "rating_imdb": "5.6",
-          "vote_num_imdb": "43946"
+          "vote_num_imdb": "43959"
         }
       }
     },
@@ -845,9 +919,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6076/poster.jpg",
         "rating": {
           "rating_kp": "5.984",
-          "vote_num_kp": "29050",
+          "vote_num_kp": "29062",
           "rating_imdb": "5.6",
-          "vote_num_imdb": "49356"
+          "vote_num_imdb": "49380"
         }
       }
     },
@@ -956,9 +1030,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6072/poster.jpg",
         "rating": {
           "rating_kp": "7.259",
-          "vote_num_kp": "1365",
+          "vote_num_kp": "1366",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "61852"
+          "vote_num_imdb": "61901"
         }
       }
     },
@@ -993,7 +1067,7 @@
         "screenshot": "https://brother.bazonserver.site/video/6071/poster.jpg",
         "rating": {
           "rating_kp": "7.157",
-          "vote_num_kp": "131458",
+          "vote_num_kp": "131514",
           "rating_imdb": "6.9",
           "vote_num_imdb": "113156"
         }
@@ -1030,9 +1104,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6070/poster.jpg",
         "rating": {
           "rating_kp": "4.923",
-          "vote_num_kp": "10845",
+          "vote_num_kp": "10854",
           "rating_imdb": "5.3",
-          "vote_num_imdb": "14912"
+          "vote_num_imdb": "14928"
         }
       }
     },
@@ -1104,7 +1178,7 @@
         "screenshot": "https://brother.bazonserver.site/video/6068/poster.jpg",
         "rating": {
           "rating_kp": "5.23",
-          "vote_num_kp": "15715",
+          "vote_num_kp": "15721",
           "rating_imdb": "5",
           "vote_num_imdb": "91"
         }
@@ -1141,9 +1215,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6067/poster.jpg",
         "rating": {
           "rating_kp": "5.089",
-          "vote_num_kp": "11962",
+          "vote_num_kp": "11966",
           "rating_imdb": "4.9",
-          "vote_num_imdb": "15208"
+          "vote_num_imdb": "15217"
         }
       }
     },
@@ -1178,9 +1252,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6066/poster.jpg",
         "rating": {
           "rating_kp": "6.442",
-          "vote_num_kp": "13714",
+          "vote_num_kp": "13727",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "22773"
+          "vote_num_imdb": "22795"
         }
       }
     },
@@ -1215,9 +1289,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6065/poster.jpg",
         "rating": {
           "rating_kp": "8.17",
-          "vote_num_kp": "5196",
+          "vote_num_kp": "5198",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "2560"
+          "vote_num_imdb": "2561"
         }
       }
     },
@@ -1252,9 +1326,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6064/poster.jpg",
         "rating": {
           "rating_kp": "6.529",
-          "vote_num_kp": "3919",
+          "vote_num_kp": "3920",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "3122"
+          "vote_num_imdb": "3124"
         }
       }
     },
@@ -1328,7 +1402,7 @@
           "rating_kp": "7.667",
           "vote_num_kp": "1354",
           "rating_imdb": "7",
-          "vote_num_imdb": "23905"
+          "vote_num_imdb": "23933"
         }
       }
     },
@@ -1363,9 +1437,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6061/poster.jpg",
         "rating": {
           "rating_kp": "6.405",
-          "vote_num_kp": "367",
+          "vote_num_kp": "368",
           "rating_imdb": "5.6",
-          "vote_num_imdb": "1362"
+          "vote_num_imdb": "1363"
         }
       }
     },
@@ -1399,10 +1473,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_582725.jpg",
         "screenshot": "https://brother.bazonserver.site/video/6060/poster.jpg",
         "rating": {
-          "rating_kp": "6.99",
-          "vote_num_kp": "3463",
+          "rating_kp": "6.989",
+          "vote_num_kp": "3475",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "20181"
+          "vote_num_imdb": "20235"
         }
       }
     },
@@ -1474,9 +1548,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6058/poster.jpg",
         "rating": {
           "rating_kp": "7.515",
-          "vote_num_kp": "2868",
+          "vote_num_kp": "2869",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "45245"
+          "vote_num_imdb": "45273"
         }
       }
     },
@@ -1624,7 +1698,7 @@
           "rating_kp": "7.266",
           "vote_num_kp": "7745",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "8722"
+          "vote_num_imdb": "8735"
         }
       }
     },
@@ -1772,81 +1846,7 @@
           "rating_kp": "6.77",
           "vote_num_kp": "3856",
           "rating_imdb": "6",
-          "vote_num_imdb": "9250"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "579839",
-      "date": "1578262377",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Кукловод",
-        "orig": "Choneungryeokj",
-        "alter": "",
-        "year": "2010",
-        "country": "Корея Южная",
-        "director": "Ким Мин-сок",
-        "genre": "боевик,фантастика,триллер,драма",
-        "actors": "Ко Су, Кан Дон-вон, Энес Кая, Чхве Дон-мун, Чон Ын-чхэ, Ян Кён Мо, Юн Да-гён, Ким Со-вон, Ли Сэ-ран, Рю Абель",
-        "description": "В фирму «Утопия» приходит устраиваться молодой человек Лим Гю-нам. Босс, человек с не меньшими странностями, чем название его компании, при первом же знакомстве рассказывает ему о таинственных событиях, недавно произошедших в офисе. И предлагает оформить его на должность представителя фирмы. На что молодой человек, недавно потерявший работу, скрепя сердце вынужден согласиться. Он даже не догадывается, с кем ему предстоит столкнуться.",
-        "slogan": "",
-        "premiere": "10 ноября 2010",
-        "age": "0",
-        "time": "6720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_579839.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/6048/poster.jpg",
-        "rating": {
-          "rating_kp": "6.466",
-          "vote_num_kp": "1134",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "1672"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "579739",
-      "date": "1578262375",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Развод Надера и Симин",
-        "orig": "Jodaeiye Nader az Simin",
-        "alter": "",
-        "year": "2011",
-        "country": "Иран, Франция",
-        "director": "Асгар Фархади",
-        "genre": "триллер,драма",
-        "actors": "Пейман Моаади, Лейла Хатами, Сарина Фархади, Саре Байат, Шахаб Хоссейни, Али-Асгар Шахбази, Мерила Зареи, Бабак Карими, Кимиа Хуссейни, Ширин Язданбакхш",
-        "description": "Супруги Надер и Симин решили уехать из Ирана в поисках лучшей жизни. Но в один момент Надер все-таки решает остаться рядом со своим отцом, страдающим болезнью Альцгеймера. Симин подает на развод в надежде уехать с их 11-летней дочерью, но судебное решение оказывается не в ее пользу. Дочь, тем временем, надеется, что мама одумается и вернется.",
-        "slogan": "Ugly truth, sweet lies",
-        "premiere": "1 февраля 2011",
-        "age": "16",
-        "time": "7380",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_579739.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/6047/poster.jpg",
-        "rating": {
-          "rating_kp": "7.67",
-          "vote_num_kp": "15977",
-          "rating_imdb": "8.3",
-          "vote_num_imdb": "239359"
+          "vote_num_imdb": "9261"
         }
       }
     }

@@ -2,6 +2,80 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "579839",
+      "date": "1578262377",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кукловод",
+        "orig": "Choneungryeokj",
+        "alter": "",
+        "year": "2010",
+        "country": "Корея Южная",
+        "director": "Ким Мин-сок",
+        "genre": "боевик,фантастика,триллер,драма",
+        "actors": "Ко Су, Кан Дон-вон, Энес Кая, Чхве Дон-мун, Чон Ын-чхэ, Ян Кён Мо, Юн Да-гён, Ким Со-вон, Ли Сэ-ран, Рю Абель",
+        "description": "В фирму «Утопия» приходит устраиваться молодой человек Лим Гю-нам. Босс, человек с не меньшими странностями, чем название его компании, при первом же знакомстве рассказывает ему о таинственных событиях, недавно произошедших в офисе. И предлагает оформить его на должность представителя фирмы. На что молодой человек, недавно потерявший работу, скрепя сердце вынужден согласиться. Он даже не догадывается, с кем ему предстоит столкнуться.",
+        "slogan": "",
+        "premiere": "10 ноября 2010",
+        "age": "0",
+        "time": "6720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_579839.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/6048/poster.jpg",
+        "rating": {
+          "rating_kp": "6.466",
+          "vote_num_kp": "1134",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "1672"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "579739",
+      "date": "1578262375",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Развод Надера и Симин",
+        "orig": "Jodaeiye Nader az Simin",
+        "alter": "",
+        "year": "2011",
+        "country": "Иран, Франция",
+        "director": "Асгар Фархади",
+        "genre": "триллер,драма",
+        "actors": "Пейман Моаади, Лейла Хатами, Сарина Фархади, Саре Байат, Шахаб Хоссейни, Али-Асгар Шахбази, Мерила Зареи, Бабак Карими, Кимиа Хуссейни, Ширин Язданбакхш",
+        "description": "Супруги Надер и Симин решили уехать из Ирана в поисках лучшей жизни. Но в один момент Надер все-таки решает остаться рядом со своим отцом, страдающим болезнью Альцгеймера. Симин подает на развод в надежде уехать с их 11-летней дочерью, но судебное решение оказывается не в ее пользу. Дочь, тем временем, надеется, что мама одумается и вернется.",
+        "slogan": "Ugly truth, sweet lies",
+        "premiere": "1 февраля 2011",
+        "age": "16",
+        "time": "7380",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_579739.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/6047/poster.jpg",
+        "rating": {
+          "rating_kp": "7.67",
+          "vote_num_kp": "15978",
+          "rating_imdb": "8.3",
+          "vote_num_imdb": "239569"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "579524",
       "date": "1578262366",
       "camrip": "0",
@@ -179,7 +253,7 @@
         "screenshot": "https://brother.bazonserver.site/video/6041/poster.jpg",
         "rating": {
           "rating_kp": "7.369",
-          "vote_num_kp": "70752",
+          "vote_num_kp": "70763",
           "rating_imdb": "7.2",
           "vote_num_imdb": "162892"
         }
@@ -216,9 +290,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6040/poster.jpg",
         "rating": {
           "rating_kp": "6.161",
-          "vote_num_kp": "6033",
+          "vote_num_kp": "6034",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "2765"
+          "vote_num_imdb": "2767"
         }
       }
     },
@@ -440,7 +514,7 @@
           "rating_kp": "4.626",
           "vote_num_kp": "551",
           "rating_imdb": "5",
-          "vote_num_imdb": "3726"
+          "vote_num_imdb": "3729"
         }
       }
     },
@@ -474,8 +548,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_575301.jpg",
         "screenshot": "https://brother.bazonserver.site/video/6032/poster.jpg",
         "rating": {
-          "rating_kp": "6.652",
-          "vote_num_kp": "18219",
+          "rating_kp": "6.653",
+          "vote_num_kp": "18226",
           "rating_imdb": "6.6",
           "vote_num_imdb": "102275"
         }
@@ -696,8 +770,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_575195.jpg",
         "screenshot": "https://brother.bazonserver.site/video/6026/poster.jpg",
         "rating": {
-          "rating_kp": "6.824",
-          "vote_num_kp": "91137",
+          "rating_kp": "6.825",
+          "vote_num_kp": "91176",
           "rating_imdb": "6.6",
           "vote_num_imdb": "98225"
         }
@@ -773,7 +847,7 @@
           "rating_kp": "6.842",
           "vote_num_kp": "2656",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "4896"
+          "vote_num_imdb": "4903"
         }
       }
     },
@@ -845,7 +919,7 @@
         "screenshot": "https://brother.bazonserver.site/video/6022/poster.jpg",
         "rating": {
           "rating_kp": "7.12",
-          "vote_num_kp": "73084",
+          "vote_num_kp": "73114",
           "rating_imdb": "7",
           "vote_num_imdb": "91156"
         }
@@ -956,9 +1030,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6019/poster.jpg",
         "rating": {
           "rating_kp": "6.136",
-          "vote_num_kp": "30405",
+          "vote_num_kp": "30418",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "2583"
+          "vote_num_imdb": "2584"
         }
       }
     },
@@ -1032,7 +1106,7 @@
           "rating_kp": "4.338",
           "vote_num_kp": "4348",
           "rating_imdb": "4.6",
-          "vote_num_imdb": "674"
+          "vote_num_imdb": "675"
         }
       }
     },
@@ -1104,7 +1178,7 @@
         "screenshot": "https://brother.bazonserver.site/video/6015/poster.jpg",
         "rating": {
           "rating_kp": "7.948",
-          "vote_num_kp": "67999",
+          "vote_num_kp": "68045",
           "rating_imdb": "7.7",
           "vote_num_imdb": "60809"
         }
@@ -1214,8 +1288,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_572337.jpg",
         "screenshot": "https://brother.bazonserver.site/video/6012/poster.jpg",
         "rating": {
-          "rating_kp": "6.601",
-          "vote_num_kp": "17575",
+          "rating_kp": "6.602",
+          "vote_num_kp": "17590",
           "rating_imdb": "5.5",
           "vote_num_imdb": "19981"
         }
@@ -1252,9 +1326,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6011/poster.jpg",
         "rating": {
           "rating_kp": "5.802",
-          "vote_num_kp": "6434",
+          "vote_num_kp": "6436",
           "rating_imdb": "5.2",
-          "vote_num_imdb": "11221"
+          "vote_num_imdb": "11224"
         }
       }
     },
@@ -1289,9 +1363,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6010/poster.jpg",
         "rating": {
           "rating_kp": "6.204",
-          "vote_num_kp": "41081",
+          "vote_num_kp": "41082",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "141061"
+          "vote_num_imdb": "141159"
         }
       }
     },
@@ -1400,7 +1474,7 @@
         "screenshot": "https://brother.bazonserver.site/video/6006/poster.jpg",
         "rating": {
           "rating_kp": "6.051",
-          "vote_num_kp": "38403",
+          "vote_num_kp": "38418",
           "rating_imdb": "5.2",
           "vote_num_imdb": "55373"
         }
@@ -1437,9 +1511,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6005/poster.jpg",
         "rating": {
           "rating_kp": "7.607",
-          "vote_num_kp": "2418",
+          "vote_num_kp": "2417",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "3755"
+          "vote_num_imdb": "3757"
         }
       }
     },
@@ -1511,9 +1585,9 @@
         "screenshot": "https://brother.bazonserver.site/video/6003/poster.jpg",
         "rating": {
           "rating_kp": "4.903",
-          "vote_num_kp": "6351",
+          "vote_num_kp": "6355",
           "rating_imdb": "5.2",
-          "vote_num_imdb": "12707"
+          "vote_num_imdb": "12714"
         }
       }
     },
@@ -1585,9 +1659,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/6001/poster.jpg",
         "rating": {
           "rating_kp": "6.534",
-          "vote_num_kp": "9282",
+          "vote_num_kp": "9284",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "74070"
+          "vote_num_imdb": "74117"
         }
       }
     },
@@ -1621,10 +1695,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_570047.jpg",
         "screenshot": "https://brother.bazonserver.site/video/6000/poster.jpg",
         "rating": {
-          "rating_kp": "6.049",
-          "vote_num_kp": "18690",
+          "rating_kp": "6.05",
+          "vote_num_kp": "18699",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "136768"
+          "vote_num_imdb": "136851"
         }
       }
     },
@@ -1661,7 +1735,7 @@
           "rating_kp": "6.778",
           "vote_num_kp": "701",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "1895"
+          "vote_num_imdb": "1894"
         }
       }
     },
@@ -1733,9 +1807,9 @@
         "screenshot": "https://brother.bazonserver.site/video/5997/poster.jpg",
         "rating": {
           "rating_kp": "6.608",
-          "vote_num_kp": "61704",
+          "vote_num_kp": "61738",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "192453"
+          "vote_num_imdb": "192464"
         }
       }
     },
@@ -1773,80 +1847,6 @@
           "vote_num_kp": "1937",
           "rating_imdb": "6.4",
           "vote_num_imdb": "1513"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "568977",
-      "date": "1578261954",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Когда гаснет свет",
-        "orig": "When the Lights Went Out",
-        "alter": "",
-        "year": "2012",
-        "country": "Великобритания",
-        "director": "Пэт Холден",
-        "genre": "ужасы",
-        "actors": "Кейт Эшфилд, Стивен Вэддингтон, Крэйг Паркинсон, Андреа Лоу, Таша Коннор, Ханна Клиффорд, Гари Льюис, Мартин Компстон, Молли Уиндсор, Тони Питтс",
-        "description": "Муж, жена и девочка-подросток переезжают в новый дом, где их начинают преследовать призраки. .. кто они и чего они хотят? Сможет ли призрак развратного монаха заполучить их дочь?",
-        "slogan": "Set in 1974 and based on true events, When The Lights Went Out is the story of a down-to-earth Yorkshire family and the malevolent spirit who turns their existence upside down",
-        "premiere": "31 января 2012",
-        "age": "0",
-        "time": "5160",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_568977.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/5995/poster.jpg",
-        "rating": {
-          "rating_kp": "4.526",
-          "vote_num_kp": "624",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "4702"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "568847",
-      "date": "1578261948",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Темная сторона Луны",
-        "orig": "Die dunkle Seite des Mondes",
-        "alter": "",
-        "year": "2015",
-        "country": "Германия, Люксембург, Великобритания",
-        "director": "Штефан Рик",
-        "genre": "триллер",
-        "actors": "Юрген Прохнов, Мориц Бляйбтрой, Нора фон Вальдштеттен, Андре Хеннике, Дорис Шретцмайер, Евгения Анселен, Сабина Россбах, Nino Porzio, Люк Фейт, Жермен Вагнер",
-        "description": "Фильм рассказывает историю успешного франкфуртского бизнес-адвоката Урса Бланка. Престижный адвокат пользуется большим вниманием и уважением в высшем финансовом обществе. Но несмотря на профессиональный успех и личное счастье в супружеской жизни, Урс Бланк не испытывает никакого удовлетворения. Ко всему прочему самоубийство бизнес-партнёра выбивает его из колеи. В один прекрасный день в жизни Бланка появляется девушка Люсиль, к которой он чувствует некое магическое притяжение. Девушке удаётся утянуть молодого мужчину в свой альтернативный мир, предложив ему попробовать галлюциногенные грибы. Путешествие в призрачный мир фантазий, который древние ацтеки называли «королевской тропой просветления», повлечёт за собой далеко идущие последствия.",
-        "slogan": "",
-        "premiere": "27 сентября 2015",
-        "age": "0",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_568847.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/5994/poster.jpg",
-        "rating": {
-          "rating_kp": "5.572",
-          "vote_num_kp": "862",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "7506"
         }
       }
     }

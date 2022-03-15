@@ -2,6 +2,338 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "891441",
+      "date": "1581877447",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "SDI Media",
+      "max_qual": "1080",
+      "last_season": "3",
+      "last_episode": "11",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080
+        },
+        "3": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080
+        }
+      },
+      "info": {
+        "rus": "Вавилон-Берлин",
+        "orig": "Babylon Berlin",
+        "alter": "",
+        "year": "2017",
+        "country": "Германия",
+        "director": "Хендрик Хандлёгтен, Том Тыквер, Ахим фон Боррис",
+        "genre": "триллер,драма,криминал",
+        "actors": "Фолькер Брух, Лив Лиза Фрис, Петер Курт, Маттиас Брандт, Леони Бенеш, Северия Янушаускайте, Ларс Айдингер, Мизель Матичевич, Фритци Хаберландт, Карл Маркович",
+        "description": "Действие происходит в Германии в конце 1920-х - начале 1930-х годов, до прихода к власти нацистов. Комиссар полиции Гереон Рат занимается раскрытием различных преступлений в Берлине - от убийств до торговли наркотиками. Главный герой видит, как стремительно меняется общество, и на первый план выходят такие явления, как эмансипация и экстремизм...",
+        "slogan": "",
+        "premiere": "15 октября 2017",
+        "age": "18",
+        "time": "2700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_891441.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/8306/poster.jpg",
+        "rating": {
+          "rating_kp": "7.841",
+          "vote_num_kp": "9858",
+          "rating_imdb": "8.4",
+          "vote_num_imdb": "22973"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "5622",
+      "date": "1581867710",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Сонная Лощина",
+        "orig": "Sleepy Hollow",
+        "alter": "",
+        "year": "1999",
+        "country": "Германия, США",
+        "director": "Тим Бёртон",
+        "genre": "ужасы,триллер,фэнтези,детектив",
+        "actors": "Джонни Депп, Кристина Риччи, Миранда Ричардсон, Кристофер Уокен, Майкл Гэмбон, Каспер Ван Дин, Джеффри Джонс, Ричард Гриффитс, Кристофер Ли, Иен Макдермид",
+        "description": "Нью-Йорк, 1799 год. Икабода Крэйна, молодого констебля, отправляют в местечко Сонная лощина для расследования загадочных убийств. Все жертвы, как сообщает местное население, погибают от меча всадника без головы.\r\n\r\nВсе они обезглавлены, а головы исчезли. Крэйну приходится убедиться, что это не легенда, а страшная правда. Становится очевидно, что убийца приходит с того света, что в преступлениях замешаны ведьмы и иная нечисть. Всадника нельзя убить пулей, всех смельчаков он побеждает в схватках. Но каковы мотивы злодеяний?..",
+        "slogan": "Вы можете запереть двери. Вы можете закрыть окна. Но сможете ли вы пережить эту ночь?",
+        "premiere": "17 ноября 1999",
+        "age": "16",
+        "time": "6300",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5622.jpg",
+        "screenshot": "https://white.bazonserver.site/video/1111/poster.jpg",
+        "rating": {
+          "rating_kp": "7.939",
+          "vote_num_kp": "246335",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "350490"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1077993",
+      "date": "1581852478",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Любовь к волосам",
+        "orig": "Hair Love",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Мэттью Черри,Эверетт Доунинг мл.,Брюс В. Смит",
+        "genre": "мультфильм,короткометражка,драма,комедия,семейный",
+        "actors": "Исса Рэй",
+        "description": "Отец пытается первый раз в жизни уложить волосы дочери в красивую прическу.",
+        "slogan": "",
+        "premiere": "14 августа 2019",
+        "age": "0",
+        "time": "420",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1077993.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/10517/poster.jpg",
+        "rating": {
+          "rating_kp": "7.244",
+          "vote_num_kp": "2247",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "6216"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1315042",
+      "date": "1581851830",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "С Новым годом!",
+        "orig": "Qin ai de xin nian hao",
+        "alter": "",
+        "year": "2019",
+        "country": "Китай",
+        "director": "Пэн Юлунь",
+        "genre": "комедия,мелодрама",
+        "actors": "Бай Байхэ,Бай Цзюйган,Хай Итянь,Ли Цзяньи,Лю Чан,Лу Синчэнь,Лу Юйлай,Вэй Дасюнь,Джеймс Вэнь,У Хаочэнь",
+        "description": "Провинциальная девушка по имени Бай приезжает в Пекин за лучшей жизнью. Однако всё складывается не совсем так, как она представляла. Личная жизнь разваливается, карьера не идёт в гору, а в соседки набивается мелкая надоедливая девочонка. Окончательно во всём разочаровавшись, Бай возвращается в родной город ухаживать за больной матерью, но именно там она вдруг понимает, чего хочет на самом деле.",
+        "slogan": "",
+        "premiere": "31 декабря 2019",
+        "age": "0",
+        "time": "6600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1315042.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/10516/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "15",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "43"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1319523",
+      "date": "1581851719",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Никогда не сдавайся",
+        "orig": "Never Surrender: A Galaxy Quest Documentary",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Джек Беннетт",
+        "genre": "документальный",
+        "actors": "Тим Аллен,Бретт Берг,Грег Берланти,Патрик Брин,Элизабет Кантильон,Энрико Колантони,Линда ДеСенна,Билл Джордж,Роберт Гордон,Марк Джонсон",
+        "description": "Создатели и звезды фильма \"В поисках галактики\", комедийной пародии на \"Звездный путь\" обсуждают его съемки, социальный эффект и судьбу работавших над его созданием людей.",
+        "slogan": "",
+        "premiere": "26 ноября 2019",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1319523.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/10515/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "17",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "1767"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1178301",
+      "date": "1581851222",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ты умеешь хранить секреты?",
+        "orig": "Can You Keep a Secret?",
+        "alter": "",
+        "year": "2019",
+        "country": "США",
+        "director": "Элиз Дюран",
+        "genre": "комедия,мелодрама",
+        "actors": "Александра Даддарио, Тайлер Хэклин, Сунита Мани, Кимико Гленн, Лаверн Кокс, Джуда Фридландер, Кейт Кастонгуэй, Sam Asghari, Ashlyn Alessi, Бобби Тисдэйл",
+        "description": "У каждой девушки есть секреты, которыми она ни с кем не поделится, кроме, пожалуй, симпатичного незнакомца в самолете. Но как же тесен мир, и что делать, если этот красавец вдруг окажется вашим новым начальником? Милые дамы, не забывайте - все, что вы рассказываете мужчине, однажды может обернуться против вас...",
+        "slogan": "Возможна ли правда между мужчиной и женщиной?",
+        "premiere": "16 августа 2019",
+        "age": "16",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1178301.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/10513/poster.jpg",
+        "rating": {
+          "rating_kp": "5.926",
+          "vote_num_kp": "24230",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "15425"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1090098",
+      "date": "1581756435",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Тот, кто виновен",
+        "orig": "Das Joshua-Profil",
+        "alter": "",
+        "year": "2018",
+        "country": "Германия",
+        "director": "Йохен Фрейданк",
+        "genre": "триллер",
+        "actors": "Торбен Либрехт,Lina Hüesker,Армин Роде,Франциска Вайс,Инес Бьёрг Давид,Макс Хопп,Арнд Клавиттер,Петер Мюгинд,Кристиан Алерс,Jona Eisenblätter",
+        "description": "Фильм снят по книге Себастьяна Фитцека. Главный герой, Макс Роде - писатель-неудачник, но вполне законопослушный гражданин, чего не скажешь о его брате Космо. Он отбывает превентивное заключение в психиатрической больнице. Макс никогда не нарушал закон, но через несколько дней он должен совершить одно из самых страшных преступлений. Правда, он еще не подозревает об этом, в отличие от тех, кто хочет устранить его, пока не стало слишком поздно.",
+        "slogan": "",
+        "premiere": "30 марта 2018",
+        "age": "0",
+        "time": "6300",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWMyYjk3ZDEtMzQ0ZC00YzY4LTg2YTQtNTAzOTQ1NWE2MGI5XkEyXkFqcGdeQXVyMzgyMDMwNQ@@._V1_SY1000_CR0,0,788,1000_AL_.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/10509/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "24",
+          "rating_imdb": "4.6",
+          "vote_num_imdb": "206"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1299161",
+      "date": "1581756263",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Снова в школу",
+        "orig": "Fan xiao",
+        "alter": "",
+        "year": "2019",
+        "country": "Тайвань",
+        "director": "Джон Сюй",
+        "genre": "ужасы,триллер,детектив",
+        "actors": "Gingle Wang,Chin-Hua Tseng,Фу Мэнпо,Pen-yu Chang,Cecilia Choi,Ся Цзинтин,Оушен,Chin-Yu Pan,Ko-Yuan Wang,Chung-Yueh Yun",
+        "description": "В этой экранизация одной из самых жутких игр минувшего десятилетия, речь пойдет о тяжелом периоде в истории Тайваня, известном как Белый Террор, который немногим отличался от аналогичного периода в истории нашей страны и в истории КНР, только там жертвами преследований стали все, кто соприкасался с коммунистической идеологией. В итоге, подогреваемая государственной пропагандой истерия достигла той степени, когда даже школьников могли казнить за чтение запрещенной литературы.",
+        "slogan": "",
+        "premiere": "20 сентября 2019",
+        "age": "0",
+        "time": "6180",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1299161.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/10508/poster.jpg",
+        "rating": {
+          "rating_kp": "5.983",
+          "vote_num_kp": "249",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "2915"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1115560",
       "date": "1581755940",
       "camrip": "0",
@@ -68,7 +400,7 @@
         "screenshot": "https://brother.bazonserver.site/video/10504/poster.jpg",
         "rating": {
           "rating_kp": "5.724",
-          "vote_num_kp": "1577",
+          "vote_num_kp": "1579",
           "rating_imdb": "6.3",
           "vote_num_imdb": "4870"
         }
@@ -289,10 +621,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_647755.jpg",
         "screenshot": "https://brother.bazonserver.site/video/10495/poster.jpg",
         "rating": {
-          "rating_kp": "5.231",
-          "vote_num_kp": "8650",
+          "rating_kp": "5.23",
+          "vote_num_kp": "8657",
           "rating_imdb": "4.9",
-          "vote_num_imdb": "51114"
+          "vote_num_imdb": "51138"
         }
       }
     },
@@ -512,7 +844,7 @@
         "screenshot": "https://brother.bazonserver.site/video/10488/poster.jpg",
         "rating": {
           "rating_kp": "3.948",
-          "vote_num_kp": "782",
+          "vote_num_kp": "783",
           "rating_imdb": "3.7",
           "vote_num_imdb": "392"
         }
@@ -585,10 +917,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_645039.jpg",
         "screenshot": "https://brother.bazonserver.site/video/10485/poster.jpg",
         "rating": {
-          "rating_kp": "6.309",
-          "vote_num_kp": "9828",
+          "rating_kp": "6.308",
+          "vote_num_kp": "9829",
           "rating_imdb": "5.6",
-          "vote_num_imdb": "26778"
+          "vote_num_imdb": "26783"
         }
       }
     },
@@ -696,8 +1028,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_642413.jpg",
         "screenshot": "https://brother.bazonserver.site/video/10482/poster.jpg",
         "rating": {
-          "rating_kp": "6.146",
-          "vote_num_kp": "1442",
+          "rating_kp": "6.137",
+          "vote_num_kp": "1451",
           "rating_imdb": "6.4",
           "vote_num_imdb": "3232"
         }
@@ -845,9 +1177,9 @@
         "screenshot": "https://brother.bazonserver.site/video/10478/poster.jpg",
         "rating": {
           "rating_kp": "6.509",
-          "vote_num_kp": "35831",
+          "vote_num_kp": "35841",
           "rating_imdb": "7",
-          "vote_num_imdb": "140735"
+          "vote_num_imdb": "140780"
         }
       }
     },
@@ -882,9 +1214,9 @@
         "screenshot": "https://brother.bazonserver.site/video/10474/poster.jpg",
         "rating": {
           "rating_kp": "7.382",
-          "vote_num_kp": "4549",
+          "vote_num_kp": "4550",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "7416"
+          "vote_num_imdb": "7422"
         }
       }
     },
@@ -956,7 +1288,7 @@
         "screenshot": "https://brother.bazonserver.site/video/10472/poster.jpg",
         "rating": {
           "rating_kp": "6.309",
-          "vote_num_kp": "3113",
+          "vote_num_kp": "3132",
           "rating_imdb": "5.8",
           "vote_num_imdb": "336"
         }
@@ -1103,10 +1435,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_630854.jpg",
         "screenshot": "https://brother.bazonserver.site/video/10467/poster.jpg",
         "rating": {
-          "rating_kp": "6.081",
-          "vote_num_kp": "7470",
+          "rating_kp": "6.08",
+          "vote_num_kp": "7475",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "29654"
+          "vote_num_imdb": "29670"
         }
       }
     },
@@ -1141,9 +1473,9 @@
         "screenshot": "https://brother.bazonserver.site/video/10466/poster.jpg",
         "rating": {
           "rating_kp": "6.672",
-          "vote_num_kp": "13799",
+          "vote_num_kp": "13805",
           "rating_imdb": "7",
-          "vote_num_imdb": "45389"
+          "vote_num_imdb": "45400"
         }
       }
     },
@@ -1215,9 +1547,9 @@
         "screenshot": "https://brother.bazonserver.site/video/10464/poster.jpg",
         "rating": {
           "rating_kp": "6.089",
-          "vote_num_kp": "3285",
+          "vote_num_kp": "3289",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "6108"
+          "vote_num_imdb": "6118"
         }
       }
     },
@@ -1326,9 +1658,9 @@
         "screenshot": "https://brother.bazonserver.site/video/10461/poster.jpg",
         "rating": {
           "rating_kp": "7.989",
-          "vote_num_kp": "4081",
+          "vote_num_kp": "4088",
           "rating_imdb": "8",
-          "vote_num_imdb": "15469"
+          "vote_num_imdb": "15488"
         }
       }
     },
@@ -1365,7 +1697,7 @@
           "rating_kp": "4.184",
           "vote_num_kp": "609",
           "rating_imdb": "4.2",
-          "vote_num_imdb": "1835"
+          "vote_num_imdb": "1836"
         }
       }
     },
@@ -1437,9 +1769,9 @@
         "screenshot": "https://brother.bazonserver.site/video/10458/poster.jpg",
         "rating": {
           "rating_kp": "4.735",
-          "vote_num_kp": "1772",
+          "vote_num_kp": "1775",
           "rating_imdb": "4.1",
-          "vote_num_imdb": "683"
+          "vote_num_imdb": "686"
         }
       }
     },
@@ -1473,8 +1805,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_628470.jpg",
         "screenshot": "https://brother.bazonserver.site/video/10457/poster.jpg",
         "rating": {
-          "rating_kp": "3.2",
-          "vote_num_kp": "538",
+          "rating_kp": "3.198",
+          "vote_num_kp": "542",
           "rating_imdb": "2.8",
           "vote_num_imdb": "476"
         }
@@ -1551,302 +1883,6 @@
           "vote_num_kp": "1325",
           "rating_imdb": "6.1",
           "vote_num_imdb": "1428"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "626829",
-      "date": "1581682161",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Майкл Джексон: Жизнь поп-иконы",
-        "orig": "Michael Jackson: The Life of an Icon",
-        "alter": "",
-        "year": "2011",
-        "country": "США",
-        "director": "Эндрю Истел",
-        "genre": "документальный",
-        "actors": "Дэвид Гест, Кэтрин Джексон, Тито Джексон, Ребби Джексон, Ron Alexenburg, Пол Энка, Ashford, Don Black, Пибо Брайсон, Frank Cascio",
-        "description": "Друг, продюсер и ТВ-звезда Дэвид Гест, мать Майкла Джексона Кэтрин, брат Тито, сестра Ребби и более 50 друзей, коллег и помощников поделятся сокровенными и захватывающими историями о жизни певца. Фильм о жизни звезды, основанный на материалах с выступлений, оставшихся за кадром, и ранее не показывавшихся семейных фотографиях.",
-        "slogan": "",
-        "premiere": "2 ноября 2011",
-        "age": "16",
-        "time": "9300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_626829.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/10454/poster.jpg",
-        "rating": {
-          "rating_kp": "8.018",
-          "vote_num_kp": "633",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "1236"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "626176",
-      "date": "1581682155",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Самоволка-72",
-        "orig": "AWOL-72",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Кристиан Сесма",
-        "genre": "боевик,триллер",
-        "actors": "Люк Госс, Хезер Руп, RZA, Боким Вудбайн, Луис Мэндилор, Брук Ньютон, Марко Хэнлиэн, Лейф Гантвурт, Леонард Келли-Янг, Мэри Кристина Браун",
-        "description": "Солдата морской пехоты, владеющего секретной информацией, преследует русский спецназ, полиция Лос-Анджелеса и опасный убийца...",
-        "slogan": "Running is the only option",
-        "premiere": "17 февраля 2015",
-        "age": "0",
-        "time": "4740",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_626176.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/10453/poster.jpg",
-        "rating": {
-          "rating_kp": "3.596",
-          "vote_num_kp": "186",
-          "rating_imdb": "3.9",
-          "vote_num_imdb": "935"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "625866",
-      "date": "1581682150",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "720",
-      "info": {
-        "rus": "Взорвать Гитлера",
-        "orig": "Elser",
-        "alter": "",
-        "year": "2015",
-        "country": "Германия, Италия",
-        "director": "Оливер Хиршбигель",
-        "genre": "история,драма,военный",
-        "actors": "Кристиан Фридель, Катарина Шюттлер, Бургхарт Клаусснер, Йохан фон Бюлов, Феликс Эйтнер, Давид Циммершид, Рюдигер Клинк, Симон Лихт, Корнелия Конгден, Мартин Мария Абрам",
-        "description": "Всего 13 минут не хватило плотнику Георгу Эльзеру, чтобы изменить ход мировой истории. 8 ноября 1939 года в мюнхенской пивной «Бюргербройкеллер», где Гитлер каждый год в годовщину «Пивного путча» выступал перед ветеранами Национал-социалистической рабочей партии Германии, Эльзер вмонтировал самодельное взрывное устройство с часовым механизмом в колонну, перед которой обычно устанавливали трибуну для вождя.\r\n\r\nВ результате взрыва 8 человек было убито и 63 ранено. Однако Гитлера среди пострадавших не оказалось. Фюрер, ограничившись на этот раз кратким приветствием в адрес собравшихся, покинул зал за семь минут до взрыва, так как ему нужно было возвращаться в Берлин.\r\n\r\nВ фильме реконструирован социально-политический контекст того времени, а также события происходившие с Георгом Эльзером.",
-        "slogan": "Этот человек мог изменить историю",
-        "premiere": "12 февраля 2015",
-        "age": "16",
-        "time": "6840",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_625866.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/10452/poster.jpg",
-        "rating": {
-          "rating_kp": "6.674",
-          "vote_num_kp": "4623",
-          "rating_imdb": "7",
-          "vote_num_imdb": "9083"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "625791",
-      "date": "1581682149",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Золотая клетка",
-        "orig": "La jaula de oro",
-        "alter": "",
-        "year": "2013",
-        "country": "Мексика, Испания",
-        "director": "Диего Кемада-Диес",
-        "genre": "драма",
-        "actors": "Брэндон Лопес, Родольфо Домингес, Карен Мартинес, Carlos Chajon, Héctor Tahuite, Рикардо Эскерра, Луис Алберти, César Bañuelos, Хильберто Барраса, Juan Carlos Medellin",
-        "description": "15-летние Хуан, Сара и Самуэль покидают Гватемалу, чтобы добраться до США. В Мексике они встречают Чаука - индейца из племени цоциль, который путешествует без документов и не говорит по-испански... Подростки надеются найти лучшую долю по ту сторону мексиканской границы, но очень скоро им придется столкнуться с жестокой реальностью.",
-        "slogan": "Discover Everything It Contains",
-        "premiere": "22 мая 2013",
-        "age": "18",
-        "time": "6600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_625791.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/10451/poster.jpg",
-        "rating": {
-          "rating_kp": "6.867",
-          "vote_num_kp": "553",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "4818"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "625573",
-      "date": "1581682147",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Захолустная проповедь",
-        "orig": "The Backwater Gospel",
-        "alter": "",
-        "year": "2011",
-        "country": "Дания",
-        "director": "Бо Маторне",
-        "genre": "мультфильм,ужасы,короткометражка,вестерн",
-        "actors": "Зебулон Уотли, Люсьен Додж, Филлип Сакраменто, Лаура Пост, Robert Bennett",
-        "description": "Это история о небольшой общине, смертельно уставшей от засухи, и изолированной песчаными бурями, в период 1930-х годов в прериях США. В этом местечке происходит событие, которое переворачивает весь их жизненный уклад с ног на голову. Как известно, прибытие гробовщика предсказывает приход смерти. Укрывшись в своих домах, и заперев накрепко двери, горожане сидят в ожидании, пока кто-нибудь не умрёт. Но смерть никак не приходит...",
-        "slogan": "",
-        "premiere": "23 сентября 2011",
-        "age": "0",
-        "time": "540",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_625573.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/10450/poster.jpg",
-        "rating": {
-          "rating_kp": "7.712",
-          "vote_num_kp": "1079",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "1363"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "624462",
-      "date": "1581682141",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Техно Дива",
-        "orig": "Techno Diva",
-        "alter": "",
-        "year": "2018",
-        "country": "США",
-        "director": "Мэр Л. Костильо",
-        "genre": "комедия,мелодрама",
-        "actors": "Мэр Л. Костильо, Нат Дюфор, Twizzle, Калеб Гилберт, Энтони Уэмисс, Джейсон Дилли, Margaret Edwartowski, Рик Розарио, Джонни Виктор, Lisa Whitley Butler",
-        "description": "У британской техно поп дивы и актрисы, номинированной на награду кино академии, берут интервью всей её жизни. Всё это происходит на фоне недавнего расставания со своим парнем, подготовки к турне по США и съёмок в кино.",
-        "slogan": "Can she move on?",
-        "premiere": "17 февраля 2018",
-        "age": "0",
-        "time": "4800",
-        "poster": "https://st.kp.yandex.net/images/film/624462.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/10449/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "10",
-          "rating_imdb": "6",
-          "vote_num_imdb": "23"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "623846",
-      "date": "1581682129",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Когда я был настоящим",
-        "orig": "Remainder",
-        "alter": "",
-        "year": "2015",
-        "country": "Великобритания, Германия",
-        "director": "Омар Фаст",
-        "genre": "драма",
-        "actors": "Том Стёрридж, Эдвард Спелирс, Каш Джамбо, Николас Фэррел, Аршер Али, Адриан Шиллер, Лоуренс Спэллман, Тим Плестер, Джулиан Блич, Бернард Коллако",
-        "description": "Тридцатилетний житель Лондона становится жертвой техногенной аварии. В результате упавшего на него предмета он теряет память, и за компенсацию, выплаченную ему виновной в этом компании, он пытается воссоздать многоэтажный дом, в котором якобы жил прежде. Но является ли реальной эта реконструкция с ее наркотической страстью?",
-        "slogan": "",
-        "premiere": "10 октября 2015",
-        "age": "0",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_623846.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/10448/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "86",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "993"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "623816",
-      "date": "1581682127",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Всевидящее око",
-        "orig": "Eye in the Sky",
-        "alter": "",
-        "year": "2015",
-        "country": "Великобритания, Канада",
-        "director": "Гэвин Худ",
-        "genre": "триллер,драма,военный",
-        "actors": "Хелен Миррен, Алан Рикман, Аарон Пол, Баркхад Абди, Фиби Фокс, Аиша Такоу, Джереми Нортэм, Иэн Глен, Гэвин Худ, Моника Долан",
-        "description": "Война изменилась навсегда. Новые технологии дронов позволяют проникать в ранее недоступные места и предотвращать массовые террористические атаки. Но когда завершение операции становится таким же легким как нажатие одной кнопки, встает самый трудный вопрос. Погубит ли одно решение десятки мирных жителей или же спасет тысячи жизней?",
-        "slogan": "The commander is in England. The drone pilot is in America. The terrorist is in Kenya. And the authority to strike is up in the air",
-        "premiere": "11 сентября 2015",
-        "age": "16",
-        "time": "6120",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_623816.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/10447/poster.jpg",
-        "rating": {
-          "rating_kp": "6.55",
-          "vote_num_kp": "6208",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "84698"
         }
       }
     }

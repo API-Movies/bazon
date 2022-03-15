@@ -2,6 +2,80 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "568977",
+      "date": "1578261954",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Когда гаснет свет",
+        "orig": "When the Lights Went Out",
+        "alter": "",
+        "year": "2012",
+        "country": "Великобритания",
+        "director": "Пэт Холден",
+        "genre": "ужасы",
+        "actors": "Кейт Эшфилд, Стивен Вэддингтон, Крэйг Паркинсон, Андреа Лоу, Таша Коннор, Ханна Клиффорд, Гари Льюис, Мартин Компстон, Молли Уиндсор, Тони Питтс",
+        "description": "Муж, жена и девочка-подросток переезжают в новый дом, где их начинают преследовать призраки. .. кто они и чего они хотят? Сможет ли призрак развратного монаха заполучить их дочь?",
+        "slogan": "Set in 1974 and based on true events, When The Lights Went Out is the story of a down-to-earth Yorkshire family and the malevolent spirit who turns their existence upside down",
+        "premiere": "31 января 2012",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_568977.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/5995/poster.jpg",
+        "rating": {
+          "rating_kp": "4.526",
+          "vote_num_kp": "624",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "4704"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "568847",
+      "date": "1578261948",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Темная сторона Луны",
+        "orig": "Die dunkle Seite des Mondes",
+        "alter": "",
+        "year": "2015",
+        "country": "Германия, Люксембург, Великобритания",
+        "director": "Штефан Рик",
+        "genre": "триллер",
+        "actors": "Юрген Прохнов, Мориц Бляйбтрой, Нора фон Вальдштеттен, Андре Хеннике, Дорис Шретцмайер, Евгения Анселен, Сабина Россбах, Nino Porzio, Люк Фейт, Жермен Вагнер",
+        "description": "Фильм рассказывает историю успешного франкфуртского бизнес-адвоката Урса Бланка. Престижный адвокат пользуется большим вниманием и уважением в высшем финансовом обществе. Но несмотря на профессиональный успех и личное счастье в супружеской жизни, Урс Бланк не испытывает никакого удовлетворения. Ко всему прочему самоубийство бизнес-партнёра выбивает его из колеи. В один прекрасный день в жизни Бланка появляется девушка Люсиль, к которой он чувствует некое магическое притяжение. Девушке удаётся утянуть молодого мужчину в свой альтернативный мир, предложив ему попробовать галлюциногенные грибы. Путешествие в призрачный мир фантазий, который древние ацтеки называли «королевской тропой просветления», повлечёт за собой далеко идущие последствия.",
+        "slogan": "",
+        "premiere": "27 сентября 2015",
+        "age": "0",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_568847.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/5994/poster.jpg",
+        "rating": {
+          "rating_kp": "5.572",
+          "vote_num_kp": "863",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "7511"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "568836",
       "date": "1578261945",
       "camrip": "0",
@@ -31,9 +105,9 @@
         "screenshot": "https://brother.bazonserver.site/video/5993/poster.jpg",
         "rating": {
           "rating_kp": "5.245",
-          "vote_num_kp": "18766",
+          "vote_num_kp": "18771",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "21437"
+          "vote_num_imdb": "21457"
         }
       }
     },
@@ -68,9 +142,9 @@
         "screenshot": "https://brother.bazonserver.site/video/5992/poster.jpg",
         "rating": {
           "rating_kp": "5.586",
-          "vote_num_kp": "1676",
+          "vote_num_kp": "1677",
           "rating_imdb": "5.1",
-          "vote_num_imdb": "5057"
+          "vote_num_imdb": "5066"
         }
       }
     },
@@ -181,7 +255,7 @@
           "rating_kp": "7.453",
           "vote_num_kp": "1182",
           "rating_imdb": "4.7",
-          "vote_num_imdb": "25331"
+          "vote_num_imdb": "25362"
         }
       }
     },
@@ -290,9 +364,9 @@
         "screenshot": "https://brother.bazonserver.site/video/5986/poster.jpg",
         "rating": {
           "rating_kp": "6.932",
-          "vote_num_kp": "8042",
+          "vote_num_kp": "8063",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "6546"
+          "vote_num_imdb": "6551"
         }
       }
     },
@@ -364,9 +438,9 @@
         "screenshot": "https://brother.bazonserver.site/video/5984/poster.jpg",
         "rating": {
           "rating_kp": "6.441",
-          "vote_num_kp": "20342",
+          "vote_num_kp": "20345",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "76647"
+          "vote_num_imdb": "76690"
         }
       }
     },
@@ -475,7 +549,7 @@
         "screenshot": "https://brother.bazonserver.site/video/5981/poster.jpg",
         "rating": {
           "rating_kp": "6.67",
-          "vote_num_kp": "11957",
+          "vote_num_kp": "11972",
           "rating_imdb": "6.2",
           "vote_num_imdb": "15669"
         }
@@ -549,7 +623,7 @@
         "screenshot": "https://pluton.bazonserver.site/video/5978/poster.jpg",
         "rating": {
           "rating_kp": "6.254",
-          "vote_num_kp": "70017",
+          "vote_num_kp": "70035",
           "rating_imdb": "5.8",
           "vote_num_imdb": "74019"
         }
@@ -734,7 +808,7 @@
         "screenshot": "https://brother.bazonserver.site/video/5973/poster.jpg",
         "rating": {
           "rating_kp": "6.163",
-          "vote_num_kp": "15105",
+          "vote_num_kp": "15108",
           "rating_imdb": "6.1",
           "vote_num_imdb": "42117"
         }
@@ -808,9 +882,9 @@
         "screenshot": "https://brother.bazonserver.site/video/5971/poster.jpg",
         "rating": {
           "rating_kp": "7.14",
-          "vote_num_kp": "3565",
+          "vote_num_kp": "3566",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "14726"
+          "vote_num_imdb": "14733"
         }
       }
     },
@@ -844,8 +918,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_566018.jpg",
         "screenshot": "https://brother.bazonserver.site/video/5970/poster.jpg",
         "rating": {
-          "rating_kp": "6.804",
-          "vote_num_kp": "7718",
+          "rating_kp": "6.805",
+          "vote_num_kp": "7739",
           "rating_imdb": "6.2",
           "vote_num_imdb": "856"
         }
@@ -882,9 +956,9 @@
         "screenshot": "https://brother.bazonserver.site/video/5969/poster.jpg",
         "rating": {
           "rating_kp": "3.31",
-          "vote_num_kp": "23377",
+          "vote_num_kp": "23376",
           "rating_imdb": "3.8",
-          "vote_num_imdb": "41999"
+          "vote_num_imdb": "42022"
         }
       }
     },
@@ -956,7 +1030,7 @@
         "screenshot": "https://dt2g.bazonserver.site/video/5966/poster.jpg",
         "rating": {
           "rating_kp": "6.069",
-          "vote_num_kp": "30295",
+          "vote_num_kp": "30301",
           "rating_imdb": "5.6",
           "vote_num_imdb": "2322"
         }
@@ -993,7 +1067,7 @@
         "screenshot": "https://brother.bazonserver.site/video/5965/poster.jpg",
         "rating": {
           "rating_kp": "5.241",
-          "vote_num_kp": "1306",
+          "vote_num_kp": "1323",
           "rating_imdb": "4.7",
           "vote_num_imdb": "929"
         }
@@ -1030,7 +1104,7 @@
         "screenshot": "https://brother.bazonserver.site/video/5964/poster.jpg",
         "rating": {
           "rating_kp": "4.938",
-          "vote_num_kp": "1410",
+          "vote_num_kp": "1412",
           "rating_imdb": "4.5",
           "vote_num_imdb": "4831"
         }
@@ -1178,7 +1252,7 @@
         "screenshot": "https://brother.bazonserver.site/video/5960/poster.jpg",
         "rating": {
           "rating_kp": "7.368",
-          "vote_num_kp": "77100",
+          "vote_num_kp": "77135",
           "rating_imdb": "7.1",
           "vote_num_imdb": "125387"
         }
@@ -1291,7 +1365,7 @@
           "rating_kp": "6.005",
           "vote_num_kp": "696",
           "rating_imdb": "6",
-          "vote_num_imdb": "2338"
+          "vote_num_imdb": "2339"
         }
       }
     },
@@ -1325,10 +1399,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_548608.jpg",
         "screenshot": "https://brother.bazonserver.site/video/5956/poster.jpg",
         "rating": {
-          "rating_kp": "6.179",
-          "vote_num_kp": "21158",
+          "rating_kp": "6.18",
+          "vote_num_kp": "21201",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "7735"
+          "vote_num_imdb": "7741"
         }
       }
     },
@@ -1363,9 +1437,9 @@
         "screenshot": "https://brother.bazonserver.site/video/5955/poster.jpg",
         "rating": {
           "rating_kp": "5.873",
-          "vote_num_kp": "25461",
+          "vote_num_kp": "25469",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "44715"
+          "vote_num_imdb": "44729"
         }
       }
     },
@@ -1399,10 +1473,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_544920.jpg",
         "screenshot": "https://brother.bazonserver.site/video/5954/poster.jpg",
         "rating": {
-          "rating_kp": "6.914",
-          "vote_num_kp": "813",
+          "rating_kp": "6.916",
+          "vote_num_kp": "814",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "9878"
+          "vote_num_imdb": "9895"
         }
       }
     },
@@ -1622,9 +1696,9 @@
         "screenshot": "https://brother.bazonserver.site/video/5948/poster.jpg",
         "rating": {
           "rating_kp": "7.126",
-          "vote_num_kp": "3294",
+          "vote_num_kp": "3299",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "9027"
+          "vote_num_imdb": "9037"
         }
       }
     },
@@ -1733,9 +1807,9 @@
         "screenshot": "https://brother.bazonserver.site/video/5945/poster.jpg",
         "rating": {
           "rating_kp": "6.383",
-          "vote_num_kp": "19346",
+          "vote_num_kp": "19347",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "79293"
+          "vote_num_imdb": "79313"
         }
       }
     },
@@ -1773,80 +1847,6 @@
           "vote_num_kp": "2347",
           "rating_imdb": "5.5",
           "vote_num_imdb": "4426"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "534772",
-      "date": "1578261503",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Потеря",
-        "orig": "The Lost Thing",
-        "alter": "",
-        "year": "2010",
-        "country": "Австралия, Великобритания",
-        "director": "Эндрю Руэманн, Шон Тан",
-        "genre": "мультфильм,фантастика,фэнтези,драма,короткометражка",
-        "actors": "Тим Минчин",
-        "description": "Действие развивается в «постапокалиптическом» Мельбурне, когда мальчик, собирая крышки от бутылок, встречает существо. Существо представляет собой смесь механического большого котла и живого осьминога/краба, которого мальчик называет «Потерянной вещью». Мальчик пытается выяснить природу происхождения существа.",
-        "slogan": "A film for those with more important things to pay attention to",
-        "premiere": "3 июня 2010",
-        "age": "0",
-        "time": "900",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_534772.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/5943/poster.jpg",
-        "rating": {
-          "rating_kp": "7.057",
-          "vote_num_kp": "1952",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "3535"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "533067",
-      "date": "1578261499",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Рожденные на воле",
-        "orig": "Born to Be Wild",
-        "alter": "",
-        "year": "2011",
-        "country": "США",
-        "director": "Дэвид Ликли",
-        "genre": "документальный,приключения",
-        "actors": "Морган Фриман, Бируте Галдикас, Дафна Шелдрик, Крис Фрайс",
-        "description": "Две удивительные и трогательные истории о том, как осиротевшие дикие животные растут, готовясь к взрослой жизни, при преданной поддержке неординарных людей. В тропических лесах Борнео знаменитый приматолог доктор Бирут Гальдикас занимается реабилитацией детёныша орангутангов, а на засушливых саваннах Кении зоолог Дэйм Дафна Шелдрик помогает слонёнку вернуться обратно в дикую природу.",
-        "slogan": "Born to be loved. Born to be free",
-        "premiere": "8 апреля 2011",
-        "age": "0",
-        "time": "2400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_533067.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/5942/poster.jpg",
-        "rating": {
-          "rating_kp": "7.867",
-          "vote_num_kp": "1817",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "3045"
         }
       }
     }

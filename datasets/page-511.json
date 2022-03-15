@@ -2,6 +2,302 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "850929",
+      "date": "1581945889",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Еще одно зло",
+        "orig": "Another Evil",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Карсон Д. Мелл",
+        "genre": "комедия,ужасы",
+        "actors": "Дэн Баккедаль, Beck DeRobertis, Дакс Флэйм, Дженнифер Ирвин, Стив Литтл, Марико Манро, Марк Прокш, Стив Зиссис",
+        "description": "Дэн — современный художник. Внезапно он натыкается на привидение в своём собственном загородном доме, и они с женой решают нанять экзорциста, чтобы прогнать это создание из их жилища. Но совсем скоро Дэн осознаёт, что это будет совсем не так просто, как казалось...",
+        "slogan": "Meet Os. A Straight Up Ghost Assassin",
+        "premiere": "12 марта 2016",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_850929.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/11467/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "45",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "1014"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "850814",
+      "date": "1581945882",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Приключенцы",
+        "orig": "Adventurados",
+        "alter": "",
+        "year": "2015",
+        "country": "Германия",
+        "director": "Бертон Пирс",
+        "genre": "комедия,фантастика,приключения",
+        "actors": "Стивен Патрик Ханна, Райан Джеймс, Джерри Ленц, Дэнис Лайонс, Дэвид Мастерсон, Gabrielle Miller, Pete Riley, Энтони Страгер, Наташа Забо",
+        "description": "Два не сильно умных и далеко не лучших космических пилота отправляются в рейс с Луны на Землю с целью доставить важный груз. Попав по дороге в засаду, они к своему удивлению понимают, что более важны, чем думали о себе и что являются пешками в чьем-то зловещем плане. Осталось только выжить...",
+        "slogan": "Oblivion and Beyond",
+        "premiere": "12 февраля 2015",
+        "age": "0",
+        "time": "5160",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_850814.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/11466/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "22",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "56"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "850717",
+      "date": "1581945879",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Останки",
+        "orig": "The Remains",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Томас Делла Белла",
+        "genre": "ужасы,триллер",
+        "actors": "Тодд Лоу, Брук Батлер, Ханна Нордберг, Дэш Уильямс, Эшли Кроу, Сэмюэл Ларсен, Мария Олсен, Лиза Бреннер, Никки Хан, Дженни Блонг",
+        "description": "После переезда в старый викторианский дом семья обнаруживает на чердаке сундук с антикварными вещами, в которых заключен злой дух.",
+        "slogan": "",
+        "premiere": "5 августа 2016",
+        "age": "0",
+        "time": "5100",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_850717.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/11465/poster.jpg",
+        "rating": {
+          "rating_kp": "3.802",
+          "vote_num_kp": "347",
+          "rating_imdb": "3.7",
+          "vote_num_imdb": "3307"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "850377",
+      "date": "1581945873",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "720",
+      "info": {
+        "rus": "Декамерон",
+        "orig": "Maraviglioso Boccaccio",
+        "alter": "",
+        "year": "2015",
+        "country": "Италия, Франция",
+        "director": "Паоло Тавиани, Витторио Тавиани",
+        "genre": "комедия,история,драма",
+        "actors": "Лелло Арена, Паола Кортеллези, Каролина Крешентини, Флавио Паренти, Виттория Пуччини, Микеле Риондино, Ким Росси Стюарт, Риккардо Скамарчо, Касия Смутняк, Жазмин Тринка",
+        "description": "Флоренция, XIV век. Повсюду свирепствует «Черная смерть» - три юноши и семь девушек сбегают в деревню, чтобы оградить себя от чумы. Там, чтобы скоротать время, они начинают рассказывать друг другу разные истории, посвященные любви.",
+        "slogan": "",
+        "premiere": "20 февраля 2015",
+        "age": "16",
+        "time": "7200",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_850377.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/11464/poster.jpg",
+        "rating": {
+          "rating_kp": "5.881",
+          "vote_num_kp": "3436",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "877"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "850281",
+      "date": "1581945871",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Искажение",
+        "orig": "Alterscape",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Серж Левин",
+        "genre": "боевик,фантастика,триллер",
+        "actors": "Майкл Айронсайд, Чарльз Бэйкер, Дэбби Рошон, Райан Баггл, Сера-Лис МакАртур, Алекс Видов, Мак Кур, Олэн Монтгомери, Антонио Д. Чарити, Алекс Лэйн",
+        "description": "После неудачной попытки самоубийства молодой человек, переживший утрату и депрессию, подвергается эксперименту по коррекции эмоций. Уникальная реакция героя на испытания отправляет его в путешествие, выходящее за пределы физической реальности.",
+        "slogan": "I feel - therefore, I am",
+        "premiere": "23 февраля 2018",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_850281.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/11463/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "66",
+          "rating_imdb": "4.9",
+          "vote_num_imdb": "1778"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "850209",
+      "date": "1581945869",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Любовь и заложники",
+        "orig": "Love and Hostages",
+        "alter": "",
+        "year": "2016",
+        "country": "США",
+        "director": "Дэвид Варгас",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Рэндолл Кор, Натали Ставола, Шина Колетт, Карл Рими, Мелани Крим, Джилл-Мишель Мелеан, Мерри Джо Кортада, Janet Weakley, Марк Крочински, Майк Бьенвеню",
+        "description": "Майкл и Эва - два незнакомца, встретившиеся в баре. На следующее утро, проснувшись в одной постели, они обнаруживают, что совершенно не помнят друг друга и весь прошлый вечер. Более того, они оказались в ловушке ещё на один день, осознав, что их квартиру оцепили.",
+        "slogan": "",
+        "premiere": "20 февраля 2016",
+        "age": "0",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_850209.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/11462/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "15",
+          "rating_imdb": "6",
+          "vote_num_imdb": "225"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "850073",
+      "date": "1581945867",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Падение Крэйсов",
+        "orig": "The Fall of the Krays",
+        "alter": "",
+        "year": "2016",
+        "country": "Великобритания",
+        "director": "Закари Адлер",
+        "genre": "криминал",
+        "actors": "Анита Добсон, Фил Данстер, Адриан Буше, Николя Степлтон, Джош Майерс, Джордж Уэбстер, Алекса Булл, Седрик Тиллеман, Кевин Лесли, Натанджон Картер",
+        "description": "Взгляд близкого друга на историю братьев-близнецов, выросших в неизвестной спецшколе и ставших самыми опасными людьми в Британии, об их подъеме на криминальный Олимп и падении...",
+        "slogan": "The mighty will fall",
+        "premiere": "1 января 2016",
+        "age": "0",
+        "time": "6960",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MTQ1MzEyOF5BMl5BanBnXkFtZTgwODcyNjA2NzE@.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/11461/poster.jpg",
+        "rating": {
+          "rating_kp": "4.965",
+          "vote_num_kp": "86",
+          "rating_imdb": "4.4",
+          "vote_num_imdb": "658"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "850021",
+      "date": "1581945864",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Чистые руки",
+        "orig": "Schone Handen",
+        "alter": "",
+        "year": "2015",
+        "country": "Нидерланды",
+        "director": "Тьеббо Пеннинг",
+        "genre": "триллер,драма,криминал",
+        "actors": "Йерун ван Конингсбругге, Текла Рютен, Бенте Фоккенс, Нино ден Брейв, Тюн Куилбур, Сес Гел, Фредерик Бром, Ангела Схейф, Tim Hildering, Camilla Siegertsz",
+        "description": "Эдди и Сильвия живут в Амстердаме и имеют доход от продажи наркотиков. У них двое детей, и всё вроде бы идёт хорошо, но в один прекрасный день Эдди на хвост садится полиция. Сильвия хочет уйти из дома, но Эдди не может ей это позволить - она слишком много знает.",
+        "slogan": "",
+        "premiere": "10 сентября 2015",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_850021.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/11460/poster.jpg",
+        "rating": {
+          "rating_kp": "5.687",
+          "vote_num_kp": "191",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "1545"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "849876",
       "date": "1581945857",
       "camrip": "0",
@@ -144,7 +440,7 @@
           "rating_kp": "0",
           "vote_num_kp": "20",
           "rating_imdb": "4",
-          "vote_num_imdb": "152"
+          "vote_num_imdb": "153"
         }
       }
     },
@@ -253,9 +549,9 @@
         "screenshot": "https://brother.bazonserver.site/video/11451/poster.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "61",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "826"
+          "vote_num_kp": "66",
+          "rating_imdb": "6",
+          "vote_num_imdb": "842"
         }
       }
     },
@@ -439,7 +735,7 @@
         "rating": {
           "rating_kp": "0",
           "vote_num_kp": "119",
-          "rating_imdb": "5.6",
+          "rating_imdb": "5.5",
           "vote_num_imdb": "1580"
         }
       }
@@ -512,7 +808,7 @@
         "screenshot": "https://brother.bazonserver.site/video/11443/poster.jpg",
         "rating": {
           "rating_kp": "5.111",
-          "vote_num_kp": "542",
+          "vote_num_kp": "543",
           "rating_imdb": "5.1",
           "vote_num_imdb": "2328"
         }
@@ -586,7 +882,7 @@
         "screenshot": "https://brother.bazonserver.site/video/11441/poster.jpg",
         "rating": {
           "rating_kp": "5.215",
-          "vote_num_kp": "690",
+          "vote_num_kp": "691",
           "rating_imdb": "4.6",
           "vote_num_imdb": "201"
         }
@@ -771,9 +1067,9 @@
         "screenshot": "https://brother.bazonserver.site/video/11436/poster.jpg",
         "rating": {
           "rating_kp": "4.749",
-          "vote_num_kp": "4664",
+          "vote_num_kp": "4670",
           "rating_imdb": "5",
-          "vote_num_imdb": "4675"
+          "vote_num_imdb": "4679"
         }
       }
     },
@@ -844,10 +1140,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_847042.jpg",
         "screenshot": "https://brother.bazonserver.site/video/11433/poster.jpg",
         "rating": {
-          "rating_kp": "7.704",
-          "vote_num_kp": "934",
-          "rating_imdb": "6.9",
-          "vote_num_imdb": "17049"
+          "rating_kp": "7.702",
+          "vote_num_kp": "937",
+          "rating_imdb": "7",
+          "vote_num_imdb": "17108"
         }
       }
     },
@@ -918,10 +1214,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_846934.jpg",
         "screenshot": "https://brother.bazonserver.site/video/11431/poster.jpg",
         "rating": {
-          "rating_kp": "7.171",
-          "vote_num_kp": "139",
+          "rating_kp": "7.179",
+          "vote_num_kp": "147",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "3765"
+          "vote_num_imdb": "3766"
         }
       }
     },
@@ -955,10 +1251,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_846875.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/11430/poster.jpg",
         "rating": {
-          "rating_kp": "7.915",
-          "vote_num_kp": "16831",
+          "rating_kp": "7.92",
+          "vote_num_kp": "16873",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "934"
+          "vote_num_imdb": "935"
         }
       }
     },
@@ -1288,10 +1584,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_846027.jpg",
         "screenshot": "https://brother.bazonserver.site/video/11421/poster.jpg",
         "rating": {
-          "rating_kp": "4.837",
-          "vote_num_kp": "7516",
+          "rating_kp": "4.836",
+          "vote_num_kp": "7530",
           "rating_imdb": "4.5",
-          "vote_num_imdb": "4178"
+          "vote_num_imdb": "4182"
         }
       }
     },
@@ -1365,7 +1661,7 @@
           "rating_kp": "4.865",
           "vote_num_kp": "129",
           "rating_imdb": "5",
-          "vote_num_imdb": "827"
+          "vote_num_imdb": "828"
         }
       }
     },
@@ -1547,306 +1843,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_845736.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/11414/poster.jpg",
         "rating": {
-          "rating_kp": "6.852",
-          "vote_num_kp": "13015",
+          "rating_kp": "6.853",
+          "vote_num_kp": "13018",
           "rating_imdb": "7.2",
           "vote_num_imdb": "83873"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "845467",
-      "date": "1581945692",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Знакомьтесь, семейка Блэков",
-        "orig": "Meet the Blacks",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Деон Тейлор",
-        "genre": "комедия,ужасы",
-        "actors": "Майк Эппс, Гари Оуэн, Сулай Энао, Бреша Уэбб, Роланд Пауэлл, Пол Муни, Чарли Мёрфи, Фил Остин, Эндрю Бэчелор, Лавелл Кроуфорд",
-        "description": "Одна молодая семья переживает море жутких опасностей и нападений в ту единственную ночь в году, когда разрешается безнаказанно совершать любые преступления.",
-        "slogan": "Just when you thought it was safe to move to Beverly Hills...",
-        "premiere": "1 апреля 2016",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_845467.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/11413/poster.jpg",
-        "rating": {
-          "rating_kp": "3.571",
-          "vote_num_kp": "812",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "36354"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "845356",
-      "date": "1581945687",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Призрачный патруль",
-        "orig": "Ghost Squad",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Джоэл Соуса",
-        "genre": "фэнтези,приключения,семейный",
-        "actors": "Will Spencer, Кейд Саттон, Филлип Уомплер, Кевин Нилон, Дженнифер Грант, Мэдисон Айсмен, Ник Финк, Logan Dondanville, Карли Питерс, Престон Стротер",
-        "description": "Чарли, Алекс и Ник не пользуются особой популярностью в школе. Положение дел не меняется даже после того, как они создали своё сообщество «Три супермонстра» на Хэллоуин. В сообществе было интересно, но не было той крутизны и авторитета, которые были необходимы Чарли, влюблённому в первую девочку в школе - красавицу Бренди. Брат Бренди, предводитель шайки отъявленных хулиганов, предлагает мальчикам спор: они должны провести ночь Хэллоуина в страшном заброшенном доме, который когда-то принадлежал трём братьям, известным как «Банда Салливанн».",
-        "slogan": "Get ready for the fright of your life!",
-        "premiere": "",
-        "age": "0",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_845356.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/11411/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "96",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "421"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "845217",
-      "date": "1581945684",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Англия принадлежит мне",
-        "orig": "England Is Mine",
-        "alter": "",
-        "year": "2017",
-        "country": "Великобритания",
-        "director": "Марк Гил",
-        "genre": "драма",
-        "actors": "Джоди Комер, Джессика Браун-Финдли, Джек Лауден, Симона Кирби, Питер МакДональд, Лори Кинастон, Грэм Хоули, Финни Кэссиди, Адам Лоуренс, Кэтерин Пирс",
-        "description": "Фильм о начале творческого пути выдающегося певца Моррисси и группы The Smiths.",
-        "slogan": "On Becoming Morrissey",
-        "premiere": "2 июля 2017",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_845217.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/11410/poster.jpg",
-        "rating": {
-          "rating_kp": "6.677",
-          "vote_num_kp": "770",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "3489"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "845165",
-      "date": "1581945682",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Двухголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Рой",
-        "orig": "The Hive",
-        "alter": "",
-        "year": "2015",
-        "country": "США",
-        "director": "Дэвид Яровески",
-        "genre": "ужасы,фантастика,триллер",
-        "actors": "Гэбриел Бассо, Шон Ганн, Кэтрин Прескотт, Габриэль Уолш, Якоб Закар, Илья Баскин, Элейн Каган, Талита Бейтман, Соня Эдди, Тодд Хантер",
-        "description": "На школьные каникулы компания молодых людей устраивается в лагерь вожатыми. В разгар летнего отдыха рядом с их лагерем терпит крушение самолет, на борту которого перевозили какой-то неизвестный вирус, воздействующий на мозг человека особым образом.",
-        "slogan": "",
-        "premiere": "19 сентября 2014",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_845165.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/11409/poster.jpg",
-        "rating": {
-          "rating_kp": "5.231",
-          "vote_num_kp": "860",
-          "rating_imdb": "5.2",
-          "vote_num_imdb": "2061"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "845136",
-      "date": "1581945681",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Книга Бытия",
-        "orig": "Genesis",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Крэйг С. Каннингэм",
-        "genre": "драма",
-        "actors": "Венус Моника, Cabil Gibbs, Джордан Джонс, Оливия Джордан, Avery Merrifield, Митчелл Рэйд, Джереми Марр Уильямс, Лиза Соса, Kaylee Warner, Бриттани Али",
-        "description": "Фильм исследует идею о том, что человечество однажды вернется туда, откуда начинало свой путь, но что путешествие будет наполнено лишениями, красотой и отчаянной потребностью доверять Создателю.",
-        "slogan": "Eden is still in our blood",
-        "premiere": "1 марта 2016",
-        "age": "0",
-        "time": "4860",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_845136.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/11408/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "21",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "111"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "844995",
-      "date": "1581945677",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Черный принц",
-        "orig": "The Black Prince",
-        "alter": "",
-        "year": "2017",
-        "country": "Великобритания, Индия, США",
-        "director": "Кави Раз",
-        "genre": "история,драма",
-        "actors": "Satinder Sartaaj, Аманда Рут, Джейсон Флеминг, Шабана Азми, Эмма Кенни, Дэвид Эссекс, Rup Magon, Софи Стивенс, Кит Даффи, Лиэнн Джойс",
-        "description": "Это история отношений королевы Виктории и последнего короля Пенджаба, Махараджи Далипа Сингха. Когда умер его отец, мальчик принял христианство и переехал в Англию. Однако спустя много лет перед ним встал вопрос - продолжать жить на чужбине, или попробовать поднять сикхов на восстание и вернуть себе трон. Он верит в то, что пророчество великого гуру ему поможет, но вера иногда подводит даже королей.",
-        "slogan": "",
-        "premiere": "3 марта 2017",
-        "age": "0",
-        "time": "7080",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_844995.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/11406/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "42",
-          "rating_imdb": "6.6",
-          "vote_num_imdb": "975"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "844603",
-      "date": "1581945660",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Мир мутантов",
-        "orig": "Mutant World",
-        "alter": "",
-        "year": "2014",
-        "country": "Канада",
-        "director": "Дэвид Уиннинг",
-        "genre": "фантастика",
-        "actors": "Ким Коутс, Холли Дево, Ашанти, Эмбер Маршалл, Джейсон Сермак, Меган Трач, Грег Лосон, Дэвид Лерини, Джесси Липскомб, Джон ДеСантис",
-        "description": "Группа людей, готовившихся к концу света, выходит из своего бункера через 10 лет после того, как на Землю упал гигантский метеорит. Они обнаруживают, что мир принадлежит бешеным мутантам, и теперь их задача - пережить наступление ночи. Они встречают загадочную путешественницу, которая говорит, что существует безопасный оазис, но чтобы достичь его, надо быть готовыми к войне не на жизнь, а на смерть...",
-        "slogan": "",
-        "premiere": "27 сентября 2014",
-        "age": "0",
-        "time": "4920",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_844603.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/11404/poster.jpg",
-        "rating": {
-          "rating_kp": "2.752",
-          "vote_num_kp": "233",
-          "rating_imdb": "2.8",
-          "vote_num_imdb": "704"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "844576",
-      "date": "1581945659",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Застрявшие",
-        "orig": "Stuck",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Майкл Берри",
-        "genre": "драма,мюзикл",
-        "actors": "Джанкарло Эспозито, Эми Мэдиган, Ашанти, Арден Чо, Омар Чапарро, Gerard Canonico, Тимоти Янг, Рейна Де Корси, Sam Carrell, Натия Дюн",
-        "description": "Фильм, снятый на основе оригинального мюзикла, о шести незнакомцах, застрявших в Нью-Йоркском метро вместе и о том, как можно поменять взгяды на жизнь всего за пару часов.",
-        "slogan": "A modern musical film",
-        "premiere": "23 апреля 2017",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_844576.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/11403/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "18",
-          "rating_imdb": "6",
-          "vote_num_imdb": "395"
         }
       }
     }

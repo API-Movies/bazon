@@ -2,6 +2,598 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "4608",
+      "date": "1577290276",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "HDTVRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Фанат",
+        "orig": "The Fan",
+        "alter": "",
+        "year": "1996",
+        "country": "США",
+        "director": "Тони Скотт",
+        "genre": "боевик,триллер,драма,спорт",
+        "actors": "Роберт Де Ниро, Уэсли Снайпс, Эллен Баркин, Джон Легуизамо, Бенисио Дель Торо, Патти Д’Арбанвиль, Крис Малки, Эндрю Дж. Ферчланд, Брэндон Хэммонд, Чарльз Хэллахан",
+        "description": "Звезда бейсбола Бобби Рейберн переходит в команду «San Francisco Giants». Теперь он находится под пристальным вниманием не только репортеров и телекамер, но и маниакально любящего бейсбол Джила Рейнарда, болеющего за «Giants». И когда в новой команде дела у Бобби идут из рук вон плохо, Джил решает принять меры...",
+        "slogan": "У всех фанатов есть главный фаворит. У фаворита - есть главная цель",
+        "premiere": "12 августа 1996",
+        "age": "16",
+        "time": "6960",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4608.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4092/poster.jpg",
+        "rating": {
+          "rating_kp": "6.936",
+          "vote_num_kp": "8172",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "48093"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4602",
+      "date": "1577290271",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Где угодно, только не здесь",
+        "orig": "Anywhere But Here",
+        "alter": "",
+        "year": "1999",
+        "country": "США",
+        "director": "Уэйн Ван",
+        "genre": "комедия,драма",
+        "actors": "Сьюзен Сарандон, Натали Портман, Харт Бокнер, Айлин Райан, Рэй Бэйкер, Джон Дил, Шон Хэтоси, Бонни Беделиа, Фаран Таир, Шишир Куруп",
+        "description": "История о матери, которая знает все лучше всех... и дочери, которая знает все еще лучше. \\nАдель - очень эффектная женщина, любящая пофлиртовать. Ее дочь Энн - спокойная девушка, живущая в реальном мире. На первый взгляд они как масло и вода, но на самом деле они очень похожи...",
+        "slogan": "A story of a mother who knows best... and a daughter who knows better",
+        "premiere": "17 сентября 1999",
+        "age": "16",
+        "time": "6840",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4602.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4091/poster.jpg",
+        "rating": {
+          "rating_kp": "6.752",
+          "vote_num_kp": "2382",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "17707"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4593",
+      "date": "1577290264",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "То, что ты делаешь",
+        "orig": "That Thing You Do!",
+        "alter": "",
+        "year": "1996",
+        "country": "США",
+        "director": "Том Хэнкс",
+        "genre": "комедия,драма",
+        "actors": "Том Эверетт Скотт, Лив Тайлер, Джонатон Шек, Стив Зан, Итэн Эмбри, Том Хэнкс, Шарлиз Терон, Обба Бабатунде, Джованни Рибизи, Крис Эллис",
+        "description": "Молодой продавец магазина бытовой техники соглашается подменить получившего травму барабанщика группы на местном конкурсе молодых талантов. Это событие обернулось космическим взлетом четырех новых звезд. Быстрее, чем вы успеете произнести «то, что ты делаешь», менеджер студии грамзаписи записывает музыку ребят и в одночасье делает их знаменитыми, ибо их композиция стремительно поднялась на первую строчку хит-парадов.",
+        "slogan": "In every life there comes a time when that dream you dream becomes that thing you do",
+        "premiere": "14 сентября 1996",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4593.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4090/poster.jpg",
+        "rating": {
+          "rating_kp": "7.138",
+          "vote_num_kp": "3924",
+          "rating_imdb": "7",
+          "vote_num_imdb": "67622"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4580",
+      "date": "1577290259",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "В осаде 2: Темная территория",
+        "orig": "Under Siege 2: Dark Territory",
+        "alter": "",
+        "year": "1995",
+        "country": "США",
+        "director": "Джеф Мерфи",
+        "genre": "боевик,триллер",
+        "actors": "Стивен Сигал, Эрик Богосян, Эверет МакГилл, Кэтрин Хайгл, Моррис Честнат, Питер Грин, Патрик Килпатрик, Скотт Сауэрс, Афифи Алауи, Энди Романо",
+        "description": "Террористы захватывают поезд для того, чтобы развернуть на нем передвижной пункт управления засекреченным военным спутником США, на котором установлено оружие огромной разрушительной силы, и грозят взрывом на Восточном побережье Америки.\r\n\r\nСлучайно оказавшийся среди пассажиров морской пехотинец Кейси Рэйбек не стерпел издевательств преступников...",
+        "slogan": "Five million tons of hijacked metal. One billion dollars of satellite weaponry. Two American cities targeted for nuclear destruction. Only one hero stands in the way",
+        "premiere": "14 июля 1995",
+        "age": "16",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4580.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4089/poster.jpg",
+        "rating": {
+          "rating_kp": "6.939",
+          "vote_num_kp": "24745",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "46215"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4576",
+      "date": "1577290256",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Ни жив, ни мертв",
+        "orig": "Half Past Dead",
+        "alter": "",
+        "year": "2002",
+        "country": "США, Германия",
+        "director": "Дон Майкл Пол",
+        "genre": "боевик,триллер,криминал",
+        "actors": "Стивен Сигал, Моррис Честнат, Джа Рул, Ниа Пиплз, Тони Плана, Курупт, Майкл Талиферро, Клаудия Кристиан, Линда Торсон, Брюс Вайц",
+        "description": "Преступный гений пробует попасть в одну из самых хорошо охраняемых тюрем мира, чтобы узнать у сокамерника-смертника местоположение 200 миллионов долларов в золоте, когда-то им украденных.\r\n\r\nНо на несчастье бандита, ФБР имеет своего человека в тюрьме, который сделает все, чтобы помешать тому первым найти спрятанное сокровище.",
+        "slogan": "The Good. The Bad. And the Deadly",
+        "premiere": "15 ноября 2002",
+        "age": "16",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4576.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/4088/poster.jpg",
+        "rating": {
+          "rating_kp": "5.9",
+          "vote_num_kp": "3626",
+          "rating_imdb": "4.6",
+          "vote_num_imdb": "15541"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4574",
+      "date": "1577290255",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Команда 49: Огненная лестница",
+        "orig": "Ladder 49",
+        "alter": "",
+        "year": "2004",
+        "country": "США",
+        "director": "Джей Расселл",
+        "genre": "боевик,триллер,драма",
+        "actors": "Хоакин Феникс, Джон Траволта, Джасинда Бэррет, Роберт Патрик, Моррис Честнат, Билли Бёрк, Бальтазар Гетти, Тим Гини, Кевин Чэпмен, Джей Эрнандес",
+        "description": "Пойманному в огненную ловушку пожарному Джеку Мориссону предстоит вспомнить свою полную приключений жизнь, а его друзьям и коллегам по пожарному отряду «Лестница 49» во главе с боссом Кеннеди сделать все возможное, чтобы спасти его. Впереди у героев - испытания и пламенные вихри, но они - крепкая команда настоящих мужчин, способная все преодолеть...",
+        "slogan": "Everything they know. All that they love. Is what they risk every day",
+        "premiere": "20 сентября 2004",
+        "age": "16",
+        "time": "6900",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4574.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/4087/poster.jpg",
+        "rating": {
+          "rating_kp": "7.356",
+          "vote_num_kp": "7970",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "57534"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4572",
+      "date": "1577290252",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "База «Клейтон»",
+        "orig": "Basic",
+        "alter": "",
+        "year": "2003",
+        "country": "Германия, США",
+        "director": "Джон МакТирнан",
+        "genre": "боевик,триллер,детектив,драма,криминал",
+        "actors": "Джон Траволта, Сэмюэл Л. Джексон, Конни Нильсен, Тим Дейли, Джованни Рибизи, Брайан Ван Холт, Тэй Диггз, Дэш Майок, Кристиан де ла Фуэнте, Роселин Санчес",
+        "description": "Форт «Клейтон» - последняя американская военная база на Панамском канале. Во время секретной тренировочной миссии ураган настигает в джунглях группу спецназовцев и их легендарного инструктора Нэйтана Веста.\r\n\r\nПротиворечивые показания двух вернувшихся на базу солдат ещё больше запутывают дело. Для расследования обстоятельств мистического исчезновения отряда приглашают агента отдела по борьбе с наркотиками Харди. Те, кто уцелел, не могут объяснить - в наркотиках ли дело... Или в чем-то другом. Все лгут...",
+        "slogan": "Ложь - самое мощное оружие",
+        "premiere": "28 марта 2003",
+        "age": "16",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4572.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/4086/poster.jpg",
+        "rating": {
+          "rating_kp": "7.317",
+          "vote_num_kp": "18030",
+          "rating_imdb": "6.4",
+          "vote_num_imdb": "62366"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4569",
+      "date": "1577290250",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Разоблачение",
+        "orig": "Disclosure",
+        "alter": "",
+        "year": "1994",
+        "country": "США",
+        "director": "Барри Левинсон",
+        "genre": "триллер,драма",
+        "actors": "Майкл Дуглас, Деми Мур, Дональд Сазерленд, Кэролайн Гудолл, Рома Маффиа, Дилан Бейкер, Розмари Форсайт, Деннис Миллер, Сьюзи Плэксон, Николас Сэдлер",
+        "description": "Его карьера. Его брак. Его будущее. Все это оказалось под угрозой для сотрудника компании «DigiCom» Тома Сандерса. Он устоял перед напором страсти со стороны начальницы. Но в отместку она обвинила его в сексуальных домогательствах.\r\n\r\nИ Том, проработавший в этой компании много лет, вынужден защищаться, чтобы не потерять место. Благодаря этой борьбе он попадает в головокружительный кибернетический мир виртуальной реальности в недрах «DigiCom».",
+        "slogan": "Секс - это движущая сила",
+        "premiere": "28 ноября 1994",
+        "age": "16",
+        "time": "7680",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4569.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4085/poster.jpg",
+        "rating": {
+          "rating_kp": "6.799",
+          "vote_num_kp": "6059",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "49467"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4568",
+      "date": "1577290249",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Маленькие женщины",
+        "orig": "Little Women",
+        "alter": "",
+        "year": "1994",
+        "country": "США, Канада",
+        "director": "Джиллиан Армстронг",
+        "genre": "мелодрама,драма,семейный",
+        "actors": "Вайнона Райдер, Гэбриел Бирн, Трини Альварадо, Саманта Мэтис, Кирстен Данст, Клэр Дэйнс, Кристиан Бэйл, Эрик Столц, Мэри Уикс, Сьюзен Сарандон",
+        "description": "Фильм о взрослении сестер Марч, живущих в городе Конкорд, штат Массачусетс, во время Гражданской войны, об их первой любви, надеждах и разочарованиях, о формировании их жизненной позиции и начале самостоятельной жизни.",
+        "slogan": "The story that has Lived in our hearts For generations, Now comes to the screen For the holidays",
+        "premiere": "21 декабря 1994",
+        "age": "12",
+        "time": "6900",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4568.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4084/poster.jpg",
+        "rating": {
+          "rating_kp": "7.706",
+          "vote_num_kp": "20196",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "57134"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4544",
+      "date": "1577290233",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Сабрина",
+        "orig": "Sabrina",
+        "alter": "",
+        "year": "1995",
+        "country": "Германия, США",
+        "director": "Сидни Поллак",
+        "genre": "комедия,мелодрама,драма",
+        "actors": "Харрисон Форд, Джулия Ормонд, Грег Киннир, Нэнси Марчанд, Джон Вуд, Фанни Ардан, Ричард Кренна, Энджи Дикинсон, Лорен Холли, Дэна Айви",
+        "description": "В семье Лэраби предстоит важное событие - свадьба младшего брата. Приданное невесты позволит братьям стать монополистами на рынке коммуникаций. Но все эти планы рушатся, когда из Парижа возвращается красавица Сабрина - дочь шофера семьи, ставшая супермоделью.",
+        "slogan": "You are cordially invited to the most surprising merger of the year",
+        "premiere": "15 декабря 1995",
+        "age": "12",
+        "time": "7620",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4544.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4083/poster.jpg",
+        "rating": {
+          "rating_kp": "7.406",
+          "vote_num_kp": "11890",
+          "rating_imdb": "6.3",
+          "vote_num_imdb": "40414"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4538",
+      "date": "1577290231",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Человек на Луне",
+        "orig": "Man on the Moon",
+        "alter": "",
+        "year": "1999",
+        "country": "США, Великобритания, Германия, Япония",
+        "director": "Милош Форман",
+        "genre": "комедия,драма",
+        "actors": "Джим Керри, Дэнни ДеВито, Кортни Лав, Пол Джаматти, Джерри Бекер, Грейсон Эрик Пендри, Бриттани Колонна, Лесли Лайлс, Бобби Бориелло, Джордж Шапиро",
+        "description": "Фильм о жизни и карьере самого эксцентричного авангардного американского комика - Энди Кауфмана.",
+        "slogan": "Hello, my name is Andy and this is my poster",
+        "premiere": "7 декабря 1999",
+        "age": "16",
+        "time": "7080",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4538.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4082/poster.jpg",
+        "rating": {
+          "rating_kp": "7.633",
+          "vote_num_kp": "32944",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "129293"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4528",
+      "date": "1577290227",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Соломенные псы",
+        "orig": "Straw Dogs",
+        "alter": "",
+        "year": "1971",
+        "country": "Великобритания, США",
+        "director": "Сэм Пекинпа",
+        "genre": "триллер,драма,криминал",
+        "actors": "Дастин Хоффман, Сьюзен Джордж, Питер Вон, Т.П. МакКенна, Дель Хенни, Джим Нортон, Дональд Уэбстер, Кен Хатчинсон, Лен Джонс, Сэлли Томсетт",
+        "description": "Дэвид Самнер - молодой американский математик, который устал от хаоса, творящегося в колледже, где он преподавал. Дэвид хочет уединиться: вместе с женой Эми он переселяется в новый дом на побережье в одном из городков Англии, где родилась и выросла Эми.\r\n\r\nНо жизнь на новом месте не заладилась. Дэвид занят своими исследованиями, Эми же скучно, и она начинает флиртовать с местными мужчинами. Кроме того, появляется напряжённость с соседями, которым новенькие не очень нравятся.",
+        "slogan": "The knock at the door meant the birth of one man and the death of seven others!",
+        "premiere": "25 ноября 1971",
+        "age": "18",
+        "time": "6780",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4528.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4081/poster.jpg",
+        "rating": {
+          "rating_kp": "7.704",
+          "vote_num_kp": "12215",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "59265"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4525",
+      "date": "1577290225",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мотылек",
+        "orig": "Papillon",
+        "alter": "",
+        "year": "1973",
+        "country": "Франция, США",
+        "director": "Франклин Дж. Шаффнер",
+        "genre": "драма,криминал",
+        "actors": "Стив МакКуин, Дастин Хоффман, Виктор Джори, Дон Гордон, Энтони Цербе, Роберт Димен, Вудроу Парфри, Билл Муми, Джордж Кулурис, Рэтна Ассан",
+        "description": "За убийство, которого он не совершал, взломщик сейфов Анри Шарьер приговорен к пожизненному заключению и отправлен на каторгу. Прозванный Мотыльком из-за того, что на его груди вытатуирован этот символ воров, Анри совершает несколько попыток побега. В наказание власти надолго сажают его в карцер, а затем отправляют во Французскую Гвиану на остров Дьявола, со всех сторон окруженный океаном.\r\n\r\nИз этой самой страшной каторжной тюрьмы не удавалось бежать ни одному заключенному. Но ничто не может заставить Анри пасть духом и сломить его решимость вырваться на волю.",
+        "slogan": "Франция забыла о вас... Забудьте и вы о Франции",
+        "premiere": "16 декабря 1973",
+        "age": "16",
+        "time": "9060",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4525.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4080/poster.jpg",
+        "rating": {
+          "rating_kp": "8.007",
+          "vote_num_kp": "23557",
+          "rating_imdb": "8",
+          "vote_num_imdb": "128392"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4515",
+      "date": "1577290217",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Спящие",
+        "orig": "Sleepers",
+        "alter": "",
+        "year": "1996",
+        "country": "США",
+        "director": "Барри Левинсон",
+        "genre": "триллер,драма,криминал",
+        "actors": "Кевин Бейкон, Роберт Де Ниро, Дастин Хоффман, Джейсон Патрик, Брэд Питт, Билли Крудап, Минни Драйвер, Рон Элдард, Витторио Гассман, Брэд Ренфро",
+        "description": "В шестидесятые годы нью-йоркский квартал «адская кухня» был местом, где правили священники и мафиози, невинность и жестокость. Здесь росли четыре друга, беззаботное детство которых было прервано шалостью, обернувшейся страшной бедой, толкнувшей их во взрослый мир насилия и подлости.\r\n\r\nПрошло полтора десятилетия, но ужасные воспоминания о прошлом все еще живы, и теперь уроки, усвоенные в «адской кухне», помогут им свести счеты с судьбой, которая обошлась с ними столь сурово...",
+        "slogan": "When friendship runs deeper than blood",
+        "premiere": "28 августа 1996",
+        "age": "16",
+        "time": "8820",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4515.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4078/poster.jpg",
+        "rating": {
+          "rating_kp": "7.841",
+          "vote_num_kp": "35549",
+          "rating_imdb": "7.6",
+          "vote_num_imdb": "214632"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4505",
+      "date": "1577290211",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Одинокий парень",
+        "orig": "The Lonely Guy",
+        "alter": "",
+        "year": "1984",
+        "country": "США",
+        "director": "Артур Хиллер",
+        "genre": "комедия",
+        "actors": "Стив Мартин, Чарльз Гродин, Джудит Айви, Стив Лоуренс, Робин Дугласс, Мерв Гриффин, Др. Джойс Бразерс, Кэнди Бру, Рэнди Бру, Джули Пэйн",
+        "description": "Застав свою подружку в постели с другим, потрясенный до глубины души таким коварством Ларри Хаббарт, решает, что теперь его удел - одиночество. Время идет, и неожиданно, внимание застенчивого Ларри привлекает очаровательная Айрис. Он робко пытается ухаживать, но девушка не обращает на него никакого внимания.\r\n\r\nГлубоко переживая неудачу, Хаббарт начинает писать книгу, доверив бумаге все мысли, чувства и переживания одинокого, обманутого и неуверенного в себе парня. Неожиданно книга становится бестселлером, а Ларри - богатым и знаменитым. Теперь у него появляется шанс возобновить отношения с Айрис.",
+        "slogan": "You know you're lonely when",
+        "premiere": "27 января 1984",
+        "age": "16",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4505.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4077/poster.jpg",
+        "rating": {
+          "rating_kp": "6.735",
+          "vote_num_kp": "800",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "7199"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4502",
+      "date": "1577290210",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Внутреннее расследование",
+        "orig": "Internal Affairs",
+        "alter": "",
+        "year": "1990",
+        "country": "США, Канада",
+        "director": "Майк Фиггис",
+        "genre": "триллер,драма,криминал",
+        "actors": "Ричард Гир, Энди Гарсиа, Нэнси Трэвис, Лори Меткаф, Ричард Брэдфорд, Уильям Болдуин, Майкл Бич, Кэтрин Боровиц, Фэй Грант, Джон Капелос",
+        "description": "Когда любой из нас попадает в беду, страж правопорядка, являющийся на помощь, подобен ангелу. В минуты несчастья он - единственный спаситель и защитник.\r\n\r\nВы доверяете ему себя всецело и безоглядно. И ни у кого, ни при каких обстоятельствах не возникнет подозрения, что за благородной внешностью, под аккуратно отутюженным полицейским кителем может скрываться дьявол...",
+        "slogan": "Trust him... he's a cop",
+        "premiere": "12 января 1990",
+        "age": "16",
+        "time": "6900",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4502.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/4076/poster.jpg",
+        "rating": {
+          "rating_kp": "6.729",
+          "vote_num_kp": "1586",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "19560"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "4498",
       "date": "1577290207",
       "camrip": "0",
@@ -30,10 +622,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4498.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/4075/poster.jpg",
         "rating": {
-          "rating_kp": "7.415",
-          "vote_num_kp": "4925",
+          "rating_kp": "7.416",
+          "vote_num_kp": "4941",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "21844"
+          "vote_num_imdb": "21863"
         }
       }
     },
@@ -142,9 +734,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/4072/poster.jpg",
         "rating": {
           "rating_kp": "7.789",
-          "vote_num_kp": "17546",
+          "vote_num_kp": "17565",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "42496"
+          "vote_num_imdb": "42512"
         }
       }
     },
@@ -215,8 +807,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4445.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/4070/poster.jpg",
         "rating": {
-          "rating_kp": "6.926",
-          "vote_num_kp": "8699",
+          "rating_kp": "6.927",
+          "vote_num_kp": "8708",
           "rating_imdb": "6.5",
           "vote_num_imdb": "70010"
         }
@@ -253,9 +845,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/4069/poster.jpg",
         "rating": {
           "rating_kp": "7.018",
-          "vote_num_kp": "1645",
+          "vote_num_kp": "1648",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "12224"
+          "vote_num_imdb": "12233"
         }
       }
     },
@@ -290,9 +882,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/4068/poster.jpg",
         "rating": {
           "rating_kp": "7.377",
-          "vote_num_kp": "14902",
+          "vote_num_kp": "14914",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "38036"
+          "vote_num_imdb": "38064"
         }
       }
     },
@@ -326,8 +918,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4401.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/4067/poster.jpg",
         "rating": {
-          "rating_kp": "7.869",
-          "vote_num_kp": "10366",
+          "rating_kp": "7.87",
+          "vote_num_kp": "10368",
           "rating_imdb": "8.1",
           "vote_num_imdb": "102702"
         }
@@ -438,9 +1030,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/4064/poster.jpg",
         "rating": {
           "rating_kp": "7.152",
-          "vote_num_kp": "18066",
+          "vote_num_kp": "18069",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "91063"
+          "vote_num_imdb": "91122"
         }
       }
     },
@@ -511,10 +1103,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4346.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/4062/poster.jpg",
         "rating": {
-          "rating_kp": "7.504",
-          "vote_num_kp": "24949",
+          "rating_kp": "7.503",
+          "vote_num_kp": "24987",
           "rating_imdb": "6",
-          "vote_num_imdb": "69524"
+          "vote_num_imdb": "69560"
         }
       }
     },
@@ -549,9 +1141,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/4061/poster.jpg",
         "rating": {
           "rating_kp": "6.777",
-          "vote_num_kp": "8950",
+          "vote_num_kp": "8956",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "40654"
+          "vote_num_imdb": "40684"
         }
       }
     },
@@ -585,10 +1177,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4343.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/4060/poster.jpg",
         "rating": {
-          "rating_kp": "7.181",
-          "vote_num_kp": "7620",
+          "rating_kp": "7.18",
+          "vote_num_kp": "7626",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "82646"
+          "vote_num_imdb": "82735"
         }
       }
     },
@@ -623,9 +1215,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/4059/poster.jpg",
         "rating": {
           "rating_kp": "6.74",
-          "vote_num_kp": "4935",
+          "vote_num_kp": "4944",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "11918"
+          "vote_num_imdb": "11930"
         }
       }
     },
@@ -696,10 +1288,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4335.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/4057/poster.jpg",
         "rating": {
-          "rating_kp": "6.915",
-          "vote_num_kp": "1876",
+          "rating_kp": "6.918",
+          "vote_num_kp": "1880",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "32787"
+          "vote_num_imdb": "32834"
         }
       }
     },
@@ -770,10 +1362,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4329.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/4055/poster.jpg",
         "rating": {
-          "rating_kp": "6.235",
-          "vote_num_kp": "1114",
+          "rating_kp": "6.237",
+          "vote_num_kp": "1119",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "4968"
+          "vote_num_imdb": "4975"
         }
       }
     },
@@ -808,7 +1400,7 @@
         "screenshot": "https://plotva.bazonserver.site/video/4054/poster.jpg",
         "rating": {
           "rating_kp": "6.705",
-          "vote_num_kp": "2812",
+          "vote_num_kp": "2817",
           "rating_imdb": "6.7",
           "vote_num_imdb": "38167"
         }
@@ -919,9 +1511,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/4050/poster.jpg",
         "rating": {
           "rating_kp": "6.747",
-          "vote_num_kp": "3934",
+          "vote_num_kp": "3939",
           "rating_imdb": "6",
-          "vote_num_imdb": "13647"
+          "vote_num_imdb": "13661"
         }
       }
     },
@@ -955,10 +1547,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4266.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/4049/poster.jpg",
         "rating": {
-          "rating_kp": "7.424",
-          "vote_num_kp": "53781",
+          "rating_kp": "7.423",
+          "vote_num_kp": "53948",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "165682"
+          "vote_num_imdb": "165725"
         }
       }
     },
@@ -993,9 +1585,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/4047/poster.jpg",
         "rating": {
           "rating_kp": "7.528",
-          "vote_num_kp": "14603",
+          "vote_num_kp": "14613",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "31611"
+          "vote_num_imdb": "31639"
         }
       }
     },
@@ -1030,9 +1622,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/4046/poster.jpg",
         "rating": {
           "rating_kp": "7.619",
-          "vote_num_kp": "8115",
+          "vote_num_kp": "8122",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "119916"
+          "vote_num_imdb": "120122"
         }
       }
     },
@@ -1104,7 +1696,7 @@
         "screenshot": "https://plotva.bazonserver.site/video/4044/poster.jpg",
         "rating": {
           "rating_kp": "7.704",
-          "vote_num_kp": "15527",
+          "vote_num_kp": "15533",
           "rating_imdb": "7.3",
           "vote_num_imdb": "107924"
         }
@@ -1180,7 +1772,7 @@
           "rating_kp": "5.993",
           "vote_num_kp": "1105",
           "rating_imdb": "6",
-          "vote_num_imdb": "55997"
+          "vote_num_imdb": "56082"
         }
       }
     },
@@ -1215,9 +1807,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/4041/poster.jpg",
         "rating": {
           "rating_kp": "4.033",
-          "vote_num_kp": "14241",
+          "vote_num_kp": "14256",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "53752"
+          "vote_num_imdb": "53778"
         }
       }
     },
@@ -1251,602 +1843,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4190.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/4040/poster.jpg",
         "rating": {
-          "rating_kp": "6.81",
-          "vote_num_kp": "12366",
+          "rating_kp": "6.809",
+          "vote_num_kp": "12381",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "140749"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4179",
-      "date": "1577290050",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Предместье",
-        "orig": "The 'Burbs",
-        "alter": "",
-        "year": "1989",
-        "country": "США",
-        "director": "Джо Данте",
-        "genre": "комедия,детектив",
-        "actors": "Том Хэнкс, Брюс Дерн, Кэрри Фишер, Рик Дукомман, Кори Фельдман, Уэнди Шаал, Генри Гибсон, Брава Теодор, Кортни Гейнс, Гэйл Гордон",
-        "description": "Ленивой умиротворенной жизни в предместье пришел конец. Рэй наивно хотел расслабиться недельку, флегматично побродить в пижаме и почитать газеты, но не тут-то было - в соседнем доме поселились странные люди по фамилии Клопек, которые ни с кем не общаются и на улицу не выходят, а по ночам из их подвала слышатся странные звуки. В предместье, где каждый знает всю подноготную другого, эти явления из ряда вон! Ну, а после того, как в один прекрасный день исчезает местный старикан Уолтер, Рей и еще два бездельника по соседству решают, что это дело рук Клопеков.",
-        "slogan": "Life In The Burbs Will Never Be The Same Again!",
-        "premiere": "17 февраля 1989",
-        "age": "12",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4179.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4038/poster.jpg",
-        "rating": {
-          "rating_kp": "7.064",
-          "vote_num_kp": "6411",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "73772"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4178",
-      "date": "1577290048",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Гангстеры",
-        "orig": "Mobsters",
-        "alter": "",
-        "year": "1991",
-        "country": "США",
-        "director": "Майкл Карбельникофф",
-        "genre": "драма,криминал",
-        "actors": "Кристиан Слэйтер, Родни Истман, Костас Мэндилор, Ричард Греко, Джереми Шоенберг, Майлз Перлих, Алан Чароф, Патрик Демпси, Анто Нолан, Энди Романо",
-        "description": "Их было четверо. Они были особенными и знали это. Они не побоялись тех, кто был сильнее их и не стали ни под кого «прогибаться».\r\n\r\nОни заставили считаться с собой целый континент, при помощи силы, ума и автомата Томми - насадили свои законы. Они стали легендой криминальной истории Америки!",
-        "slogan": "So you think life was quieter in the old days...? THINK AGAIN!",
-        "premiere": "26 июля 1991",
-        "age": "16",
-        "time": "6240",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4178.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4037/poster.jpg",
-        "rating": {
-          "rating_kp": "6.792",
-          "vote_num_kp": "1153",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "9049"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4156",
-      "date": "1577290038",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Дядюшка Бак",
-        "orig": "Uncle Buck",
-        "alter": "",
-        "year": "1989",
-        "country": "США",
-        "director": "Джон Хьюз",
-        "genre": "комедия,драма,семейный",
-        "actors": "Джон Кэнди, Джин Луиса Келли, Габи Хоффманн, Маколей Калкин, Эми Мэдиган, Элейн Бромка, Гэррет М. Браун, Лори Меткаф, Джей Андервуд, Брайан Тарантина",
-        "description": "Ленивого, добродушного дядюшку-холостяка просят позаботиться о племянниках на время семейного кризиса их родителей. К дяде Баку те обратились от отчаяния: больше оставить детей не с кем. Но немного везения, много любви, и дядя Бак сумеет всех удивить.",
-        "slogan": "OH NO! IT'S...",
-        "premiere": "16 августа 1989",
-        "age": "12",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4156.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4036/poster.jpg",
-        "rating": {
-          "rating_kp": "7.233",
-          "vote_num_kp": "5746",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "93169"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4144",
-      "date": "1577290032",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Шоссе в никуда",
-        "orig": "Lost Highway",
-        "alter": "",
-        "year": "1996",
-        "country": "Франция, США",
-        "director": "Дэвид Линч",
-        "genre": "триллер,детектив",
-        "actors": "Билл Пуллман, Патриша Аркетт, Бальтазар Гетти, Роберт Лоджа, Роберт Блейк, Наташа Грегсон Вагнер, Ричард Прайор, Гэри Бьюзи, Люси Батлер, Майкл Масси",
-        "description": "Фред Мэдисон обвинен в убийстве своей жены Ренэ и приговорен к высшей мере наказания. Незадолго до исполнения приговора он таинственным образом исчезает из камеры смертников, а на его месте находят растерянного и ничего не понимающего Пита Дейтона. Как он оказался в камере? Куда исчез убийца?\r\n\r\nВыпущенный на свободу, Пит пытается вернуться к повседневной нормальной жизни, но вместо нее его ждет необъяснимый, поражающий воображение кошмар...",
-        "slogan": "",
-        "premiere": "15 января 1997",
-        "age": "18",
-        "time": "8040",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4144.jpg",
-        "screenshot": "https://white.bazonserver.site/video/4034/poster.jpg",
-        "rating": {
-          "rating_kp": "7.442",
-          "vote_num_kp": "40471",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "139062"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4140",
-      "date": "1577290029",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Стигматы",
-        "orig": "Stigmata",
-        "alter": "",
-        "year": "1999",
-        "country": "США",
-        "director": "Руперт Уэйнрайт",
-        "genre": "ужасы,триллер,детектив",
-        "actors": "Патриша Аркетт, Гэбриел Бирн, Джонатан Прайс, Ниа Лонг, Томас Копаче, Раде Шербеджия, Энрико Колантони, Дик Латесса, Порша де Росси, Патрик Малдун",
-        "description": "Фрэнки Пейдж живет спокойно, свободно и беззаботно. И меньше всего ее беспокоят вопросы о Боге. Все это в одночасье меняется, когда ее поражают «стигматы» - кровоточащие раны распятого Христа. Вскоре на нее обращает внимание отец Кернан, уполномоченный следователь из Ватикана.\r\n\r\nОдновременно и другой священнослужитель, коррумпированный кардинал Хаусмен, понимает, что Фрэнки избрана для передачи сокрушительного пророчества, которое может навредить официальной церкви. Он убежден, что необходимо любым способом заставить ее замолчать.\r\n\r\nПоэтому Кернан, рискуя жизнью, пытается спасти Фрэнки и получить послание, не только разбивающее устои римско-католической церкви, но и навсегда изменяющее судьбу человечества.",
-        "slogan": "Посланник должен замолчать",
-        "premiere": "10 сентября 1999",
-        "age": "16",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4140.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4033/poster.jpg",
-        "rating": {
-          "rating_kp": "6.866",
-          "vote_num_kp": "11784",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "67730"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4137",
-      "date": "1577290028",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Маленькие пальчики",
-        "orig": "Tiptoes",
-        "alter": "",
-        "year": "2003",
-        "country": "США, Франция",
-        "director": "Мэттью Брайт",
-        "genre": "комедия,мелодрама,драма",
-        "actors": "Гари Олдман, Мэттью МакКонахи, Кейт Бекинсейл, Патриша Аркетт, Питер Динклэйдж, Дебби Ли Кэррингтон, Эд Гэйл, Дэвид Алан Грир, Марсия Де Русс, Кейси Борроумэн",
-        "description": "Кэрол узнаёт, что она беременна, но её парень не хочет ребёнка. Девушка настаивает, и ей приходится открыть семейную тайну: на протяжении нескольких столетий все предки её парня были карликами. Его брат Рольф - тоже очень маленького роста. Это значит, что и ребёнок Кэрол может унаследовать эти черты. Что же делать?\r\n\r\nКонечно, не каждый бы решился сохранить ребёнка, но Келли готова на всё ради своего малыша. Она знакомится с семьёй Рольфа и его низкорослыми друзьями - циничным грубияном-марксистом Морисом и его подружкой Люси.\r\n\r\nПеред Кэрол открывается новый, неизвестный мир. И самое главное, теперь она испытывает к Рольфу больше, чем просто симпатию...",
-        "slogan": "Маленькие лучше знают, как надо...",
-        "premiere": "8 сентября 2003",
-        "age": "16",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4137.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/4032/poster.jpg",
-        "rating": {
-          "rating_kp": "6.047",
-          "vote_num_kp": "2586",
-          "rating_imdb": "4.3",
-          "vote_num_imdb": "5021"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4133",
-      "date": "1577290025",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Святой",
-        "orig": "The Saint",
-        "alter": "",
-        "year": "1997",
-        "country": "США",
-        "director": "Филлип Нойс",
-        "genre": "боевик,фантастика,триллер,мелодрама,приключения",
-        "actors": "Вэл Килмер, Элизабет Шу, Раде Шербеджия, Валерий Николаев, Генри Гудман, Алан Армстронг, Майкл Бирн, Евгений Лазарев, Ирина Апексимова, Лев Прыгунов",
-        "description": "Вэл Килмер играет роль знаменитого шпиона Саймона Тамплиера, завоевавшего репутацию неуловимого из-за своего редчайшего дара перевоплощения. Уставший от участия в сомнительных предприятиях, Саймон решает, что следующее задание станет последним.\r\n\r\nОднако оно обещает быть нешуточным. Могущественный промышленный магнат из России Иван Третьяк поручает Саймону добыть сенсационную технологию производства самой дешевой в мире энергии, разработанную гениальным ученым Эммой Рассел.\r\n\r\nС помощью этой технологии он намерен подчинить себе Россию, переживающую не лучшие времена. В дальнейшие планы магната входит мировое господство...",
-        "slogan": "Cunning. Devious. Dangerous. Treacherous",
-        "premiere": "3 апреля 1997",
-        "age": "12",
-        "time": "6960",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4133.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4031/poster.jpg",
-        "rating": {
-          "rating_kp": "5.97",
-          "vote_num_kp": "3520",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "67076"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4121",
-      "date": "1577290022",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Миротворец",
-        "orig": "The Peacemaker",
-        "alter": "",
-        "year": "1997",
-        "country": "США",
-        "director": "Мими Ледер",
-        "genre": "боевик,триллер",
-        "actors": "Джордж Клуни, Николь Кидман, Марчел Юреш, Александр Балуев, Рене Медвесек, Гари Вернтц, Рэндолл Батинкофф, Джим Хейни, Александр Штробеле, Холт Маккэллани",
-        "description": "Сюжет фильма основан на реальных событиях, которые недавно стали известны благодаря раскрытым секретным архивам. Русский поезд, который везет ядерные ракеты с целью их уничтожения, частично поврежден взрывом где-то в отдаленном районе на юге России.\r\n\r\nСоответствующие сигналы поступают в ядерный центр американского Белого Дома. Вскоре выясняется, что оружие находится в руках международных террористов...",
-        "slogan": "How do you get the world's attention?",
-        "premiere": "23 сентября 1997",
-        "age": "16",
-        "time": "7440",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4121.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4030/poster.jpg",
-        "rating": {
-          "rating_kp": "6.001",
-          "vote_num_kp": "5459",
-          "rating_imdb": "6",
-          "vote_num_imdb": "57643"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4102",
-      "date": "1577290019",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Уходя в отрыв",
-        "orig": "Breaking Away",
-        "alter": "",
-        "year": "1979",
-        "country": "США",
-        "director": "Питер Йетс",
-        "genre": "комедия,мелодрама,драма,спорт",
-        "actors": "Деннис Кристофер, Деннис Куэйд, Дэниел Стерн, Джеки Эрл Хейли, Барбара Барри, Пол Дули, Робин Дугласс, Харт Бокнер, Эми Райт, Питер Мэлоуни",
-        "description": "Картина повествует о четырёх друзьях - жителях американского университетского города Блумингтон. Дейв, Майк, Сирил и Мучер только закончили школу и на пороге вступления во взрослую жизнь.\r\n\r\nДейв большой поклонник итальянского образа жизни и культуры, но прежде всего он без ума от главного итальянского увлечения - велоспорта. Когда в город приезжает на соревнования итальянская команда Дейв пытается доказать, что он гонщик достойный соревнования с лучшими спортсменами Европы, но профессионалы быстро ставят выскочку на место.\r\n\r\nДейв познакомился со студенткой Кэтрин. Поначалу он пустил пыль в глаза девушке рассказами о том, что он якобы студент-итальянец. Но одними только серенадами сердце девушки не завоевать. Дейву необходимо делом доказать на что он способен. Друзья предлагают организовать велокоманду и бросить вызов сильной университетской сборной...",
-        "slogan": "Somewhere between growing up and settling down...",
-        "premiere": "13 июля 1979",
-        "age": "0",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4102.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4029/poster.jpg",
-        "rating": {
-          "rating_kp": "7.176",
-          "vote_num_kp": "1600",
-          "rating_imdb": "7.7",
-          "vote_num_imdb": "23154"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4083",
-      "date": "1577290012",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Танец-вспышка",
-        "orig": "Flashdance",
-        "alter": "",
-        "year": "1983",
-        "country": "США",
-        "director": "Эдриан Лайн",
-        "genre": "мелодрама,драма",
-        "actors": "Дженнифер Билз, Майкл Нури, Лилия Скала, Санни Джонсон, Кайл Т. Хеффнер, Ли Винг, Рон Карабацос, Белинда Бауэр, Мальколм Дэнар, Филип Брунс",
-        "description": "Вечерами Алекс танцует в ночном клубе сексуальные танцы, а днем работает на заводе и ходит на занятия, чтобы осуществить свою детскую мечту и стать балериной. У нее есть прекрасная, добрая и понимающая покровительница, которая когда-то была известной и необыкновенной балериной, умением танцевать которой, восхищались, а ее талант боготворили. Неуверенная в себе кроткая молодая и мечтающая о танцах девушка идет к своей мечте, но, боясь провалиться, постоянно бежит от просмотров. Но вдруг ее жизнь превращается в необыкновенную сказку, за Алекс начинает ухаживать богатый и красивый кавалер, а ее мечта о балетной школе почти скоро сбудется. История похожа на сказку о Золушке, которая по воле судьбы стала принцессой.",
-        "slogan": "Something happens when she hears the music...it's her freedom.  It's her fire.  It's her life",
-        "premiere": "15 апреля 1983",
-        "age": "12",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4083.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4028/poster.jpg",
-        "rating": {
-          "rating_kp": "7.232",
-          "vote_num_kp": "6539",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "51840"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4077",
-      "date": "1577290006",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Самородок",
-        "orig": "The Natural",
-        "alter": "Нормальный / Природный дар",
-        "year": "1984",
-        "country": "США",
-        "director": "Барри Левинсон",
-        "genre": "драма,спорт",
-        "actors": "Роберт Редфорд, Роберт Дювалл, Гленн Клоуз, Ким Бейсингер, Уилфорд Бримли, Барбара Херши, Роберт Проски, Ричард Фарнсуорт, Джо Дон Бейкер, Джон Финнегэн",
-        "description": "Фильм рассказывает о судьбе знаменитого бейсболиста Роя Хоббса. В возрасте 19 лет он отправляется в Чикаго, но несчастный случай мешает ему начать карьеру, и он вынужден оставаться в тени. Через пятнадцать лет, в 1939 году, Рой присоединяется к самой худшей команде - «Нью-Йоркским Рыцарям» и практически в одиночку выводит команду из череды поражений...",
-        "slogan": "The best there was!",
-        "premiere": "11 мая 1984",
-        "age": "0",
-        "time": "8280",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4077.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4025/poster.jpg",
-        "rating": {
-          "rating_kp": "6.985",
-          "vote_num_kp": "1126",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "47982"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4072",
-      "date": "1577290004",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Свидание вслепую",
-        "orig": "Blind Date",
-        "alter": "",
-        "year": "1987",
-        "country": "США",
-        "director": "Блейк Эдвардс",
-        "genre": "комедия,мелодрама",
-        "actors": "Ким Бейсингер, Брюс Уиллис, Джон Ларрокетт, Уильям Дэниелс, Джордж Коу, Марк Блум, Фил Хартмен, Стефани Фэраси, Элис Хёрсон, Грэм Старк",
-        "description": "Уолтер Дэвис - трудоголик, и вполне естественно, что все свое внимание он уделяет работе, а не личной жизни или внешности. Для очень важной деловой встречи в ресторане с новым партнером из Японии, Уолтеру потребовалась спутница.\r\n\r\nЕго брат посоветовал взять с собой очаровательную Надю, кузину его жены. Но есть одно но: Наде нельзя пить... совсем! К сожалению, это предупреждение Уолтер пропустил мимо ушей.",
-        "slogan": "'Do you recognize me? I used to be a respectable citizen. I had a good job and a promising future. I made only one mistake - I went on a blind date. ...Anyone got $10,000 for bail?'",
-        "premiere": "24 марта 1987",
-        "age": "16",
-        "time": "5700",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4072.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4024/poster.jpg",
-        "rating": {
-          "rating_kp": "7.284",
-          "vote_num_kp": "13406",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "22264"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4071",
-      "date": "1577290002",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Слежка",
-        "orig": "Stakeout",
-        "alter": "",
-        "year": "1987",
-        "country": "США",
-        "director": "Джон Бэдэм",
-        "genre": "комедия,боевик,триллер,криминал",
-        "actors": "Ричард Дрейфусс, Эмилио Эстевес, Мэделин Стоу, Айдан Куинн, Дэн Лория, Форест Уитакер, Иэн Трейси, Эрл Биллингс, Джексон Дэвис, Дж.Дж. Макаро",
-        "description": "Полицейские Крис и Билл получают новое и, как всегда, ответственное задание. Им поручено вести наблюдение за бывшей подругой сбежавшего преступника. Сыщики уверены, что опасный злодей обязательно навестит даму своего сердца. Но вместо того, чтобы следить за красавицей, Крис начал заглядываться на нее.\r\n\r\nСуровый служитель закона понял, что влюбился. Забыв о предосторожности, Крис решает рассказать девушке о своих чувствах как раз в тот момент, когда на горизонте появился долгожданный подозреваемый...",
-        "slogan": "It's a tough job but somebody's got to do it!",
-        "premiere": "5 августа 1987",
-        "age": "16",
-        "time": "7020",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4071.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4023/poster.jpg",
-        "rating": {
-          "rating_kp": "7.294",
-          "vote_num_kp": "2299",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "25667"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4063",
-      "date": "1577289999",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Уик-энд у Берни",
-        "orig": "Weekend at Bernie's",
-        "alter": "",
-        "year": "1989",
-        "country": "США",
-        "director": "Тед Котчефф",
-        "genre": "комедия,криминал,приключения",
-        "actors": "Эндрю МакКарти, Джонатан Силвермен, Катрин Мэри Стюарт, Терри Кайзер, Дон Кэлфа, Катрин Паркс, Элуиз Деджориа, Грегори Салата, Луис Гьямбальво, Тед Котчефф",
-        "description": "Двое молодых работников страховой компании обнаруживают в бухгалтерских книгах, что кто-то четыре раза получил деньги по страховому полису покойника, о чем они честно сообщили своему начальнику Берни, живущему явно не по средствам. Берни, а именно он и занимался хищениями, пригласил ребят на уик-энд в свой роскошный дом на океане и одновременно попросил своих друзей из мафии убить своих слишком старательных подчиненных.\r\n\r\nНо босс мафии велел убить самого Берни, узнав, что тот «окучивает» его любовницу, что и было сделано в роскошном доме на океане при помощи укола в ягодицу. Ребятам, приехавшим на уикенд, пришлось выдавать Берни за живого, что было нетрудно, учитывая веселое состояние многочисленных гостей.",
-        "slogan": "Два придурка. Один труп. Отличная вечеринка!!!",
-        "premiere": "9 февраля 1989",
-        "age": "16",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4063.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4022/poster.jpg",
-        "rating": {
-          "rating_kp": "7.335",
-          "vote_num_kp": "9481",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "54359"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4059",
-      "date": "1577289996",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Напролом",
-        "orig": "The Hard Way",
-        "alter": "",
-        "year": "1991",
-        "country": "США",
-        "director": "Джон Бэдэм",
-        "genre": "комедия,боевик,криминал",
-        "actors": "Майкл Дж. Фокс, Джеймс Вудс, Стивен Лэнг, Аннабелла Шиорра, Джон Каподиче, Луис Гусман, ЭлЭл Кул Джей, Мэри Мара, Делрой Линдо, Конрад Робертс",
-        "description": "Ник Лэнг - знаменитая голливудская звезда. У Ника есть лишь одна мечта: расстаться со своим имиджем «славного парня» и сыграть настоящего «крутого» героя. И тут, как раз кстати, возникает возможность исполнить роль отважного детектива.\r\n\r\nЧтобы как можно лучше узнать о своем новом персонаже, Лэнг отправляется в Нью-Йорк, где знакомится с бывалым сыщиком Джоном Моссом, который должен помочь ему освоить полицейские приемы. Странная парочка отправляется на поиски самого настоящего серийного убийцы, терроризирующего весь город...",
-        "slogan": "Наши стволы без дела не болтаются!",
-        "premiere": "8 марта 1991",
-        "age": "16",
-        "time": "6660",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4059.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4021/poster.jpg",
-        "rating": {
-          "rating_kp": "7.229",
-          "vote_num_kp": "4683",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "20510"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4058",
-      "date": "1577289995",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Во имя справедливости",
-        "orig": "Out for Justice",
-        "alter": "",
-        "year": "1991",
-        "country": "США",
-        "director": "Джон Флинн",
-        "genre": "боевик,триллер,драма,криминал",
-        "actors": "Стивен Сигал, Уильям Форсайт, Джерри Орбак, Джо Чампа, Шэрин Митчелл, Сэл Ричардс, Джина Гершон, Джей Аковоне, Ник Корелло, Роберт ЛаСардо",
-        "description": "Место действия - Бруклин, время - наши дни. Полицейский Джино Фелино родился и вырос здесь. На его веку многое изменилось, но некоторые перемены он признавать не собирается. Товарищ по детским играм теперь - на другой стороне. Он превратил местные улицы в зоны боевых действий.\r\n\r\nСильнее всего на свете Джино желал бы отправить этого сорвавшегося с цепи пса в школу вечного послушания. Но сначала его нужно поймать.",
-        "slogan": "Он - коп. У него грязная работа... Но кто-то должен ее выполнять",
-        "premiere": "12 апреля 1991",
-        "age": "18",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4058.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/4020/poster.jpg",
-        "rating": {
-          "rating_kp": "6.806",
-          "vote_num_kp": "5651",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "23419"
+          "vote_num_imdb": "140882"
         }
       }
     }

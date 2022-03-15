@@ -2,6 +2,389 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1018411",
+      "date": "1611937365",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "TVShows",
+      "max_qual": "1080",
+      "last_season": "2",
+      "last_episode": "15",
+      "episodes": {
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 1080
+        }
+      },
+      "info": {
+        "rus": "Старая школа",
+        "orig": "Schooled",
+        "alter": "Обученные",
+        "year": "2019",
+        "country": "США",
+        "director": "Дэвид Катценберг, Лиа Томпсон, Джей Чандрашекхар",
+        "genre": "комедия",
+        "actors": "Тим Медоуз, Брайан Коллен, ЭйДжей Мичалка, Бретт Дир, Израэль Джонсон, Леннон Парэм, Даллас Эдвардс, Стивен Тоболовски, Шон Маркетт, Альфонсо МакОли",
+        "description": "Люси Уинстон получает работу в академии, где работает её брат Андре, ведущий борьбу за власть с энергичным тренером Меллором. Обживаясь на новом рабочем месте, Люси должна позаботиться ещё и о том, чтобы к новому месту учёбы привыкли её детишки.",
+        "slogan": "The 90's A new era with more balls",
+        "premiere": "30 мая 2019",
+        "age": "16",
+        "time": "1800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1018411.jpg",
+        "screenshot": "https://yq4u.bazonserver.site/video/27743/poster.jpg",
+        "rating": {
+          "rating_kp": "6.223",
+          "vote_num_kp": "393",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "3375"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1018411",
+      "date": "1611937298",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "13",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080
+        }
+      },
+      "info": {
+        "rus": "Старая школа",
+        "orig": "Schooled",
+        "alter": "Обученные",
+        "year": "2019",
+        "country": "США",
+        "director": "Дэвид Катценберг, Лиа Томпсон, Джей Чандрашекхар",
+        "genre": "комедия",
+        "actors": "Тим Медоуз, Брайан Коллен, ЭйДжей Мичалка, Бретт Дир, Израэль Джонсон, Леннон Парэм, Даллас Эдвардс, Стивен Тоболовски, Шон Маркетт, Альфонсо МакОли",
+        "description": "Люси Уинстон получает работу в академии, где работает её брат Андре, ведущий борьбу за власть с энергичным тренером Меллором. Обживаясь на новом рабочем месте, Люси должна позаботиться ещё и о том, чтобы к новому месту учёбы привыкли её детишки.",
+        "slogan": "The 90's A new era with more balls",
+        "premiere": "30 мая 2019",
+        "age": "16",
+        "time": "1800",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1018411.jpg",
+        "screenshot": "https://yq4u.bazonserver.site/video/27742/poster.jpg",
+        "rating": {
+          "rating_kp": "6.223",
+          "vote_num_kp": "393",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "3375"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1041939",
+      "date": "1611934225",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Ай кэн спик",
+        "orig": "Ai kaen seupikeu",
+        "alter": "",
+        "year": "2017",
+        "country": "Корея Южная",
+        "director": "Ким Хён-сок",
+        "genre": "комедия,история,драма",
+        "actors": "Ли Джэ-хун, На Мун-хи, Пак Чхоль-мин, Ём Хе-ран, Ли Сан-хи, Ли Джи-хун, Чон Ён-джу, Ким Со-джин, Ким Ир-ун, Сон Ю-бин",
+        "description": "Государственный служащий низкого ранга Пак Мин-джэ - новенький в окружном офисе. И он очень принципиальный человек. Мин-джэ по самую макушку завален жалобами одной местной старушенции На Ок-пун, которая не даёт продыху госслужащим уже более 30 лет. Вредная бабуля однажды узнаёт, что парень неплохо говорит по-английски, и упрашивает его давать ей уроки, чтобы общаться со своим американским братом. Мин-джэ сначала отказывается, но когда узнаёт, что Ок-пун кормит его брата-старшеклассника домашней вкусной едой, соглашается. Это становится началом большой дружбы.",
+        "slogan": "",
+        "premiere": "21 сентября 2017",
+        "age": "0",
+        "time": "7140",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1041939.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/27741/poster.jpg",
+        "rating": {
+          "rating_kp": "7.704",
+          "vote_num_kp": "301",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "1797"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1281763",
+      "date": "1611934216",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Одинокая тоскливая ночь",
+        "orig": "Lonely Blue Night",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Johnson Cheng",
+        "genre": "короткометражка",
+        "actors": "Александр Чен,Джордж Кристофер,Grant C. Hansen,Джеффри М. Хартман,Ко Бун Пин,Диана Линь,Ewing Luo,Richard Ouyang,Лаура Фэй Смит,Джеффри Сунь",
+        "description": "Во время неловкого семейного ужина главная героиня осознает последствия своего решения отправить дочь жить в Америку.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "900",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWVhN2Y0YmItNjVjOS00MjdkLWJjZWMtZmQ5ZTQ0MDE3NWVmXkEyXkFqcGdeQXVyMjY5ODMzMzM@.jpg",
+        "screenshot": "https://i75t.bazonserver.site/video/27738/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "2",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "66"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "2000104",
+      "date": "1611923372",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "4",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080
+        }
+      },
+      "info": {
+        "rus": "Инопланетные миры",
+        "orig": "Alien Worlds",
+        "alter": "",
+        "year": "2020",
+        "country": "Великобритания",
+        "director": "Suzy Boyles,Дэниэл М. Смит",
+        "genre": "документальный,фантастика",
+        "actors": "Софи Оконедо,Vahe Alaverdian,Stuart Armstrong,Natalie Batalha,Anna Dornhaus,Michael Foale,Адам Фрэнк,Fiorenzo Graziano,Fernando Calderón Gutiérrez,Robert Hollingworth",
+        "description": "Применяя законы жизни на Земле к остальной галактике, авторы смешивают науку и фантастику, чтобы представить, как могла бы выглядеть жизнь на других планетах.",
+        "slogan": "",
+        "premiere": "2 декабря 2020",
+        "age": "0",
+        "time": "2580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2000104.jpg",
+        "screenshot": "https://dt2g.bazonserver.site/video/27736/poster.jpg",
+        "rating": {
+          "rating_kp": "6.583",
+          "vote_num_kp": "654",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "3425"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "6468",
+      "date": "1611920832",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Двухголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Темный кристалл",
+        "orig": "The Dark Crystal",
+        "alter": "",
+        "year": "1982",
+        "country": "США, Великобритания",
+        "director": "Джим Хенсон, Фрэнк Оз",
+        "genre": "фэнтези,приключения,семейный",
+        "actors": "Джим Хенсон, Кэтрин Маллен, Фрэнк Оз, Дэйв Гольц, Стив Уитмир, Луиз Голд, Брайан Мюэль, Боб Пэйн, Майк Куинн, Тимоти М. Роуз",
+        "description": "Веками в волшебной стране, которую населял народ гелфлингов, царил мир и покой. Но однажды произошла страшная беда: был поврежден Темный кристалл, магический камень, управляющий законами Вселенной. Из-за этого нарушилось равновесие хаоса и порядка, а бедных человекообразных гелфлингов поработили воинственные, злобные ящеры скексисы.\r\n\r\nЕсли Темный кристалл не починить до дня Великого слияния трех солнц, кошмарные скексисы будут вечно править миром. И тогда храбрые гелфлинги Джен и Кира отправляютсяна полные опасностей и приключений поиски отколовшейся части кристалла, без которой нельзя исправить святыню...",
+        "slogan": "When evil screams throughout the world, when all three suns converge, when all that's fair and fine seems lost... a hero will emerge!",
+        "premiere": "1 декабря 1982",
+        "age": "12",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6468.jpg",
+        "screenshot": "https://yq4u.bazonserver.site/video/27712/poster.jpg",
+        "rating": {
+          "rating_kp": "6.998",
+          "vote_num_kp": "2041",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "65508"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "810679",
+      "date": "1611920273",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Пила 8",
+        "orig": "Jigsaw",
+        "alter": "",
+        "year": "2017",
+        "country": "США, Канада",
+        "director": "Майкл Спириг, Питер Спириг",
+        "genre": "ужасы,триллер,детектив",
+        "actors": "Мэтт Пассмор, Тобин Белл, Каллум Кит Ренни, Ханна Эмили Андерсон, Кле Беннетт, Лора Вандервурт, Пол Браунштейн, Мандела Ван Пиблз, Бриттани Аллен, Джозиа Блэк",
+        "description": "В городе обнаруживают несколько тел, обладатели которых встретили определенно не лучший конец. Все улики указывают на одного человека: Джона Крамера. Но как это возможно? Человек, известный как Пила, мертв уже более десяти лет. Неужели все-таки нашелся тот, кто рискнул подобрать мантию жестокого маньяка?",
+        "slogan": "Are you worthy?",
+        "premiere": "26 октября 2017",
+        "age": "18",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_810679.jpg",
+        "screenshot": "https://zd5q.bazonserver.site/video/27713/poster.jpg",
+        "rating": {
+          "rating_kp": "5.997",
+          "vote_num_kp": "70638",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "76934"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1282299",
+      "date": "1611918012",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Настоящий",
+        "orig": "The Right One",
+        "alter": "",
+        "year": "2021",
+        "country": "Канада,США",
+        "director": "Кен Мок",
+        "genre": "комедия",
+        "actors": "Элайза Шлезингер,Дэвид Кокнер,Клеопатра Коулмэн,Ник Тун,Лиэнн Лэпп,Треццо Махоро,Тарун Керам,Лорен МакГибон,М.Дж. Коколис,Каликс Фрайзер",
+        "description": "Сара - писательница, борющаяся с творческим кризисом, нуждается в вдохновении - и находит его, когда встречает Годфри, неудачливого чудака, который постоянно перевоплощается в разных людей, чтобы справиться со своим прошлым и избежать реальности. Как только Годфри начинает открываться Саре, он обнаруживает, что та использовала его в качестве вдохновения для своего следующего романа и исчезает из её жизни. Потеряет ли Сара мужчину своей мечты или сможет найти его и всё исправить?",
+        "slogan": "",
+        "premiere": "5 февраля 2021",
+        "age": "16",
+        "time": "5760",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGI0ZGJlNzAtNDMxNi00N2E4LWEyNGMtNDA0OWE5MWQ4ZDhlXkEyXkFqcGdeQXVyNjA3MzE2ODE@.jpg",
+        "screenshot": "https://i75t.bazonserver.site/video/27729/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "18",
+          "rating_imdb": "5.1",
+          "vote_num_imdb": "479"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1311843",
+      "date": "1611918006",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Соседи сверху",
+        "orig": "Sentimental",
+        "alter": "",
+        "year": "2020",
+        "country": "Испания",
+        "director": "Сеск Гай",
+        "genre": "комедия",
+        "actors": "Белен Куэста,Хавьер Камара,Альберто Сан Хуан,Гризельда Сицилиани",
+        "description": "Хулио и Ана больше 15 лет вместе. Между ними давно нет огня, только ежедневная перестрелка колкостями. Почти единственное, что их ещё сближает — обсуждение Сальвы и Лауры из квартиры этажом выше: что ни ночь, оттуда доносятся возмутительно страстные стоны. А однажды они заходят в гости с невероятным предложением. И жизнь всех четверых получает неожиданную встряску.",
+        "slogan": "О чем говорят соседи",
+        "premiere": "7 января 2021",
+        "age": "18",
+        "time": "4860",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1311843.jpg",
+        "screenshot": "https://i75t.bazonserver.site/video/27728/poster.jpg",
+        "rating": {
+          "rating_kp": "6.7",
+          "vote_num_kp": "14732",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "2154"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "43559",
       "date": "1611916851",
       "camrip": "0",
@@ -30,8 +413,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_43559.jpg",
         "screenshot": "https://dt2g.bazonserver.site/video/27721/poster.jpg",
         "rating": {
-          "rating_kp": "7.189",
-          "vote_num_kp": "12197",
+          "rating_kp": "7.19",
+          "vote_num_kp": "12205",
           "rating_imdb": "6.6",
           "vote_num_imdb": "440"
         }
@@ -170,10 +553,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1221453.jpg",
         "screenshot": "https://i75t.bazonserver.site/video/27718/poster.jpg",
         "rating": {
-          "rating_kp": "7.774",
-          "vote_num_kp": "882",
+          "rating_kp": "7.776",
+          "vote_num_kp": "885",
           "rating_imdb": "8",
-          "vote_num_imdb": "3012"
+          "vote_num_imdb": "3020"
         }
       }
     },
@@ -262,10 +645,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5430.jpg",
         "screenshot": "https://yq4u.bazonserver.site/video/27717/poster.jpg",
         "rating": {
-          "rating_kp": "6.076",
-          "vote_num_kp": "277",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "512"
+          "rating_kp": "6.087",
+          "vote_num_kp": "278",
+          "rating_imdb": "5.2",
+          "vote_num_imdb": "516"
         }
       }
     },
@@ -337,9 +720,9 @@
         "screenshot": "https://black.bazonserver.site/video/27715/poster.jpg",
         "rating": {
           "rating_kp": "8.175",
-          "vote_num_kp": "62531",
+          "vote_num_kp": "62574",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "263195"
+          "vote_num_imdb": "263271"
         }
       }
     },
@@ -411,9 +794,9 @@
         "screenshot": "https://dt2g.bazonserver.site/video/27705/poster.jpg",
         "rating": {
           "rating_kp": "4.872",
-          "vote_num_kp": "3882",
+          "vote_num_kp": "3883",
           "rating_imdb": "4",
-          "vote_num_imdb": "3271"
+          "vote_num_imdb": "3275"
         }
       }
     },
@@ -499,9 +882,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/27709/poster.jpg",
         "rating": {
           "rating_kp": "7.898",
-          "vote_num_kp": "38821",
+          "vote_num_kp": "38877",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "141880"
+          "vote_num_imdb": "141973"
         }
       }
     },
@@ -613,9 +996,9 @@
         "screenshot": "https://t6hu.bazonserver.site/video/27706/poster.jpg",
         "rating": {
           "rating_kp": "6.623",
-          "vote_num_kp": "23850",
+          "vote_num_kp": "23857",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "553"
+          "vote_num_imdb": "554"
         }
       }
     },
@@ -1185,8 +1568,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_471002.jpg",
         "screenshot": "https://black.bazonserver.site/video/27566/poster.jpg",
         "rating": {
-          "rating_kp": "7.948",
-          "vote_num_kp": "32083",
+          "rating_kp": "7.949",
+          "vote_num_kp": "32100",
           "rating_imdb": "7.9",
           "vote_num_imdb": "120"
         }
@@ -1222,10 +1605,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6519.jpg",
         "screenshot": "https://yq4u.bazonserver.site/video/27676/poster.jpg",
         "rating": {
-          "rating_kp": "7.003",
-          "vote_num_kp": "41338",
+          "rating_kp": "7.002",
+          "vote_num_kp": "41357",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "108487"
+          "vote_num_imdb": "108505"
         }
       }
     },
@@ -1408,9 +1791,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/27683/poster.jpg",
         "rating": {
           "rating_kp": "6.813",
-          "vote_num_kp": "30073",
+          "vote_num_kp": "30124",
           "rating_imdb": "4.9",
-          "vote_num_imdb": "27641"
+          "vote_num_imdb": "27672"
         }
       }
     },
@@ -1444,8 +1827,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_28279.jpg",
         "screenshot": "https://yq4u.bazonserver.site/video/27699/poster.jpg",
         "rating": {
-          "rating_kp": "6.62",
-          "vote_num_kp": "1761",
+          "rating_kp": "6.621",
+          "vote_num_kp": "1763",
           "rating_imdb": "6.1",
           "vote_num_imdb": "5125"
         }
@@ -1629,10 +2012,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_79750.jpg",
         "screenshot": "https://dt2g.bazonserver.site/video/27682/poster.jpg",
         "rating": {
-          "rating_kp": "5.35",
-          "vote_num_kp": "7507",
+          "rating_kp": "5.351",
+          "vote_num_kp": "7510",
           "rating_imdb": "4",
-          "vote_num_imdb": "5854"
+          "vote_num_imdb": "5860"
         }
       }
     },
@@ -1704,9 +2087,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/27681/poster.jpg",
         "rating": {
           "rating_kp": "5.043",
-          "vote_num_kp": "5379",
+          "vote_num_kp": "5380",
           "rating_imdb": "4",
-          "vote_num_imdb": "4046"
+          "vote_num_imdb": "4049"
         }
       }
     },
@@ -1877,8 +2260,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_803719.jpg",
         "screenshot": "https://yq4u.bazonserver.site/video/27691/poster.jpg",
         "rating": {
-          "rating_kp": "7.444",
-          "vote_num_kp": "6970",
+          "rating_kp": "7.443",
+          "vote_num_kp": "6983",
           "rating_imdb": "8.1",
           "vote_num_imdb": "25303"
         }
@@ -2022,10 +2405,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3808.jpg",
         "screenshot": "https://white.bazonserver.site/video/27685/poster.jpg",
         "rating": {
-          "rating_kp": "7.099",
-          "vote_num_kp": "4773",
+          "rating_kp": "7.098",
+          "vote_num_kp": "4787",
           "rating_imdb": "7",
-          "vote_num_imdb": "48650"
+          "vote_num_imdb": "48686"
         }
       }
     },
@@ -2062,7 +2445,7 @@
           "rating_kp": "4.546",
           "vote_num_kp": "1636",
           "rating_imdb": "4.4",
-          "vote_num_imdb": "2120"
+          "vote_num_imdb": "2124"
         }
       }
     },
@@ -2240,10 +2623,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1108352.jpg",
         "screenshot": "https://black.bazonserver.site/video/26849/poster.jpg",
         "rating": {
-          "rating_kp": "7.151",
-          "vote_num_kp": "60008",
+          "rating_kp": "7.15",
+          "vote_num_kp": "60037",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "89051"
+          "vote_num_imdb": "89081"
         }
       }
     },
@@ -2315,7 +2698,7 @@
         "screenshot": "https://white.bazonserver.site/video/27674/poster.jpg",
         "rating": {
           "rating_kp": "7.095",
-          "vote_num_kp": "6977",
+          "vote_num_kp": "6991",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -2352,370 +2735,9 @@
         "screenshot": "https://dt2g.bazonserver.site/video/27671/poster.jpg",
         "rating": {
           "rating_kp": "6.459",
-          "vote_num_kp": "65515",
+          "vote_num_kp": "65563",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "108668"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1204229",
-      "date": "1611814511",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Точка Кипения",
-        "orig": "Simmer",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Nick Rush,Stefan van de Graaff",
-        "genre": "триллер",
-        "actors": "Marsuvio Sanchez,Ричард Кип,Элиана Суа,Eric Wood,Kelsie Elena,Jess DelVizo,Лоренцо Сильва,Lenni Uitto,Chris Eguizabal,Mikaela Kester",
-        "description": "Когда Шеф узнает, что его семью депортируют, если он не заплатит государственную пошлину, он обращается к своему боссу, который предлагает ему возможность заработать деньги в качестве водителя на черном рынке.",
-        "slogan": "",
-        "premiere": "1 февраля 2020",
-        "age": "0",
-        "time": "5760",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTVjMTRkYjItZGFmMC00MzliLTkyMmQtMjcwNTI5NjY0NzNjXkEyXkFqcGdeQXVyNjk4MDAzMDk@.jpg",
-        "screenshot": "https://i75t.bazonserver.site/video/27672/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "2",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "3203"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "983745",
-      "date": "1611800104",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "#лайк",
-        "orig": "#Like",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Sarah Pirozek",
-        "genre": "триллер",
-        "actors": "Марк Менчака,Джефф Уинкотт,Рамон Нуньес,Sarah Rich,Саманта Николь Данн,Patricia Pinto,Дакота Лустик,Liz Meinders,Jolene Marquez,Марин Газзанига",
-        "description": "Потеряв год назад свою сестру Амелию, Рози замечает, что человек, который довёл Амелию до суицида, вновь появился в сети в поисках новых жертв. После того, как полиция отмахнулась от её заявления, Рози решает взять правосудие в свои руки.",
-        "slogan": "The story of a girl who writes her own ending",
-        "premiere": "9 марта 2019",
-        "age": "0",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_983745.jpg",
-        "screenshot": "https://yq4u.bazonserver.site/video/27670/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "26",
-          "rating_imdb": "4.9",
-          "vote_num_imdb": "307"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "805650",
-      "date": "1611799642",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Чудо на Гудзоне",
-        "orig": "Sully",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Клинт Иствуд",
-        "genre": "драма",
-        "actors": "Том Хэнкс, Аарон Экхарт, Валери Махаффей, Делфи Хэррингтон, Майк О’Мэлли, Джейми Шеридан, Анна Ганн, Холт Маккэллани, Ахмед Хуссэйн, Лора Линни",
-        "description": "Произошедшее 15 января 2009 года назовут «Чудом на Гудзоне». В тот день капитан рейса 1549 Чесли Салленбергер совершил аварийную посадку самолета Airbus A320 на холодные воды реки Гудзон в Нью-Йорке. При этом никто из находившихся на борту 155 человек не пострадал. Но, несмотря на все почести со стороны общественности и СМИ, было начато расследование, которое угрожало профессиональной репутации и многолетней карьере капитана Салли.",
-        "slogan": "Правдивая история о чудесном спасении",
-        "premiere": "2 сентября 2016",
-        "age": "16",
-        "time": "5760",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_805650.jpg",
-        "screenshot": "https://white.bazonserver.site/video/27646/poster.jpg",
-        "rating": {
-          "rating_kp": "7.412",
-          "vote_num_kp": "101686",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "261974"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "667687",
-      "date": "1611797754",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Между нами горы",
-        "orig": "The Mountain Between Us",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Хани Абу-Ассад",
-        "genre": "боевик,триллер,мелодрама,драма,приключения",
-        "actors": "Идрис Эльба, Кейт Уинслет, Бо Бриджес, Дермот Малруни, Линда Соренсон, Винсент Гэйл, Марси Т. Хаус, Даня Нассар, Ли Мадждуб, Андрес Джозеф",
-        "description": "Бен и Алекс, уцелевшие после авиакатастрофы, должны найти общий язык, чтобы выжить в экстремальных условиях далеких заснеженных гор. Когда они понимают, что на помощь к ним никто не придет, они вынуждены отправиться в опасный путь длиной в сотни километров. В борьбе за жизнь между двумя еще вчера незнакомыми людьми неожиданно возникает притяжение.",
-        "slogan": "Что, если бы твоя жизнь зависела от незнакомца?",
-        "premiere": "9 сентября 2017",
-        "age": "16",
-        "time": "6720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_667687.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/27647/poster.jpg",
-        "rating": {
-          "rating_kp": "6.75",
-          "vote_num_kp": "60048",
-          "rating_imdb": "6.4",
-          "vote_num_imdb": "73633"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1272529",
-      "date": "1611794715",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Остерегайтесь собаки",
-        "orig": "Beware of Dog",
-        "alter": "",
-        "year": "2020",
-        "country": "Германия,Россия,США",
-        "director": "Надя Беджанова",
-        "genre": "драма",
-        "actors": "Buddy Duress,Кевин Исо,Паула Кнюплинг,Гладстон Махиб,Yelena Nesterova,Marina Prados,Emily Bahr-de Stefano,Павел Табаков,Марина Васильева,Eagle Witt",
-        "description": "Молодая девушка страдает тяжелым ОКР в неспокойной Москве. Её двоюродная сестра пытается построить романтические отношения в Берлине, игнорируя собственное состояние. В Нью-Йорке убитый горем боксер борется с зависимостью, низкой самооценкой и тревожностью, объединяющей всех героев фильма.",
-        "slogan": "",
-        "premiere": "25 января 2020",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYjE1YzVjZGItNmNiMS00YzM3LWFkODktNTY5OTA2NzNkMjUxXkEyXkFqcGdeQXVyMTAxNDExNzUy.jpg",
-        "screenshot": "https://yq4u.bazonserver.site/video/27669/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "41",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "114"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "197450",
-      "date": "1611791292",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Это – Англия",
-        "orig": "This Is England",
-        "alter": "Это - Англия",
-        "year": "2006",
-        "country": "Великобритания",
-        "director": "Шэйн Медоуз",
-        "genre": "драма,криминал",
-        "actors": "Томас Тургус, Стивен Грэм, Джозеф Гилган, Джо Хартли, Эндрю Шим, Вики МакКлюр, Розамунд Хэнсон, Эндрю Эллис, Перри Бенсон, Джордж Ньютон",
-        "description": "«Это - Англия» - история летних каникул, тянущихся не одну неделю между семестрами, когда могут происходить события, меняющие жизнь навсегда. На дворе 1983 год, и занятия в школе недавно закончились. 12-летний Шон - одинокий мальчишка, живущий в унылом прибрежном городке, отец которого несколько месяцев назад погиб в Фолклендской войне.\r\n\r\nВо время летних каникул Шон находит подходящий образец для подражания, когда компания местных скинхедов-подростков принимает его. Со своими новыми друзьями он открывает мир вечеринок, первой любви и стильной обуви. Здесь Шон встречает Комбо, более старшего, чем все они, скинхеда-расиста, только недавно вышедшего из тюрьмы. Пока группа под началом Комбо проводит время издеваясь над местными представителями этнических меньшинств, приближается обряд посвящения Шона, который будет означать для него прощание с детской чистотой и невинностью и незабываемый жизненный опыт.",
-        "slogan": "Run with the crowd, stand alone, you decide",
-        "premiere": "12 сентября 2006",
-        "age": "16",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_197450.jpg",
-        "screenshot": "https://yq4u.bazonserver.site/video/27668/poster.jpg",
-        "rating": {
-          "rating_kp": "7.541",
-          "vote_num_kp": "31490",
-          "rating_imdb": "7.7",
-          "vote_num_imdb": "120680"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "922022",
-      "date": "1611782180",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "720",
-      "info": {
-        "rus": "Случайно беременна",
-        "orig": "Joséphine s'arrondit",
-        "alter": "",
-        "year": "2015",
-        "country": "Франция",
-        "director": "Марилу Берри",
-        "genre": "комедия",
-        "actors": "Марилу Берри, Мехди Неббу, Меди Садун, Сара Суко, Ванесса Гуид, Сирил Гуи, Жозиан Баласко, Патрик Брауде, Виктория Абриль, Каролин Англад",
-        "description": "Продолжение приключений Жозефины и ее идеального мужчины продолжаются. По сюжету после событий первой части прошло два года. У пары все хорошо, но неожиданно героиня узнает, что они скоро станут родителями. Приоритеты на ближайшее время меняются: нужно не стать как ее мать, сохранить своего мужчину и стать, наконец, взрослой ответственной женщиной.",
-        "slogan": "",
-        "premiere": "15 января 2016",
-        "age": "16",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_922022.jpg",
-        "screenshot": "https://yq4u.bazonserver.site/video/27667/poster.jpg",
-        "rating": {
-          "rating_kp": "5.539",
-          "vote_num_kp": "3135",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "712"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "963767",
-      "date": "1611782101",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "HDTVRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Как найти мужа",
-        "orig": "Dater's Handbook",
-        "alter": "",
-        "year": "2016",
-        "country": "Канада",
-        "director": "Джеймс Хэд",
-        "genre": "комедия,мелодрама,драма",
-        "actors": "Меган Маркл, Кристоффер Полаха, Джонатан Скарф, Линда Бойд, Кристин Шателейн, Адам Рейд, Терил Ротери, Вилли Эймс, Винни Хун, Зенон Браун",
-        "description": "Однажды Кассандра понимает, что все проблемы в её личной жизни из-за того, что она выбирает неправильных парней. Она обращается за советом к популярной книге эксперта по взаимоотношениям-доктору Сьюзи, где подробно расписано как должен и не должен вести себя потенциальный жених. Вот здесь и возникает дилемма: кто лучше - надёжный Джордж или забавный Роберт.",
-        "slogan": "",
-        "premiere": "30 января 2016",
-        "age": "0",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_963767.jpg",
-        "screenshot": "https://yq4u.bazonserver.site/video/27666/poster.jpg",
-        "rating": {
-          "rating_kp": "5.682",
-          "vote_num_kp": "405",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "2209"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "965885",
-      "date": "1611782003",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "trailer": "0",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "NewStudio",
-      "max_qual": "1080",
-      "last_season": "1",
-      "last_episode": "22",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080,
-          "14": 1080,
-          "15": 1080,
-          "16": 1080,
-          "17": 720,
-          "18": 1080,
-          "19": 1080,
-          "20": 1080,
-          "21": 1080,
-          "22": 1080
-        }
-      },
-      "info": {
-        "rus": "В четырех стенах ",
-        "orig": "The Great Indoors",
-        "alter": "",
-        "year": "2016",
-        "country": "США",
-        "director": "Энди Экерман",
-        "genre": "комедия",
-        "actors": "Джоэл МакХэйл, Крис Уильямс, Кристофер Минц-Плассе, Сюзанна Филдинг, Кристин Ко, Шон Браун, Дебора Бэйкер мл., Стивен Фрай, Маркус Линдси, Jessica Davis",
-        "description": "Объездивший весь свет репортер из-за перенесенной травмы вынужден сидеть в заточении на офисной работе в диджитал отделе популярного журнала в окружении продвинутых подростков.",
-        "slogan": "",
-        "premiere": "27 октября 2016",
-        "age": "0",
-        "time": "1800",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_965885.jpg",
-        "screenshot": "https://black.bazonserver.site/video/27665/poster.jpg",
-        "rating": {
-          "rating_kp": "6.187",
-          "vote_num_kp": "502",
-          "rating_imdb": "6.3",
-          "vote_num_imdb": "3322"
+          "vote_num_imdb": "108691"
         }
       }
     }
