@@ -2,6 +2,299 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "43282",
+      "date": "1604056850",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Оригинал",
+      "max_qual": "480",
+      "info": {
+        "rus": "Про бегемота, который боялся прививок",
+        "orig": "Про бегемота, который боялся прививок",
+        "alter": "",
+        "year": "1966",
+        "country": "СССР",
+        "director": "Леонид Амальрик",
+        "genre": "мультфильм,короткометражка,детский",
+        "actors": "Михаил Яншин, Георгий Милляр, Григорий Шпигель, Елена Понсова, Георгий Вицин",
+        "description": "Очень смешно, когда большой и сильный Бегемот боится обыкновенного укола.",
+        "slogan": "",
+        "premiere": "",
+        "age": "6",
+        "time": "1020",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_43282.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24402/poster.jpg",
+        "rating": {
+          "rating_kp": "7.538",
+          "vote_num_kp": "23449",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "178"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "471870",
+      "date": "1604056720",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "65",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 1080,
+          "16": 1080,
+          "17": 1080,
+          "18": 1080,
+          "19": 1080,
+          "20": 1080,
+          "21": 1080,
+          "22": 1080,
+          "23": 1080,
+          "24": 1080,
+          "25": 1080,
+          "26": 1080,
+          "27": 1080,
+          "28": 1080,
+          "29": 1080,
+          "30": 1080,
+          "31": 1080,
+          "32": 1080,
+          "33": 1080,
+          "34": 1080,
+          "35": 1080,
+          "36": 1080,
+          "37": 1080,
+          "38": 1080,
+          "39": 1080,
+          "40": 1080,
+          "41": 1080,
+          "42": 1080,
+          "43": 1080,
+          "44": 1080,
+          "45": 1080,
+          "46": 1080,
+          "47": 1080,
+          "48": 1080,
+          "49": 1080,
+          "50": 1080,
+          "51": 1080,
+          "52": 1080,
+          "53": 1080,
+          "54": 1080,
+          "55": 1080,
+          "56": 1080,
+          "57": 1080,
+          "58": 1080,
+          "59": 1080,
+          "60": 1080,
+          "61": 1080,
+          "62": 1080,
+          "63": 1080,
+          "64": 1080,
+          "65": 1080
+        }
+      },
+      "info": {
+        "rus": "101 далматинец",
+        "orig": "101 Dalmatians: The Series",
+        "alter": "",
+        "year": "1997",
+        "country": "США",
+        "director": "Виктор Кук, Кен Бойер, Скип Джонс",
+        "genre": "комедия,семейный,мультфильм",
+        "actors": "Кэт Суси, Тара Стронг, Джефф Беннетт, Фрэнк Уэлкер, Эйприл Уинчелл, Деби Мэй Уэст, Шарлотта Рэй, Памела Адлон, Джим Каммингс, Кри Саммер",
+        "description": "Продолжение приключений дaлмaтинцeв нa фeрмe. Теперь нашими героями будут щенки Лакки, Ролли, Кнопка и цыпленок Квока. На протяжении всего сериала они будут попадать в разные смешные и опасные ситуации, но всегда будут стараться поддержать друг-друга.",
+        "slogan": "The battle between good and evil...has gone to the dogs",
+        "premiere": "2 января 2000",
+        "age": "6",
+        "time": "1320",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_471870.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24401/poster.jpg",
+        "rating": {
+          "rating_kp": "6.037",
+          "vote_num_kp": "7285",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "1545"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1298770",
+      "date": "1604056329",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "С. О. С.",
+        "orig": "S.O.S. Survive or Sacrifice",
+        "alter": "",
+        "year": "2020",
+        "country": "Кипр",
+        "director": "Роман Доронин",
+        "genre": "триллер,приключения",
+        "actors": "Уильям Болдуин,Лорис Курчи,Кристофер Греко,Джаннин Каспар,Kseniya Pinch,Зэк Роуз,Marianna Rosset,Diljohn Singh,Кристал Уэб",
+        "description": "Две сестры, живущие на разных континентах, встречаются на острове в Средиземном море. Но вместо того, чтобы уделить время младшей сестре, Кейт знакомится с кучкой местных жителей и соглашается на захватывающую поездку на воздушном шаре. Внезапно, случается катастрофа, в результате которой воздушный шар уносит далеко в море. Вне досягаемости внешнего мира, Кейт и ее новоиспеченным друзьям предстоит бороться за свою жизнь.",
+        "slogan": "",
+        "premiere": "28 октября 2020",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDJkNDM5NzQtYTc2Ny00MTllLWE1NzQtOGMwZTJlMjRmYjhjXkEyXkFqcGdeQXVyMTE4NTI5NTA@.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24398/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "27",
+          "rating_imdb": "3.2",
+          "vote_num_imdb": "165"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "568550",
+      "date": "1604040499",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Белоснежка и охотник",
+        "orig": "Snow White and the Huntsman",
+        "alter": "",
+        "year": "2012",
+        "country": "США",
+        "director": "Руперт Сандерс",
+        "genre": "боевик,фэнтези,драма,приключения",
+        "actors": "Кристен Стюарт, Крис Хемсворт, Шарлиз Терон, Сэм Клафлин, Сэм Спруэлл, Иэн Макшейн, Боб Хоскинс, Рэй Уинстон, Ник Фрост, Эдди Марсан",
+        "description": "Тьма приближается. Она прячется в лесах, спускается с гор, застилает небо. Никто не укроется от магического зеркала Королевы, живущей в неприступном замке, охраняемом бесчисленной армией. Но над Белоснежкой злые чары не властны. И тогда Королева отправляет Охотника, чтобы он принес ей сердце соперницы. Но очарованный Белоснежкой, он встает на ее сторону. Грядет великая битва. Лишь одна будет править.",
+        "slogan": "Лишь одна будет править",
+        "premiere": "14 мая 2012",
+        "age": "12",
+        "time": "7620",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_568550.jpg",
+        "screenshot": "https://yq4u.bazonserver.site/video/24395/poster.jpg",
+        "rating": {
+          "rating_kp": "6.045",
+          "vote_num_kp": "105429",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "284910"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1283744",
+      "date": "1604037364",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "4K WEB-DL",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Руководство для нянь: Как поймать монстра",
+        "orig": "A Babysitter's Guide to Monster Hunting",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Рейчел Тэлалей",
+        "genre": "фэнтези,комедия,семейный",
+        "actors": "Тамара Смарт,Уна Лоуренс,Том Фелтон,Трой Ли-Энн Джонсон,Lynn Masako Cheng,Тай Консильо,Иэн Хо,Индия Мур,Алессио Скальцотто,Тамсен МакДонаф",
+        "description": "Первокурсница средней школы Келли Фергюсон неохотно соглашается присмотреть за мальчиком Джейкобом Зеллманом на Хэллоуин. Последнее, чего она ожидает - это быть завербованным в международное тайное общество нянек, которые защищают детей от монстров.",
+        "slogan": "",
+        "premiere": "15 октября 2020",
+        "age": "0",
+        "time": "5760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1283744.jpg",
+        "screenshot": "https://pluton.bazonserver.site/video/24394/poster.jpg",
+        "rating": {
+          "rating_kp": "5.59",
+          "vote_num_kp": "3110",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "4002"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1181127",
+      "date": "1604016901",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мои волосы хотят убивать",
+        "orig": "Bad Hair",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Джастин Симиен",
+        "genre": "ужасы,комедия",
+        "actors": "Эль Лоррэйн,Ванесса Уильямс,Джей Фэро,Лина Уэйте,Блэр Андервуд,Лаверн Кокс,Мишель Херд,Джудит Скотт,Робин Тиди,Эшли Блейн Физерсон",
+        "description": "Юность и амбиции – взрывное сочетание, обязательное для успешной карьеры на телевидении. Живой пример – Анна. Неудачная химия могла бы поставить крест на её попытках стать звездой музыкального телешоу, но, решившись на искусственное наращивание, девушка вновь обретает уверенность в себе и все шансы стать популярной. Впрочем, новая причёска всё же внесёт коррективы в её планы. Выяснится, что волосы – живые, и они хотят убивать…",
+        "slogan": "Страх пускает корни",
+        "premiere": "23 января 2020",
+        "age": "18",
+        "time": "6900",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1181127.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24397/poster.jpg",
+        "rating": {
+          "rating_kp": "5.137",
+          "vote_num_kp": "1507",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "3468"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1027427",
       "date": "1604012401",
       "camrip": "0",
@@ -31,7 +324,7 @@
         "screenshot": "https://brother.bazonserver.site/video/24396/poster.jpg",
         "rating": {
           "rating_kp": "5.267",
-          "vote_num_kp": "1551",
+          "vote_num_kp": "1557",
           "rating_imdb": "3.9",
           "vote_num_imdb": "352"
         }
@@ -67,8 +360,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44838.jpg",
         "screenshot": "https://white.bazonserver.site/video/24393/poster.jpg",
         "rating": {
-          "rating_kp": "8.013",
-          "vote_num_kp": "19971",
+          "rating_kp": "8.014",
+          "vote_num_kp": "19978",
           "rating_imdb": "7.7",
           "vote_num_imdb": "696"
         }
@@ -343,7 +636,7 @@
         "screenshot": "https://white.bazonserver.site/video/24385/poster.jpg",
         "rating": {
           "rating_kp": "7.119",
-          "vote_num_kp": "12820",
+          "vote_num_kp": "12889",
           "rating_imdb": "7.4",
           "vote_num_imdb": "29073"
         }
@@ -380,7 +673,7 @@
         "screenshot": "https://white.bazonserver.site/video/24384/poster.jpg",
         "rating": {
           "rating_kp": "6.473",
-          "vote_num_kp": "3883",
+          "vote_num_kp": "3893",
           "rating_imdb": "6.6",
           "vote_num_imdb": "9749"
         }
@@ -417,7 +710,7 @@
         "screenshot": "https://white.bazonserver.site/video/24383/poster.jpg",
         "rating": {
           "rating_kp": "6.997",
-          "vote_num_kp": "1576",
+          "vote_num_kp": "1577",
           "rating_imdb": "6",
           "vote_num_imdb": "2456"
         }
@@ -454,9 +747,9 @@
         "screenshot": "https://white.bazonserver.site/video/24382/poster.jpg",
         "rating": {
           "rating_kp": "6.101",
-          "vote_num_kp": "18659",
+          "vote_num_kp": "18702",
           "rating_imdb": "4.9",
-          "vote_num_imdb": "33562"
+          "vote_num_imdb": "33572"
         }
       }
     },
@@ -565,7 +858,7 @@
         "screenshot": "https://white.bazonserver.site/video/24379/poster.jpg",
         "rating": {
           "rating_kp": "7.299",
-          "vote_num_kp": "8786",
+          "vote_num_kp": "8791",
           "rating_imdb": "7.4",
           "vote_num_imdb": "51003"
         }
@@ -602,7 +895,7 @@
         "screenshot": "https://white.bazonserver.site/video/24377/poster.jpg",
         "rating": {
           "rating_kp": "6.685",
-          "vote_num_kp": "5998",
+          "vote_num_kp": "6005",
           "rating_imdb": "6.9",
           "vote_num_imdb": "14400"
         }
@@ -765,10 +1058,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1044279.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/17493/poster.jpg",
         "rating": {
-          "rating_kp": "7.978",
-          "vote_num_kp": "46723",
+          "rating_kp": "7.977",
+          "vote_num_kp": "46782",
           "rating_imdb": "8.6",
-          "vote_num_imdb": "223061"
+          "vote_num_imdb": "223355"
         }
       }
     },
@@ -846,9 +1139,9 @@
         "screenshot": "https://banana.bazonserver.site/video/18850/poster.jpg",
         "rating": {
           "rating_kp": "7.111",
-          "vote_num_kp": "14406",
+          "vote_num_kp": "14436",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "39290"
+          "vote_num_imdb": "39304"
         }
       }
     },
@@ -958,7 +1251,7 @@
         "screenshot": "https://white.bazonserver.site/video/24367/poster.jpg",
         "rating": {
           "rating_kp": "6.986",
-          "vote_num_kp": "3613",
+          "vote_num_kp": "3617",
           "rating_imdb": "6.7",
           "vote_num_imdb": "7681"
         }
@@ -1030,8 +1323,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1314474.jpg",
         "screenshot": "https://white.bazonserver.site/video/24198/poster.jpg",
         "rating": {
-          "rating_kp": "7.521",
-          "vote_num_kp": "1427",
+          "rating_kp": "7.517",
+          "vote_num_kp": "1430",
           "rating_imdb": "7.8",
           "vote_num_imdb": "2521"
         }
@@ -1114,8 +1407,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1207341.jpg",
         "screenshot": "https://banana.bazonserver.site/video/24366/poster.jpg",
         "rating": {
-          "rating_kp": "6.321",
-          "vote_num_kp": "9661",
+          "rating_kp": "6.314",
+          "vote_num_kp": "9691",
           "rating_imdb": "4.8",
           "vote_num_imdb": "420"
         }
@@ -1784,228 +2077,6 @@
           "vote_num_kp": "21",
           "rating_imdb": "3.9",
           "vote_num_imdb": "316"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1107105",
-      "date": "1603881018",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Схизма",
-        "orig": "Schism",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Майкл Сторч",
-        "genre": "ужасы",
-        "actors": "Hogan Mason,Роберт Шустер,Elaine Marie,Трой Кох,Nathaniel E. Barr,Симона Чарло,Mark S. Esch,Bindi Ftg,Rudy Jimenez,Karen McKenna",
-        "description": "Пытаясь докопаться до причин трагической гибели своей матери, Кристофер оказывается под прицелом сатанистского культа и начинает потихоньку сходить с ума под действием потусторонних сил.",
-        "slogan": "",
-        "premiere": "24 октября 2020",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZTkyOTMwZTAtYzhjYi00Nzc2LTkyMDAtYTQ2YzU1YzdmYjU0XkEyXkFqcGdeQXVyMjg4MjkyMzQ@._V1_FMjpg_UY853_.jpg",
-        "screenshot": "https://white.bazonserver.site/video/24308/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "5.1",
-          "vote_num_imdb": "38"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1241651",
-      "date": "1603872011",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Возвращение",
-        "orig": "Powrót",
-        "alter": "",
-        "year": "2019",
-        "country": "Польша",
-        "director": "Магдалена Лазаркевич",
-        "genre": "драма",
-        "actors": "Сандра Дрымальска,Агнешка Вархульска,Катажина Херман,Miroslaw Kropielnicki,Томаш Собчак,Stanislaw Cywka,Dawid Rostkowski,Бартош Гельнер,Ewa Jakubowicz,Алена Зостак",
-        "description": "Набожная польская семья уже и не надеяласась увидеть на пороге своего дома пропавшую дочь Улю, ступившую несколько лет назад на скользкий путь. Родственники с недоверием и неохотой принимают её возвращение, пытаясь узнать правду.",
-        "slogan": "",
-        "premiere": "5 апреля 2019",
-        "age": "0",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1241651.jpg",
-        "screenshot": "https://white.bazonserver.site/video/24306/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "15",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "86"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "45446",
-      "date": "1603845249",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Чебурашка",
-        "orig": "Чебурашка",
-        "alter": "",
-        "year": "1972",
-        "country": "СССР",
-        "director": "Роман Качанов",
-        "genre": "мультфильм,короткометражка,семейный",
-        "actors": "Тамара Дмитриева,Василий Ливанов,Клара Румянова,Владимир Ферапонтов",
-        "description": "Приключения доброго крокодила Гены и его друга Чебурашки &#151; неизвестного науке зверя, но зато доброго и милого.",
-        "slogan": "",
-        "premiere": "25 февраля 1978",
-        "age": "0",
-        "time": "1140",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45446.jpg",
-        "screenshot": "https://white.bazonserver.site/video/24325/poster.jpg",
-        "rating": {
-          "rating_kp": "8.07",
-          "vote_num_kp": "57232",
-          "rating_imdb": "7.9",
-          "vote_num_imdb": "2343"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "258016",
-      "date": "1603843725",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Варежка",
-        "orig": "Варежка",
-        "alter": "",
-        "year": "1967",
-        "country": "СССР",
-        "director": "Роман Качанов",
-        "genre": "мультфильм,короткометражка",
-        "actors": "-",
-        "description": "О девочке, которой мама не позволяла иметь собаку. И тогда красная шерстяная варежка обратилась в умного веселого щенка, с которым девочка дружила и играла.",
-        "slogan": "",
-        "premiere": "",
-        "age": "6",
-        "time": "600",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258016.jpg",
-        "screenshot": "https://white.bazonserver.site/video/24324/poster.jpg",
-        "rating": {
-          "rating_kp": "8.076",
-          "vote_num_kp": "18308",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "519"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "256093",
-      "date": "1603843401",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Топтыжка",
-        "orig": "Топтыжка",
-        "alter": "",
-        "year": "1964",
-        "country": "СССР",
-        "director": "Фёдор Хитрук",
-        "genre": "мультфильм,короткометражка",
-        "actors": "Елена Понсова",
-        "description": "Сказка о маленьком медвежонке, подружившемся с зайчишкой. В фильме использованы рисунки художника Чарушина.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "540",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_256093.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/24330/poster.jpg",
-        "rating": {
-          "rating_kp": "7.248",
-          "vote_num_kp": "4681",
-          "rating_imdb": "6.8",
-          "vote_num_imdb": "128"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "45780",
-      "date": "1603842927",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Оригинал",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Винни Пух и день забот",
-        "orig": "Винни Пух и день забот",
-        "alter": "Винни-Пух и день забот",
-        "year": "1972",
-        "country": "СССР",
-        "director": "Фёдор Хитрук,Геннадий Сокольский",
-        "genre": "мультфильм,короткометражка,семейный",
-        "actors": "Владимир Осенев,Евгений Леонов,Ия Саввина,Эраст Гарин,Зинаида Нарышкина",
-        "description": "У ослика Иа день рождения, о котором все забыли. Но друзья есть и они собираются дарить подарки.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "1200",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_45780.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/24329/poster.jpg",
-        "rating": {
-          "rating_kp": "8.698",
-          "vote_num_kp": "74934",
-          "rating_imdb": "8.2",
-          "vote_num_imdb": "3032"
         }
       }
     }
