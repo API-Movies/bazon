@@ -2,6 +2,80 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "279596",
+      "date": "1598273188",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Ананасовый экспресс: Сижу, курю",
+        "orig": "Pineapple Express",
+        "alter": "",
+        "year": "2008",
+        "country": "США",
+        "director": "Дэвид Гордон Грин",
+        "genre": "комедия,боевик,криминал",
+        "actors": "Сет Роген, Джеймс Франко, Дэнни МакБрайд, Кевин Корригэн, Крэйг Робинсон, Гэри Коул, Рози Перес, Эд Бегли мл., Нора Данн, Эмбер Хёрд",
+        "description": "Раздолбай и любитель травки случайно становится свидетелем убийства и, прихватив своего дружка, такого же лузера, как он, пытается свалить из города, спасаясь от Плохих Парней. Дело пахнет керосином, ведь мафия решила заставить приятелей замолчать навсегда.",
+        "slogan": "Put this in your pipe and smoke it",
+        "premiere": "6 августа 2008",
+        "age": "18",
+        "time": "6840",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_279596.jpg",
+        "screenshot": "https://yq4u.bazonserver.site/video/21782/poster.jpg",
+        "rating": {
+          "rating_kp": "6.708",
+          "vote_num_kp": "59398",
+          "rating_imdb": "6.9",
+          "vote_num_imdb": "332240"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "652692",
+      "date": "1598273188",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Разлом Сан-Андреас",
+        "orig": "San Andreas",
+        "alter": "",
+        "year": "2015",
+        "country": "США",
+        "director": "Брэд Пейтон",
+        "genre": "боевик,триллер,драма,приключения",
+        "actors": "Дуэйн Джонсон, Карла Гуджино, Александра Даддарио, Йоан Гриффит, Арчи Панджаби, Пол Джаматти, Хьюго Джонстон-Барт, Арт Паркинсон, Уилл Юн Ли, Кайли Миноуг",
+        "description": "Рэй - пилот спасательного вертолета, который всю свою жизнь помогал другим людям. За все время работы он насмотрелся на множество жутких вещей и не раз оказывался в очень сложных ситуациях. Несмотря на все преграды он спешил на помощь, даже не предполагая, что самое страшное ждет его впереди.\r\n\r\nНа Калифорнию обрушивается мощное землетрясение, в результате которого гибнут сотни людей и образовывается огромная трещина в земле. Во всеобщем хаосе Рэю предстоит отыскать свою дочь, но сделать это будет очень непросто. В надежде, что его ребенок все еще жив, он отправляется в смертельно опасное путешествие через весь штат...",
+        "slogan": "Ever have one of THOSE days...? Pray you don't",
+        "premiere": "21 мая 2015",
+        "age": "12",
+        "time": "6840",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_652692.jpg",
+        "screenshot": "https://b75y.bazonserver.site/video/21783/poster.jpg",
+        "rating": {
+          "rating_kp": "6.209",
+          "vote_num_kp": "98387",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "230723"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "448",
       "date": "1598273188",
       "camrip": "0",
@@ -31,9 +105,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21786/poster.jpg",
         "rating": {
           "rating_kp": "8.909",
-          "vote_num_kp": "686685",
+          "vote_num_kp": "686990",
           "rating_imdb": "8.8",
-          "vote_num_imdb": "1975595"
+          "vote_num_imdb": "1975884"
         }
       }
     },
@@ -68,7 +142,7 @@
         "screenshot": "https://plotva.bazonserver.site/video/21773/poster.jpg",
         "rating": {
           "rating_kp": "6.032",
-          "vote_num_kp": "2801",
+          "vote_num_kp": "2802",
           "rating_imdb": "6.1",
           "vote_num_imdb": "19266"
         }
@@ -104,8 +178,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_815927.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/21772/poster.jpg",
         "rating": {
-          "rating_kp": "6.907",
-          "vote_num_kp": "1634",
+          "rating_kp": "6.905",
+          "vote_num_kp": "1636",
           "rating_imdb": "6.5",
           "vote_num_imdb": "3582"
         }
@@ -179,9 +253,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21752/poster.jpg",
         "rating": {
           "rating_kp": "7.22",
-          "vote_num_kp": "226246",
+          "vote_num_kp": "226324",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "353737"
+          "vote_num_imdb": "353774"
         }
       }
     },
@@ -216,9 +290,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21754/poster.jpg",
         "rating": {
           "rating_kp": "7.984",
-          "vote_num_kp": "327536",
+          "vote_num_kp": "327661",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "550088"
+          "vote_num_imdb": "550150"
         }
       }
     },
@@ -252,8 +326,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_917496.jpg",
         "screenshot": "https://black.bazonserver.site/video/21755/poster.jpg",
         "rating": {
-          "rating_kp": "5.79",
-          "vote_num_kp": "7186",
+          "rating_kp": "5.791",
+          "vote_num_kp": "7187",
           "rating_imdb": "5.7",
           "vote_num_imdb": "45062"
         }
@@ -290,7 +364,7 @@
         "screenshot": "https://t6hu.bazonserver.site/video/21756/poster.jpg",
         "rating": {
           "rating_kp": "5.985",
-          "vote_num_kp": "99694",
+          "vote_num_kp": "99716",
           "rating_imdb": "6.5",
           "vote_num_imdb": "309288"
         }
@@ -327,9 +401,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/21757/poster.jpg",
         "rating": {
           "rating_kp": "6.499",
-          "vote_num_kp": "123143",
+          "vote_num_kp": "123169",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "250975"
+          "vote_num_imdb": "250991"
         }
       }
     },
@@ -364,9 +438,9 @@
         "screenshot": "https://banana.bazonserver.site/video/21758/poster.jpg",
         "rating": {
           "rating_kp": "7.634",
-          "vote_num_kp": "172457",
+          "vote_num_kp": "172518",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "477768"
+          "vote_num_imdb": "477788"
         }
       }
     },
@@ -401,9 +475,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21759/poster.jpg",
         "rating": {
           "rating_kp": "7.748",
-          "vote_num_kp": "175847",
+          "vote_num_kp": "175894",
           "rating_imdb": "8",
-          "vote_num_imdb": "596203"
+          "vote_num_imdb": "596220"
         }
       }
     },
@@ -475,9 +549,9 @@
         "screenshot": "https://white.bazonserver.site/video/21765/poster.jpg",
         "rating": {
           "rating_kp": "7.157",
-          "vote_num_kp": "107650",
+          "vote_num_kp": "107662",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "412095"
+          "vote_num_imdb": "412181"
         }
       }
     },
@@ -511,10 +585,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_462360.jpg",
         "screenshot": "https://yq4u.bazonserver.site/video/21766/poster.jpg",
         "rating": {
-          "rating_kp": "7.515",
-          "vote_num_kp": "518568",
+          "rating_kp": "7.516",
+          "vote_num_kp": "518784",
           "rating_imdb": "8",
-          "vote_num_imdb": "985615"
+          "vote_num_imdb": "985785"
         }
       }
     },
@@ -549,9 +623,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21769/poster.jpg",
         "rating": {
           "rating_kp": "7.106",
-          "vote_num_kp": "112260",
+          "vote_num_kp": "112328",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "164672"
+          "vote_num_imdb": "164690"
         }
       }
     },
@@ -586,9 +660,9 @@
         "screenshot": "https://banana.bazonserver.site/video/21736/poster.jpg",
         "rating": {
           "rating_kp": "7.705",
-          "vote_num_kp": "218055",
+          "vote_num_kp": "218124",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "245236"
+          "vote_num_imdb": "245256"
         }
       }
     },
@@ -660,9 +734,9 @@
         "screenshot": "https://black.bazonserver.site/video/21738/poster.jpg",
         "rating": {
           "rating_kp": "6.144",
-          "vote_num_kp": "133296",
+          "vote_num_kp": "133383",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "241626"
+          "vote_num_imdb": "241650"
         }
       }
     },
@@ -734,9 +808,9 @@
         "screenshot": "https://black.bazonserver.site/video/21741/poster.jpg",
         "rating": {
           "rating_kp": "6.805",
-          "vote_num_kp": "248152",
+          "vote_num_kp": "248301",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "450065"
+          "vote_num_imdb": "450123"
         }
       }
     },
@@ -771,7 +845,7 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21742/poster.jpg",
         "rating": {
           "rating_kp": "6.043",
-          "vote_num_kp": "20093",
+          "vote_num_kp": "20096",
           "rating_imdb": "5.4",
           "vote_num_imdb": "65931"
         }
@@ -845,9 +919,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/21744/poster.jpg",
         "rating": {
           "rating_kp": "6.907",
-          "vote_num_kp": "266389",
+          "vote_num_kp": "266541",
           "rating_imdb": "7",
-          "vote_num_imdb": "631816"
+          "vote_num_imdb": "631969"
         }
       }
     },
@@ -919,7 +993,7 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21747/poster.jpg",
         "rating": {
           "rating_kp": "6.561",
-          "vote_num_kp": "27644",
+          "vote_num_kp": "27646",
           "rating_imdb": "6.5",
           "vote_num_imdb": "113149"
         }
@@ -993,9 +1067,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21750/poster.jpg",
         "rating": {
           "rating_kp": "6.739",
-          "vote_num_kp": "144673",
+          "vote_num_kp": "144690",
           "rating_imdb": "6",
-          "vote_num_imdb": "237295"
+          "vote_num_imdb": "237311"
         }
       }
     },
@@ -1030,9 +1104,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21734/poster.jpg",
         "rating": {
           "rating_kp": "6.633",
-          "vote_num_kp": "113663",
+          "vote_num_kp": "113718",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "235938"
+          "vote_num_imdb": "235960"
         }
       }
     },
@@ -1067,7 +1141,7 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21735/poster.jpg",
         "rating": {
           "rating_kp": "7.373",
-          "vote_num_kp": "36405",
+          "vote_num_kp": "36426",
           "rating_imdb": "7.9",
           "vote_num_imdb": "264435"
         }
@@ -1104,9 +1178,9 @@
         "screenshot": "https://black.bazonserver.site/video/21723/poster.jpg",
         "rating": {
           "rating_kp": "6.689",
-          "vote_num_kp": "211477",
+          "vote_num_kp": "211549",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "477251"
+          "vote_num_imdb": "477362"
         }
       }
     },
@@ -1141,9 +1215,9 @@
         "screenshot": "https://dt2g.bazonserver.site/video/21724/poster.jpg",
         "rating": {
           "rating_kp": "7.085",
-          "vote_num_kp": "261987",
+          "vote_num_kp": "262199",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "566769"
+          "vote_num_imdb": "566900"
         }
       }
     },
@@ -1178,9 +1252,9 @@
         "screenshot": "https://white.bazonserver.site/video/21725/poster.jpg",
         "rating": {
           "rating_kp": "7.451",
-          "vote_num_kp": "133990",
+          "vote_num_kp": "134021",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "287696"
+          "vote_num_imdb": "287722"
         }
       }
     },
@@ -1215,9 +1289,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21727/poster.jpg",
         "rating": {
           "rating_kp": "5.715",
-          "vote_num_kp": "66630",
+          "vote_num_kp": "66648",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "178680"
+          "vote_num_imdb": "178707"
         }
       }
     },
@@ -1252,9 +1326,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21728/poster.jpg",
         "rating": {
           "rating_kp": "5.636",
-          "vote_num_kp": "82567",
+          "vote_num_kp": "82590",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "89721"
+          "vote_num_imdb": "89727"
         }
       }
     },
@@ -1289,9 +1363,9 @@
         "screenshot": "https://banana.bazonserver.site/video/21730/poster.jpg",
         "rating": {
           "rating_kp": "7.834",
-          "vote_num_kp": "130588",
+          "vote_num_kp": "130681",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "787877"
+          "vote_num_imdb": "788027"
         }
       }
     },
@@ -1325,10 +1399,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_819101.jpg",
         "screenshot": "https://pluton.bazonserver.site/video/21731/poster.jpg",
         "rating": {
-          "rating_kp": "7.944",
-          "vote_num_kp": "459528",
+          "rating_kp": "7.945",
+          "vote_num_kp": "459574",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "572596"
+          "vote_num_imdb": "572681"
         }
       }
     },
@@ -1362,10 +1436,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_714187.jpg",
         "screenshot": "https://i75t.bazonserver.site/video/21732/poster.jpg",
         "rating": {
-          "rating_kp": "5.159",
-          "vote_num_kp": "8714",
+          "rating_kp": "5.158",
+          "vote_num_kp": "8742",
           "rating_imdb": "4.8",
-          "vote_num_imdb": "48126"
+          "vote_num_imdb": "48133"
         }
       }
     },
@@ -1400,7 +1474,7 @@
         "screenshot": "https://plotva.bazonserver.site/video/21721/poster.jpg",
         "rating": {
           "rating_kp": "6.384",
-          "vote_num_kp": "17375",
+          "vote_num_kp": "17380",
           "rating_imdb": "6.5",
           "vote_num_imdb": "191816"
         }
@@ -1437,9 +1511,9 @@
         "screenshot": "https://pluton.bazonserver.site/video/21702/poster.jpg",
         "rating": {
           "rating_kp": "7.943",
-          "vote_num_kp": "384265",
+          "vote_num_kp": "384337",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "522144"
+          "vote_num_imdb": "522235"
         }
       }
     },
@@ -1511,9 +1585,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21705/poster.jpg",
         "rating": {
           "rating_kp": "7.959",
-          "vote_num_kp": "144210",
+          "vote_num_kp": "144224",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "401762"
+          "vote_num_imdb": "401801"
         }
       }
     },
@@ -1548,9 +1622,9 @@
         "screenshot": "https://pluton.bazonserver.site/video/21706/poster.jpg",
         "rating": {
           "rating_kp": "7.356",
-          "vote_num_kp": "168308",
+          "vote_num_kp": "168386",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "467494"
+          "vote_num_imdb": "467565"
         }
       }
     },
@@ -1585,9 +1659,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21707/poster.jpg",
         "rating": {
           "rating_kp": "7.558",
-          "vote_num_kp": "66314",
+          "vote_num_kp": "66317",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "201721"
+          "vote_num_imdb": "201763"
         }
       }
     },
@@ -1659,9 +1733,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21709/poster.jpg",
         "rating": {
           "rating_kp": "7.549",
-          "vote_num_kp": "89761",
+          "vote_num_kp": "89778",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "447651"
+          "vote_num_imdb": "447692"
         }
       }
     },
@@ -1696,7 +1770,7 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21710/poster.jpg",
         "rating": {
           "rating_kp": "6.347",
-          "vote_num_kp": "1016",
+          "vote_num_kp": "1017",
           "rating_imdb": "6.1",
           "vote_num_imdb": "2018"
         }
@@ -1733,9 +1807,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/21712/poster.jpg",
         "rating": {
           "rating_kp": "7.819",
-          "vote_num_kp": "333532",
+          "vote_num_kp": "333601",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "959406"
+          "vote_num_imdb": "959562"
         }
       }
     },
@@ -1770,83 +1844,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21715/poster.jpg",
         "rating": {
           "rating_kp": "7.258",
-          "vote_num_kp": "47103",
+          "vote_num_kp": "47144",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "139228"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "4012",
-      "date": "1598266701",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Годзилла",
-        "orig": "Godzilla",
-        "alter": "",
-        "year": "1998",
-        "country": "США, Япония",
-        "director": "Роланд Эммерих",
-        "genre": "боевик,фантастика,триллер",
-        "actors": "Мэттью Бродерик, Жан Рено, Мария Питилло, Хэнк Азария, Кевин Данн, Майкл Лернер, Гарри Ширер, Арабелла Филд, Викки Льюис, Даг Сэвант",
-        "description": "Из тихоокеанских джунглей на Нью-Йорк надвинулась страшная катастрофа. На глазах у потрясённых жителей рушатся небоскребы, переворачиваются автобусы, уходят под землю целые кварталы. Но это не ураган и не землетрясение. Это - Годзилла, самое ужасное чудовище в истории.\r\n\r\nДля него человеческая цивилизация - лишь жалкий муравейник, дома - спичечные коробки, вертолеты - назойливые стрекозы. Мегаполису грозит полное уничтожение. Армия, оснащённая по последнему слову техники, не в силах противостоять гигантской ящерице. Небольшой группе смельчаков предстоит выяснить, зачем Годзилла пришёл в Нью-Йорк. Возможно, тогда им удастся спасти город...",
-        "slogan": "Размер имеет значение!",
-        "premiere": "18 мая 1998",
-        "age": "12",
-        "time": "8340",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4012.jpg",
-        "screenshot": "https://banana.bazonserver.site/video/21716/poster.jpg",
-        "rating": {
-          "rating_kp": "6.84",
-          "vote_num_kp": "49612",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "190907"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "817245",
-      "date": "1598266685",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Джек Ричер 2: Никогда не возвращайся",
-        "orig": "Jack Reacher: Never Go Back",
-        "alter": "",
-        "year": "2016",
-        "country": "Китай, США",
-        "director": "Эдвард Цвик",
-        "genre": "боевик,триллер",
-        "actors": "Том Круз, Коби Смолдерс, Элдис Ходж, Даника Ярош, Патрик Хьюсингер, Холт Маккэллани, Роберт Неппер, Джудд Лорманд, Кристофер Берри, Хантер Бурк",
-        "description": "Экс-военный Джек Ричер приезжает в Вашингтон, чтобы впервые встретиться с майором Сьюзен Тернер, которая возглавила его бывшее подразделение и не раз выручала его в непростых ситуациях. По странному стечению обстоятельств буквально накануне его визита майора арестовывают по обвинению в измене... Ричеру, уверенному в невиновности Сьюзен, предстоит освободить ее и раскрыть заговор, ниточки которого тянутся на самый верх. Стремясь докопаться до правды, он также делает поразительное открытие, способное раз и навсегда изменить его жизнь...",
-        "slogan": "Не уступай, не сдавайся, не возвращайся",
-        "premiere": "12 октября 2016",
-        "age": "16",
-        "time": "7080",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_817245.jpg",
-        "screenshot": "https://yq4u.bazonserver.site/video/21690/poster.jpg",
-        "rating": {
-          "rating_kp": "6.096",
-          "vote_num_kp": "83551",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "152841"
+          "vote_num_imdb": "139333"
         }
       }
     }

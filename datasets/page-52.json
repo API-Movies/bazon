@@ -2,6 +2,117 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "4518799",
+      "date": "1638460203",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Альпинист",
+        "orig": "The Alpinist",
+        "alter": "",
+        "year": "2021",
+        "country": "США",
+        "director": "Питер Мортимер,Ник Розен",
+        "genre": "документальный",
+        "actors": "Marc-Andre Leclerc,Brette Harrington,Питер Мортимер,Уилл Гэдд,Алекс Хоннольд,Michelle Kuipers,Рейнхольд Месснер,Austin Siadak",
+        "description": "Марк-Андре Леклер покоряет скалы один, без внимания посторонних. Беззаботный двадцатитрехлетней альпинист совершает одно из самых смелых восхождений в истории. Когда нет права на ошибку и нет лишних камер и взглядов, это и есть стиль свободного соло.",
+        "slogan": "",
+        "premiere": "10 сентября 2021",
+        "age": "0",
+        "time": "5520",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWY1NTBmOTQtYzgxMi00NjU0LTliNGEtNmUwNmQzZGVjNzhkXkEyXkFqcGdeQXVyMTA3MDk2NDg2.jpg",
+        "screenshot": "https://b75y.bazonserver.site/video/39461/poster.jpg",
+        "rating": {
+          "rating_kp": "8.243",
+          "vote_num_kp": "336",
+          "rating_imdb": "8",
+          "vote_num_imdb": "6198"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "185741",
+      "date": "1638456614",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Шизо",
+        "orig": "Schizo",
+        "alter": "",
+        "year": "1976",
+        "country": "Великобритания",
+        "director": "Пит Уолкер",
+        "genre": "ужасы,триллер,драма,детектив",
+        "actors": "Линн Фредерик,Джон Лейтон,Стефани Бичем,Джон Фрейзер,Джек Уотсон,Куеени Уоттс,Триша Мортимер,Пол Александр,Роберт Милл,Колин Дживонс",
+        "description": "Молодая девушка Саманта Грей собирается выйти замуж за Алана. Но чем ближе день бракосочетания, чем чаще она начинает замечать мужчину, который кажется ей знакомым и преследует ее. Здравомыслие и душевный рассудок Саманты оказываются в опасности, так как этот таинственный человек начинает совершать весьма недвусмысленные вещи, вроде подкладывания окровавленного ножа на свадебный пирог. Вскоре Саманта узнает, что этот человек — Уиллям Хаскис, бывший любовник матери Саманты, отсидевший в тюрьме за ее убийство. Но в самом ли деле он совершил это преступление?…",
+        "slogan": "Schizophrenia... When the left hand doesn&#x27;t know who the right hand is killing!!",
+        "premiere": "11 ноября 1976",
+        "age": "16",
+        "time": "6540",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_185741.jpg",
+        "screenshot": "https://dt2g.bazonserver.site/video/39459/poster.jpg",
+        "rating": {
+          "rating_kp": "5.943",
+          "vote_num_kp": "158",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "1224"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "512363",
+      "date": "1638456614",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Холодная рыба",
+        "orig": "Tsumetai nettaigyo",
+        "alter": "",
+        "year": "2010",
+        "country": "Япония",
+        "director": "Сион Соно",
+        "genre": "комедия,ужасы,триллер,драма,криминал",
+        "actors": "Мицуру Фукикоси, Дэндэн, Асука Куросава, Мэгуми Кагурадзака, Хикари Кадзивара, Тэцу Ватанабэ, Макото Асикава, Лорена Кото, Масаки Миура, Дзёнмён Пе",
+        "description": "Из-за того, что дочь попалась на магазинной краже, тихому владельцу магазина аквариумных рыбок Нобуюки Сямото приходится наладить контакт с владельцем другого такого же магазина - Юкио Муратой. Сначала общение вполне складывается, они дружат семьями, но вскоре Мурата начинает медленно, но верно переходить границы вежливого и оказывать давление на нового знакомого и его жену.",
+        "slogan": "How far will you be pushed?",
+        "premiere": "7 сентября 2010",
+        "age": "18",
+        "time": "8760",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_512363.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/39460/poster.jpg",
+        "rating": {
+          "rating_kp": "6.983",
+          "vote_num_kp": "1223",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "12693"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1227497",
       "date": "1638448227",
       "camrip": "0",
@@ -133,8 +244,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1305924.jpg",
         "screenshot": "https://zd5q.bazonserver.site/video/39310/poster.jpg",
         "rating": {
-          "rating_kp": "7.709",
-          "vote_num_kp": "45810",
+          "rating_kp": "7.708",
+          "vote_num_kp": "45824",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -377,8 +488,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4380390.jpg",
         "screenshot": "https://b75y.bazonserver.site/video/39451/poster.jpg",
         "rating": {
-          "rating_kp": "5.573",
-          "vote_num_kp": "982",
+          "rating_kp": "5.557",
+          "vote_num_kp": "986",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -431,9 +542,9 @@
         "screenshot": "https://black.bazonserver.site/video/37679/poster.jpg",
         "rating": {
           "rating_kp": "5.895",
-          "vote_num_kp": "2798",
+          "vote_num_kp": "2811",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "8408"
+          "vote_num_imdb": "8415"
         }
       }
     },
@@ -468,7 +579,7 @@
         "screenshot": "https://i75t.bazonserver.site/video/39450/poster.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "49",
+          "vote_num_kp": "51",
           "rating_imdb": "5.7",
           "vote_num_imdb": "281"
         }
@@ -505,7 +616,7 @@
         "screenshot": "https://dt2g.bazonserver.site/video/39449/poster.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "1",
+          "vote_num_kp": "2",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -619,7 +730,7 @@
         "screenshot": "https://zd5q.bazonserver.site/video/30109/poster.jpg",
         "rating": {
           "rating_kp": "6.915",
-          "vote_num_kp": "30696",
+          "vote_num_kp": "30710",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -671,10 +782,10 @@
         "poster": "https://thumbs.filmix.tech/posters/4447/orig/angely-smerti-2020_153560.jpg",
         "screenshot": "https://b75y.bazonserver.site/video/36644/poster.jpg",
         "rating": {
-          "rating_kp": "7.504",
-          "vote_num_kp": "618",
+          "rating_kp": "7.493",
+          "vote_num_kp": "620",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "304"
+          "vote_num_imdb": "308"
         }
       }
     },
@@ -762,9 +873,9 @@
         "screenshot": "https://b75y.bazonserver.site/video/37680/poster.jpg",
         "rating": {
           "rating_kp": "5.895",
-          "vote_num_kp": "2798",
+          "vote_num_kp": "2811",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "8408"
+          "vote_num_imdb": "8415"
         }
       }
     },
@@ -873,9 +984,9 @@
         "screenshot": "https://b75y.bazonserver.site/video/39445/poster.jpg",
         "rating": {
           "rating_kp": "7.973",
-          "vote_num_kp": "1143",
+          "vote_num_kp": "1147",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "21649"
+          "vote_num_imdb": "21859"
         }
       }
     },
@@ -947,7 +1058,7 @@
         "screenshot": "https://b75y.bazonserver.site/video/39444/poster.jpg",
         "rating": {
           "rating_kp": "6.229",
-          "vote_num_kp": "261",
+          "vote_num_kp": "262",
           "rating_imdb": "6.1",
           "vote_num_imdb": "2416"
         }
@@ -1021,10 +1132,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_993176.jpg",
         "screenshot": "https://brother.bazonserver.site/video/5847/poster.jpg",
         "rating": {
-          "rating_kp": "6.77",
-          "vote_num_kp": "13641",
+          "rating_kp": "6.771",
+          "vote_num_kp": "13650",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "95738"
+          "vote_num_imdb": "95764"
         }
       }
     },
@@ -1072,10 +1183,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1138779.jpg",
         "screenshot": "https://b75y.bazonserver.site/video/38091/poster.jpg",
         "rating": {
-          "rating_kp": "6.731",
-          "vote_num_kp": "20218",
+          "rating_kp": "6.73",
+          "vote_num_kp": "20233",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "15566"
+          "vote_num_imdb": "15587"
         }
       }
     },
@@ -1122,9 +1233,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/39439/poster.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "81",
+          "vote_num_kp": "82",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "6820"
+          "vote_num_imdb": "6857"
         }
       }
     },
@@ -1543,9 +1654,9 @@
         "screenshot": "https://white.bazonserver.site/video/24311/poster.jpg",
         "rating": {
           "rating_kp": "6.769",
-          "vote_num_kp": "34064",
+          "vote_num_kp": "34078",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "125215"
+          "vote_num_imdb": "125236"
         }
       }
     },
@@ -1580,7 +1691,7 @@
         "screenshot": "https://black.bazonserver.site/video/39427/poster.jpg",
         "rating": {
           "rating_kp": "5.563",
-          "vote_num_kp": "1118",
+          "vote_num_kp": "1119",
           "rating_imdb": "5.5",
           "vote_num_imdb": "11601"
         }
@@ -1654,7 +1765,7 @@
         "screenshot": "https://brother.bazonserver.site/video/39418/poster.jpg",
         "rating": {
           "rating_kp": "6.84",
-          "vote_num_kp": "6848",
+          "vote_num_kp": "6849",
           "rating_imdb": "6.7",
           "vote_num_imdb": "15257"
         }
@@ -1913,7 +2024,7 @@
         "screenshot": "https://black.bazonserver.site/video/39420/poster.jpg",
         "rating": {
           "rating_kp": "4.646",
-          "vote_num_kp": "450",
+          "vote_num_kp": "453",
           "rating_imdb": "4.4",
           "vote_num_imdb": "1555"
         }
@@ -1949,10 +2060,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1090932.jpg",
         "screenshot": "https://b75y.bazonserver.site/video/39419/poster.jpg",
         "rating": {
-          "rating_kp": "7.578",
-          "vote_num_kp": "1089",
+          "rating_kp": "7.565",
+          "vote_num_kp": "1094",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "4379"
+          "vote_num_imdb": "4388"
         }
       }
     },
@@ -2024,7 +2135,7 @@
         "screenshot": "https://black.bazonserver.site/video/39412/poster.jpg",
         "rating": {
           "rating_kp": "6.323",
-          "vote_num_kp": "300",
+          "vote_num_kp": "301",
           "rating_imdb": "6.3",
           "vote_num_imdb": "46"
         }
@@ -2060,8 +2171,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_46665.jpg",
         "screenshot": "https://i75t.bazonserver.site/video/39411/poster.jpg",
         "rating": {
-          "rating_kp": "6.204",
-          "vote_num_kp": "259",
+          "rating_kp": "6.197",
+          "vote_num_kp": "274",
           "rating_imdb": "6.8",
           "vote_num_imdb": "19"
         }
@@ -2369,205 +2480,7 @@
           "rating_kp": "7.136",
           "vote_num_kp": "1205",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "37966"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8224",
-      "date": "1638255097",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Акира",
-        "orig": "Akira",
-        "alter": "",
-        "year": "1988",
-        "country": "Япония",
-        "director": "Кацухиро Отомо",
-        "genre": "аниме,мультфильм,боевик,фантастика,триллер,детектив",
-        "actors": "Ивата Мицуо, Нодзому Сасаки, Мами Кояма, Тэссё Гэнда, Хироси Отакэ, Коити Китамура, Митихиро Икэмидзу, Юрико Футидзаки, Масааки Окура, Таро Аракава",
-        "description": "Спустя 31 год после Третьей мировой войны и ядерной бомбардировки столицы Японии, воссоздан новый город - Нью-Токио. Внешне все под контролем, однако страна теперь напоминает профашистское государство, жесточайшим образом подавляющее попытки мятежа. В исследовательских центрах проводятся парапсихологические опыты над людьми для разработки совершенного вида оружия.\r\n\r\nВоенные в лице полковника Сикисимы, руководителя проекта биологических военных экспериментов, входят в конфликт с правительством. А в стране возникает религиозный культ сверхчеловека по имени Акира, приход которого, якобы, сможет решить все проблемы Японии.",
-        "slogan": "The end of the world was only the beginning",
-        "premiere": "16 июля 1988",
-        "age": "0",
-        "time": "7440",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8224.jpg",
-        "screenshot": "https://black.bazonserver.site/video/39398/poster.jpg",
-        "rating": {
-          "rating_kp": "7.761",
-          "vote_num_kp": "28461",
-          "rating_imdb": "8",
-          "vote_num_imdb": "179520"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1172183",
-      "date": "1638253805",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Фэйбл",
-        "orig": "Za Faburu",
-        "alter": "",
-        "year": "2019",
-        "country": "Япония",
-        "director": "Кан Эгути",
-        "genre": "боевик,комедия,криминал",
-        "actors": "Дзюнъити Окада,Фумино Кимура,Коити Сато,Мидзуки Ямамото,Рё Кимура,Каи Иноваки,Дзиро Сато,Кэн Ясуда,Юя Ягира,Осаму Мукаи",
-        "description": "О киллере по прозвищу Фэйбл, обладающем сверхчеловеческой силой, ходят легенды. Он получает новое задание &#151; теперь ему предстоит прожить целый год жизнью обычного человека. Фэйблу приходится поселиться в Осаке под вымышленным именем, а его напарница становится его липовой младшей сестрой. Впервые в жизни мужчина сталкивается с тяготами скучной повседневной жизни, да ещё и жить приходится по строгим правилам: если он не сдержится и совершит убийство, то босс его накажет. Однажды случается непредвиденное &#151; его новая знакомая Мисаки оказывается в трудной ситуации, после чего Фэйблу вновь приходится окунуться в криминальный мир.",
-        "slogan": "",
-        "premiere": "15 июня 2019",
-        "age": "0",
-        "time": "7380",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1172183.jpg",
-        "screenshot": "https://brother.bazonserver.site/video/39407/poster.jpg",
-        "rating": {
-          "rating_kp": "6.93",
-          "vote_num_kp": "237",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "1570"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1174294",
-      "date": "1638229032",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "HDRezka",
-      "max_qual": "1080",
-      "last_season": "3",
-      "last_episode": "9",
-      "episodes": {
-        "1": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080,
-          "14": 1080,
-          "15": 1080,
-          "16": 1080,
-          "17": 1080,
-          "18": 1080,
-          "19": 1080,
-          "20": 1080,
-          "21": 1080,
-          "22": 1080,
-          "23": 1080,
-          "24": 1080,
-          "25": 1080,
-          "26": 1080,
-          "27": 1080,
-          "28": 1080,
-          "29": 1080,
-          "30": 1080,
-          "31": 1080,
-          "32": 1080,
-          "33": 1080,
-          "34": 1080,
-          "35": 1080,
-          "36": 1080,
-          "37": 1080,
-          "38": 1080
-        },
-        "2": {
-          "1": 1080,
-          "2": 1080,
-          "3": 1080,
-          "4": 1080,
-          "5": 1080,
-          "6": 1080,
-          "7": 1080,
-          "8": 1080,
-          "9": 1080,
-          "10": 1080,
-          "11": 1080,
-          "12": 1080,
-          "13": 1080,
-          "14": 1080,
-          "15": 1080,
-          "16": 1080,
-          "17": 1080,
-          "18": 1080,
-          "19": 1080,
-          "20": 1080,
-          "21": 1080,
-          "22": 1080,
-          "23": 1080,
-          "24": 1080,
-          "25": 1080,
-          "26": 1080,
-          "27": 1080,
-          "28": 1080,
-          "29": 1080,
-          "30": 1080
-        },
-        "3": {
-          "1": 1080,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720
-        }
-      },
-      "info": {
-        "rus": "Амфибия",
-        "orig": "Amphibia",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Ким Роберсон, Дерек Кирк Ким, Берт Юн",
-        "genre": "комедия,фэнтези,приключения,семейный,мультфильм",
-        "actors": "Бренда Сонг, Джастин Фелбингер, Билл Фармер, Аманда Лейтон, Джеймс Патрик Стюарт, Ди Брэдли Бейкер, Стивен Рут, Иден Ригел, Брайан Мейлар, Лайла Берзиньш",
-        "description": "13-летняя Энн Бунчуй оказывается в волшебном мире земноводных, сельской болотистой местности, которая полна человекоподобными лягушками. С помощью азартной молодой лягушки по имени Сприг, Энн превратится в героя и откроет для себя первую настоящую дружбу в своей жизни.",
-        "slogan": "",
-        "premiere": "14 октября 2019",
-        "age": "0",
-        "time": "1380",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1174294.jpg",
-        "screenshot": "https://white.bazonserver.site/video/23078/poster.jpg",
-        "rating": {
-          "rating_kp": "7.829",
-          "vote_num_kp": "3591",
-          "rating_imdb": "8.2",
-          "vote_num_imdb": "4306"
+          "vote_num_imdb": "37993"
         }
       }
     }

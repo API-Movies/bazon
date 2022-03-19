@@ -2,6 +2,80 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "6379",
+      "date": "1598178290",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Люди в черном 2",
+        "orig": "Men in Black II",
+        "alter": "",
+        "year": "2002",
+        "country": "США",
+        "director": "Барри Зонненфельд",
+        "genre": "комедия,боевик,фантастика,детектив,приключения",
+        "actors": "Томми Ли Джонс, Уилл Смит, Лара Флинн Бойл, Джонни Ноксвил, Розарио Доусон, Тони Шэлуб, Рип Торн, Патрик Варбертон, Джек Келер, Дэвид Кросс",
+        "description": "Много лет назад лучший агент организации «Люди в черном» Кей получил задание особой важности. Ему поручили надёжно спрятать таинственный космический артефакт «Светоч». Проходит 25 лет и на Землю прилетает уничтожительница миров Серлина. Приняв образ сексапильной фотомодели, она начала поиски «Светоча». Чтобы не дать ни единого шанса Серлине артефакт нужно отыскать раньше неё, но есть одна проблема - после того как агенты Кей и Джей уничтожили четыре года назад хищного инопланетного таракана, Кею стёрли память. Теперь он мирно трудится в Почтовом департаменте. У него нет даже малейшего воспоминания о своём прошлом, и Джею, для спасения мира, во чтобы то ни стало нужно найти способ восстановить его память.",
+        "slogan": "Хорошие парни носят чёрное",
+        "premiere": "3 июля 2002",
+        "age": "12",
+        "time": "5280",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6379.jpg",
+        "screenshot": "https://yq4u.bazonserver.site/video/21459/poster.jpg",
+        "rating": {
+          "rating_kp": "7.29",
+          "vote_num_kp": "196387",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "364759"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "838733",
+      "date": "1598178290",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Оригинал",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Чудеса Арктики",
+        "orig": "Wonders of the Arctic 3D",
+        "alter": "",
+        "year": "2014",
+        "country": "Канада",
+        "director": "Дэвид Ликли",
+        "genre": "документальный,короткометражка",
+        "actors": "",
+        "description": "Арктика всегда была местом тайн, мифов и волшебства. Сегодня же Арктика - область активных исследований; вместо стремлений завоевать Север, ученые-пионеры ищут ответы на ключевые вопросы последствий воздействия человечества на хрупкий мир Земли.",
+        "slogan": "",
+        "premiere": "6 марта 2014",
+        "age": "0",
+        "time": "2460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_838733.jpg",
+        "screenshot": "https://banana.bazonserver.site/video/21461/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "15",
+          "rating_imdb": "7",
+          "vote_num_imdb": "81"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "930000",
       "date": "1598178266",
       "camrip": "0",
@@ -30,10 +104,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_930000.jpg",
         "screenshot": "https://banana.bazonserver.site/video/21450/poster.jpg",
         "rating": {
-          "rating_kp": "6.591",
-          "vote_num_kp": "170866",
+          "rating_kp": "6.592",
+          "vote_num_kp": "171028",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "109833"
+          "vote_num_imdb": "109843"
         }
       }
     },
@@ -68,9 +142,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21451/poster.jpg",
         "rating": {
           "rating_kp": "6.591",
-          "vote_num_kp": "93270",
+          "vote_num_kp": "93292",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "118977"
+          "vote_num_imdb": "119000"
         }
       }
     },
@@ -105,7 +179,7 @@
         "screenshot": "https://plotva.bazonserver.site/video/21452/poster.jpg",
         "rating": {
           "rating_kp": "7.19",
-          "vote_num_kp": "19993",
+          "vote_num_kp": "19994",
           "rating_imdb": "7.6",
           "vote_num_imdb": "196897"
         }
@@ -142,9 +216,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21432/poster.jpg",
         "rating": {
           "rating_kp": "6.71",
-          "vote_num_kp": "19956",
+          "vote_num_kp": "19960",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "154989"
+          "vote_num_imdb": "155022"
         }
       }
     },
@@ -179,9 +253,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21434/poster.jpg",
         "rating": {
           "rating_kp": "7.154",
-          "vote_num_kp": "50646",
+          "vote_num_kp": "50677",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "297681"
+          "vote_num_imdb": "297713"
         }
       }
     },
@@ -216,9 +290,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21437/poster.jpg",
         "rating": {
           "rating_kp": "7.808",
-          "vote_num_kp": "53968",
+          "vote_num_kp": "53977",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "121090"
+          "vote_num_imdb": "121099"
         }
       }
     },
@@ -252,10 +326,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_818144.jpg",
         "screenshot": "https://yq4u.bazonserver.site/video/21439/poster.jpg",
         "rating": {
-          "rating_kp": "7.494",
-          "vote_num_kp": "114560",
+          "rating_kp": "7.495",
+          "vote_num_kp": "114628",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "55082"
+          "vote_num_imdb": "55091"
         }
       }
     },
@@ -290,9 +364,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/21441/poster.jpg",
         "rating": {
           "rating_kp": "7.251",
-          "vote_num_kp": "326158",
+          "vote_num_kp": "326284",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "892953"
+          "vote_num_imdb": "893043"
         }
       }
     },
@@ -327,9 +401,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21443/poster.jpg",
         "rating": {
           "rating_kp": "6.289",
-          "vote_num_kp": "73657",
+          "vote_num_kp": "73708",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "129508"
+          "vote_num_imdb": "129521"
         }
       }
     },
@@ -364,9 +438,9 @@
         "screenshot": "https://pluton.bazonserver.site/video/21423/poster.jpg",
         "rating": {
           "rating_kp": "7.106",
-          "vote_num_kp": "194538",
+          "vote_num_kp": "194641",
           "rating_imdb": "7",
-          "vote_num_imdb": "241132"
+          "vote_num_imdb": "241149"
         }
       }
     },
@@ -438,7 +512,7 @@
         "screenshot": "https://i75t.bazonserver.site/video/21430/poster.jpg",
         "rating": {
           "rating_kp": "5.725",
-          "vote_num_kp": "17006",
+          "vote_num_kp": "17011",
           "rating_imdb": "6",
           "vote_num_imdb": "132765"
         }
@@ -475,9 +549,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21431/poster.jpg",
         "rating": {
           "rating_kp": "7.195",
-          "vote_num_kp": "78689",
+          "vote_num_kp": "78696",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "235512"
+          "vote_num_imdb": "235548"
         }
       }
     },
@@ -512,7 +586,7 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21419/poster.jpg",
         "rating": {
           "rating_kp": "5.48",
-          "vote_num_kp": "15238",
+          "vote_num_kp": "15242",
           "rating_imdb": "5.1",
           "vote_num_imdb": "20415"
         }
@@ -549,7 +623,7 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21420/poster.jpg",
         "rating": {
           "rating_kp": "6.77",
-          "vote_num_kp": "33895",
+          "vote_num_kp": "33940",
           "rating_imdb": "6.6",
           "vote_num_imdb": "74798"
         }
@@ -586,7 +660,7 @@
         "screenshot": "https://banana.bazonserver.site/video/21409/poster.jpg",
         "rating": {
           "rating_kp": "6.883",
-          "vote_num_kp": "14537",
+          "vote_num_kp": "14539",
           "rating_imdb": "7.1",
           "vote_num_imdb": "64653"
         }
@@ -622,10 +696,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_893488.jpg",
         "screenshot": "https://t6hu.bazonserver.site/video/21411/poster.jpg",
         "rating": {
-          "rating_kp": "5.402",
-          "vote_num_kp": "71556",
+          "rating_kp": "5.401",
+          "vote_num_kp": "71571",
           "rating_imdb": "4.5",
-          "vote_num_imdb": "63145"
+          "vote_num_imdb": "63158"
         }
       }
     },
@@ -660,9 +734,9 @@
         "screenshot": "https://zd5q.bazonserver.site/video/21414/poster.jpg",
         "rating": {
           "rating_kp": "8.497",
-          "vote_num_kp": "625039",
+          "vote_num_kp": "625156",
           "rating_imdb": "8.7",
-          "vote_num_imdb": "1844740"
+          "vote_num_imdb": "1844976"
         }
       }
     },
@@ -697,9 +771,9 @@
         "screenshot": "https://dt2g.bazonserver.site/video/21415/poster.jpg",
         "rating": {
           "rating_kp": "8.575",
-          "vote_num_kp": "528444",
+          "vote_num_kp": "528666",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "1442016"
+          "vote_num_imdb": "1442186"
         }
       }
     },
@@ -734,9 +808,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21388/poster.jpg",
         "rating": {
           "rating_kp": "8.283",
-          "vote_num_kp": "246355",
+          "vote_num_kp": "246470",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "1010550"
+          "vote_num_imdb": "1010661"
         }
       }
     },
@@ -771,7 +845,7 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21389/poster.jpg",
         "rating": {
           "rating_kp": "6.455",
-          "vote_num_kp": "84677",
+          "vote_num_kp": "84691",
           "rating_imdb": "6.4",
           "vote_num_imdb": "221867"
         }
@@ -808,9 +882,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21390/poster.jpg",
         "rating": {
           "rating_kp": "6.994",
-          "vote_num_kp": "44125",
+          "vote_num_kp": "44147",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "57802"
+          "vote_num_imdb": "57809"
         }
       }
     },
@@ -845,9 +919,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21391/poster.jpg",
         "rating": {
           "rating_kp": "7.292",
-          "vote_num_kp": "53878",
+          "vote_num_kp": "53903",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "91483"
+          "vote_num_imdb": "91494"
         }
       }
     },
@@ -881,8 +955,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1008582.jpg",
         "screenshot": "https://white.bazonserver.site/video/21392/poster.jpg",
         "rating": {
-          "rating_kp": "5.946",
-          "vote_num_kp": "40341",
+          "rating_kp": "5.947",
+          "vote_num_kp": "40360",
           "rating_imdb": "5.5",
           "vote_num_imdb": "49598"
         }
@@ -956,7 +1030,7 @@
         "screenshot": "https://plotva.bazonserver.site/video/21399/poster.jpg",
         "rating": {
           "rating_kp": "6.309",
-          "vote_num_kp": "17617",
+          "vote_num_kp": "17626",
           "rating_imdb": "6.4",
           "vote_num_imdb": "87584"
         }
@@ -1030,7 +1104,7 @@
         "screenshot": "https://plotva.bazonserver.site/video/21402/poster.jpg",
         "rating": {
           "rating_kp": "7.752",
-          "vote_num_kp": "11444",
+          "vote_num_kp": "11447",
           "rating_imdb": "6",
           "vote_num_imdb": "16105"
         }
@@ -1067,9 +1141,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21404/poster.jpg",
         "rating": {
           "rating_kp": "7.831",
-          "vote_num_kp": "351019",
+          "vote_num_kp": "351157",
           "rating_imdb": "8",
-          "vote_num_imdb": "770815"
+          "vote_num_imdb": "770921"
         }
       }
     },
@@ -1104,9 +1178,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21405/poster.jpg",
         "rating": {
           "rating_kp": "6.977",
-          "vote_num_kp": "178614",
+          "vote_num_kp": "178732",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "360307"
+          "vote_num_imdb": "360362"
         }
       }
     },
@@ -1140,10 +1214,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_649917.jpg",
         "screenshot": "https://pluton.bazonserver.site/video/21364/poster.jpg",
         "rating": {
-          "rating_kp": "8.063",
-          "vote_num_kp": "275390",
+          "rating_kp": "8.064",
+          "vote_num_kp": "276040",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "494520"
+          "vote_num_imdb": "494641"
         }
       }
     },
@@ -1178,9 +1252,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21365/poster.jpg",
         "rating": {
           "rating_kp": "5.59",
-          "vote_num_kp": "28642",
+          "vote_num_kp": "28652",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "129767"
+          "vote_num_imdb": "129799"
         }
       }
     },
@@ -1215,9 +1289,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21366/poster.jpg",
         "rating": {
           "rating_kp": "6.855",
-          "vote_num_kp": "201209",
+          "vote_num_kp": "201230",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "360732"
+          "vote_num_imdb": "360806"
         }
       }
     },
@@ -1252,9 +1326,9 @@
         "screenshot": "https://b75y.bazonserver.site/video/21367/poster.jpg",
         "rating": {
           "rating_kp": "7.786",
-          "vote_num_kp": "162585",
+          "vote_num_kp": "162684",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "937644"
+          "vote_num_imdb": "937770"
         }
       }
     },
@@ -1289,7 +1363,7 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21374/poster.jpg",
         "rating": {
           "rating_kp": "6.537",
-          "vote_num_kp": "7264",
+          "vote_num_kp": "7265",
           "rating_imdb": "6.5",
           "vote_num_imdb": "37102"
         }
@@ -1326,7 +1400,7 @@
         "screenshot": "https://i75t.bazonserver.site/video/21375/poster.jpg",
         "rating": {
           "rating_kp": "6.993",
-          "vote_num_kp": "50347",
+          "vote_num_kp": "50366",
           "rating_imdb": "6.3",
           "vote_num_imdb": "157514"
         }
@@ -1363,9 +1437,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21376/poster.jpg",
         "rating": {
           "rating_kp": "7.88",
-          "vote_num_kp": "157847",
+          "vote_num_kp": "157909",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "397122"
+          "vote_num_imdb": "397151"
         }
       }
     },
@@ -1400,9 +1474,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21378/poster.jpg",
         "rating": {
           "rating_kp": "7.249",
-          "vote_num_kp": "359308",
+          "vote_num_kp": "359472",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "823529"
+          "vote_num_imdb": "823652"
         }
       }
     },
@@ -1436,10 +1510,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_961715.jpg",
         "screenshot": "https://black.bazonserver.site/video/21381/poster.jpg",
         "rating": {
-          "rating_kp": "7.394",
-          "vote_num_kp": "402232",
+          "rating_kp": "7.395",
+          "vote_num_kp": "402418",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "545617"
+          "vote_num_imdb": "545742"
         }
       }
     },
@@ -1474,9 +1548,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/21382/poster.jpg",
         "rating": {
           "rating_kp": "7.764",
-          "vote_num_kp": "371265",
+          "vote_num_kp": "371361",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "509013"
+          "vote_num_imdb": "509046"
         }
       }
     },
@@ -1511,9 +1585,9 @@
         "screenshot": "https://zd5q.bazonserver.site/video/21385/poster.jpg",
         "rating": {
           "rating_kp": "7.356",
-          "vote_num_kp": "186886",
+          "vote_num_kp": "186969",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "487537"
+          "vote_num_imdb": "487589"
         }
       }
     },
@@ -1548,7 +1622,7 @@
         "screenshot": "https://pluton.bazonserver.site/video/21386/poster.jpg",
         "rating": {
           "rating_kp": "5.69",
-          "vote_num_kp": "30252",
+          "vote_num_kp": "30257",
           "rating_imdb": "5.8",
           "vote_num_imdb": "78958"
         }
@@ -1585,9 +1659,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21349/poster.jpg",
         "rating": {
           "rating_kp": "6.553",
-          "vote_num_kp": "136230",
+          "vote_num_kp": "136314",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "209895"
+          "vote_num_imdb": "209931"
         }
       }
     },
@@ -1622,9 +1696,9 @@
         "screenshot": "https://black.bazonserver.site/video/21350/poster.jpg",
         "rating": {
           "rating_kp": "6.173",
-          "vote_num_kp": "170103",
+          "vote_num_kp": "170161",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "160863"
+          "vote_num_imdb": "160917"
         }
       }
     },
@@ -1659,7 +1733,7 @@
         "screenshot": "https://t6hu.bazonserver.site/video/21351/poster.jpg",
         "rating": {
           "rating_kp": "4.317",
-          "vote_num_kp": "28129",
+          "vote_num_kp": "28133",
           "rating_imdb": "3.8",
           "vote_num_imdb": "31117"
         }
@@ -1696,9 +1770,9 @@
         "screenshot": "https://banana.bazonserver.site/video/21352/poster.jpg",
         "rating": {
           "rating_kp": "6.691",
-          "vote_num_kp": "99023",
+          "vote_num_kp": "99079",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "129098"
+          "vote_num_imdb": "129120"
         }
       }
     },
@@ -1773,80 +1847,6 @@
           "vote_num_kp": "28699",
           "rating_imdb": "7.3",
           "vote_num_imdb": "109389"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "61361",
-      "date": "1598178254",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Люди Икс: Последняя битва",
-        "orig": "X-Men: The Last Stand",
-        "alter": "",
-        "year": "2006",
-        "country": "Канада, США, Великобритания",
-        "director": "Бретт Рэтнер",
-        "genre": "боевик,фантастика,триллер,приключения",
-        "actors": "Хью Джекман, Холли Берри, Иэн Маккеллен, Фамке Янссен, Келси Грэммер, Шон Эшмор, Аарон Стэнфорд, Патрик Стюарт, Бен Фостер, Эллен Пейдж",
-        "description": "Людям Икс во главе с профессором Чарльзом Ксавьером приходится вступить в битву с самой эволюцией в лице их воскресшего товарища по команде. Джин Грэй, возрождённая в облике Тёмного Феникса, представляет опасность не только для самой себя, но и для мутантов и для всей человеческой расы.",
-        "slogan": "На чьей стороне будешь ты?",
-        "premiere": "22 мая 2006",
-        "age": "12",
-        "time": "6000",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_61361.jpg",
-        "screenshot": "https://white.bazonserver.site/video/21337/poster.jpg",
-        "rating": {
-          "rating_kp": "7.304",
-          "vote_num_kp": "171677",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "505490"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "298",
-      "date": "1598178254",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Люди Икс 2",
-        "orig": "X2",
-        "alter": "",
-        "year": "2003",
-        "country": "Канада, США",
-        "director": "Брайан Сингер",
-        "genre": "боевик,фантастика,триллер,приключения",
-        "actors": "Патрик Стюарт, Хью Джекман, Иэн Маккеллен, Холли Берри, Фамке Янссен, Джеймс Марсден, Анна Пэкуин, Ребекка Ромейн, Брайан Кокс, Алан Камминг",
-        "description": "Мутанты продолжают борьбу против общества, которое страшит их, и которому они не доверяют. Их положение становится еще более отчаянным, когда они подвергаются мощной атаке неизвестного противника, обладающего экстраординарными способностями. \r\n\r\nВнезапное нападение снова становится причиной политического и общественного резонанса по поводу введения повсеместной регистрации мутантов и причиной образования движения против мутантов, возглавляемого Уильямом Страйкером, бывшим военным, который, по слухам, проводил опыты над мутантами.",
-        "slogan": "Сплотиться сегодня, чтобы наступило завтра",
-        "premiere": "24 апреля 2003",
-        "age": "12",
-        "time": "8040",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_298.jpg",
-        "screenshot": "https://yq4u.bazonserver.site/video/21338/poster.jpg",
-        "rating": {
-          "rating_kp": "7.564",
-          "vote_num_kp": "179303",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "537457"
         }
       }
     }

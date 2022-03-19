@@ -2,6 +2,117 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "178096",
+      "date": "1600426808",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Жестокое море",
+        "orig": "The Cruel Sea",
+        "alter": "",
+        "year": "1953",
+        "country": "Великобритания",
+        "director": "Чарльз Френд",
+        "genre": "драма,военный",
+        "actors": "Джек Хоукинс,Дональд Синден,Джон Стрэттон,Денхолм Эллиот,Джон Уорнер,Стенли Бейкер,Брюс Сетон,Лайам Редмонд,Вирджиния МакКенна,Мойра Листер",
+        "description": "Герои этого рассказа - мужчины и их корабли. И единственный злодей среди них - жестокое море.",
+        "slogan": "Monsarrat&#x27;s brilliant best seller comes surging to life",
+        "premiere": "24 марта 1953",
+        "age": "0",
+        "time": "7560",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_178096.jpg",
+        "screenshot": "https://white.bazonserver.site/video/22802/poster.jpg",
+        "rating": {
+          "rating_kp": "6.425",
+          "vote_num_kp": "293",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "4662"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "11910",
+      "date": "1600425918",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Якудза",
+        "orig": "The Yakuza",
+        "alter": "",
+        "year": "1974",
+        "country": "Япония,США",
+        "director": "Сидни Поллак",
+        "genre": "боевик,триллер,драма,криминал",
+        "actors": "Роберт Митчем,Кэн Такакура,Брайан Кит,Херб Эдельман,Ричард Джордан,Кэйко Киси,Эйдзи Окада,Джеймс Шигета,Кёсукэ Масида,Кристина Кокубо",
+        "description": "Якудза - это мафия, родившаяся 350 лет назад в Японии, стране, где восходит солнце. О якудзе известно только то, что проникший в ее тайны - обречен. На след якудза вышел американский сыщик, занимающийся делом о похищении дочери миллионера...",
+        "slogan": "A man never forgets. A man pays his debts",
+        "premiere": "21 декабря 1974",
+        "age": "16",
+        "time": "6720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_11910.jpg",
+        "screenshot": "https://white.bazonserver.site/video/22800/poster.jpg",
+        "rating": {
+          "rating_kp": "6.999",
+          "vote_num_kp": "703",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "8800"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "41074",
+      "date": "1600425918",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Оригинал",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Сны",
+        "orig": "Сны",
+        "alter": "",
+        "year": "1993",
+        "country": "Россия",
+        "director": "Александр Бородянский, Карен Шахназаров",
+        "genre": "комедия,история",
+        "actors": "Олег Басилашвили, Амалия Мордвинова, Армен Джигарханян, Аркадий Идес, Пётр Меркурьев, Валерий Носик, Алексей Жарков, Юрий Шерстнев, Андрей Ростоцкий, Андрей Вертоградов",
+        "description": "Аристократка девятнадцатого века, Графиня Призорова, живет в Москве. Она богата, молода, но с некоторых пор ей стали сниться очень странные сны. Будто она не графиня, а уборщица Маша Степанова, работает в Москве, в 1993 году, в столовой N 9. Она лимитчица из глубинки и живет в общежитии. Не найдя объяснений столь странным сновидениям, графиня обращается к доктору.",
+        "slogan": "",
+        "premiere": "",
+        "age": "16",
+        "time": "4680",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_41074.jpg",
+        "screenshot": "https://white.bazonserver.site/video/22801/poster.jpg",
+        "rating": {
+          "rating_kp": "6.847",
+          "vote_num_kp": "3562",
+          "rating_imdb": "6.6",
+          "vote_num_imdb": "280"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "34903",
       "date": "1600425914",
       "camrip": "0",
@@ -68,7 +179,7 @@
         "screenshot": "https://white.bazonserver.site/video/22798/poster.jpg",
         "rating": {
           "rating_kp": "7.419",
-          "vote_num_kp": "15164",
+          "vote_num_kp": "15167",
           "rating_imdb": "6.7",
           "vote_num_imdb": "125777"
         }
@@ -142,9 +253,9 @@
         "screenshot": "https://white.bazonserver.site/video/22796/poster.jpg",
         "rating": {
           "rating_kp": "6.001",
-          "vote_num_kp": "627",
+          "vote_num_kp": "628",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "5380"
+          "vote_num_imdb": "5387"
         }
       }
     },
@@ -179,7 +290,7 @@
         "screenshot": "https://white.bazonserver.site/video/22795/poster.jpg",
         "rating": {
           "rating_kp": "7.167",
-          "vote_num_kp": "1175",
+          "vote_num_kp": "1177",
           "rating_imdb": "6.8",
           "vote_num_imdb": "3878"
         }
@@ -326,10 +437,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1346708.jpg",
         "screenshot": "https://banana.bazonserver.site/video/22787/poster.jpg",
         "rating": {
-          "rating_kp": "3.954",
-          "vote_num_kp": "1075",
+          "rating_kp": "3.977",
+          "vote_num_kp": "1086",
           "rating_imdb": "3.4",
-          "vote_num_imdb": "19636"
+          "vote_num_imdb": "19640"
         }
       }
     },
@@ -474,8 +585,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1395366.jpg",
         "screenshot": "https://i75t.bazonserver.site/video/22218/poster.jpg",
         "rating": {
-          "rating_kp": "7.583",
-          "vote_num_kp": "33285",
+          "rating_kp": "7.584",
+          "vote_num_kp": "33323",
           "rating_imdb": "7.3",
           "vote_num_imdb": "476"
         }
@@ -512,7 +623,7 @@
         "screenshot": "https://banana.bazonserver.site/video/22770/poster.jpg",
         "rating": {
           "rating_kp": "7.184",
-          "vote_num_kp": "23875",
+          "vote_num_kp": "23876",
           "rating_imdb": "6.9",
           "vote_num_imdb": "119614"
         }
@@ -549,9 +660,9 @@
         "screenshot": "https://pluton.bazonserver.site/video/22786/poster.jpg",
         "rating": {
           "rating_kp": "5.542",
-          "vote_num_kp": "35874",
+          "vote_num_kp": "35922",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "4237"
+          "vote_num_imdb": "4240"
         }
       }
     },
@@ -622,10 +733,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1337788.jpg",
         "screenshot": "https://white.bazonserver.site/video/22785/poster.jpg",
         "rating": {
-          "rating_kp": "7.276",
-          "vote_num_kp": "7151",
+          "rating_kp": "7.275",
+          "vote_num_kp": "7153",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "78994"
+          "vote_num_imdb": "79010"
         }
       }
     },
@@ -660,7 +771,7 @@
         "screenshot": "https://brother.bazonserver.site/video/22784/poster.jpg",
         "rating": {
           "rating_kp": "5.914",
-          "vote_num_kp": "1139",
+          "vote_num_kp": "1142",
           "rating_imdb": "5.6",
           "vote_num_imdb": "393"
         }
@@ -697,9 +808,9 @@
         "screenshot": "https://white.bazonserver.site/video/22758/poster.jpg",
         "rating": {
           "rating_kp": "6.874",
-          "vote_num_kp": "125157",
+          "vote_num_kp": "125177",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "228471"
+          "vote_num_imdb": "228487"
         }
       }
     },
@@ -734,9 +845,9 @@
         "screenshot": "https://white.bazonserver.site/video/22729/poster.jpg",
         "rating": {
           "rating_kp": "7.116",
-          "vote_num_kp": "51245",
+          "vote_num_kp": "51277",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "130446"
+          "vote_num_imdb": "130475"
         }
       }
     },
@@ -771,9 +882,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/22695/poster.jpg",
         "rating": {
           "rating_kp": "7.958",
-          "vote_num_kp": "40048",
+          "vote_num_kp": "40061",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "391907"
+          "vote_num_imdb": "391946"
         }
       }
     },
@@ -1066,8 +1177,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1208563.jpg",
         "screenshot": "https://pluton.bazonserver.site/video/22694/poster.jpg",
         "rating": {
-          "rating_kp": "5.194",
-          "vote_num_kp": "21457",
+          "rating_kp": "5.197",
+          "vote_num_kp": "21477",
           "rating_imdb": "4.7",
           "vote_num_imdb": "15778"
         }
@@ -1214,10 +1325,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1189368.jpg",
         "screenshot": "https://t6hu.bazonserver.site/video/22755/poster.jpg",
         "rating": {
-          "rating_kp": "5.691",
-          "vote_num_kp": "38169",
+          "rating_kp": "5.692",
+          "vote_num_kp": "38239",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "52204"
+          "vote_num_imdb": "52220"
         }
       }
     },
@@ -1289,9 +1400,9 @@
         "screenshot": "https://banana.bazonserver.site/video/22762/poster.jpg",
         "rating": {
           "rating_kp": "6.074",
-          "vote_num_kp": "27913",
+          "vote_num_kp": "27928",
           "rating_imdb": "5.8",
-          "vote_num_imdb": "53444"
+          "vote_num_imdb": "53462"
         }
       }
     },
@@ -1496,7 +1607,7 @@
         "screenshot": "https://white.bazonserver.site/video/22765/poster.jpg",
         "rating": {
           "rating_kp": "6.622",
-          "vote_num_kp": "3321",
+          "vote_num_kp": "3323",
           "rating_imdb": "6.9",
           "vote_num_imdb": "37963"
         }
@@ -1681,9 +1792,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/22728/poster.jpg",
         "rating": {
           "rating_kp": "7.117",
-          "vote_num_kp": "92124",
+          "vote_num_kp": "92191",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "281082"
+          "vote_num_imdb": "281107"
         }
       }
     },
@@ -1792,7 +1903,7 @@
         "screenshot": "https://white.bazonserver.site/video/22691/poster.jpg",
         "rating": {
           "rating_kp": "8.212",
-          "vote_num_kp": "14846",
+          "vote_num_kp": "14855",
           "rating_imdb": "7.7",
           "vote_num_imdb": "290"
         }
@@ -1829,120 +1940,9 @@
         "screenshot": "https://dt2g.bazonserver.site/video/22686/poster.jpg",
         "rating": {
           "rating_kp": "7.852",
-          "vote_num_kp": "282640",
+          "vote_num_kp": "282671",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "443236"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1050231",
-      "date": "1600332607",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Эфир",
-        "orig": "Eter",
-        "alter": "",
-        "year": "2018",
-        "country": "Польша,Украина,Литва,Венгрия,Италия",
-        "director": "Кшиштоф Занусси",
-        "genre": "триллер,драма,история",
-        "actors": "Яцек Понедзялек,Жольт Ласло,Анджей Хыра,Остап Вакулюк,Мария Рябошапка,Stanislav Kolokolnikov,Малгожата Притуляк,Рафаль Мор,Виктория Дзинни,Ремо Джироне",
-        "description": "Начало 20 века. Военный врач ставит эксперименты, чтобы получить безграничную власть над людьми.",
-        "slogan": "",
-        "premiere": "20 сентября 2018",
-        "age": "0",
-        "time": "7080",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1050231.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22701/poster.jpg",
-        "rating": {
-          "rating_kp": "5.893",
-          "vote_num_kp": "201",
-          "rating_imdb": "6",
-          "vote_num_imdb": "473"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1312073",
-      "date": "1600332306",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Парамедик",
-        "orig": "El practicante",
-        "alter": "",
-        "year": "2020",
-        "country": "Испания",
-        "director": "Карлес Торрас",
-        "genre": "триллер,драма",
-        "actors": "Марио Касас,Дебора Франсуа,Гильермо Пфенинг,Сельсо Бугальо,Рауль Хименес,Мария Родригез Сото,Поль Монтаньес,Gerard Oms,Висента Н’Донго,Pau Escobar",
-        "description": "После кошмарного стечения обстоятельств бывший врач скорой помощи оказывается частично парализованным и прикованным к креслу-коляске. Он постоянно пребывает в депрессии и никак не может смириться с новой жизнью. Но, возможно, скоро всё изменится, потому что он нашёл способ выпустить накопившиеся злобу и ярость. Главный герой собирается призвать к ответу всех, кого считает предателями. И первым делом отомстить женщине, которая бросила его в тот момент, когда он больше всего в ней нуждался.",
-        "slogan": "",
-        "premiere": "16 сентября 2020",
-        "age": "0",
-        "time": "5640",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNWE5ODJjNzUtMjk5YS00ZGVhLWI3NWQtNDc5MjU2ZWNhZjllXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22753/poster.jpg",
-        "rating": {
-          "rating_kp": "5.55",
-          "vote_num_kp": "2407",
-          "rating_imdb": "5.7",
-          "vote_num_imdb": "11862"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1182408",
-      "date": "1600332146",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Пленники",
-        "orig": "Foglyok",
-        "alter": "",
-        "year": "2019",
-        "country": "Венгрия",
-        "director": "Кристоф Дек",
-        "genre": "драма",
-        "actors": "Eliza Sodró,Жофия Самоши,Эрнё Фекете,Левенте Молнар,Ádám Porogi,Габор Ясбереньи,Габор Чёре,Ференц Лендьель,Эмеше Вашвари,Bözse Soltész",
-        "description": "В 1951 году в коммунистическом Будапеште тайная полиция постучалась в дверь обычной семьи. Вместо того, чтобы арестовать ее членов, полицейские решают взять семью в плен в их собственном доме.",
-        "slogan": "",
-        "premiere": "20 сентября 2019",
-        "age": "0",
-        "time": "5280",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMmE2OWQ1ZTAtY2Y2MS00MzhkLWJlNjAtNzI1ZGRlMGQzNTNmXkEyXkFqcGdeQXVyMTMxNjQ4MzA@._V1_SY999_CR0,0,702,999_AL_.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22752/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "29",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "658"
+          "vote_num_imdb": "443275"
         }
       }
     }

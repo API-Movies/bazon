@@ -2,6 +2,231 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "153013",
+      "date": "1599406680",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "1",
+      "quality": "BDRip",
+      "translation": "LostFilm",
+      "max_qual": "1080",
+      "last_season": "4",
+      "last_episode": "21",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080
+        },
+        "2": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 1080,
+          "16": 1080,
+          "17": 1080,
+          "18": 1080,
+          "19": 1080,
+          "20": 1080
+        },
+        "3": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 1080,
+          "16": 1080,
+          "17": 1080,
+          "18": 1080,
+          "19": 1080,
+          "20": 1080,
+          "21": 1080
+        },
+        "4": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080,
+          "15": 1080,
+          "16": 1080,
+          "17": 1080,
+          "18": 1080,
+          "19": 1080,
+          "20": 1080,
+          "21": 1080
+        }
+      },
+      "info": {
+        "rus": "Звездный крейсер Галактика",
+        "orig": "Battlestar Galactica",
+        "alter": "",
+        "year": "2004",
+        "country": "США",
+        "director": "Майкл Раймер, Майкл Нанкин, Род Харди",
+        "genre": "боевик,фантастика,драма,приключения",
+        "actors": "Эдвард Джеймс Олмос, Мэри МакДоннелл, Джейми Бамбер, Джеймс Кэллис, Триша Хелфер, Грейс Пак, Кэти Сакхофф, Майкл Хоган, Аарон Дуглас, Тамо Пеникетт",
+        "description": "Чудом уцелев после нападения Сайлонов на колонии Кобола, гражданский колониальный флот в сопровождении Звёздного крейсера Галактика летит прочь от мест, где их могут найти вражеские силы. Восстановив гражданское правительство и собрав все имеющиеся силы, остатки человечества начинают неравную борьбу со временем, обстоятельствами и Сайлонами. Разбираясь с всё новыми внешними и внутренними проблемами, постепенно раскрывая личности 12 человекоподобных моделей Сайлонов, они летят на поиски давно потерянной 13 колонии Кобола, упоминания о которой есть в древних сказаниях, нового дома, имя которому - Земля.",
+        "slogan": "The world is over. The fight has just begun",
+        "premiere": "18 октября 2004",
+        "age": "16",
+        "time": "2580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_153013.jpg",
+        "screenshot": "https://white.bazonserver.site/video/22385/poster.jpg",
+        "rating": {
+          "rating_kp": "7.979",
+          "vote_num_kp": "16904",
+          "rating_imdb": "8.7",
+          "vote_num_imdb": "161970"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "229646",
+      "date": "1599406491",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "1",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "last_season": "1",
+      "last_episode": "1",
+      "episodes": {
+        "1": {
+          "1": 480
+        }
+      },
+      "info": {
+        "rus": "Эон Флакс",
+        "orig": "Æon Flux",
+        "alter": "",
+        "year": "1991",
+        "country": "США, Корея Южная, Япония",
+        "director": "Питер Чунг, Ховард Э. Бэйкер, J. Garett Sheldrew",
+        "genre": "фантастика,триллер,приключения,мультфильм",
+        "actors": "Денис Пурье, Джон Рафтер Ли, Джулия Флетчер, Стеффан Чирази, Алекс Фернандес, Пол Раджи, Сьюзэн Тёрнер-Крэй, Джафет Эшер, Андреа Карвахаль, Морган Кривс",
+        "description": "Действие мультфильма происходит в XXVI веке, когда страшный вирус уничтожил 99% населения Земли. На планете остались всего два государства - анархистская Моника и тоталитарная Бренна, которой правит ученый-диктатор Тревор Гудчайлд. Женщина-суперагент из Моники по имени Эон Флакс пытается убить Гудчайлда.",
+        "slogan": "",
+        "premiere": "30 июня 1991",
+        "age": "18",
+        "time": "1320",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_229646.jpg",
+        "screenshot": "https://white.bazonserver.site/video/22383/poster.jpg",
+        "rating": {
+          "rating_kp": "7.739",
+          "vote_num_kp": "1648",
+          "rating_imdb": "7.8",
+          "vote_num_imdb": "6195"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "178720",
+      "date": "1599406068",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "LostFilm",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "14",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080,
+          "11": 1080,
+          "12": 1080,
+          "13": 1080,
+          "14": 1080
+        }
+      },
+      "info": {
+        "rus": "Светлячок",
+        "orig": "Firefly",
+        "alter": "",
+        "year": "2002",
+        "country": "-",
+        "director": "-",
+        "genre": "драма",
+        "actors": "-",
+        "description": "Капитан Малькольм Рейнольдс - закаленный в боях ветеран галактической гражданской войны, сражавшийся на проигравшей, в итоге, стороне, зарабатывает на жизнь мелкими преступлениями и перевозит грузы на своем корабле &quot;Серенити&quot;. Он возглавляет небольшую разношерстную команду, которая порядком смахивает на самую обычную семью - ее члены вечно ссорятся, не соблюдают дисциплину, но никогда не предадут своего капитана и пойдут за ним хоть на край света.",
+        "slogan": "Meet the most spaced-out crew in the galaxy",
+        "premiere": "20 сентября 2002",
+        "age": "12",
+        "time": "2520",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGEzYjIzZGUtNWI5YS00Y2IzLWIzMTQtMGJhNDljZDkzYzM0XkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg",
+        "screenshot": "https://white.bazonserver.site/video/22382/poster.jpg",
+        "rating": {
+          "rating_kp": "8.696",
+          "vote_num_kp": "75500",
+          "rating_imdb": "9",
+          "vote_num_imdb": "258308"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "682395",
       "date": "1599404402",
       "camrip": "0",
@@ -216,9 +441,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/22347/poster.jpg",
         "rating": {
           "rating_kp": "6.549",
-          "vote_num_kp": "144281",
+          "vote_num_kp": "144360",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "314013"
+          "vote_num_imdb": "314073"
         }
       }
     },
@@ -290,9 +515,9 @@
         "screenshot": "https://pluton.bazonserver.site/video/22355/poster.jpg",
         "rating": {
           "rating_kp": "7.186",
-          "vote_num_kp": "127723",
+          "vote_num_kp": "127851",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "255496"
+          "vote_num_imdb": "255524"
         }
       }
     },
@@ -327,9 +552,9 @@
         "screenshot": "https://banana.bazonserver.site/video/22345/poster.jpg",
         "rating": {
           "rating_kp": "6.653",
-          "vote_num_kp": "38100",
+          "vote_num_kp": "38102",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "157794"
+          "vote_num_imdb": "157804"
         }
       }
     },
@@ -364,9 +589,9 @@
         "screenshot": "https://white.bazonserver.site/video/22341/poster.jpg",
         "rating": {
           "rating_kp": "7.741",
-          "vote_num_kp": "93741",
+          "vote_num_kp": "93871",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "220175"
+          "vote_num_imdb": "220211"
         }
       }
     },
@@ -512,9 +737,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/22357/poster.jpg",
         "rating": {
           "rating_kp": "7.225",
-          "vote_num_kp": "5949",
+          "vote_num_kp": "5953",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "21336"
+          "vote_num_imdb": "21343"
         }
       }
     },
@@ -549,7 +774,7 @@
         "screenshot": "https://white.bazonserver.site/video/22354/poster.jpg",
         "rating": {
           "rating_kp": "5.632",
-          "vote_num_kp": "16535",
+          "vote_num_kp": "16559",
           "rating_imdb": "5.8",
           "vote_num_imdb": "29623"
         }
@@ -676,9 +901,9 @@
         "screenshot": "https://pluton.bazonserver.site/video/22331/poster.jpg",
         "rating": {
           "rating_kp": "7.109",
-          "vote_num_kp": "68207",
+          "vote_num_kp": "68224",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "143308"
+          "vote_num_imdb": "143372"
         }
       }
     },
@@ -713,9 +938,9 @@
         "screenshot": "https://zd5q.bazonserver.site/video/22329/poster.jpg",
         "rating": {
           "rating_kp": "4.414",
-          "vote_num_kp": "78600",
+          "vote_num_kp": "78622",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "225108"
+          "vote_num_imdb": "225130"
         }
       }
     },
@@ -750,9 +975,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/22315/poster.jpg",
         "rating": {
           "rating_kp": "7.655",
-          "vote_num_kp": "113667",
+          "vote_num_kp": "113741",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "257685"
+          "vote_num_imdb": "257714"
         }
       }
     },
@@ -787,9 +1012,9 @@
         "screenshot": "https://white.bazonserver.site/video/22295/poster.jpg",
         "rating": {
           "rating_kp": "6.395",
-          "vote_num_kp": "102824",
+          "vote_num_kp": "102882",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "224632"
+          "vote_num_imdb": "224664"
         }
       }
     },
@@ -824,9 +1049,9 @@
         "screenshot": "https://pluton.bazonserver.site/video/22349/poster.jpg",
         "rating": {
           "rating_kp": "7.748",
-          "vote_num_kp": "221826",
+          "vote_num_kp": "221934",
           "rating_imdb": "6.8",
-          "vote_num_imdb": "375589"
+          "vote_num_imdb": "375634"
         }
       }
     },
@@ -898,9 +1123,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/22344/poster.jpg",
         "rating": {
           "rating_kp": "7.224",
-          "vote_num_kp": "90738",
+          "vote_num_kp": "90758",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "173287"
+          "vote_num_imdb": "173298"
         }
       }
     },
@@ -935,9 +1160,9 @@
         "screenshot": "https://pluton.bazonserver.site/video/22294/poster.jpg",
         "rating": {
           "rating_kp": "7.221",
-          "vote_num_kp": "98745",
+          "vote_num_kp": "98904",
           "rating_imdb": "7",
-          "vote_num_imdb": "131674"
+          "vote_num_imdb": "131688"
         }
       }
     },
@@ -1120,9 +1345,9 @@
         "screenshot": "https://white.bazonserver.site/video/22333/poster.jpg",
         "rating": {
           "rating_kp": "7.038",
-          "vote_num_kp": "70463",
+          "vote_num_kp": "70477",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "403457"
+          "vote_num_imdb": "403493"
         }
       }
     },
@@ -1157,7 +1382,7 @@
         "screenshot": "https://i75t.bazonserver.site/video/22292/poster.jpg",
         "rating": {
           "rating_kp": "6.188",
-          "vote_num_kp": "72651",
+          "vote_num_kp": "72664",
           "rating_imdb": "6.2",
           "vote_num_imdb": "70321"
         }
@@ -1257,9 +1482,9 @@
         "screenshot": "https://pluton.bazonserver.site/video/22296/poster.jpg",
         "rating": {
           "rating_kp": "6.355",
-          "vote_num_kp": "17803",
+          "vote_num_kp": "17812",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "86157"
+          "vote_num_imdb": "86189"
         }
       }
     },
@@ -1294,9 +1519,9 @@
         "screenshot": "https://white.bazonserver.site/video/22279/poster.jpg",
         "rating": {
           "rating_kp": "7.458",
-          "vote_num_kp": "361994",
+          "vote_num_kp": "362213",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "818147"
+          "vote_num_imdb": "818240"
         }
       }
     },
@@ -1405,7 +1630,7 @@
         "screenshot": "https://brother.bazonserver.site/video/22324/poster.jpg",
         "rating": {
           "rating_kp": "6.224",
-          "vote_num_kp": "1857",
+          "vote_num_kp": "1859",
           "rating_imdb": "5.8",
           "vote_num_imdb": "5490"
         }
@@ -1442,9 +1667,9 @@
         "screenshot": "https://black.bazonserver.site/video/22282/poster.jpg",
         "rating": {
           "rating_kp": "7.399",
-          "vote_num_kp": "319603",
+          "vote_num_kp": "319844",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "744151"
+          "vote_num_imdb": "744273"
         }
       }
     },
@@ -1479,9 +1704,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/22293/poster.jpg",
         "rating": {
           "rating_kp": "7.429",
-          "vote_num_kp": "281728",
+          "vote_num_kp": "281811",
           "rating_imdb": "6.4",
-          "vote_num_imdb": "469972"
+          "vote_num_imdb": "470030"
         }
       }
     },
@@ -1553,7 +1778,7 @@
         "screenshot": "https://white.bazonserver.site/video/22321/poster.jpg",
         "rating": {
           "rating_kp": "5.986",
-          "vote_num_kp": "3750",
+          "vote_num_kp": "3757",
           "rating_imdb": "5.3",
           "vote_num_imdb": "136"
         }
@@ -1701,9 +1926,9 @@
         "screenshot": "https://white.bazonserver.site/video/22317/poster.jpg",
         "rating": {
           "rating_kp": "7.146",
-          "vote_num_kp": "528",
+          "vote_num_kp": "529",
           "rating_imdb": "7.8",
-          "vote_num_imdb": "8725"
+          "vote_num_imdb": "8735"
         }
       }
     },
@@ -1738,9 +1963,9 @@
         "screenshot": "https://brother.bazonserver.site/video/22316/poster.jpg",
         "rating": {
           "rating_kp": "7.87",
-          "vote_num_kp": "288936",
+          "vote_num_kp": "289159",
           "rating_imdb": "8",
-          "vote_num_imdb": "473942"
+          "vote_num_imdb": "473995"
         }
       }
     },
@@ -1775,120 +2000,9 @@
         "screenshot": "https://white.bazonserver.site/video/22314/poster.jpg",
         "rating": {
           "rating_kp": "5.72",
-          "vote_num_kp": "1627",
+          "vote_num_kp": "1628",
           "rating_imdb": "4.7",
           "vote_num_imdb": "1942"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "997963",
-      "date": "1599200352",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Созданы равными",
-        "orig": "Created Equal",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Билл Дьюк",
-        "genre": "триллер,драма",
-        "actors": "Лу Даймонд Филлипс,Аарон Твейт,Лорен Комптон,Грегори Алан Уильямс,Эди Ганем,Джо-Энн Робинсон,Аарон Митчелл,Йоханс Майлс,Shaquita Smith,Микки Вэл",
-        "description": "Преуспевающий адвокат берется за дело молодой девушки, подающей в суд на Католическую церковь за дискриминацию и отказ принимать ее в семинарию для получения сана священника. Пока конфликтующие стороны пытаются выяснить, что выше: гражданские права или устои церкви, девушка становится мишенью религиозного экстремиста, готового искоренить прогрессивные убеждения любой ценой.",
-        "slogan": "",
-        "premiere": "15 июня 2017",
-        "age": "16",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_997963.jpg",
-        "screenshot": "https://banana.bazonserver.site/video/22313/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "117",
-          "rating_imdb": "5.4",
-          "vote_num_imdb": "179"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "3741",
-      "date": "1599199201",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Многоголосый",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Ребята с улицы",
-        "orig": "Boyz n the Hood",
-        "alter": "Парни с соседнего двора",
-        "year": "1991",
-        "country": "США",
-        "director": "Джон Синглтон",
-        "genre": "драма,криминал",
-        "actors": "Кьюба Гудинг мл., Айс Кьюб, Моррис Честнат, Лоренс Фишбёрн, Анджела Бассетт, Ниа Лонг, Тайра Феррелл, Реджи Грин, Алисия Роджерс, Дедрик Д. Гоберт",
-        "description": "Если вы хотите жить, вам не стоит соваться в лос-анджелесский квартал Южный Централ. Это очень опасное место, где обитают сплошь крутые черные парни - такие, например, как Тре и сводные братья Рики и Дагбой.\r\n\r\nЕжедневно варящиеся в этой адской кухне, заполненной насилием, невежеством и злобой, раю для наркоманов и убийц, они, кажется просто обречены пополнить ряды подонков общества и закончить свои дни с пулей в спине или со шприцом в вене.\r\n\r\nНо надежда вырваться из этого жуткого мира - и не ногами вперед - не покидает героев. Только вот Южный Централ не очень-то легко отпускает своих жертв...",
-        "slogan": "Once upon a time in South Central L.A. ... It ain't no fairy tale",
-        "premiere": "13 мая 1991",
-        "age": "18",
-        "time": "6720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_3741.jpg",
-        "screenshot": "https://banana.bazonserver.site/video/22312/poster.jpg",
-        "rating": {
-          "rating_kp": "7.7",
-          "vote_num_kp": "11639",
-          "rating_imdb": "7.8",
-          "vote_num_imdb": "136735"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "7450",
-      "date": "1599199127",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Многоголосый",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Кладбище домашних животных",
-        "orig": "Pet Sematary",
-        "alter": "",
-        "year": "1989",
-        "country": "США",
-        "director": "Мэри Ламберт",
-        "genre": "ужасы,триллер",
-        "actors": "Дэйл Мидкифф, Фред Гуинн, Дениз Кросби, Брэд Гринквист, Майкл Ломбард, Мико Хьюз, Блэйз Бердаль, Сьюзан Бломмарт, Мара Кларк, Кави Раз",
-        "description": "Доктор Луис Крид переезжает в маленький городок, где его семью ждет большой дом, а самого Луиса - скромная должность врача. Несчастье приходит в дом Кридов: кот Черч, домашний любимец, по нелепой случайности попадает под колеса грузовика. Гибель Черча повергает семью доктора в шок, и Луис решается на отчаянный шаг. Он хоронит кота на древнем индейском кладбище, обладающем по легенде таинственной воскрешающей силой. И однажды ночью погибший кот возвращается к хозяевам.",
-        "slogan": "A Pet Isn't Just For Life",
-        "premiere": "21 апреля 1989",
-        "age": "18",
-        "time": "6180",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7450.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22280/poster.jpg",
-        "rating": {
-          "rating_kp": "7.072",
-          "vote_num_kp": "45131",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "101270"
         }
       }
     }

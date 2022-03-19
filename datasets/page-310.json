@@ -2,6 +2,117 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1273964",
+      "date": "1603224006",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Резня в Рэдвуде: Уничтожение",
+        "orig": "Redwood Massacre: Annihilation",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Дэвид Райан Кит",
+        "genre": "ужасы",
+        "actors": "Даниэль Харрис,Дэмиен Пакер,Гари Каспер,Джон Кэмплинг,Tevy Poe,Бенжамин Селвэй,Stephanie Lynn Styles,Алек Вествуд,HemDee Kiwanuka,Gavin Park",
+        "description": "Незнакомец, одержимый нераскрытыми Рэдвудскими убийствами, убеждает группу родственников погибших отправиться в дикую местность в надежде доказать существование печально известного убийцы. Их поиски истины приводят к зловещим последствиям.",
+        "slogan": "Death has many faces",
+        "premiere": "20 октября 2020",
+        "age": "0",
+        "time": "6240",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1273964.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24052/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "128",
+          "rating_imdb": "4.1",
+          "vote_num_imdb": "425"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1277164",
+      "date": "1603215008",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Бормотание",
+        "orig": "Murmur",
+        "alter": "",
+        "year": "2019",
+        "country": "Канада",
+        "director": "Хезер Янг",
+        "genre": "драма",
+        "actors": "Andria Edwards,Shan MacDonald",
+        "description": "Жизнь главной героини невероятно скучна и монотонна. Она приходит на работу, где проводит большую часть дня, выполняя нудные и однообразные поручения, а потом возвращается в пустой дом, где её ждет лишь маленький питомец. Но однажды женщина начинает слышать странное бормотание. Оно раздается повсюду: на улице, в душе, на рабочем месте. Постепенно она свыкается с голосом, который нашептывает ей необычные и непонятные вещи, и он перестает пугать её. Она осознает, что жуткие звуки в её голове — признак серьезного расстройства, но не догадывается, насколько опасна её проблема.",
+        "slogan": "",
+        "premiere": "6 сентября 2019",
+        "age": "0",
+        "time": "5040",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODdhOWY5MjItZmY4MC00MTVjLTgwNzAtZTNkYTYxZWQ3MGFhXkEyXkFqcGdeQXVyMjI0NTIyMTQ@.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24064/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "26",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "162"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1314458",
+      "date": "1603209630",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Бигфут: Тропа зверя",
+        "orig": "Bigfoot: Path of the Beast",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Zach Bowman,Justin Snyder",
+        "genre": "ужасы",
+        "actors": "Justin Snyder,Matthew Pulling,Саманта Уэллер,Сюзанна Вудхед,Джейсон Алан Кук,Kala Cooper,Anissa Deanna,Robert Deigh,Lynzey Donahue,Марк Гудман",
+        "description": "После загадочного исчезновения жены мужчина страдает от алкоголизма и жаждет убить Бигфута, но для этого придется найти его и выжить в условиях дикой природы и нарастающего безумия.",
+        "slogan": "Proof is good, blood is better",
+        "premiere": "",
+        "age": "0",
+        "time": "5580",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1314458.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24048/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "17",
+          "rating_imdb": "2.6",
+          "vote_num_imdb": "134"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1099183",
       "date": "1603209630",
       "camrip": "0",
@@ -68,7 +179,7 @@
         "screenshot": "https://white.bazonserver.site/video/24063/poster.jpg",
         "rating": {
           "rating_kp": "4.216",
-          "vote_num_kp": "603",
+          "vote_num_kp": "605",
           "rating_imdb": "3.5",
           "vote_num_imdb": "865"
         }
@@ -142,7 +253,7 @@
         "screenshot": "https://pluton.bazonserver.site/video/24044/poster.jpg",
         "rating": {
           "rating_kp": "6.326",
-          "vote_num_kp": "21967",
+          "vote_num_kp": "21970",
           "rating_imdb": "6.8",
           "vote_num_imdb": "31145"
         }
@@ -702,8 +813,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_89587.jpg",
         "screenshot": "https://white.bazonserver.site/video/24033/poster.jpg",
         "rating": {
-          "rating_kp": "7.892",
-          "vote_num_kp": "11997",
+          "rating_kp": "7.893",
+          "vote_num_kp": "12001",
           "rating_imdb": "7.4",
           "vote_num_imdb": "18190"
         }
@@ -758,7 +869,7 @@
         "screenshot": "https://white.bazonserver.site/video/24032/poster.jpg",
         "rating": {
           "rating_kp": "6.636",
-          "vote_num_kp": "7944",
+          "vote_num_kp": "7956",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -917,9 +1028,9 @@
         "screenshot": "https://white.bazonserver.site/video/24029/poster.jpg",
         "rating": {
           "rating_kp": "6.204",
-          "vote_num_kp": "2507",
+          "vote_num_kp": "2511",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "23101"
+          "vote_num_imdb": "23128"
         }
       }
     },
@@ -1057,7 +1168,7 @@
         "screenshot": "https://white.bazonserver.site/video/24027/poster.jpg",
         "rating": {
           "rating_kp": "8.169",
-          "vote_num_kp": "35150",
+          "vote_num_kp": "35195",
           "rating_imdb": "8.1",
           "vote_num_imdb": "786"
         }
@@ -1558,7 +1669,7 @@
         "screenshot": "https://white.bazonserver.site/video/24020/poster.jpg",
         "rating": {
           "rating_kp": "6.589",
-          "vote_num_kp": "7373",
+          "vote_num_kp": "7391",
           "rating_imdb": "7.2",
           "vote_num_imdb": "24275"
         }
@@ -1594,8 +1705,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_38100.jpg",
         "screenshot": "https://white.bazonserver.site/video/24018/poster.jpg",
         "rating": {
-          "rating_kp": "7.671",
-          "vote_num_kp": "6012",
+          "rating_kp": "7.672",
+          "vote_num_kp": "6017",
           "rating_imdb": "6.6",
           "vote_num_imdb": "3688"
         }
@@ -1705,10 +1816,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_915.jpg",
         "screenshot": "https://white.bazonserver.site/video/24015/poster.jpg",
         "rating": {
-          "rating_kp": "7.23",
-          "vote_num_kp": "1715",
+          "rating_kp": "7.231",
+          "vote_num_kp": "1721",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "23300"
+          "vote_num_imdb": "23386"
         }
       }
     },
@@ -1817,9 +1928,9 @@
         "screenshot": "https://white.bazonserver.site/video/24012/poster.jpg",
         "rating": {
           "rating_kp": "7.061",
-          "vote_num_kp": "246",
+          "vote_num_kp": "248",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "7030"
+          "vote_num_imdb": "7043"
         }
       }
     },
@@ -2076,7 +2187,7 @@
         "screenshot": "https://white.bazonserver.site/video/24004/poster.jpg",
         "rating": {
           "rating_kp": "5.651",
-          "vote_num_kp": "11863",
+          "vote_num_kp": "11865",
           "rating_imdb": "4.6",
           "vote_num_imdb": "2324"
         }
@@ -2153,117 +2264,6 @@
           "vote_num_kp": "2930",
           "rating_imdb": "6.3",
           "vote_num_imdb": "9602"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "25187",
-      "date": "1603110202",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Женщины в клетках",
-        "orig": "Women in Cages",
-        "alter": "",
-        "year": "1971",
-        "country": "Филиппины,США",
-        "director": "Жерардо Де Леон",
-        "genre": "боевик,драма,криминал",
-        "actors": "Джуди Браун,Роберта Коллинз,Джинни Ган,Пэм Гриер,Бернард Боннин,Чарли Давао,Джонни Лонг,Холли Андерс,Дуайт Ховард,Роберта Свифт",
-        "description": "Девушка Джефф не подозревает, что ее дружок Руди крепко связан с организованной преступностью. Однажды он попадает в руки полиции с большой дозой героина, но успевает подсунуть пакет в сумку Джефф. Полиция арестовывает девушку, а Руди убеждает ее не выдавать его. Джефф осуждают и отправляют отбывать наказание в женскую тюрьму строгого режима. Она попадает в камеру с тремя другими заключенными и сталкивается с жестокой начальницей тюрьмы Алабамой…",
-        "slogan": "White skin on the black market!",
-        "premiere": "20 октября 1971",
-        "age": "18",
-        "time": "4860",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_25187.jpg",
-        "screenshot": "https://white.bazonserver.site/video/24001/poster.jpg",
-        "rating": {
-          "rating_kp": "5.317",
-          "vote_num_kp": "190",
-          "rating_imdb": "5",
-          "vote_num_imdb": "1599"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "8787",
-      "date": "1603110192",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "HDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Банда с Лавендер Хилл",
-        "orig": "The Lavender Hill Mob",
-        "alter": "",
-        "year": "1951",
-        "country": "Великобритания",
-        "director": "Чарльз Крайтон",
-        "genre": "комедия,криминал",
-        "actors": "Алек Гиннесс,Стэнли Холлоуэй,Сидни Джеймс,Элфи Бэсс,Марджори Филдинг,Эди Мартин,Джон Салью,Рональд Адам,Артур Хэмблинг,Гибб МакЛафлин",
-        "description": "Ограбление века – вот о чём мечтает перевозчик золотых слитков с мягкими манерами, вылитый божий агнец, потаённые мысли которого нездоровы, как у всех бледных поганок... После 20 лет безупречной службы он вдруг решает украсть золота на миллион фунтов стерлингов...",
-        "slogan": "He stole $3,000,000 in gold and that&#x27;s a lot of BULLion!",
-        "premiere": "28 июня 1951",
-        "age": "16",
-        "time": "4680",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_8787.jpg",
-        "screenshot": "https://white.bazonserver.site/video/24000/poster.jpg",
-        "rating": {
-          "rating_kp": "7.299",
-          "vote_num_kp": "963",
-          "rating_imdb": "7.6",
-          "vote_num_imdb": "13923"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "9406",
-      "date": "1603110083",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Богатство в любви",
-        "orig": "Rich in Love",
-        "alter": "",
-        "year": "1992",
-        "country": "США",
-        "director": "Брюс Бересфорд",
-        "genre": "драма",
-        "actors": "Альберт Финни,Джилл Клейбёрг,Кэтрин Эрбе,Кайл МакЛоклен,Пайпер Лори,Итан Хоук,Сьюзи Эймис,Элфри Вудард,Леон Приджен,Дейв Хэгер",
-        "description": "Колоритная история из жизни в южных штатах США. Сюжет строится вокруг истории девушки, которая пытается предотвратить распад семьи и сгладить конфликты столь разных характеров, какими наделены ее близкие. Для Люсиль это было последнее лето детства: она закончила школу, и ей предстояло поступление в университет. Непонятный и загадочный мир взрослых одновременно манил и пугал девушку.",
-        "slogan": "",
-        "premiere": "29 октября 1992",
-        "age": "12",
-        "time": "6300",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_9406.jpg",
-        "screenshot": "https://white.bazonserver.site/video/23999/poster.jpg",
-        "rating": {
-          "rating_kp": "6.039",
-          "vote_num_kp": "128",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "849"
         }
       }
     }

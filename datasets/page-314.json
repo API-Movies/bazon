@@ -2,6 +2,133 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1241653",
+      "date": "1602970222",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Чёрный мерседес",
+        "orig": "Czarny Mercedes",
+        "alter": "",
+        "year": "2019",
+        "country": "Польша",
+        "director": "Януш Маевский",
+        "genre": "криминал,военный",
+        "actors": "Мария Дембска,Aleksandar Milicevic,Артур Жмиевски,Анджей Зелиньски,Лукаш Сикора,Соня Бохосевич,Анджей Масталеж,Изабелла Дабровска,Анджей Барановский,Пжемыслав Блущ",
+        "description": "В оккупированной нацистами Варшаве находят убитой в своей же квартире красавицу жену адвоката Кароля Хольцера Кристину. Дело поручено инспектору Рафалу Крулю - офицеру, так называемой, «Синей полиции» контролируемую немцами, который также является членом польского подпольного движения. Кто и зачем убил Кристину во времена, когда каждый день гибнут тысячи невинных людей?",
+        "slogan": "Kazdy ma cos do ukrycia",
+        "premiere": "18 сентября 2019",
+        "age": "0",
+        "time": "6600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1241653.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23846/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "32",
+          "rating_imdb": "5.5",
+          "vote_num_imdb": "550"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1392579",
+      "date": "1602970217",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Сказка",
+        "orig": "Fabula",
+        "alter": "",
+        "year": "2020",
+        "country": "Италия",
+        "director": "Denis Frison",
+        "genre": "ужасы,триллер,детектив",
+        "actors": "Denis Frison,Elena Griggio,Diego De Francesco,Роберта Барбьеро,Fabio Roshi Basso,Chiara Alice Benetti,Luca Boscolo,Renato Frison,Davide Lazzaretto,Alice Manente",
+        "description": "Сказки не всегда оказывают на детей нужный эффект. Бывший детектив, страдающий от боязни темноты, прибывает в город и обнаруживает себя вовлеченным в цепь странных событий. Серийный убийца ведет его в сказочный кошмар.",
+        "slogan": "",
+        "premiere": "4 сентября 2020",
+        "age": "0",
+        "time": "7500",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGZjNDk1OGEtYWQ5OS00M2FiLTljYjgtZTFhNWUxYmQ4NjgyXkEyXkFqcGdeQXVyNjEyMDA3Nzk@.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23845/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "14",
+          "rating_imdb": "5",
+          "vote_num_imdb": "44"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1007863",
+      "date": "1602954556",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "LostFilm",
+      "max_qual": "1080",
+      "last_season": "1",
+      "last_episode": "10",
+      "episodes": {
+        "1": {
+          "1": 1080,
+          "2": 1080,
+          "3": 1080,
+          "4": 1080,
+          "5": 1080,
+          "6": 1080,
+          "7": 1080,
+          "8": 1080,
+          "9": 1080,
+          "10": 1080
+        }
+      },
+      "info": {
+        "rus": "Мгла",
+        "orig": "The Mist",
+        "alter": "",
+        "year": "2017",
+        "country": "США",
+        "director": "Гай Ферленд, Ник Мерфи, Адам Бернштейн",
+        "genre": "ужасы,фантастика,драма",
+        "actors": "Морган Спектор, Алисса Сазерленд, Гас Бирни, Даница Чурчич, Окези Морро, Люк Косгров, Даррен Петти, Расселл Познер, Фрэнсис Конрой, Ирен Бедард",
+        "description": "Жуткий непроглядный туман настиг маленький городок. Его жителям придётся сражаться с таинственным явлением и его угрозами, борясь за сохранение нравственности и здравомыслия.",
+        "slogan": "Fear. Human. Nature",
+        "premiere": "22 июня 2017",
+        "age": "0",
+        "time": "3600",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1007863.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23841/poster.jpg",
+        "rating": {
+          "rating_kp": "5.104",
+          "vote_num_kp": "6006",
+          "rating_imdb": "5.4",
+          "vote_num_imdb": "24383"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "963682",
       "date": "1602954442",
       "camrip": "0",
@@ -148,9 +275,9 @@
         "screenshot": "https://white.bazonserver.site/video/23838/poster.jpg",
         "rating": {
           "rating_kp": "7.36",
-          "vote_num_kp": "20385",
+          "vote_num_kp": "20394",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "37540"
+          "vote_num_imdb": "37545"
         }
       }
     },
@@ -296,7 +423,7 @@
         "screenshot": "https://white.bazonserver.site/video/23832/poster.jpg",
         "rating": {
           "rating_kp": "5.985",
-          "vote_num_kp": "20171",
+          "vote_num_kp": "20174",
           "rating_imdb": "4.1",
           "vote_num_imdb": "49771"
         }
@@ -386,7 +513,7 @@
         "screenshot": "https://white.bazonserver.site/video/23779/poster.jpg",
         "rating": {
           "rating_kp": "5.607",
-          "vote_num_kp": "27546",
+          "vote_num_kp": "27553",
           "rating_imdb": "5.2",
           "vote_num_imdb": "51144"
         }
@@ -423,7 +550,7 @@
         "screenshot": "https://white.bazonserver.site/video/23825/poster.jpg",
         "rating": {
           "rating_kp": "5.351",
-          "vote_num_kp": "10009",
+          "vote_num_kp": "10011",
           "rating_imdb": "5.7",
           "vote_num_imdb": "12809"
         }
@@ -571,7 +698,7 @@
         "screenshot": "https://banana.bazonserver.site/video/23750/poster.jpg",
         "rating": {
           "rating_kp": "5.824",
-          "vote_num_kp": "6220",
+          "vote_num_kp": "6222",
           "rating_imdb": "5.4",
           "vote_num_imdb": "34358"
         }
@@ -780,7 +907,7 @@
         "screenshot": "https://white.bazonserver.site/video/23818/poster.jpg",
         "rating": {
           "rating_kp": "7.706",
-          "vote_num_kp": "17711",
+          "vote_num_kp": "17718",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -816,10 +943,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1172468.jpg",
         "screenshot": "https://white.bazonserver.site/video/23800/poster.jpg",
         "rating": {
-          "rating_kp": "5.423",
+          "rating_kp": "5.421",
           "vote_num_kp": "1722",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "1303"
+          "vote_num_imdb": "1307"
         }
       }
     },
@@ -854,7 +981,7 @@
         "screenshot": "https://white.bazonserver.site/video/23816/poster.jpg",
         "rating": {
           "rating_kp": "6.201",
-          "vote_num_kp": "10914",
+          "vote_num_kp": "10918",
           "rating_imdb": "5.9",
           "vote_num_imdb": "447"
         }
@@ -890,8 +1017,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_893259.jpg",
         "screenshot": "https://white.bazonserver.site/video/23815/poster.jpg",
         "rating": {
-          "rating_kp": "5.115",
-          "vote_num_kp": "6706",
+          "rating_kp": "5.111",
+          "vote_num_kp": "6730",
           "rating_imdb": "4.7",
           "vote_num_imdb": "316"
         }
@@ -941,8 +1068,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1313211.jpg",
         "screenshot": "https://white.bazonserver.site/video/23813/poster.jpg",
         "rating": {
-          "rating_kp": "7.392",
-          "vote_num_kp": "6743",
+          "rating_kp": "7.393",
+          "vote_num_kp": "6763",
           "rating_imdb": "7",
           "vote_num_imdb": "92"
         }
@@ -1043,8 +1170,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1006637.jpg",
         "screenshot": "https://white.bazonserver.site/video/23811/poster.jpg",
         "rating": {
-          "rating_kp": "7.841",
-          "vote_num_kp": "19009",
+          "rating_kp": "7.842",
+          "vote_num_kp": "19048",
           "rating_imdb": "7.3",
           "vote_num_imdb": "125"
         }
@@ -1097,7 +1224,7 @@
         "screenshot": "https://white.bazonserver.site/video/23810/poster.jpg",
         "rating": {
           "rating_kp": "8.005",
-          "vote_num_kp": "27650",
+          "vote_num_kp": "27668",
           "rating_imdb": "7.5",
           "vote_num_imdb": "183"
         }
@@ -1147,8 +1274,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_687929.jpg",
         "screenshot": "https://white.bazonserver.site/video/23809/poster.jpg",
         "rating": {
-          "rating_kp": "7.242",
-          "vote_num_kp": "24998",
+          "rating_kp": "7.243",
+          "vote_num_kp": "25028",
           "rating_imdb": "7.1",
           "vote_num_imdb": "202"
         }
@@ -1221,10 +1348,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1040748.jpg",
         "screenshot": "https://white.bazonserver.site/video/23754/poster.jpg",
         "rating": {
-          "rating_kp": "7.033",
-          "vote_num_kp": "42777",
+          "rating_kp": "7.032",
+          "vote_num_kp": "42813",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "44297"
+          "vote_num_imdb": "44314"
         }
       }
     },
@@ -1480,10 +1607,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1007921.jpg",
         "screenshot": "https://yq4u.bazonserver.site/video/23756/poster.jpg",
         "rating": {
-          "rating_kp": "7.561",
-          "vote_num_kp": "16485",
+          "rating_kp": "7.566",
+          "vote_num_kp": "16556",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "20694"
+          "vote_num_imdb": "20703"
         }
       }
     },
@@ -1703,9 +1830,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/23737/poster.jpg",
         "rating": {
           "rating_kp": "6.935",
-          "vote_num_kp": "352070",
+          "vote_num_kp": "352127",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "600407"
+          "vote_num_imdb": "600492"
         }
       }
     },
@@ -1891,117 +2018,6 @@
           "vote_num_kp": "18485",
           "rating_imdb": "7.7",
           "vote_num_imdb": "153375"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "476",
-      "date": "1602819076",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Назад в будущее",
-        "orig": "Back to the Future",
-        "alter": "",
-        "year": "1985",
-        "country": "США",
-        "director": "Роберт Земекис",
-        "genre": "комедия,фантастика,приключения",
-        "actors": "Майкл Дж. Фокс, Кристофер Ллойд, Лиа Томпсон, Криспин Гловер, Томас Ф. Уилсон, Клаудия Уэллс, Марк МакКлюр, Уэнди Джо Спербер, Джордж ДиЧенцо, Фрэнсис Ли МакКейн",
-        "description": "Подросток Марти с помощью машины времени, сооружённой его другом-профессором доком Брауном, попадает из 80-х в далекие 50-е. Там он встречается со своими будущими родителями, ещё подростками, и другом-профессором, совсем молодым.",
-        "slogan": "Семнадцатилетний Марти МакФлай пришел вчера домой пораньше. На 30 лет раньше",
-        "premiere": "3 июля 1985",
-        "age": "6",
-        "time": "6960",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_476.jpg",
-        "screenshot": "https://yq4u.bazonserver.site/video/23738/poster.jpg",
-        "rating": {
-          "rating_kp": "8.632",
-          "vote_num_kp": "518491",
-          "rating_imdb": "8.6",
-          "vote_num_imdb": "1149814"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "397494",
-      "date": "1602818456",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Район №9",
-        "orig": "District 9",
-        "alter": "",
-        "year": "2009",
-        "country": "ЮАР, США, Новая Зеландия, Канада",
-        "director": "Нил Бломкамп",
-        "genre": "боевик,фантастика,триллер,драма",
-        "actors": "Шарлто Копли, Джейсон Коуп, Натали Болтт, Сильвен Страйк, Элизабет Мкандави, Джон Самнер, Уильям Аллен Янг, Грег Мелвилл-Смит, Ник Блейк, Морена Буса Сесатса",
-        "description": "Более 20 лет назад инопланетяне установили первый контакт с Землей. Люди были готовы ко всему - от враждебного вторжения до невероятного технологического прорыва. Ни того, ни другого не произошло. Пришельцы оказались беженцами со своей собственной планеты, и пока мировое сообщество решало, что с ними делать дальше, для них был организован временный лагерь в южноафриканском Районе N9.",
-        "slogan": "Им здесь не место",
-        "premiere": "13 августа 2009",
-        "age": "16",
-        "time": "6720",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_397494.jpg",
-        "screenshot": "https://white.bazonserver.site/video/23733/poster.jpg",
-        "rating": {
-          "rating_kp": "7.764",
-          "vote_num_kp": "249267",
-          "rating_imdb": "7.9",
-          "vote_num_imdb": "666812"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "7103",
-      "date": "1602817740",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Назад в будущее 3",
-        "orig": "Back to the Future Part III",
-        "alter": "",
-        "year": "1990",
-        "country": "США",
-        "director": "Роберт Земекис",
-        "genre": "комедия,фантастика,вестерн,приключения",
-        "actors": "Майкл Дж. Фокс, Кристофер Ллойд, Мэри Стинберген, Томас Ф. Уилсон, Лиа Томпсон, Элизабет Шу, Мэтт Кларк, Ричард А. Дайсарт, Пэт Баттрем, Гарри Кэри мл.",
-        "description": "Из газет 1955 года Марти узнает, что доктор Браун погиб еще сто лет назад. Несмотря на просьбы Дока не навещать его в XIX веке, Марти вновь хочет вмешаться в ход событий и на машине времени уносится в 1885 год, навстречу Дикому Западу. \r\n\r\nЭто путешествие, как и все прежние, не обходится без опасных приключений, но смелый Марти, рискуя жизнью, предотвращает трагедию в жизни Эммета Брауна. Тот, в свою очередь, без памяти влюбляется в очаровательную незнакомку, которую спасает от гибели, и поездка домой - в будущее - теряет для него всякий смысл...",
-        "slogan": "Лучшее путешествие они оставили напоследок... Но в этот раз они зашли слишком далеко...",
-        "premiere": "25 мая 1990",
-        "age": "6",
-        "time": "7080",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_7103.jpg",
-        "screenshot": "https://white.bazonserver.site/video/23739/poster.jpg",
-        "rating": {
-          "rating_kp": "8.177",
-          "vote_num_kp": "299856",
-          "rating_imdb": "7.5",
-          "vote_num_imdb": "432557"
         }
       }
     }

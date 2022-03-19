@@ -2,6 +2,117 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1219417",
+      "date": "1599669969",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "4K UHD",
+      "translation": "Дубляж",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Дитя погоды",
+        "orig": "Tenki no ko",
+        "alter": "Weathering With You",
+        "year": "2019",
+        "country": "Япония",
+        "director": "Макото Синкай",
+        "genre": "аниме,мультфильм,мелодрама,фэнтези",
+        "actors": "Котаро Дайго,Нана Мори,Сюн Огури,Цубаса Хонда,Тиэко Байсё,Кана Ханадзава,Сэи Хираидзуми,Кана Итиносэ,Юки Кадзи,Рюносукэ Камики",
+        "description": "Они встретились посреди Токио под нескончаемым дождем. Он мечтает начать новую жизнь в большом городе. А она никогда не унывает и обладает удивительным даром менять погоду силой мысли. Там, где она &#151; всегда солнце. Вместе они изменят этот мир навсегда.",
+        "slogan": "Это история про тайну мироздания. Секрет, который знаем только мы с ней",
+        "premiere": "15 января 2019",
+        "age": "12",
+        "time": "6720",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1219417.jpg",
+        "screenshot": "https://i75t.bazonserver.site/video/22454/poster.jpg",
+        "rating": {
+          "rating_kp": "7.915",
+          "vote_num_kp": "79886",
+          "rating_imdb": "7.5",
+          "vote_num_imdb": "35455"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "635370",
+      "date": "1599669001",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Всегда",
+        "orig": "O-jik geu-dae-man",
+        "alter": "",
+        "year": "2011",
+        "country": "Корея Южная",
+        "director": "Сон Иль-гон",
+        "genre": "боевик,мелодрама,драма",
+        "actors": "Со Джи-соп, Хан Хё-джу, Кан Щин-иль, Пак Чхоль-мин, Сын-пэ Ви, О Гван-нок, Чин Гу, Хан И-джин, Чон Ду-гём, Соль Джи-юн",
+        "description": "Бывший боксёр Чхоль-мин теперь работает охранником на парковке и развозит воду в бутылях. Однажды во время вечернего дежурства к нему приходит слепая девушка, которая с прежним охранником смотрела сериалы по вечерам. Между молодыми людьми завязывается дружба, а затем и любовь. Чхоль-мин чувствует, что должен защищать свою любимую и сделать всё возможное, чтобы вернуть ей возможность видеть.",
+        "slogan": "",
+        "premiere": "6 октября 2011",
+        "age": "0",
+        "time": "6480",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_635370.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/22510/poster.jpg",
+        "rating": {
+          "rating_kp": "8.062",
+          "vote_num_kp": "21108",
+          "rating_imdb": "7.7",
+          "vote_num_imdb": "9620"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1187971",
+      "date": "1599660011",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Шафрановое сердце",
+        "orig": "Шафрановое сердце",
+        "alter": "",
+        "year": "2018",
+        "country": "Россия,Индия",
+        "director": "Павел Маклай",
+        "genre": "семейный,приключения",
+        "actors": "Вадим Демчог",
+        "description": "История маленького тибетского мальчика Лобсанга. Родители отправляют его в буддийский монастырь. Вначале он держится особняком и даже совершает несколько попыток побега. Чтобы заинтересовать мальчика, его учитель придумывает игру: карту-квест, состоящую из восьми загадок. На карте изображен монастырь, каждому значимому месту в нем соответствует символ и загадка. Распутывая нити головоломки, Лобсанг находит путь домой, обретает новых друзей, а также принимает свое первое взрослое решение.",
+        "slogan": "Journey begins!",
+        "premiere": "",
+        "age": "6",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1187971.jpg",
+        "screenshot": "https://white.bazonserver.site/video/22509/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "139",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "99944",
       "date": "1599659122",
       "camrip": "0",
@@ -216,7 +327,7 @@
         "screenshot": "https://white.bazonserver.site/video/22501/poster.jpg",
         "rating": {
           "rating_kp": "7.101",
-          "vote_num_kp": "330",
+          "vote_num_kp": "331",
           "rating_imdb": "3.6",
           "vote_num_imdb": "2566"
         }
@@ -290,9 +401,9 @@
         "screenshot": "https://white.bazonserver.site/video/22498/poster.jpg",
         "rating": {
           "rating_kp": "7.34",
-          "vote_num_kp": "31936",
+          "vote_num_kp": "31947",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "94762"
+          "vote_num_imdb": "94765"
         }
       }
     },
@@ -327,9 +438,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/22499/poster.jpg",
         "rating": {
           "rating_kp": "7.638",
-          "vote_num_kp": "201473",
+          "vote_num_kp": "201526",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "614061"
+          "vote_num_imdb": "614193"
         }
       }
     },
@@ -438,7 +549,7 @@
         "screenshot": "https://white.bazonserver.site/video/22457/poster.jpg",
         "rating": {
           "rating_kp": "5.639",
-          "vote_num_kp": "3888",
+          "vote_num_kp": "3891",
           "rating_imdb": "6.4",
           "vote_num_imdb": "13923"
         }
@@ -475,9 +586,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/22461/poster.jpg",
         "rating": {
           "rating_kp": "7.901",
-          "vote_num_kp": "261197",
+          "vote_num_kp": "261314",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "1009508"
+          "vote_num_imdb": "1009628"
         }
       }
     },
@@ -512,9 +623,9 @@
         "screenshot": "https://white.bazonserver.site/video/22495/poster.jpg",
         "rating": {
           "rating_kp": "6.644",
-          "vote_num_kp": "13059",
+          "vote_num_kp": "13069",
           "rating_imdb": "6.6",
-          "vote_num_imdb": "79766"
+          "vote_num_imdb": "79789"
         }
       }
     },
@@ -622,8 +733,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_32134.jpg",
         "screenshot": "https://white.bazonserver.site/video/22492/poster.jpg",
         "rating": {
-          "rating_kp": "5.027",
-          "vote_num_kp": "566",
+          "rating_kp": "5.033",
+          "vote_num_kp": "567",
           "rating_imdb": "4.8",
           "vote_num_imdb": "4687"
         }
@@ -697,7 +808,7 @@
         "screenshot": "https://brother.bazonserver.site/video/22490/poster.jpg",
         "rating": {
           "rating_kp": "5.549",
-          "vote_num_kp": "9970",
+          "vote_num_kp": "9971",
           "rating_imdb": "3.8",
           "vote_num_imdb": "25663"
         }
@@ -807,10 +918,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_325381.jpg",
         "screenshot": "https://white.bazonserver.site/video/22459/poster.jpg",
         "rating": {
-          "rating_kp": "8.008",
-          "vote_num_kp": "338390",
+          "rating_kp": "8.009",
+          "vote_num_kp": "338539",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "1005309"
+          "vote_num_imdb": "1005430"
         }
       }
     },
@@ -845,7 +956,7 @@
         "screenshot": "https://white.bazonserver.site/video/22456/poster.jpg",
         "rating": {
           "rating_kp": "7.581",
-          "vote_num_kp": "34188",
+          "vote_num_kp": "34189",
           "rating_imdb": "7.2",
           "vote_num_imdb": "284379"
         }
@@ -882,9 +993,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/22453/poster.jpg",
         "rating": {
           "rating_kp": "8.649",
-          "vote_num_kp": "113519",
+          "vote_num_kp": "113574",
           "rating_imdb": "8.2",
-          "vote_num_imdb": "139583"
+          "vote_num_imdb": "139618"
         }
       }
     },
@@ -1103,8 +1214,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1020995.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/22455/poster.jpg",
         "rating": {
-          "rating_kp": "6.419",
-          "vote_num_kp": "4215",
+          "rating_kp": "6.418",
+          "vote_num_kp": "4218",
           "rating_imdb": "5.9",
           "vote_num_imdb": "13105"
         }
@@ -1141,9 +1252,9 @@
         "screenshot": "https://white.bazonserver.site/video/22479/poster.jpg",
         "rating": {
           "rating_kp": "7.854",
-          "vote_num_kp": "226460",
+          "vote_num_kp": "226524",
           "rating_imdb": "8",
-          "vote_num_imdb": "757684"
+          "vote_num_imdb": "757730"
         }
       }
     },
@@ -1755,117 +1866,6 @@
           "vote_num_kp": "18",
           "rating_imdb": "6.8",
           "vote_num_imdb": "165"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1214227",
-      "date": "1599542118",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Счастливей некуда",
-        "orig": "Lyckligare kan ingen vara",
-        "alter": "",
-        "year": "2018",
-        "country": "Швеция",
-        "director": "Стаффан Линдберг",
-        "genre": "мелодрама,комедия",
-        "actors": "Хелена Аф Сандеберг,Моника Алборноз,Лиза Петтерссон,Миа Бенсон,Филип Берг,Челль Бергквист,Майя Ханссон-Бергвист,Игл Ай Черри,Ингве Далберг,Petter Egnefors",
-        "description": "История вращается вокруг пяти пар разных поколений. Их жизни связаны как совпадениями, так и осознанно принятыми решениями, в основе которых лежит стремление к любви.",
-        "slogan": "",
-        "premiere": "21 декабря 2018",
-        "age": "0",
-        "time": "6780",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTRlZmUyZmMtMTE3Zi00OTg1LWE4YTEtNWYyNGZmZDAwNDgzXkEyXkFqcGdeQXVyMjYyMjcxNzg@.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22447/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "4",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "739"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "781776",
-      "date": "1599542110",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Прорыв мутантов",
-        "orig": "Mutant Blast",
-        "alter": "",
-        "year": "2018",
-        "country": "США,Португалия",
-        "director": "Фернандо Элл",
-        "genre": "ужасы,фантастика,боевик,комедия",
-        "actors": "Pedro Barão Dias,Мария Лейте,Хоаким Гуирейро,João Vilas,Марио Оливейра,Клементе Сантос,Francisco Afonso Lopes,София Рейш,Gonçalo Alves,Pedro Caseiro",
-        "description": "Когда бразильская военная программа по производству суперсолдат даёт сбой и на свободу вырываются зом... неудачные образцы с разлагающейся плотью и страстью к каннибализму. Генерал из тайной хунты решает замести следы ковровыми бомбардировками зараженных районов, вот только бомбы, по ошибке, сбрасывают атомные. И это приводит к взрывной волне мутаций среди всех выживших! Главному герою, с крысой вместо руки, придется найти выход из ядерного кошмара, пока за ним охотится генетически модифицированный биотерминатор.",
-        "slogan": "",
-        "premiere": "6 сентября 2018",
-        "age": "0",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_781776.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22446/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "67",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "6226"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "968689",
-      "date": "1599522315",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Атлант",
-        "orig": "Atlas",
-        "alter": "",
-        "year": "2018",
-        "country": "Германия",
-        "director": "David Nawrath",
-        "genre": "драма",
-        "actors": "Райнер Бок,Альбрехт Шух,Уве Пройсс,Торстен Мертен,Roman Kanonik,Нина Гуммих,Masi Aziz,Мохаммад-Али Бехбуди,Ян Брюштедт,Zübeyde Bulut",
-        "description": "60-летний Вальтер работает грузчиком и помогает принудительно выселять людей из квартир. Он узнает в одном из жильцов, которых собираются выселить, своего сына, Яна, с которым долгое время не общался. Чтобы помочь Яну, Вальтер должен противостоять не только своему нечестному боссу, но и своему прошлому.",
-        "slogan": "",
-        "premiere": "24 октября 2018",
-        "age": "0",
-        "time": "5940",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_968689.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22444/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "32",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "469"
         }
       }
     }

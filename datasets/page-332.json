@@ -2,6 +2,117 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1050231",
+      "date": "1600332607",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Эфир",
+        "orig": "Eter",
+        "alter": "",
+        "year": "2018",
+        "country": "Польша,Украина,Литва,Венгрия,Италия",
+        "director": "Кшиштоф Занусси",
+        "genre": "триллер,драма,история",
+        "actors": "Яцек Понедзялек,Жольт Ласло,Анджей Хыра,Остап Вакулюк,Мария Рябошапка,Stanislav Kolokolnikov,Малгожата Притуляк,Рафаль Мор,Виктория Дзинни,Ремо Джироне",
+        "description": "Начало 20 века. Военный врач ставит эксперименты, чтобы получить безграничную власть над людьми.",
+        "slogan": "",
+        "premiere": "20 сентября 2018",
+        "age": "0",
+        "time": "7080",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1050231.jpg",
+        "screenshot": "https://white.bazonserver.site/video/22701/poster.jpg",
+        "rating": {
+          "rating_kp": "5.893",
+          "vote_num_kp": "201",
+          "rating_imdb": "6",
+          "vote_num_imdb": "473"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1312073",
+      "date": "1600332306",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Парамедик",
+        "orig": "El practicante",
+        "alter": "",
+        "year": "2020",
+        "country": "Испания",
+        "director": "Карлес Торрас",
+        "genre": "триллер,драма",
+        "actors": "Марио Касас,Дебора Франсуа,Гильермо Пфенинг,Сельсо Бугальо,Рауль Хименес,Мария Родригез Сото,Поль Монтаньес,Gerard Oms,Висента Н’Донго,Pau Escobar",
+        "description": "После кошмарного стечения обстоятельств бывший врач скорой помощи оказывается частично парализованным и прикованным к креслу-коляске. Он постоянно пребывает в депрессии и никак не может смириться с новой жизнью. Но, возможно, скоро всё изменится, потому что он нашёл способ выпустить накопившиеся злобу и ярость. Главный герой собирается призвать к ответу всех, кого считает предателями. И первым делом отомстить женщине, которая бросила его в тот момент, когда он больше всего в ней нуждался.",
+        "slogan": "",
+        "premiere": "16 сентября 2020",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWE5ODJjNzUtMjk5YS00ZGVhLWI3NWQtNDc5MjU2ZWNhZjllXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "screenshot": "https://white.bazonserver.site/video/22753/poster.jpg",
+        "rating": {
+          "rating_kp": "5.55",
+          "vote_num_kp": "2409",
+          "rating_imdb": "5.7",
+          "vote_num_imdb": "11862"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1182408",
+      "date": "1600332146",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Пленники",
+        "orig": "Foglyok",
+        "alter": "",
+        "year": "2019",
+        "country": "Венгрия",
+        "director": "Кристоф Дек",
+        "genre": "драма",
+        "actors": "Eliza Sodró,Жофия Самоши,Эрнё Фекете,Левенте Молнар,Ádám Porogi,Габор Ясбереньи,Габор Чёре,Ференц Лендьель,Эмеше Вашвари,Bözse Soltész",
+        "description": "В 1951 году в коммунистическом Будапеште тайная полиция постучалась в дверь обычной семьи. Вместо того, чтобы арестовать ее членов, полицейские решают взять семью в плен в их собственном доме.",
+        "slogan": "",
+        "premiere": "20 сентября 2019",
+        "age": "0",
+        "time": "5280",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmE2OWQ1ZTAtY2Y2MS00MzhkLWJlNjAtNzI1ZGRlMGQzNTNmXkEyXkFqcGdeQXVyMTMxNjQ4MzA@._V1_SY999_CR0,0,702,999_AL_.jpg",
+        "screenshot": "https://white.bazonserver.site/video/22752/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "29",
+          "rating_imdb": "7.1",
+          "vote_num_imdb": "658"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "672899",
       "date": "1600329418",
       "camrip": "0",
@@ -31,9 +142,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/22681/poster.jpg",
         "rating": {
           "rating_kp": "6.671",
-          "vote_num_kp": "117747",
+          "vote_num_kp": "117791",
           "rating_imdb": "7",
-          "vote_num_imdb": "367125"
+          "vote_num_imdb": "367165"
         }
       }
     },
@@ -68,9 +179,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/22693/poster.jpg",
         "rating": {
           "rating_kp": "6.08",
-          "vote_num_kp": "422297",
+          "vote_num_kp": "422383",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "667681"
+          "vote_num_imdb": "667761"
         }
       }
     },
@@ -105,7 +216,7 @@
         "screenshot": "https://white.bazonserver.site/video/22690/poster.jpg",
         "rating": {
           "rating_kp": "8.206",
-          "vote_num_kp": "16512",
+          "vote_num_kp": "16519",
           "rating_imdb": "7.5",
           "vote_num_imdb": "297"
         }
@@ -179,7 +290,7 @@
         "screenshot": "https://yq4u.bazonserver.site/video/22683/poster.jpg",
         "rating": {
           "rating_kp": "6.029",
-          "vote_num_kp": "43784",
+          "vote_num_kp": "43821",
           "rating_imdb": "6.1",
           "vote_num_imdb": "81376"
         }
@@ -253,7 +364,7 @@
         "screenshot": "https://white.bazonserver.site/video/22689/poster.jpg",
         "rating": {
           "rating_kp": "8.143",
-          "vote_num_kp": "13719",
+          "vote_num_kp": "13727",
           "rating_imdb": "7.7",
           "vote_num_imdb": "617"
         }
@@ -366,7 +477,7 @@
           "rating_kp": "6.247",
           "vote_num_kp": "253",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "1074"
+          "vote_num_imdb": "1077"
         }
       }
     },
@@ -401,9 +512,9 @@
         "screenshot": "https://t6hu.bazonserver.site/video/22685/poster.jpg",
         "rating": {
           "rating_kp": "8.065",
-          "vote_num_kp": "549676",
+          "vote_num_kp": "549847",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "616274"
+          "vote_num_imdb": "616333"
         }
       }
     },
@@ -437,8 +548,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_737900.jpg",
         "screenshot": "https://white.bazonserver.site/video/22682/poster.jpg",
         "rating": {
-          "rating_kp": "6.34",
-          "vote_num_kp": "7930",
+          "rating_kp": "6.343",
+          "vote_num_kp": "7951",
           "rating_imdb": "5.5",
           "vote_num_imdb": "8282"
         }
@@ -474,8 +585,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_824451.jpg",
         "screenshot": "https://white.bazonserver.site/video/22745/poster.jpg",
         "rating": {
-          "rating_kp": "7.209",
-          "vote_num_kp": "4219",
+          "rating_kp": "7.206",
+          "vote_num_kp": "4230",
           "rating_imdb": "7.3",
           "vote_num_imdb": "6815"
         }
@@ -512,9 +623,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/22692/poster.jpg",
         "rating": {
           "rating_kp": "7.124",
-          "vote_num_kp": "133377",
+          "vote_num_kp": "133466",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "520282"
+          "vote_num_imdb": "520361"
         }
       }
     },
@@ -549,7 +660,7 @@
         "screenshot": "https://white.bazonserver.site/video/22688/poster.jpg",
         "rating": {
           "rating_kp": "8.201",
-          "vote_num_kp": "13029",
+          "vote_num_kp": "13039",
           "rating_imdb": "7.6",
           "vote_num_imdb": "323"
         }
@@ -696,10 +807,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_40732.jpg",
         "screenshot": "https://brother.bazonserver.site/video/22736/poster.jpg",
         "rating": {
-          "rating_kp": "7.133",
-          "vote_num_kp": "8849",
+          "rating_kp": "7.132",
+          "vote_num_kp": "8853",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "20244"
+          "vote_num_imdb": "20246"
         }
       }
     },
@@ -808,7 +919,7 @@
         "screenshot": "https://white.bazonserver.site/video/22732/poster.jpg",
         "rating": {
           "rating_kp": "8.096",
-          "vote_num_kp": "2691",
+          "vote_num_kp": "2692",
           "rating_imdb": "6.7",
           "vote_num_imdb": "15298"
         }
@@ -882,7 +993,7 @@
         "screenshot": "https://white.bazonserver.site/video/22687/poster.jpg",
         "rating": {
           "rating_kp": "8.199",
-          "vote_num_kp": "20376",
+          "vote_num_kp": "20397",
           "rating_imdb": "7.5",
           "vote_num_imdb": "363"
         }
@@ -919,7 +1030,7 @@
         "screenshot": "https://white.bazonserver.site/video/22726/poster.jpg",
         "rating": {
           "rating_kp": "7.725",
-          "vote_num_kp": "976",
+          "vote_num_kp": "977",
           "rating_imdb": "5.3",
           "vote_num_imdb": "5563"
         }
@@ -956,9 +1067,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/22656/poster.jpg",
         "rating": {
           "rating_kp": "7.782",
-          "vote_num_kp": "227758",
+          "vote_num_kp": "227965",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "785175"
+          "vote_num_imdb": "785255"
         }
       }
     },
@@ -1030,7 +1141,7 @@
         "screenshot": "https://banana.bazonserver.site/video/22674/poster.jpg",
         "rating": {
           "rating_kp": "7.18",
-          "vote_num_kp": "6372",
+          "vote_num_kp": "6373",
           "rating_imdb": "7.7",
           "vote_num_imdb": "262931"
         }
@@ -1103,10 +1214,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1178137.jpg",
         "screenshot": "https://white.bazonserver.site/video/22657/poster.jpg",
         "rating": {
-          "rating_kp": "6.548",
-          "vote_num_kp": "123789",
+          "rating_kp": "6.547",
+          "vote_num_kp": "123961",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "279336"
+          "vote_num_imdb": "279413"
         }
       }
     },
@@ -1141,9 +1252,9 @@
         "screenshot": "https://white.bazonserver.site/video/22662/poster.jpg",
         "rating": {
           "rating_kp": "8.027",
-          "vote_num_kp": "52172",
+          "vote_num_kp": "52194",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "477229"
+          "vote_num_imdb": "477389"
         }
       }
     },
@@ -1474,7 +1585,7 @@
         "screenshot": "https://white.bazonserver.site/video/22716/poster.jpg",
         "rating": {
           "rating_kp": "6.276",
-          "vote_num_kp": "638",
+          "vote_num_kp": "639",
           "rating_imdb": "6.7",
           "vote_num_imdb": "6769"
         }
@@ -1736,162 +1847,6 @@
           "vote_num_kp": "145",
           "rating_imdb": "4.6",
           "vote_num_imdb": "132"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "55359",
-      "date": "1600207923",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Одноголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Исповедь чистильщика окон",
-        "orig": "Confessions of a Window Cleaner",
-        "alter": "",
-        "year": "1974",
-        "country": "Великобритания",
-        "director": "Вэл Гест",
-        "genre": "комедия",
-        "actors": "Робин Эсквив,Энтони Бут,Шила Уайт,Дэнди Николс,Билл Мэйнард,Линда Хейден,Джон Ле Мезюрье,Джоан Хиксон,Катя Уайет,Ричард Уоттис",
-        "description": "Экранизация романа-автобиографии Кристофера Вуда (написанного под псевдонимом «Тимоти Ли». Тимоти не рожден для работы без приключений. Поставить лестницу и помыть окно Тимоти обычно не удается. Или заглядится на раздетых девиц, или, забираясь на подоконник, разольет раствор для чистки стекол, или поддастся на уговоры горничной-поклонницы йоги и начнет учиться стоять на голове. А что с парня спросишь в 18 лет?! И уж если он сделает предложение о замужестве, то избранницей его будет девушка, работающая в полиции.",
-        "slogan": "The dirty window cleaner reveals everything!",
-        "premiere": "16 августа 1974",
-        "age": "16",
-        "time": "5400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_55359.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22708/poster.jpg",
-        "rating": {
-          "rating_kp": "5.265",
-          "vote_num_kp": "176",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "1398"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "707097",
-      "date": "1600207791",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "trailer": "0",
-      "end": "1",
-      "quality": "WEB-DLRip",
-      "translation": "AniLibria",
-      "max_qual": "720",
-      "last_season": "2",
-      "last_episode": "12",
-      "episodes": {
-        "1": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720,
-          "10": 720,
-          "11": 720,
-          "12": 720,
-          "13": 720
-        },
-        "2": {
-          "1": 720,
-          "2": 720,
-          "3": 720,
-          "4": 720,
-          "5": 720,
-          "6": 720,
-          "7": 720,
-          "8": 720,
-          "9": 720,
-          "10": 720,
-          "11": 720,
-          "12": 720
-        }
-      },
-      "info": {
-        "rus": "Очень приятно, Бог",
-        "orig": "Kamisama Hajimemashita",
-        "alter": "",
-        "year": "2012",
-        "country": "Япония",
-        "director": "Акитаро Дайти",
-        "genre": "аниме,комедия,мелодрама,мультфильм",
-        "actors": "Судзуко Мимори, Акира Исида, Синносукэ Татибана, Сатоми Сато, Нобухико Окамото, Дж. Майкл Татум, Джейми Марчи, Терри Доти, Лидия Маккей, Шон О’Коннор",
-        "description": "Непутевый отец сбежал, проигравшись в дым, а дочь, 17-летнюю Нанами Момодзоно, грубые люди в черном выбросили из дома. Бедняжка вместе с пожитками отправилась в парк и вдруг среди ночи услышала голос, умолявший спасти от злой собаки. Прогнав не такого уж страшного пса, Нанами разговорилась с симпатичным незнакомцем и незаметно выложила свою печальную историю. Парень, назвавшийся Микагэ, пожалел девушку и в благодарность предложил ей пожить в его доме. Сам же он возвращаться не хочет, поскольку дома давно не был, ну и Томоэ наверняка в ярости. Встревать между гулякой и, похоже, ревнивой женой Момодзоно не хотелось, но и на скамейке ночевать не сахар, так что она взяла нехитрую карту и отправилась искать новое жилье.",
-        "slogan": "",
-        "premiere": "1 октября 2012",
-        "age": "0",
-        "time": "1500",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_707097.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22707/poster.jpg",
-        "rating": {
-          "rating_kp": "8.295",
-          "vote_num_kp": "18177",
-          "rating_imdb": "8.2",
-          "vote_num_imdb": "3606"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1299012",
-      "date": "1600207627",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "1",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "TVShows",
-      "max_qual": "480",
-      "last_season": "1",
-      "last_episode": "6",
-      "episodes": {
-        "1": {
-          "1": 480,
-          "2": 480,
-          "3": 480,
-          "4": 480,
-          "5": 480,
-          "6": 480
-        }
-      },
-      "info": {
-        "rus": "Маппеты сегодня",
-        "orig": "Muppets Now",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Кристофер Алендер,Rufus Scot Church,Vito Massara",
-        "genre": "комедия,семейный",
-        "actors": "Билл Барретта,Дэйв Гольц,Эрик Джейкобсон,Питер Линц,Дэвид Рудман,Мэтт Фогель,Джулианна Бушер,Майк Куинн,Линда Карделлини,Тэй Диггз",
-        "description": "Серия небольших короткометражных эпизодов, в которых веселые куклы Маппеты встречаются с известными личностями из шоу-бизнеса.",
-        "slogan": "",
-        "premiere": "31 июля 2020",
-        "age": "0",
-        "time": "1500",
-        "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/fe0fed75-97dc-4ccd-9579-4e8802ea9702/600x900",
-        "screenshot": "https://banana.bazonserver.site/video/20558/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "48",
-          "rating_imdb": "5.9",
-          "vote_num_imdb": "1117"
         }
       }
     }

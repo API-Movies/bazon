@@ -2,6 +2,228 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "64012",
+      "date": "1604057275",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Черная орхидея",
+        "orig": "The Black Dahlia",
+        "alter": "",
+        "year": "2005",
+        "country": "США, Германия, Франция",
+        "director": "Брайан Де Пальма",
+        "genre": "триллер,детектив,драма,криминал",
+        "actors": "Джош Хартнетт, Скарлетт Йоханссон, Аарон Экхарт, Хилари Суэнк, Миа Киршнер, Майк Старр, Фиона Шоу, Патрик Фишлер, Джеймс Отис, Джон Кэвэна",
+        "description": "Конец 40-х годов. Двое полицейских расследуют жестокое убийство голливудской старлетки, разрезанный пополам труп которой найден на заброшенном пустыре. По мере того, как давление со стороны политиков усиливается, напарники обнаруживают, что слишком многие известные люди замешаны в этом деле.\r\n\r\nРазличные нити расследования приводят их в одну из самых влиятельных семей Нью-Йорка, в сердце полицейского департамента Лос-Анджелеса и даже к собственным возлюбленным.",
+        "slogan": "Inspired by the most notorious unsolved murder in California history",
+        "premiere": "9 августа 2006",
+        "age": "16",
+        "time": "7260",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_64012.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24406/poster.jpg",
+        "rating": {
+          "rating_kp": "6.46",
+          "vote_num_kp": "21761",
+          "rating_imdb": "5.6",
+          "vote_num_imdb": "73685"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "198923",
+      "date": "1604057155",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "1",
+      "quality": "DVDRip",
+      "translation": "Многоголосый",
+      "max_qual": "480",
+      "last_season": "4",
+      "last_episode": "24",
+      "episodes": {
+        "1": {
+          "1": 480,
+          "2": 480,
+          "3": 480,
+          "4": 480,
+          "5": 480,
+          "6": 480,
+          "7": 480,
+          "8": 480,
+          "9": 480,
+          "10": 480,
+          "11": 480,
+          "12": 480,
+          "13": 480,
+          "14": 480,
+          "15": 480,
+          "16": 480,
+          "17": 480,
+          "18": 480,
+          "19": 480,
+          "20": 480,
+          "21": 480,
+          "22": 480,
+          "23": 480,
+          "24": 480,
+          "25": 480
+        },
+        "2": {
+          "1": 480,
+          "2": 480,
+          "3": 480,
+          "4": 480,
+          "5": 480,
+          "6": 480,
+          "7": 480,
+          "8": 480,
+          "9": 480,
+          "10": 480,
+          "11": 480,
+          "12": 480,
+          "13": 480,
+          "14": 480,
+          "15": 480,
+          "16": 480,
+          "17": 480,
+          "18": 480,
+          "19": 480,
+          "20": 480,
+          "21": 480,
+          "22": 480,
+          "23": 480,
+          "24": 480,
+          "25": 480
+        },
+        "3": {
+          "1": 480,
+          "2": 480,
+          "3": 480,
+          "4": 480,
+          "5": 480,
+          "6": 480,
+          "7": 480,
+          "8": 480,
+          "9": 480,
+          "10": 480,
+          "11": 480,
+          "12": 480,
+          "13": 480,
+          "14": 480,
+          "15": 480,
+          "16": 480,
+          "17": 480,
+          "18": 480,
+          "19": 480,
+          "20": 480,
+          "21": 480,
+          "22": 480,
+          "23": 480,
+          "24": 480,
+          "25": 480
+        },
+        "4": {
+          "1": 480,
+          "2": 480,
+          "3": 480,
+          "4": 480,
+          "5": 480,
+          "6": 480,
+          "7": 480,
+          "8": 480,
+          "9": 480,
+          "10": 480,
+          "11": 480,
+          "12": 480,
+          "13": 480,
+          "14": 480,
+          "15": 480,
+          "16": 480,
+          "17": 480,
+          "18": 480,
+          "19": 480,
+          "20": 480,
+          "21": 480,
+          "22": 480,
+          "23": 480,
+          "24": 480
+        }
+      },
+      "info": {
+        "rus": "Альф",
+        "orig": "ALF",
+        "alter": "",
+        "year": "1986",
+        "country": "США",
+        "director": "Ник Хавинга, Берт Бринкерхофф, Гари Симокава",
+        "genre": "комедия,фантастика,семейный",
+        "actors": "Пол Фаско, Макс Райт, Энн Шедин, Андреа Элсон, Бенджи Грегори, Джон ЛаМотта, Лиз Шеридан, Джош Блейк, Михай «Миху» Месарош, Энн Мира",
+        "description": "Его родина - планета Мелмак, место жительства - Лос-Анджелес. Он самоуверен, капризен и жаден. Он порядочный обжора, грубиян и ворчун. Он обожает кошек (в кулинарном смысле), его любопытство не знает границ, а разрушительные способности поражают воображение. Но помыслы его чисты, душа открыта, а сердце отзывчиво. Он - Альф!",
+        "slogan": "",
+        "premiere": "2 декабря 1996",
+        "age": "0",
+        "time": "1320",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_198923.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24404/poster.jpg",
+        "rating": {
+          "rating_kp": "7.913",
+          "vote_num_kp": "52857",
+          "rating_imdb": "7.4",
+          "vote_num_imdb": "34267"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "45008",
+      "date": "1604056926",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Оригинал",
+      "max_qual": "480",
+      "info": {
+        "rus": "Кто сказал мяу?",
+        "orig": "Кто сказал мяу?",
+        "alter": "",
+        "year": "1962",
+        "country": "СССР",
+        "director": "Владимир Дегтярев",
+        "genre": "мультфильм,короткометражка",
+        "actors": "Александр Баранов, Юрий Хржановский, Рина Зеленая",
+        "description": "Услышав в первый раз в жизни мяуканье, крошка-щенок отправляется на поиски незнакомого зверя и встречает разных обитателей дома и двора. О детской любознательности и первом знакомстве с миром.",
+        "slogan": "",
+        "premiere": "",
+        "age": "6",
+        "time": "600",
+        "poster": "https://st.kp.yandex.net/images/film/45008.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24403/poster.jpg",
+        "rating": {
+          "rating_kp": "7.45",
+          "vote_num_kp": "6355",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "463"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "43282",
       "date": "1604056850",
       "camrip": "0",
@@ -30,8 +252,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_43282.jpg",
         "screenshot": "https://white.bazonserver.site/video/24402/poster.jpg",
         "rating": {
-          "rating_kp": "7.538",
-          "vote_num_kp": "23449",
+          "rating_kp": "7.539",
+          "vote_num_kp": "23470",
           "rating_imdb": "7.4",
           "vote_num_imdb": "178"
         }
@@ -213,9 +435,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/24395/poster.jpg",
         "rating": {
           "rating_kp": "6.045",
-          "vote_num_kp": "105429",
+          "vote_num_kp": "105446",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "284910"
+          "vote_num_imdb": "284932"
         }
       }
     },
@@ -250,7 +472,7 @@
         "screenshot": "https://pluton.bazonserver.site/video/24394/poster.jpg",
         "rating": {
           "rating_kp": "5.59",
-          "vote_num_kp": "3110",
+          "vote_num_kp": "3112",
           "rating_imdb": "5.4",
           "vote_num_imdb": "4002"
         }
@@ -323,8 +545,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1027427.jpg",
         "screenshot": "https://brother.bazonserver.site/video/24396/poster.jpg",
         "rating": {
-          "rating_kp": "5.267",
-          "vote_num_kp": "1557",
+          "rating_kp": "5.265",
+          "vote_num_kp": "1562",
           "rating_imdb": "3.9",
           "vote_num_imdb": "352"
         }
@@ -361,7 +583,7 @@
         "screenshot": "https://white.bazonserver.site/video/24393/poster.jpg",
         "rating": {
           "rating_kp": "8.014",
-          "vote_num_kp": "19978",
+          "vote_num_kp": "19990",
           "rating_imdb": "7.7",
           "vote_num_imdb": "696"
         }
@@ -472,7 +694,7 @@
         "screenshot": "https://white.bazonserver.site/video/24390/poster.jpg",
         "rating": {
           "rating_kp": "5.46",
-          "vote_num_kp": "130",
+          "vote_num_kp": "131",
           "rating_imdb": "4.7",
           "vote_num_imdb": "529"
         }
@@ -509,7 +731,7 @@
         "screenshot": "https://white.bazonserver.site/video/24389/poster.jpg",
         "rating": {
           "rating_kp": "6.839",
-          "vote_num_kp": "1684",
+          "vote_num_kp": "1685",
           "rating_imdb": "7.3",
           "vote_num_imdb": "24412"
         }
@@ -636,9 +858,9 @@
         "screenshot": "https://white.bazonserver.site/video/24385/poster.jpg",
         "rating": {
           "rating_kp": "7.119",
-          "vote_num_kp": "12889",
+          "vote_num_kp": "12922",
           "rating_imdb": "7.4",
-          "vote_num_imdb": "29073"
+          "vote_num_imdb": "29081"
         }
       }
     },
@@ -673,7 +895,7 @@
         "screenshot": "https://white.bazonserver.site/video/24384/poster.jpg",
         "rating": {
           "rating_kp": "6.473",
-          "vote_num_kp": "3893",
+          "vote_num_kp": "3894",
           "rating_imdb": "6.6",
           "vote_num_imdb": "9749"
         }
@@ -747,9 +969,9 @@
         "screenshot": "https://white.bazonserver.site/video/24382/poster.jpg",
         "rating": {
           "rating_kp": "6.101",
-          "vote_num_kp": "18702",
+          "vote_num_kp": "18705",
           "rating_imdb": "4.9",
-          "vote_num_imdb": "33572"
+          "vote_num_imdb": "33574"
         }
       }
     },
@@ -784,9 +1006,9 @@
         "screenshot": "https://white.bazonserver.site/video/24381/poster.jpg",
         "rating": {
           "rating_kp": "4.354",
-          "vote_num_kp": "886",
+          "vote_num_kp": "889",
           "rating_imdb": "4.6",
-          "vote_num_imdb": "2920"
+          "vote_num_imdb": "2924"
         }
       }
     },
@@ -821,7 +1043,7 @@
         "screenshot": "https://white.bazonserver.site/video/24380/poster.jpg",
         "rating": {
           "rating_kp": "5.103",
-          "vote_num_kp": "1335",
+          "vote_num_kp": "1336",
           "rating_imdb": "4.6",
           "vote_num_imdb": "4199"
         }
@@ -895,7 +1117,7 @@
         "screenshot": "https://white.bazonserver.site/video/24377/poster.jpg",
         "rating": {
           "rating_kp": "6.685",
-          "vote_num_kp": "6005",
+          "vote_num_kp": "6009",
           "rating_imdb": "6.9",
           "vote_num_imdb": "14400"
         }
@@ -1059,9 +1281,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/17493/poster.jpg",
         "rating": {
           "rating_kp": "7.977",
-          "vote_num_kp": "46782",
+          "vote_num_kp": "46816",
           "rating_imdb": "8.6",
-          "vote_num_imdb": "223355"
+          "vote_num_imdb": "223401"
         }
       }
     },
@@ -1138,10 +1360,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_676525.jpg",
         "screenshot": "https://banana.bazonserver.site/video/18850/poster.jpg",
         "rating": {
-          "rating_kp": "7.111",
-          "vote_num_kp": "14436",
+          "rating_kp": "7.112",
+          "vote_num_kp": "14452",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "39304"
+          "vote_num_imdb": "39309"
         }
       }
     },
@@ -1323,8 +1545,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1314474.jpg",
         "screenshot": "https://white.bazonserver.site/video/24198/poster.jpg",
         "rating": {
-          "rating_kp": "7.517",
-          "vote_num_kp": "1430",
+          "rating_kp": "7.525",
+          "vote_num_kp": "1433",
           "rating_imdb": "7.8",
           "vote_num_imdb": "2521"
         }
@@ -1408,7 +1630,7 @@
         "screenshot": "https://banana.bazonserver.site/video/24366/poster.jpg",
         "rating": {
           "rating_kp": "6.314",
-          "vote_num_kp": "9691",
+          "vote_num_kp": "9694",
           "rating_imdb": "4.8",
           "vote_num_imdb": "420"
         }
@@ -1558,7 +1780,7 @@
           "rating_kp": "0",
           "vote_num_kp": "68",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "225"
+          "vote_num_imdb": "226"
         }
       }
     },
@@ -1966,117 +2188,6 @@
           "vote_num_kp": "1887",
           "rating_imdb": 0,
           "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "54367",
-      "date": "1603886413",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Месть простофиль",
-        "orig": "Le Cave se rebiffe",
-        "alter": "",
-        "year": "1961",
-        "country": "Франция,Италия",
-        "director": "Жиль Гранжье",
-        "genre": "комедия,криминал",
-        "actors": "Жан Габен,Мартина Кароль,Франсуаза Розе,Бернар Блие,Франк Виллар,Морис Биро,Антуан Бальпетре,Жинетт Леклерк,Жерар Бур,Робер Дальбан",
-        "description": "Компания эксцентричных и неудачливых аферистов задумывает сменить специализацию и провернуть новое для себя дельце: напечатать крупную партию фальшивых купюр. Прекрасно понимая, что вопрос сбыта готовой продукции новичкам не под силу, они решают взять в долю пожилого гангстера по кличке «Папаша», уже имевшего опыт в подобных делах.\r\n\r\nНесмотря на то, что тот давно ушел на покой и осел где-то в дебрях Африки, после недолгих уговоров он соглашается и вылетает в Париж. У одного из подельников есть любовница, а её муж - великолепный гравёр. Осталось только убедить его взяться за работу, а это совсем не просто, ведь он «фраер» (на блатном жаргоне - человек, не имеющий отношения к преступному миру).",
-        "slogan": "Союз-Видео",
-        "premiere": "26 августа 1961",
-        "age": "16",
-        "time": "5880",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_54367.jpg",
-        "screenshot": "https://white.bazonserver.site/video/24346/poster.jpg",
-        "rating": {
-          "rating_kp": "7.039",
-          "vote_num_kp": "261",
-          "rating_imdb": "7",
-          "vote_num_imdb": "1249"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2327",
-      "date": "1603886413",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Серебряный волк",
-        "orig": "Silver Wolf",
-        "alter": "",
-        "year": "1999",
-        "country": "Канада, США",
-        "director": "Питер Сватек",
-        "genre": "приключения,семейный",
-        "actors": "Майкл Бин, Рой Шайдер, Шейн Майер, Кимберли Уорнат, Шон Джонстон, Джейд Полук, Линда Бойд, Дон Маккэй, Кристин Уиллз, Рон Сов",
-        "description": "Потеряв отца, 16 - летний Джесси переехал к своему дяде, смотрителю горного заповедника Рою Маклину. Здесь он может вволю заниматься своим любимым сноубордингом. А самым близким другом Джесси становится волк по кличке Серебряный, которого он нашел раненымв лесу и выходил с помощью дяди.\r\n\r\nНо когда местные жители узнают, что по соседству живет волк, Джеси и Серебряному приходится уйти далеко в горы. Однако и там он не чувствуют себя в безопасности. Старый охотник Джон Рокуэлл решил во что бы то ни стало убить волка, и Джесси - единственный, кто может спасти своего друга.",
-        "slogan": "A Wolf and a Snowboarder team up for the ride of theirs lives",
-        "premiere": "10 января 1999",
-        "age": "0",
-        "time": "5940",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTAxMTYzNjQ5MTNeQTJeQWpwZ15BbWU4MDE4Mjc5ODcx._V1_UY109_CR3,0,75,109_AL_.jpg",
-        "screenshot": "https://white.bazonserver.site/video/24347/poster.jpg",
-        "rating": {
-          "rating_kp": "7.297",
-          "vote_num_kp": "1452",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "524"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1194925",
-      "date": "1603881907",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Монстров не существует",
-        "orig": "No Such Thing As Monsters",
-        "alter": "",
-        "year": "2019",
-        "country": "Австралия",
-        "director": "Стюарт Стэнтон",
-        "genre": "ужасы",
-        "actors": "Энджел Джуффриа,Georgia Crisfield Smith,Мэттью Кларк,Дэвид МакРэй,Ребекка Фортуна,Michaela Celeste,Джейкоб Файф,Rochelle Pranadi",
-        "description": "Молодая пара решает отправиться на романтический уикенд на природу, но в австралийских лесах за ними устраивает охоту семья психопатов.",
-        "slogan": "",
-        "premiere": "13 октября 2019",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BODlkZTYwOWQtNTc1MS00ZjI1LWE2MGUtYzhkNTI4MGI4YzllXkEyXkFqcGdeQXVyMjYzNTY2NTI@.jpg",
-        "screenshot": "https://white.bazonserver.site/video/24336/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "21",
-          "rating_imdb": "3.9",
-          "vote_num_imdb": "316"
         }
       }
     }

@@ -2,6 +2,80 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "17159",
+      "date": "1598432288",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Возвращение живых мертвецов",
+        "orig": "The Return of the Living Dead",
+        "alter": "",
+        "year": "1984",
+        "country": "США",
+        "director": "Дэн О’Бэннон",
+        "genre": "комедия,ужасы,фантастика",
+        "actors": "Клу Гулагер, Джеймс Карен, Дон Кэлфа, Том Мэтьюз, Беверли Рэндольф, Джон Филбин, Джуэл Шепард, Мигель А. Нуньес мл., Брайан Пек, Линни Куигли",
+        "description": "На захолустном медицинском складе хранились контейнеры с зомби, по ошибке попавшие туда много лет назад. В один далеко не прекрасный день герметичность упаковки была нарушена, ядовитый газ вырвался наружу, и вот уже мертвецы с соседнего кладбища покидают свое тихое пристанище, чтобы полакомиться мозгом живых...",
+        "slogan": "They're Back From The Grave and Ready To Party!",
+        "premiere": "25 апреля 1985",
+        "age": "16",
+        "time": "5460",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_17159.jpg",
+        "screenshot": "https://plotva.bazonserver.site/video/21920/poster.jpg",
+        "rating": {
+          "rating_kp": "7.243",
+          "vote_num_kp": "9925",
+          "rating_imdb": "7.3",
+          "vote_num_imdb": "59540"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1072215",
+      "date": "1598427188",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Кровные узы",
+        "orig": "Dünnes Blut",
+        "alter": "",
+        "year": "2020",
+        "country": "Германия",
+        "director": "Mehrdad Taheri",
+        "genre": "триллер,драма",
+        "actors": "Mehrdad Taheri,Симон Лихт,Jenny Eichin,Кида Рамадан,Бурак Йийит,Анита Олатунжи,Антонио Ваннек,Рики Уотсон,Mattis Schlenger,Фархад Пайяр",
+        "description": "Александр Бишофф вырос без родителей. У него не было своей семьи и собственных детей. Он работает детективом уже 25 лет. Но вдруг его обвиняют в сотрудничестве с контрабандистами. Для Александра границы между добром и злом стираются. Для него мир уже никогда не будет прежнем.",
+        "slogan": "Blood is thicker than water",
+        "premiere": "",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzNiMDc1ZmMtZGMxMC00NWRjLWI5MzctNmJjYzhmNjc4Yjc5XkEyXkFqcGdeQXVyMTU3NTQ1NjU@.jpg",
+        "screenshot": "https://banana.bazonserver.site/video/21919/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1178419",
       "date": "1598426985",
       "camrip": "0",
@@ -104,10 +178,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1005848.jpg",
         "screenshot": "https://i75t.bazonserver.site/video/21916/poster.jpg",
         "rating": {
-          "rating_kp": "7.123",
-          "vote_num_kp": "13465",
+          "rating_kp": "7.121",
+          "vote_num_kp": "13499",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "12877"
+          "vote_num_imdb": "12881"
         }
       }
     },
@@ -329,7 +403,7 @@
           "rating_kp": "0",
           "vote_num_kp": "126",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "65"
+          "vote_num_imdb": "66"
         }
       }
     },
@@ -771,9 +845,9 @@
         "screenshot": "https://dt2g.bazonserver.site/video/21891/poster.jpg",
         "rating": {
           "rating_kp": "6.961",
-          "vote_num_kp": "233322",
+          "vote_num_kp": "233347",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "489489"
+          "vote_num_imdb": "489546"
         }
       }
     },
@@ -808,9 +882,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21889/poster.jpg",
         "rating": {
           "rating_kp": "6.677",
-          "vote_num_kp": "48392",
+          "vote_num_kp": "48483",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "35752"
+          "vote_num_imdb": "35761"
         }
       }
     },
@@ -845,9 +919,9 @@
         "screenshot": "https://b75y.bazonserver.site/video/21888/poster.jpg",
         "rating": {
           "rating_kp": "6.626",
-          "vote_num_kp": "68374",
+          "vote_num_kp": "68392",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "101337"
+          "vote_num_imdb": "101376"
         }
       }
     },
@@ -881,10 +955,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_557804.jpg",
         "screenshot": "https://pluton.bazonserver.site/video/15226/poster.jpg",
         "rating": {
-          "rating_kp": "5.905",
-          "vote_num_kp": "104814",
+          "rating_kp": "5.904",
+          "vote_num_kp": "104860",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "189224"
+          "vote_num_imdb": "189253"
         }
       }
     },
@@ -919,9 +993,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21890/poster.jpg",
         "rating": {
           "rating_kp": "6.677",
-          "vote_num_kp": "48392",
+          "vote_num_kp": "48483",
           "rating_imdb": "6.3",
-          "vote_num_imdb": "35752"
+          "vote_num_imdb": "35761"
         }
       }
     },
@@ -992,8 +1066,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_948774.jpg",
         "screenshot": "https://brother.bazonserver.site/video/21886/poster.jpg",
         "rating": {
-          "rating_kp": "5.247",
-          "vote_num_kp": "5393",
+          "rating_kp": "5.251",
+          "vote_num_kp": "5407",
           "rating_imdb": "5.1",
           "vote_num_imdb": "13774"
         }
@@ -1066,8 +1140,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_962558.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/21884/poster.jpg",
         "rating": {
-          "rating_kp": "5.794",
-          "vote_num_kp": "7613",
+          "rating_kp": "5.798",
+          "vote_num_kp": "7623",
           "rating_imdb": "5.7",
           "vote_num_imdb": "2849"
         }
@@ -1363,7 +1437,7 @@
         "screenshot": "https://banana.bazonserver.site/video/21873/poster.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "141",
+          "vote_num_kp": "142",
           "rating_imdb": "5.8",
           "vote_num_imdb": "94"
         }
@@ -1773,80 +1847,6 @@
           "vote_num_kp": "1320",
           "rating_imdb": "6.8",
           "vote_num_imdb": "28193"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "21056",
-      "date": "1598276707",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Синг-Синг",
-        "orig": "Sing Sing",
-        "alter": "",
-        "year": "1983",
-        "country": "Италия",
-        "director": "Серджио Корбуччи",
-        "genre": "комедия",
-        "actors": "Адриано Челентано,Энрико Монтезано,Марина Сума,Франко Джакобини,Анджела Гудвин,Дезире Носбуш,Уго Болонья,Пьетро Де Силва,Ландо Фьорини,Орсетта Грегоретти",
-        "description": "Две истории в одном фильме. Эдуардо случайно узнает, что у него приемные родители. Его настоящий отец умирает, но перед смертью он сообщает, что его матерью была «Королева Английская», не успев уточнить, что это прозвище итальянской проститутки. Но Эдуардо уже несется в столицу Англии, где правит ничего не подозревающая королева...\r\n\r\nВторая история является пародией на очень популярный в 70-х киножанр «джиалло». Детектив Богги решил завершить свою карьеру полицейского, взявшись за дело, в котором он должен оградить актрису Линду от посягательств на нее маньяка, который беспокоил ее телефонными звонками с угрозами.",
-        "slogan": "",
-        "premiere": "15 октября 1983",
-        "age": "16",
-        "time": "7020",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_21056.jpg",
-        "screenshot": "https://banana.bazonserver.site/video/21858/poster.jpg",
-        "rating": {
-          "rating_kp": "6.302",
-          "vote_num_kp": "865",
-          "rating_imdb": "5.8",
-          "vote_num_imdb": "538"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "714",
-      "date": "1598276703",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Айрис",
-        "orig": "Iris",
-        "alter": "",
-        "year": "2001",
-        "country": "Великобритания, США",
-        "director": "Ричард Эйр",
-        "genre": "мелодрама,драма",
-        "actors": "Кейт Уинслет, Хью Бонневилль, Джуди Денч, Джим Бродбент, Элинор Брон, Анджела Морант, Пенелопа Уилтон, Шиван Хэйес, Джульетт Обри, Джоан Бэйкуэлл",
-        "description": "Одна из величайших писательниц XX века, остроумный мыслитель и проницательный философ Айрис Мёрдок оставила яркий след в современной литературе и заслужила восторженные отклики маститых литераторов и рядовых читателей.\r\n\r\nОднако самую правдивую летопись творчества и бытия Айрис Мёрдок составил ее муж, профессор Джон Бэйли, описав в своих книгах более 40 лет их супружеской жизни, начиная со знакомства с юной оксфордской преподавательницей Айрис и заканчивая мучительной борьбой кавалерственной дамы Айрис с жестокой болезнью Альцгеймера, лишившей одаренную романистку возможности творить и жить.",
-        "slogan": "Her greatest talent was for life",
-        "premiere": "14 декабря 2001",
-        "age": "16",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_714.jpg",
-        "screenshot": "https://banana.bazonserver.site/video/21857/poster.jpg",
-        "rating": {
-          "rating_kp": "7.005",
-          "vote_num_kp": "3733",
-          "rating_imdb": "7",
-          "vote_num_imdb": "18075"
         }
       }
     }

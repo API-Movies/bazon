@@ -2,6 +2,117 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "15381",
+      "date": "1600956906",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Луковое поле",
+        "orig": "The Onion Field",
+        "alter": "",
+        "year": "1979",
+        "country": "США",
+        "director": "Харольд Беккер",
+        "genre": "драма,криминал",
+        "actors": "Джон Сэвэдж,Джеймс Вудс,Франклин Силс,Тед Дэнсон,Ронни Кокс,Дэвид Хаффман,Кристофер Ллойд,Дайян Халл,Присцилла Пойнтер,Биджи Баркетт",
+        "description": "1963. Калифорния. Двое полицейских, Ян и Карл, похищены Бандитами, которые привозят их в окрестности городка Бекерсфильда. Здесь, на луковом поле, они убивают Яна, однако его другу удается бежать. Вскоре преступники попадают в руки полиции. На суде Карл выступает против них, бандиты признают свою вину, однако, кто именно из них убил Яна, остается невыясненным. Дело затягивается на годы, а жизнь Карла превращается в кошмар.",
+        "slogan": "What Happened In The Onion Field Is True. But The Real Crime Is What Happened After",
+        "premiere": "7 сентября 1979",
+        "age": "16",
+        "time": "7320",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_15381.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23047/poster.jpg",
+        "rating": {
+          "rating_kp": "6.711",
+          "vote_num_kp": "265",
+          "rating_imdb": "6.8",
+          "vote_num_imdb": "5120"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1115405",
+      "date": "1600956010",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Мария до Каллас",
+        "orig": "Maria by Callas",
+        "alter": "",
+        "year": "2017",
+        "country": "Франция",
+        "director": "Том Вольф",
+        "genre": "документальный,биография,музыка",
+        "actors": "Фанни Ардан,Джойс ДиДонато,Мария Каллас,Аристотель Онассис,Витторио Де Сика,Пьер Паоло Пазолини,Лукино Висконти,Омар Шариф,Антонио,Брижит Бардо",
+        "description": "Впервые после 40 лет молчания всемирно известная оперная дива дала разрешение на интервью. Редкие съемки, архивные фотографии, личные кадры – это говорит сама история, говорит сама великая Мария Каллас, а вместе с ней Мэрилин Монро, Ален Делон, Ив Сен-Лоран, Дж. Ф. Кеннеди, Лукино Висконти, Уинстон Черчилль, Грейс Келли, Элизабет Тейлор и многие другие.",
+        "slogan": "Ave, Maria or The legendary diva - in her own words",
+        "premiere": "20 сентября 2018",
+        "age": "16",
+        "time": "7140",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1115405.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23046/poster.jpg",
+        "rating": {
+          "rating_kp": "7.512",
+          "vote_num_kp": "806",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "1855"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "4663",
+      "date": "1600956006",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Одноголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Восходящая Луна",
+        "orig": "The Stalking Moon",
+        "alter": "",
+        "year": "1968",
+        "country": "США",
+        "director": "Роберт Маллиган",
+        "genre": "вестерн",
+        "actors": "Грегори Пек,Ева Мари Сэйнт,Роберт Форстер,Ноланд Клэй,Расселл Торсон,Фрэнк Сильвера,Лонни Чэпмен,Лу Фриззелл,Генри Бекман,Чарльз Тайнер",
+        "description": "Немолодой военный разведчик помогает белой женщине, которая всю жизнь провела в племени апачей, бежать вместе с её сыном-полукровкой. Беглецам предстоит преодолеть много опасностей и избавиться от преследования.",
+        "slogan": "You can&#x27;t escape The Stalking Moon",
+        "premiere": "21 декабря 1968",
+        "age": "0",
+        "time": "6540",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4663.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23045/poster.jpg",
+        "rating": {
+          "rating_kp": "6.369",
+          "vote_num_kp": "212",
+          "rating_imdb": "6.7",
+          "vote_num_imdb": "2649"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "34846",
       "date": "1600955107",
       "camrip": "0",
@@ -105,9 +216,9 @@
         "screenshot": "https://brother.bazonserver.site/video/23043/poster.jpg",
         "rating": {
           "rating_kp": "7.752",
-          "vote_num_kp": "70094",
+          "vote_num_kp": "70178",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "28553"
+          "vote_num_imdb": "28556"
         }
       }
     },
@@ -179,9 +290,9 @@
         "screenshot": "https://brother.bazonserver.site/video/23040/poster.jpg",
         "rating": {
           "rating_kp": "7.208",
-          "vote_num_kp": "29660",
+          "vote_num_kp": "29666",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "62134"
+          "vote_num_imdb": "62140"
         }
       }
     },
@@ -253,7 +364,7 @@
         "screenshot": "https://white.bazonserver.site/video/23038/poster.jpg",
         "rating": {
           "rating_kp": "7.046",
-          "vote_num_kp": "2943",
+          "vote_num_kp": "2944",
           "rating_imdb": "7.1",
           "vote_num_imdb": "10538"
         }
@@ -289,10 +400,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_6801.jpg",
         "screenshot": "https://white.bazonserver.site/video/23037/poster.jpg",
         "rating": {
-          "rating_kp": "7.28",
-          "vote_num_kp": "809",
+          "rating_kp": "7.281",
+          "vote_num_kp": "811",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "13758"
+          "vote_num_imdb": "13772"
         }
       }
     },
@@ -364,7 +475,7 @@
         "screenshot": "https://brother.bazonserver.site/video/23029/poster.jpg",
         "rating": {
           "rating_kp": "6.74",
-          "vote_num_kp": "7777",
+          "vote_num_kp": "7778",
           "rating_imdb": "7.3",
           "vote_num_imdb": "45750"
         }
@@ -438,9 +549,9 @@
         "screenshot": "https://b75y.bazonserver.site/video/23009/poster.jpg",
         "rating": {
           "rating_kp": "6.061",
-          "vote_num_kp": "179966",
+          "vote_num_kp": "179984",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "437023"
+          "vote_num_imdb": "437106"
         }
       }
     },
@@ -586,9 +697,9 @@
         "screenshot": "https://black.bazonserver.site/video/22954/poster.jpg",
         "rating": {
           "rating_kp": "8.147",
-          "vote_num_kp": "413047",
+          "vote_num_kp": "413289",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "1632568"
+          "vote_num_imdb": "1633070"
         }
       }
     },
@@ -623,7 +734,7 @@
         "screenshot": "https://brother.bazonserver.site/video/23014/poster.jpg",
         "rating": {
           "rating_kp": "6.171",
-          "vote_num_kp": "8205",
+          "vote_num_kp": "8207",
           "rating_imdb": "6.8",
           "vote_num_imdb": "31457"
         }
@@ -734,7 +845,7 @@
         "screenshot": "https://white.bazonserver.site/video/23006/poster.jpg",
         "rating": {
           "rating_kp": "6.179",
-          "vote_num_kp": "1901",
+          "vote_num_kp": "1903",
           "rating_imdb": "6.4",
           "vote_num_imdb": "3326"
         }
@@ -771,7 +882,7 @@
         "screenshot": "https://white.bazonserver.site/video/23005/poster.jpg",
         "rating": {
           "rating_kp": "6.161",
-          "vote_num_kp": "4343",
+          "vote_num_kp": "4346",
           "rating_imdb": "5.4",
           "vote_num_imdb": "548"
         }
@@ -844,8 +955,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_548973.jpg",
         "screenshot": "https://white.bazonserver.site/video/23002/poster.jpg",
         "rating": {
-          "rating_kp": "6.04",
-          "vote_num_kp": "196",
+          "rating_kp": "6.032",
+          "vote_num_kp": "197",
           "rating_imdb": "5.6",
           "vote_num_imdb": "541"
         }
@@ -993,7 +1104,7 @@
         "screenshot": "https://white.bazonserver.site/video/22996/poster.jpg",
         "rating": {
           "rating_kp": "5.326",
-          "vote_num_kp": "713",
+          "vote_num_kp": "717",
           "rating_imdb": "5.5",
           "vote_num_imdb": "618"
         }
@@ -1030,7 +1141,7 @@
         "screenshot": "https://white.bazonserver.site/video/22995/poster.jpg",
         "rating": {
           "rating_kp": "7.101",
-          "vote_num_kp": "6784",
+          "vote_num_kp": "6786",
           "rating_imdb": "7.1",
           "vote_num_imdb": "36587"
         }
@@ -1067,7 +1178,7 @@
         "screenshot": "https://white.bazonserver.site/video/22993/poster.jpg",
         "rating": {
           "rating_kp": "6.215",
-          "vote_num_kp": "17203",
+          "vote_num_kp": "17205",
           "rating_imdb": "5.7",
           "vote_num_imdb": "10887"
         }
@@ -1288,8 +1399,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1136307.jpg",
         "screenshot": "https://white.bazonserver.site/video/22985/poster.jpg",
         "rating": {
-          "rating_kp": "6.54",
-          "vote_num_kp": "2186",
+          "rating_kp": "6.552",
+          "vote_num_kp": "2200",
           "rating_imdb": "6.1",
           "vote_num_imdb": "209"
         }
@@ -1400,7 +1511,7 @@
         "screenshot": "https://white.bazonserver.site/video/22981/poster.jpg",
         "rating": {
           "rating_kp": "6.72",
-          "vote_num_kp": "1707",
+          "vote_num_kp": "1709",
           "rating_imdb": "6.3",
           "vote_num_imdb": "3831"
         }
@@ -1437,9 +1548,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/22952/poster.jpg",
         "rating": {
           "rating_kp": "8.006",
-          "vote_num_kp": "155126",
+          "vote_num_kp": "155170",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "718446"
+          "vote_num_imdb": "718525"
         }
       }
     },
@@ -1474,9 +1585,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/22953/poster.jpg",
         "rating": {
           "rating_kp": "8.504",
-          "vote_num_kp": "579466",
+          "vote_num_kp": "579783",
           "rating_imdb": "9.1",
-          "vote_num_imdb": "2520943"
+          "vote_num_imdb": "2521694"
         }
       }
     },
@@ -1510,8 +1621,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1179006.jpg",
         "screenshot": "https://white.bazonserver.site/video/22980/poster.jpg",
         "rating": {
-          "rating_kp": "5.394",
-          "vote_num_kp": "250",
+          "rating_kp": "5.371",
+          "vote_num_kp": "257",
           "rating_imdb": "6.3",
           "vote_num_imdb": "807"
         }
@@ -1548,7 +1659,7 @@
         "screenshot": "https://white.bazonserver.site/video/22979/poster.jpg",
         "rating": {
           "rating_kp": "5.328",
-          "vote_num_kp": "3045",
+          "vote_num_kp": "3047",
           "rating_imdb": "5.9",
           "vote_num_imdb": "5683"
         }
@@ -1622,7 +1733,7 @@
         "screenshot": "https://white.bazonserver.site/video/22976/poster.jpg",
         "rating": {
           "rating_kp": "4.245",
-          "vote_num_kp": "849",
+          "vote_num_kp": "850",
           "rating_imdb": "3.7",
           "vote_num_imdb": "1046"
         }
@@ -1658,8 +1769,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1392589.jpg",
         "screenshot": "https://white.bazonserver.site/video/22977/poster.jpg",
         "rating": {
-          "rating_kp": "7.392",
-          "vote_num_kp": "13359",
+          "rating_kp": "7.393",
+          "vote_num_kp": "13362",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -1736,117 +1847,6 @@
           "vote_num_kp": "1812",
           "rating_imdb": "5.5",
           "vote_num_imdb": "2836"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "584248",
-      "date": "1600778008",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Одноголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Секс ангелов",
-        "orig": "El sexo de los ángeles",
-        "alter": "",
-        "year": "2012",
-        "country": "Испания, Бразилия",
-        "director": "Хавьер Вильяверде",
-        "genre": "мелодрама,драма",
-        "actors": "Астрид Берже-Фрисби, Альваро Сервантес, Льоренс Гонсалес, Соня Мендес, Джульета Марокко, Луиза Кастелл, Марк Гарсиа Коте, Марк Посиэлло, Рикард Фарре, Ана Симини",
-        "description": "Карла и Бруно влюблены друг в друга и наслаждаются беззаботным времяпрепровождением в компании друзей, пока однажды в их жизни не появляется Рей - обаятельный и загадочный парень, живущий не по правилам.",
-        "slogan": "",
-        "premiere": "4 марта 2012",
-        "age": "18",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_584248.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22971/poster.jpg",
-        "rating": {
-          "rating_kp": "6.841",
-          "vote_num_kp": "3223",
-          "rating_imdb": "6.5",
-          "vote_num_imdb": "4837"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "557963",
-      "date": "1600777940",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "DVDRip",
-      "translation": "Одноголосый",
-      "max_qual": "480",
-      "info": {
-        "rus": "Промах",
-        "orig": "Gli sfiorati",
-        "alter": "",
-        "year": "2011",
-        "country": "Италия",
-        "director": "Маттео Ровере",
-        "genre": "мелодрама,драма",
-        "actors": "Андреа Боска, Мириам Джованелли, Клаудио Сантамария, Микеле Риондино, Азия Ардженто, Массимо Пополицио, Айтана Санчес-Хихон, Svetlana Tchernykh Anatolievna, Tonino Andreottola, Этторе Бельмондо",
-        "description": "Главный герой - 30-летний графолог Мете, зачарованный тайнами, которые может раскрыть человеческий почерк. За неделю до свадьбы отца с новой пассией сводная сестра Мете, 17-летняя подросток-озорница Белинда, переезжает в его римскую квартиру - и новое соседство становится началом совсем не дружеских отношений.",
-        "slogan": "",
-        "premiere": "26 октября 2011",
-        "age": "16",
-        "time": "6660",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_557963.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22970/poster.jpg",
-        "rating": {
-          "rating_kp": "5.886",
-          "vote_num_kp": "683",
-          "rating_imdb": "5.5",
-          "vote_num_imdb": "790"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "493953",
-      "date": "1600777910",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Дубляж",
-      "max_qual": "720",
-      "info": {
-        "rus": "Неудовлетворенное сексуальное напряжение",
-        "orig": "Tensión sexual no resuelta",
-        "alter": "",
-        "year": "2010",
-        "country": "Испания",
-        "director": "Мигель Анхель Ламата",
-        "genre": "комедия",
-        "actors": "Норма Руис, Пилар Рубио, Саломе Хименес, Мигель Анхель Муньос, Феле Мартинес, Амайя Саламанка, Адам Йезерски, Самуэль Миро, Хоакин Рейес, Майте Навалес",
-        "description": "В знойной Испании красавицы и красавцы увлеченно разбираются в хитросплетениях своей сексуальной жизни - кто, с кем, когда и к чему приводят мимолетные увлечения.",
-        "slogan": "El amor es un arma de destrucci&oacute;n masiva",
-        "premiere": "18 марта 2010",
-        "age": "18",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_493953.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22969/poster.jpg",
-        "rating": {
-          "rating_kp": "6.856",
-          "vote_num_kp": "5888",
-          "rating_imdb": "5.6",
-          "vote_num_imdb": "1279"
         }
       }
     }

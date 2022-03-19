@@ -2,6 +2,117 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1405935",
+      "date": "1602193506",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEBRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Американское убийство: Семья по соседству",
+        "orig": "American Murder: The Family Next Door",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Дженни Попплуэлл",
+        "genre": "документальный,криминал",
+        "actors": "",
+        "description": "В фильме речь преимущественно пойдет о физической расправе мужчиной членов собственного семейства, каковыми станут его непосредственная супруга, находящая в положении и двумя маленькими дочерьми. Всё произошло на территории Американского Штата Колорадо в две тысячи восемнадцатом году.",
+        "slogan": "",
+        "premiere": "30 сентября 2020",
+        "age": "0",
+        "time": "4920",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1405935.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23502/poster.jpg",
+        "rating": {
+          "rating_kp": "7.229",
+          "vote_num_kp": "1705",
+          "rating_imdb": "7.2",
+          "vote_num_imdb": "25761"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1322943",
+      "date": "1602184506",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Секреты команды чирлидеров",
+        "orig": "Cheer Squad Secrets",
+        "alter": "",
+        "year": "2020",
+        "country": "Канада",
+        "director": "Дэвид Ланглуа",
+        "genre": "триллер",
+        "actors": "Маргарет Энн Флоренс,Анита Браун,Керис Камерон,Мэтт Андерсон,Джесси Джеймс,Санни Чэнь,Аниса Харрис,Kaden Connors,В.Дж. Винтер,Дорон Белл",
+        "description": "Мать помогает дочери стать капитаном команды чирлидеров, но неожиданно узнаёт, что кто-то снабжает её ребёнка опасными стероидами. И этот человек готов на всё, чтобы скрыть свои действия. Даже на убийство.",
+        "slogan": "",
+        "premiere": "",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjIwNTA4MDYtOWVhMS00MjhkLThlNmItN2IxMjNmZDlhZDQwXkEyXkFqcGdeQXVyNzAwNTY5MzA@.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23506/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "3",
+          "rating_imdb": "4.6",
+          "vote_num_imdb": "181"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1404020",
+      "date": "1602180909",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Трамп против Иллюминатов",
+        "orig": "Trump vs the Illuminati",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "БиСи Фертни",
+        "genre": "мультфильм",
+        "actors": "",
+        "description": "Клон Дональда Трампа сбежал с обречённой Земли на последнем космическом корабле, направлявшемся на Марс. В это время человеческая раса продолжает вести неравный бой против армий Иллюминатов.",
+        "slogan": "",
+        "premiere": "6 октября 2020",
+        "age": "0",
+        "time": "4200",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTlhZDE3YTctMmVlMC00MTY0LTlhNDEtNjMzZTUyNTg5MzY1XkEyXkFqcGdeQXVyMTEzMjQzMDM1.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23500/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "32",
+          "rating_imdb": "2.3",
+          "vote_num_imdb": "409"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1182465",
       "date": "1602171004",
       "camrip": "0",
@@ -436,7 +547,7 @@
         "screenshot": "https://white.bazonserver.site/video/23490/poster.jpg",
         "rating": {
           "rating_kp": "6.124",
-          "vote_num_kp": "2811",
+          "vote_num_kp": "2816",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -473,7 +584,7 @@
         "screenshot": "https://white.bazonserver.site/video/23472/poster.jpg",
         "rating": {
           "rating_kp": "6.28",
-          "vote_num_kp": "1242",
+          "vote_num_kp": "1245",
           "rating_imdb": "6.2",
           "vote_num_imdb": "2948"
         }
@@ -584,7 +695,7 @@
         "screenshot": "https://white.bazonserver.site/video/23485/poster.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "92",
+          "vote_num_kp": "93",
           "rating_imdb": "3.6",
           "vote_num_imdb": "163"
         }
@@ -657,8 +768,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1002633.jpg",
         "screenshot": "https://brother.bazonserver.site/video/23483/poster.jpg",
         "rating": {
-          "rating_kp": "6.407",
-          "vote_num_kp": "3593",
+          "rating_kp": "6.409",
+          "vote_num_kp": "3608",
           "rating_imdb": "6.2",
           "vote_num_imdb": "4942"
         }
@@ -1545,10 +1656,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1196157.jpg",
         "screenshot": "https://banana.bazonserver.site/video/23446/poster.jpg",
         "rating": {
-          "rating_kp": "6.673",
-          "vote_num_kp": "9530",
+          "rating_kp": "6.674",
+          "vote_num_kp": "9538",
           "rating_imdb": "6.5",
-          "vote_num_imdb": "13024"
+          "vote_num_imdb": "13033"
         }
       }
     },
@@ -1694,7 +1805,7 @@
         "screenshot": "https://banana.bazonserver.site/video/23408/poster.jpg",
         "rating": {
           "rating_kp": "7.048",
-          "vote_num_kp": "85898",
+          "vote_num_kp": "85917",
           "rating_imdb": "7",
           "vote_num_imdb": "266731"
         }
@@ -1838,7 +1949,7 @@
         "screenshot": "https://white.bazonserver.site/video/23444/poster.jpg",
         "rating": {
           "rating_kp": "7.527",
-          "vote_num_kp": "1614",
+          "vote_num_kp": "1620",
           "rating_imdb": "6.1",
           "vote_num_imdb": "1423"
         }
@@ -1875,7 +1986,7 @@
         "screenshot": "https://white.bazonserver.site/video/23437/poster.jpg",
         "rating": {
           "rating_kp": "5.444",
-          "vote_num_kp": "1385",
+          "vote_num_kp": "1386",
           "rating_imdb": "5.7",
           "vote_num_imdb": "6650"
         }
@@ -1912,120 +2023,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/23406/poster.jpg",
         "rating": {
           "rating_kp": "7.195",
-          "vote_num_kp": "13031",
+          "vote_num_kp": "13033",
           "rating_imdb": "8",
-          "vote_num_imdb": "418696"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "2217",
-      "date": "1602001842",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Дубляж",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Аполлон 13",
-        "orig": "Apollo 13",
-        "alter": "",
-        "year": "1995",
-        "country": "США",
-        "director": "Рон Ховард",
-        "genre": "история,драма,приключения",
-        "actors": "Том Хэнкс, Билл Пэкстон, Кевин Бейкон, Гэри Синиз, Эд Харрис, Кэтлин Куинлен, Мэри Кейт Шеллхардт, Эмили Энн Ллойд, Мико Хьюз, Макс Эллиотт Слэйд",
-        "description": "Фильм о неудачной лунной миссии «Аполлон-13» - одном из самых драматических моментов освоения космоса. В 1970 «Аполлон-13» должен был стать третьим космическим кораблём, который доставил бы астронавтов на Луну. Однако уже на подлёте к цели на корабле произошла серьёзная авария, которая не только поставила крест на высадке, но и создала угрозу жизни экипажа.",
-        "slogan": "Хьюстон, у нас проблема",
-        "premiere": "22 июня 1995",
-        "age": "12",
-        "time": "8400",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2217.jpg",
-        "screenshot": "https://white.bazonserver.site/video/23409/poster.jpg",
-        "rating": {
-          "rating_kp": "7.714",
-          "vote_num_kp": "49830",
-          "rating_imdb": "7.7",
-          "vote_num_imdb": "287619"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "735910",
-      "date": "1601994633",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Эзер кенегдо",
-        "orig": "Ezer Kenegdo",
-        "alter": "",
-        "year": "2017",
-        "country": "США",
-        "director": "Дениз Демирэ,Дэниэл Кремер",
-        "genre": "драма,комедия,история",
-        "actors": "Дэниэл Кремер,Дениз Демирэ,Роб Нилссон,Джошуа Сэфди,Крис Калтагорин,Аланна Блэр,Уильям Калли Аллен,К.Дж. Линхейм,Пенни Вернер,Shelley Caltagirone",
-        "description": "Когда Израиль «Иззи» Йонигкайт, хасидский еврей из Краун-Хайтс, едет в Сан-Франциско, чтобы навестить своего друга-католика Марека Вишневски, родившегося в Польше, и выяснить, почему деятель из мира искусства по имени Хэрри Кирк стремится уничтожить работу всей своей жизни, у Иззи и Марека происходит конфликт. Они обнаруживают, что сложный исторический багаж мешает их необычной дружбе, и вскоре начинают понимать, почему Кирк стремится к разрушению.",
-        "slogan": "",
-        "premiere": "28 октября 2017",
-        "age": "0",
-        "time": "6060",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_735910.jpg",
-        "screenshot": "https://white.bazonserver.site/video/23441/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "8",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1055598",
-      "date": "1601994629",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Портфолио",
-        "orig": "Headshots",
-        "alter": "",
-        "year": "2018",
-        "country": "Великобритания,США",
-        "director": "Крис О’Нилл",
-        "genre": "ужасы",
-        "actors": "Ника Хитрова,Ана Лопес,Гайл Бранко,Thomas Ohrstrom,Darian Michael Garey,Olivia Castanho,Graham Selden,Dani Savka,Isabella Marie Egizi,Ноэль Вилер",
-        "description": "Подающая надежды британская актриса переезжает в Лос-Анджелес, чтобы стать звездой. Но попадает в руки к серийной убийце, которая находит жертв с помощью своей школы актёрского мастерства.",
-        "slogan": "In Hollywood, everyone wears a mask...",
-        "premiere": "5 декабря 2018",
-        "age": "0",
-        "time": "5340",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNmNhNzhhZjctNmE2Mi00ZWUyLWE3MTgtMDhhZDBlOTNjZjEyXkEyXkFqcGdeQXVyOTc3ODU0Mw@@.jpg",
-        "screenshot": "https://white.bazonserver.site/video/23440/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "7",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
+          "vote_num_imdb": "418792"
         }
       }
     }

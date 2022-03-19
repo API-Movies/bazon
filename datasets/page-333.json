@@ -2,6 +2,162 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "55359",
+      "date": "1600207923",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "DVDRip",
+      "translation": "Одноголосый",
+      "max_qual": "480",
+      "info": {
+        "rus": "Исповедь чистильщика окон",
+        "orig": "Confessions of a Window Cleaner",
+        "alter": "",
+        "year": "1974",
+        "country": "Великобритания",
+        "director": "Вэл Гест",
+        "genre": "комедия",
+        "actors": "Робин Эсквив,Энтони Бут,Шила Уайт,Дэнди Николс,Билл Мэйнард,Линда Хейден,Джон Ле Мезюрье,Джоан Хиксон,Катя Уайет,Ричард Уоттис",
+        "description": "Экранизация романа-автобиографии Кристофера Вуда (написанного под псевдонимом «Тимоти Ли». Тимоти не рожден для работы без приключений. Поставить лестницу и помыть окно Тимоти обычно не удается. Или заглядится на раздетых девиц, или, забираясь на подоконник, разольет раствор для чистки стекол, или поддастся на уговоры горничной-поклонницы йоги и начнет учиться стоять на голове. А что с парня спросишь в 18 лет?! И уж если он сделает предложение о замужестве, то избранницей его будет девушка, работающая в полиции.",
+        "slogan": "The dirty window cleaner reveals everything!",
+        "premiere": "16 августа 1974",
+        "age": "16",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_55359.jpg",
+        "screenshot": "https://white.bazonserver.site/video/22708/poster.jpg",
+        "rating": {
+          "rating_kp": "5.265",
+          "vote_num_kp": "176",
+          "rating_imdb": "4.6",
+          "vote_num_imdb": "1398"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "707097",
+      "date": "1600207791",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "1",
+      "quality": "WEB-DLRip",
+      "translation": "AniLibria",
+      "max_qual": "720",
+      "last_season": "2",
+      "last_episode": "12",
+      "episodes": {
+        "1": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720,
+          "13": 720
+        },
+        "2": {
+          "1": 720,
+          "2": 720,
+          "3": 720,
+          "4": 720,
+          "5": 720,
+          "6": 720,
+          "7": 720,
+          "8": 720,
+          "9": 720,
+          "10": 720,
+          "11": 720,
+          "12": 720
+        }
+      },
+      "info": {
+        "rus": "Очень приятно, Бог",
+        "orig": "Kamisama Hajimemashita",
+        "alter": "",
+        "year": "2012",
+        "country": "Япония",
+        "director": "Акитаро Дайти",
+        "genre": "аниме,комедия,мелодрама,мультфильм",
+        "actors": "Судзуко Мимори, Акира Исида, Синносукэ Татибана, Сатоми Сато, Нобухико Окамото, Дж. Майкл Татум, Джейми Марчи, Терри Доти, Лидия Маккей, Шон О’Коннор",
+        "description": "Непутевый отец сбежал, проигравшись в дым, а дочь, 17-летнюю Нанами Момодзоно, грубые люди в черном выбросили из дома. Бедняжка вместе с пожитками отправилась в парк и вдруг среди ночи услышала голос, умолявший спасти от злой собаки. Прогнав не такого уж страшного пса, Нанами разговорилась с симпатичным незнакомцем и незаметно выложила свою печальную историю. Парень, назвавшийся Микагэ, пожалел девушку и в благодарность предложил ей пожить в его доме. Сам же он возвращаться не хочет, поскольку дома давно не был, ну и Томоэ наверняка в ярости. Встревать между гулякой и, похоже, ревнивой женой Момодзоно не хотелось, но и на скамейке ночевать не сахар, так что она взяла нехитрую карту и отправилась искать новое жилье.",
+        "slogan": "",
+        "premiere": "1 октября 2012",
+        "age": "0",
+        "time": "1500",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_707097.jpg",
+        "screenshot": "https://white.bazonserver.site/video/22707/poster.jpg",
+        "rating": {
+          "rating_kp": "8.295",
+          "vote_num_kp": "18228",
+          "rating_imdb": "8.2",
+          "vote_num_imdb": "3607"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1299012",
+      "date": "1600207627",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "1",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "TVShows",
+      "max_qual": "480",
+      "last_season": "1",
+      "last_episode": "6",
+      "episodes": {
+        "1": {
+          "1": 480,
+          "2": 480,
+          "3": 480,
+          "4": 480,
+          "5": 480,
+          "6": 480
+        }
+      },
+      "info": {
+        "rus": "Маппеты сегодня",
+        "orig": "Muppets Now",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Кристофер Алендер,Rufus Scot Church,Vito Massara",
+        "genre": "комедия,семейный",
+        "actors": "Билл Барретта,Дэйв Гольц,Эрик Джейкобсон,Питер Линц,Дэвид Рудман,Мэтт Фогель,Джулианна Бушер,Майк Куинн,Линда Карделлини,Тэй Диггз",
+        "description": "Серия небольших короткометражных эпизодов, в которых веселые куклы Маппеты встречаются с известными личностями из шоу-бизнеса.",
+        "slogan": "",
+        "premiere": "31 июля 2020",
+        "age": "0",
+        "time": "1500",
+        "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/fe0fed75-97dc-4ccd-9579-4e8802ea9702/600x900",
+        "screenshot": "https://banana.bazonserver.site/video/20558/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "48",
+          "rating_imdb": "5.9",
+          "vote_num_imdb": "1117"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1118035",
       "date": "1600203602",
       "camrip": "0",
@@ -142,7 +298,7 @@
         "screenshot": "https://plotva.bazonserver.site/video/22673/poster.jpg",
         "rating": {
           "rating_kp": "7.658",
-          "vote_num_kp": "12929",
+          "vote_num_kp": "12930",
           "rating_imdb": "7.5",
           "vote_num_imdb": "37908"
         }
@@ -179,9 +335,9 @@
         "screenshot": "https://banana.bazonserver.site/video/22658/poster.jpg",
         "rating": {
           "rating_kp": "8.077",
-          "vote_num_kp": "116949",
+          "vote_num_kp": "116961",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "648344"
+          "vote_num_imdb": "648428"
         }
       }
     },
@@ -512,9 +668,9 @@
         "screenshot": "https://i75t.bazonserver.site/video/22653/poster.jpg",
         "rating": {
           "rating_kp": "8.084",
-          "vote_num_kp": "452583",
+          "vote_num_kp": "452686",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "460155"
+          "vote_num_imdb": "460210"
         }
       }
     },
@@ -549,7 +705,7 @@
         "screenshot": "https://white.bazonserver.site/video/22651/poster.jpg",
         "rating": {
           "rating_kp": "6.327",
-          "vote_num_kp": "26928",
+          "vote_num_kp": "26935",
           "rating_imdb": "6",
           "vote_num_imdb": "25212"
         }
@@ -586,9 +742,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/22680/poster.jpg",
         "rating": {
           "rating_kp": "8.098",
-          "vote_num_kp": "396067",
+          "vote_num_kp": "396142",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "875771"
+          "vote_num_imdb": "875881"
         }
       }
     },
@@ -659,8 +815,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_17610.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/22659/poster.jpg",
         "rating": {
-          "rating_kp": "7.537",
-          "vote_num_kp": "9066",
+          "rating_kp": "7.536",
+          "vote_num_kp": "9068",
           "rating_imdb": "6.8",
           "vote_num_imdb": "26468"
         }
@@ -697,9 +853,9 @@
         "screenshot": "https://banana.bazonserver.site/video/22652/poster.jpg",
         "rating": {
           "rating_kp": "7.015",
-          "vote_num_kp": "193087",
+          "vote_num_kp": "193151",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "542766"
+          "vote_num_imdb": "542822"
         }
       }
     },
@@ -845,7 +1001,7 @@
         "screenshot": "https://yq4u.bazonserver.site/video/22629/poster.jpg",
         "rating": {
           "rating_kp": "6.399",
-          "vote_num_kp": "16901",
+          "vote_num_kp": "16904",
           "rating_imdb": "6",
           "vote_num_imdb": "20985"
         }
@@ -956,9 +1112,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/22655/poster.jpg",
         "rating": {
           "rating_kp": "7.966",
-          "vote_num_kp": "53100",
+          "vote_num_kp": "53116",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "139222"
+          "vote_num_imdb": "139242"
         }
       }
     },
@@ -992,10 +1148,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_958722.jpg",
         "screenshot": "https://brother.bazonserver.site/video/22650/poster.jpg",
         "rating": {
-          "rating_kp": "8.341",
-          "vote_num_kp": "194016",
+          "rating_kp": "8.342",
+          "vote_num_kp": "194302",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "244553"
+          "vote_num_imdb": "244615"
         }
       }
     },
@@ -1103,8 +1259,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1160654.jpg",
         "screenshot": "https://white.bazonserver.site/video/22667/poster.jpg",
         "rating": {
-          "rating_kp": "7.266",
-          "vote_num_kp": "2107",
+          "rating_kp": "7.265",
+          "vote_num_kp": "2111",
           "rating_imdb": "7.1",
           "vote_num_imdb": "11275"
         }
@@ -1140,8 +1296,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1249273.jpg",
         "screenshot": "https://white.bazonserver.site/video/22663/poster.jpg",
         "rating": {
-          "rating_kp": "7.687",
-          "vote_num_kp": "25372",
+          "rating_kp": "7.688",
+          "vote_num_kp": "25443",
           "rating_imdb": "6.7",
           "vote_num_imdb": "961"
         }
@@ -1178,7 +1334,7 @@
         "screenshot": "https://yq4u.bazonserver.site/video/22628/poster.jpg",
         "rating": {
           "rating_kp": "5.97",
-          "vote_num_kp": "23015",
+          "vote_num_kp": "23028",
           "rating_imdb": "5.3",
           "vote_num_imdb": "41211"
         }
@@ -1252,9 +1408,9 @@
         "screenshot": "https://banana.bazonserver.site/video/22631/poster.jpg",
         "rating": {
           "rating_kp": "7.578",
-          "vote_num_kp": "218903",
+          "vote_num_kp": "218989",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "700592"
+          "vote_num_imdb": "700752"
         }
       }
     },
@@ -1289,7 +1445,7 @@
         "screenshot": "https://plotva.bazonserver.site/video/22645/poster.jpg",
         "rating": {
           "rating_kp": "4.811",
-          "vote_num_kp": "3381",
+          "vote_num_kp": "3384",
           "rating_imdb": "4.3",
           "vote_num_imdb": "1100"
         }
@@ -1511,7 +1667,7 @@
         "screenshot": "https://white.bazonserver.site/video/22630/poster.jpg",
         "rating": {
           "rating_kp": "6.801",
-          "vote_num_kp": "6361",
+          "vote_num_kp": "6363",
           "rating_imdb": "7",
           "vote_num_imdb": "24789"
         }
@@ -1584,8 +1740,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1035311.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/22611/poster.jpg",
         "rating": {
-          "rating_kp": "7.105",
-          "vote_num_kp": "55981",
+          "rating_kp": "7.106",
+          "vote_num_kp": "55993",
           "rating_imdb": "6.6",
           "vote_num_imdb": "38388"
         }
@@ -1621,8 +1777,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_178591.jpg",
         "screenshot": "https://yq4u.bazonserver.site/video/22627/poster.jpg",
         "rating": {
-          "rating_kp": "6.04",
-          "vote_num_kp": "48630",
+          "rating_kp": "6.041",
+          "vote_num_kp": "48649",
           "rating_imdb": "5.4",
           "vote_num_imdb": "88725"
         }
@@ -1659,7 +1815,7 @@
         "screenshot": "https://pluton.bazonserver.site/video/22623/poster.jpg",
         "rating": {
           "rating_kp": "6.777",
-          "vote_num_kp": "4949",
+          "vote_num_kp": "4950",
           "rating_imdb": "7",
           "vote_num_imdb": "14283"
         }
@@ -1695,8 +1851,8 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BNWNhODgyNTUtMzA4Zi00MTQ4LWI0NzktYzM3NzkwZmQzMTM5XkEyXkFqcGdeQXVyMTAwMzM3NDI3.jpg",
         "screenshot": "https://white.bazonserver.site/video/22643/poster.jpg",
         "rating": {
-          "rating_kp": "5.507",
-          "vote_num_kp": "17433",
+          "rating_kp": "5.514",
+          "vote_num_kp": "17441",
           "rating_imdb": "5.3",
           "vote_num_imdb": "1421"
         }
@@ -1733,120 +1889,9 @@
         "screenshot": "https://banana.bazonserver.site/video/22617/poster.jpg",
         "rating": {
           "rating_kp": "7.381",
-          "vote_num_kp": "210045",
+          "vote_num_kp": "210094",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "281435"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "794525",
-      "date": "1600033962",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Двухголосый",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Бэтмен: Нападение на Аркхэм",
-        "orig": "Batman: Assault on Arkham",
-        "alter": "",
-        "year": "2014",
-        "country": "США",
-        "director": "Джей Олива, Этан Сполдинг",
-        "genre": "мультфильм,боевик,фантастика,триллер,криминал",
-        "actors": "Кевин Конрой, Нил МакДонаф, Хинден Уолш, Мэттью Грей Гублер, Трой Бэйкер, Эрик Бауза, Крис Кокс, Джон Ди Маджио, Джонни Рис, Джанкарло Эспозито",
-        "description": "Секретная правительственная организация формирует спец группу «Суицидальный отряд», состоящую из наемников и убийц, чтобы проникнуть в психиатрическую лечебницу Аркхам и добыть похищенную засекреченную информацию из рук заключенного Эдварда Нигмы, «Загадочника».",
-        "slogan": "Get ready to root for the bad guys",
-        "premiere": "25 июля 2014",
-        "age": "18",
-        "time": "4560",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_794525.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22606/poster.jpg",
-        "rating": {
-          "rating_kp": "7.384",
-          "vote_num_kp": "12318",
-          "rating_imdb": "7.4",
-          "vote_num_imdb": "34105"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1259395",
-      "date": "1600023607",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Паранормальное влечение",
-        "orig": "Paranormal Attraction",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Alexander T. Hwang",
-        "genre": "ужасы",
-        "actors": "Бруклин Хейли,Николь Синалья,Хантер Джонсон,Иден Ши Бек,Jennifer Nangle,Эшли Ветер,Robert Downs,Аль Бурк,Charles Chudabala,Darell M. Davie",
-        "description": "Пытаясь сбежать подальше от бывшего парня-сталкера, Сара соглашается на предложение подруги пожить в доме на продажу и одновременно привести его в порядок. Однако, вскоре доме начинают происходить странные явления и девушка понимает, что оказалась там не одна.",
-        "slogan": "When a young entrepreneur is hired to clear out a house with a tragic past, she awakens a demon hell-bent on claiming her soul",
-        "premiere": "9 сентября 2020",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BY2U1NDA0MTItZmI1MC00OTFlLWI5NjktMjQyNmVmZDRkZWNhXkEyXkFqcGdeQXVyNTEyMjkwMjI@.jpg",
-        "screenshot": "https://white.bazonserver.site/video/22641/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "6",
-          "rating_imdb": "2.8",
-          "vote_num_imdb": "354"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1236282",
-      "date": "1600022375",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Многоголосый",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Бэтмен против Черепашек-ниндзя",
-        "orig": "Batman vs. Teenage Mutant Ninja Turtles",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Jake Castorena",
-        "genre": "мультфильм,комедия,боевик,фантастика,фэнтези,криминал,приключения",
-        "actors": "Трой Бэйкер, Эрик Бауза, Даррен Крисс, Кайл Муни, Барон Вон, Карлос Аласраки, Кэс Анвар, Рэйчел Блум, Джон Ди Маджио, Кит Фергюсон",
-        "description": "Бэтмен объединяется с Черепашками-ниндзя, чтобы остановить Шредера и Ра’с аль Гула.",
-        "slogan": "Who Will Lead Them?",
-        "premiere": "31 марта 2019",
-        "age": "0",
-        "time": "5220",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1236282.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/22608/poster.jpg",
-        "rating": {
-          "rating_kp": "6.754",
-          "vote_num_kp": "5808",
-          "rating_imdb": "7.1",
-          "vote_num_imdb": "10238"
+          "vote_num_imdb": "281494"
         }
       }
     }

@@ -2,6 +2,80 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "2885",
+      "date": "1598525107",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Дубляж",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Игры джентльменов",
+        "orig": "The Ladykillers",
+        "alter": "",
+        "year": "2004",
+        "country": "США",
+        "director": "Итан Коэн, Джоэл Коэн",
+        "genre": "комедия,триллер,криминал",
+        "actors": "Том Хэнкс, Ирма П. Холл, Марлон Уайанс, Дж.К. Симмонс, Ма Ци, Райан Херст, Дайан Делано, Джордж Уоллес, Джон МакКоннелл, Джейсон Уивер",
+        "description": "Голдтуэйт Хиггинсон Дорр, странный профессор из южных штатов, разрабатывает план ограбления казино, базирующегося на речном корабле. Он собирает команду воров, снимает для них комнату в доме, владелицей которого является одна старая дама, миссис Мансон.",
+        "slogan": "Величайшие преступники всех времён наконец нашли себе достойную соперницу",
+        "premiere": "26 марта 2004",
+        "age": "16",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2885.jpg",
+        "screenshot": "https://banana.bazonserver.site/video/21971/poster.jpg",
+        "rating": {
+          "rating_kp": "6.959",
+          "vote_num_kp": "28853",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "103585"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "272648",
+      "date": "1598525101",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Хищные воды",
+        "orig": "Black Water",
+        "alter": "",
+        "year": "2007",
+        "country": "Австралия",
+        "director": "Дэвид Нерлич, Эндрю Трауки",
+        "genre": "боевик,ужасы,триллер,драма",
+        "actors": "Диана Гленн, Мейв Дермоди, Энди Родореда, Бен Оксенбулд, Фиона Пресс",
+        "description": "Грейс, Адам и Ли решают провести выходные на рыбалке на живописной реке, среди непроходимых джунглей. На месте они нанимают проводника - лучшего знатока окрестностей.\r\n\r\nОтличная погода, красивые места, прекрасный клев - все указывает на то, что путешествие будет легким и увлекательным. Но даже такой профессионал, как их проводник, не подозревает, какая опасность таится в тихой и на вид безопасной заводи...",
+        "slogan": "What You Can't See Can Hurt You",
+        "premiere": "3 августа 2007",
+        "age": "16",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_272648.jpg",
+        "screenshot": "https://brother.bazonserver.site/video/21970/poster.jpg",
+        "rating": {
+          "rating_kp": "5.809",
+          "vote_num_kp": "2281",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "14660"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "12827",
       "date": "1598524204",
       "camrip": "0",
@@ -326,8 +400,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_24719.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/21960/poster.jpg",
         "rating": {
-          "rating_kp": "7.158",
-          "vote_num_kp": "3732",
+          "rating_kp": "7.159",
+          "vote_num_kp": "3741",
           "rating_imdb": "6.4",
           "vote_num_imdb": "3884"
         }
@@ -364,7 +438,7 @@
         "screenshot": "https://banana.bazonserver.site/video/21959/poster.jpg",
         "rating": {
           "rating_kp": "7.159",
-          "vote_num_kp": "104196",
+          "vote_num_kp": "104359",
           "rating_imdb": "6.4",
           "vote_num_imdb": "262"
         }
@@ -928,7 +1002,7 @@
         "screenshot": "https://banana.bazonserver.site/video/21945/poster.jpg",
         "rating": {
           "rating_kp": "7.998",
-          "vote_num_kp": "43880",
+          "vote_num_kp": "43907",
           "rating_imdb": "7.8",
           "vote_num_imdb": "3223"
         }
@@ -965,7 +1039,7 @@
         "screenshot": "https://brother.bazonserver.site/video/21944/poster.jpg",
         "rating": {
           "rating_kp": "7.068",
-          "vote_num_kp": "14920",
+          "vote_num_kp": "14922",
           "rating_imdb": "6.6",
           "vote_num_imdb": "46569"
         }
@@ -1002,7 +1076,7 @@
         "screenshot": "https://banana.bazonserver.site/video/21943/poster.jpg",
         "rating": {
           "rating_kp": "7.998",
-          "vote_num_kp": "49460",
+          "vote_num_kp": "49492",
           "rating_imdb": "7.8",
           "vote_num_imdb": "2814"
         }
@@ -1113,7 +1187,7 @@
         "screenshot": "https://brother.bazonserver.site/video/21940/poster.jpg",
         "rating": {
           "rating_kp": "6.138",
-          "vote_num_kp": "59542",
+          "vote_num_kp": "59556",
           "rating_imdb": "6.6",
           "vote_num_imdb": "237115"
         }
@@ -1149,10 +1223,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_694646.jpg",
         "screenshot": "https://banana.bazonserver.site/video/21939/poster.jpg",
         "rating": {
-          "rating_kp": "7.284",
-          "vote_num_kp": "22509",
+          "rating_kp": "7.283",
+          "vote_num_kp": "22513",
           "rating_imdb": "7.3",
-          "vote_num_imdb": "101430"
+          "vote_num_imdb": "101531"
         }
       }
     },
@@ -1261,9 +1335,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21774/poster.jpg",
         "rating": {
           "rating_kp": "5.473",
-          "vote_num_kp": "95280",
+          "vote_num_kp": "95287",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "82945"
+          "vote_num_imdb": "82964"
         }
       }
     },
@@ -1347,9 +1421,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21935/poster.jpg",
         "rating": {
           "rating_kp": "8.067",
-          "vote_num_kp": "61946",
+          "vote_num_kp": "61962",
           "rating_imdb": "8.7",
-          "vote_num_imdb": "413045"
+          "vote_num_imdb": "413149"
         }
       }
     },
@@ -1450,10 +1524,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1167154.jpg",
         "screenshot": "https://plotva.bazonserver.site/video/21934/poster.jpg",
         "rating": {
-          "rating_kp": "8.099",
-          "vote_num_kp": "91977",
+          "rating_kp": "8.1",
+          "vote_num_kp": "92268",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "13992"
+          "vote_num_imdb": "13995"
         }
       }
     },
@@ -1574,9 +1648,9 @@
         "screenshot": "https://banana.bazonserver.site/video/21933/poster.jpg",
         "rating": {
           "rating_kp": "8.39",
-          "vote_num_kp": "309394",
+          "vote_num_kp": "309550",
           "rating_imdb": "8.7",
-          "vote_num_imdb": "972757"
+          "vote_num_imdb": "972841"
         }
       }
     },
@@ -1759,9 +1833,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/21930/poster.jpg",
         "rating": {
           "rating_kp": "7.574",
-          "vote_num_kp": "13407",
+          "vote_num_kp": "13413",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "18281"
+          "vote_num_imdb": "18285"
         }
       }
     },
@@ -1830,9 +1904,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/21929/poster.jpg",
         "rating": {
           "rating_kp": "7.574",
-          "vote_num_kp": "13407",
+          "vote_num_kp": "13413",
           "rating_imdb": "7.9",
-          "vote_num_imdb": "18281"
+          "vote_num_imdb": "18285"
         }
       }
     },
@@ -1931,10 +2005,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1169469.jpg",
         "screenshot": "https://yq4u.bazonserver.site/video/21925/poster.jpg",
         "rating": {
-          "rating_kp": "7.752",
-          "vote_num_kp": "16288",
+          "rating_kp": "7.751",
+          "vote_num_kp": "16311",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "93753"
+          "vote_num_imdb": "93768"
         }
       }
     },
@@ -2030,9 +2104,9 @@
         "screenshot": "https://banana.bazonserver.site/video/21924/poster.jpg",
         "rating": {
           "rating_kp": "8.179",
-          "vote_num_kp": "84570",
+          "vote_num_kp": "84617",
           "rating_imdb": "8.8",
-          "vote_num_imdb": "384527"
+          "vote_num_imdb": "384661"
         }
       }
     },
@@ -2208,80 +2282,6 @@
           "vote_num_kp": "7564",
           "rating_imdb": "7.4",
           "vote_num_imdb": "3472"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "17159",
-      "date": "1598432288",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "Возвращение живых мертвецов",
-        "orig": "The Return of the Living Dead",
-        "alter": "",
-        "year": "1984",
-        "country": "США",
-        "director": "Дэн О’Бэннон",
-        "genre": "комедия,ужасы,фантастика",
-        "actors": "Клу Гулагер, Джеймс Карен, Дон Кэлфа, Том Мэтьюз, Беверли Рэндольф, Джон Филбин, Джуэл Шепард, Мигель А. Нуньес мл., Брайан Пек, Линни Куигли",
-        "description": "На захолустном медицинском складе хранились контейнеры с зомби, по ошибке попавшие туда много лет назад. В один далеко не прекрасный день герметичность упаковки была нарушена, ядовитый газ вырвался наружу, и вот уже мертвецы с соседнего кладбища покидают свое тихое пристанище, чтобы полакомиться мозгом живых...",
-        "slogan": "They're Back From The Grave and Ready To Party!",
-        "premiere": "25 апреля 1985",
-        "age": "16",
-        "time": "5460",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_17159.jpg",
-        "screenshot": "https://plotva.bazonserver.site/video/21920/poster.jpg",
-        "rating": {
-          "rating_kp": "7.243",
-          "vote_num_kp": "9924",
-          "rating_imdb": "7.3",
-          "vote_num_imdb": "59540"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1072215",
-      "date": "1598427188",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Кровные узы",
-        "orig": "Dünnes Blut",
-        "alter": "",
-        "year": "2020",
-        "country": "Германия",
-        "director": "Mehrdad Taheri",
-        "genre": "триллер,драма",
-        "actors": "Mehrdad Taheri,Симон Лихт,Jenny Eichin,Кида Рамадан,Бурак Йийит,Анита Олатунжи,Антонио Ваннек,Рики Уотсон,Mattis Schlenger,Фархад Пайяр",
-        "description": "Александр Бишофф вырос без родителей. У него не было своей семьи и собственных детей. Он работает детективом уже 25 лет. Но вдруг его обвиняют в сотрудничестве с контрабандистами. Для Александра границы между добром и злом стираются. Для него мир уже никогда не будет прежнем.",
-        "slogan": "Blood is thicker than water",
-        "premiere": "",
-        "age": "0",
-        "time": "6000",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNzNiMDc1ZmMtZGMxMC00NWRjLWI5MzctNmJjYzhmNjc4Yjc5XkEyXkFqcGdeQXVyMTU3NTQ1NjU@.jpg",
-        "screenshot": "https://banana.bazonserver.site/video/21919/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "0",
-          "rating_imdb": 0,
-          "vote_num_imdb": 0
         }
       }
     }

@@ -2,6 +2,117 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "940039",
+      "date": "1601815505",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "M",
+        "orig": "M",
+        "alter": "",
+        "year": "2017",
+        "country": "Франция",
+        "director": "Сара Форестье",
+        "genre": "драма",
+        "actors": "Сара Форестье,Redouanne Harjane,Жан-Пьер Лео,Liv Andren,Николя Вод,Джура,Гийом Вердье,Rania,Maryne Cayon,Sébastien Rocca",
+        "description": "Лила и Мо встречаются на остановке. У девушки серьёзное нарушение развития речи, а парень наоборот болтлив и непоседлив. Лила, как прилежная ученица, готовится к экзаменам, а Мо зарабатывает на жизнь тем, что участвует в незаконных гонках. Они — полная противоположность друг другу, но противоположности, как известно, притягиваются...",
+        "slogan": "",
+        "premiere": "4 сентября 2017",
+        "age": "0",
+        "time": "6000",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_940039.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23392/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "25",
+          "rating_imdb": "6.5",
+          "vote_num_imdb": "446"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1031834",
+      "date": "1601806505",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Хара и его трещина",
+        "orig": "Las grietas de Jara",
+        "alter": "",
+        "year": "2018",
+        "country": "Аргентина,Испания",
+        "director": "Nicolás Gil Lavedra",
+        "genre": "триллер,драма,детектив",
+        "actors": "Оскар Мартинес,Хоакин Фуррьель,Соледад Вильямиль,Сара Саламо,Лаура Новоа,Сантьяго Сегура,Zoe Hochbaum,Клаудиа Пинейро,Lucas Medela,Pablo Bellusci",
+        "description": "Архитектор и его коллеги скрывают обстоятельства пропажи человека.",
+        "slogan": "",
+        "premiere": "18 января 2018",
+        "age": "0",
+        "time": "5640",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1031834.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23387/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "21",
+          "rating_imdb": "5.8",
+          "vote_num_imdb": "373"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1263794",
+      "date": "1601801508",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "4K WEB-DL",
+      "translation": "Двухголосый",
+      "max_qual": "2160",
+      "info": {
+        "rus": "Опасная ложь",
+        "orig": "Dangerous Lies",
+        "alter": "",
+        "year": "2020",
+        "country": "США",
+        "director": "Майкл Скотт",
+        "genre": "триллер",
+        "actors": "Джейми Чанг,Кэм Жиганде,Саша Александр,Эллиотт Гулд,Камила Мендес,Джесси Ашер,Гарфилд Уилсон,Ник Пурча,Briana Skye,Тревор Лернер",
+        "description": "Когда богатый пожилой мужчина умирает и неожиданно оставляет все имущество своей новой сиделке, девушка оказывается втянутой в сеть обмана и убийств. Если она хочет выжить, ей придется разобраться в мотивах каждого вокруг, включая тех, кого она любит.",
+        "slogan": "",
+        "premiere": "30 апреля 2020",
+        "age": "0",
+        "time": "5760",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDRjMmUzMTEtMWJiMC00MDUwLWExOGQtNDU2ZTU0Y2RmY2YzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "screenshot": "https://yq4u.bazonserver.site/video/23372/poster.jpg",
+        "rating": {
+          "rating_kp": "5.651",
+          "vote_num_kp": "2372",
+          "rating_imdb": "5.3",
+          "vote_num_imdb": "16548"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "870",
       "date": "1601799947",
       "camrip": "0",
@@ -31,9 +142,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/23369/poster.jpg",
         "rating": {
           "rating_kp": "7.553",
-          "vote_num_kp": "136553",
+          "vote_num_kp": "136613",
           "rating_imdb": "6.9",
-          "vote_num_imdb": "260391"
+          "vote_num_imdb": "260404"
         }
       }
     },
@@ -67,10 +178,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_406.jpg",
         "screenshot": "https://b75y.bazonserver.site/video/23364/poster.jpg",
         "rating": {
-          "rating_kp": "8.046",
-          "vote_num_kp": "196545",
+          "rating_kp": "8.047",
+          "vote_num_kp": "196597",
           "rating_imdb": "8.4",
-          "vote_num_imdb": "694889"
+          "vote_num_imdb": "694952"
         }
       }
     },
@@ -105,9 +216,9 @@
         "screenshot": "https://black.bazonserver.site/video/23367/poster.jpg",
         "rating": {
           "rating_kp": "7.641",
-          "vote_num_kp": "224142",
+          "vote_num_kp": "224178",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "795339"
+          "vote_num_imdb": "795610"
         }
       }
     },
@@ -142,9 +253,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/23371/poster.jpg",
         "rating": {
           "rating_kp": "7.236",
-          "vote_num_kp": "105410",
+          "vote_num_kp": "105456",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "223031"
+          "vote_num_imdb": "223064"
         }
       }
     },
@@ -364,7 +475,7 @@
         "screenshot": "https://brother.bazonserver.site/video/23378/poster.jpg",
         "rating": {
           "rating_kp": "5.053",
-          "vote_num_kp": "1048",
+          "vote_num_kp": "1052",
           "rating_imdb": "5.2",
           "vote_num_imdb": "4984"
         }
@@ -437,10 +548,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1219490.jpg",
         "screenshot": "https://banana.bazonserver.site/video/23366/poster.jpg",
         "rating": {
-          "rating_kp": "5.059",
-          "vote_num_kp": "1100",
+          "rating_kp": "5.055",
+          "vote_num_kp": "1104",
           "rating_imdb": "5.4",
-          "vote_num_imdb": "562"
+          "vote_num_imdb": "563"
         }
       }
     },
@@ -475,9 +586,9 @@
         "screenshot": "https://white.bazonserver.site/video/23309/poster.jpg",
         "rating": {
           "rating_kp": "7.377",
-          "vote_num_kp": "77345",
+          "vote_num_kp": "77353",
           "rating_imdb": "7.5",
-          "vote_num_imdb": "288415"
+          "vote_num_imdb": "288450"
         }
       }
     },
@@ -808,9 +919,9 @@
         "screenshot": "https://white.bazonserver.site/video/23357/poster.jpg",
         "rating": {
           "rating_kp": "5.445",
-          "vote_num_kp": "5494",
+          "vote_num_kp": "5500",
           "rating_imdb": "5.5",
-          "vote_num_imdb": "9410"
+          "vote_num_imdb": "9411"
         }
       }
     },
@@ -956,7 +1067,7 @@
         "screenshot": "https://white.bazonserver.site/video/23352/poster.jpg",
         "rating": {
           "rating_kp": "6.771",
-          "vote_num_kp": "3049",
+          "vote_num_kp": "3051",
           "rating_imdb": "6.5",
           "vote_num_imdb": "115"
         }
@@ -993,9 +1104,9 @@
         "screenshot": "https://white.bazonserver.site/video/23351/poster.jpg",
         "rating": {
           "rating_kp": "7.092",
-          "vote_num_kp": "159799",
+          "vote_num_kp": "159871",
           "rating_imdb": "6.7",
-          "vote_num_imdb": "93360"
+          "vote_num_imdb": "93372"
         }
       }
     },
@@ -1030,7 +1141,7 @@
         "screenshot": "https://white.bazonserver.site/video/23350/poster.jpg",
         "rating": {
           "rating_kp": "6.536",
-          "vote_num_kp": "1367",
+          "vote_num_kp": "1369",
           "rating_imdb": "5.7",
           "vote_num_imdb": "2203"
         }
@@ -1067,7 +1178,7 @@
         "screenshot": "https://white.bazonserver.site/video/23348/poster.jpg",
         "rating": {
           "rating_kp": "7.621",
-          "vote_num_kp": "7715",
+          "vote_num_kp": "7718",
           "rating_imdb": "7.8",
           "vote_num_imdb": "168011"
         }
@@ -1326,9 +1437,9 @@
         "screenshot": "https://banana.bazonserver.site/video/23312/poster.jpg",
         "rating": {
           "rating_kp": "8.063",
-          "vote_num_kp": "235973",
+          "vote_num_kp": "236055",
           "rating_imdb": "8.5",
-          "vote_num_imdb": "846635"
+          "vote_num_imdb": "846721"
         }
       }
     },
@@ -1455,7 +1566,7 @@
         "screenshot": "https://white.bazonserver.site/video/23339/poster.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "18",
+          "vote_num_kp": "19",
           "rating_imdb": "5.5",
           "vote_num_imdb": "767"
         }
@@ -1665,9 +1776,9 @@
         "screenshot": "https://pluton.bazonserver.site/video/2322/poster.jpg",
         "rating": {
           "rating_kp": "7.282",
-          "vote_num_kp": "100343",
+          "vote_num_kp": "100391",
           "rating_imdb": "7.7",
-          "vote_num_imdb": "240121"
+          "vote_num_imdb": "240160"
         }
       }
     },
@@ -1701,8 +1812,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1109009.jpg",
         "screenshot": "https://white.bazonserver.site/video/23321/poster.jpg",
         "rating": {
-          "rating_kp": "6.004",
-          "vote_num_kp": "3846",
+          "rating_kp": "6.009",
+          "vote_num_kp": "3861",
           "rating_imdb": "6.2",
           "vote_num_imdb": "4429"
         }
@@ -1776,9 +1887,9 @@
         "screenshot": "https://white.bazonserver.site/video/23305/poster.jpg",
         "rating": {
           "rating_kp": "6.003",
-          "vote_num_kp": "79740",
+          "vote_num_kp": "79766",
           "rating_imdb": "5.9",
-          "vote_num_imdb": "91147"
+          "vote_num_imdb": "91171"
         }
       }
     },
@@ -1887,9 +1998,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/23285/poster.jpg",
         "rating": {
           "rating_kp": "7.672",
-          "vote_num_kp": "133514",
+          "vote_num_kp": "133613",
           "rating_imdb": "7.6",
-          "vote_num_imdb": "308772"
+          "vote_num_imdb": "308817"
         }
       }
     },
@@ -1964,117 +2075,6 @@
           "vote_num_kp": "161",
           "rating_imdb": "6.6",
           "vote_num_imdb": "6246"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1254394",
-      "date": "1601682648",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "4K UHD",
-      "translation": "Одноголосый",
-      "max_qual": "2160",
-      "info": {
-        "rus": "Ветераны зарубежных войн",
-        "orig": "VFW",
-        "alter": "",
-        "year": "2019",
-        "country": "США",
-        "director": "Джо Бегос",
-        "genre": "ужасы,боевик",
-        "actors": "Мартин Коув,Стивен Лэнг,Дэвид Патрик Келли,Уильям Сэдлер,Сьерра Маккормик,Дора Мэдисон,Джордж Уэндт,Фред Уильямсон,Том Уильямсон,Трэвис Хаммер",
-        "description": "Группа ветеранов вступает в противостояние с местным барыгой и его отрядом панков-мутантов.",
-        "slogan": "",
-        "premiere": "21 сентября 2019",
-        "age": "0",
-        "time": "5520",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1254394.jpg",
-        "screenshot": "https://pluton.bazonserver.site/video/23306/poster.jpg",
-        "rating": {
-          "rating_kp": "5.672",
-          "vote_num_kp": "905",
-          "rating_imdb": "6.1",
-          "vote_num_imdb": "7978"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "81769",
-      "date": "1601681491",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "BDRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Спи со мной",
-        "orig": "Lie with Me",
-        "alter": "",
-        "year": "2005",
-        "country": "Канада",
-        "director": "Клемент Вирго",
-        "genre": "мелодрама,драма",
-        "actors": "Лорен Ли Смит, Эрик Бальфур, Полли Шеннон, Мэйко Нгуйен, Майкл Фаччоло, Кейт Линч, Рон Уайт, Кристин Леман, Дон Фрэнкс, Ричард Шеволье",
-        "description": "Лейла - свободная, сексуальная и ненасытная женщина. Множество мужчин не смогли утолить ее «голод». Но однажды судьба ее сводит с Дэвидом. Он художник, из-под его руки выходят прекрасные творения. Но в постели он агрессивен и, так же как и Лейла, ненасытен.\r\n\r\nКажется, что они созданы друг для друга. Однако каждый раз, как они встречаются, что-то происходит как на физическом, так и на эмоциональном уровне. Их отношения становятся все более запутанными, и одному лишь Богу известно к чему это все может привести.",
-        "slogan": "First came the passion, followed by the intense sex, and then came... LOVE!",
-        "premiere": "10 сентября 2005",
-        "age": "18",
-        "time": "5580",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_81769.jpg",
-        "screenshot": "https://white.bazonserver.site/video/23313/poster.jpg",
-        "rating": {
-          "rating_kp": "5.715",
-          "vote_num_kp": "8653",
-          "rating_imdb": "5.3",
-          "vote_num_imdb": "15187"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1169038",
-      "date": "1601679605",
-      "camrip": "1",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "TS",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Напугать Джули",
-        "orig": "Let's Scare Julie",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Джад Кремата",
-        "genre": "ужасы,триллер,детектив",
-        "actors": "Troy Leigh-Anne Johnson,Isabel May,Одесса Адлон,Брук Сорнсон,Джессика Сара Флаум,Dakota Baccelli,Вэлори Хаббард,Блейк Роббинс,Билл Таймони",
-        "description": "После смерти отца Эмма переезжает к двоюродной сестре Тейлор и становится мишенью пранка, устроенного ее подругами. Девочки решают продолжить розыгрыш и выбирают своей следующей жертвой затворницу Джули, живущую через дорогу. Однако обстановка резко накаляется, когда некоторые девочки не возвращаются из дома Джули.",
-        "slogan": "",
-        "premiere": "2 октября 2020",
-        "age": "0",
-        "time": "4980",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1169038.jpg",
-        "screenshot": "https://white.bazonserver.site/video/23334/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "54",
-          "rating_imdb": "3.1",
-          "vote_num_imdb": "693"
         }
       }
     }

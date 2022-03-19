@@ -2,6 +2,117 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "1197532",
+      "date": "1602365415",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Сэмхейн: Ужас в ночь на Хэллоуин",
+        "orig": "Samhain: A Halloween Horror Movie",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Joe Gray",
+        "genre": "ужасы",
+        "actors": "Michelle Morocco,Drew Schrum",
+        "description": "Камилла собирается порвать с парнем, уехать из городка юности и начать жизнь с чистого листа в Калифорнии. Однако, перед этим она решает подзаработать денег, присматривая за домом богатых стариков, пока они отдыхают в Европе. Дом расположен на отшибе рядом с лесополосой, но Камилла девушка не из пугливых и это её не смущает. Однако, такая смелость оборачивается боком, когда после полуночи рядом с домом начинают происходить странные события и Камилле приходится выбирать между страхом за свою жизнь и добросовестным исполнением работы.",
+        "slogan": "",
+        "premiere": "29 сентября 2018",
+        "age": "0",
+        "time": "4800",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTZmNzFiMjMtMWQxNC00OTlkLWE4NmItMWYxOWMyN2I0MDdkXkEyXkFqcGdeQXVyNzk3NTQ1MzM@.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23583/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "5",
+          "rating_imdb": "2.6",
+          "vote_num_imdb": "32"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1071638",
+      "date": "1602365411",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Чудовище",
+        "orig": "Monster",
+        "alter": "",
+        "year": "2018",
+        "country": "США",
+        "director": "Jake Kolton",
+        "genre": "короткометражка,драма",
+        "actors": "Маша Марен",
+        "description": "В центре сюжета - обыкновенная, казалось бы, пара Мэри и Ричарда. Однако у них есть сын - двухметровое обезображенное существо, которое редко покидает свою комнату. Впрочем, если присмотреться, можно понять, что настоящее чудовище в этой семье - вовсе не сын, а отец.",
+        "slogan": "",
+        "premiere": "7 ноября 2018",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1071638.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23582/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "0",
+          "rating_imdb": 0,
+          "vote_num_imdb": 0
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1033137",
+      "date": "1602363607",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "720",
+      "info": {
+        "rus": "Волки",
+        "orig": "Wolfe",
+        "alter": "",
+        "year": "2018",
+        "country": "Канада",
+        "director": "Francis Bordeleau",
+        "genre": "драма",
+        "actors": "Катрин Брюне,Людивин Рединг,Антуан Пилон,Леа Рой,Годефруа Дюбэ-Рединг,Мануэль Тадрос,Катрин де Леан,Джулианна Коте,Милен Маккэй,Марилуп Вульф",
+        "description": "Однажды ночью Анди, глава группы из четырех друзей, планирует совершить самоубийство перед всеми своими знакомыми. Через прерывистый монолог Анди раскрывает свои глубокие мысли о каждом человеке, которому она причинила вред, в результате чего подвергает сомнению связи, что были между друзьями.",
+        "slogan": "",
+        "premiere": "26 октября 2018",
+        "age": "0",
+        "time": "5700",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTEwYmI0ZmItNTNlNS00OWMwLTk1ZGUtZTA2NTM1YjJlYWFlXkEyXkFqcGdeQXVyNjY0MjExNTc@.jpg",
+        "screenshot": "https://white.bazonserver.site/video/23581/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "4",
+          "rating_imdb": "6.2",
+          "vote_num_imdb": "25"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1166972",
       "date": "1602352801",
       "camrip": "0",
@@ -142,7 +253,7 @@
         "screenshot": "https://brother.bazonserver.site/video/23570/poster.jpg",
         "rating": {
           "rating_kp": "7.144",
-          "vote_num_kp": "1173",
+          "vote_num_kp": "1174",
           "rating_imdb": "7.4",
           "vote_num_imdb": "560"
         }
@@ -312,7 +423,7 @@
         "screenshot": "https://white.bazonserver.site/video/23566/poster.jpg",
         "rating": {
           "rating_kp": "7.005",
-          "vote_num_kp": "806",
+          "vote_num_kp": "808",
           "rating_imdb": "4.2",
           "vote_num_imdb": "10"
         }
@@ -472,9 +583,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/23549/poster.jpg",
         "rating": {
           "rating_kp": "6.837",
-          "vote_num_kp": "98031",
+          "vote_num_kp": "98060",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "206787"
+          "vote_num_imdb": "206794"
         }
       }
     },
@@ -509,7 +620,7 @@
         "screenshot": "https://white.bazonserver.site/video/23555/poster.jpg",
         "rating": {
           "rating_kp": "4.432",
-          "vote_num_kp": "1168",
+          "vote_num_kp": "1169",
           "rating_imdb": 0,
           "vote_num_imdb": 0
         }
@@ -560,7 +671,7 @@
         "screenshot": "https://black.bazonserver.site/video/23546/poster.jpg",
         "rating": {
           "rating_kp": "8.889",
-          "vote_num_kp": "76308",
+          "vote_num_kp": "76339",
           "rating_imdb": "8.3",
           "vote_num_imdb": "324"
         }
@@ -596,8 +707,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1309718.jpg",
         "screenshot": "https://black.bazonserver.site/video/23526/poster.jpg",
         "rating": {
-          "rating_kp": "5.934",
-          "vote_num_kp": "5828",
+          "rating_kp": "5.936",
+          "vote_num_kp": "5836",
           "rating_imdb": "5.8",
           "vote_num_imdb": "36458"
         }
@@ -671,9 +782,9 @@
         "screenshot": "https://white.bazonserver.site/video/23516/poster.jpg",
         "rating": {
           "rating_kp": "5.123",
-          "vote_num_kp": "90885",
+          "vote_num_kp": "90895",
           "rating_imdb": "5.2",
-          "vote_num_imdb": "106795"
+          "vote_num_imdb": "106814"
         }
       }
     },
@@ -708,7 +819,7 @@
         "screenshot": "https://pluton.bazonserver.site/video/23515/poster.jpg",
         "rating": {
           "rating_kp": "6.337",
-          "vote_num_kp": "6667",
+          "vote_num_kp": "6668",
           "rating_imdb": "6.3",
           "vote_num_imdb": "4215"
         }
@@ -782,9 +893,9 @@
         "screenshot": "https://plotva.bazonserver.site/video/23512/poster.jpg",
         "rating": {
           "rating_kp": "8.331",
-          "vote_num_kp": "409385",
+          "vote_num_kp": "409494",
           "rating_imdb": "8.6",
-          "vote_num_imdb": "1373758"
+          "vote_num_imdb": "1373957"
         }
       }
     },
@@ -819,9 +930,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/23514/poster.jpg",
         "rating": {
           "rating_kp": "7.984",
-          "vote_num_kp": "303291",
+          "vote_num_kp": "303391",
           "rating_imdb": "8.3",
-          "vote_num_imdb": "814722"
+          "vote_num_imdb": "814828"
         }
       }
     },
@@ -929,10 +1040,10 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BZGVlZjkyMGItMWJiMC00MzFkLWIyYTMtZTU3Yjg3OTM3M2QwXkEyXkFqcGdeQXVyODQ2ODY5MQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
         "screenshot": "https://banana.bazonserver.site/video/23545/poster.jpg",
         "rating": {
-          "rating_kp": "5.883",
-          "vote_num_kp": "23265",
+          "rating_kp": "5.884",
+          "vote_num_kp": "23326",
           "rating_imdb": "5.1",
-          "vote_num_imdb": "4656"
+          "vote_num_imdb": "4659"
         }
       }
     },
@@ -1078,7 +1189,7 @@
         "screenshot": "https://banana.bazonserver.site/video/23540/poster.jpg",
         "rating": {
           "rating_kp": "6.107",
-          "vote_num_kp": "2500",
+          "vote_num_kp": "2508",
           "rating_imdb": "6.3",
           "vote_num_imdb": "3839"
         }
@@ -1781,9 +1892,9 @@
         "screenshot": "https://white.bazonserver.site/video/23525/poster.jpg",
         "rating": {
           "rating_kp": "5.953",
-          "vote_num_kp": "11899",
+          "vote_num_kp": "11942",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "17732"
+          "vote_num_imdb": "17741"
         }
       }
     },
@@ -1817,10 +1928,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1236644.jpg",
         "screenshot": "https://yq4u.bazonserver.site/video/23513/poster.jpg",
         "rating": {
-          "rating_kp": "7.176",
-          "vote_num_kp": "55091",
+          "rating_kp": "7.177",
+          "vote_num_kp": "55109",
           "rating_imdb": "7.1",
-          "vote_num_imdb": "59302"
+          "vote_num_imdb": "59348"
         }
       }
     },
@@ -1855,7 +1966,7 @@
         "screenshot": "https://white.bazonserver.site/video/23495/poster.jpg",
         "rating": {
           "rating_kp": "7.592",
-          "vote_num_kp": "7725",
+          "vote_num_kp": "7726",
           "rating_imdb": "7.3",
           "vote_num_imdb": "102686"
         }
@@ -1892,9 +2003,9 @@
         "screenshot": "https://t6hu.bazonserver.site/video/23510/poster.jpg",
         "rating": {
           "rating_kp": "6.52",
-          "vote_num_kp": "47236",
+          "vote_num_kp": "47252",
           "rating_imdb": "6.2",
-          "vote_num_imdb": "20898"
+          "vote_num_imdb": "20918"
         }
       }
     },
@@ -1929,7 +2040,7 @@
         "screenshot": "https://plotva.bazonserver.site/video/23511/poster.jpg",
         "rating": {
           "rating_kp": "5.278",
-          "vote_num_kp": "13844",
+          "vote_num_kp": "13863",
           "rating_imdb": "4.9",
           "vote_num_imdb": "7295"
         }
@@ -2006,117 +2117,6 @@
           "vote_num_kp": "229",
           "rating_imdb": "6.7",
           "vote_num_imdb": "2332"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1405935",
-      "date": "1602193506",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEBRip",
-      "translation": "Двухголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Американское убийство: Семья по соседству",
-        "orig": "American Murder: The Family Next Door",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "Дженни Попплуэлл",
-        "genre": "документальный,криминал",
-        "actors": "",
-        "description": "В фильме речь преимущественно пойдет о физической расправе мужчиной членов собственного семейства, каковыми станут его непосредственная супруга, находящая в положении и двумя маленькими дочерьми. Всё произошло на территории Американского Штата Колорадо в две тысячи восемнадцатом году.",
-        "slogan": "",
-        "premiere": "30 сентября 2020",
-        "age": "0",
-        "time": "4920",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1405935.jpg",
-        "screenshot": "https://white.bazonserver.site/video/23502/poster.jpg",
-        "rating": {
-          "rating_kp": "7.228",
-          "vote_num_kp": "1701",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "25761"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1322943",
-      "date": "1602184506",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Секреты команды чирлидеров",
-        "orig": "Cheer Squad Secrets",
-        "alter": "",
-        "year": "2020",
-        "country": "Канада",
-        "director": "Дэвид Ланглуа",
-        "genre": "триллер",
-        "actors": "Маргарет Энн Флоренс,Анита Браун,Керис Камерон,Мэтт Андерсон,Джесси Джеймс,Санни Чэнь,Аниса Харрис,Kaden Connors,В.Дж. Винтер,Дорон Белл",
-        "description": "Мать помогает дочери стать капитаном команды чирлидеров, но неожиданно узнаёт, что кто-то снабжает её ребёнка опасными стероидами. И этот человек готов на всё, чтобы скрыть свои действия. Даже на убийство.",
-        "slogan": "",
-        "premiere": "",
-        "age": "0",
-        "time": "5400",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYjIwNTA4MDYtOWVhMS00MjhkLThlNmItN2IxMjNmZDlhZDQwXkEyXkFqcGdeQXVyNzAwNTY5MzA@.jpg",
-        "screenshot": "https://white.bazonserver.site/video/23506/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "3",
-          "rating_imdb": "4.6",
-          "vote_num_imdb": "181"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1404020",
-      "date": "1602180909",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Трамп против Иллюминатов",
-        "orig": "Trump vs the Illuminati",
-        "alter": "",
-        "year": "2020",
-        "country": "США",
-        "director": "БиСи Фертни",
-        "genre": "мультфильм",
-        "actors": "",
-        "description": "Клон Дональда Трампа сбежал с обречённой Земли на последнем космическом корабле, направлявшемся на Марс. В это время человеческая раса продолжает вести неравный бой против армий Иллюминатов.",
-        "slogan": "",
-        "premiere": "6 октября 2020",
-        "age": "0",
-        "time": "4200",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOTlhZDE3YTctMmVlMC00MTY0LTlhNDEtNjMzZTUyNTg5MzY1XkEyXkFqcGdeQXVyMTEzMjQzMDM1.jpg",
-        "screenshot": "https://white.bazonserver.site/video/23500/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "32",
-          "rating_imdb": "2.3",
-          "vote_num_imdb": "409"
         }
       }
     }

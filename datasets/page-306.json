@@ -2,6 +2,117 @@
   "results": [
     {
       "link": "",
+      "kinopoisk_id": "54367",
+      "date": "1603886413",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "BDRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Месть простофиль",
+        "orig": "Le Cave se rebiffe",
+        "alter": "",
+        "year": "1961",
+        "country": "Франция,Италия",
+        "director": "Жиль Гранжье",
+        "genre": "комедия,криминал",
+        "actors": "Жан Габен,Мартина Кароль,Франсуаза Розе,Бернар Блие,Франк Виллар,Морис Биро,Антуан Бальпетре,Жинетт Леклерк,Жерар Бур,Робер Дальбан",
+        "description": "Компания эксцентричных и неудачливых аферистов задумывает сменить специализацию и провернуть новое для себя дельце: напечатать крупную партию фальшивых купюр. Прекрасно понимая, что вопрос сбыта готовой продукции новичкам не под силу, они решают взять в долю пожилого гангстера по кличке «Папаша», уже имевшего опыт в подобных делах.\r\n\r\nНесмотря на то, что тот давно ушел на покой и осел где-то в дебрях Африки, после недолгих уговоров он соглашается и вылетает в Париж. У одного из подельников есть любовница, а её муж - великолепный гравёр. Осталось только убедить его взяться за работу, а это совсем не просто, ведь он «фраер» (на блатном жаргоне - человек, не имеющий отношения к преступному миру).",
+        "slogan": "Союз-Видео",
+        "premiere": "26 августа 1961",
+        "age": "16",
+        "time": "5880",
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_54367.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24346/poster.jpg",
+        "rating": {
+          "rating_kp": "7.039",
+          "vote_num_kp": "261",
+          "rating_imdb": "7",
+          "vote_num_imdb": "1249"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "2327",
+      "date": "1603886413",
+      "camrip": "0",
+      "ads": "0",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Двухголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Серебряный волк",
+        "orig": "Silver Wolf",
+        "alter": "",
+        "year": "1999",
+        "country": "Канада, США",
+        "director": "Питер Сватек",
+        "genre": "приключения,семейный",
+        "actors": "Майкл Бин, Рой Шайдер, Шейн Майер, Кимберли Уорнат, Шон Джонстон, Джейд Полук, Линда Бойд, Дон Маккэй, Кристин Уиллз, Рон Сов",
+        "description": "Потеряв отца, 16 - летний Джесси переехал к своему дяде, смотрителю горного заповедника Рою Маклину. Здесь он может вволю заниматься своим любимым сноубордингом. А самым близким другом Джесси становится волк по кличке Серебряный, которого он нашел раненымв лесу и выходил с помощью дяди.\r\n\r\nНо когда местные жители узнают, что по соседству живет волк, Джеси и Серебряному приходится уйти далеко в горы. Однако и там он не чувствуют себя в безопасности. Старый охотник Джон Рокуэлл решил во что бы то ни стало убить волка, и Джесси - единственный, кто может спасти своего друга.",
+        "slogan": "A Wolf and a Snowboarder team up for the ride of theirs lives",
+        "premiere": "10 января 1999",
+        "age": "0",
+        "time": "5940",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTAxMTYzNjQ5MTNeQTJeQWpwZ15BbWU4MDE4Mjc5ODcx._V1_UY109_CR3,0,75,109_AL_.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24347/poster.jpg",
+        "rating": {
+          "rating_kp": "7.297",
+          "vote_num_kp": "1456",
+          "rating_imdb": "6.1",
+          "vote_num_imdb": "524"
+        }
+      }
+    },
+    {
+      "link": "",
+      "kinopoisk_id": "1194925",
+      "date": "1603881907",
+      "camrip": "0",
+      "ads": "1",
+      "block": "",
+      "serial": "0",
+      "trailer": "0",
+      "end": "0",
+      "quality": "WEB-DLRip",
+      "translation": "Многоголосый",
+      "max_qual": "1080",
+      "info": {
+        "rus": "Монстров не существует",
+        "orig": "No Such Thing As Monsters",
+        "alter": "",
+        "year": "2019",
+        "country": "Австралия",
+        "director": "Стюарт Стэнтон",
+        "genre": "ужасы",
+        "actors": "Энджел Джуффриа,Georgia Crisfield Smith,Мэттью Кларк,Дэвид МакРэй,Ребекка Фортуна,Michaela Celeste,Джейкоб Файф,Rochelle Pranadi",
+        "description": "Молодая пара решает отправиться на романтический уикенд на природу, но в австралийских лесах за ними устраивает охоту семья психопатов.",
+        "slogan": "",
+        "premiere": "13 октября 2019",
+        "age": "0",
+        "time": "5400",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODlkZTYwOWQtNTc1MS00ZjI1LWE2MGUtYzhkNTI4MGI4YzllXkEyXkFqcGdeQXVyMjYzNTY2NTI@.jpg",
+        "screenshot": "https://white.bazonserver.site/video/24336/poster.jpg",
+        "rating": {
+          "rating_kp": "0",
+          "vote_num_kp": "21",
+          "rating_imdb": "3.9",
+          "vote_num_imdb": "316"
+        }
+      }
+    },
+    {
+      "link": "",
       "kinopoisk_id": "1107105",
       "date": "1603881018",
       "camrip": "0",
@@ -105,7 +216,7 @@
         "screenshot": "https://white.bazonserver.site/video/24325/poster.jpg",
         "rating": {
           "rating_kp": "8.07",
-          "vote_num_kp": "57334",
+          "vote_num_kp": "57386",
           "rating_imdb": "7.9",
           "vote_num_imdb": "2343"
         }
@@ -142,7 +253,7 @@
         "screenshot": "https://white.bazonserver.site/video/24324/poster.jpg",
         "rating": {
           "rating_kp": "8.077",
-          "vote_num_kp": "18371",
+          "vote_num_kp": "18387",
           "rating_imdb": "7.8",
           "vote_num_imdb": "519"
         }
@@ -216,7 +327,7 @@
         "screenshot": "https://brother.bazonserver.site/video/24329/poster.jpg",
         "rating": {
           "rating_kp": "8.699",
-          "vote_num_kp": "75049",
+          "vote_num_kp": "75175",
           "rating_imdb": "8.2",
           "vote_num_imdb": "3032"
         }
@@ -363,8 +474,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_43725.jpg",
         "screenshot": "https://white.bazonserver.site/video/24322/poster.jpg",
         "rating": {
-          "rating_kp": "7.908",
-          "vote_num_kp": "20791",
+          "rating_kp": "7.909",
+          "vote_num_kp": "20864",
           "rating_imdb": "7.7",
           "vote_num_imdb": "1119"
         }
@@ -401,7 +512,7 @@
         "screenshot": "https://brother.bazonserver.site/video/24328/poster.jpg",
         "rating": {
           "rating_kp": "8.744",
-          "vote_num_kp": "91653",
+          "vote_num_kp": "91773",
           "rating_imdb": "8.2",
           "vote_num_imdb": "3328"
         }
@@ -438,7 +549,7 @@
         "screenshot": "https://brother.bazonserver.site/video/24327/poster.jpg",
         "rating": {
           "rating_kp": "8.768",
-          "vote_num_kp": "167036",
+          "vote_num_kp": "167288",
           "rating_imdb": "8.3",
           "vote_num_imdb": "4170"
         }
@@ -474,8 +585,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44985.jpg",
         "screenshot": "https://white.bazonserver.site/video/24321/poster.jpg",
         "rating": {
-          "rating_kp": "8.066",
-          "vote_num_kp": "42663",
+          "rating_kp": "8.067",
+          "vote_num_kp": "42702",
           "rating_imdb": "7.9",
           "vote_num_imdb": "2044"
         }
@@ -659,8 +770,8 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_437479.jpg",
         "screenshot": "https://brother.bazonserver.site/video/24310/poster.jpg",
         "rating": {
-          "rating_kp": "6.66",
-          "vote_num_kp": "12267",
+          "rating_kp": "6.661",
+          "vote_num_kp": "12295",
           "rating_imdb": "6.7",
           "vote_num_imdb": "26662"
         }
@@ -696,10 +807,10 @@
         "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1302575.jpg",
         "screenshot": "https://white.bazonserver.site/video/24307/poster.jpg",
         "rating": {
-          "rating_kp": "7.174",
-          "vote_num_kp": "56433",
+          "rating_kp": "7.175",
+          "vote_num_kp": "56483",
           "rating_imdb": "7.2",
-          "vote_num_imdb": "7387"
+          "vote_num_imdb": "7394"
         }
       }
     },
@@ -845,7 +956,7 @@
         "screenshot": "https://white.bazonserver.site/video/24302/poster.jpg",
         "rating": {
           "rating_kp": "4.695",
-          "vote_num_kp": "1107",
+          "vote_num_kp": "1109",
           "rating_imdb": "3.8",
           "vote_num_imdb": "872"
         }
@@ -882,7 +993,7 @@
         "screenshot": "https://white.bazonserver.site/video/24300/poster.jpg",
         "rating": {
           "rating_kp": "0",
-          "vote_num_kp": "53",
+          "vote_num_kp": "52",
           "rating_imdb": "6.2",
           "vote_num_imdb": "224"
         }
@@ -1120,9 +1231,9 @@
         "screenshot": "https://white.bazonserver.site/video/24268/poster.jpg",
         "rating": {
           "rating_kp": "7.602",
-          "vote_num_kp": "93448",
+          "vote_num_kp": "93471",
           "rating_imdb": "8.1",
-          "vote_num_imdb": "659470"
+          "vote_num_imdb": "659536"
         }
       }
     },
@@ -1157,9 +1268,9 @@
         "screenshot": "https://pluton.bazonserver.site/video/24266/poster.jpg",
         "rating": {
           "rating_kp": "6.193",
-          "vote_num_kp": "4407",
+          "vote_num_kp": "4414",
           "rating_imdb": "6.1",
-          "vote_num_imdb": "31114"
+          "vote_num_imdb": "31145"
         }
       }
     },
@@ -1476,7 +1587,7 @@
           "rating_kp": "0",
           "vote_num_kp": "262",
           "rating_imdb": "5.7",
-          "vote_num_imdb": "402"
+          "vote_num_imdb": "405"
         }
       }
     },
@@ -1511,9 +1622,9 @@
         "screenshot": "https://yq4u.bazonserver.site/video/24267/poster.jpg",
         "rating": {
           "rating_kp": "6.721",
-          "vote_num_kp": "56147",
+          "vote_num_kp": "56168",
           "rating_imdb": "7",
-          "vote_num_imdb": "118362"
+          "vote_num_imdb": "118399"
         }
       }
     },
@@ -1773,117 +1884,6 @@
           "vote_num_kp": "31",
           "rating_imdb": "7.1",
           "vote_num_imdb": "101"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "490215",
-      "date": "1603726264",
-      "camrip": "0",
-      "ads": "0",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "1080",
-      "info": {
-        "rus": "Шагреневая кожа",
-        "orig": "La peau de chagrin",
-        "alter": "",
-        "year": "2010",
-        "country": "Франция",
-        "director": "Ален Берлине",
-        "genre": "триллер,фэнтези,драма",
-        "actors": "Тома Куман, Аннабелль Эттманн, Жюльен Оноре, Милен Джампаной, Жан-Пьер Марьель, Эмерик Комеруа, Анри Курсо, Луи-До де Ланкесэ, Энн Крейс, Жан-Поль Дюбуа",
-        "description": "Рафаэль де Валентен молод, честолюбив и беден. Он мечтает разбогатеть и прославиться, опубликовав философское эссе о великих мыслителях. Однако издатель возвращает ему рукопись. Он влюбляется в светскую львицу Феодору - холодная и расчетливая красавица отвергает его. Проиграв в казино последние деньги, он в отчаянии решает покончить с собой.\r\n\r\nНо судьбе было угодно, чтобы в этот момент он стал обладателем шагреневой кожи, магического талисмана, который осуществляет любое желание человека, но взамен сокращает отведенное тому время на земле. Заключив роковую сделку, Рафаэль получает все и сразу: солидную должность, огромное наследство, толпы поклонников его писательского дара, любовь женщин, пиры, оргии, вакханалии...",
-        "slogan": "",
-        "premiere": "24 апреля 2010",
-        "age": "16",
-        "time": "5820",
-        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_490215.jpg",
-        "screenshot": "https://white.bazonserver.site/video/24273/poster.jpg",
-        "rating": {
-          "rating_kp": "7.04",
-          "vote_num_kp": "3325",
-          "rating_imdb": "6.7",
-          "vote_num_imdb": "522"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1395399",
-      "date": "1603726260",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Многоголосый",
-      "max_qual": "720",
-      "info": {
-        "rus": "В моей комнате",
-        "orig": "In My Room",
-        "alter": "",
-        "year": "2020",
-        "country": "Франция,Италия",
-        "director": "Мати Диоп",
-        "genre": "короткометражка,драма",
-        "actors": "",
-        "description": "Пожилая женщина находится взаперти. Квартира становится подмостками для её домашних перфомансов, а окна — порталами в чужую жизнь.",
-        "slogan": "",
-        "premiere": "6 сентября 2020",
-        "age": "0",
-        "time": "1200",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNGFjNWUyNGQtMmQ4OC00MWI1LTk1MmMtN2NmMzIzNjgxYjY3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg",
-        "screenshot": "https://white.bazonserver.site/video/24272/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "15",
-          "rating_imdb": "6.2",
-          "vote_num_imdb": "577"
-        }
-      }
-    },
-    {
-      "link": "",
-      "kinopoisk_id": "1438235",
-      "date": "1603726219",
-      "camrip": "0",
-      "ads": "1",
-      "block": "",
-      "serial": "0",
-      "trailer": "0",
-      "end": "0",
-      "quality": "WEB-DLRip",
-      "translation": "Оригинал",
-      "max_qual": "720",
-      "info": {
-        "rus": "Карты, деньги, два китайца 2: Мельбурнский взлом",
-        "orig": "Chinatown Cannon 2",
-        "alter": "",
-        "year": "2020",
-        "country": "Китай",
-        "director": "Kaylan Cheng",
-        "genre": "комедия",
-        "actors": "Kaiyang Qian,Ye Wang,Weiqiang Xu,Alexandra Octavia,Пол Доубер,Stanislaw Kowalski,Chu Yeung Yin Albert,Chen Xu,Zac,David Ngatupuna",
-        "description": "После того как Лю Сяо Мэй похищает группа киберпреступников под названием \"Черный домен\", высококвалифицированному программисту Лю Сяо Пао приходится, используя собственные наработки по сетевому хакингу, искать физическое местонахождение \"Черного домена\" и его лидера Энтони, которые не собираются отпускать похищенную, пока им не заплатят один миллион долларов!",
-        "slogan": "",
-        "premiere": "1 октября 2020",
-        "age": "0",
-        "time": "6060",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTFhYzhjNzctZmIyOS00YTQ4LWFlZjYtM2YxYWJiZmUyYmVjXkEyXkFqcGdeQXVyMTYwODgzMTc@.jpg",
-        "screenshot": "https://white.bazonserver.site/video/24271/poster.jpg",
-        "rating": {
-          "rating_kp": "0",
-          "vote_num_kp": "12",
-          "rating_imdb": "7.2",
-          "vote_num_imdb": "32"
         }
       }
     }
