@@ -7902,5 +7902,24 @@
       "world-art": 0,
       "none": 0
     }
+  },
+  {
+    "date": 1651363200,
+    "movies": {
+      "all": 28086,
+      "kinopoisk": 25404,
+      "imdb": 0,
+      "tmdb": 0,
+      "world-art": 0,
+      "none": 0
+    },
+    "tv": {
+      "all": 5864,
+      "kinopoisk": 4931,
+      "imdb": 0,
+      "tmdb": 0,
+      "world-art": 0,
+      "none": 0
+    }
   }
 ]
