@@ -1,9 +1,9 @@
-# :tv: Movies and TV `33,600` (bazon)
+# :tv: Movies and TV `33,550` (bazon)
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2022-05-12
-- Movies `27,831`
+### :date: 2022-05-13
+- Movies `27,781`
   - [x] <a href="https://API-Movies.github.io/bazon/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `25,676`
   - [ ] IMDb IDs `0`
   - [ ] TMDb IDs `0`
