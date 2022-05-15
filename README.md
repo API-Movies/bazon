@@ -2,7 +2,7 @@
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2022-05-13
+### :date: 2022-05-15
 - Movies `27,781`
   - [x] <a href="https://API-Movies.github.io/bazon/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `25,676`
   - [ ] IMDb IDs `0`
